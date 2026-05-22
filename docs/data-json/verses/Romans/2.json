@@ -1,0 +1,238 @@
+{
+  "book": "Romans",
+  "chapter": 2,
+  "verses": [
+    {
+      "number": 1,
+      "ko": "그러므로 남을 판단하는 사람아, 누구를 막론하고 네가 핑계하지 못할 것은 남을 판단하는 것으로 네가 너를 정죄함이니 판단하는 네가 같은 일을 행함이니라",
+      "en": "You, therefore, have no excuse, you who pass judgment on someone else, for at whatever point you judge the other, you are condemning yourself, because you who pass judgment do the same things.",
+      "de": "Darum, o Mensch, kannst du dich nicht entschuldigen, wer du auch bist, der da richtet. Denn worin du einen andern richtest, verdammst du dich selbst; sintemal du eben dasselbe tust, was du richtest.",
+      "zh": "你这论断人的，无论你是谁，也无可推诿。你在什么事上论断人，就在什么事上定自己的罪；因你这论断人的，自己所行却和别人一样。",
+      "ja": "ですから、すべて他人をさばく人よ。あなたに弁解の余地はありません。あなたは、他人をさばくことによって、自分自身を罪に定めています。さばくあなたが、それと同じことを行なっているからです。"
+    },
+    {
+      "number": 2,
+      "ko": "이런 일을 행하는 자에게 하나님의 심판이 진리대로 되는 줄 우리가 아노라",
+      "en": "Now we know that God's judgment against those who do such things is based on truth.",
+      "de": "Denn wir wissen, daß Gottes Urteil ist recht über die, so solches tun.",
+      "zh": "我们知道这样行的人，　神必照真理审判他。",
+      "ja": "私たちは、そのようなことを行なっている人々に下る神のさばきが正しいことを知っています。"
+    },
+    {
+      "number": 3,
+      "ko": "이런 일을 행하는 자를 판단하고도 같은 일을 행하는 사람아, 네가 하나님의 심판을 피할 줄로 생각하느냐",
+      "en": "So when you, a mere man, pass judgment on them and yet do the same things, do you think you will escape God's judgment?",
+      "de": "Denkst du aber, o Mensch, der du richtest die, die solches tun, und tust auch dasselbe, daß du dem Urteil Gottes entrinnen werdest?",
+      "zh": "你这人哪，你论断行这样事的人，自己所行的却和别人一样，你以为能逃脱　神的审判吗？",
+      "ja": "そのようなことをしている人々をさばきながら、自分で同じことをしている人よ。あなたは、自分は神のさばきを免れるのだとでも思っているのですか。"
+    },
+    {
+      "number": 4,
+      "ko": "혹 네가 하나님의 인자하심이 너를 인도하여 회개하게 하심을 알지 못하여 그의 인자하심과 용납하심과 길이 참으심이 풍성함을 멸시하느냐",
+      "en": "Or do you show contempt for the riches of his kindness, tolerance and patience, not realizing that God's kindness leads you toward repentance?",
+      "de": "Oder verachtest du den Reichtum seiner Güte, Geduld und Langmütigkeit? Weißt du nicht, daß dich Gottes Güte zur Buße leitet?",
+      "zh": "还是你藐视他丰富的恩慈、宽容、忍耐，不晓得他的恩慈是领你悔改呢？",
+      "ja": "それとも、神の慈愛があなたを悔い改めに導くことも知らないで、その豊かな慈愛と忍耐と寛容とを軽んじているのですか。"
+    },
+    {
+      "number": 5,
+      "ko": "다만 네 고집과 회개하지 아니한 마음을 따라 진노의 날 곧 하나님의 의로우신 심판이 나타나는 그 날에 임할 진노를 네게 쌓는도다",
+      "en": "But because of your stubbornness and your unrepentant heart, you are storing up wrath against yourself for the day of God's wrath, when his righteous judgment will be revealed.",
+      "de": "Du aber nach deinem verstockten und unbußfertigen Herzen häufest dir selbst den Zorn auf den Tag des Zornes und der Offenbarung des gerechten Gerichtes Gottes,",
+      "zh": "你竟任着你刚硬不悔改的心，为自己积蓄忿怒，以致　神震怒，显他公义审判的日子来到。",
+      "ja": "ところが、あなたは、かたくなさと悔い改めのない心のゆえに、御怒りの日、すなわち、神の正しいさばきの現われる日の御怒りを自分のために積み上げているのです。"
+    },
+    {
+      "number": 6,
+      "ko": "하나님께서 각 사람에게 그 행한 대로 보응하시되",
+      "en": "God \"will give to each person according to what he has done.\"",
+      "de": "welcher geben wird einem jeglichen nach seinen Werken:",
+      "zh": "他必照各人的行为报应各人。",
+      "ja": "神は、ひとりひとりに、その人の行ないに従って報いをお与えになります。"
+    },
+    {
+      "number": 7,
+      "ko": "참고 선을 행하여 영광과 존귀와 썩지 아니함을 구하는 자에게는 영생으로 하시고",
+      "en": "To those who by persistence in doing good seek glory, honor and immortality, he will give eternal life.",
+      "de": "Preis und Ehre und unvergängliches Wesen denen, die mit Geduld in guten Werken trachten nach dem ewigen Leben;",
+      "zh": "凡恒心行善、寻求荣耀、尊贵和不能朽坏之福的，就以永生报应他们；",
+      "ja": "忍耐をもって善を行ない、栄光と誉れと不滅のものとを求める者には、永遠のいのちを与え、"
+    },
+    {
+      "number": 8,
+      "ko": "오직 당을 지어 진리를 따르지 아니하고 불의를 따르는 자에게는 진노와 분노로 하시리라",
+      "en": "But for those who are self-seeking and who reject the truth and follow evil, there will be wrath and anger.",
+      "de": "aber denen, die da zänkisch sind und der Wahrheit nicht gehorchen, gehorchen aber der Ungerechtigkeit, Ungnade, und Zorn;",
+      "zh": "惟有结党、不顺从真理、反顺从不义的，就以忿怒、恼恨报应他们；",
+      "ja": "党派心を持ち、真理に従わないで不義に従う者には、怒りと憤りを下されるのです。"
+    },
+    {
+      "number": 9,
+      "ko": "악을 행하는 각 사람의 영에는 환난과 곤고가 있으리니 먼저는 유대인에게요 그리고 헬라인에게며",
+      "en": "There will be trouble and distress for every human being who does evil: first for the Jew, then for the Gentile;",
+      "de": "Trübsal und Angst über alle Seelen der Menschen, die da Böses tun, vornehmlich der Juden und auch der Griechen;",
+      "zh": "将患难、困苦加给一切作恶的人，先是犹太人，后是希腊人，",
+      "ja": "患難と苦悩とは、ユダヤ人をはじめギリシヤ人にも、悪を行なうすべての者の上に下り、"
+    },
+    {
+      "number": 10,
+      "ko": "선을 행하는 각 사람에게는 영광과 존귀와 평강이 있으리니 먼저는 유대인에게요 그리고 헬라인에게라",
+      "en": "but glory, honor and peace for everyone who does good: first for the Jew, then for the Gentile.",
+      "de": "Preis aber und Ehre und Friede allen denen, die da Gutes tun, vornehmlich den Juden und auch den Griechen.",
+      "zh": "却将荣耀、尊贵、平安加给一切行善的人，先是犹太人，后是希腊人。",
+      "ja": "栄光と誉れと平和は、ユダヤ人をはじめギリシヤ人にも、善を行なうすべての者の上にあります。"
+    },
+    {
+      "number": 11,
+      "ko": "이는 하나님께서 외모로 사람을 취하지 아니하심이라",
+      "en": "For God does not show favoritism.",
+      "de": "Denn es ist kein Ansehen der Person vor Gott.",
+      "zh": "因为　神不偏待人。",
+      "ja": "神にはえこひいきなどはないからです。"
+    },
+    {
+      "number": 12,
+      "ko": "무릇 율법 없이 범죄한 자는 또한 율법 없이 망하고 무릇 율법이 있고 범죄한 자는 율법으로 말미암아 심판을 받으리라",
+      "en": "All who sin apart from the law will also perish apart from the law, and all who sin under the law will be judged by the law.",
+      "de": "Welche ohne Gesetz gesündigt haben, die werden auch ohne Gesetz verloren werden; und welche unter dem Gesetz gesündigt haben, die werden durchs Gesetz verurteilt werden",
+      "zh": "凡没有律法犯了罪的，也必不按律法灭亡；凡在律法以下犯了罪的，也必按律法受审判。（",
+      "ja": "律法なしに罪を犯した者はすべて、律法なしに滅び、律法の下にあって罪を犯した者はすべて、律法によってさばかれます。"
+    },
+    {
+      "number": 13,
+      "ko": "하나님 앞에서는 율법을 듣는 자가 의인이 아니요 오직 율법을 행하는 자라야 의롭다 하심을 얻으리니",
+      "en": "For it is not those who hear the law who are righteous in God's sight, but it is those who obey the law who will be declared righteous.",
+      "de": "(sintemal vor Gott nicht, die das Gesetz hören, gerecht sind, sondern die das Gesetz tun, werden gerecht sein.",
+      "zh": "原来在　神面前，不是听律法的为义，乃是行律法的称义。",
+      "ja": "それは、律法を聞く者が神の前に正しいのではなく、律法を行なう者が正しいと認められるからです。"
+    },
+    {
+      "number": 14,
+      "ko": "(율법 없는 이방인이 본성으로 율법의 일을 행할 때에는 이 사람은 율법이 없어도 자기가 자기에게 율법이 되나니",
+      "en": "(Indeed, when Gentiles, who do not have the law, do by nature things required by the law, they are a law for themselves, even though they do not have the law,",
+      "de": "Denn so die Heiden, die das Gesetz nicht haben, doch von Natur tun des Gesetzes Werk, sind dieselben, dieweil sie das Gesetz nicht haben, sich selbst ein Gesetz,",
+      "zh": "没有律法的外邦人若顺着本性行律法上的事，他们虽然没有律法，自己就是自己的律法。",
+      "ja": "――律法を持たない異邦人が、生まれつきのままで律法の命じる行ないをするばあいは、律法を持たなくても、自分自身が自分に対する律法なのです。"
+    },
+    {
+      "number": 15,
+      "ko": "이런 이들은 그 양심이 증거가 되어 그 생각들이 서로 혹은 고발하며 혹은 변명하여 그 마음에 새긴 율법의 행위를 나타내느니라)",
+      "en": "since they show that the requirements of the law are written on their hearts, their consciences also bearing witness, and their thoughts now accusing, now even defending them.)",
+      "de": "als die da beweisen, des Gesetzes Werk sei geschrieben in ihren Herzen, sintemal ihr Gewissen ihnen zeugt, dazu auch die Gedanken, die sich untereinander verklagen oder entschuldigen),",
+      "zh": "这是显出律法的功用刻在他们心里，他们是非之心同作见证，并且他们的思念互相较量，或以为是，或以为非。）",
+      "ja": "彼らはこのようにして、律法の命じる行ないが彼らの心に書かれていることを示しています。彼らの良心もいっしょになってあかしし、また、彼らの思いは互いに責め合ったり、また、弁明し合ったりしています。――"
+    },
+    {
+      "number": 16,
+      "ko": "곧 나의 복음에 이른 바와 같이 하나님이 예수 그리스도로 말미암아 사람들의 은밀한 것을 심판하시는 그 날이라",
+      "en": "This will take place on the day when God will judge men's secrets through Jesus Christ, as my gospel declares.",
+      "de": "auf den Tag, da Gott das Verborgene der Menschen durch Jesus Christus richten wird laut meines Evangeliums.",
+      "zh": "就在　神借耶稣基督审判人隐秘事的日子，照着我的福音所言。",
+      "ja": "私の福音によれば、神のさばきは、神がキリスト・イエスによって人々の隠れたことをさばかれる日に、行なわれるのです。"
+    },
+    {
+      "number": 17,
+      "ko": "유대인이라 불리는 네가 율법을 의지하며 하나님을 자랑하며",
+      "en": "Now you, if you call yourself a Jew; if you rely on the law and brag about your relationship to God;",
+      "de": "Siehe aber zu: du heißest ein Jude und verlässest dich aufs Gesetz und rühmest dich Gottes",
+      "zh": "你称为犹太人，又倚靠律法，且指着　神夸口；",
+      "ja": "もし、あなたが自分をユダヤ人ととなえ、律法を持つことに安んじ、神を誇り、"
+    },
+    {
+      "number": 18,
+      "ko": "율법의 교훈을 받아 하나님의 뜻을 알고 지극히 선한 것을 분간하며",
+      "en": "if you know his will and approve of what is superior because you are instructed by the law;",
+      "de": "und weißt seinen Willen; und weil du aus dem Gesetz unterrichtet bist, prüfest du, was das Beste zu tun sei,",
+      "zh": "既从律法中受了教训，就晓得　神的旨意，也能分别是非；",
+      "ja": "みこころを知り、なすべきことが何であるかを律法に教えられてわきまえ、"
+    },
+    {
+      "number": 19,
+      "ko": "맹인의 길을 인도하는 자요 어둠에 있는 자의 빛이요",
+      "en": "if you are convinced that you are a guide for the blind, a light for those who are in the dark,",
+      "de": "und vermissest dich, zu sein ein Leiter der Blinden, ein Licht derer, die in Finsternis sind,",
+      "zh": "又深信自己是给瞎子领路的，是黑暗中人的光，",
+      "ja": "また、知識と真理の具体的な形として律法を持っているため、盲人の案内人、やみの中にいる者の光、愚かな者の導き手、幼子の教師だと自任しているのなら、"
+    },
+    {
+      "number": 20,
+      "ko": "율법에 있는 지식과 진리의 모본을 가진 자로서 어리석은 자의 교사요 어린 아이의 선생이라고 스스로 믿으니",
+      "en": "an instructor of the foolish, a teacher of infants, because you have in the law the embodiment of knowledge and truth--",
+      "de": "ein Züchtiger der Törichten, ein Lehrer der Einfältigen, hast die Form, was zu wissen und recht ist, im Gesetz.",
+      "zh": "是蠢笨人的师傅，是小孩子的先生，在律法上有知识和真理的模范。",
+      "ja": "どうして、人を教えながら、自分自身を教えないのですか。盗むなと説きながら、自分は盗むのですか。"
+    },
+    {
+      "number": 21,
+      "ko": "그러면 다른 사람을 가르치는 네가 네 자신은 가르치지 아니하느냐 도둑질하지 말라 선포하는 네가 도둑질하느냐",
+      "en": "you, then, who teach others, do you not teach yourself? You who preach against stealing, do you steal?",
+      "de": "Nun lehrst du andere, und lehrst dich selber nicht; du predigst, man solle nicht stehlen, und du stiehlst;",
+      "zh": "你既是教导别人，还不教导自己吗？你讲说人不可偷窃，自己还偷窃吗？",
+      "ja": "姦淫するなと言いながら、自分は姦淫するのですか。偶像を忌みきらいながら、自分は神殿の物をかすめるのですか。"
+    },
+    {
+      "number": 22,
+      "ko": "간음하지 말라 말하는 네가 간음하느냐 우상을 가증히 여기는 네가 신전 물건을 도둑질하느냐",
+      "en": "You who say that people should not commit adultery, do you commit adultery? You who abhor idols, do you rob temples?",
+      "de": "du sprichst man solle nicht ehebrechen, und du brichst die Ehe; dir greuelt vor den Götzen, und du raubest Gott, was sein ist;",
+      "zh": "你说人不可奸淫，自己还奸淫吗？你厌恶偶像，自己还偷窃庙中之物吗？",
+      "ja": "律法を誇りとしているあなたが、どうして律法に違反して、神を侮るのですか。"
+    },
+    {
+      "number": 23,
+      "ko": "율법을 자랑하는 네가 율법을 범함으로 하나님을 욕되게 하느냐",
+      "en": "You who brag about the law, do you dishonor God by breaking the law?",
+      "de": "du rühmst dich des Gesetzes, und schändest Gott durch Übertretung des Gesetzes;",
+      "zh": "你指着律法夸口，自己倒犯律法、玷辱　神吗？",
+      "ja": "これは、「神の名は、あなたがたのゆえに、異邦人の中でけがされている。」と書いてあるとおりです。"
+    },
+    {
+      "number": 24,
+      "ko": "기록된 바와 같이 하나님의 이름이 너희 때문에 이방인 중에서 모독을 받는도다",
+      "en": "As it is written: \"God's name is blasphemed among the Gentiles because of you.\"",
+      "de": "denn “eurethalben wird Gottes Name gelästert unter den Heiden”, wie geschrieben steht.",
+      "zh": "神的名在外邦人中，因你们受了亵渎，正如经上所记的。",
+      "ja": "もし律法を守るなら、割礼には価値があります。しかし、もしあなたが律法にそむいているなら、あなたの割礼は、無割礼になったのです。"
+    },
+    {
+      "number": 25,
+      "ko": "네가 율법을 행하면 할례가 유익하나 만일 율법을 범하면 네 할례는 무할례가 되느니라",
+      "en": "Circumcision has value if you observe the law, but if you break the law, you have become as though you had not been circumcised.",
+      "de": "Die Beschneidung ist wohl nütz, wenn du das Gesetz hältst; hältst du das Gesetz aber nicht, so bist du aus einem Beschnittenen schon ein Unbeschnittener geworden.",
+      "zh": "你若是行律法的，割礼固然于你有益；若是犯律法的，你的割礼就算不得割礼。",
+      "ja": "もし割礼を受けていない人が律法の規定を守るなら、割礼を受けていなくても、割礼を受けている者とみなされないでしょうか。"
+    },
+    {
+      "number": 26,
+      "ko": "그런즉 무할례자가 율법의 규례를 지키면 그 무할례를 할례와 같이 여길 것이 아니냐",
+      "en": "If those who are not circumcised keep the law's requirements, will they not be regarded as though they were circumcised?",
+      "de": "So nun der Unbeschnittene das Gesetz hält, meinst du nicht, daß da der Unbeschnittene werde für einen Beschnittenen gerechnet?",
+      "zh": "所以那未受割礼的，若遵守律法的条例，他虽然未受割礼，岂不算是有割礼吗？",
+      "ja": "また、からだに割礼を受けていないで律法を守る者が、律法の文字と割礼がありながら律法にそむいているあなたを、さばくことにならないでしょうか。"
+    },
+    {
+      "number": 27,
+      "ko": "또한 본래 무할례자가 율법을 온전히 지키면 율법 조문과 할례를 가지고 율법을 범하는 너를 정죄하지 아니하겠느냐",
+      "en": "The one who is not circumcised physically and yet obeys the law will condemn you who, even though you have the written code and circumcision, are a lawbreaker.",
+      "de": "Und wird also, der von Natur unbeschnitten ist und das Gesetz vollbringt, dich richten, der du unter dem Buchstaben und der Beschneidung bist und das Gesetz übertrittst.",
+      "zh": "而且那本来未受割礼的，若能全守律法，岂不是要审判你这有仪文和割礼竟犯律法的人吗？",
+      "ja": "外見上のユダヤ人がユダヤ人なのではなく、外見上のからだの割礼が割礼なのではありません。"
+    },
+    {
+      "number": 28,
+      "ko": "무릇 표면적 유대인이 유대인이 아니요 표면적 육신의 할례가 할례가 아니니라",
+      "en": "A man is not a Jew if he is only one outwardly, nor is circumcision merely outward and physical.",
+      "de": "Denn das ist nicht ein Jude, der auswendig ein Jude ist, auch ist das nicht eine Beschneidung, die auswendig am Fleisch geschieht;",
+      "zh": "因为外面作犹太人的，不是真犹太人；外面肉身的割礼，也不是真割礼。",
+      "ja": "かえって人目に隠れたユダヤ人がユダヤ人であり、文字ではなく、御霊による、心の割礼こそ割礼です。その誉れは、人からではなく、神から来るものです。"
+    },
+    {
+      "number": 29,
+      "ko": "오직 이면적 유대인이 유대인이며 할례는 마음에 할지니 영에 있고 율법 조문에 있지 아니한 것이라 그 칭찬이 사람에게서가 아니요 다만 하나님에게서니라",
+      "en": "No, a man is a Jew if he is one inwardly; and circumcision is circumcision of the heart, by the Spirit, not by the written code. Such a man's praise is not from men, but from God.",
+      "de": "sondern das ist ein Jude, der's inwendig verborgen ist, und die Beschneidung des Herzens ist eine Beschneidung, die im Geist und nicht im Buchstaben geschieht. Eines solchen Lob ist nicht aus Menschen, sondern aus Gott.",
+      "zh": "惟有里面作的，才是真犹太人；真割礼也是心里的，在乎灵，不在乎仪文。这人的称赞不是从人来的，乃是从　神来的。",
+      "ja": ""
+    }
+  ]
+}

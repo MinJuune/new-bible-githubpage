@@ -1,0 +1,222 @@
+{
+  "book": "Proverbs",
+  "chapter": 27,
+  "verses": [
+    {
+      "number": 1,
+      "ko": "너는 내일 일을 자랑하지 말라 하루 동안에 무슨 일이 일어날는지 네가 알 수 없음이니라",
+      "en": "Do not boast about tomorrow, for you do not know what a day may bring forth.",
+      "de": "Rühme dich nicht des morgenden Tages; denn du weißt nicht, was heute sich begeben mag.",
+      "zh": "不要为明日自夸， 因为一日要生何事，你尚且不能知道。",
+      "ja": "なんぢ明日のことを誇るなかれ そは一日の生ずるところの如何なるを知ざればなり"
+    },
+    {
+      "number": 2,
+      "ko": "타인이 너를 칭찬하게 하고 네 입으로는 하지 말며 외인이 너를 칭찬하게 하고 네 입술로는 하지 말지니라",
+      "en": "Let another praise you, and not your own mouth; someone else, and not your own lips.",
+      "de": "Laß dich einen andern loben, und nicht deinen Mund, einen Fremden, und nicht deine eigenen Lippen.",
+      "zh": "要别人夸奖你，不可用口自夸； 等外人称赞你，不可用嘴自称。",
+      "ja": "汝おのれの口をもて自ら讃むることなく人をして己を讃めしめよ 自己の口唇をもてせず 他人をして己をほめしめよ"
+    },
+    {
+      "number": 3,
+      "ko": "돌은 무겁고 모래도 가볍지 아니하거니와 미련한 자의 분노는 이 둘보다 무거우니라",
+      "en": "Stone is heavy and sand a burden, but provocation by a fool is heavier than both.",
+      "de": "Stein ist schwer und Sand ist Last; aber des Narren Zorn ist schwerer denn die beiden.",
+      "zh": "石头重，沙土沉， 愚妄人的恼怒比这两样更重。",
+      "ja": "石は重く沙は軽からず 然ど愚なる者の怒はこの二よりも重し"
+    },
+    {
+      "number": 4,
+      "ko": "분은 잔인하고 노는 창수 같거니와 투기 앞에야 누가 서리요",
+      "en": "Anger is cruel and fury overwhelming, but who can stand before jealousy?",
+      "de": "Zorn ist ein wütig Ding, und Grimm ist ungestüm; aber wer kann vor dem Neid bestehen?",
+      "zh": "忿怒为残忍，怒气为狂澜， 惟有嫉妒，谁能敌得住呢？",
+      "ja": "忿怒は猛く憤恨は烈し されど嫉妬の前には誰か立ことをを得ん"
+    },
+    {
+      "number": 5,
+      "ko": "면책은 숨은 사랑보다 나으니라",
+      "en": "Better is open rebuke than hidden love.",
+      "de": "Offene Strafe ist besser denn heimliche Liebe.",
+      "zh": "当面的责备强如背地的爱情。",
+      "ja": "明白に譴むるに秘に愛するに愈る"
+    },
+    {
+      "number": 6,
+      "ko": "친구의 아픈 책망은 충직으로 말미암는 것이나 원수의 잦은 입맞춤은 거짓에서 난 것이니라",
+      "en": "Wounds from a friend can be trusted, but an enemy multiplies kisses.",
+      "de": "Die Schläge des Liebhabers meinen's recht gut; aber die Küsse des Hassers sind gar zu reichlich.",
+      "zh": "朋友加的伤痕出于忠诚； 仇敌连连亲嘴却是多余。",
+      "ja": "愛する者の傷つくるは眞實よりし 敵の接吻するは偽詐よりするなり"
+    },
+    {
+      "number": 7,
+      "ko": "배부른 자는 꿀이라도 싫어하고 주린 자에게는 쓴 것이라도 다니라",
+      "en": "He who is full loathes honey, but to the hungry even what is bitter tastes sweet.",
+      "de": "Eine satte Seele zertritt wohl Honigseim; aber einer hungrigen Seele ist alles Bittere süß.",
+      "zh": "人吃饱了，厌恶蜂房的蜜； 人饥饿了，一切苦物都觉甘甜。",
+      "ja": "飽るものは蜂の蜜をも踐つく されど饑たる者には苦き物さへもすべて甘し"
+    },
+    {
+      "number": 8,
+      "ko": "고향을 떠나 유리하는 사람은 보금자리를 떠나 떠도는 새와 같으니라",
+      "en": "Like a bird that strays from its nest is a man who strays from his home.",
+      "de": "Wie ein Vogel, der aus seinem Nest weicht, also ist, wer von seiner Stätte weicht.",
+      "zh": "人离本处飘流， 好像雀鸟离窝游飞。",
+      "ja": "その家を離れてさまよふ人は その巣を離れてさまよふ鳥のごとし"
+    },
+    {
+      "number": 9,
+      "ko": "기름과 향이 사람의 마음을 즐겁게 하나니 친구의 충성된 권고가 이와 같이 아름다우니라",
+      "en": "Perfume and incense bring joy to the heart, and the pleasantness of one's friend springs from his earnest counsel.",
+      "de": "Das Herz erfreut sich an Salbe und Räuchwerk; aber ein Freund ist lieblich um Rats willen der Seele.",
+      "zh": "膏油与香料使人心喜悦； 朋友诚实的劝教也是如此甘美。",
+      "ja": "膏と香とは人の心をよろこばすなり 心よりして勸言を與ふる友の美しきもまた斯のごとし"
+    },
+    {
+      "number": 10,
+      "ko": "네 친구와 네 아비의 친구를 버리지 말며 네 환난 날에 형제의 집에 들어가지 말지어다 가까운 이웃이 먼 형제보다 나으니라",
+      "en": "Do not forsake your friend and the friend of your father, and do not go to your brother's house when disaster strikes you--better a neighbor nearby than a brother far away.",
+      "de": "Deinen Freund und deines Vaters Freund verlaß nicht, und gehe nicht ins Haus deines Bruders, wenn dir's übel geht; denn dein Nachbar in der Nähe ist besser als dein Bruder in der Ferne.",
+      "zh": "你的朋友和父亲的朋友， 你都不可离弃。 你遭难的日子，不要上弟兄的家去； 相近的邻舍强如远方的弟兄。",
+      "ja": "なんぢの友と汝の父の友とを棄るなかれ なんぢ患難にあふ日に兄弟の家にいることなかれ 親しき隣は疏き兄弟に愈れり"
+    },
+    {
+      "number": 11,
+      "ko": "내 아들아 지혜를 얻고 내 마음을 기쁘게 하라 그리하면 나를 비방하는 자에게 내가 대답할 수 있으리라",
+      "en": "Be wise, my son, and bring joy to my heart; then I can answer anyone who treats me with contempt.",
+      "de": "Sei weise, mein Sohn, so freut sich mein Herz, so will ich antworten dem, der mich schmäht.",
+      "zh": "我儿，你要作智慧人，好叫我的心欢喜， 使我可以回答那讥诮我的人。",
+      "ja": "わが子よ智慧を得てわが心を悦ばせよ 然ば我をそしる者に我こたふることを得ん"
+    },
+    {
+      "number": 12,
+      "ko": "슬기로운 자는 재앙을 보면 숨어 피하여도 어리석은 자들은 나가다가 해를 받느니라",
+      "en": "The prudent see danger and take refuge, but the simple keep going and suffer for it.",
+      "de": "Ein Kluger sieht das Unglück und verbirgt sich; aber die Unverständigen gehen hindurch und leiden Schaden.",
+      "zh": "通达人见祸藏躲； 愚蒙人前往受害。",
+      "ja": "賢者は禍害を見てみづから避け 拙者はすすみて罰をうく"
+    },
+    {
+      "number": 13,
+      "ko": "타인을 위하여 보증 선 자의 옷을 취하라 외인들을 위하여 보증 선 자는 그의 몸을 볼모 잡을지니라",
+      "en": "Take the garment of one who puts up security for a stranger; hold it in pledge if he does it for a wayward woman.",
+      "de": "Nimm dem sein Kleid, der für einen andern Bürge wird, und pfände ihn um der Fremden willen.",
+      "zh": "谁为生人作保，就拿谁的衣服； 谁为外女作保，谁就承当。",
+      "ja": "人の保證をなす者よりは先その衣をとれ 他人の保證をなす者をば固くとらへよ"
+    },
+    {
+      "number": 14,
+      "ko": "이른 아침에 큰 소리로 자기 이웃을 축복하면 도리어 저주 같이 여기게 되리라",
+      "en": "If a man loudly blesses his neighbor early in the morning, it will be taken as a curse.",
+      "de": "Wenn einer seinen Nächsten des Morgens früh mit lauter Stimme segnet, das wird ihm für einen Fluch gerechnet.",
+      "zh": "清晨起来，大声给朋友祝福的， 就算是咒诅他。",
+      "ja": "晨はやく起て大聲にその鄰を祝すれば却て呪詛と見なされん"
+    },
+    {
+      "number": 15,
+      "ko": "다투는 여자는 비 오는 날에 이어 떨어지는 물방울이라",
+      "en": "A quarrelsome wife is like a constant dripping on a rainy day;",
+      "de": "Ein zänkisches Weib und stetiges Triefen, wenn's sehr regnet, werden wohl miteinander verglichen.",
+      "zh": "大雨之日连连滴漏， 和争吵的妇人一样；",
+      "ja": "相爭ふ婦は雨ふる日に絶ずある雨漏のごとし"
+    },
+    {
+      "number": 16,
+      "ko": "그를 제어하기가 바람을 제어하는 것 같고 오른손으로 기름을 움키는 것 같으니라",
+      "en": "restraining her is like restraining the wind or grasping oil with the hand.",
+      "de": "Wer sie aufhält, der hält den Wind und will das Öl mit der Hand fassen.",
+      "zh": "想拦阻她的，便是拦阻风， 也是右手抓油。",
+      "ja": "これを制ふるものは風をおさふるがごとく 右の手に膏をつかむがごとし"
+    },
+    {
+      "number": 17,
+      "ko": "철이 철을 날카롭게 하는 것 같이 사람이 그의 친구의 얼굴을 빛나게 하느니라",
+      "en": "As iron sharpens iron, so one man sharpens another.",
+      "de": "Ein Messer wetzt das andere und ein Mann den andern.",
+      "zh": "铁磨铁，磨出刃来； 朋友相感也是如此。",
+      "ja": "鐵は鐵をとぐ 斯のごとくその友の面を研なり"
+    },
+    {
+      "number": 18,
+      "ko": "무화과나무를 지키는 자는 그 과실을 먹고 자기 주인에게 시중드는 자는 영화를 얻느니라",
+      "en": "He who tends a fig tree will eat its fruit, and he who looks after his master will be honored.",
+      "de": "Wer seinen Feigenbaum bewahrt, der ißt Früchte davon; und wer seinen Herrn bewahrt, wird geehrt.",
+      "zh": "看守无花果树的，必吃树上的果子； 敬奉主人的，必得尊荣。",
+      "ja": "無花果の樹をまもる者はその果をくらふ 主を貴ぶものは譽を得"
+    },
+    {
+      "number": 19,
+      "ko": "물에 비치면 얼굴이 서로 같은 것 같이 사람의 마음도 서로 비치느니라",
+      "en": "As water reflects a face, so a man's heart reflects the man.",
+      "de": "Wie das Spiegelbild im Wasser ist gegenüber dem Angesicht, also ist eines Menschen Herz gegenüber dem andern.",
+      "zh": "水中照脸，彼此相符； 人与人，心也相对。",
+      "ja": "水に照せば面と面と相肖るがごとく 人の心は人の心に似たり"
+    },
+    {
+      "number": 20,
+      "ko": "스올과 아바돈은 만족함이 없고 사람의 눈도 만족함이 없느니라",
+      "en": "Death and Destruction are never satisfied, and neither are the eyes of man.",
+      "de": "Hölle und Abgrund werden nimmer voll, und der Menschen Augen sind auch unersättlich.",
+      "zh": "阴间和灭亡永不满足； 人的眼目也是如此。",
+      "ja": "陰府と沈淪とは飽ことなく 人の目もまた飽ことなし"
+    },
+    {
+      "number": 21,
+      "ko": "도가니로 은을, 풀무로 금을, 칭찬으로 사람을 단련하느니라",
+      "en": "The crucible for silver and the furnace for gold, but man is tested by the praise he receives.",
+      "de": "Ein Mann wird durch den Mund des, der ihn lobt, bewährt wie Silber im Tiegel und das Gold im Ofen.",
+      "zh": "鼎为炼银，炉为炼金， 人的称赞也试炼人。",
+      "ja": "坩堝によりて銀をためし鑢によりて金をためし その讃らるる所によりて人をためす"
+    },
+    {
+      "number": 22,
+      "ko": "미련한 자를 곡물과 함께 절구에 넣고 공이로 찧을지라도 그의 미련은 벗겨지지 아니하느니라",
+      "en": "Though you grind a fool in a mortar, grinding him like grain with a pestle, you will not remove his folly from him.",
+      "de": "Wenn du den Narren im Mörser zerstießest mit dem Stämpel wie Grütze, so ließe doch seine Narrheit nicht von ihm.",
+      "zh": "你虽用杵将愚妄人与打碎的麦子一同捣在臼中， 他的愚妄还是离不了他。",
+      "ja": "なんぢ愚なる者を臼にいれ杵をもて麥と偕にこれを搗ともその愚は去らざるなり"
+    },
+    {
+      "number": 23,
+      "ko": "네 양 떼의 형편을 부지런히 살피며 네 소 떼에게 마음을 두라",
+      "en": "Be sure you know the condition of your flocks, give careful attention to your herds;",
+      "de": "Auf deine Schafe habe acht und nimm dich deiner Herden an.",
+      "zh": "你要详细知道你羊群的景况， 留心料理你的牛群；",
+      "ja": "なんぢの羊の情况をよく知り なんぢの群に心を留めよ"
+    },
+    {
+      "number": 24,
+      "ko": "대저 재물은 영원히 있지 못하나니 면류관이 어찌 대대에 있으랴",
+      "en": "for riches do not endure forever, and a crown is not secure for all generations.",
+      "de": "Denn Gut währt nicht ewiglich, und die Krone währt nicht für und für.",
+      "zh": "因为资财不能永有， 冠冕岂能存到万代？",
+      "ja": "富は永く保つものにあらず いかで位は世々にたもたん"
+    },
+    {
+      "number": 25,
+      "ko": "풀을 벤 후에는 새로 움이 돋나니 산에서 꼴을 거둘 것이니라",
+      "en": "When the hay is removed and new growth appears and the grass from the hills is gathered in,",
+      "de": "Das Heu ist weggeführt, und wiederum ist Gras da und wird Kraut auf den Bergen gesammelt.",
+      "zh": "干草割去，嫩草发现， 山上的菜蔬也被收敛。",
+      "ja": "艸枯れ苗いで山の蔬菜あつめらる"
+    },
+    {
+      "number": 26,
+      "ko": "어린 양의 털은 네 옷이 되며 염소는 밭을 사는 값이 되며",
+      "en": "the lambs will provide you with clothing, and the goats with the price of a field.",
+      "de": "Die Lämmer kleiden dich und die Böcke geben dir das Geld, einen Acker zu kaufen.",
+      "zh": "羊羔之毛是为你作衣服； 山羊是为作田地的价值，",
+      "ja": "羔羊はなんぢの衣服を出し 牝羊は田圃を買ふ價となり"
+    },
+    {
+      "number": 27,
+      "ko": "염소의 젖은 넉넉하여 너와 네 집의 음식이 되며 네 여종의 먹을 것이 되느니라",
+      "en": "You will have plenty of goats' milk to feed you and your family and to nourish your servant girls.",
+      "de": "Du hast Ziegenmilch genug zu deiner Speise, zur Speise deines Hauses und zur Nahrung deiner Dirnen.",
+      "zh": "并有母山羊奶够你吃， 也够你的家眷吃， 且够养你的婢女。",
+      "ja": "牝羊の乳はおほくして汝となんぢの家人の糧となり汝の女をやしなふにたる"
+    }
+  ]
+}

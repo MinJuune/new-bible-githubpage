@@ -1,0 +1,542 @@
+{
+  "book": "Genesis",
+  "chapter": 24,
+  "verses": [
+    {
+      "number": 1,
+      "ko": "아브라함이 나이가 많아 늙었고 여호와께서 그에게 범사에 복을 주셨더라",
+      "en": "Abraham was now old and well advanced in years, and the LORD had blessed him in every way.",
+      "de": "Abraham ward alt und wohl betagt, und der HERR hatte ihn gesegnet allenthalben.",
+      "zh": "亚伯拉罕年纪老迈，向来在一切事上耶和华都赐福给他。",
+      "ja": "アブラハム年邁て老たりヱホバ萬の事に於てアブラハムを祝みたまへり"
+    },
+    {
+      "number": 2,
+      "ko": "아브라함이 자기 집 모든 소유를 맡은 늙은 종에게 이르되 청하건대 내 허벅지 밑에 네 손을 넣으라",
+      "en": "He said to the chief servant in his household, the one in charge of all that he had, \"Put your hand under my thigh.",
+      "de": "Und er sprach zu dem ältesten Knecht seines Hauses, der allen seinen Gütern vorstand: Lege deine Hand unter meine Hüfte",
+      "zh": "亚伯拉罕对管理他全业最老的仆人说：「请你把手放在我大腿底下。",
+      "ja": "茲にアブラハム其凡の所有を宰る其家の年邁なる僕に言けるは請ふ爾の手を吾髀の下に置よ"
+    },
+    {
+      "number": 3,
+      "ko": "내가 너에게 하늘의 하나님, 땅의 하나님이신 여호와를 가리켜 맹세하게 하노니 너는 내가 거주하는 이 지방 가나안 족속의 딸 중에서 내 아들을 위하여 아내를 택하지 말고",
+      "en": "I want you to swear by the LORD, the God of heaven and the God of earth, that you will not get a wife for my son from the daughters of the Canaanites, among whom I am living,",
+      "de": "und schwöre mir bei dem HERRN, dem Gott des Himmels und der Erde, daß du meinem Sohn kein Weib nehmest von den Töchtern der Kanaaniter, unter welchen ich wohne,",
+      "zh": "我要叫你指着耶和华—天地的主起誓，不要为我儿子娶这迦南地中的女子为妻。",
+      "ja": "我爾をして天の神地の神ヱホバを指て誓はしめん即ち汝わが偕に居むカナン人の女の中より吾子に妻を娶るなかれ"
+    },
+    {
+      "number": 4,
+      "ko": "내 고향 내 족속에게로 가서 내 아들 이삭을 위하여 아내를 택하라",
+      "en": "but will go to my country and my own relatives and get a wife for my son Isaac.\"",
+      "de": "sondern daß du ziehst in mein Vaterland und zu meiner Freundschaft und nehmest meinem Sohn Isaak ein Weib.",
+      "zh": "你要往我本地本族去，为我的儿子以撒娶一个妻子。」",
+      "ja": "汝わが故國に往き吾親族に到りて吾子イサクのために妻を娶れ"
+    },
+    {
+      "number": 5,
+      "ko": "종이 이르되 여자가 나를 따라 이 땅으로 오려고 하지 아니하거든 내가 주인의 아들을 주인이 나오신 땅으로 인도하여 돌아가리이까",
+      "en": "The servant asked him, \"What if the woman is unwilling to come back with me to this land? Shall I then take your son back to the country you came from?\"",
+      "de": "Der Knecht sprach: Wie, wenn das Weib mir nicht wollte folgen in dies Land, soll ich dann deinen Sohn wiederbringen in jenes Land, daraus du gezogen bist?",
+      "zh": "仆人对他说：「倘若女子不肯跟我到这地方来，我必须将你的儿子带回你原出之地吗？」",
+      "ja": "僕彼に言けるは倘女我に從ひて此地に來ることを好まざる事あらん時は我爾の子を彼汝が出來りし地に導き歸るべきか"
+    },
+    {
+      "number": 6,
+      "ko": "아브라함이 그에게 이르되 내 아들을 그리로 데리고 돌아가지 아니하도록 하라",
+      "en": "\"Make sure that you do not take my son back there,\" Abraham said.",
+      "de": "Abraham sprach zu ihm: Davor hüte dich, daß du meinen Sohn nicht wieder dahin bringst.",
+      "zh": "亚伯拉罕对他说：「你要谨慎，不要带我的儿子回那里去。",
+      "ja": "アブラハム彼に曰けるは汝愼みて吾子を彼處に携かへるなかれ"
+    },
+    {
+      "number": 7,
+      "ko": "하늘의 하나님 여호와께서 나를 내 아버지의 집과 내 고향 땅에서 떠나게 하시고 내게 말씀하시며 내게 맹세하여 이르시기를 이 땅을 네 씨에게 주리라 하셨으니 그가 그 사자를 너보다 앞서 보내실지라 네가 거기서 내 아들을 위하여 아내를 택할지니라",
+      "en": "\"The LORD, the God of heaven, who brought me out of my father's household and my native land and who spoke to me and promised me on oath, saying, 'To your offspring I will give this land'--he will send his angel before you so that you can get a wife for my son from there.",
+      "de": "Der HERR, der Gott des Himmels, der mich von meines Vaters Hause genommen hat und von meiner Heimat, der mir geredet hat und mir auch geschworen hat und gesagt: Dies Land will ich deinem Samen geben, der wird seine Engel vor dir her senden, daß du meinem Sohn daselbst ein Weib nehmest.",
+      "zh": "耶和华—天上的主曾带领我离开父家和本族的地，对我说话，向我起誓说：『我要将这地赐给你的后裔。』他必差遣使者在你面前，你就可以从那里为我儿子娶一个妻子。",
+      "ja": "天の神ヱホバ我を導きて吾父の家とわが親族の地を離れしめ我に語り我に誓ひて汝の子孫に此地を與へんと言たまひし者其使を遣して汝に先たしめたまはん汝彼處より我子に妻を娶るべし"
+    },
+    {
+      "number": 8,
+      "ko": "만일 여자가 너를 따라 오려고 하지 아니하면 나의 이 맹세가 너와 상관이 없나니 오직 내 아들을 데리고 그리로 가지 말지니라",
+      "en": "If the woman is unwilling to come back with you, then you will be released from this oath of mine. Only do not take my son back there.\"",
+      "de": "So aber das Weib dir nicht folgen will, so bist du dieses Eides quitt. Allein bringe meinen Sohn nicht wieder dorthin.",
+      "zh": "倘若女子不肯跟你来，我使你起的誓就与你无干了，只是不可带我的儿子回那里去。」",
+      "ja": "若女汝に從ひ來る事を好ざる時は汝吾此誓を解るべし唯我子を彼處に携へかへるなかれ"
+    },
+    {
+      "number": 9,
+      "ko": "그 종이 이에 그의 주인 아브라함의 허벅지 아래에 손을 넣고 이 일에 대하여 그에게 맹세하였더라",
+      "en": "So the servant put his hand under the thigh of his master Abraham and swore an oath to him concerning this matter.",
+      "de": "Da legte der Knecht seine Hand unter die Hüfte Abrahams, seines Herrn, und schwur ihm solches.",
+      "zh": "仆人就把手放在他主人亚伯拉罕的大腿底下，为这事向他起誓。",
+      "ja": "是に於て僕手を其主人アブラハムの髀の下に置て此事について彼に誓へり"
+    },
+    {
+      "number": 10,
+      "ko": "이에 종이 그 주인의 낙타 중 열 필을 끌고 떠났는데 곧 그의 주인의 모든 좋은 것을 가지고 떠나 메소보다미아로 가서 나홀의 성에 이르러",
+      "en": "Then the servant took ten of his master's camels and left, taking with him all kinds of good things from his master. He set out for Aram Naharaim and made his way to the town of Nahor.",
+      "de": "Also nahm der Knecht zehn Kamele von den Kamelen seines Herrn und zog hin und hatte mit sich allerlei Güter seines Herrn und machte sich auf und zog nach Mesopotamien zu der Stadt Nahors.",
+      "zh": "那仆人从他主人的骆驼里取了十匹骆驼，并带些他主人各样的财物，起身往美索不达米亚去，到了拿鹤的城。",
+      "ja": "斯て僕其主人の駱駝の中より十頭の駱駝を取りて出たてり即ち其主人の諸の佳物を手にとりて起てメソポタミアに往きナホルの邑に至り"
+    },
+    {
+      "number": 11,
+      "ko": "그 낙타를 성 밖 우물 곁에 꿇렸으니 저녁 때라 여인들이 물을 길으러 나올 때였더라",
+      "en": "He had the camels kneel down near the well outside the town; it was toward evening, the time the women go out to draw water.",
+      "de": "Da ließ er die Kamele sich lagern draußen vor der Stadt bei einem Wasserbrunnen, des Abends um die Zeit, wo die Weiber pflegten herauszugehen und Wasser zu schöpfen,",
+      "zh": "天将晚，众女子出来打水的时候，他便叫骆驼跪在城外的水井那里。",
+      "ja": "其駱駝を邑の外にて井の傍に跪伏しめたり其時は黄昏にて婦女等の水汲にいづる時なりき"
+    },
+    {
+      "number": 12,
+      "ko": "그가 이르되 우리 주인 아브라함의 하나님 여호와여 원하건대 오늘 나에게 순조롭게 만나게 하사 내 주인 아브라함에게 은혜를 베푸시옵소서",
+      "en": "Then he prayed, \"O LORD, God of my master Abraham, give me success today, and show kindness to my master Abraham.",
+      "de": "und sprach: HERR, du Gott meines Herrn Abraham, begegne mir heute und tue Barmherzigkeit an meinem Herrn Abraham!",
+      "zh": "他说：「耶和华—我主人亚伯拉罕的　神啊，求你施恩给我主人亚伯拉罕，使我今日遇见好机会。",
+      "ja": "斯して彼言けるは吾主人アブラハムの神ヱホバよ願くは今日我にその者を逢しめわが主人アブラハムに恩惠を施し給へ"
+    },
+    {
+      "number": 13,
+      "ko": "성 중 사람의 딸들이 물 길으러 나오겠사오니 내가 우물 곁에 서 있다가",
+      "en": "See, I am standing beside this spring, and the daughters of the townspeople are coming out to draw water.",
+      "de": "Siehe, ich stehe hier bei dem Wasserbrunnen, und der Leute Töchter in dieser Stadt werden herauskommen, Wasser zu schöpfen.",
+      "zh": "我现今站在井旁，城内居民的女子们正出来打水。",
+      "ja": "我この水井の傍に立ち邑の人の女等水を汲に出づ"
+    },
+    {
+      "number": 14,
+      "ko": "한 소녀에게 이르기를 청하건대 너는 물동이를 기울여 나로 마시게 하라 하리니 그의 대답이 마시라 내가 당신의 낙타에게도 마시게 하리라 하면 그는 주께서 주의 종 이삭을 위하여 정하신 자라 이로 말미암아 주께서 내 주인에게 은혜 베푸심을 내가 알겠나이다",
+      "en": "May it be that when I say to a girl, 'Please let down your jar that I may have a drink,' and she says, 'Drink, and I'll water your camels too'--let her be the one you have chosen for your servant Isaac. By this I will know that you have shown kindness to my master.\"",
+      "de": "Wenn nun eine Dirne kommt, zu der ich spreche: Neige deinen Krug, und laß mich trinken, und sie sprechen wird: Trinke, ich will deine Kamele auch tränken: das sei die, die du deinem Diener Isaak beschert hast, und daran werde ich erkennen, daß du Barmherzigkeit an meinem Herrn getan habest.",
+      "zh": "我向那一个女子说：『请你拿下水瓶来，给我水喝』，她若说：『请喝！我也给你的骆驼喝。』愿那女子就作你所预定给你仆人以撒的妻。这样，我便知道你施恩给我主人了。」",
+      "ja": "我童女に向ひて請ふ汝の瓶をかたむけて我に飮しめよと言んに彼答へて飮め我また汝の駱駝にも飮しめんと言ば彼は汝が僕イサクの爲に定め給ひし者なるべし然れば我汝の吾主人に恩惠を施し給ふを知らん"
+    },
+    {
+      "number": 15,
+      "ko": "말을 마치기도 전에 리브가가 물동이를 어깨에 메고 나오니 그는 아브라함의 동생 나홀의 아내 밀가의 아들 브두엘의 소생이라",
+      "en": "Before he had finished praying, Rebekah came out with her jar on her shoulder. She was the daughter of Bethuel son of Milcah, who was the wife of Abraham's brother Nahor.",
+      "de": "Und ehe er ausgeredet hatte, siehe, da kam heraus Rebekka, Bethuels Tochter, der ein Sohn der Milka war, welche Nahors, Abrahams Bruders, Weib war, und trug einen Krug auf ihrer Achsel.",
+      "zh": "话还没有说完，不料，利百加肩头上扛着水瓶出来。利百加是彼土利所生的；彼土利是亚伯拉罕兄弟拿鹤妻子密迦的儿子。",
+      "ja": "彼語ふことを終るまへに視よリベカ瓶を肩にのせて出きたる彼はアブラハムの兄弟ナホルの妻ミルカの子ベトエルに生れたる者なり"
+    },
+    {
+      "number": 16,
+      "ko": "그 소녀는 보기에 심히 아리땁고 지금까지 남자가 가까이 하지 아니한 처녀더라 그가 우물로 내려가서 물을 그 물동이에 채워가지고 올라오는지라",
+      "en": "The girl was very beautiful, a virgin; no man had ever lain with her. She went down to the spring, filled her jar and came up again.",
+      "de": "Und sie war eine sehr schöne Dirne von Angesicht, noch eine Jungfrau, und kein Mann hatte sie erkannt. Die stieg hinab zum Brunnen und füllte den Krug und stieg herauf.",
+      "zh": "那女子容貌极其俊美，还是处女，也未曾有人亲近她。她下到井旁，打满了瓶，又上来。",
+      "ja": "其童女は觀に甚だ美しく且處女にして未だ人に適しことあらず彼井に下り其瓶に水を盈て上りしかば"
+    },
+    {
+      "number": 17,
+      "ko": "종이 마주 달려가서 이르되 청하건대 네 물동이의 물을 내게 조금 마시게 하라",
+      "en": "The servant hurried to meet her and said, \"Please give me a little water from your jar.\"",
+      "de": "Da lief ihr der Knecht entgegen und sprach: Laß mich ein wenig Wasser aus deinem Kruge trinken.",
+      "zh": "仆人跑上前去迎着她，说：「求你将瓶里的水给我一点喝。」",
+      "ja": "僕はせゆきて之にあひ請ふ我をして汝の瓶より少許の水を飮しめよといひけるに"
+    },
+    {
+      "number": 18,
+      "ko": "그가 이르되 내 주여 마시소서 하며 급히 그 물동이를 손에 내려 마시게 하고",
+      "en": "\"Drink, my lord,\" she said, and quickly lowered the jar to her hands and gave him a drink.",
+      "de": "Und sie sprach: Trinke, mein Herr! und eilend ließ sie den Krug hernieder auf ihre Hand und gab ihm zu trinken.",
+      "zh": "女子说：「我主请喝！」就急忙拿下瓶来，托在手上给他喝。",
+      "ja": "彼主よ飮たまへといひて乃ち急ぎ其瓶を手におろして之にのましめたりしが"
+    },
+    {
+      "number": 19,
+      "ko": "마시게 하기를 다하고 이르되 당신의 낙타를 위하여서도 물을 길어 그것들도 배불리 마시게 하리이다 하고",
+      "en": "After she had given him a drink, she said, \"I'll draw water for your camels too, until they have finished drinking.\"",
+      "de": "Und da sie ihm zu trinken gegeben hatte, sprach sie: Ich will deinen Kamelen auch schöpfen, bis sie alle getrunken haben.",
+      "zh": "女子给他喝了，就说：「我再为你的骆驼打水，叫骆驼也喝足。」",
+      "ja": "飮せをはりて言ふ汝の駱駝のためにも其飮をはるまで水を汲て飽しめん"
+    },
+    {
+      "number": 20,
+      "ko": "급히 물동이의 물을 구유에 붓고 다시 길으려고 우물로 달려가서 모든 낙타를 위하여 긷는지라",
+      "en": "So she quickly emptied her jar into the trough, ran back to the well to draw more water, and drew enough for all his camels.",
+      "de": "Und eilte und goß den Krug aus in die Tränke und lief abermals zum Brunnen, zu schöpfen, und schöpfte allen seinen Kamelen.",
+      "zh": "她就急忙把瓶里的水倒在槽里，又跑到井旁打水，就为所有的骆驼打上水来。",
+      "ja": "急ぎて其瓶を水鉢にあけ又汲んとて井にはせゆき其諸の駱駝のために汲みたり"
+    },
+    {
+      "number": 21,
+      "ko": "그 사람이 그를 묵묵히 주목하며 여호와께서 과연 평탄한 길을 주신 여부를 알고자 하더니",
+      "en": "Without saying a word, the man watched her closely to learn whether or not the LORD had made his journey successful.",
+      "de": "Der Mann aber wunderte sich ihrer und schwieg still, bis er erkennete, ob der HERR zu seiner Reise Gnade gegeben hätte oder nicht.",
+      "zh": "那人定睛看她，一句话也不说，要晓得耶和华赐他通达的道路没有。",
+      "ja": "其人之を見つめヱホバが其途に幸福をくだしたまふや否やをしらんとして默し居たり"
+    },
+    {
+      "number": 22,
+      "ko": "낙타가 마시기를 다하매 그가 반 세겔 무게의 금 코걸이 한 개와 열 세겔 무게의 금 손목고리 한 쌍을 그에게 주며",
+      "en": "When the camels had finished drinking, the man took out a gold nose ring weighing a beka and two gold bracelets weighing ten shekels.",
+      "de": "Da nun die Kamele alle getrunken hatten, nahm er einen goldenen Reif, ein halbes Lot schwer, und zwei Armringe an ihre Hände, zehn Lot Goldes schwer,",
+      "zh": "骆驼喝足了，那人就拿一个金环，重半舍客勒，两个金镯，重十舍客勒，给了那女子，",
+      "ja": "茲に駱駝飮をはりしかば其人重半シケルの金の鼻環一箇と重十シケルの金の手釧二箇をとりて"
+    },
+    {
+      "number": 23,
+      "ko": "이르되 네가 누구의 딸이냐 청하건대 내게 말하라 네 아버지의 집에 우리가 유숙할 곳이 있느냐",
+      "en": "Then he asked, \"Whose daughter are you? Please tell me, is there room in your father's house for us to spend the night?\"",
+      "de": "und sprach: Wes Tochter bist du? das sage mir doch. Haben wir Raum in deines Vaters Hause, zu beherbergen?",
+      "zh": "说：「请告诉我，你是谁的女儿？你父亲家里有我们住宿的地方没有？」",
+      "ja": "言けるは汝は誰の女なるや請ふ我に告よ汝の父の家に我等が宿る隙地ありや"
+    },
+    {
+      "number": 24,
+      "ko": "그 여자가 그에게 이르되 나는 밀가가 나홀에게서 낳은 아들 브두엘의 딸이니이다",
+      "en": "She answered him, \"I am the daughter of Bethuel, the son that Milcah bore to Nahor.\"",
+      "de": "Sie sprach zu ihm: Ich bin Bethuels Tochter, des Sohnes Milkas, den sie dem Nahor geboren hat,",
+      "zh": "女子说：「我是密迦与拿鹤之子彼土利的女儿」；",
+      "ja": "女彼に曰けるは我はミルカがナホルに生みたる子ベトエルの女なり"
+    },
+    {
+      "number": 25,
+      "ko": "또 이르되 우리에게 짚과 사료가 족하며 유숙할 곳도 있나이다",
+      "en": "And she added, \"We have plenty of straw and fodder, as well as room for you to spend the night.\"",
+      "de": "und sagte weiter zu ihm: Es ist auch viel Stroh und Futter bei uns und Raum genug, zu beherbergen.",
+      "zh": "又说：「我们家里足有粮草，也有住宿的地方。」",
+      "ja": "又彼にいひけるは家には藁も飼草も多くあり且宿る隙地もあり"
+    },
+    {
+      "number": 26,
+      "ko": "이에 그 사람이 머리를 숙여 여호와께 경배하고",
+      "en": "Then the man bowed down and worshiped the LORD,",
+      "de": "Da neigte sich der Mann und betete den HERRN an",
+      "zh": "那人就低头向耶和华下拜，",
+      "ja": "是に於て其人伏てヱホバを拜み"
+    },
+    {
+      "number": 27,
+      "ko": "이르되 나의 주인 아브라함의 하나님 여호와를 찬송하나이다 나의 주인에게 주의 사랑과 성실을 그치지 아니하셨사오며 여호와께서 길에서 나를 인도하사 내 주인의 동생 집에 이르게 하셨나이다 하니라",
+      "en": "saying, \"Praise be to the LORD, the God of my master Abraham, who has not abandoned his kindness and faithfulness to my master. As for me, the LORD has led me on the journey to the house of my master's relatives.\"",
+      "de": "und sprach: Gelobt sei der HERR, der Gott meines Herrn Abraham, der seine Barmherzigkeit und seine Wahrheit nicht verlassen hat an meinem Herrn; denn der HERR hat mich den Weg geführt zum Hause des Bruders meines Herrn.",
+      "zh": "说：「耶和华—我主人亚伯拉罕的　神是应当称颂的，因他不断地以慈爱诚实待我主人。至于我，耶和华在路上引领我，直走到我主人的兄弟家里。」",
+      "ja": "言けるは吾主人アブラハムの神ヱホバは讃美べきかなわが主人に慈惠と眞實とを缺きたまはず我途にありしにヱホバ我を吾主人の兄弟の家にみちびきたまへり"
+    },
+    {
+      "number": 28,
+      "ko": "소녀가 달려가서 이 일을 어머니 집에 알렸더니",
+      "en": "The girl ran and told her mother's household about these things.",
+      "de": "Und die Dirne lief und sagte solches alles an in ihrer Mutter Hause.",
+      "zh": "女子跑回去，照着这些话告诉她母亲和她家里的人。",
+      "ja": "茲に童女走行て其母の家に此等の事を告たり"
+    },
+    {
+      "number": 29,
+      "ko": "리브가에게 오라버니가 있어 그의 이름은 라반이라 그가 우물로 달려가 그 사람에게 이르러",
+      "en": "Now Rebekah had a brother named Laban, and he hurried out to the man at the spring.",
+      "de": "Und Rebekka hatte einen Bruder, der hieß Laban; und Laban lief zu dem Mann draußen bei dem Brunnen.",
+      "zh": "利百加有一个哥哥，名叫拉班，看见金环，又看见金镯在他妹子的手上，并听见他妹子利百加的话，说那人对我如此如此说。拉班就跑出来往井旁去，到那人跟前，见他仍站在骆驼旁边的井旁那里，",
+      "ja": "リベカに一人の兄あり其名をラバンといふラバンはせいで井にゆきて其人の許につく"
+    },
+    {
+      "number": 30,
+      "ko": "그의 누이의 코걸이와 그 손의 손목고리를 보고 또 그의 누이 리브가가 그 사람이 자기에게 이같이 말하더라 함을 듣고 그 사람에게로 나아감이라 그 때에 그가 우물가 낙타 곁에 서 있더라",
+      "en": "As soon as he had seen the nose ring, and the bracelets on his sister's arms, and had heard Rebekah tell what the man said to her, he went out to the man and found him standing by the camels near the spring.",
+      "de": "Und als er sah den Reif und die Armringe an seiner Schwester Händen und hörte die Worte Rebekkas, seiner Schwester, daß sie sprach: Also hat mir der Mann gesagt, kam er zu dem Mann, und siehe, er stand bei den Kamelen am Brunnen.",
+      "zh": "便对他说：「你这蒙耶和华赐福的，请进来，为什么站在外边？我已经收拾了房屋，也为骆驼预备了地方。」",
+      "ja": "すなはち彼鼻環および其妹の手の手釧を見又其妹リベカが其人斯我に語りといふを聞て其人の所に到り見るに井の側らにて駱駝の傍にたちゐたれば"
+    },
+    {
+      "number": 31,
+      "ko": "라반이 이르되 여호와께 복을 받은 자여 들어오소서 어찌 밖에 서 있나이까 내가 방과 낙타의 처소를 준비하였나이다",
+      "en": "\"Come, you who are blessed by the LORD,\" he said. \"Why are you standing out here? I have prepared the house and a place for the camels.\"",
+      "de": "Und er sprach: Komm herein, du Gesegneter des HERRN! Warum stehst du draußen? Ich habe das Haus geräumt und für die Kamele auch Raum gemacht.",
+      "zh": "那人就进了拉班的家。拉班卸了骆驼，用草料喂上，拿水给那人和跟随的人洗脚；",
+      "ja": "之に言けるは汝ヱホバに祝るる者よ請ふ入れ奚ぞ外にたつや我家を備へ且駱駝のために所をそなへたり"
+    },
+    {
+      "number": 32,
+      "ko": "그 사람이 그 집으로 들어가매 라반이 낙타의 짐을 부리고 짚과 사료를 낙타에게 주고 그 사람의 발과 그의 동행자들의 발 씻을 물을 주고",
+      "en": "So the man went to the house, and the camels were unloaded. Straw and fodder were brought for the camels, and water for him and his men to wash their feet.",
+      "de": "Also führte er den Mann ins Haus und zäumte die Kamele ab und gab ihnen Stroh und Futter und Wasser, zu waschen seine Füße und die Füße der Männer, die mit ihm waren,",
+      "zh": "把饭摆在他面前，叫他吃，他却说：「我不吃，等我说明白我的事情再吃。」拉班说：「请说。」",
+      "ja": "是に於て其人家にいりぬラバン乃ち其駱駝の負を釋き藁と飼草を駱駝にあたへ又水をあたへて其人の足と其從者の足をあらはしめ"
+    },
+    {
+      "number": 33,
+      "ko": "그 앞에 음식을 베푸니 그 사람이 이르되 내가 내 일을 진술하기 전에는 먹지 아니하겠나이다 라반이 이르되 말하소서",
+      "en": "Then food was set before him, but he said, \"I will not eat until I have told you what I have to say.\" \"Then tell us,\" Laban said.",
+      "de": "und setzte ihnen Essen vor. Er sprach aber: Ich will nicht essen, bis daß ich zuvor meine Sache vorgebracht habe. Sie antworteten: Sage an!",
+      "zh": "他说：「我是亚伯拉罕的仆人。",
+      "ja": "斯して彼の前に食をそなへたるに彼言ふ我はわが事をのぶるまでは食はじとラバン語れといひければ"
+    },
+    {
+      "number": 34,
+      "ko": "그가 이르되 나는 아브라함의 종이니이다",
+      "en": "So he said, \"I am Abraham's servant.",
+      "de": "Er sprach: Ich bin Abrahams Knecht.",
+      "zh": "耶和华大大地赐福给我主人，使他昌大，又赐给他羊群、牛群、金银、仆婢、骆驼，和驴。",
+      "ja": "彼言ふわれはアブラハムの僕なり"
+    },
+    {
+      "number": 35,
+      "ko": "여호와께서 나의 주인에게 크게 복을 주시어 창성하게 하시되 소와 양과 은금과 종들과 낙타와 나귀를 그에게 주셨고",
+      "en": "The LORD has blessed my master abundantly, and he has become wealthy. He has given him sheep and cattle, silver and gold, menservants and maidservants, and camels and donkeys.",
+      "de": "Und der HERR hat meinen Herrn reichlich gesegnet, daß er groß geworden ist, und hat ihm Schafe und Ochsen, Silber und Gold, Knechte und Mägde, Kamele und Esel gegeben.",
+      "zh": "我主人的妻子撒拉年老的时候给我主人生了一个儿子；我主人也将一切所有的都给了这个儿子。",
+      "ja": "ヱホバ大にわが主人をめぐみたまひて大なる者とならしめ又羊牛金銀僕婢駱駝驢馬をこれにたまへり"
+    },
+    {
+      "number": 36,
+      "ko": "나의 주인의 아내 사라가 노년에 나의 주인에게 아들을 낳으매 주인이 그의 모든 소유를 그 아들에게 주었나이다",
+      "en": "My master's wife Sarah has borne him a son in her old age, and he has given him everything he owns.",
+      "de": "Dazu hat Sara, meines Herrn Weib, einen Sohn geboren meinem Herrn in seinem Alter; dem hat er alles gegeben, was er hat.",
+      "zh": "我主人叫我起誓说：『你不要为我儿子娶迦南地的女子为妻。",
+      "ja": "わが主人の妻サラ年老てのちわが主人に男子をうみければ主人其所有を悉く之に與ふ"
+    },
+    {
+      "number": 37,
+      "ko": "나의 주인이 나에게 맹세하게 하여 이르되 너는 내 아들을 위하여 내가 사는 땅 가나안 족속의 딸들 중에서 아내를 택하지 말고",
+      "en": "And my master made me swear an oath, and said, 'You must not get a wife for my son from the daughters of the Canaanites, in whose land I live,",
+      "de": "Und mein Herr hat einen Eid von mir genommen und gesagt: Du sollst meinem Sohn kein Weib nehmen von den Töchtern der Kanaaniter, in deren Land ich wohne,",
+      "zh": "你要往我父家、我本族那里去，为我的儿子娶一个妻子。』",
+      "ja": "わが主人我を誓せて言ふ吾すめるカナンの地の人の女子の中よりわが子に妻を娶るなかれ"
+    },
+    {
+      "number": 38,
+      "ko": "내 아버지의 집, 내 족속에게로 가서 내 아들을 위하여 아내를 택하라 하시기로",
+      "en": "but go to my father's family and to my own clan, and get a wife for my son.'",
+      "de": "sondern ziehe hin zu meines Vaters Hause und zu meinem Geschlecht; daselbst nimm meinem Sohn ein Weib.",
+      "zh": "我对我主人说：『恐怕女子不肯跟我来。』",
+      "ja": "汝わが父の家にゆきわが親族にいたりわが子のために妻をめとれと"
+    },
+    {
+      "number": 39,
+      "ko": "내가 내 주인에게 여쭈되 혹 여자가 나를 따르지 아니하면 어찌하리이까 한즉",
+      "en": "\"Then I asked my master, 'What if the woman will not come back with me?'",
+      "de": "Ich aber sprach zu meinem Herrn: Wie, wenn mir das Weib nicht folgen will?",
+      "zh": "他就说：『我所事奉的耶和华必要差遣他的使者与你同去，叫你的道路通达，你就得以在我父家、我本族那里，给我的儿子娶一个妻子。",
+      "ja": "我わが主人にいひけるは倘女我にしたがひて來ずば如何"
+    },
+    {
+      "number": 40,
+      "ko": "주인이 내게 이르되 내가 섬기는 여호와께서 그의 사자를 너와 함께 보내어 네게 평탄한 길을 주시리니 너는 내 족속 중 내 아버지 집에서 내 아들을 위하여 아내를 택할 것이니라",
+      "en": "\"He replied, 'The LORD, before whom I have walked, will send his angel with you and make your journey a success, so that you can get a wife for my son from my own clan and from my father's family.",
+      "de": "Da sprach er zu mir: Der HERR, vor dem ich wandle, wird seinen Engel mit dir senden und Gnade zu deiner Reise geben, daß du meinem Sohn ein Weib nehmest von meiner Freundschaft und meines Vaters Hause.",
+      "zh": "只要你到了我本族那里，我使你起的誓就与你无干。他们若不把女子交给你，我使你起的誓也与你无干。』",
+      "ja": "彼我にいひけるは吾事ふるところのヱホバ其使者を汝とともに遣はして汝の途に幸福を降したまはん爾わが親族わが父の家より吾子に妻をめとるべし"
+    },
+    {
+      "number": 41,
+      "ko": "네가 내 족속에게 이를 때에는 네가 내 맹세와 상관이 없으리라 만일 그들이 네게 주지 아니할지라도 네가 내 맹세와 상관이 없으리라 하시기로",
+      "en": "Then, when you go to my clan, you will be released from my oath even if they refuse to give her to you--you will be released from my oath.'",
+      "de": "Alsdann sollst du meines Eides quitt sein, wenn du zu meiner Freundschaft kommst; geben sie dir sie nicht, so bist du meines Eides quitt.",
+      "zh": "「我今日到了井旁，便说：『耶和华—我主人亚伯拉罕的　神啊，愿你叫我所行的道路通达。",
+      "ja": "汝わが親族に至れる時はわが誓を解さるべし若彼等汝にあたへずば汝はわが誓をゆるさるべしと"
+    },
+    {
+      "number": 42,
+      "ko": "내가 오늘 우물에 이르러 말하기를 내 주인 아브라함의 하나님 여호와여 만일 내가 행하는 길에 형통함을 주실진대",
+      "en": "\"When I came to the spring today, I said, 'O LORD, God of my master Abraham, if you will, please grant success to the journey on which I have come.",
+      "de": "Also kam ich heute zum Brunnen und sprach: HERR, Gott meines Herrn Abraham, hast du Gnade zu meiner Reise gegeben, auf der ich bin,",
+      "zh": "我如今站在井旁，对哪一个出来打水的女子说：请你把你瓶里的水给我一点喝；",
+      "ja": "我今日井に至りて謂けらくわが主人アブラハムの神ヱホバねがはくはわがゆく途に幸福を降したまへ"
+    },
+    {
+      "number": 43,
+      "ko": "내가 이 우물 곁에 서 있다가 젊은 여자가 물을 길으러 오거든 내가 그에게 청하기를 너는 물동이의 물을 내게 조금 마시게 하라 하여",
+      "en": "See, I am standing beside this spring; if a maiden comes out to draw water and I say to her, \"Please let me drink a little water from your jar,\"",
+      "de": "siehe, so stehe ich hier bei dem Wasserbrunnen. Wenn nun eine Jungfrau herauskommt, zu schöpfen, und ich zu ihr spreche: Gib mir ein wenig Wasser zu trinken aus deinem Krug,",
+      "zh": "她若说：你只管喝，我也为你的骆驼打水；愿那女子就作耶和华给我主人儿子所预定的妻。』",
+      "ja": "我はこの井水の傍に立つ水を汲にいづる處女あらん時我彼にむかひて請ふ汝の瓶より少許の水を我にのましめよと言んに"
+    },
+    {
+      "number": 44,
+      "ko": "그의 대답이 당신은 마시라 내가 또 당신의 낙타를 위하여도 길으리라 하면 그 여자는 여호와께서 내 주인의 아들을 위하여 정하여 주신 자가 되리이다 하며",
+      "en": "and if she says to me, \"Drink, and I'll draw water for your camels too,\" let her be the one the LORD has chosen for my master's son.'",
+      "de": "und sie wird sagen: Trinke du, ich will deinen Kamelen auch schöpfen: die sei das Weib, das der HERR meines Herrn Sohne beschert hat.",
+      "zh": "我心里的话还没有说完，利百加就出来，肩头上扛着水瓶，下到井旁打水。我便对她说：『请你给我水喝。』",
+      "ja": "若我に答へて汝飮め我亦汝の駱駝のためにも汲んと言ば是ヱホバがわが主人の子のために定たまひし女なるべし"
+    },
+    {
+      "number": 45,
+      "ko": "내가 마음속으로 말하기를 마치기도 전에 리브가가 물동이를 어깨에 메고 나와서 우물로 내려와 긷기로 내가 그에게 이르기를 청하건대 내게 마시게 하라 한즉",
+      "en": "\"Before I finished praying in my heart, Rebekah came out, with her jar on her shoulder. She went down to the spring and drew water, and I said to her, 'Please give me a drink.'",
+      "de": "Ehe ich nun solche Worte ausgeredet hatte in meinem Herzen, siehe, da kommt Rebekka heraus mit einem Krug auf ihrer Achsel und geht hinab zum Brunnen und schöpft. Da sprach ich zu ihr: Gib mir zu trinken.",
+      "zh": "她就急忙从肩头上拿下瓶来，说：『请喝！我也给你的骆驼喝。』我便喝了；她又给我的骆驼喝了。",
+      "ja": "我心の中に語ふことを終るまへにリベカ其瓶を肩にのせて出來り井にくだりて水を汲みたるにより我彼に請ふ我にのましめよと言ければ"
+    },
+    {
+      "number": 46,
+      "ko": "그가 급히 물동이를 어깨에서 내리며 이르되 마시라 내가 당신의 낙타에게도 마시게 하리라 하기로 내가 마시매 그가 또 낙타에게도 마시게 한지라",
+      "en": "\"She quickly lowered her jar from her shoulder and said, 'Drink, and I'll water your camels too.' So I drank, and she watered the camels also.",
+      "de": "Und sie nahm eilend den Krug von ihrer Achsel und sprach: Trinke, und deine Kamele will ich auch tränken. Also trank ich, und sie tränkte die Kamele auch.",
+      "zh": "我问她说：『你是谁的女儿？』她说：『我是密迦与拿鹤之子彼土利的女儿。』我就把环子戴在她鼻子上，把镯子戴在她两手上。",
+      "ja": "彼急ぎ其瓶を肩よりおろしていひけるは飮めまた汝の駱駝にものましめんと是に於て我飮しが彼また駱駝にものましめたり"
+    },
+    {
+      "number": 47,
+      "ko": "내가 그에게 묻기를 네가 뉘 딸이냐 한즉 이르되 밀가가 나홀에게서 낳은 브두엘의 딸이라 하기로 내가 코걸이를 그 코에 꿰고 손목고리를 그 손에 끼우고",
+      "en": "\"I asked her, 'Whose daughter are you?' \"She said, 'The daughter of Bethuel son of Nahor, whom Milcah bore to him.' \"Then I put the ring in her nose and the bracelets on her arms,",
+      "de": "Und ich fragte sie und sprach: Wes Tochter bist du? Sie antwortete: Ich bin Bethuels Tochter, des Sohnes Nahors, den ihm Milka geboren hat. Da legte ich einen Reif an ihre Stirn und Armringe an ihre Hände",
+      "zh": "随后我低头向耶和华下拜，称颂耶和华—我主人亚伯拉罕的　神；因为他引导我走合式的道路，使我得着我主人兄弟的孙女，给我主人的儿子为妻。",
+      "ja": "我彼に問て汝は誰の女なるやといひければミルカがナホルに生たる子ベトエルの女なりといふ是に於て我其鼻に環をつけ其手に手釧をつけたり"
+    },
+    {
+      "number": 48,
+      "ko": "내 주인 아브라함의 하나님 여호와께서 나를 바른 길로 인도하사 나의 주인의 동생의 딸을 그의 아들을 위하여 택하게 하셨으므로 내가 머리를 숙여 그에게 경배하고 찬송하였나이다",
+      "en": "and I bowed down and worshiped the LORD. I praised the LORD, the God of my master Abraham, who had led me on the right road to get the granddaughter of my master's brother for his son.",
+      "de": "und neigte mich und betete den HERRN an und lobte den HERRN, den Gott meines Herrn Abraham, der mich den rechten Weg geführt hat, daß ich seinem Sohn die Tochter nehme des Bruders meines Herrn.",
+      "zh": "现在你们若愿以慈爱诚实待我主人，就告诉我；若不然，也告诉我，使我可以或向左，或向右。」",
+      "ja": "而して我伏てヱホバを拜み吾主人アブラハムの神ヱホバを頌美たりヱホバ我を正き途に導きてわが主人の兄弟の女を其子のために娶しめんとしたまへばなり"
+    },
+    {
+      "number": 49,
+      "ko": "이제 당신들이 인자함과 진실함으로 내 주인을 대접하려거든 내게 알게 해 주시고 그렇지 아니할지라도 내게 알게 해 주셔서 내가 우로든지 좌로든지 행하게 하소서",
+      "en": "Now if you will show kindness and faithfulness to my master, tell me; and if not, tell me, so I may know which way to turn.\"",
+      "de": "Seid ihr nun die, so an meinem Herrn Freundschaft und Treue beweisen wollen, so sagt mir's; wo nicht, so sagt mir's auch, daß ich mich wende zur Rechten oder zur Linken.",
+      "zh": "拉班和彼土利回答说：「这事乃出于耶和华，我们不能向你说好说歹。",
+      "ja": "されば汝等若わが主人にむかひて慈惠と眞誠をもて事をなさんと思はば我に告よ然ざるも亦我に告よ然ば我右か左におもむくをえん"
+    },
+    {
+      "number": 50,
+      "ko": "라반과 브두엘이 대답하여 이르되 이 일이 여호와께로 말미암았으니 우리는 가부를 말할 수 없노라",
+      "en": "Laban and Bethuel answered, \"This is from the LORD; we can say nothing to you one way or the other.",
+      "de": "Da antworteten Laban und Bethuel und sprachen: Das kommt vom HERRN; darum können wir nicht wider dich reden, weder Böses noch Gutes;",
+      "zh": "看哪，利百加在你面前，可以将她带去，照着耶和华所说的，给你主人的儿子为妻。」",
+      "ja": "ラバンとベトエル答て言けるは此事はヱホバより出づ我等汝に善惡を言ふあたはず"
+    },
+    {
+      "number": 51,
+      "ko": "리브가가 당신 앞에 있으니 데리고 가서 여호와의 명령대로 그를 당신의 주인의 아들의 아내가 되게 하라",
+      "en": "Here is Rebekah; take her and go, and let her become the wife of your master's son, as the LORD has directed.\"",
+      "de": "da ist Rebekka vor dir, nimm sie und zieh hin, daß sie das Weib sei des Sohnes deines Herrn, wie der HERR geredet hat.",
+      "zh": "亚伯拉罕的仆人听见他们这话，就向耶和华俯伏在地。",
+      "ja": "視よリベカ汝の前にをる携へてゆき彼をしてヱホバの言たまひし如く汝の主人の子の妻とならしめよ"
+    },
+    {
+      "number": 52,
+      "ko": "아브라함의 종이 그들의 말을 듣고 땅에 엎드려 여호와께 절하고",
+      "en": "When Abraham's servant heard what they said, he bowed down to the ground before the LORD.",
+      "de": "Da diese Worte hörte Abrahams Knecht, bückte er sich vor dem Herrn zur Erde",
+      "zh": "当下仆人拿出金器、银器，和衣服送给利百加，又将宝物送给她哥哥和她母亲。",
+      "ja": "アブラハムの僕彼等の言を聞て地に伏てヱホバを拜めり"
+    },
+    {
+      "number": 53,
+      "ko": "은금 패물과 의복을 꺼내어 리브가에게 주고 그의 오라버니와 어머니에게도 보물을 주니라",
+      "en": "Then the servant brought out gold and silver jewelry and articles of clothing and gave them to Rebekah; he also gave costly gifts to her brother and to her mother.",
+      "de": "und zog hervor silberne und goldene Kleinode und Kleider und gab sie Rebekka; aber ihrem Bruder und der Mutter gab er Würze.",
+      "zh": "仆人和跟从他的人吃了喝了，住了一夜。早晨起来，仆人就说：「请打发我回我主人那里去吧。」",
+      "ja": "是に於て僕銀の飾品金の飾品および衣服をとりいだしてリベカに與へ亦其兄と母に寶物をあたへたり"
+    },
+    {
+      "number": 54,
+      "ko": "이에 그들 곧 종과 동행자들이 먹고 마시고 유숙하고 아침에 일어나서 그가 이르되 나를 보내어 내 주인에게로 돌아가게 하소서",
+      "en": "Then he and the men who were with him ate and drank and spent the night there. When they got up the next morning, he said, \"Send me on my way to my master.\"",
+      "de": "Da aß und trank er samt den Männern, die mit ihm waren, und blieb über Nacht allda. Des Morgens aber stand er auf und sprach: Laß mich ziehen zu meinem Herrn.",
+      "zh": "利百加的哥哥和她母亲说：「让女子同我们再住几天，至少十天，然后她可以去。」",
+      "ja": "是に於て彼および其從者等食飮して宿りしが朝起たる時彼言我をして吾主人に還らしめよ"
+    },
+    {
+      "number": 55,
+      "ko": "리브가의 오라버니와 그의 어머니가 이르되 이 아이로 하여금 며칠 또는 열흘을 우리와 함께 머물게 하라 그 후에 그가 갈 것이니라",
+      "en": "But her brother and her mother replied, \"Let the girl remain with us ten days or so; then you may go.\"",
+      "de": "Aber ihr Bruder und ihre Mutter sprachen: Laß doch die Dirne einen Tag oder zehn bei uns bleiben; darnach sollst du ziehen.",
+      "zh": "仆人说：「耶和华既赐给我通达的道路，你们不要耽误我，请打发我走，回我主人那里去吧。」",
+      "ja": "リベカの兄と母言けるは童女を數日の間少くも十日我等と偕にをらしめよしかるのち彼ゆくべし"
+    },
+    {
+      "number": 56,
+      "ko": "그 사람이 그들에게 이르되 나를 만류하지 마소서 여호와께서 내게 형통한 길을 주셨으니 나를 보내어 내 주인에게로 돌아가게 하소서",
+      "en": "But he said to them, \"Do not detain me, now that the LORD has granted success to my journey. Send me on my way so I may go to my master.\"",
+      "de": "Da sprach er zu ihnen: Haltet mich nicht auf; denn der HERR hat Gnade zu meiner Reise gegeben. Laßt mich, daß ich zu meinem Herrn ziehe.",
+      "zh": "他们说：「我们把女子叫来问问她」，",
+      "ja": "彼人之に言ヱホバ吾途に福祉をくだしたまひたるなれば我を阻むるなかれ我を歸してわが主人に往しめよ"
+    },
+    {
+      "number": 57,
+      "ko": "그들이 이르되 우리가 소녀를 불러 그에게 물으리라 하고",
+      "en": "Then they said, \"Let's call the girl and ask her about it.\"",
+      "de": "Da sprachen sie: Laßt uns die Dirne rufen und fragen, was sie dazu sagt.",
+      "zh": "就叫了利百加来，问她说：「你和这人同去吗？」利百加说：「我去。」",
+      "ja": "彼等いひけるは童女をよびて其言を問んと"
+    },
+    {
+      "number": 58,
+      "ko": "리브가를 불러 그에게 이르되 네가 이 사람과 함께 가려느냐 그가 대답하되 가겠나이다",
+      "en": "So they called Rebekah and asked her, \"Will you go with this man?\" \"I will go,\" she said.",
+      "de": "Und sie riefen Rebekka und sprachen zu ihr: Willst du mit diesem Mann ziehen? Sie antwortete: Ja, ich will mit ihm.",
+      "zh": "于是他们打发妹子利百加和她的乳母，同亚伯拉罕的仆人，并跟从仆人的，都走了。",
+      "ja": "即ちリベカを呼て之に言けるは汝此人と共に往や彼言ふ往ん"
+    },
+    {
+      "number": 59,
+      "ko": "그들이 그 누이 리브가와 그의 유모와 아브라함의 종과 그 동행자들을 보내며",
+      "en": "So they sent their sister Rebekah on her way, along with her nurse and Abraham's servant and his men.",
+      "de": "Also ließen sie Rebekka, ihre Schwester, ziehen mit ihrer Amme samt Abrahams Knecht und seinen Leuten.",
+      "zh": "他们就给利百加祝福说： 我们的妹子啊，愿你作千万人的母！ 愿你的后裔得着仇敌的城门！",
+      "ja": "是に於て彼等妹リベカと其乳媼およびアブラハムの僕と其從者を遣り去しめたり"
+    },
+    {
+      "number": 60,
+      "ko": "리브가에게 축복하여 이르되 우리 누이여 너는 천만인의 어머니가 될지어다 네 씨로 그 원수의 성 문을 얻게 할지어다",
+      "en": "And they blessed Rebekah and said to her, \"Our sister, may you increase to thousands upon thousands; may your offspring possess the gates of their enemies.\"",
+      "de": "Und sie segneten Rebekka und sprachen zu ihr: Du bist unsre Schwester; wachse in vieltausendmal tausend, und dein Same besitze die Tore seiner Feinde.",
+      "zh": "利百加和她的使女们起来，骑上骆驼，跟着那仆人，仆人就带着利百加走了。",
+      "ja": "即ち彼等リベカを祝して之にいひけるはわれらの妹よ汝千萬の人の母となれ汝の子孫をして其仇の門を獲しめよ"
+    },
+    {
+      "number": 61,
+      "ko": "리브가가 일어나 여자 종들과 함께 낙타를 타고 그 사람을 따라가니 그 종이 리브가를 데리고 가니라",
+      "en": "Then Rebekah and her maids got ready and mounted their camels and went back with the man. So the servant took Rebekah and left.",
+      "de": "Also machte sich Rebekka auf mit ihren Dirnen, und setzten sich auf die Kamele und zogen dem Manne nach. Und der Knecht nahm Rebekka und zog hin.",
+      "zh": "那时，以撒住在南地，刚从庇耳·拉海·莱回来。",
+      "ja": "是に於てリベカ起て其童女等とともに駱駝にのりて其人にしたがひ往く僕乃ちリベカを導きてさりぬ"
+    },
+    {
+      "number": 62,
+      "ko": "그 때에 이삭이 브엘라해로이에서 왔으니 그가 네게브 지역에 거주하였음이라",
+      "en": "Now Isaac had come from Beer Lahai Roi, for he was living in the Negev.",
+      "de": "Isaak aber kam vom Brunnen des Lebendigen und Sehenden (denn er wohnte im Lande gegen Mittag)",
+      "zh": "天将晚，以撒出来在田间默想，举目一看，见来了些骆驼。",
+      "ja": "茲にイサク、ラハイロイの井の路より來れり南の國に住居たればなり"
+    },
+    {
+      "number": 63,
+      "ko": "이삭이 저물 때에 들에 나가 묵상하다가 눈을 들어 보매 낙타들이 오는지라",
+      "en": "He went out to the field one evening to meditate, and as he looked up, he saw camels approaching.",
+      "de": "und war ausgegangen, zu beten auf dem Felde um den Abend, und hob seine Augen auf und sah, daß Kamele daherkamen.",
+      "zh": "利百加举目看见以撒，就急忙下了骆驼，",
+      "ja": "しかしてイサク黄昏に野に出て默想をなしたりしが目を擧て見しに駱駝の來るあり"
+    },
+    {
+      "number": 64,
+      "ko": "리브가가 눈을 들어 이삭을 바라보고 낙타에서 내려",
+      "en": "Rebekah also looked up and saw Isaac. She got down from her camel",
+      "de": "Und Rebekka hob ihre Augen auf und sah Isaak; da stieg sie eilend vom Kamel",
+      "zh": "问那仆人说：「这田间走来迎接我们的是谁？」仆人说：「是我的主人。」利百加就拿帕子蒙上脸。",
+      "ja": "リベカ目をあげてイサクを見駱駝をおりて"
+    },
+    {
+      "number": 65,
+      "ko": "종에게 말하되 들에서 배회하다가 우리에게로 마주 오는 자가 누구냐 종이 이르되 이는 내 주인이니이다 리브가가 너울을 가지고 자기의 얼굴을 가리더라",
+      "en": "and asked the servant, \"Who is that man in the field coming to meet us?\" \"He is my master,\" the servant answered. So she took her veil and covered herself.",
+      "de": "und sprach zu dem Knecht: Wer ist der Mann auf dem Felde? Der Knecht sprach: Das ist mein Herr. Da nahm sie den Mantel und verhüllte sich.",
+      "zh": "仆人就将所办的一切事都告诉以撒。",
+      "ja": "僕にいひけるは野をあゆみて我等にむかひ來る者は何人なるぞ僕わが主人なりといひければリベカ覆衣をとりて身をおほへり"
+    },
+    {
+      "number": 66,
+      "ko": "종이 그 행한 일을 다 이삭에게 아뢰매",
+      "en": "Then the servant told Isaac all he had done.",
+      "de": "Und der Knecht erzählte Isaak alle Sachen, die er ausgerichtet hatte.",
+      "zh": "以撒便领利百加进了他母亲撒拉的帐棚，娶了她为妻，并且爱她。以撒自从他母亲不在了，这才得了安慰。",
+      "ja": "茲に僕其凡てなしたる事をイサクに告ぐ"
+    },
+    {
+      "number": 67,
+      "ko": "이삭이 리브가를 인도하여 그의 어머니 사라의 장막으로 들이고 그를 맞이하여 아내로 삼고 사랑하였으니 이삭이 그의 어머니를 장례한 후에 위로를 얻었더라",
+      "en": "Isaac brought her into the tent of his mother Sarah, and he married Rebekah. So she became his wife, and he loved her; and Isaac was comforted after his mother's death.",
+      "de": "Da führte sie Isaak in die Hütte seiner Mutter Sara und nahm die Rebekka und sie war sein Weib, und er gewann sie lieb. Also ward Isaak getröstet über seine Mutter.",
+      "zh": "",
+      "ja": "イサク、リベカを其母サラの天幕に携至りリベカを娶りて其妻となしてこれを愛したりイサクは母にわかれて後茲に慰籍を得たり"
+    }
+  ]
+}

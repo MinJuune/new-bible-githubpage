@@ -1,0 +1,446 @@
+{
+  "book": "Leviticus",
+  "chapter": 25,
+  "verses": [
+    {
+      "number": 1,
+      "ko": "여호와께서 시내 산에서 모세에게 말씀하여 이르시되",
+      "en": "The LORD said to Moses on Mount Sinai,",
+      "de": "Und der HERR redete mit Mose auf dem Berge Sinai und sprach:",
+      "zh": "耶和华在西奈山对摩西说：",
+      "ja": "ヱホバ、シナイ山にてモーセに告て言たまはく"
+    },
+    {
+      "number": 2,
+      "ko": "이스라엘 자손에게 말하여 이르라 너희는 내가 너희에게 주는 땅에 들어간 후에 그 땅으로 여호와 앞에 안식하게 하라",
+      "en": "\"Speak to the Israelites and say to them: 'When you enter the land I am going to give you, the land itself must observe a sabbath to the LORD.",
+      "de": "Rede mit den Kindern Israel und sprich zu ihnen: Wenn ihr in das Land kommt, das ich euch geben werde, so soll das Land seinen Sabbat dem HERRN feiern,",
+      "zh": "「你晓谕以色列人说：你们到了我所赐你们那地的时候，地就要向耶和华守安息。",
+      "ja": "イスラエルの子孫につげて之に言ふべし我が汝らに與ふる地に汝ら至らん時はその地にもヱホバにむかひて安息を守らしむべし"
+    },
+    {
+      "number": 3,
+      "ko": "너는 육 년 동안 그 밭에 파종하며 육 년 동안 그 포도원을 가꾸어 그 소출을 거둘 것이나",
+      "en": "For six years sow your fields, and for six years prune your vineyards and gather their crops.",
+      "de": "daß du sechs Jahre dein Feld besäest und sechs Jahre deinen Weinberg beschneidest und sammelst die Früchte ein;",
+      "zh": "六年要耕种田地，也要修理葡萄园，收藏地的出产。",
+      "ja": "六年のあひだ汝その田野に種播きまた六年のあひだ汝その菓園の物を剪伐てその果を斂むべし"
+    },
+    {
+      "number": 4,
+      "ko": "일곱째 해에는 그 땅이 쉬어 안식하게 할지니 여호와께 대한 안식이라 너는 그 밭에 파종하거나 포도원을 가꾸지 말며",
+      "en": "But in the seventh year the land is to have a sabbath of rest, a sabbath to the LORD. Do not sow your fields or prune your vineyards.",
+      "de": "aber im siebenten Jahr soll das Land seinen großen Sabbat dem HERRN feiern, darin du dein Feld nicht besäen noch deinen Weinberg beschneiden sollst.",
+      "zh": "第七年，地要守圣安息，就是向耶和华守的安息，不可耕种田地，也不可修理葡萄园。",
+      "ja": "然ど第七年には地に安息をなさしむべし是ヱホバにむかひてする安息なり汝その田野に種播べからずまたその菓園の物を剪伐べからず"
+    },
+    {
+      "number": 5,
+      "ko": "네가 거둔 후에 자라난 것을 거두지 말고 가꾸지 아니한 포도나무가 맺은 열매를 거두지 말라 이는 땅의 안식년임이니라",
+      "en": "Do not reap what grows of itself or harvest the grapes of your untended vines. The land is to have a year of rest.",
+      "de": "Was aber von selber nach deiner Ernte wächst, sollst du nicht ernten, und die Trauben, so ohne deine Arbeit wachsen, sollst du nicht lesen, dieweil es ein Sabbatjahr des Landes ist.",
+      "zh": "遗落自长的庄稼不可收割；没有修理的葡萄树也不可摘取葡萄。这年，地要守圣安息。",
+      "ja": "汝の穀物の自然生たる者は穫べからずまた汝の葡萄樹の修理なしに結べる葡萄は斂むべからず是地の安息の年なればなり"
+    },
+    {
+      "number": 6,
+      "ko": "안식년의 소출은 너희가 먹을 것이니 너와 네 남종과 네 여종과 네 품꾼과 너와 함께 거류하는 자들과",
+      "en": "Whatever the land yields during the sabbath year will be food for you--for yourself, your manservant and maidservant, and the hired worker and temporary resident who live among you,",
+      "de": "Aber was das Land während seines Sabbats trägt, davon sollt ihr essen, du und dein Knecht, deine Magd, dein Tagelöhner, dein Beisaß, dein Fremdling bei dir,",
+      "zh": "地在安息年所出的，要给你和你的仆人、婢女、雇工人，并寄居的外人当食物。",
+      "ja": "安息の年の產物は汝らの食となるべしすなはち汝と汝の僕と汝の婢と汝の傭人と汝の所に寄寓る他國の人"
+    },
+    {
+      "number": 7,
+      "ko": "네 가축과 네 땅에 있는 들짐승들이 다 그 소출로 먹을 것을 삼을지니라",
+      "en": "as well as for your livestock and the wild animals in your land. Whatever the land produces may be eaten.",
+      "de": "dein Vieh und die Tiere in deinem Lande; alle Früchte sollen Speise sein.",
+      "zh": "这年的土产也要给你的牲畜和你地上的走兽当食物。」",
+      "ja": "ならびに汝の家畜と汝の國の中の獣みなその產物をもて食となすべし"
+    },
+    {
+      "number": 8,
+      "ko": "너는 일곱 안식년을 계수할지니 이는 칠 년이 일곱 번인즉 안식년 일곱 번 동안 곧 사십구 년이라",
+      "en": "\"'Count off seven sabbaths of years--seven times seven years--so that the seven sabbaths of years amount to a period of forty-nine years.",
+      "de": "Und du sollst zählen solcher Sabbatjahre sieben, daß sieben Jahre siebenmal gezählt werden, und die Zeit der sieben Sabbatjahre mache neunundvierzig Jahre.",
+      "zh": "「你要计算七个安息年，就是七七年。这便为你成了七个安息年，共是四十九年。",
+      "ja": "汝安息の年を七次かぞふべし是すなはち七年を七回かぞふるなり安息の年七次の間はすなはち四十九年なり"
+    },
+    {
+      "number": 9,
+      "ko": "일곱째 달 열흘날은 속죄일이니 너는 뿔나팔 소리를 내되 전국에서 뿔나팔을 크게 불지며",
+      "en": "Then have the trumpet sounded everywhere on the tenth day of the seventh month; on the Day of Atonement sound the trumpet throughout your land.",
+      "de": "Da sollst du die Posaune lassen blasen durch all euer Land am zehnten Tage des siebenten Monats, eben am Tage der Versöhnung.",
+      "zh": "当年七月初十日，你要大发角声；这日就是赎罪日，要在遍地发出角声。",
+      "ja": "七月の十日になんぢ喇叭の聲を鳴わたらしむべし即ち贖罪の日になんぢら國の中にあまねく喇叭を吹ならさしめ"
+    },
+    {
+      "number": 10,
+      "ko": "너희는 오십 년째 해를 거룩하게 하여 그 땅에 있는 모든 주민을 위하여 자유를 공포하라 이 해는 너희에게 희년이니 너희는 각각 자기의 소유지로 돌아가며 각각 자기의 가족에게로 돌아갈지며",
+      "en": "Consecrate the fiftieth year and proclaim liberty throughout the land to all its inhabitants. It shall be a jubilee for you; each one of you is to return to his family property and each to his own clan.",
+      "de": "Und ihr sollt das fünfzigste Jahr heiligen und sollt ein Freijahr ausrufen im Lande allen, die darin wohnen; denn es ist euer Halljahr. Da soll ein jeglicher bei euch wieder zu seiner Habe und zu seinem Geschlecht kommen;",
+      "zh": "第五十年，你们要当作圣年，在遍地给一切的居民宣告自由。这年必为你们的禧年，各人要归自己的产业，各归本家。",
+      "ja": "かくしてその第五十年を聖め國中の一切の人民に自由を宣しめすべしこの年はなんぢらにはヨベルの年なりなんぢらおのおのその產業に歸りおのおのその家にかへるべし"
+    },
+    {
+      "number": 11,
+      "ko": "그 오십 년째 해는 너희의 희년이니 너희는 파종하지 말며 스스로 난 것을 거두지 말며 가꾸지 아니한 포도를 거두지 말라",
+      "en": "The fiftieth year shall be a jubilee for you; do not sow and do not reap what grows of itself or harvest the untended vines.",
+      "de": "denn das fünfzigste Jahr ist euer Halljahr. Ihr sollt nicht säen, auch was von selber wächst, nicht ernten, auch was ohne Arbeit wächst im Weinberge, nicht lesen;",
+      "zh": "第五十年要作为你们的禧年。这年不可耕种；地中自长的，不可收割；没有修理的葡萄树也不可摘取葡萄。",
+      "ja": "その五十年はなんぢらにはヨベルなりなんぢら種播べからずまた自然生たる物を穫べからず修理なしになりたる葡萄を斂むべからず"
+    },
+    {
+      "number": 12,
+      "ko": "이는 희년이니 너희에게 거룩함이니라 너희는 밭의 소출을 먹으리라",
+      "en": "For it is a jubilee and is to be holy for you; eat only what is taken directly from the fields.",
+      "de": "denn das Halljahr soll unter euch heilig sein. Ihr sollt aber essen, was das Feld trägt.",
+      "zh": "因为这是禧年，你们要当作圣年，吃地中自出的土产。",
+      "ja": "この年はヨベルにしてなんぢらに聖ければなりなんぢらは田野の產物をくらふべし"
+    },
+    {
+      "number": 13,
+      "ko": "이 희년에는 너희가 각기 자기의 소유지로 돌아갈지라",
+      "en": "\"'In this Year of Jubilee everyone is to return to his own property.",
+      "de": "Das ist das Halljahr, da jedermann wieder zu dem Seinen kommen soll.",
+      "zh": "「这禧年，你们各人要归自己的地业。",
+      "ja": "このヨベルの年にはなんぢらおのおのその產業にかへるべし"
+    },
+    {
+      "number": 14,
+      "ko": "네 이웃에게 팔든지 네 이웃의 손에서 사거든 너희 각 사람은 그의 형제를 속이지 말라",
+      "en": "\"'If you sell land to one of your countrymen or buy any from him, do not take advantage of each other.",
+      "de": "Wenn du nun etwas deinem Nächsten verkaufst oder ihm etwas abkaufst, soll keiner seinen Bruder übervorteilen,",
+      "zh": "你若卖什么给邻舍，或是从邻舍的手中买什么，彼此不可亏负。",
+      "ja": "なんぢの鄰に物を賣りまたは汝の鄰の手より物を買ふ時はなんぢらたがひに相欺むくべからず"
+    },
+    {
+      "number": 15,
+      "ko": "그 희년 후의 연수를 따라서 너는 이웃에게서 살 것이요 그도 소출을 얻을 연수를 따라서 네게 팔 것인즉",
+      "en": "You are to buy from your countryman on the basis of the number of years since the Jubilee. And he is to sell to you on the basis of the number of years left for harvesting crops.",
+      "de": "sondern nach der Zahl der Jahre vom Halljahr an sollst du es von ihm kaufen; und was die Jahre hernach tragen mögen, so hoch soll er dir's verkaufen.",
+      "zh": "你要按禧年以后的年数向邻舍买；他也要按年数的收成卖给你。",
+      "ja": "ヨベルの後の年の數にしたがひてなんぢその鄰より買ことをなすべし彼もまたその果を得べき年の數にしたがひてなんぢに賣ことをなすべきなり"
+    },
+    {
+      "number": 16,
+      "ko": "연수가 많으면 너는 그것의 값을 많이 매기고 연수가 적으면 너는 그것의 값을 적게 매길지니 곧 그가 소출의 다소를 따라서 네게 팔 것이라",
+      "en": "When the years are many, you are to increase the price, and when the years are few, you are to decrease the price, because what he is really selling you is the number of crops.",
+      "de": "Nach der Menge der Jahre sollst du den Kauf steigern, und nach der wenigen der Jahre sollst du den Kauf verringern; denn er soll dir's, nach dem es tragen mag, verkaufen.",
+      "zh": "年岁若多，要照数加添价值；年岁若少，要照数减去价值，因为他照收成的数目卖给你。",
+      "ja": "年の數多ときはなんぢその値を増し年の數少なきときはなんぢその値を減すべし即ち彼その果の多少にしたがひてこれを汝に賣るべきなり"
+    },
+    {
+      "number": 17,
+      "ko": "너희 각 사람은 자기 이웃을 속이지 말고 네 하나님을 경외하라 나는 너희의 하나님 여호와이니라",
+      "en": "Do not take advantage of each other, but fear your God. I am the LORD your God.",
+      "de": "So übervorteile nun keiner seinen Nächsten, sondern fürchte dich vor deinem Gott; denn ich bin der HERR, euer Gott.",
+      "zh": "你们彼此不可亏负，只要敬畏你们的　神，因为我是耶和华—你们的　神。」",
+      "ja": "汝らたがひに相欺むくべからず汝の神を畏るべし我は汝らの神ヱホバなり"
+    },
+    {
+      "number": 18,
+      "ko": "너희는 내 규례를 행하며 내 법도를 지켜 행하라 그리하면 너희가 그 땅에 안전하게 거주할 것이라",
+      "en": "\"'Follow my decrees and be careful to obey my laws, and you will live safely in the land.",
+      "de": "Darum tut nach meinen Satzungen und haltet meine Rechte, daß ihr darnach tut, auf daß ihr im Lande sicher wohnen möget.",
+      "zh": "「我的律例，你们要遵行，我的典章，你们要谨守，就可以在那地上安然居住。",
+      "ja": "汝等わが法度を行ひまたわが律法を守りてこれを行ふべし然せば汝ら安泰にその地に住ことを得ん"
+    },
+    {
+      "number": 19,
+      "ko": "땅은 그것의 열매를 내리니 너희가 배불리 먹고 거기 안전하게 거주하리라",
+      "en": "Then the land will yield its fruit, and you will eat your fill and live there in safety.",
+      "de": "Denn das Land soll euch seine Früchte geben, daß ihr zu essen genug habet und sicher darin wohnt.",
+      "zh": "地必出土产，你们就要吃饱，在那地上安然居住。",
+      "ja": "地はその產物を出さん汝等は飽までに食ひて安泰に其處に住ことを得べし"
+    },
+    {
+      "number": 20,
+      "ko": "만일 너희가 말하기를 우리가 만일 일곱째 해에 심지도 못하고 소출을 거두지도 못하면 우리가 무엇을 먹으리요 하겠으나",
+      "en": "You may ask, \"What will we eat in the seventh year if we do not plant or harvest our crops?\"",
+      "de": "Und ob du würdest sagen: Was sollen wir essen im siebenten Jahr? denn wir säen nicht, so sammeln wir auch kein Getreide ein:",
+      "zh": "你们若说：『这第七年我们不耕种，也不收藏土产，吃什么呢？』",
+      "ja": "汝等は我等もし第七年に種をまかずまたその產物を斂めずば何を食はんやと言か"
+    },
+    {
+      "number": 21,
+      "ko": "내가 명령하여 여섯째 해에 내 복을 너희에게 주어 그 소출이 삼 년 동안 쓰게 하리라",
+      "en": "I will send you such a blessing in the sixth year that the land will yield enough for three years.",
+      "de": "da will ich meinem Segen über euch im sechsten Jahr gebieten, das er soll dreier Jahr Getreide machen,",
+      "zh": "我必在第六年将我所命的福赐给你们，地便生三年的土产。",
+      "ja": "我命じて第六年に恩澤を汝等に降し三年だけの果を結ばしむべし"
+    },
+    {
+      "number": 22,
+      "ko": "너희가 여덟째 해에는 파종하려니와 묵은 소출을 먹을 것이며 아홉째 해에 그 땅에 소출이 들어오기까지 너희는 묵은 것을 먹으리라",
+      "en": "While you plant during the eighth year, you will eat from the old crop and will continue to eat from it until the harvest of the ninth year comes in.",
+      "de": "daß ihr säet im achten Jahr und von dem alten Getreide esset bis in das neunte Jahr, daß ihr vom alten esset, bis wieder neues Getreide kommt.",
+      "zh": "第八年，你们要耕种，也要吃陈粮，等到第九年出产收来的时候，你们还吃陈粮。」",
+      "ja": "汝等第八年には種を播ん然ど第九年までその舊き果を食ふことを得んすなはちその果のいできたるまで汝ら舊き者を食ふことを得べし"
+    },
+    {
+      "number": 23,
+      "ko": "토지를 영구히 팔지 말 것은 토지는 다 내 것임이니라 너희는 거류민이요 동거하는 자로서 나와 함께 있느니라",
+      "en": "\"'The land must not be sold permanently, because the land is mine and you are but aliens and my tenants.",
+      "de": "Darum sollt ihr das Land nicht verkaufen für immer; denn das Land ist mein, und ihr seid Fremdlinge und Gäste vor mir.",
+      "zh": "「地不可永卖，因为地是我的；你们在我面前是客旅，是寄居的。",
+      "ja": "地を賣には限りなく賣べからず地は我の有なればなり汝らは客旅また寄寓者にして我とともに在るなり"
+    },
+    {
+      "number": 24,
+      "ko": "너희 기업의 온 땅에서 그 토지 무르기를 허락할지니",
+      "en": "Throughout the country that you hold as a possession, you must provide for the redemption of the land.",
+      "de": "Und sollt in all eurem Lande das Land zu lösen geben.",
+      "zh": "在你们所得为业的全地，也要准人将地赎回。",
+      "ja": "汝らの產業の地に於ては凡てその地を贖ふことを許すべし"
+    },
+    {
+      "number": 25,
+      "ko": "만일 네 형제가 가난하여 그의 기업 중에서 얼마를 팔았으면 그에게 가까운 기업 무를 자가 와서 그의 형제가 판 것을 무를 것이요",
+      "en": "\"'If one of your countrymen becomes poor and sells some of his property, his nearest relative is to come and redeem what his countryman has sold.",
+      "de": "Wenn dein Bruder verarmt, und verkauft dir seine Habe, und sein nächster Verwandter kommt zu ihm, daß er's löse, so soll er's lösen, was sein Bruder verkauft hat.",
+      "zh": "你的弟兄若渐渐穷乏，卖了几分地业，他至近的亲属就要来把弟兄所卖的赎回。",
+      "ja": "汝の兄弟もし零落てその產業を賣しことあらばその贖業人たる親戚きたりてその兄弟の賣たる者を贖ふべし"
+    },
+    {
+      "number": 26,
+      "ko": "만일 그것을 무를 사람이 없고 자기가 부유하게 되어 무를 힘이 있으면",
+      "en": "If, however, a man has no one to redeem it for him but he himself prospers and acquires sufficient means to redeem it,",
+      "de": "Wenn aber jemand keinen Löser hat und kann mit seiner Hand so viel zuwege bringen, daß er's löse,",
+      "zh": "若没有能给他赎回的，他自己渐渐富足，能够赎回，",
+      "ja": "若また人の之を贖ふ者あらずして己みづから之を贖ふことを得にいたらば"
+    },
+    {
+      "number": 27,
+      "ko": "그 판 해를 계수하여 그 남은 값을 산 자에게 주고 자기의 소유지로 돌릴 것이니라",
+      "en": "he is to determine the value for the years since he sold it and refund the balance to the man to whom he sold it; he can then go back to his own property.",
+      "de": "so soll er rechnen von dem Jahr, da er's verkauft hat, und was noch übrig ist, dem Käufer wiedergeben und also wieder zu seiner Habe kommen.",
+      "zh": "就要算出卖地的年数，把余剩年数的价值还那买主，自己便归回自己的地业。",
+      "ja": "その賣てよりの年を數へて之が餘の分をその買主に償ふべし然せばその產業にかへることを得ん"
+    },
+    {
+      "number": 28,
+      "ko": "그러나 자기가 무를 힘이 없으면 그 판 것이 희년에 이르기까지 산 자의 손에 있다가 희년에 이르러 돌아올지니 그것이 곧 그의 기업으로 돌아갈 것이니라",
+      "en": "But if he does not acquire the means to repay him, what he sold will remain in the possession of the buyer until the Year of Jubilee. It will be returned in the Jubilee, and he can then go back to his property.",
+      "de": "Kann aber seine Hand nicht so viel finden, daß er's ihm wiedergebe, so soll, was er verkauft hat, in der Hand des Käufers bleiben bis zum Halljahr; in demselben soll es frei werden und er wieder zu seiner Habe kommen.",
+      "zh": "倘若不能为自己得回所卖的，仍要存在买主的手里直到禧年；到了禧年，地业要出买主的手，自己便归回自己的地业。",
+      "ja": "然ど若これをその人に償ふことを得ずばその賣たる者は買主の手にヨベルの年まで在てヨベルに及びてもどさるべし彼すなはちその產業にかへることを得ん"
+    },
+    {
+      "number": 29,
+      "ko": "성벽 있는 성 내의 가옥을 팔았으면 판 지 만 일 년 안에는 무를 수 있나니 곧 그 기한 안에 무르려니와",
+      "en": "\"'If a man sells a house in a walled city, he retains the right of redemption a full year after its sale. During that time he may redeem it.",
+      "de": "Wer ein Wohnhaus verkauft in einer Stadt mit Mauern, der hat ein ganzes Jahr Frist, dasselbe wieder zu lösen; das soll die Zeit sein, darin er es lösen kann.",
+      "zh": "「人若卖城内的住宅，卖了以后，一年之内可以赎回；在一整年，必有赎回的权柄。",
+      "ja": "人石垣ある城邑の内の住宅を賣ことあらんに賣てより全一年の間はこれを贖ふことを得べし即ち期定の日の内にその贖をなすべきなり"
+    },
+    {
+      "number": 30,
+      "ko": "일 년 안에 무르지 못하면 그 성 안의 가옥은 산 자의 소유로 확정되어 대대로 영구히 그에게 속하고 희년에라도 돌려보내지 아니할 것이니라",
+      "en": "If it is not redeemed before a full year has passed, the house in the walled city shall belong permanently to the buyer and his descendants. It is not to be returned in the Jubilee.",
+      "de": "Wo er's aber nicht löst, ehe denn das ganze Jahr um ist, so soll's der Käufer für immer behalten und seine Nachkommen, und es soll nicht frei werden im Halljahr.",
+      "zh": "若在一整年之内不赎回，这城内的房屋就定准永归买主，世世代代为业；在禧年也不得出买主的手。",
+      "ja": "もし全一年の内に贖ふことなくばその石垣ある城邑の内の家は買主の者に確定りて代々ながくこれに屬しヨベルにももどされざるべし"
+    },
+    {
+      "number": 31,
+      "ko": "그러나 성벽이 둘리지 아니한 촌락의 가옥은 나라의 전토와 같이 물러 주기도 할 것이요 희년에 돌려보내기도 할 것이니라",
+      "en": "But houses in villages without walls around them are to be considered as open country. They can be redeemed, and they are to be returned in the Jubilee.",
+      "de": "Ist's aber ein Haus auf dem Dorfe, um das keine Mauer ist, das soll man dem Feld des Landes gleich rechnen, und es soll können los werden und im Halljahr frei werden.",
+      "zh": "但房屋在无城墙的村庄里，要看如乡下的田地一样，可以赎回；到了禧年，都要出买主的手。",
+      "ja": "然ど周圍に石垣あらざる村落の家はその國の田畝の附屬物と見做べし是は贖はるべくまたヨベルにいたりてもどさるべきなり"
+    },
+    {
+      "number": 32,
+      "ko": "레위 족속의 성읍 곧 그들의 소유의 성읍의 가옥은 레위 사람이 언제든지 무를 수 있으나",
+      "en": "\"'The Levites always have the right to redeem their houses in the Levitical towns, which they possess.",
+      "de": "Die Städte der Leviten aber, nämlich die Häuser in den Städten, darin ihre Habe ist, können immerdar gelöst werden.",
+      "zh": "然而利未人所得为业的城邑，其中的房屋，利未人可以随时赎回。",
+      "ja": "レビ人の邑々すなはちレビ人の產業の邑々の家はレビ人何時にでも贖ふことを得べし"
+    },
+    {
+      "number": 33,
+      "ko": "만일 레위 사람이 무르지 아니하면 그의 소유 성읍의 판 가옥은 희년에 돌려 보낼지니 이는 레위 사람의 성읍의 가옥은 이스라엘 자손 중에서 받은 그들의 기업이 됨이니라",
+      "en": "So the property of the Levites is redeemable--that is, a house sold in any town they hold--and is to be returned in the Jubilee, because the houses in the towns of the Levites are their property among the Israelites.",
+      "de": "Wer etwas von den Leviten löst, der soll's verlassen im Halljahr, es sei Haus oder Stadt, das er besessen hat; denn die Häuser in den Städten der Leviten sind ihre Habe unter den Kindern Israel.",
+      "zh": "若是一个利未人不将所卖的房屋赎回，是在所得为业的城内，到了禧年就要出买主的手，因为利未人城邑的房屋是他们在以色列人中的产业。",
+      "ja": "人もしレビ人の產業の邑においてレビ人より家を買ことあらば彼の賣たる家はヨベルにおよびて返さるべし其はレビ人の邑々の家はイスラエルの子孫の中に是がもてる產業なればなり"
+    },
+    {
+      "number": 34,
+      "ko": "그러나 그들의 성읍 주위에 있는 들판은 그들의 영원한 소유지이니 팔지 못할지니라",
+      "en": "But the pastureland belonging to their towns must not be sold; it is their permanent possession.",
+      "de": "Aber das Feld vor ihren Städten soll man nicht verkaufen; denn das ist ihr Eigentum ewiglich.",
+      "zh": "只是他们各城郊野之地不可卖，因为是他们永远的产业。」",
+      "ja": "但しその邑々の郊地の田畝は賣べからず是その永久の產業なればなり"
+    },
+    {
+      "number": 35,
+      "ko": "네 형제가 가난하게 되어 빈 손으로 네 곁에 있거든 너는 그를 도와 거류민이나 동거인처럼 너와 함께 생활하게 하되",
+      "en": "\"'If one of your countrymen becomes poor and is unable to support himself among you, help him as you would an alien or a temporary resident, so he can continue to live among you.",
+      "de": "Wenn dein Bruder verarmt und neben dir abnimmt, so sollst du ihn aufnehmen als einen Fremdling oder Gast, daß er lebe neben dir,",
+      "zh": "「你的弟兄在你那里若渐渐贫穷，手中缺乏，你就要帮补他，使他与你同住，像外人和寄居的一样。",
+      "ja": "汝の兄弟零落かつ手慄ひて汝の傍にあらば之を扶助け之をして客旅または寄寓者のごとくに汝とともにありて生命を保たしむべし"
+    },
+    {
+      "number": 36,
+      "ko": "너는 그에게 이자를 받지 말고 네 하나님을 경외하여 네 형제로 너와 함께 생활하게 할 것인즉",
+      "en": "Do not take interest of any kind from him, but fear your God, so that your countryman may continue to live among you.",
+      "de": "und sollst nicht Zinsen von ihm nehmen noch Wucher, sondern sollst dich vor deinem Gott fürchten, auf daß dein Bruder neben dir leben könne.",
+      "zh": "不可向他取利，也不可向他多要；只要敬畏你的　神，使你的弟兄与你同住。",
+      "ja": "汝の兄弟より利をも息をも取べからず神を畏るべしまた汝の兄弟をして汝とともにありて生命を保たしむべし"
+    },
+    {
+      "number": 37,
+      "ko": "너는 그에게 이자를 위하여 돈을 꾸어 주지 말고 이익을 위하여 네 양식을 꾸어 주지 말라",
+      "en": "You must not lend him money at interest or sell him food at a profit.",
+      "de": "Denn du sollst ihm dein Geld nicht auf Zinsen leihen noch deine Speise auf Wucher austun.",
+      "zh": "你借钱给他，不可向他取利；借粮给他，也不可向他多要。",
+      "ja": "汝かれに利をとりて金を貸べからずまた益を得んとて食物を貸べからず"
+    },
+    {
+      "number": 38,
+      "ko": "나는 너희의 하나님이 되며 또 가나안 땅을 너희에게 주려고 애굽 땅에서 너희를 인도하여 낸 너희의 하나님 여호와이니라",
+      "en": "I am the LORD your God, who brought you out of Egypt to give you the land of Canaan and to be your God.",
+      "de": "Denn ich bin der HERR, euer Gott, der euch aus Ägyptenland geführt hat, daß ich euch das Land Kanaan gäbe und euer Gott wäre.",
+      "zh": "我是耶和华—你们的　神，曾领你们从埃及地出来，为要把迦南地赐给你们，要作你们的　神。」",
+      "ja": "我は汝等の神ヱホバにしてカナンの地を汝らに與へ且なんぢらの神とならんとて汝らをエジプトの國より導きいだせし者なり"
+    },
+    {
+      "number": 39,
+      "ko": "너와 함께 있는 네 형제가 가난하게 되어 네게 몸이 팔리거든 너는 그를 종으로 부리지 말고",
+      "en": "\"'If one of your countrymen becomes poor among you and sells himself to you, do not make him work as a slave.",
+      "de": "Wenn dein Bruder verarmt neben dir und verkauft sich dir, so sollst du ihn nicht lassen dienen als einen Leibeigenen;",
+      "zh": "「你的弟兄若在你那里渐渐穷乏，将自己卖给你，不可叫他像奴仆服事你。",
+      "ja": "汝の兄弟零落て汝に身を賣ことあらば汝これを奴隸のごとくに使役べからず"
+    },
+    {
+      "number": 40,
+      "ko": "품꾼이나 동거인과 같이 함께 있게 하여 희년까지 너를 섬기게 하라",
+      "en": "He is to be treated as a hired worker or a temporary resident among you; he is to work for you until the Year of Jubilee.",
+      "de": "sondern wie ein Tagelöhner und Gast soll er bei dir sein und bis an das Halljahr bei dir dienen.",
+      "zh": "他要在你那里像雇工人和寄居的一样，要服事你直到禧年。",
+      "ja": "彼をして傭人または寄寓者のごとくにして汝とともに在しめヨベルの年まで汝に仕へしむべし"
+    },
+    {
+      "number": 41,
+      "ko": "그 때에는 그와 그의 자녀가 함께 네게서 떠나 그의 가족과 그의 조상의 기업으로 돌아가게 하라",
+      "en": "Then he and his children are to be released, and he will go back to his own clan and to the property of his forefathers.",
+      "de": "Dann soll er von dir frei ausgehen und seine Kinder mit ihm und soll wiederkommen zu seinem Geschlecht und zu seiner Väter Habe.",
+      "zh": "到了禧年，他和他儿女要离开你，一同出去归回本家，到他祖宗的地业那里去。",
+      "ja": "其時には彼その子女とともに汝の所より出去りその一族にかへりその父祖等の產業に歸るべし"
+    },
+    {
+      "number": 42,
+      "ko": "그들은 내가 애굽 땅에서 인도하여 낸 내 종들이니 종으로 팔지 말 것이라",
+      "en": "Because the Israelites are my servants, whom I brought out of Egypt, they must not be sold as slaves.",
+      "de": "Denn sie sind meine Knechte, die ich aus Ägyptenland geführt habe; darum soll man sie nicht auf leibeigene Weise verkaufen.",
+      "zh": "因为他们是我的仆人，是我从埃及地领出来的，不可卖为奴仆。",
+      "ja": "彼らはエジプトの國より我が導き出せし我の僕なれば身を賣て奴隸となる可らず"
+    },
+    {
+      "number": 43,
+      "ko": "너는 그를 엄하게 부리지 말고 네 하나님을 경외하라",
+      "en": "Do not rule over them ruthlessly, but fear your God.",
+      "de": "Und sollst nicht mit Strenge über sie herrschen, sondern dich fürchten vor deinem Gott.",
+      "zh": "不可严严地辖管他，只要敬畏你的　神。",
+      "ja": "汝嚴く彼を使ふべからず汝の神を畏るべし"
+    },
+    {
+      "number": 44,
+      "ko": "네 종은 남녀를 막론하고 네 사방 이방인 중에서 취할지니 남녀 종은 이런 자 중에서 사올 것이며",
+      "en": "\"'Your male and female slaves are to come from the nations around you; from them you may buy slaves.",
+      "de": "Willst du aber leibeigene Knechte und Mägde haben, so sollst du sie kaufen von den Heiden, die um euch her sind,",
+      "zh": "至于你的奴仆、婢女，可以从你四围的国中买。",
+      "ja": "汝の有つ奴隸は男女ともに汝の四周の異邦人の中より取べし男女の奴隸は是る者の中より買べきなり"
+    },
+    {
+      "number": 45,
+      "ko": "또 너희 중에 거류하는 동거인들의 자녀 중에서도 너희가 사올 수 있고 또 그들이 너희와 함께 있어서 너희 땅에서 가정을 이룬 자들 중에서도 그리 할 수 있은즉 그들이 너희의 소유가 될지니라",
+      "en": "You may also buy some of the temporary residents living among you and members of their clans born in your country, and they will become your property.",
+      "de": "und auch von den Kindern der Gäste, die Fremdlinge unter euch sind, und von ihren Nachkommen, die sie bei euch in eurem Land zeugen; dieselben mögt ihr zu eigen haben",
+      "zh": "并且那寄居在你们中间的外人和他们的家属，在你们地上所生的，你们也可以从其中买人；他们要作你们的产业。",
+      "ja": "また汝らの中に寄寓る異邦人の子女の中よりも汝ら買ことを得また彼等の中汝らの國に生れて汝らと偕に居る人々の家よりも然り彼等は汝らの所有となるべし"
+    },
+    {
+      "number": 46,
+      "ko": "너희는 그들을 너희 후손에게 기업으로 주어 소유가 되게 할 것이라 이방인 중에서는 너희가 영원한 종을 삼으려니와 너희 동족 이스라엘 자손은 너희가 피차 엄하게 부리지 말지니라",
+      "en": "You can will them to your children as inherited property and can make them slaves for life, but you must not rule over your fellow Israelites ruthlessly.",
+      "de": "und sollt sie besitzen und eure Kinder nach euch zum Eigentum für und für; die sollt ihr leibeigene Knechte sein lassen. Aber von euren Brüdern, den Kindern Israel, soll keiner über den andern herrschen mit Strenge.",
+      "zh": "你们要将他们遗留给你们的子孙为产业，要永远从他们中间拣出奴仆；只是你们的弟兄以色列人，你们不可严严地辖管。",
+      "ja": "汝ら彼らを獲て汝らの後の子孫の所有に遺し之に彼等を有ちてその所有となさしむることを得べし彼等は永く汝らの奴隸とならん然ど汝らの兄弟なるイスラエルの子孫をば汝等たがひに嚴しく相使ふべからす"
+    },
+    {
+      "number": 47,
+      "ko": "만일 너와 함께 있는 거류민이나 동거인은 부유하게 되고 그와 함께 있는 네 형제는 가난하게 되므로 그가 너와 함께 있는 거류민이나 동거인 또는 거류민의 가족의 후손에게 팔리면",
+      "en": "\"'If an alien or a temporary resident among you becomes rich and one of your countrymen becomes poor and sells himself to the alien living among you or to a member of the alien's clan,",
+      "de": "Wenn irgend ein Fremdling oder Gast bei dir zunimmt und dein Bruder neben ihm verarmt und sich dem Fremdling oder Gast bei dir oder jemand von seinem Stamm verkauft,",
+      "zh": "「住在你那里的外人，或是寄居的，若渐渐富足，你的弟兄却渐渐穷乏，将自己卖给那外人，或是寄居的，或是外人的宗族，",
+      "ja": "汝の中なる客旅又は寄寓者にして富を致しその傍に住る汝の兄弟零落て汝の中なるその客旅あるひは寄寓者あるひは客旅の家の分支などに身を賣ることあらば"
+    },
+    {
+      "number": 48,
+      "ko": "그가 팔린 후에 그에게는 속량 받을 권리가 있나니 그의 형제 중 하나가 그를 속량하거나",
+      "en": "he retains the right of redemption after he has sold himself. One of his relatives may redeem him:",
+      "de": "so soll er nach seinem Verkaufen Recht haben, wieder frei zu werden, und es mag ihn jemand unter seinen Brüdern lösen,",
+      "zh": "卖了以后，可以将他赎回。无论是他的弟兄，",
+      "ja": "その身を賣たる後に贖はるることを得その兄弟の一人これを贖ふべし"
+    },
+    {
+      "number": 49,
+      "ko": "또는 그의 삼촌이나 그의 삼촌의 아들이 그를 속량하거나 그의 가족 중 그의 살붙이 중에서 그를 속량할 것이요 그가 부유하게 되면 스스로 속량하되",
+      "en": "An uncle or a cousin or any blood relative in his clan may redeem him. Or if he prospers, he may redeem himself.",
+      "de": "oder sein Vetter oder Vetters Sohn oder sonst ein Blutsfreund seines Geschlechts; oder so seine Hand so viel erwirbt, so soll er selbst sich lösen.",
+      "zh": "或伯叔、伯叔的儿子，本家的近支，都可以赎他。他自己若渐渐富足，也可以自赎。",
+      "ja": "その伯叔または伯叔の子これを贖ふべくその家の骨肉の親たる者これを贖ふべしまた若能せば自ら贖ふべし"
+    },
+    {
+      "number": 50,
+      "ko": "자기 몸이 팔린 해로부터 희년까지를 그 산 자와 계산하여 그 연수를 따라서 그 몸의 값을 정할 때에 그 사람을 섬긴 날을 그 사람에게 고용된 날로 여길 것이라",
+      "en": "He and his buyer are to count the time from the year he sold himself up to the Year of Jubilee. The price for his release is to be based on the rate paid to a hired man for that number of years.",
+      "de": "Und soll mit seinem Käufer rechnen von dem Jahr an, da er sich verkauft hatte, bis aufs Halljahr; und das Geld, darum er sich verkauft hat, soll nach der Zahl der Jahre gerechnet werden, als wäre er die ganze Zeit Tagelöhner bei ihm gewesen.",
+      "zh": "他要和买主计算，从卖自己的那年起，算到禧年；所卖的价值照着年数多少，好像工人每年的工价。",
+      "ja": "然る時は彼己が身を賣たる年よりヨベルの年までをその買主とともに數へその年の數にしたがひてその身の代の金を定むべしまたその人に仕へし日は人を傭ひし日のごとくに數ふべきなり"
+    },
+    {
+      "number": 51,
+      "ko": "만일 남은 해가 많으면 그 연수대로 팔린 값에서 속량하는 값을 그 사람에게 도로 주고",
+      "en": "If many years remain, he must pay for his redemption a larger share of the price paid for him.",
+      "de": "Sind noch viele Jahre bis an das Halljahr, so soll er nach denselben desto mehr zu seiner Lösung wiedergeben von dem Gelde darum er gekauft ist.",
+      "zh": "若缺少的年数多，就要按着年数从买价中偿还他的赎价。",
+      "ja": "若なほ遺れる年多からばその數にしたがひまたその買れし金に照して贖の金をその人に償ふべし"
+    },
+    {
+      "number": 52,
+      "ko": "만일 희년까지 남은 해가 적으면 그 사람과 계산하여 그 연수대로 속량하는 그 값을 그에게 도로 줄지며",
+      "en": "If only a few years remain until the Year of Jubilee, he is to compute that and pay for his redemption accordingly.",
+      "de": "Sind aber wenig Jahre übrig bis ans Halljahr, so soll er auch darnach wiedergeben zu seiner Lösung.",
+      "zh": "若到禧年只缺少几年，就要按着年数和买主计算，偿还他的赎价。",
+      "ja": "若またヨベルの年までに遺れる年少からばその人とともに計算をなしその年數にてらして贖の金を之に償ふべし"
+    },
+    {
+      "number": 53,
+      "ko": "주인은 그를 매년의 삯꾼과 같이 여기고 네 목전에서 엄하게 부리지 말지니라",
+      "en": "He is to be treated as a man hired from year to year; you must see to it that his owner does not rule over him ruthlessly.",
+      "de": "Als Tagelöhner soll er von Jahr zu Jahr bei ihm sein, und sollst nicht lassen mit Strenge über ihn herrschen vor deinen Augen.",
+      "zh": "他和买主同住，要像每年雇的工人，买主不可严严地辖管他。",
+      "ja": "彼のその人に仕ふる事は歳雇の傭人のごとくなるべし汝の目の前において彼を嚴く使はしむべからす"
+    },
+    {
+      "number": 54,
+      "ko": "그가 이같이 속량하지 아니하여 희년에 이르러는 그와 그의 자녀가 자유하리니",
+      "en": "\"'Even if he is not redeemed in any of these ways, he and his children are to be released in the Year of Jubilee,",
+      "de": "Wird er aber auf diese Weise sich nicht lösen, so soll er im Halljahr frei ausgehen und seine Kinder mit ihm.",
+      "zh": "他若不这样被赎，到了禧年，要和他的儿女一同出去。",
+      "ja": "彼もし斯く贖はれずばヨベルのの年にいたりてその子女とともに出べし"
+    },
+    {
+      "number": 55,
+      "ko": "이스라엘 자손은 나의 종들이 됨이라 그들은 내가 애굽 땅에서 인도하여 낸 내 종이요 나는 너희의 하나님 여호와이니라",
+      "en": "for the Israelites belong to me as servants. They are my servants, whom I brought out of Egypt. I am the LORD your God.",
+      "de": "Denn die Kinder Israel sind meine Knechte, die ich aus Ägyptenland geführt habe. Ich bin der HERR, euer Gott.",
+      "zh": "因为以色列人都是我的仆人，是我从埃及地领出来的。我是耶和华—你们的　神。」",
+      "ja": "是イスラエルの子孫は我の僕なるに因る彼等はわが僕にして我がエジプトの地より導き出せし者なり我は汝らの神ヱホバなり"
+    }
+  ]
+}

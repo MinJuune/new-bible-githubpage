@@ -1,0 +1,302 @@
+{
+  "book": "Job",
+  "chapter": 34,
+  "verses": [
+    {
+      "number": 1,
+      "ko": "엘리후가 말하여 이르되",
+      "en": "Then Elihu said:",
+      "de": "Und es hob an Elihu und sprach:",
+      "zh": "以利户又说：",
+      "ja": "エリフまた答へて曰く"
+    },
+    {
+      "number": 2,
+      "ko": "지혜 있는 자들아 내 말을 들으며 지식 있는 자들아 내게 귀를 기울이라",
+      "en": "\"Hear my words, you wise men; listen to me, you men of learning.",
+      "de": "Hört, ihr Weisen, meine Rede, und ihr Verständigen, merkt auf mich!",
+      "zh": "你们智慧人要听我的话； 有知识的人要留心听我说。",
+      "ja": "なんぢら智慧ある者よ我言を聽け 知識ある者よ我に耳を傾むけよ"
+    },
+    {
+      "number": 3,
+      "ko": "입이 음식물의 맛을 분별함 같이 귀가 말을 분별하나니",
+      "en": "For the ear tests words as the tongue tastes food.",
+      "de": "Denn das Ohr prüft die Rede, und der Mund schmeckt die Speise.",
+      "zh": "因为耳朵试验话语， 好像上膛尝食物。",
+      "ja": "口の食物を味はふごとく耳は言詞を辨まふ"
+    },
+    {
+      "number": 4,
+      "ko": "우리가 정의를 가려내고 무엇이 선한가 우리끼리 알아보자",
+      "en": "Let us discern for ourselves what is right; let us learn together what is good.",
+      "de": "Laßt uns ein Urteil finden, daß wir erkennen unter uns, was gut sei.",
+      "zh": "我们当选择何为是， 彼此知道何为善。",
+      "ja": "われら自ら是非を究め われらもろともに善惡を明らかにせん"
+    },
+    {
+      "number": 5,
+      "ko": "욥이 말하기를 내가 의로우나 하나님이 내 의를 부인하셨고",
+      "en": "\"Job says, 'I am innocent, but God denies me justice.",
+      "de": "Denn Hiob hat gesagt: “Ich bin gerecht, und Gott weigert mir mein Recht;",
+      "zh": "约伯曾说：我是公义， 　神夺去我的理；",
+      "ja": "それヨブは言ふ我は義し 神われに正しき審判を施こしたまはず"
+    },
+    {
+      "number": 6,
+      "ko": "내가 정당함에도 거짓말쟁이라 하였고 나는 허물이 없으나 화살로 상처를 입었노라 하니",
+      "en": "Although I am right, I am considered a liar; although I am guiltless, his arrow inflicts an incurable wound.'",
+      "de": "ich muß lügen, ob ich wohl recht habe, und bin gequält von meinen Pfeilen, ob ich wohl nichts verschuldet habe.”",
+      "zh": "我虽有理，还算为说谎言的； 我虽无过，受的伤还不能医治。",
+      "ja": "われは義しかれども僞る者とせらる 我は愆なけれどもわが身の矢創愈がたしと"
+    },
+    {
+      "number": 7,
+      "ko": "어떤 사람이 욥과 같으랴 욥이 비방하기를 물마시듯 하며",
+      "en": "What man is like Job, who drinks scorn like water?",
+      "de": "Wer ist ein solcher Hiob, der da Spötterei trinkt wie Wasser",
+      "zh": "谁像约伯， 喝讥诮如同喝水呢？",
+      "ja": "何人かヨブのごとくならん彼は罵言を水のごとくに飮み"
+    },
+    {
+      "number": 8,
+      "ko": "악한 일을 하는 자들과 한패가 되어 악인과 함께 다니면서",
+      "en": "He keeps company with evildoers; he associates with wicked men.",
+      "de": "und auf dem Wege geht mit den Übeltätern und wandelt mit gottlosen Leuten?",
+      "zh": "他与作孽的结伴， 和恶人同行。",
+      "ja": "惡き事を爲す者等と交はり 惡人とともに歩むなり"
+    },
+    {
+      "number": 9,
+      "ko": "이르기를 사람이 하나님을 기뻐하나 무익하다 하는구나",
+      "en": "For he says, 'It profits a man nothing when he tries to please God.'",
+      "de": "Denn er hat gesagt: “Wenn jemand schon fromm ist, so gilt er doch nichts bei Gott.”",
+      "zh": "他说：人以　神为乐， 总是无益。",
+      "ja": "すなはち彼いへらく 人は神と親しむとも身に益なしと"
+    },
+    {
+      "number": 10,
+      "ko": "그러므로 너희 총명한 자들아 내 말을 들으라 하나님은 악을 행하지 아니하시며 전능자는 결코 불의를 행하지 아니하시고",
+      "en": "\"So listen to me, you men of understanding. Far be it from God to do evil, from the Almighty to do wrong.",
+      "de": "Darum hört mir zu, ihr weisen Leute: Es sei ferne, daß Gott sollte gottlos handeln und der Allmächtige ungerecht;",
+      "zh": "所以，你们明理的人要听我的话。 　神断不致行恶； 全能者断不致作孽。",
+      "ja": "然ばなんぢら心ある人々よ我に聽け 神は惡を爲すことを決めて無く 全能者は不義を行ふこと決めて無し"
+    },
+    {
+      "number": 11,
+      "ko": "사람의 행위를 따라 갚으사 각각 그의 행위대로 받게 하시나니",
+      "en": "He repays a man for what he has done; he brings upon him what his conduct deserves.",
+      "de": "sondern er vergilt dem Menschen, darnach er verdient hat, und trifft einen jeglichen nach seinem Tun.",
+      "zh": "他必按人所做的报应人， 使各人照所行的得报。",
+      "ja": "却つて人の所爲をその身に報い 人をしてその行爲にしたがひて獲るところあらしめたまふ"
+    },
+    {
+      "number": 12,
+      "ko": "진실로 하나님은 악을 행하지 아니하시며 전능자는 공의를 굽히지 아니하시느니라",
+      "en": "It is unthinkable that God would do wrong, that the Almighty would pervert justice.",
+      "de": "Ohne zweifel, Gott verdammt niemand mit Unrecht, und der Allmächtige beugt das Recht nicht.",
+      "zh": "神必不作恶； 全能者也不偏离公平。",
+      "ja": "かならず神は惡き事をなしたまはず全能者は審判を抂たまはざるなり"
+    },
+    {
+      "number": 13,
+      "ko": "누가 땅을 그에게 맡겼느냐 누가 온 세상을 그에게 맡겼느냐",
+      "en": "Who appointed him over the earth? Who put him in charge of the whole world?",
+      "de": "Wer hat, was auf Erden ist, verordnet, und wer hat den ganzen Erdboden gesetzt?",
+      "zh": "谁派他治理地， 安定全世界呢？",
+      "ja": "たれかこの地を彼に委ねし者あらん 誰か全世界を定めし者あらん"
+    },
+    {
+      "number": 14,
+      "ko": "그가 만일 뜻을 정하시고 그의 영과 목숨을 거두실진대",
+      "en": "If it were his intention and he withdrew his spirit and breath,",
+      "de": "So er nun an sich dächte, seinen Geist und Odem an sich zöge,",
+      "zh": "他若专心为己， 将灵和气收归自己，",
+      "ja": "神もしその心を己にのみ用ひ その靈と氣息とを己に收回したまはば"
+    },
+    {
+      "number": 15,
+      "ko": "모든 육체가 다 함께 죽으며 사람은 흙으로 돌아가리라",
+      "en": "all mankind would perish together and man would return to the dust.",
+      "de": "so würde alles Fleisch miteinander vergehen, und der Mensch würde wieder zu Staub werden.",
+      "zh": "凡有血气的就必一同死亡； 世人必仍归尘土。",
+      "ja": "もろもろの血肉ことごとく亡び人も亦塵にかへるべし"
+    },
+    {
+      "number": 16,
+      "ko": "만일 네가 총명이 있거든 이것을 들으며 내 말소리에 귀를 기울이라",
+      "en": "\"If you have understanding, hear this; listen to what I say.",
+      "de": "Hast du nun Verstand, so höre das und merke auf die Stimme meiner Reden.",
+      "zh": "你若明理，就当听我的话， 留心听我言语的声音。",
+      "ja": "なんぢもし曉ることを得ば請ふ我に聽けわが言詞の聲に耳を側だてよ"
+    },
+    {
+      "number": 17,
+      "ko": "정의를 미워하시는 이시라면 어찌 그대를 다스리시겠느냐 의롭고 전능하신 이를 그대가 정죄하겠느냐",
+      "en": "Can he who hates justice govern? Will you condemn the just and mighty One?",
+      "de": "Kann auch, der das Recht haßt regieren? Oder willst du den, der gerecht und mächtig ist, verdammen?",
+      "zh": "难道恨恶公平的可以掌权吗？ 那有公义的、有大能的，岂可定他有罪吗？",
+      "ja": "公義を惡む者あに世ををさむるを得んや なんぢあに至義き者を惡しとすべけんや"
+    },
+    {
+      "number": 18,
+      "ko": "그는 왕에게라도 무용지물이라 하시며 지도자들에게라도 악하다 하시며",
+      "en": "Is he not the One who says to kings, 'You are worthless,' and to nobles, 'You are wicked,'",
+      "de": "Sollte einer zum König sagen: “Du heilloser Mann!” und zu den Fürsten: “Ihr Gottlosen!”?",
+      "zh": "他对君王说：你是鄙陋的； 对贵臣说：你是邪恶的。",
+      "ja": "王たる者にむかひて汝は邪曲なりと言ひ 牧伯たる者にむかひて汝らは惡しといふべけんや"
+    },
+    {
+      "number": 19,
+      "ko": "고관을 외모로 대하지 아니하시며 가난한 자들 앞에서 부자의 낯을 세워주지 아니하시나니 이는 그들이 다 그의 손으로 지으신 바가 됨이라",
+      "en": "who shows no partiality to princes and does not favor the rich over the poor, for they are all the work of his hands?",
+      "de": "Und er sieht nicht an die Person der Fürsten und kennt den Herrlichen nicht mehr als den Armen; denn sie sind alle seiner Hände Werk.",
+      "zh": "他待王子不徇情面， 也不看重富足的过于贫穷的， 因为都是他手所造。",
+      "ja": "まして君王たる者をも偏視ず貧しき者に超て富る者をかへりみるごとき事をせざる者にむかひてをや 斯爲たまふは彼等みな同じくその御手の作るところなればなり"
+    },
+    {
+      "number": 20,
+      "ko": "그들은 한밤중에 순식간에 죽나니 백성은 떨며 사라지고 세력 있는 자도 사람의 손을 빌리지 않고 제거함을 당하느니라",
+      "en": "They die in an instant, in the middle of the night; the people are shaken and they pass away; the mighty are removed without human hand.",
+      "de": "Plötzlich müssen die Leute sterben und zu Mitternacht erschrecken und vergehen; die Mächtigen werden weggenommen nicht durch Menschenhand.",
+      "zh": "在转眼之间，半夜之中， 他们就死亡。 百姓被震动而去世； 有权力的被夺去非借人手。",
+      "ja": "彼らは瞬く時間に死に 民は夜の間に滅びて消失せ 力ある者も人手によらずして除かる"
+    },
+    {
+      "number": 21,
+      "ko": "그는 사람의 길을 주목하시며 사람의 모든 걸음을 감찰하시나니",
+      "en": "\"His eyes are on the ways of men; he sees their every step.",
+      "de": "Denn seine Augen sehen auf eines jeglichen Wege, und er schaut alle ihre Gänge.",
+      "zh": "神注目观看人的道路， 看明人的脚步。",
+      "ja": "それ神の目は人の道の上にあり 神は人の一切の歩履を見そなはす"
+    },
+    {
+      "number": 22,
+      "ko": "행악자는 숨을 만한 흑암이나 사망의 그늘이 없느니라",
+      "en": "There is no dark place, no deep shadow, where evildoers can hide.",
+      "de": "Es ist keine Finsternis noch Dunkel, daß sich da möchten verbergen die Übeltäter.",
+      "zh": "没有黑暗、阴翳能给作孽的藏身。",
+      "ja": "惡を行なふ者の身を匿すべき黑暗も無く死蔭も无し"
+    },
+    {
+      "number": 23,
+      "ko": "하나님은 사람을 심판하시기에 오래 생각하실 것이 없으시니",
+      "en": "God has no need to examine men further, that they should come before him for judgment.",
+      "de": "Denn er darf auf den Menschen nicht erst lange achten, daß er vor Gott ins Gericht komme.",
+      "zh": "神审判人，不必使人到他面前再三鉴察。",
+      "ja": "神は人をして審判を受しむるまでに長くその人を窺がふに及ばず"
+    },
+    {
+      "number": 24,
+      "ko": "세력 있는 자를 조사할 것 없이 꺾으시고 다른 사람을 세워 그를 대신하게 하시느니라",
+      "en": "Without inquiry he shatters the mighty and sets up others in their place.",
+      "de": "Er bringt die Stolzen um, ohne erst zu forschen, und stellt andere an ihre Statt:",
+      "zh": "他用难测之法打破有能力的人， 设立别人代替他们。",
+      "ja": "權勢ある者をも査ぶることを須ひずして打ほろぼし他の人々を立て之に替たまふ"
+    },
+    {
+      "number": 25,
+      "ko": "그러므로 그는 그들의 행위를 아시고 그들을 밤 사이에 뒤집어엎어 흩으시는도다",
+      "en": "Because he takes note of their deeds, he overthrows them in the night and they are crushed.",
+      "de": "darum daß er kennt ihre Werke und kehrt sie um des Nachts, daß sie zerschlagen werden.",
+      "zh": "他原知道他们的行为， 使他们在夜间倾倒灭亡。",
+      "ja": "かくの如く彼らの所爲を知り 夜の間に彼らを覆がへしたまへば彼らは乃て滅ぶ"
+    },
+    {
+      "number": 26,
+      "ko": "그들을 악한 자로 여겨 사람의 눈 앞에서 치심은",
+      "en": "He punishes them for their wickedness where everyone can see them,",
+      "de": "Er straft sie ab wie die Gottlosen an einem Ort, da man es sieht:",
+      "zh": "他在众人眼前击打他们， 如同击打恶人一样。",
+      "ja": "人の觀るところにて彼等を惡人のごとく撃たまふ"
+    },
+    {
+      "number": 27,
+      "ko": "그들이 그를 떠나고 그의 모든 길을 깨달아 알지 못함이라",
+      "en": "because they turned from following him and had no regard for any of his ways.",
+      "de": "darum daß sie von ihm weggewichen sind und verstanden seiner Wege keinen,",
+      "zh": "因为他们偏行不跟从他， 也不留心他的道，",
+      "ja": "是は彼ら背きて之に從はずその道を全たく顧みざるに因る"
+    },
+    {
+      "number": 28,
+      "ko": "그들이 이와 같이 하여 가난한 자의 부르짖음이 그에게 상달하게 하며 빈궁한 사람의 부르짖음이 그에게 들리게 하느니라",
+      "en": "They caused the cry of the poor to come before him, so that he heard the cry of the needy.",
+      "de": "daß das Schreien der Armen mußte vor ihn kommen und er das Schreien der Elenden hörte.",
+      "zh": "甚至使贫穷人的哀声达到他那里； 他也听了困苦人的哀声。",
+      "ja": "かれら是のごとくして遂に貧しき者の號呼を彼の許に逹らしめ患難者の號呼を彼に聽しむ"
+    },
+    {
+      "number": 29,
+      "ko": "주께서 침묵하신다고 누가 그를 정죄하며 그가 얼굴을 가리신다면 누가 그를 뵈올 수 있으랴 그는 민족에게나 인류에게나 동일하시니",
+      "en": "But if he remains silent, who can condemn him? If he hides his face, who can see him? Yet he is over man and nation alike,",
+      "de": "Wenn er Frieden gibt, wer will verdammen? und wenn er das Antlitz verbirgt, wer will ihn schauen unter den Völkern und Leuten allzumal?",
+      "zh": "他使人安静，谁能扰乱呢？ 他掩面，谁能见他呢？ 无论待一国或一人都是如此—",
+      "ja": "かれ平安を賜ふ時には誰か惡しと言ふことをえんや 彼面をかくしたまふ時には誰かこれを見るを得んや 一國におけるも一人におけるも凡て同じ"
+    },
+    {
+      "number": 30,
+      "ko": "이는 경건하지 못한 자가 권세를 잡아 백성을 옭아매지 못하게 하려 하심이니라",
+      "en": "to keep a godless man from ruling, from laying snares for the people.",
+      "de": "Denn er läßt nicht über sie regieren einen Heuchler, das Volk zu drängen.",
+      "zh": "使不虔敬的人不得作王， 免得有人牢笼百姓。",
+      "ja": "かくのごとく邪曲なる者をして世を治むること無らしめ 民の機檻となることなからしむ"
+    },
+    {
+      "number": 31,
+      "ko": "그대가 하나님께 아뢰기를 내가 죄를 지었사오니 다시는 범죄하지 아니하겠나이다",
+      "en": "\"Suppose a man says to God, 'I am guilty but will offend no more.",
+      "de": "Denn zu Gott muß man sagen: “Ich habe gebüßt, ich will nicht übel tun.",
+      "zh": "有谁对　神说： 我受了责罚，不再犯罪；",
+      "ja": "人は宜しく神に申すべし 我は已に懲しめられたり再度惡き事を爲じ"
+    },
+    {
+      "number": 32,
+      "ko": "내가 깨닫지 못하는 것을 내게 가르치소서 내가 악을 행하였으나 다시는 아니하겠나이다 하였는가",
+      "en": "Teach me what I cannot see; if I have done wrong, I will not do so again.'",
+      "de": "Habe ich's nicht getroffen, so lehre du mich's besser; habe ich Unrecht gehandelt, ich will's nicht mehr tun.”",
+      "zh": "我所看不明的，求你指教我； 我若作了孽，必不再作？",
+      "ja": "わが見ざる所は請ふ我にをしへたまへ 我もし惡き事を爲たるならば重ねて之をなさじと"
+    },
+    {
+      "number": 33,
+      "ko": "하나님께서 그대가 거절한다고 하여 그대의 뜻대로 속전을 치르시겠느냐 그러면 그대가 스스로 택할 것이요 내가 할 것이 아니니 그대는 아는 대로 말하라",
+      "en": "Should God then reward you on your terms, when you refuse to repent? You must decide, not I; so tell me what you know.",
+      "de": "Soll er nach deinem Sinn vergelten? Denn du verwirfst alles; du hast zu wählen, und nicht ich. Weißt du nun was, so sage an.",
+      "zh": "他施行报应， 岂要随你的心愿、叫你推辞不受吗？ 选定的是你，不是我。 你所知道的只管说吧！",
+      "ja": "かれ豈なんぢの好むごとくに應報をなしたまはんや 然るに汝はこれを咎む 然ばなんぢ自ら之を選ぶべし 我は爲じ 汝の知るところを言へ"
+    },
+    {
+      "number": 34,
+      "ko": "슬기로운 자와 내 말을 듣는 지혜 있는 사람은 반드시 내게 말하기를",
+      "en": "\"Men of understanding declare, wise men who hear me say to me,",
+      "de": "Verständige Leute werden zu mir sagen und ein weiser Mann, der mir zuhört:",
+      "zh": "明理的人和听我话的智慧人必对我说：",
+      "ja": "心ある人々は我に言ん 我に聽ところの智慧ある人々は言ん"
+    },
+    {
+      "number": 35,
+      "ko": "욥이 무식하게 말하니 그의 말이 지혜롭지 못하도다 하리라",
+      "en": "'Job speaks without knowledge; his words lack insight.'",
+      "de": "“Hiob redet mit Unverstand, und seine Worte sind nicht klug.”",
+      "zh": "约伯说话没有知识， 言语中毫无智慧。",
+      "ja": "ヨブの言ふ所は辨知なし その言詞は明哲からずと"
+    },
+    {
+      "number": 36,
+      "ko": "나는 욥이 끝까지 시험 받기를 원하노니 이는 그 대답이 악인과 같음이라",
+      "en": "Oh, that Job might be tested to the utmost for answering like a wicked man!",
+      "de": "O, daß Hiob versucht würde bis ans Ende! darum daß er sich zu ungerechten Leuten kehrt.",
+      "zh": "愿约伯被试验到底， 因他回答像恶人一样。",
+      "ja": "ねがはくはヨブ終まで試みられんことを其は惡き人のごとくに應答をなせばなり"
+    },
+    {
+      "number": 37,
+      "ko": "그가 그의 죄에 반역을 더하며 우리와 어울려 손뼉을 치며 하나님을 거역하는 말을 많이 하는구나",
+      "en": "To his sin he adds rebellion; scornfully he claps his hands among us and multiplies his words against God.\"",
+      "de": "Denn er hat über seine Sünde noch gelästert; er treibt Spott unter uns und macht seiner Reden viel wider Gott.",
+      "zh": "他在罪上又加悖逆； 在我们中间拍手， 用许多言语轻慢　神。",
+      "ja": "まことに彼は自己の罪に愆を加へわれらの中間にありて手を拍ちかつ言詞を繁くして神に逆らふ"
+    }
+  ]
+}

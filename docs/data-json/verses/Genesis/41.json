@@ -1,0 +1,462 @@
+{
+  "book": "Genesis",
+  "chapter": 41,
+  "verses": [
+    {
+      "number": 1,
+      "ko": "만 이 년 후에 바로가 꿈을 꾼즉 자기가 나일 강 가에 서 있는데",
+      "en": "When two full years had passed, Pharaoh had a dream: He was standing by the Nile,",
+      "de": "Und nach zwei Jahren hatte Pharao einen Traum, wie er stünde am Nil",
+      "zh": "过了两年，法老做梦，梦见自己站在河边，",
+      "ja": "二年の後パロ夢ることあり即ち河の濱にたちて"
+    },
+    {
+      "number": 2,
+      "ko": "보니 아름답고 살진 일곱 암소가 강 가에서 올라와 갈밭에서 뜯어먹고",
+      "en": "when out of the river there came up seven cows, sleek and fat, and they grazed among the reeds.",
+      "de": "und sähe aus dem Wasser steigen sieben schöne, fette Kühe; die gingen auf der Weide im Grase.",
+      "zh": "有七只母牛从河里上来，又美好又肥壮，在芦荻中吃草。",
+      "ja": "視るに七の美しき肥たる牝牛河よりのぼりて葦を食ふ"
+    },
+    {
+      "number": 3,
+      "ko": "그 뒤에 또 흉하고 파리한 다른 일곱 암소가 나일 강 가에서 올라와 그 소와 함께 나일 강 가에 서 있더니",
+      "en": "After them, seven other cows, ugly and gaunt, came up out of the Nile and stood beside those on the riverbank.",
+      "de": "Nach diesen sah er andere sieben Kühe aus dem Wasser aufsteigen; die waren häßlich und mager und traten neben die Kühe an das Ufer am Wasser.",
+      "zh": "随后又有七只母牛从河里上来，又丑陋又干瘦，与那七只母牛一同站在河边。",
+      "ja": "その後また七の醜き痩たる牛河よりのぼり河の畔にて彼牛の側にたちしが"
+    },
+    {
+      "number": 4,
+      "ko": "그 흉하고 파리한 소가 그 아름답고 살진 일곱 소를 먹은지라 바로가 곧 깨었다가",
+      "en": "And the cows that were ugly and gaunt ate up the seven sleek, fat cows. Then Pharaoh woke up.",
+      "de": "Und die häßlichen und mageren fraßen die sieben schönen, fetten Kühe. Da erwachte Pharao.",
+      "zh": "这又丑陋又干瘦的七只母牛吃尽了那又美好又肥壮的七只母牛。法老就醒了。",
+      "ja": "その醜き痩たる牛かの美しき肥たる七の牛を食ひつくせりパロ是にいたりて寤む"
+    },
+    {
+      "number": 5,
+      "ko": "다시 잠이 들어 꿈을 꾸니 한 줄기에 무성하고 충실한 일곱 이삭이 나오고",
+      "en": "He fell asleep again and had a second dream: Seven heads of grain, healthy and good, were growing on a single stalk.",
+      "de": "Und er schlief wieder ein, und ihn träumte abermals, und er sah, daß sieben Ähren wuchsen an einem Halm, voll und dick.",
+      "zh": "他又睡着，第二回做梦，梦见一棵麦子长了七个穗子，又肥大又佳美，",
+      "ja": "彼また寢て再び夢るに一の莖に七の肥たる佳き穗いできたる"
+    },
+    {
+      "number": 6,
+      "ko": "그 후에 또 가늘고 동풍에 마른 일곱 이삭이 나오더니",
+      "en": "After them, seven other heads of grain sprouted--thin and scorched by the east wind.",
+      "de": "Darnach sah er sieben dünnen Ähren aufgehen, die waren vom Ostwind versengt.",
+      "zh": "随后又长了七个穗子，又细弱又被东风吹焦了。",
+      "ja": "其のちに又しなびて東風に燒たる七の穗いできたりしが"
+    },
+    {
+      "number": 7,
+      "ko": "그 가는 일곱 이삭이 무성하고 충실한 일곱 이삭을 삼킨지라 바로가 깬즉 꿈이라",
+      "en": "The thin heads of grain swallowed up the seven healthy, full heads. Then Pharaoh woke up; it had been a dream.",
+      "de": "Und die sieben mageren Ähren verschlangen die sieben dicken und vollen Ähren. Da erwachte Pharao und merkte, daß es ein Traum war.",
+      "zh": "这细弱的穗子吞了那七个又肥大又饱满的穗子。法老醒了，不料是个梦。",
+      "ja": "その七のしなびたる穗かの七の肥實りたる穗を呑盡せりパロ寤て見に夢なりき"
+    },
+    {
+      "number": 8,
+      "ko": "아침에 그의 마음이 번민하여 사람을 보내어 애굽의 점술가와 현인들을 모두 불러 그들에게 그의 꿈을 말하였으나 그것을 바로에게 해석하는 자가 없었더라",
+      "en": "In the morning his mind was troubled, so he sent for all the magicians and wise men of Egypt. Pharaoh told them his dreams, but no one could interpret them for him.",
+      "de": "Und da es Morgen ward, war sein Geist bekümmert; und er schickte aus und ließ rufen alle Wahrsager in Ägypten und alle Weisen und erzählte ihnen seine Träume. Aber da war keiner, der sie dem Pharao deuten konnte.",
+      "zh": "到了早晨，法老心里不安，就差人召了埃及所有的术士和博士来；法老就把所做的梦告诉他们，却没有人能给法老圆解。",
+      "ja": "パロ朝におよびてその心安からず人をつかはしてエジプトの法術士とその博士を皆ことごとく召し之にその夢を述たり然ど之をパロに解うる者なかりき"
+    },
+    {
+      "number": 9,
+      "ko": "술 맡은 관원장이 바로에게 말하여 이르되 내가 오늘 내 죄를 기억하나이다",
+      "en": "Then the chief cupbearer said to Pharaoh, \"Today I am reminded of my shortcomings.",
+      "de": "Da redete der oberste Schenke zu Pharao und sprach: Ich gedenke heute an meine Sünden.",
+      "zh": "那时酒政对法老说：「我今日想起我的罪来。",
+      "ja": "時に酒人の長パロに告ていふ我今日わが過をおもひいづ"
+    },
+    {
+      "number": 10,
+      "ko": "바로께서 종들에게 노하사 나와 떡 굽는 관원장을 친위대장의 집에 가두셨을 때에",
+      "en": "Pharaoh was once angry with his servants, and he imprisoned me and the chief baker in the house of the captain of the guard.",
+      "de": "Da Pharao zornig ward über seine Knechte, und mich mit dem obersten Bäcker ins Gefängnis legte in des Hauptmanns Hause,",
+      "zh": "从前法老恼怒臣仆，把我和膳长下在护卫长府内的监里。",
+      "ja": "甞てパロその僕を怒て我と膳夫の長を侍衞の長の家に幽囚へたまひし時"
+    },
+    {
+      "number": 11,
+      "ko": "나와 그가 하룻밤에 꿈을 꾼즉 각기 뜻이 있는 꿈이라",
+      "en": "Each of us had a dream the same night, and each dream had a meaning of its own.",
+      "de": "da träumte uns beiden in einer Nacht, einem jeglichen sein Traum, des Deutung ihn betraf.",
+      "zh": "我们二人同夜各做一梦，各梦都有讲解。",
+      "ja": "我と彼ともに一夜のうちに夢み各その解明にかなふ夢をみたりしが"
+    },
+    {
+      "number": 12,
+      "ko": "그 곳에 친위대장의 종 된 히브리 청년이 우리와 함께 있기로 우리가 그에게 말하매 그가 우리의 꿈을 풀되 그 꿈대로 각 사람에게 해석하더니",
+      "en": "Now a young Hebrew was there with us, a servant of the captain of the guard. We told him our dreams, and he interpreted them for us, giving each man the interpretation of his dream.",
+      "de": "Da war bei uns ein hebräischer Jüngling, des Hauptmanns Knecht, dem erzählten wir's. Und er deutete uns unsere Träume, einem jeglichen seinen Traum.",
+      "zh": "在那里同着我们有一个希伯来的少年人，是护卫长的仆人，我们告诉他，他就把我们的梦圆解，是按着各人的梦圆解的。",
+      "ja": "彼處に侍衞の長の僕なる若きヘブル人我らと偕にあり我等これにのべたれば彼われらの夢を解その夢にしたがひて各人に解明をなせり"
+    },
+    {
+      "number": 13,
+      "ko": "그 해석한 대로 되어 나는 복직되고 그는 매달렸나이다",
+      "en": "And things turned out exactly as he interpreted them to us: I was restored to my position, and the other man was hanged.\"",
+      "de": "Und wie er uns deutete, so ist's ergangen; denn ich bin wieder in mein Amt gesetzt, und jener ist gehenkt.",
+      "zh": "后来正如他给我们圆解的成就了：我官复原职，膳长被挂起来了。」",
+      "ja": "しかして其事かれが解たるごとくなりて我はわが職にかへり彼は木に懸らる"
+    },
+    {
+      "number": 14,
+      "ko": "이에 바로가 사람을 보내어 요셉을 부르매 그들이 급히 그를 옥에서 내 놓은지라 요셉이 곧 수염을 깎고 그의 옷을 갈아 입고 바로에게 들어가니",
+      "en": "So Pharaoh sent for Joseph, and he was quickly brought from the dungeon. When he had shaved and changed his clothes, he came before Pharaoh.",
+      "de": "Da sandte Pharao hin und ließ Joseph rufen; und sie ließen ihn eilend aus dem Gefängnis. Und er ließ sich scheren und zog andere Kleider an und kam hinein zu Pharao.",
+      "zh": "法老遂即差人去召约瑟，他们便急忙带他出监，他就剃头，刮脸，换衣裳，进到法老面前。",
+      "ja": "是に於てパロ人をやりてヨセフを召しければ急ぎてこれを獄より出せりヨセフすなはち髭を薙り衣をかへてパロの許にいり來る"
+    },
+    {
+      "number": 15,
+      "ko": "바로가 요셉에게 이르되 내가 한 꿈을 꾸었으나 그것을 해석하는 자가 없더니 들은즉 너는 꿈을 들으면 능히 푼다 하더라",
+      "en": "Pharaoh said to Joseph, \"I had a dream, and no one can interpret it. But I have heard it said of you that when you hear a dream you can interpret it.\"",
+      "de": "Da sprach Pharao zu ihm: Mir hat ein Traum geträumt, und ist niemand, der ihn deuten kann; ich habe aber gehört von dir sagen, wenn du einen Traum hörst, so kannst du ihn deuten.",
+      "zh": "法老对约瑟说：「我做了一梦，没有人能解；我听见人说，你听了梦就能解。」",
+      "ja": "パロ、ヨセフにいひけるは我夢をみたれど之をとく者なし聞に汝は夢をききて之を解くことをうると云ふ"
+    },
+    {
+      "number": 16,
+      "ko": "요셉이 바로에게 대답하여 이르되 내가 아니라 하나님께서 바로에게 편안한 대답을 하시리이다",
+      "en": "\"I cannot do it,\" Joseph replied to Pharaoh, \"but God will give Pharaoh the answer he desires.\"",
+      "de": "Joseph antwortete Pharao und sprach: Das steht bei mir nicht; Gott wird doch Pharao Gutes weissagen.",
+      "zh": "约瑟回答法老说：「这不在乎我，　神必将平安的话回答法老。」",
+      "ja": "ヨセフ、パロにこたへていひけるは我によるにあらず神パロの平安を告たまはん"
+    },
+    {
+      "number": 17,
+      "ko": "바로가 요셉에게 이르되 내가 꿈에 나일 강 가에 서서",
+      "en": "Then Pharaoh said to Joseph, \"In my dream I was standing on the bank of the Nile,",
+      "de": "Pharao sprach zu Joseph: Mir träumte ich stand am Ufer bei dem Wasser",
+      "zh": "法老对约瑟说：「我梦见我站在河边，",
+      "ja": "パロ、ヨセフにいふ我夢に河の岸にたちて見るに"
+    },
+    {
+      "number": 18,
+      "ko": "보니 살지고 아름다운 일곱 암소가 나일 강 가에 올라와 갈밭에서 뜯어먹고",
+      "en": "when out of the river there came up seven cows, fat and sleek, and they grazed among the reeds.",
+      "de": "und sah aus dem Wasser steigen sieben schöne, fette Kühe; die gingen auf der Weide im Grase.",
+      "zh": "有七只母牛从河里上来，又肥壮又美好，在芦荻中吃草。",
+      "ja": "河より七の肥たる美しき牝牛のぼりて葦を食ふ"
+    },
+    {
+      "number": 19,
+      "ko": "그 뒤에 또 약하고 심히 흉하고 파리한 일곱 암소가 올라오니 그같이 흉한 것들은 애굽 땅에서 내가 아직 보지 못한 것이라",
+      "en": "After them, seven other cows came up--scrawny and very ugly and lean. I had never seen such ugly cows in all the land of Egypt.",
+      "de": "Und nach ihnen sah ich andere sieben, dürre, sehr häßliche und magere Kühe heraussteigen. Ich habe in ganz Ägyptenland nicht so häßliche gesehen.",
+      "zh": "随后又有七只母牛上来，又软弱又丑陋又干瘦，在埃及遍地，我没有见过这样不好的。",
+      "ja": "後また弱く甚だ醜き瘠たる七の牝牛のぼりきたる其惡き事エジプト全國にわが未だ見ざるほどなり"
+    },
+    {
+      "number": 20,
+      "ko": "그 파리하고 흉한 소가 처음의 일곱 살진 소를 먹었으며",
+      "en": "The lean, ugly cows ate up the seven fat cows that came up first.",
+      "de": "Und die sieben mageren und häßlichen Kühe fraßen auf die sieben ersten, fetten Kühe.",
+      "zh": "这又干瘦又丑陋的母牛吃尽了那以先的七只肥母牛，",
+      "ja": "その瘠たる醜き牛初の七の肥たる牛を食ひつくしたりしが"
+    },
+    {
+      "number": 21,
+      "ko": "먹었으나 먹은 듯 하지 아니하고 여전히 흉하더라 내가 곧 깨었다가",
+      "en": "But even after they ate them, no one could tell that they had done so; they looked just as ugly as before. Then I woke up.",
+      "de": "Und da sie sie hineingefressen hatten, merkte man's nicht an ihnen, daß sie die gefressen hatten, und waren häßlich gleich wie vorhin. Da wachte ich auf.",
+      "zh": "吃了以后却看不出是吃了，那丑陋的样子仍旧和先前一样。我就醒了。",
+      "ja": "已に腹にいりても其腹にいりし事しれず尚前のごとく醜かりき我是にいたりて寤めたり"
+    },
+    {
+      "number": 22,
+      "ko": "다시 꿈에 보니 한 줄기에 무성하고 충실한 일곱 이삭이 나오고",
+      "en": "\"In my dreams I also saw seven heads of grain, full and good, growing on a single stalk.",
+      "de": "Und ich sah abermals in einen Traum sieben Ähren auf einem Halm wachsen, voll und dick.",
+      "zh": "我又梦见一棵麦子，长了七个穗子，又饱满又佳美，",
+      "ja": "我また夢に見るに七の實たる佳き穗一の莖にいできたる"
+    },
+    {
+      "number": 23,
+      "ko": "그 후에 또 가늘고 동풍에 마른 일곱 이삭이 나더니",
+      "en": "After them, seven other heads sprouted--withered and thin and scorched by the east wind.",
+      "de": "Darnach gingen auf sieben dürre Ähren, dünn und versengt.",
+      "zh": "随后又长了七个穗子，枯槁细弱，被东风吹焦了。",
+      "ja": "その後にまたいぢけ萎びて東風にやけたる七の穗生じたりしが"
+    },
+    {
+      "number": 24,
+      "ko": "그 가는 이삭이 좋은 일곱 이삭을 삼키더라 내가 그 꿈을 점술가에게 말하였으나 그것을 내게 풀이해 주는 자가 없느니라",
+      "en": "The thin heads of grain swallowed up the seven good heads. I told this to the magicians, but none could explain it to me.\"",
+      "de": "Und die sieben dünnen Ähren verschlangen die sieben dicken Ähren. Und ich habe es den Wahrsagern gesagt; aber die können's mir nicht deuten.",
+      "zh": "这些细弱的穗子吞了那七个佳美的穗子。我将这梦告诉了术士，却没有人能给我解说。」",
+      "ja": "そのしなびたる穗かの七の佳穗を呑つくせり我これを法術士に告たれどもわれにこれをしめすものなし"
+    },
+    {
+      "number": 25,
+      "ko": "요셉이 바로에게 아뢰되 바로의 꿈은 하나라 하나님이 그가 하실 일을 바로에게 보이심이니이다",
+      "en": "Then Joseph said to Pharaoh, \"The dreams of Pharaoh are one and the same. God has revealed to Pharaoh what he is about to do.",
+      "de": "Joseph antwortete Pharao: Beide Träume Pharaos sind einerlei. Gott verkündigt Pharao, was er vorhat.",
+      "zh": "约瑟对法老说：「法老的梦乃是一个。　神已将所要做的事指示法老了。",
+      "ja": "ヨセフ、パロにいひけるはパロの夢は一なり神その爲んとする所をパロに示したまへるなり"
+    },
+    {
+      "number": 26,
+      "ko": "일곱 좋은 암소는 일곱 해요 일곱 좋은 이삭도 일곱 해니 그 꿈은 하나라",
+      "en": "The seven good cows are seven years, and the seven good heads of grain are seven years; it is one and the same dream.",
+      "de": "Die sieben schönen Kühe sind sieben Jahre, und die sieben guten Ähren sind auch die sieben Jahre. Es ist einerlei Traum.",
+      "zh": "七只好母牛是七年，七个好穗子也是七年；这梦乃是一个。",
+      "ja": "七の美牝牛は七年七の佳穗も七年にして夢は一なり"
+    },
+    {
+      "number": 27,
+      "ko": "그 후에 올라온 파리하고 흉한 일곱 소는 칠 년이요 동풍에 말라 속이 빈 일곱 이삭도 일곱 해 흉년이니",
+      "en": "The seven lean, ugly cows that came up afterward are seven years, and so are the seven worthless heads of grain scorched by the east wind: They are seven years of famine.",
+      "de": "Die sieben mageren und häßlichen Kühe, die nach jenen aufgestiegen sind, das sind sieben Jahre; und die sieben mageren und versengten Ähren sind sieben Jahre teure Zeit.",
+      "zh": "那随后上来的七只又干瘦又丑陋的母牛是七年，那七个虚空、被东风吹焦的穗子也是七年，都是七个荒年。",
+      "ja": "其後にのぼりし七の瘠たる醜き牛は七年にしてその東風にやけたる七の空穗は七年の饑饉なり"
+    },
+    {
+      "number": 28,
+      "ko": "내가 바로에게 이르기를 하나님이 그가 하실 일을 바로에게 보이신다 함이 이것이라",
+      "en": "\"It is just as I said to Pharaoh: God has shown Pharaoh what he is about to do.",
+      "de": "Das ist nun, wie ich gesagt habe zu Pharao, daß Gott Pharao zeigt, was er vorhat.",
+      "zh": "这就是我对法老所说，　神已将所要做的事显明给法老了。",
+      "ja": "是はわがパロに申すところなり神そのなさんとするところをパロにしめしたまふ"
+    },
+    {
+      "number": 29,
+      "ko": "온 애굽 땅에 일곱 해 큰 풍년이 있겠고",
+      "en": "Seven years of great abundance are coming throughout the land of Egypt,",
+      "de": "Siehe, sieben reiche Jahre werden kommen in ganz Ägyptenland.",
+      "zh": "埃及遍地必来七个大丰年，",
+      "ja": "エジプトの全地に七年の大なる豐年あるべし"
+    },
+    {
+      "number": 30,
+      "ko": "후에 일곱 해 흉년이 들므로 애굽 땅에 있던 풍년을 다 잊어버리게 되고 이 땅이 그 기근으로 망하리니",
+      "en": "but seven years of famine will follow them. Then all the abundance in Egypt will be forgotten, and the famine will ravage the land.",
+      "de": "Und nach denselben werden sieben Jahre teure Zeit kommen, daß man vergessen wird aller solcher Fülle in Ägyptenland; und die teure Zeit wird das Land verzehren,",
+      "zh": "随后又要来七个荒年，甚至在埃及地都忘了先前的丰收，全地必被饥荒所灭。",
+      "ja": "その後に七年の凶年おこらん而してエジプトの地にありし豐作を皆忘るにいたるべし饑饉國を滅さん"
+    },
+    {
+      "number": 31,
+      "ko": "후에 든 그 흉년이 너무 심하므로 이전 풍년을 이 땅에서 기억하지 못하게 되리이다",
+      "en": "The abundance in the land will not be remembered, because the famine that follows it will be so severe.",
+      "de": "daß man nichts wissen wird von der Fülle im Lande vor der teuren Zeit, die hernach kommt; denn sie wird sehr schwer sein.",
+      "zh": "因那以后的饥荒甚大，便不觉得先前的丰收了。",
+      "ja": "後にいたるその饑饉はなはだはげしきにより前の豐作國の中に知れざるにいたらん"
+    },
+    {
+      "number": 32,
+      "ko": "바로께서 꿈을 두 번 겹쳐 꾸신 것은 하나님이 이 일을 정하셨음이라 하나님이 속히 행하시리니",
+      "en": "The reason the dream was given to Pharaoh in two forms is that the matter has been firmly decided by God, and God will do it soon.",
+      "de": "Daß aber dem Pharao zum andernmal geträumt hat, bedeutet, daß solches Gott gewiß und eilend tun wird.",
+      "zh": "至于法老两回做梦，是因　神命定这事，而且必速速成就。",
+      "ja": "パロのふたたび夢をかさね見たまひしは神がこの事をさだめて速に之をなさんとしたまふなり"
+    },
+    {
+      "number": 33,
+      "ko": "이제 바로께서는 명철하고 지혜 있는 사람을 택하여 애굽 땅을 다스리게 하시고",
+      "en": "\"And now let Pharaoh look for a discerning and wise man and put him in charge of the land of Egypt.",
+      "de": "Nun sehe Pharao nach einem verständigen und weisen Mann, den er über Ägyptenland setze,",
+      "zh": "所以，法老当拣选一个有聪明有智慧的人，派他治理埃及地。",
+      "ja": "さればパロ慧く賢き人をえらみて之にエジプトの國を治めしめたまふべし"
+    },
+    {
+      "number": 34,
+      "ko": "바로께서는 또 이같이 행하사 나라 안에 감독관들을 두어 그 일곱 해 풍년에 애굽 땅의 오분의 일을 거두되",
+      "en": "Let Pharaoh appoint commissioners over the land to take a fifth of the harvest of Egypt during the seven years of abundance.",
+      "de": "und schaffe, daß er Amtleute verordne im Lande und nehme den Fünften in Ägyptenland in den sieben reichen Jahren",
+      "zh": "法老当这样行，又派官员管理这地。当七个丰年的时候，征收埃及地的五分之一，",
+      "ja": "パロこれをなし國中に官吏を置てその七年の豐年の中にエジプトの國の五分の一を取たまふべし"
+    },
+    {
+      "number": 35,
+      "ko": "그들로 장차 올 풍년의 모든 곡물을 거두고 그 곡물을 바로의 손에 돌려 양식을 위하여 각 성읍에 쌓아 두게 하소서",
+      "en": "They should collect all the food of these good years that are coming and store up the grain under the authority of Pharaoh, to be kept in the cities for food.",
+      "de": "und sammle alle Speise der guten Jahre, die kommen werden, daß sie Getreide aufschütten in Pharaos Kornhäuser zum Vorrat in den Städten und es verwahren,",
+      "zh": "叫他们把将来丰年一切的粮食聚敛起来，积蓄五谷，收存在各城里做食物，归于法老的手下。",
+      "ja": "而して其官吏をして來らんとするその善き年の諸の糧食を斂めてその穀物をパロの手に蓄へしめ糧食を邑々にかこはしめたまふべし"
+    },
+    {
+      "number": 36,
+      "ko": "이와 같이 그 곡물을 이 땅에 저장하여 애굽 땅에 임할 일곱 해 흉년에 대비하시면 땅이 이 흉년으로 말미암아 망하지 아니하리이다",
+      "en": "This food should be held in reserve for the country, to be used during the seven years of famine that will come upon Egypt, so that the country may not be ruined by the famine.\"",
+      "de": "auf daß man Speise verordnet finde dem Lande in den sieben teuren Jahren, die über Ägyptenland kommen werden, daß nicht das Land vor Hunger verderbe.",
+      "zh": "所积蓄的粮食可以防备埃及地将来的七个荒年，免得这地被饥荒所灭。」",
+      "ja": "その糧食を國のために畜藏へおきてエジプトの國にのぞむ七年の饑饉に備へ國をして饑饉のために滅ざらしむべし"
+    },
+    {
+      "number": 37,
+      "ko": "바로와 그의 모든 신하가 이 일을 좋게 여긴지라",
+      "en": "The plan seemed good to Pharaoh and to all his officials.",
+      "de": "Die Rede gefiel Pharao und allen seinen Knechten wohl.",
+      "zh": "法老和他一切臣仆都以这事为妙。",
+      "ja": "パロとその諸の臣僕此事を善とす"
+    },
+    {
+      "number": 38,
+      "ko": "바로가 그의 신하들에게 이르되 이와 같이 하나님의 영에 감동된 사람을 우리가 어찌 찾을 수 있으리요 하고",
+      "en": "So Pharaoh asked them, \"Can we find anyone like this man, one in whom is the spirit of God?\"",
+      "de": "Und Pharao sprach zu seinen Knechten: Wie könnten wir einen solchen Mann finden, in dem der Geist Gottes sei?",
+      "zh": "法老对臣仆说：「像这样的人，有　神的灵在他里头，我们岂能找得着呢？」",
+      "ja": "是に於てパロその臣僕にいふ我等神の靈のやどれる是のごとき人を看いだすをえんやと"
+    },
+    {
+      "number": 39,
+      "ko": "요셉에게 이르되 하나님이 이 모든 것을 네게 보이셨으니 너와 같이 명철하고 지혜 있는 자가 없도다",
+      "en": "Then Pharaoh said to Joseph, \"Since God has made all this known to you, there is no one so discerning and wise as you.",
+      "de": "Und sprach zu Joseph: Weil dir Gott solches alles hat kundgetan, ist keiner so verständig und weise wie du.",
+      "zh": "法老对约瑟说：「　神既将这事都指示你，可见没有人像你这样有聪明有智慧。",
+      "ja": "しかしてパロ、ヨセフにいひけるは神是を盡く汝にしめしたまひたれば汝のごとく慧く賢き者なかるべし"
+    },
+    {
+      "number": 40,
+      "ko": "너는 내 집을 다스리라 내 백성이 다 네 명령에 복종하리니 내가 너보다 높은 것은 내 왕좌뿐이니라",
+      "en": "You shall be in charge of my palace, and all my people are to submit to your orders. Only with respect to the throne will I be greater than you.\"",
+      "de": "Du sollst über mein Haus sein, und deinem Wort soll all mein Volk gehorsam sein; allein um den königlichen Stuhl will ich höher sein als du.",
+      "zh": "你可以掌管我的家；我的民都必听从你的话。惟独在宝座上我比你大。」",
+      "ja": "汝わが家を宰るべしわが民みな汝の口にしたがはん唯位においてのみ我は汝より大なるべし"
+    },
+    {
+      "number": 41,
+      "ko": "바로가 또 요셉에게 이르되 내가 너를 애굽 온 땅의 총리가 되게 하노라 하고",
+      "en": "So Pharaoh said to Joseph, \"I hereby put you in charge of the whole land of Egypt.\"",
+      "de": "Und weiter sprach Pharao zu Joseph: Siehe, ich habe dich über ganz Ägyptenland gesetzt.",
+      "zh": "法老又对约瑟说：「我派你治理埃及全地。」",
+      "ja": "パロ、ヨセフにいひけるは視よ我汝をエジプト全國の冢宰となすと"
+    },
+    {
+      "number": 42,
+      "ko": "자기의 인장 반지를 빼어 요셉의 손에 끼우고 그에게 세마포 옷을 입히고 금 사슬을 목에 걸고",
+      "en": "Then Pharaoh took his signet ring from his finger and put it on Joseph's finger. He dressed him in robes of fine linen and put a gold chain around his neck.",
+      "de": "Und er tat seinen Ring von seiner Hand und gab ihn Joseph an seine Hand und kleidete ihn mit köstlicher Leinwand und hing eine goldene Kette an seinen Hals",
+      "zh": "法老就摘下手上打印的戒指，戴在约瑟的手上，给他穿上细麻衣，把金链戴在他的颈项上，",
+      "ja": "パロすなはち指環をその手より脱して之をヨセフの手にはめ之を白布を衣せ金の索をその項にかけ"
+    },
+    {
+      "number": 43,
+      "ko": "자기에게 있는 버금 수레에 그를 태우매 무리가 그의 앞에서 소리 지르기를 엎드리라 하더라 바로가 그에게 애굽 전국을 총리로 다스리게 하였더라",
+      "en": "He had him ride in a chariot as his second-in-command, and men shouted before him, \"Make way!\" Thus he put him in charge of the whole land of Egypt.",
+      "de": "und ließ ihn auf seinem zweiten Wagen fahren und ließ vor ihm ausrufen: Der ist des Landes Vater! und setzte ihn über ganz Ägyptenland.",
+      "zh": "又叫约瑟坐他的副车，喝道的在前呼叫说：「跪下。」这样，法老派他治理埃及全地。",
+      "ja": "之をして己のもてる次の輅に乗しめ下にゐよと其前に呼しむ是彼をエジプト全國の冢宰となせり"
+    },
+    {
+      "number": 44,
+      "ko": "바로가 요셉에게 이르되 나는 바로라 애굽 온 땅에서 네 허락이 없이는 수족을 놀릴 자가 없으리라 하고",
+      "en": "Then Pharaoh said to Joseph, \"I am Pharaoh, but without your word no one will lift hand or foot in all Egypt.\"",
+      "de": "Und Pharao sprach zu Joseph: Ich bin Pharao; ohne deinen Willen soll niemand seine Hand und Fuß regen in ganz Ägyptenland.",
+      "zh": "法老对约瑟说：「我是法老，在埃及全地，若没有你的命令，不许人擅自办事。」",
+      "ja": "パロ、ヨセフにいひけるは我はパロなりエジプト全國に汝の允准をえずして手足をあぐる者なかるべしと"
+    },
+    {
+      "number": 45,
+      "ko": "그가 요셉의 이름을 사브낫바네아라 하고 또 온의 제사장 보디베라의 딸 아스낫을 그에게 주어 아내로 삼게 하니라 요셉이 나가 애굽 온 땅을 순찰하니라",
+      "en": "Pharaoh gave Joseph the name Zaphenath-Paneah and gave him Asenath daughter of Potiphera, priest of On, to be his wife. And Joseph went throughout the land of Egypt.",
+      "de": "Und nannte ihn den heimlichen Rat und gab ihm ein Weib, Asnath, die Tochter Potipheras, des Priesters zu On. Also zog Joseph aus, das Land Ägypten zu besehen.",
+      "zh": "法老赐名给约瑟，叫撒发那忒·巴内亚，又将安城的祭司波提非拉的女儿亚西纳给他为妻。约瑟就出去巡行埃及地。",
+      "ja": "パロ、ヨセフの名をザフナテパネアと名けまたオンの祭司ポテパルの女アセナテを之にあたへて妻となさしむヨセフいでてエジプトの地をめぐる"
+    },
+    {
+      "number": 46,
+      "ko": "요셉이 애굽 왕 바로 앞에 설 때에 삼십 세라 그가 바로 앞을 떠나 애굽 온 땅을 순찰하니",
+      "en": "Joseph was thirty years old when he entered the service of Pharaoh king of Egypt. And Joseph went out from Pharaoh's presence and traveled throughout Egypt.",
+      "de": "Und er war dreißig Jahre alt, da er vor Pharao stand, dem König in Ägypten; und fuhr aus von Pharao und zog durch ganz Ägyptenland.",
+      "zh": "约瑟见埃及王法老的时候年三十岁。他从法老面前出去，遍行埃及全地。",
+      "ja": "ヨセフはエジプトの王パロのまへに立し時三十歳なりきヨセフ、パロのまへを出て遍くエジプトの地を巡れり"
+    },
+    {
+      "number": 47,
+      "ko": "일곱 해 풍년에 토지 소출이 심히 많은지라",
+      "en": "During the seven years of abundance the land produced plentifully.",
+      "de": "Und das Land trug in den sieben reichen Jahren die Fülle;",
+      "zh": "七个丰年之内，地的出产极丰极盛，",
+      "ja": "七年の豐年の中に地山なして物を生ず"
+    },
+    {
+      "number": 48,
+      "ko": "요셉이 애굽 땅에 있는 그 칠 년 곡물을 거두어 각 성에 저장하되 각 성읍 주위의 밭의 곡물을 그 성읍 중에 쌓아 두매",
+      "en": "Joseph collected all the food produced in those seven years of abundance in Egypt and stored it in the cities. In each city he put the food grown in the fields surrounding it.",
+      "de": "und sie sammelten alle Speise der sieben Jahre, so im Lande Ägypten waren, und taten sie in die Städte. Was für Speise auf dem Felde einer jeglichen Stadt umher wuchs, das taten sie hinein.",
+      "zh": "约瑟聚敛埃及地七个丰年一切的粮食，把粮食积存在各城里；各城周围田地的粮食都积存在本城里。",
+      "ja": "ヨセフすなはちエジプトの地にありしその七年の糧食を斂めてその糧食を邑々に藏む即ち邑の周圍の田圃の糧食を其邑の中に藏む"
+    },
+    {
+      "number": 49,
+      "ko": "쌓아 둔 곡식이 바다 모래 같이 심히 많아 세기를 그쳤으니 그 수가 한이 없음이었더라",
+      "en": "Joseph stored up huge quantities of grain, like the sand of the sea; it was so much that he stopped keeping records because it was beyond measure.",
+      "de": "Also schüttete Joseph das Getreide auf, über die Maßen viel wie Sand am Meer, also daß er aufhörte es zu zählen; denn man konnte es nicht zählen.",
+      "zh": "约瑟积蓄五谷甚多，如同海边的沙，无法计算，因为谷不可胜数。",
+      "ja": "ヨセフ海隅の沙のごとく甚だ多く穀物を儲へ遂に數ふることをやむるに至る其は數かぎり無ればなり"
+    },
+    {
+      "number": 50,
+      "ko": "흉년이 들기 전에 요셉에게 두 아들이 나되 곧 온의 제사장 보디베라의 딸 아스낫이 그에게서 낳은지라",
+      "en": "Before the years of famine came, two sons were born to Joseph by Asenath daughter of Potiphera, priest of On.",
+      "de": "Und Joseph wurden zwei Söhne geboren, ehe denn die teure Zeit kam, welche ihm gebar Asnath, Potipheras, des Priesters zu On, Tochter.",
+      "zh": "荒年未到以前，安城的祭司波提非拉的女儿亚西纳给约瑟生了两个儿子。",
+      "ja": "饑饉の歳のいたらざる前にヨセフに二人の子うまる是はオンの祭司ポテパルの女アセナテの生たる者なり"
+    },
+    {
+      "number": 51,
+      "ko": "요셉이 그의 장남의 이름을 므낫세라 하였으니 하나님이 내게 내 모든 고난과 내 아버지의 온 집 일을 잊어버리게 하셨다 함이요",
+      "en": "Joseph named his firstborn Manasseh and said, \"It is because God has made me forget all my trouble and all my father's household.\"",
+      "de": "Und er hieß den ersten Manasse; denn Gott, sprach er, hat mich lassen vergessen alles meines Unglücks und all meines Vaters Hauses.",
+      "zh": "约瑟给长子起名叫玛拿西，因为他说：「　神使我忘了一切的困苦和我父的全家。」",
+      "ja": "ヨセフその冢子の名をマナセ(忘)となづけて言ふ神我をしてわが諸の苦難とわが父の家の凡の事をわすれしめたまふと"
+    },
+    {
+      "number": 52,
+      "ko": "차남의 이름을 에브라임이라 하였으니 하나님이 나를 내가 수고한 땅에서 번성하게 하셨다 함이었더라",
+      "en": "The second son he named Ephraim and said, \"It is because God has made me fruitful in the land of my suffering.\"",
+      "de": "Den andern hieß er Ephraim; denn Gott, sprach er, hat mich lassen wachsen in dem Lande meines Elends.",
+      "zh": "他给次子起名叫以法莲，因为他说：「　神使我在受苦的地方昌盛。」",
+      "ja": "又次の子の名をエフライム(多く生る)となづけていふ神われをしてわが艱難の地にて多くの子をえせしめたまふと"
+    },
+    {
+      "number": 53,
+      "ko": "애굽 땅에 일곱 해 풍년이 그치고",
+      "en": "The seven years of abundance in Egypt came to an end,",
+      "de": "Da nun die sieben reichen Jahre um waren in Ägypten,",
+      "zh": "埃及地的七个丰年一完，",
+      "ja": "爰にエジプトの國の七年の豐年をはり"
+    },
+    {
+      "number": 54,
+      "ko": "요셉의 말과 같이 일곱 해 흉년이 들기 시작하매 각국에는 기근이 있으나 애굽 온 땅에는 먹을 것이 있더니",
+      "en": "and the seven years of famine began, just as Joseph had said. There was famine in all the other lands, but in the whole land of Egypt there was food.",
+      "de": "da fingen an die sieben teuren Jahre zu kommen, davon Joseph gesagt hatte. Und es ward eine Teuerung in allen Landen; aber in ganz Ägyptenland war Brot.",
+      "zh": "七个荒年就来了。正如约瑟所说的，各地都有饥荒；惟独埃及全地有粮食。",
+      "ja": "ヨセフの言しごとく七年の凶年きたりはじむその饑饉は諸の國にあり然どエジプト全國には食物ありき"
+    },
+    {
+      "number": 55,
+      "ko": "애굽 온 땅이 굶주리매 백성이 바로에게 부르짖어 양식을 구하는지라 바로가 애굽 모든 백성에게 이르되 요셉에게 가서 그가 너희에게 이르는 대로 하라 하니라",
+      "en": "When all Egypt began to feel the famine, the people cried to Pharaoh for food. Then Pharaoh told all the Egyptians, \"Go to Joseph and do what he tells you.\"",
+      "de": "Da nun das ganze Ägyptenland auch Hunger litt, schrie das Volk zu Pharao um Brot. Aber Pharao sprach zu allen Ägyptern: Gehet hin zu Joseph; was euch der sagt, das tut.",
+      "zh": "及至埃及全地有了饥荒，众民向法老哀求粮食，法老对他们说：「你们往约瑟那里去，凡他所说的，你们都要做。」",
+      "ja": "エジプト全國饑し時民さけびてパロに食物を乞ふパロ、エジプトの諸の人にいひけるはヨセフに往け彼が汝等にいふところをなせと"
+    },
+    {
+      "number": 56,
+      "ko": "온 지면에 기근이 있으매 요셉이 모든 창고를 열고 애굽 백성에게 팔새 애굽 땅에 기근이 심하며",
+      "en": "When the famine had spread over the whole country, Joseph opened the storehouses and sold grain to the Egyptians, for the famine was severe throughout Egypt.",
+      "de": "Als nun im ganzen Lande Teuerung war, tat Joseph allenthalben Kornhäuser auf und verkaufte den Ägyptern. Denn die Teuerung ward je länger, je größer im Lande.",
+      "zh": "当时饥荒遍满天下，约瑟开了各处的仓，粜粮给埃及人；在埃及地饥荒甚大。",
+      "ja": "饑饉全地の面にありヨセフすなはち諸の倉廩をひらきてエジプト人に賣わたせり饑饉ますますエジプトの國にはげしくなる"
+    },
+    {
+      "number": 57,
+      "ko": "각국 백성도 양식을 사려고 애굽으로 들어와 요셉에게 이르렀으니 기근이 온 세상에 심함이었더라",
+      "en": "And all the countries came to Egypt to buy grain from Joseph, because the famine was severe in all the world.",
+      "de": "Und alle Lande kamen nach Ägypten, zu kaufen bei Joseph; denn die Teuerung war groß in allen Landen.",
+      "zh": "各地的人都往埃及去，到约瑟那里籴粮，因为天下的饥荒甚大。",
+      "ja": "饑饉諸の國にはげしくなりしかば諸國の人エジプトにきたりヨセフにいたりて穀物を買ふ"
+    }
+  ]
+}

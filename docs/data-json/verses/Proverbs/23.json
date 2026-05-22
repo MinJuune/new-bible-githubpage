@@ -1,0 +1,286 @@
+{
+  "book": "Proverbs",
+  "chapter": 23,
+  "verses": [
+    {
+      "number": 1,
+      "ko": "네가 관원과 함께 앉아 음식을 먹게 되거든 삼가 네 앞에 있는 자가 누구인지를 생각하며",
+      "en": "When you sit to dine with a ruler, note well what is before you,",
+      "de": "Wenn du sitzest und issest mit einem Herrn, so merke, wen du vor dir hast,",
+      "zh": "你若与官长坐席， 要留意在你面前的是谁。",
+      "ja": "なんぢ侯たる者とともに坐して食ふときは 愼みて汝の前にある者の誰なるかを思へ"
+    },
+    {
+      "number": 2,
+      "ko": "네가 만일 음식을 탐하는 자이거든 네 목에 칼을 둘 것이니라",
+      "en": "and put a knife to your throat if you are given to gluttony.",
+      "de": "und setze ein Messer an deine Kehle, wenn du gierig bist.",
+      "zh": "你若是贪食的， 就当拿刀放在喉咙上。",
+      "ja": "汝もし食を嗜む者ならば汝の喉に刀をあてよ"
+    },
+    {
+      "number": 3,
+      "ko": "그의 맛있는 음식을 탐하지 말라 그것은 속이는 음식이니라",
+      "en": "Do not crave his delicacies, for that food is deceptive.",
+      "de": "Wünsche dir nichts von seinen feinen Speisen; denn es ist falsches Brot.",
+      "zh": "不可贪恋他的美食， 因为是哄人的食物。",
+      "ja": "その珍饈を貧り食ふこと勿れ これ迷惑の食物なればなり"
+    },
+    {
+      "number": 4,
+      "ko": "부자 되기에 애쓰지 말고 네 사사로운 지혜를 버릴지어다",
+      "en": "Do not wear yourself out to get rich; have the wisdom to show restraint.",
+      "de": "Bemühe dich nicht reich zu werden und laß ab von deinen Fündlein.",
+      "zh": "不要劳碌求富， 休仗自己的聪明。",
+      "ja": "富を得んと思煩らふこと勿れ 自己の明哲を恃むこと勿れ"
+    },
+    {
+      "number": 5,
+      "ko": "네가 어찌 허무한 것에 주목하겠느냐 정녕히 재물은 스스로 날개를 내어 하늘을 나는 독수리처럼 날아가리라",
+      "en": "Cast but a glance at riches, and they are gone, for they will surely sprout wings and fly off to the sky like an eagle.",
+      "de": "Laß dein Augen nicht fliegen nach dem, was du nicht haben kannst; denn dasselbe macht sich Flügel wie ein Adler und fliegt gen Himmel.",
+      "zh": "你岂要定睛在虚无的钱财上吗？ 因钱财必长翅膀，如鹰向天飞去。",
+      "ja": "なんぢ虚しきに歸すべき者に目をとむるか 富はかならず自ら翅を生じて鷲のごとく天に飛さらん"
+    },
+    {
+      "number": 6,
+      "ko": "악한 눈이 있는 자의 음식을 먹지 말며 그의 맛있는 음식을 탐하지 말지어다",
+      "en": "Do not eat the food of a stingy man, do not crave his delicacies;",
+      "de": "Iß nicht Brot bei einem Neidischen und wünsche dir von seinen feinen Speisen nichts.",
+      "zh": "不要吃恶眼人的饭， 也不要贪他的美味；",
+      "ja": "惡目をする者の糧をくらふことなく その珍饈をむさぼりねがふことなかれ"
+    },
+    {
+      "number": 7,
+      "ko": "대저 그 마음의 생각이 어떠하면 그 위인도 그러한즉 그가 네게 먹고 마시라 할지라도 그의 마음은 너와 함께 하지 아니함이라",
+      "en": "for he is the kind of man who is always thinking about the cost. \"Eat and drink,\" he says to you, but his heart is not with you.",
+      "de": "Denn wie ein Gespenst ist er inwendig; er spricht: Iß und trink! und sein Herz ist doch nicht mit dir.",
+      "zh": "因为他心怎样思量， 他为人就是怎样。 他虽对你说，请吃，请喝， 他的心却与你相背。",
+      "ja": "そはその心に思ふごとくその人となりも亦しかればなり 彼なんぢに食へ飮めといふこといへどもその心は汝に眞實ならず"
+    },
+    {
+      "number": 8,
+      "ko": "네가 조금 먹은 것도 토하겠고 네 아름다운 말도 헛된 데로 돌아가리라",
+      "en": "You will vomit up the little you have eaten and will have wasted your compliments.",
+      "de": "Deine Bissen die du gegessen hattest, mußt du ausspeien, und mußt deine freundlichen Worte verloren haben.",
+      "zh": "你所吃的那点食物必吐出来； 你所说的甘美言语也必落空。",
+      "ja": "汝つひにその食へる物を吐出すにいたり 且その出しし懇懃の言もむなしくならん"
+    },
+    {
+      "number": 9,
+      "ko": "미련한 자의 귀에 말하지 말지니 이는 그가 네 지혜로운 말을 업신여길 것임이니라",
+      "en": "Do not speak to a fool, for he will scorn the wisdom of your words.",
+      "de": "Rede nicht vor des Narren Ohren; denn er verachtet die Klugheit deiner Rede.",
+      "zh": "你不要说话给愚昧人听， 因他必藐视你智慧的言语。",
+      "ja": "愚なる者の耳に語ること勿れ 彼なんぢが言の示す明哲を藐めん"
+    },
+    {
+      "number": 10,
+      "ko": "옛 지계석을 옮기지 말며 고아들의 밭을 침범하지 말지어다",
+      "en": "Do not move an ancient boundary stone or encroach on the fields of the fatherless,",
+      "de": "Verrücke nicht die vorigen Grenzen und gehe nicht auf der Waisen Acker.",
+      "zh": "不可挪移古时的地界， 也不可侵入孤儿的田地；",
+      "ja": "古き地界を移すことなかれ 孤子の畑を侵すことなかれ"
+    },
+    {
+      "number": 11,
+      "ko": "대저 그들의 구속자는 강하시니 그가 너를 대적하여 그들의 원한을 풀어 주시리라",
+      "en": "for their Defender is strong; he will take up their case against you.",
+      "de": "Denn ihr Erlöser ist mächtig; der wird ihre Sache wider dich ausführen.",
+      "zh": "因他们的救赎主大有能力， 他必向你为他们辨屈。",
+      "ja": "そはかれが贖者は強し 必ず汝に對らひて之が訴をのべん"
+    },
+    {
+      "number": 12,
+      "ko": "훈계에 착심하며 지식의 말씀에 귀를 기울이라",
+      "en": "Apply your heart to instruction and your ears to words of knowledge.",
+      "de": "Gib dein Herz zur Zucht und deine Ohren zu vernünftiger Rede.",
+      "zh": "你要留心领受训诲， 侧耳听从知识的言语。",
+      "ja": "汝の心を敎に用ゐ 汝の耳を知識の言に傾けよ"
+    },
+    {
+      "number": 13,
+      "ko": "아이를 훈계하지 아니하려고 하지 말라 채찍으로 그를 때릴지라도 그가 죽지 아니하리라",
+      "en": "Do not withhold discipline from a child; if you punish him with the rod, he will not die.",
+      "de": "Laß nicht ab den Knaben zu züchtigen; denn wenn du ihn mit der Rute haust, so wird man ihn nicht töten.",
+      "zh": "不可不管教孩童； 你用杖打他，他必不至于死。",
+      "ja": "子を懲すことを爲ざるなかれ 鞭をもて彼を打とも死ることあらじ"
+    },
+    {
+      "number": 14,
+      "ko": "네가 그를 채찍으로 때리면 그의 영혼을 스올에서 구원하리라",
+      "en": "Punish him with the rod and save his soul from death.",
+      "de": "Du haust ihn mit der Rute; aber du errettest seine Seele vom Tode.",
+      "zh": "你要用杖打他， 就可以救他的灵魂免下阴间。",
+      "ja": "もし鞭をもて彼をうたばその霊魂を陰府より救ふことをえん"
+    },
+    {
+      "number": 15,
+      "ko": "내 아들아 만일 네 마음이 지혜로우면 나 곧 내 마음이 즐겁겠고",
+      "en": "My son, if your heart is wise, then my heart will be glad;",
+      "de": "Mein Sohn, wenn dein Herz weise ist, so freut sich auch mein Herz;",
+      "zh": "我儿，你心若存智慧， 我的心也甚欢喜。",
+      "ja": "わが子よもし汝のこころ智からば我が心もまた歓び"
+    },
+    {
+      "number": 16,
+      "ko": "만일 네 입술이 정직을 말하면 내 속이 유쾌하리라",
+      "en": "my inmost being will rejoice when your lips speak what is right.",
+      "de": "und meine Nieren sind froh, wenn deine Lippen reden, was recht ist.",
+      "zh": "你的嘴若说正直话， 我的心肠也必快乐。",
+      "ja": "もし汝の口唇ただしき事をいはば我が腎腸も喜ぶべし"
+    },
+    {
+      "number": 17,
+      "ko": "네 마음으로 죄인의 형통을 부러워하지 말고 항상 여호와를 경외하라",
+      "en": "Do not let your heart envy sinners, but always be zealous for the fear of the LORD.",
+      "de": "Dein Herz folge nicht den Sündern, sondern sei täglich in der Furcht des HERRN.",
+      "zh": "你心中不要嫉妒罪人， 只要终日敬畏耶和华；",
+      "ja": "なんぢ心に罪人をうらやむ勿れ ただ終日ヱホバを畏れよ"
+    },
+    {
+      "number": 18,
+      "ko": "정녕히 네 장래가 있겠고 네 소망이 끊어지지 아니하리라",
+      "en": "There is surely a future hope for you, and your hope will not be cut off.",
+      "de": "Denn es wird dir hernach gut sein, und dein Warten wird nicht trügen.",
+      "zh": "因为至终必有善报， 你的指望也不致断绝。",
+      "ja": "そは必ず應報ありて汝の望は廢らざればなり"
+    },
+    {
+      "number": 19,
+      "ko": "내 아들아 너는 듣고 지혜를 얻어 네 마음을 바른 길로 인도할지니라",
+      "en": "Listen, my son, and be wise, and keep your heart on the right path.",
+      "de": "Höre, mein Sohn, und sei weise und richte dein Herz in den Weg.",
+      "zh": "我儿，你当听，当存智慧， 好在正道上引导你的心。",
+      "ja": "わが子よ 汝ききて智慧をえ かつ汝の心を道にかたぶけよ"
+    },
+    {
+      "number": 20,
+      "ko": "술을 즐겨 하는 자들과 고기를 탐하는 자들과도 더불어 사귀지 말라",
+      "en": "Do not join those who drink too much wine or gorge themselves on meat,",
+      "de": "Sei nicht unter den Säufern und Schlemmern;",
+      "zh": "好饮酒的，好吃肉的， 不要与他们来往；",
+      "ja": "酒にふけり肉をたしむものと交ること勿れ"
+    },
+    {
+      "number": 21,
+      "ko": "술 취하고 음식을 탐하는 자는 가난하여질 것이요 잠 자기를 즐겨 하는 자는 해어진 옷을 입을 것임이니라",
+      "en": "for drunkards and gluttons become poor, and drowsiness clothes them in rags.",
+      "de": "denn die Säufer und Schlemmer verarmen, und ein Schläfer muß zerrissene Kleider tragen.",
+      "zh": "因为好酒贪食的，必致贫穷； 好睡觉的，必穿破烂衣服。",
+      "ja": "それ酒にふける者と肉を嗜む者とは貧しくなり 睡眠を貧る者は敞れたる衣をきるにいたらん"
+    },
+    {
+      "number": 22,
+      "ko": "너를 낳은 아비에게 청종하고 네 늙은 어미를 경히 여기지 말지니라",
+      "en": "Listen to your father, who gave you life, and do not despise your mother when she is old.",
+      "de": "Gehorche deinem Vater, der dich gezeugt hat, und verachte deine Mutter nicht, wenn sie alt wird.",
+      "zh": "你要听从生你的父亲； 你母亲老了，也不可藐视她。",
+      "ja": "汝を生る父にきけ 汝の老たる母を軽んずる勿れ"
+    },
+    {
+      "number": 23,
+      "ko": "진리를 사되 팔지는 말며 지혜와 훈계와 명철도 그리할지니라",
+      "en": "Buy the truth and do not sell it; get wisdom, discipline and understanding.",
+      "de": "Kaufe Wahrheit, und verkaufe sie nicht, Weisheit, Zucht und Verstand.",
+      "zh": "你当买真理； 就是智慧、训诲，和聪明也都不可卖。",
+      "ja": "眞理を買へ これを售るなかれ 智慧と誡命と知識とまた然あれ"
+    },
+    {
+      "number": 24,
+      "ko": "의인의 아비는 크게 즐거울 것이요 지혜로운 자식을 낳은 자는 그로 말미암아 즐거울 것이니라",
+      "en": "The father of a righteous man has great joy; he who has a wise son delights in him.",
+      "de": "Der Vater eines Gerechten freut sich; und wer einen Weisen gezeugt hat, ist fröhlich darüber.",
+      "zh": "义人的父亲必大得快乐； 人生智慧的儿子，必因他欢喜。",
+      "ja": "義き者の父は大によろこび 智慧ある子を生る者はこれがために樂しまん"
+    },
+    {
+      "number": 25,
+      "ko": "네 부모를 즐겁게 하며 너를 낳은 어미를 기쁘게 하라",
+      "en": "May your father and mother be glad; may she who gave you birth rejoice!",
+      "de": "Laß sich deinen Vater und deine Mutter freuen, und fröhlich sein, die dich geboren hat.",
+      "zh": "你要使父母欢喜， 使生你的快乐。",
+      "ja": "汝の父母を樂しませ 汝を生る者を喜ばせよ"
+    },
+    {
+      "number": 26,
+      "ko": "내 아들아 네 마음을 내게 주며 네 눈으로 내 길을 즐거워할지어다",
+      "en": "My son, give me your heart and let your eyes keep to my ways,",
+      "de": "Gib mir, mein Sohn, dein Herz, und laß deinen Augen meine Wege wohl gefallen.",
+      "zh": "我儿，要将你的心归我； 你的眼目也要喜悦我的道路。",
+      "ja": "わが子よ汝の心を我にあたへ 汝の目にわが途を樂しめ"
+    },
+    {
+      "number": 27,
+      "ko": "대저 음녀는 깊은 구덩이요 이방 여인은 좁은 함정이라",
+      "en": "for a prostitute is a deep pit and a wayward wife is a narrow well.",
+      "de": "Denn eine Hure ist eine tiefe Grube, und eine Ehebrecherin ist ein enger Brunnen.",
+      "zh": "妓女是深坑； 外女是窄阱。",
+      "ja": "それ妓婦は深き坑のごとく 淫婦は狭き井のごとし"
+    },
+    {
+      "number": 28,
+      "ko": "참으로 그는 강도 같이 매복하며 사람들 중에 사악한 자가 많아지게 하느니라",
+      "en": "Like a bandit she lies in wait, and multiplies the unfaithful among men.",
+      "de": "Auch lauert sie wie ein Räuber, und die Frechen unter den Menschen sammelt sie zu sich.",
+      "zh": "她埋伏好像强盗； 她使人中多有奸诈的。",
+      "ja": "彼は盗賊のごとく人を窺ひ かつ世の人の中に悖れる者を増なり"
+    },
+    {
+      "number": 29,
+      "ko": "재앙이 뉘게 있느뇨 근심이 뉘게 있느뇨 분쟁이 뉘게 있느뇨 원망이 뉘게 있느뇨 까닭 없는 상처가 뉘게 있느뇨 붉은 눈이 뉘게 있느뇨",
+      "en": "Who has woe? Who has sorrow? Who has strife? Who has complaints? Who has needless bruises? Who has bloodshot eyes?",
+      "de": "Wo ist Weh? wo ist Leid? wo ist Zank? wo ist Klagen? wo sind Wunden ohne Ursache? wo sind trübe Augen?",
+      "zh": "谁有祸患？谁有忧愁？ 谁有争斗？谁有哀叹？ 谁无故受伤？谁眼目红赤？",
+      "ja": "禍害ある者は誰ぞ 憂愁ある者は誰ぞ 爭端をなす者は誰ぞ 煩慮ある者は誰ぞ 故なくして傷をうくる者は誰ぞ 赤目ある者は誰ぞ"
+    },
+    {
+      "number": 30,
+      "ko": "술에 잠긴 자에게 있고 혼합한 술을 구하러 다니는 자에게 있느니라",
+      "en": "Those who linger over wine, who go to sample bowls of mixed wine.",
+      "de": "Wo man beim Wein liegt und kommt, auszusaufen, was eingeschenkt ist.",
+      "zh": "就是那流连饮酒、 常去寻找调和酒的人。",
+      "ja": "是すなはち酒に夜をふかすもの 往て混和せたる酒を味ふる者なり"
+    },
+    {
+      "number": 31,
+      "ko": "포도주는 붉고 잔에서 번쩍이며 순하게 내려가나니 너는 그것을 보지도 말지어다",
+      "en": "Do not gaze at wine when it is red, when it sparkles in the cup, when it goes down smoothly!",
+      "de": "Siehe den Wein nicht an, daß er so rot ist und im Glase so schön steht. Er geht glatt ein;",
+      "zh": "酒发红，在杯中闪烁， 你不可观看， 虽然下咽舒畅， 终久是咬你如蛇，刺你如毒蛇。",
+      "ja": "酒はあかく盃の中に泡だち滑かにくだる 汝これを見るなかれ"
+    },
+    {
+      "number": 32,
+      "ko": "그것이 마침내 뱀 같이 물 것이요 독사 같이 쏠 것이며",
+      "en": "In the end it bites like a snake and poisons like a viper.",
+      "de": "aber danach beißt er wie eine Schlange und sticht wie eine Otter.",
+      "zh": "你眼必看见异怪的事； 你心必发出乖谬的话。",
+      "ja": "是は終に蛇のごとく噬み蝮の如く刺すべし"
+    },
+    {
+      "number": 33,
+      "ko": "또 네 눈에는 괴이한 것이 보일 것이요 네 마음은 구부러진 말을 할 것이며",
+      "en": "Your eyes will see strange sights and your mind imagine confusing things.",
+      "de": "So werden deine Augen nach andern Weibern sehen, und dein Herz wird verkehrte Dinge reden,",
+      "zh": "你必像躺在海中， 或像卧在桅杆上。",
+      "ja": "また汝の目は怪しきものを見 なんぢの心は諕言をいはん"
+    },
+    {
+      "number": 34,
+      "ko": "너는 바다 가운데에 누운 자 같을 것이요 돛대 위에 누운 자 같을 것이며",
+      "en": "You will be like one sleeping on the high seas, lying on top of the rigging.",
+      "de": "und wirst sein wie einer, der mitten im Meer schläft, und wie einer schläft oben auf dem Mastbaum.",
+      "zh": "你必说：人打我，我却未受伤； 人鞭打我，我竟不觉得。 我几时清醒，我仍去寻酒。",
+      "ja": "汝は海のなかに偃すもののごとく帆桅の上に偃すもののごとし"
+    },
+    {
+      "number": 35,
+      "ko": "네가 스스로 말하기를 사람이 나를 때려도 나는 아프지 아니하고 나를 상하게 하여도 내게 감각이 없도다 내가 언제나 깰까 다시 술을 찾겠다 하리라",
+      "en": "\"They hit me,\" you will say, \"but I'm not hurt! They beat me, but I don't feel it! When will I wake up so I can find another drink?\"",
+      "de": "“Sie schlagen mich, aber es tut mir nicht weh; sie klopfen mich, aber ich fühle es nicht. Wann will ich aufwachen, daß ich's mehr treibe?”",
+      "zh": "",
+      "ja": "汝いはん人われを撃ども我いたまず 我を拷けども我おぼえず 我さめなばまた酒を求めんと"
+    }
+  ]
+}

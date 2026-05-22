@@ -1,0 +1,438 @@
+{
+  "book": "Numbers",
+  "chapter": 1,
+  "verses": [
+    {
+      "number": 1,
+      "ko": "이스라엘 자손이 애굽 땅에서 나온 후 둘째 해 둘째 달 첫째 날에 여호와께서 시내 광야 회막에서 모세에게 말씀하여 이르시되",
+      "en": "The LORD spoke to Moses in the Tent of Meeting in the Desert of Sinai on the first day of the second month of the second year after the Israelites came out of Egypt. He said:",
+      "de": "Und der HERR redete mit Mose in der Wüste Sinai in der Hütte des Stifts am ersten Tage des zweiten Monats im zweiten Jahr, da sie aus Ägyptenland gegangen waren, und sprach:",
+      "zh": "以色列人出埃及地后，第二年二月初一日，耶和华在西奈的旷野、会幕中晓谕摩西说：",
+      "ja": "エジプトの國を出たる次の年の二月の一日にヱホバ、シナイの野に於て集會の幕屋の中にてモーセに告て言たまはく"
+    },
+    {
+      "number": 2,
+      "ko": "너희는 이스라엘 자손의 모든 회중 각 남자의 수를 그들의 종족과 조상의 가문에 따라 그 명수대로 계수할지니",
+      "en": "\"Take a census of the whole Israelite community by their clans and families, listing every man by name, one by one.",
+      "de": "Nehmet die Summe der ganzen Gemeinde der Kinder Israel nach ihren Geschlechtern und Vaterhäusern und Namen, alles, was männlich ist, von Haupt zu Haupt,",
+      "zh": "「你要按以色列全会众的家室、宗族、人名的数目计算所有的男丁。",
+      "ja": "汝等イスラエルの子孫の全會衆の惣數をその宗族に依り其父祖の家に循ひて核べその諸の男丁の名の數と頭數とを得よ"
+    },
+    {
+      "number": 3,
+      "ko": "이스라엘 중 이십 세 이상으로 싸움에 나갈 만한 모든 자를 너와 아론은 그 진영별로 계수하되",
+      "en": "You and Aaron are to number by their divisions all the men in Israel twenty years old or more who are able to serve in the army.",
+      "de": "von zwanzig Jahren an und darüber, was ins Heer zu ziehen taugt in Israel; ihr sollt sie zählen nach ihren Heeren, du und Aaron.",
+      "zh": "凡以色列中，从二十岁以外，能出去打仗的，你和亚伦要照他们的军队数点。",
+      "ja": "すなはちイスラエルの中凡て二十歳以上にして戰爭にいづるに勝る者を汝とアロンその軍旅にしたがひて數ふべし"
+    },
+    {
+      "number": 4,
+      "ko": "각 지파의 각 조상의 가문의 우두머리 한 사람씩을 너희와 함께 하게 하라",
+      "en": "One man from each tribe, each the head of his family, is to help you.",
+      "de": "Und sollt zu euch nehmen je vom Stamm einen Hauptmann über sein Vaterhaus.",
+      "zh": "每支派中必有一人作本支派的族长，帮助你们。",
+      "ja": "また諸の支派おのおのその父祖の家の長たる者一人を出して汝等とともならしむべし"
+    },
+    {
+      "number": 5,
+      "ko": "너희와 함께 설 사람들의 이름은 이러하니 르우벤 지파에서는 스데울의 아들 엘리술이요",
+      "en": "These are the names of the men who are to assist you: from Reuben, Elizur son of Shedeur;",
+      "de": "Dies sind die Namen der Hauptleute, die neben euch stehen sollen: von Ruben sei Elizur, der Sohn Sedeurs;",
+      "zh": "他们的名字：属吕便的，有示丢珥的儿子以利蓿；",
+      "ja": "汝らとともに立べき人々の名は是なり即ちルベンよりはシデウルの子エリヅル"
+    },
+    {
+      "number": 6,
+      "ko": "시므온 지파에서는 수리삿대의 아들 슬루미엘이요",
+      "en": "from Simeon, Shelumiel son of Zurishaddai;",
+      "de": "von Simeon sei Selumiel, der Sohn Zuri-Saddais;",
+      "zh": "属西缅的，有苏利沙代的儿子示路蔑；",
+      "ja": "シメオンよりはツリシヤダイの子シルミエル"
+    },
+    {
+      "number": 7,
+      "ko": "유다 지파에서는 암미나답의 아들 나손이요",
+      "en": "from Judah, Nahshon son of Amminadab;",
+      "de": "von Juda sei Nahesson, der Sohn Amminadabs;",
+      "zh": "属犹大的，有亚米拿达的儿子拿顺；",
+      "ja": "ユダよりはアミナダブの子ナシヨン"
+    },
+    {
+      "number": 8,
+      "ko": "잇사갈 지파에서는 수알의 아들 느다넬이요",
+      "en": "from Issachar, Nethanel son of Zuar;",
+      "de": "von Isaschar sei Nathanael, der Sohn Zuars;",
+      "zh": "属以萨迦的，有苏押的儿子拿坦业；",
+      "ja": "イツサカルよりはツアルの子ネタニエル"
+    },
+    {
+      "number": 9,
+      "ko": "스불론 지파에서는 헬론의 아들 엘리압이요",
+      "en": "from Zebulun, Eliab son of Helon;",
+      "de": "von Sebulon sei Eliab, der Sohn Helons;",
+      "zh": "属西布伦的，有希伦的儿子以利押；",
+      "ja": "ゼブルンよりはヘロンの子エリアブ"
+    },
+    {
+      "number": 10,
+      "ko": "요셉의 자손들 중 에브라임 지파에서는 암미훗의 아들 엘리사마요 므낫세 지파에서는 브다술의 아들 가말리엘이요",
+      "en": "from the sons of Joseph: from Ephraim, Elishama son of Ammihud; from Manasseh, Gamaliel son of Pedahzur;",
+      "de": "von den Kindern Josephs: von Ephraim sei Elisama, der Sohn Ammihuds; von Manasse sei Gamliel, der Sohn Pedazurs;",
+      "zh": "约瑟子孙、属以法莲的，有亚米忽的儿子以利沙玛；属玛拿西的，有比大蓿的儿子迦玛列；",
+      "ja": "ヨセフの子等の中にてはエフライムよりはアミホデの子エリシヤマ、マナセよりはバダヅルの子ガマリエル"
+    },
+    {
+      "number": 11,
+      "ko": "베냐민 지파에서는 기드오니의 아들 아비단이요",
+      "en": "from Benjamin, Abidan son of Gideoni;",
+      "de": "von Benjamin sei Abidan, der Sohn des Gideoni;",
+      "zh": "属便雅悯的，有基多尼的儿子亚比但；",
+      "ja": "ベニヤミンよりはギデオニの子アビダン"
+    },
+    {
+      "number": 12,
+      "ko": "단 지파에서는 암미삿대의 아들 아히에셀이요",
+      "en": "from Dan, Ahiezer son of Ammishaddai;",
+      "de": "von Dan sei Ahieser, der Sohn Ammi-Saddais;",
+      "zh": "属但的，有亚米沙代的儿子亚希以谢；",
+      "ja": "ダンよりはアミシヤダイの子アヒエゼル"
+    },
+    {
+      "number": 13,
+      "ko": "아셀 지파에서는 오그란의 아들 바기엘이요",
+      "en": "from Asher, Pagiel son of Ocran;",
+      "de": "von Asser sei Pagiel, der Sohn Ochrans;",
+      "zh": "属亚设的，有俄兰的儿子帕结；",
+      "ja": "アセルよりはオクランの子バギエル"
+    },
+    {
+      "number": 14,
+      "ko": "갓 지파에서는 드우엘의 아들 엘리아삽이요",
+      "en": "from Gad, Eliasaph son of Deuel;",
+      "de": "von Gad sei Eljasaph, der Sohn Deguels;",
+      "zh": "属迦得的，有丢珥的儿子以利雅萨；",
+      "ja": "ガドよりはデウエルの子エリアサフ"
+    },
+    {
+      "number": 15,
+      "ko": "납달리 지파에서는 에난의 아들 아히라이니라 하시니",
+      "en": "from Naphtali, Ahira son of Enan.\"",
+      "de": "von Naphthali sei Ahira, der Sohn Enans.",
+      "zh": "属拿弗他利的，有以南的儿子亚希拉。",
+      "ja": "ナフタリよりはエナンの子アヒラ"
+    },
+    {
+      "number": 16,
+      "ko": "그들은 회중에서 부름을 받은 자요 그 조상 지파의 지휘관으로서 이스라엘 종족들의 우두머리라",
+      "en": "These were the men appointed from the community, the leaders of their ancestral tribes. They were the heads of the clans of Israel.",
+      "de": "Das sind die Vornehmsten der Gemeinde, die Fürsten unter den Stämmen ihrer Väter, die da Häupter über die Tausende in Israel waren.",
+      "zh": "这都是从会中选召的，各作本支派的首领，都是以色列军中的统领。」",
+      "ja": "是等は會衆の中より選み出されし者にてその父祖の支派の牧伯またイスラエルの千人の長なり"
+    },
+    {
+      "number": 17,
+      "ko": "모세와 아론이 지명된 이 사람들을 데리고",
+      "en": "Moses and Aaron took these men whose names had been given,",
+      "de": "Und Mose und Aaron nahmen sie zu sich, wie sie da mit Namen genannt sind,",
+      "zh": "于是，摩西、亚伦带着这些按名指定的人，",
+      "ja": "かくてモーセとアロンここに名を擧たる人々を率領て"
+    },
+    {
+      "number": 18,
+      "ko": "둘째 달 첫째 날에 온 회중을 모으니 그들이 각 종족과 조상의 가문에 따라 이십 세 이상인 남자의 이름을 자기 계통별로 신고하매",
+      "en": "and they called the whole community together on the first day of the second month. The people indicated their ancestry by their clans and families, and the men twenty years old or more were listed by name, one by one,",
+      "de": "und sammelten auch die ganze Gemeinde am ersten Tage des zweiten Monats und rechneten nach ihrer Geburt, nach ihren Geschlechtern und Vaterhäusern und Namen, von zwanzig Jahren an und darüber, von Haupt zu Haupt,",
+      "zh": "当二月初一日招聚全会众。会众就照他们的家室、宗族、人名的数目，从二十岁以外的，都述说自己的家谱。",
+      "ja": "二月の一日に會衆をことごとく集めければ彼等その宗族に循ひその父祖の家にしたがひその名の數にしたがひて自分の出生を述たりかく二十歳以上の者ことごとく核へらる"
+    },
+    {
+      "number": 19,
+      "ko": "여호와께서 모세에게 명령하신 대로 그가 시내 광야에서 그들을 계수하였더라",
+      "en": "as the LORD commanded Moses. And so he counted them in the Desert of Sinai:",
+      "de": "wie der HERR dem Mose geboten hatte, und zählten sie in der Wüste Sinai.",
+      "zh": "耶和华怎样吩咐摩西，他就怎样在西奈的旷野数点他们。",
+      "ja": "ヱホバの命じたまひしごとくモーセ、シナイの野にて彼等を核數たり"
+    },
+    {
+      "number": 20,
+      "ko": "이스라엘의 장자 르우벤의 아들들에게서 난 자를 그들의 종족과 조상의 가문에 따라 이십 세 이상으로 싸움에 나갈 만한 각 남자를 그 명수대로 다 계수하니",
+      "en": "From the descendants of Reuben the firstborn son of Israel: All the men twenty years old or more who were able to serve in the army were listed by name, one by one, according to the records of their clans and families.",
+      "de": "Der Kinder Ruben, des ersten Sohnes Israels, nach ihrer Geburt und Geschlecht, ihren Vaterhäusern und Namen, von Haupt zu Haupt, alles, was männlich war, von zwanzig Jahren und darüber, und ins Heer zu ziehen taugte,",
+      "zh": "以色列的长子，吕便子孙的后代，照着家室、宗族、人名的数目，从二十岁以外，凡能出去打仗、被数的男丁，共有四万六千五百名。",
+      "ja": "すなはちイスラエルの長子ルベンの子等より生れたる者をその宗族によりその父祖の家にしたがひて核べ二十歳以上にして戰爭にいづるに勝る男丁を數へたるに其名の數に依りその頭數によれば"
+    },
+    {
+      "number": 21,
+      "ko": "르우벤 지파에서 계수된 자는 사만 육천오백 명이었더라",
+      "en": "The number from the tribe of Reuben was 46,500.",
+      "de": "wurden gezählt vom Stamme Ruben sechsundvierzigtausend und fünfhundert.",
+      "zh": "西缅子孙的后代，照着家室、宗族、人名的数目，从二十岁以外，凡能出去打仗、被数的男丁，共有五万九千三百名。",
+      "ja": "ルベンの支派の中にその核數られし者四萬六千五百人ありき"
+    },
+    {
+      "number": 22,
+      "ko": "시므온의 아들들에게서 난 자를 그들의 종족과 조상의 가문에 따라 이십 세 이상으로 싸움에 나갈 만한 각 남자를 그 명수대로 다 계수하니",
+      "en": "From the descendants of Simeon: All the men twenty years old or more who were able to serve in the army were counted and listed by name, one by one, according to the records of their clans and families.",
+      "de": "Der Kinder Simeon nach ihrer Geburt und Geschlecht, ihren Vaterhäusern, Zahl und Namen, von Haupt zu Haupt, alles, was männlich war, von zwanzig Jahren und darüber, und ins Heer zu ziehen taugte,",
+      "zh": "迦得子孙的后代，照着家室、宗族、人名的数目，从二十岁以外，凡能出去打仗、被数的，共有四万五千六百五十名。",
+      "ja": "またシメオンの子等より生れたる者等をその宗族によりその父祖の家にしたがひて核べ二十歳以上にして戰爭にいづるに勝る男丁を數へたるにその名の數に依りその頭數に依ば"
+    },
+    {
+      "number": 23,
+      "ko": "시므온 지파에서 계수된 자는 오만 구천삼백 명이었더라",
+      "en": "The number from the tribe of Simeon was 59,300.",
+      "de": "wurden gezählt zum Stamm Simeon neunundfünfzigtausend und dreihundert.",
+      "zh": "犹大子孙的后代，照着家室、宗族、人名的数目，从二十岁以外，凡能出去打仗、被数的，共有七万四千六百名。",
+      "ja": "シメオンの支派の中にその核數られし者五萬九千三百人ありき"
+    },
+    {
+      "number": 24,
+      "ko": "갓의 아들들에게서 난 자를 그들의 종족과 조상의 가문에 따라 이십 세 이상으로 싸움에 나갈 만한 자를 그 명수대로 다 계수하니",
+      "en": "From the descendants of Gad: All the men twenty years old or more who were able to serve in the army were listed by name, according to the records of their clans and families.",
+      "de": "Der Kinder Gad nach ihrer Geburt und Geschlecht, ihren Vaterhäusern und Namen, von zwanzig Jahren und darüber, und ins Heer zu ziehen taugte,",
+      "zh": "以萨迦子孙的后代，照着家室、宗族、人名的数目，从二十岁以外，凡能出去打仗、被数的，共有五万四千四百名。",
+      "ja": "またガドの子等より生れたる者をその宗族に依りその父祖の家にしたがひて核べ二十歳以上にして戰爭に出るに勝る男丁を數へたるにその名の數に依れば"
+    },
+    {
+      "number": 25,
+      "ko": "갓 지파에서 계수된 자는 사만 오천육백오십 명이었더라",
+      "en": "The number from the tribe of Gad was 45,650.",
+      "de": "wurden gezählt zum Stamm Gad fünfundvierzigtausend sechshundertundfünfzig.",
+      "zh": "西布伦子孙的后代，照着家室、宗族、人名的数目，从二十岁以外，凡能出去打仗、被数的，共有五万七千四百名。",
+      "ja": "ガドの支派の中にその核數られし者四萬五千六百五十人ありき"
+    },
+    {
+      "number": 26,
+      "ko": "유다의 아들들에게서 난 자를 그들의 종족과 조상의 가문에 따라 이십 세 이상으로 싸움에 나갈 만한 자를 그 명수대로 다 계수하니",
+      "en": "From the descendants of Judah: All the men twenty years old or more who were able to serve in the army were listed by name, according to the records of their clans and families.",
+      "de": "Der Kinder Juda nach ihrer Geburt und Geschlecht, ihren Vaterhäusern und Namen, von zwanzig Jahren und darüber, was ins Heer zu ziehen taugte,",
+      "zh": "约瑟子孙属以法莲子孙的后代，照着家室、宗族、人名的数目，从二十岁以外，凡能出去打仗、被数的，共有四万零五百名。",
+      "ja": "ユダの子等より生れたる者をその宗族に依りその父祖の家に循ひて核べ二十歳以上にして戰爭にいづるに勝る男丁を數へたるにその名の數に依れば"
+    },
+    {
+      "number": 27,
+      "ko": "유다 지파에서 계수된 자는 칠만 사천육백 명이었더라",
+      "en": "The number from the tribe of Judah was 74,600.",
+      "de": "wurden gezählt zum Stamm Juda vierundsiebzigtausend und sechshundert.",
+      "zh": "玛拿西子孙的后代，照着家室、宗族、人名的数目，从二十岁以外，凡能出去打仗、被数的，共有三万二千二百名。",
+      "ja": "ユダの支派の中にその核數られし者七萬四千六百人ありき"
+    },
+    {
+      "number": 28,
+      "ko": "잇사갈의 아들들에게서 난 자를 그들의 종족과 조상의 가문에 따라 이십 세 이상으로 싸움에 나갈 만한 자를 그 명수대로 다 계수하니",
+      "en": "From the descendants of Issachar: All the men twenty years old or more who were able to serve in the army were listed by name, according to the records of their clans and families.",
+      "de": "Der Kinder Isaschar nach ihrer Geburt und Geschlecht, ihren Vaterhäusern und Namen, von zwanzig Jahren und darüber, was ins Heer zu ziehen taugte,",
+      "zh": "便雅悯子孙的后代，照着家室、宗族、人名的数目，从二十岁以外，凡能出去打仗、被数的，共有三万五千四百名。",
+      "ja": "イツサカルの子等より生れたる者をその宗族に依りその父祖の家にしたがひて核べ二十歳以上にして戰爭に出るに勝る男丁を數へたるにその名の數に依ば"
+    },
+    {
+      "number": 29,
+      "ko": "잇사갈 지파에서 계수된 자는 오만 사천사백 명이었더라",
+      "en": "The number from the tribe of Issachar was 54,400.",
+      "de": "wurden gezählt zum Stamm Isaschar vierundfünfzigtausend und vierhundert.",
+      "zh": "但子孙的后代，照着家室、宗族、人名的数目，从二十岁以外，凡能出去打仗、被数的，共有六万二千七百名。",
+      "ja": "イツサカルの支派の中にその核數られし者五萬四千四百人ありき"
+    },
+    {
+      "number": 30,
+      "ko": "스불론의 아들들에게서 난 자를 그들의 종족과 조상의 가문에 따라 이십 세 이상으로 싸움에 나갈 만한 자를 그 명수대로 다 계수하니",
+      "en": "From the descendants of Zebulun: All the men twenty years old or more who were able to serve in the army were listed by name, according to the records of their clans and families.",
+      "de": "Der Kinder Sebulon nach ihrer Geburt und Geschlecht, ihren Vaterhäusern und Namen, von zwanzig Jahren und darüber, was ins Heer zu ziehen taugte,",
+      "zh": "亚设子孙的后代，照着家室、宗族、人名的数目，从二十岁以外，凡能出去打仗、被数的，共有四万一千五百名。",
+      "ja": "ゼブルンの子等より生れたる者をその宗族によりその父祖の家にしたがひて核べ二十歳以上にして戰爭にいづるに勝る男丁を數へたるにその名の數によれば"
+    },
+    {
+      "number": 31,
+      "ko": "스불론 지파에서 계수된 자는 오만 칠천사백 명이었더라",
+      "en": "The number from the tribe of Zebulun was 57,400.",
+      "de": "wurden gezählt zum Stamm Sebulon siebenundfünfzigtausend und vierhundert.",
+      "zh": "拿弗他利子孙的后代，照着家室、宗族、人名的数目，从二十岁以外，凡能出去打仗、被数的，共有五万三千四百名。",
+      "ja": "ゼブルンの支派の中に其核數られし者五萬七千四百人ありき"
+    },
+    {
+      "number": 32,
+      "ko": "요셉의 아들 에브라임의 아들들에게서 난 자를 그들의 종족과 조상의 가문에 따라 이십 세 이상으로 싸움에 나갈 만한 자를 그 명수대로 다 계수하니",
+      "en": "From the sons of Joseph: From the descendants of Ephraim: All the men twenty years old or more who were able to serve in the army were listed by name, according to the records of their clans and families.",
+      "de": "Der Kinder Joseph von Ephraim nach ihrer Geburt und Geschlecht, ihren Vaterhäusern und Namen, von zwanzig Jahren und darüber, was ins Heer zu ziehen taugte,",
+      "zh": "这些就是被数点的，是摩西、亚伦，和以色列中十二个首领所数点的；这十二个人各作各宗族的代表。",
+      "ja": "ヨセフの子等の中エフライムの子等より生れたる者をその宗族によりその父祖の家にしたがひて核べ二十歳以上にして戰爭にいづるに勝る男丁を數へたるにその名の數に依ば"
+    },
+    {
+      "number": 33,
+      "ko": "에브라임 지파에서 계수된 자는 사만 오백 명이었더라",
+      "en": "The number from the tribe of Ephraim was 40,500.",
+      "de": "wurden gezählt zum Stamm Ephraim vierzigtausend und fünfhundert.",
+      "zh": "这样，凡以色列人中被数的，照着宗族，从二十岁以外，能出去打仗、被数的，共有六十万零三千五百五十名。",
+      "ja": "エフライムの支派の中にその核數られし者四萬五百人ありき"
+    },
+    {
+      "number": 34,
+      "ko": "므낫세의 아들들에게서 난 자를 그들의 종족과 조상의 가문에 따라 이십 세 이상으로 싸움에 나갈 만한 자를 그 명수대로 다 계수하니",
+      "en": "From the descendants of Manasseh: All the men twenty years old or more who were able to serve in the army were listed by name, according to the records of their clans and families.",
+      "de": "Der Kinder Manasse nach ihrer Geburt und Geschlecht, ihren Vaterhäusern und Namen, von zwanzig Jahren und darüber, was ins Heer zu ziehen taugte,",
+      "zh": "利未人却没有按着支派数在其中，",
+      "ja": "又マナセの子等より生れたる者をその宗族に依りその父祖の家に循ひて核べ二十歳以上にして戰爭にいづるに勝る男丁を數へたるにその名の數に依ば"
+    },
+    {
+      "number": 35,
+      "ko": "므낫세 지파에서 계수된 자는 삼만 이천이백 명이었더라",
+      "en": "The number from the tribe of Manasseh was 32,200.",
+      "de": "wurden zum Stamm Manasse gezählt zweiunddreißigtausend und zweihundert.",
+      "zh": "因为耶和华晓谕摩西说：",
+      "ja": "マナセの支派の中にその核數られし者三萬二千二百人ありき"
+    },
+    {
+      "number": 36,
+      "ko": "베냐민의 아들들에게서 난 자를 그들의 종족과 조상의 가문에 따라 이십 세 이상으로 싸움에 나갈 만한 자를 그 명수대로 다 계수하니",
+      "en": "From the descendants of Benjamin: All the men twenty years old or more who were able to serve in the army were listed by name, according to the records of their clans and families.",
+      "de": "Der Kinder Benjamin nach ihrer Geburt und Geschlecht, ihren Vaterhäusern und Namen, von zwanzig Jahren und darüber, was ins Heer zu ziehen taugte,",
+      "zh": "「惟独利未支派你不可数点，也不可在以色列人中计算他们的总数。",
+      "ja": "ベニヤミンの子等より生れたる者をその宗族によりその父祖の家にしたがひて核べ二十歳以上にして戰爭にいづるに勝る男丁を數へたるにその名の數によれば"
+    },
+    {
+      "number": 37,
+      "ko": "베냐민 지파에서 계수된 자는 삼만 오천사백 명이었더라",
+      "en": "The number from the tribe of Benjamin was 35,400.",
+      "de": "wurden zum Stamm Benjamin gezählt fünfunddreißigtausend und vierhundert.",
+      "zh": "只要派利未人管法柜的帐幕和其中的器具，并属乎帐幕的；他们要抬帐幕和其中的器具，并要办理帐幕的事，在帐幕的四围安营。",
+      "ja": "ベニヤミンの支派の中にその數へられし者三萬五千四百人ありき"
+    },
+    {
+      "number": 38,
+      "ko": "단의 아들들에게서 난 자를 그들의 종족과 조상의 가문에 따라 이십 세 이상으로 싸움에 나갈 만한 자를 그 명수대로 다 계수하니",
+      "en": "From the descendants of Dan: All the men twenty years old or more who were able to serve in the army were listed by name, according to the records of their clans and families.",
+      "de": "Der Kinder Dan nach ihrer Geburt und Geschlecht, ihren Vaterhäusern und Namen, von zwanzig Jahren und darüber, was ins Heer zu ziehen taugte,",
+      "zh": "帐幕将往前行的时候，利未人要拆卸；将支搭的时候，利未人要竖起。近前来的外人必被治死。",
+      "ja": "ダンの子等より生れたる者をその宗族によりその父祖の家にしたがひて核べ二十歳以上にして戰爭にいづるに勝る男丁を數へたるにその名の數によれば"
+    },
+    {
+      "number": 39,
+      "ko": "단 지파에서 계수된 자는 육만 이천칠백 명이었더라",
+      "en": "The number from the tribe of Dan was 62,700.",
+      "de": "wurden gezählt zum Stamme Dan zweiundsechzigtausend und siebenhundert.",
+      "zh": "以色列人支搭帐棚，要照他们的军队，各归本营，各归本纛。",
+      "ja": "ダンの支派の中にその核數られし者六萬二千七百人ありき"
+    },
+    {
+      "number": 40,
+      "ko": "아셀의 아들들에게서 난 자를 그들의 종족과 조상의 가문에 따라 이십 세 이상으로 싸움에 나갈 만한 자를 그 명수대로 다 계수하니",
+      "en": "From the descendants of Asher: All the men twenty years old or more who were able to serve in the army were listed by name, according to the records of their clans and families.",
+      "de": "Der Kinder Asser nach ihrer Geburt und Geschlecht, ihren Vaterhäusern und Namen, von zwanzig Jahren und darüber, was ins Heer zu ziehen taugte,",
+      "zh": "但利未人要在法柜帐幕的四围安营，免得忿怒临到以色列会众；利未人并要谨守法柜的帐幕。」",
+      "ja": "アセルの子等より生れたる者をその宗族によりその父祖の家にしたがひて核べ二十歳以上にして戰爭にいづるに勝る男丁を數へたるにその名の數によれば"
+    },
+    {
+      "number": 41,
+      "ko": "아셀 지파에서 계수된 자는 사만 천오백 명이었더라",
+      "en": "The number from the tribe of Asher was 41,500.",
+      "de": "wurden gezählt zum Stamm Asser einundvierzigtausend und fünfhundert.",
+      "zh": "以色列人就这样行。凡耶和华所吩咐摩西的，他们就照样行了。",
+      "ja": "アセルの支派の中にその核數られし者四萬一千五百人ありき"
+    },
+    {
+      "number": 42,
+      "ko": "납달리의 아들들에게서 난 자를 그들의 종족과 조상의 가문에 따라 이십 세 이상으로 싸움에 나갈 만한 자를 그 명수대로 다 계수하니",
+      "en": "From the descendants of Naphtali: All the men twenty years old or more who were able to serve in the army were listed by name, according to the records of their clans and families.",
+      "de": "Der Kinder Naphthali nach ihrer Geburt und Geschlecht, ihren Vaterhäusern und Namen, von zwanzig Jahren und darüber, was ins Heer zu ziehen taugte,",
+      "zh": "",
+      "ja": "ナフタリの子等より生れたる者をその宗族によりその父祖の家にしたがひて核べ二十歳以上にして戰爭にいづるに勝る男丁を數へたるにその名の數によれば"
+    },
+    {
+      "number": 43,
+      "ko": "납달리 지파에서 계수된 자는 오만 삼천사백 명이었더라",
+      "en": "The number from the tribe of Naphtali was 53,400.",
+      "de": "wurden zum Stamm Naphthali gezählt dreiundfünfzigtausend und vierhundert.",
+      "zh": "",
+      "ja": "ナフタリの支派の中にその數へられし者五萬三千四百人ありき"
+    },
+    {
+      "number": 44,
+      "ko": "이 계수함을 받은 자는 모세와 아론과 각기 이스라엘 조상의 가문을 대표한 열두 지휘관이 계수하였더라",
+      "en": "These were the men counted by Moses and Aaron and the twelve leaders of Israel, each one representing his family.",
+      "de": "Dies sind, die Mose und Aaron zählten samt den zwölf Fürsten Israels, deren je einer über ein Vaterhaus war.",
+      "zh": "",
+      "ja": "是すなはちその核數られし者にしてモーセとアロンとイスラエルの牧伯等の數ふる所是のごとしその牧伯等は十二人にして各々その父祖の家のために出たるなり"
+    },
+    {
+      "number": 45,
+      "ko": "이같이 이스라엘 자손이 그 조상의 가문을 따라 이십 세 이상으로 싸움에 나갈 만한 이스라엘 자손이 다 계수되었으니",
+      "en": "All the Israelites twenty years old or more who were able to serve in Israel's army were counted according to their families.",
+      "de": "Und die Summe der Kinder Israel nach ihrer Geburt und Geschlecht, ihren Vaterhäusern und Namen, von zwanzig Jahren und darüber, was ins Heer zu ziehen taugte in Israel,",
+      "zh": "",
+      "ja": "斯イスラエルの子孫をその父祖の家にしたがひて核べ二十歳以上にして戰爭にいづるに勝る男丁をイスラルの中に數へたるに"
+    },
+    {
+      "number": 46,
+      "ko": "계수된 자의 총계는 육십만 삼천오백오십 명이었더라",
+      "en": "The total number was 603,550.",
+      "de": "war sechsmal hunderttausend und dreitausend fünfhundertundfünfzig.",
+      "zh": "",
+      "ja": "其核數られし者都合六十萬三千五百五十人ありき"
+    },
+    {
+      "number": 47,
+      "ko": "그러나 레위인은 그들의 조상의 지파대로 그 계수에 들지 아니하였으니",
+      "en": "The families of the tribe of Levi, however, were not counted along with the others.",
+      "de": "Aber die Leviten nach ihrer Väter Stamm wurden nicht mit darunter gezählt.",
+      "zh": "",
+      "ja": "但しレビの支派の人はその父祖にしたがひて核數らるること無りき"
+    },
+    {
+      "number": 48,
+      "ko": "이는 여호와께서 모세에게 말씀하여 이르시되",
+      "en": "The LORD had said to Moses:",
+      "de": "Und der HERR redete mit Mose und sprach:",
+      "zh": "",
+      "ja": "即ちヱホバ、モーセに告て言たまひけらく"
+    },
+    {
+      "number": 49,
+      "ko": "너는 레위 지파만은 계수하지 말며 그들을 이스라엘 자손 계수 중에 넣지 말고",
+      "en": "\"You must not count the tribe of Levi or include them in the census of the other Israelites.",
+      "de": "Den Stamm Levi sollst du nicht zählen noch ihre Summe nehmen unter den Kindern Israel,",
+      "zh": "",
+      "ja": "惟レビの支派のみは汝これを核數べからずまたその總數をイスラエルの子孫とともに計ふべからざるなり"
+    },
+    {
+      "number": 50,
+      "ko": "그들에게 증거의 성막과 그 모든 기구와 그 모든 부속품을 관리하게 하라 그들은 그 성막과 그 모든 기구를 운반하며 거기서 봉사하며 성막 주위에 진을 칠지며",
+      "en": "Instead, appoint the Levites to be in charge of the tabernacle of the Testimony--over all its furnishings and everything belonging to it. They are to carry the tabernacle and all its furnishings; they are to take care of it and encamp around it.",
+      "de": "sondern du sollst sie ordnen zur Wohnung des Zeugnisses und zu allem Geräte und allem, was dazu gehört. Und sie sollen die Wohnung tragen und alles Gerät und sollen sein pflegen und um die Wohnung her sich lagern.",
+      "zh": "",
+      "ja": "なんぢレビ人をして律法の幕屋とその諸の器具と其に屬する諸の物を管理らしむべし彼等はその幕屋とその諸の器具を運搬ぶことを爲しまたこれが役事を爲し幕屋の四圍にその營を張べし"
+    },
+    {
+      "number": 51,
+      "ko": "성막을 운반할 때에는 레위인이 그것을 걷고 성막을 세울 때에는 레위인이 그것을 세울 것이요 외인이 가까이 오면 죽일지며",
+      "en": "Whenever the tabernacle is to move, the Levites are to take it down, and whenever the tabernacle is to be set up, the Levites shall do it. Anyone else who goes near it shall be put to death.",
+      "de": "Und wenn man reisen soll, so sollen die Leviten die Wohnung abnehmen. Wenn aber das Heer zu lagern ist, sollen sie die Wohnung aufschlagen. Und wo ein Fremder sich dazumacht, der soll sterben.",
+      "zh": "",
+      "ja": "幕屋を移す時はレビ人これを折卸し幕屋を立る時はレビ人これを組たつべし外人のこれに近く者は殺さるべし"
+    },
+    {
+      "number": 52,
+      "ko": "이스라엘 자손은 막사를 치되 그 진영별로 각각 그 진영과 군기 곁에 칠 것이나",
+      "en": "The Israelites are to set up their tents by divisions, each man in his own camp under his own standard.",
+      "de": "Die Kinder Israel sollen sich lagern, ein jeglicher in sein Lager und zu dem Panier seiner Schar.",
+      "zh": "",
+      "ja": "イスラエルの子孫はその軍旅に循ひて各々自己の營にその天幕を張り各人その隊の纛の下に天幕を張べし"
+    },
+    {
+      "number": 53,
+      "ko": "레위인은 증거의 성막 사방에 진을 쳐서 이스라엘 자손의 회중에게 진노가 임하지 않게 할 것이라 레위인은 증거의 성막에 대한 책임을 지킬지니라 하셨음이라",
+      "en": "The Levites, however, are to set up their tents around the tabernacle of the Testimony so that wrath will not fall on the Israelite community. The Levites are to be responsible for the care of the tabernacle of the Testimony.\"",
+      "de": "Aber die Leviten sollen sich um die Wohnung des Zeugnisses her lagern, auf daß nicht ein Zorn über die Gemeinde der Kinder Israel komme; darum sollen die Leviten des Dienstes warten an der Wohnung des Zeugnisses.",
+      "zh": "",
+      "ja": "然どレビ人は律法の幕屋の四圍に營を張べし是イスラエルの子孫の全會衆の上に震怒のおよぶことなからん爲なりレビ人は律法の幕屋をあづかり守るべし"
+    },
+    {
+      "number": 54,
+      "ko": "이스라엘 자손이 그대로 행하되 여호와께서 모세에게 명령하신 대로 행하였더라",
+      "en": "The Israelites did all this just as the LORD commanded Moses.",
+      "de": "Und die Kinder Israel taten alles, wie der HERR dem Mose geboten hatte.",
+      "zh": "",
+      "ja": "是においてイスラエルの子孫ヱホバのモーセに命じたまひしごとくに凡て爲し斯おこなへり"
+    }
+  ]
+}

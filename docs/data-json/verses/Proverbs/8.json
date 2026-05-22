@@ -1,0 +1,294 @@
+{
+  "book": "Proverbs",
+  "chapter": 8,
+  "verses": [
+    {
+      "number": 1,
+      "ko": "지혜가 부르지 아니하느냐 명철이 소리를 높이지 아니하느냐",
+      "en": "Does not wisdom call out? Does not understanding raise her voice?",
+      "de": "Ruft nicht die Weisheit, und die Klugheit läßt sich hören?",
+      "zh": "智慧岂不呼叫？ 聪明岂不发声？",
+      "ja": "智慧は呼はらざるか 聰明は聲を出さざるか"
+    },
+    {
+      "number": 2,
+      "ko": "그가 길 가의 높은 곳과 네거리에 서며",
+      "en": "On the heights along the way, where the paths meet, she takes her stand;",
+      "de": "Öffentlich am Wege und an der Straße steht sie.",
+      "zh": "她在道旁高处的顶上， 在十字路口站立，",
+      "ja": "彼は路のほとりの高處また街衢のなかに立ち"
+    },
+    {
+      "number": 3,
+      "ko": "성문 곁과 문 어귀와 여러 출입하는 문에서 불러 이르되",
+      "en": "beside the gates leading into the city, at the entrances, she cries aloud:",
+      "de": "An den Toren bei der Stadt, da man zur Tür eingeht, schreit sie:",
+      "zh": "在城门旁，在城门口， 在城门洞，大声说：",
+      "ja": "邑のもろもろの門 邑の口および門々の入口にて呼はりいふ"
+    },
+    {
+      "number": 4,
+      "ko": "사람들아 내가 너희를 부르며 내가 인자들에게 소리를 높이노라",
+      "en": "\"To you, O men, I call out; I raise my voice to all mankind.",
+      "de": "O ihr Männer, ich schreie zu euch und rufe den Leuten.",
+      "zh": "众人哪，我呼叫你们， 我向世人发声。",
+      "ja": "人々よわれ汝をよび 我が聲をもて人の子等をよぶ"
+    },
+    {
+      "number": 5,
+      "ko": "어리석은 자들아 너희는 명철할지니라 미련한 자들아 너희는 마음이 밝을지니라",
+      "en": "You who are simple, gain prudence; you who are foolish, gain understanding.",
+      "de": "Merkt, ihr Unverständigen, auf Klugheit und, ihr Toren, nehmt es zu Herzen!",
+      "zh": "说：愚蒙人哪，你们要会悟灵明； 愚昧人哪，你们当心里明白。",
+      "ja": "拙き者よなんぢら聰明に明かなれ 愚なる者よ汝ら明かなる心を得よ"
+    },
+    {
+      "number": 6,
+      "ko": "너희는 들을지어다 내가 가장 선한 것을 말하리라 내 입술을 열어 정직을 내리라",
+      "en": "Listen, for I have worthy things to say; I open my lips to speak what is right.",
+      "de": "Höret, denn ich will reden, was fürstlich ist, und lehren, was recht ist.",
+      "zh": "你们当听，因我要说极美的话； 我张嘴要论正直的事。",
+      "ja": "汝きけ われ善事をかたらん わが口唇をひらきて正事をいださん"
+    },
+    {
+      "number": 7,
+      "ko": "내 입은 진리를 말하며 내 입술은 악을 미워하느니라",
+      "en": "My mouth speaks what is true, for my lips detest wickedness.",
+      "de": "Denn mein Mund soll die Wahrheit reden, und meine Lippen sollen hassen, was gottlos ist.",
+      "zh": "我的口要发出真理； 我的嘴憎恶邪恶。",
+      "ja": "我が口は眞實を述べ わが口唇はあしき事を憎むなり"
+    },
+    {
+      "number": 8,
+      "ko": "내 입의 말은 다 의로운즉 그 가운데에 굽은 것과 패역한 것이 없나니",
+      "en": "All the words of my mouth are just; none of them is crooked or perverse.",
+      "de": "Alle Reden meines Mundes sind gerecht; es ist nichts Verkehrtes noch falsches darin.",
+      "zh": "我口中的言语都是公义， 并无弯曲乖僻。",
+      "ja": "わが口の言はみな義し そのうちに虚偽と奸邪とあることなし"
+    },
+    {
+      "number": 9,
+      "ko": "이는 다 총명 있는 자가 밝히 아는 바요 지식 얻은 자가 정직하게 여기는 바니라",
+      "en": "To the discerning all of them are right; they are faultless to those who have knowledge.",
+      "de": "Sie sind alle gerade denen, die sie verstehen, und richtig denen, die es annehmen wollen.",
+      "zh": "有聪明的，以为明显， 得知识的，以为正直。",
+      "ja": "是みな智者の明かにするところ 知識をうる者の正とするところなり"
+    },
+    {
+      "number": 10,
+      "ko": "너희가 은을 받지 말고 나의 훈계를 받으며 정금보다 지식을 얻으라",
+      "en": "Choose my instruction instead of silver, knowledge rather than choice gold,",
+      "de": "Nehmet an meine Zucht lieber denn Silber, und die Lehre achtet höher denn köstliches Gold.",
+      "zh": "你们当受我的教训，不受白银； 宁得知识，胜过黄金。",
+      "ja": "なんぢら銀をうくるよりは我が敎をうけよ 精金よりもむしろ知識をえよ"
+    },
+    {
+      "number": 11,
+      "ko": "대저 지혜는 진주보다 나으므로 원하는 모든 것을 이에 비교할 수 없음이니라",
+      "en": "for wisdom is more precious than rubies, and nothing you desire can compare with her.",
+      "de": "Denn Weisheit ist besser als Perlen; und alles, was man wünschen mag, kann ihr nicht gleichen.",
+      "zh": "因为智慧比珍珠更美； 一切可喜爱的都不足与比较。",
+      "ja": "それ智慧は眞珠に愈れり 凡の寳も之に比ぶるに足らず"
+    },
+    {
+      "number": 12,
+      "ko": "나 지혜는 명철로 주소를 삼으며 지식과 근신을 찾아 얻나니",
+      "en": "\"I, wisdom, dwell together with prudence; I possess knowledge and discretion.",
+      "de": "Ich, Weisheit, wohne bei der Klugheit und weiß guten Rat zu geben.",
+      "zh": "我—智慧以灵明为居所， 又寻得知识和谋略。",
+      "ja": "われ智慧は聰明をすみかとし 知識と謹愼にいたる"
+    },
+    {
+      "number": 13,
+      "ko": "여호와를 경외하는 것은 악을 미워하는 것이라 나는 교만과 거만과 악한 행실과 패역한 입을 미워하느니라",
+      "en": "To fear the LORD is to hate evil; I hate pride and arrogance, evil behavior and perverse speech.",
+      "de": "Die Furcht des HERRN haßt das Arge, die Hoffart, den Hochmut und bösen Weg; und ich bin feind dem verkehrten Mund.",
+      "zh": "敬畏耶和华在乎恨恶邪恶； 那骄傲、狂妄，并恶道， 以及乖谬的口，都为我所恨恶。",
+      "ja": "ヱホバを畏るるとは惡を憎むことなり 我は傲慢と驕奢 惡道と虚偽の口とを憎む"
+    },
+    {
+      "number": 14,
+      "ko": "내게는 계략과 참 지식이 있으며 나는 명철이라 내게 능력이 있으므로",
+      "en": "Counsel and sound judgment are mine; I have understanding and power.",
+      "de": "Mein ist beides, Rat und Tat; ich habe Verstand und Macht.",
+      "zh": "我有谋略和真知识； 我乃聪明，我有能力。",
+      "ja": "謀略と聰明は我にあり 我は了知なり 我は能力あり"
+    },
+    {
+      "number": 15,
+      "ko": "나로 말미암아 왕들이 치리하며 방백들이 공의를 세우며",
+      "en": "By me kings reign and rulers make laws that are just;",
+      "de": "Durch mich regieren die Könige und setzen die Ratsherren das Recht.",
+      "zh": "帝王借我坐国位； 君王借我定公平。",
+      "ja": "我に由て王者は政をなし 君たる者は義しき律をたて"
+    },
+    {
+      "number": 16,
+      "ko": "나로 말미암아 재상과 존귀한 자 곧 모든 의로운 재판관들이 다스리느니라",
+      "en": "by me princes govern, and all nobles who rule on earth.",
+      "de": "Durch mich herrschen die Fürsten und alle Regenten auf Erden.",
+      "zh": "王子和首领， 世上一切的审判官，都是借我掌权。",
+      "ja": "我によりて主たる者および牧伯たちなど凡て地の審判人は世ををさむ"
+    },
+    {
+      "number": 17,
+      "ko": "나를 사랑하는 자들이 나의 사랑을 입으며 나를 간절히 찾는 자가 나를 만날 것이니라",
+      "en": "I love those who love me, and those who seek me find me.",
+      "de": "Ich liebe, die mich lieben; und die mich frühe suchen, finden mich.",
+      "zh": "爱我的，我也爱他； 恳切寻求我的，必寻得见。",
+      "ja": "われを愛する者は我これを愛す 我を切に求むるものは我に遇ん"
+    },
+    {
+      "number": 18,
+      "ko": "부귀가 내게 있고 장구한 재물과 공의도 그러하니라",
+      "en": "With me are riches and honor, enduring wealth and prosperity.",
+      "de": "Reichtum und Ehre ist bei mir, währendes Gut und Gerechtigkeit.",
+      "zh": "丰富尊荣在我； 恒久的财并公义也在我。",
+      "ja": "富と榮とは我にあり 貴き寳と公義とも亦然り"
+    },
+    {
+      "number": 19,
+      "ko": "내 열매는 금이나 정금보다 나으며 내 소득은 순은보다 나으니라",
+      "en": "My fruit is better than fine gold; what I yield surpasses choice silver.",
+      "de": "Meine Frucht ist besser denn Gold und feines Gold und mein Ertrag besser denn auserlesenes Silber.",
+      "zh": "我的果实胜过黄金，强如精金； 我的出产超乎高银。",
+      "ja": "わが果は金よりも精金よりも愈り わが利は精銀よりもよし"
+    },
+    {
+      "number": 20,
+      "ko": "나는 정의로운 길로 행하며 공의로운 길 가운데로 다니나니",
+      "en": "I walk in the way of righteousness, along the paths of justice,",
+      "de": "Ich wandle auf dem rechten Wege, auf der Straße des Rechts,",
+      "zh": "我在公义的道上走， 在公平的路中行，",
+      "ja": "我は義しき道にあゆみ 公平なる路徑のなかを行む"
+    },
+    {
+      "number": 21,
+      "ko": "이는 나를 사랑하는 자가 재물을 얻어서 그 곳간에 채우게 하려 함이니라",
+      "en": "bestowing wealth on those who love me and making their treasuries full.",
+      "de": "daß ich wohl versorge, die mich lieben, und ihre Schätze vollmache.",
+      "zh": "使爱我的，承受货财， 并充满他们的府库。",
+      "ja": "これ我を愛する者に貨財をえさせ 又その庫を充しめん爲なり"
+    },
+    {
+      "number": 22,
+      "ko": "여호와께서 그 조화의 시작 곧 태초에 일하시기 전에 나를 가지셨으며",
+      "en": "\"The LORD brought me forth as the first of his works, before his deeds of old;",
+      "de": "Der HERR hat mich gehabt im Anfang seiner Wege; ehe er etwas schuf, war ich da.",
+      "zh": "在耶和华造化的起头， 在太初创造万物之先，就有了我。",
+      "ja": "ヱホバいにしへ其御わざをなしそめたまへる前に その道の始として我をつくりたまひき"
+    },
+    {
+      "number": 23,
+      "ko": "만세 전부터, 태초부터, 땅이 생기기 전부터 내가 세움을 받았나니",
+      "en": "I was appointed from eternity, from the beginning, before the world began.",
+      "de": "Ich bin eingesetzt von Ewigkeit, von Anfang, vor der Erde.",
+      "zh": "从亘古，从太初， 未有世界以前，我已被立。",
+      "ja": "永遠より元始より地の有ざりし前より我は立られ"
+    },
+    {
+      "number": 24,
+      "ko": "아직 바다가 생기지 아니하였고 큰 샘들이 있기 전에 내가 이미 났으며",
+      "en": "When there were no oceans, I was given birth, when there were no springs abounding with water;",
+      "de": "Da die Tiefen noch nicht waren, da war ich schon geboren, da die Brunnen noch nicht mit Wasser quollen.",
+      "zh": "没有深渊， 没有大水的泉源，我已生出。",
+      "ja": "いまだ海洋あらず いまだ大なるみづの泉あらざりしとき我すでに生れ"
+    },
+    {
+      "number": 25,
+      "ko": "산이 세워지기 전에, 언덕이 생기기 전에 내가 이미 났으니",
+      "en": "before the mountains were settled in place, before the hills, I was given birth,",
+      "de": "Ehe denn die Berge eingesenkt waren, vor den Hügeln war ich geboren,",
+      "zh": "大山未曾奠定， 小山未有之先，我已生出。",
+      "ja": "山いまださだめられず 陵いまだ有ざりし前に我すでに生れたり"
+    },
+    {
+      "number": 26,
+      "ko": "하나님이 아직 땅도, 들도, 세상 진토의 근원도 짓지 아니하셨을 때에라",
+      "en": "before he made the earth or its fields or any of the dust of the world.",
+      "de": "da er die Erde noch nicht gemacht hatte und was darauf ist, noch die Berge des Erdbodens.",
+      "zh": "耶和华还没有创造大地和田野， 并世上的土质，我已生出。",
+      "ja": "即ち神いまだ地をも野をも地の塵の根元をも造り給はざりし時なり"
+    },
+    {
+      "number": 27,
+      "ko": "그가 하늘을 지으시며 궁창을 해면에 두르실 때에 내가 거기 있었고",
+      "en": "I was there when he set the heavens in place, when he marked out the horizon on the face of the deep,",
+      "de": "Da er die Himmel bereitete, war ich daselbst, da er die Tiefe mit seinem Ziel faßte.",
+      "zh": "他立高天，我在那里； 他在渊面的周围，划出圆圈。",
+      "ja": "かれ天をつくり海の面に穹蒼を張たまひしとき我かしこに在りき"
+    },
+    {
+      "number": 28,
+      "ko": "그가 위로 구름 하늘을 견고하게 하시며 바다의 샘들을 힘 있게 하시며",
+      "en": "when he established the clouds above and fixed securely the fountains of the deep,",
+      "de": "Da er die Wolken droben festete, da er festigte die Brunnen der Tiefe,",
+      "zh": "上使穹苍坚硬， 下使渊源稳固，",
+      "ja": "彼うへに雲氣をかたく定め 淵の泉をつよくならしめ"
+    },
+    {
+      "number": 29,
+      "ko": "바다의 한계를 정하여 물이 명령을 거스르지 못하게 하시며 또 땅의 기초를 정하실 때에",
+      "en": "when he gave the sea its boundary so the waters would not overstep his command, and when he marked out the foundations of the earth.",
+      "de": "da er dem Meer das Ziel setzte und den Wassern, daß sie nicht überschreiten seinen Befehl, da er den Grund der Erde legte:",
+      "zh": "为沧海定出界限，使水不越过他的命令， 立定大地的根基。",
+      "ja": "海にその限界をたて 水をしてその岸を踰えざらしめ また地の基を定めたまへるとき"
+    },
+    {
+      "number": 30,
+      "ko": "내가 그 곁에 있어서 창조자가 되어 날마다 그의 기뻐하신 바가 되었으며 항상 그 앞에서 즐거워하였으며",
+      "en": "Then I was the craftsman at his side. I was filled with delight day after day, rejoicing always in his presence,",
+      "de": "da war ich der Werkmeister bei ihm und hatte meine Lust täglich und spielte vor ihm allezeit",
+      "zh": "那时，我在他那里为工师， 日日为他所喜爱， 常常在他面前踊跃，",
+      "ja": "我はその傍にありて創造者となり 日々に欣び恒にその前に樂み"
+    },
+    {
+      "number": 31,
+      "ko": "사람이 거처할 땅에서 즐거워하며 인자들을 기뻐하였느니라",
+      "en": "rejoicing in his whole world and delighting in mankind.",
+      "de": "und spielte auf seinem Erdboden, und meine Lust ist bei den Menschenkindern.",
+      "zh": "踊跃在他为人预备可住之地， 也喜悦住在世人之间。",
+      "ja": "その地にて樂み又世の人を喜べり"
+    },
+    {
+      "number": 32,
+      "ko": "아들들아 이제 내게 들으라 내 도를 지키는 자가 복이 있느니라",
+      "en": "\"Now then, my sons, listen to me; blessed are those who keep my ways.",
+      "de": "So gehorchet mir nun, meine Kinder. Wohl denen, die meine Wege halten!",
+      "zh": "众子啊，现在要听从我， 因为谨守我道的，便为有福。",
+      "ja": "されば小子等よ いま我にきけ わが道をまもる者は福ひなり"
+    },
+    {
+      "number": 33,
+      "ko": "훈계를 들어서 지혜를 얻으라 그것을 버리지 말라",
+      "en": "Listen to my instruction and be wise; do not ignore it.",
+      "de": "Höret die Zucht und werdet weise und lasset sie nicht fahren.",
+      "zh": "要听教训就得智慧， 不可弃绝。",
+      "ja": "敎をききて智慧をえよ 之を棄ることなかれ"
+    },
+    {
+      "number": 34,
+      "ko": "누구든지 내게 들으며 날마다 내 문 곁에서 기다리며 문설주 옆에서 기다리는 자는 복이 있나니",
+      "en": "Blessed is the man who listens to me, watching daily at my doors, waiting at my doorway.",
+      "de": "Wohl dem Menschen, der mir gehorcht, daß er wache an meiner Tür täglich, daß er warte an den Pfosten meiner Tür.",
+      "zh": "听从我、日日在我门口仰望、 在我门框旁边等候的，那人便为有福。",
+      "ja": "凡そ我にきき 日々わが門の傍にまち わが戸口の柱のわきにたつ人は福ひなり"
+    },
+    {
+      "number": 35,
+      "ko": "대저 나를 얻는 자는 생명을 얻고 여호와께 은총을 얻을 것임이니라",
+      "en": "For whoever finds me finds life and receives favor from the LORD.",
+      "de": "Wer mich findet, der findet das Leben und wird Wohlgefallen vom HERRN erlangen.",
+      "zh": "因为寻得我的，就寻得生命， 也必蒙耶和华的恩惠。",
+      "ja": "そは我を得る者は生命をえ ヱホバより恩寵を獲ればなり"
+    },
+    {
+      "number": 36,
+      "ko": "그러나 나를 잃는 자는 자기의 영혼을 해하는 자라 나를 미워하는 자는 사망을 사랑하느니라",
+      "en": "But whoever fails to find me harms himself; all who hate me love death.\"",
+      "de": "Wer aber an mir sündigt, der verletzt seine Seele. Alle, die mich hassen, lieben den Tod.",
+      "zh": "得罪我的，却害了自己的性命； 恨恶我的，都喜爱死亡。",
+      "ja": "我を失ふものは自己の生命を害ふ すべて我を惡むものは死を愛するなり"
+    }
+  ]
+}

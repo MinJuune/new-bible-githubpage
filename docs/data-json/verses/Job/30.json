@@ -1,0 +1,254 @@
+{
+  "book": "Job",
+  "chapter": 30,
+  "verses": [
+    {
+      "number": 1,
+      "ko": "그러나 이제는 나보다 젊은 자들이 나를 비웃는구나 그들의 아비들은 내가 보기에 내 양 떼를 지키는 개 중에도 둘 만하지 못한 자들이니라",
+      "en": "\"But now they mock me, men younger than I, whose fathers I would have disdained to put with my sheep dogs.",
+      "de": "Nun aber lachen sie mein, die jünger sind denn ich, deren Väter ich verachtet hätte, sie zu stellen unter meine Schafhunde;",
+      "zh": "但如今，比我年少的人戏笑我； 其人之父我曾藐视， 不肯安在看守我羊群的狗中。",
+      "ja": "然るに今は我よりも年少き者等われを笑ふ 彼等の父は我が賤しめて群の犬と並べ置くことをもせざりし者なり"
+    },
+    {
+      "number": 2,
+      "ko": "그들의 기력이 쇠잔하였으니 그들의 손의 힘이 내게 무슨 소용이 있으랴",
+      "en": "Of what use was the strength of their hands to me, since their vigor had gone from them?",
+      "de": "deren Vermögen ich für nichts hielt; die nicht zum Alter kommen konnten;",
+      "zh": "他们壮年的气力既已衰败， 其手之力与我何益呢？",
+      "ja": "またかれらの手の力もわれに何の用をかなさん 彼らは其氣力すでに衰へたる者なり"
+    },
+    {
+      "number": 3,
+      "ko": "그들은 곧 궁핍과 기근으로 인하여 파리하며 캄캄하고 메마른 땅에서 마른 흙을 씹으며",
+      "en": "Haggard from want and hunger, they roamed the parched land in desolate wastelands at night.",
+      "de": "die vor Hunger und Kummer einsam flohen in die Einöde, neulich verdarben und elend wurden;",
+      "zh": "他们因穷乏饥饿，身体枯瘦， 在荒废凄凉的幽暗中啃干燥之地，",
+      "ja": "かれらは缺乏と饑とによりて痩おとろへ 荒かつ廢れたる暗き野にて乾ける地を咬む"
+    },
+    {
+      "number": 4,
+      "ko": "떨기나무 가운데에서 짠 나물을 꺾으며 대싸리 뿌리로 먹을 거리를 삼느니라",
+      "en": "In the brush they gathered salt herbs, and their food was the root of the broom tree.",
+      "de": "die da Nesseln ausraufen um die Büsche, und Ginsterwurzel ist ihre Speise;",
+      "zh": "在草丛之中采咸草， 罗腾的根为他们的食物。",
+      "ja": "すなはち灌木の中にて藜を摘み苕の根を食物となす"
+    },
+    {
+      "number": 5,
+      "ko": "무리가 그들에게 소리를 지름으로 도둑 같이 사람들 가운데에서 쫓겨나서",
+      "en": "They were banished from their fellow men, shouted at as if they were thieves.",
+      "de": "aus der Menschen Mitte werden sie weggetrieben, man schreit über sie wie über einen Dieb;",
+      "zh": "他们从人中被赶出； 人追喊他们如贼一般，",
+      "ja": "彼らは人の中より逐いださる 盜賊を追ふがごとくに人かれらを追て呼はる"
+    },
+    {
+      "number": 6,
+      "ko": "침침한 골짜기와 흙 구덩이와 바위 굴에서 살며",
+      "en": "They were forced to live in the dry stream beds, among the rocks and in holes in the ground.",
+      "de": "in grausigen Tälern wohnen sie, in den Löchern der Erde und Steinritzen;",
+      "zh": "以致他们住在荒谷之间， 在地洞和岩穴中；",
+      "ja": "彼等は懼ろしき谷に住み 土坑および磐穴に居り"
+    },
+    {
+      "number": 7,
+      "ko": "떨기나무 가운데에서 부르짖으며 가시나무 아래에 모여 있느니라",
+      "en": "They brayed among the bushes and huddled in the undergrowth.",
+      "de": "zwischen den Büschen rufen sie, und unter den Disteln sammeln sie sich:",
+      "zh": "在草丛中叫唤， 在荆棘下聚集。",
+      "ja": "灌木の中に嘶なき 荊棘の下に偃す"
+    },
+    {
+      "number": 8,
+      "ko": "그들은 본래 미련한 자의 자식이요 이름 없는 자들의 자식으로서 고토에서 쫓겨난 자들이니라",
+      "en": "A base and nameless brood, they were driven out of the land.",
+      "de": "die Kinder gottloser und verachteter Leute, die man aus dem Lande weggetrieben.",
+      "zh": "这都是愚顽下贱人的儿女； 他们被鞭打，赶出境外。",
+      "ja": "彼らは愚蠢なる者の子 卑むべき者の子にして國より撃いださる"
+    },
+    {
+      "number": 9,
+      "ko": "이제는 그들이 나를 노래로 조롱하며 내가 그들의 놀림거리가 되었으며",
+      "en": "\"And now their sons mock me in song; I have become a byword among them.",
+      "de": "Nun bin ich ihr Spottlied geworden und muß ihr Märlein sein.",
+      "zh": "现在这些人以我为歌曲， 以我为笑谈。",
+      "ja": "しかるに今は我かれらの歌謠に成り 彼らの嘲哢となれり"
+    },
+    {
+      "number": 10,
+      "ko": "그들이 나를 미워하여 멀리 하고 서슴지 않고 내 얼굴에 침을 뱉는도다",
+      "en": "They detest me and keep their distance; they do not hesitate to spit in my face.",
+      "de": "Sie haben einen Greuel an mir und machen sich ferne von mir und scheuen sich nicht, vor meinem Angesicht zu speien.",
+      "zh": "他们厌恶我，躲在旁边站着， 不住地吐唾沫在我脸上。",
+      "ja": "かれら我を厭ふて遠く我を離れ またわが面に唾することを辭まず"
+    },
+    {
+      "number": 11,
+      "ko": "이는 하나님이 내 활시위를 늘어지게 하시고 나를 곤고하게 하심으로 무리가 내 앞에서 굴레를 벗었음이니라",
+      "en": "Now that God has unstrung my bow and afflicted me, they throw off restraint in my presence.",
+      "de": "Sie haben ihr Seil gelöst und mich zunichte gemacht und ihren Zaum vor mir abgetan.",
+      "zh": "松开他们的绳索苦待我， 在我面前脱去辔头。",
+      "ja": "神わが綱を解て我をなやましたまへば彼等もわが前にその韁を縱せり"
+    },
+    {
+      "number": 12,
+      "ko": "그들이 내 오른쪽에서 일어나 내 발에 덫을 놓으며 나를 대적하여 길을 에워싸며",
+      "en": "On my right the tribe attacks; they lay snares for my feet, they build their siege ramps against me.",
+      "de": "Zur Rechten haben sich Buben wider mich gesetzt und haben meinen Fuß ausgestoßen und haben wider mich einen Weg gemacht, mich zu verderben.",
+      "zh": "这等下流人在我右边起来， 推开我的脚，筑成战路来攻击我。",
+      "ja": "この輩わが右に起あがり わが足を推のけ我にむかひて滅亡の路を築く"
+    },
+    {
+      "number": 13,
+      "ko": "그들이 내 길을 헐고 내 재앙을 재촉하는데도 도울 자가 없구나",
+      "en": "They break up my road; they succeed in destroying me--without anyone's helping them.",
+      "de": "Sie haben meine Steige zerbrochen; es war ihnen so leicht, mich zu beschädigen, daß sie keiner Hilfe dazu bedurften.",
+      "zh": "这些无人帮助的， 毁坏我的道，加增我的灾。",
+      "ja": "彼らは自ら便なき者なれども尚わが逕を毀ち わが滅亡を促す"
+    },
+    {
+      "number": 14,
+      "ko": "그들은 성을 파괴하고 그 파괴한 가운데로 몰려드는 것 같이 내게로 달려드니",
+      "en": "They advance as through a gaping breach; amid the ruins they come rolling in.",
+      "de": "Sie sind gekommen wie zu einer weiten Lücke der Mauer herein und sind ohne Ordnung dahergefallen.",
+      "zh": "他们来如同闯进大破口， 在毁坏之间滚在我身上。",
+      "ja": "かれらは石垣の大なる崩口より入がごとくに進み來り 破壞の中にてわが上に乗かかり"
+    },
+    {
+      "number": 15,
+      "ko": "순식간에 공포가 나를 에워싸고 그들이 내 품위를 바람 같이 날려 버리니 나의 구원은 구름 같이 지나가 버렸구나",
+      "en": "Terrors overwhelm me; my dignity is driven away as by the wind, my safety vanishes like a cloud.",
+      "de": "Schrecken hat sich gegen mich gekehrt und hat verfolgt wie der Wind meine Herrlichkeit; und wie eine Wolke zog vorüber mein glückseliger Stand.",
+      "zh": "惊恐临到我， 驱逐我的尊荣如风； 我的福禄如云过去。",
+      "ja": "懼ろしき事わが身に臨み 風のごとくに我が尊榮を吹はらふ わが福祿は雲のごとくに消失す"
+    },
+    {
+      "number": 16,
+      "ko": "이제는 내 생명이 내 속에서 녹으니 환난 날이 나를 사로잡음이라",
+      "en": "\"And now my life ebbs away; days of suffering grip me.",
+      "de": "Nun aber gießt sich aus meine Seele über mich, und mich hat ergriffen die elende Zeit.",
+      "zh": "现在我心极其悲伤； 困苦的日子将我抓住。",
+      "ja": "今はわが心われの衷に鎔て流れ 患難の日かたく我を執ふ"
+    },
+    {
+      "number": 17,
+      "ko": "밤이 되면 내 뼈가 쑤시니 나의 아픔이 쉬지 아니하는구나",
+      "en": "Night pierces my bones; my gnawing pains never rest.",
+      "de": "Des Nachts wird mein Gebein durchbohrt allenthalben; und die mich nagen, legen sich nicht schlafen.",
+      "zh": "夜间，我里面的骨头刺我， 疼痛不止，好像啃我。",
+      "ja": "夜にいれば我骨刺れて身を離る わが身を噬む者つひに休むこと無し"
+    },
+    {
+      "number": 18,
+      "ko": "그가 큰 능력으로 나의 옷을 떨쳐 버리시며 나의 옷깃처럼 나를 휘어잡으시는구나",
+      "en": "In his great power God becomes like clothing to me; he binds me like the neck of my garment.",
+      "de": "Mit großer Gewalt werde ich anders und anders gekleidet, und ich werde damit umgürtet wie mit einem Rock.",
+      "zh": "因　神的大力，我的外衣污秽不堪， 又如里衣的领子将我缠住。",
+      "ja": "わが疾病の大なる能によりてわが衣服は醜き樣に變り 裏衣の襟の如くに我身に固く附く"
+    },
+    {
+      "number": 19,
+      "ko": "하나님이 나를 진흙 가운데 던지셨고 나를 티끌과 재 같게 하셨구나",
+      "en": "He throws me into the mud, and I am reduced to dust and ashes.",
+      "de": "Man hat mich in den Kot getreten und gleich geachtet dem Staub und der Asche.",
+      "zh": "神把我扔在淤泥中， 我就像尘土和炉灰一般。",
+      "ja": "神われを泥の中に投こみたまひて我は塵灰に等しくなれり"
+    },
+    {
+      "number": 20,
+      "ko": "내가 주께 부르짖으나 주께서 대답하지 아니하시오며 내가 섰사오나 주께서 나를 돌아보지 아니하시나이다",
+      "en": "\"I cry out to you, O God, but you do not answer; I stand up, but you merely look at me.",
+      "de": "Schreie ich zu dir, so antwortest du mir nicht; trete ich hervor, so achtest du nicht auf mich.",
+      "zh": "主啊，我呼求你，你不应允我； 我站起来，你就定睛看我。",
+      "ja": "われ汝にむかひて呼はるに汝答へたまはず 我立をるに 汝只われをながめ居たまふ"
+    },
+    {
+      "number": 21,
+      "ko": "주께서 돌이켜 내게 잔혹하게 하시고 힘 있는 손으로 나를 대적하시나이다",
+      "en": "You turn on me ruthlessly; with the might of your hand you attack me.",
+      "de": "Du hast mich verwandelt in einen Grausamen und zeigst an mit der Stärke deiner Hand, daß du mir gram bist.",
+      "zh": "你向我变心，待我残忍， 又用大能追逼我，",
+      "ja": "なんぢは我にむかひて無情なりたまひ 御手の能力をもて我を攻撃たまふ"
+    },
+    {
+      "number": 22,
+      "ko": "나를 바람 위에 들어 불려가게 하시며 무서운 힘으로 나를 던져 버리시나이다",
+      "en": "You snatch me up and drive me before the wind; you toss me about in the storm.",
+      "de": "Du hebst mich auf und lässest mich auf dem Winde fahren und zerschmelzest mich kräftig.",
+      "zh": "把我提在风中，使我驾风而行， 又使我消灭在烈风中。",
+      "ja": "なんぢ我を擧げ風の上に乗て負去しめ 大風の音とともに消亡しめたまふ"
+    },
+    {
+      "number": 23,
+      "ko": "내가 아나이다 주께서 나를 죽게 하사 모든 생물을 위하여 정한 집으로 돌려보내시리이다",
+      "en": "I know you will bring me down to death, to the place appointed for all the living.",
+      "de": "Denn ich weiß du wirst mich dem Tod überantworten; da ist das bestimmte Haus aller Lebendigen.",
+      "zh": "我知道要使我临到死地， 到那为众生所定的阴宅。",
+      "ja": "われ知る汝はわれを死に歸らしめ一切の生物の終に集る家に歸らしめたまはん"
+    },
+    {
+      "number": 24,
+      "ko": "그러나 사람이 넘어질 때에 어찌 손을 펴지 아니하며 재앙을 당할 때에 어찌 도움을 부르짖지 아니하리이까",
+      "en": "\"Surely no one lays a hand on a broken man when he cries for help in his distress.",
+      "de": "Aber wird einer nicht die Hand ausstrecken unter Trümmern und nicht schreien vor seinem Verderben?",
+      "zh": "然而，人仆倒岂不伸手？ 遇灾难岂不求救呢？",
+      "ja": "かれは必ず荒垤にむかひて手を舒たまふこと有じ 假令人滅亡に陷るとも是等の事のために號呼ぶことをせん"
+    },
+    {
+      "number": 25,
+      "ko": "고생의 날을 보내는 자를 위하여 내가 울지 아니하였는가 빈궁한 자를 위하여 내 마음에 근심하지 아니하였는가",
+      "en": "Have I not wept for those in trouble? Has not my soul grieved for the poor?",
+      "de": "Ich weinte ja über den, der harte Zeit hatte; und meine Seele jammerte der Armen.",
+      "zh": "人遭难，我岂不为他哭泣呢？ 人穷乏，我岂不为他忧愁呢？",
+      "ja": "苦みて日を送る者のために我哭ざりしや 貧しき者のために我心うれへざりしや"
+    },
+    {
+      "number": 26,
+      "ko": "내가 복을 바랐더니 화가 왔고 광명을 기다렸더니 흑암이 왔구나",
+      "en": "Yet when I hoped for good, evil came; when I looked for light, then came darkness.",
+      "de": "Ich wartete des Guten, und es kommt das Böse; ich hoffte aufs Licht, und es kommt Finsternis.",
+      "zh": "我仰望得好处，灾祸就到了； 我等待光明，黑暗便来了。",
+      "ja": "われ吉事を望みしに凶事きたり 光明を待しに黑暗きたれり"
+    },
+    {
+      "number": 27,
+      "ko": "내 마음이 들끓어 고요함이 없구나 환난 날이 내게 임하였구나",
+      "en": "The churning inside me never stops; days of suffering confront me.",
+      "de": "Meine Eingeweide sieden und hören nicht auf; mich hat überfallen die elende Zeit.",
+      "zh": "我心里烦扰不安， 困苦的日子临到我身。",
+      "ja": "わが膓沸かへりて安からず 患難の日我に追及ぬ"
+    },
+    {
+      "number": 28,
+      "ko": "나는 햇볕에 쬐지 않고도 검어진 피부를 가지고 걸으며 회중 가운데 서서 도움을 부르짖고 있느니라",
+      "en": "I go about blackened, but not by the sun; I stand up in the assembly and cry for help.",
+      "de": "Ich gehe schwarz einher, und brennt mich doch die Sonne nicht; ich stehe auf in der Gemeinde und schreie.",
+      "zh": "我没有日光就哀哭行去 ； 我在会中站着求救。",
+      "ja": "われは日の光を蒙らずして哀しみつつ歩き 公會の中に立て助を呼もとむ"
+    },
+    {
+      "number": 29,
+      "ko": "나는 이리의 형제요 타조의 벗이로구나",
+      "en": "I have become a brother of jackals, a companion of owls.",
+      "de": "Ich bin ein Bruder der Schakale und ein Geselle der Strauße.",
+      "zh": "我与野狗为弟兄， 与鸵鸟为同伴。",
+      "ja": "われは山犬の兄弟となり 駝鳥の友となれり"
+    },
+    {
+      "number": 30,
+      "ko": "나를 덮고 있는 피부는 검어졌고 내 뼈는 열기로 말미암아 탔구나",
+      "en": "My skin grows black and peels; my body burns with fever.",
+      "de": "Meine Haut über mir ist schwarz geworden, und meine Gebeine sind verdorrt vor Hitze.",
+      "zh": "我的皮肤黑而脱落； 我的骨头因热烧焦。",
+      "ja": "わが皮は黑くなりて剥落ち わが骨は熱によりて焚け"
+    },
+    {
+      "number": 31,
+      "ko": "내 수금은 통곡이 되었고 내 피리는 애곡이 되었구나",
+      "en": "My harp is tuned to mourning, and my flute to the sound of wailing.",
+      "de": "Meine Harfe ist eine Klage geworden und meine Flöte ein Weinen.",
+      "zh": "所以，我的琴音变为悲音； 我的箫声变为哭声。",
+      "ja": "わが琴は哀の音となり わが笛は哭の聲となれり"
+    }
+  ]
+}

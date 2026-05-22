@@ -1,0 +1,478 @@
+{
+  "book": "Luke",
+  "chapter": 12,
+  "verses": [
+    {
+      "number": 1,
+      "ko": "그 동안에 무리 수만 명이 모여 서로 밟힐 만큼 되었더니 예수께서 먼저 제자들에게 말씀하여 이르시되 바리새인들의 누룩 곧 외식을 주의하라",
+      "en": "Meanwhile, when a crowd of many thousands had gathered, so that they were trampling on one another, Jesus began to speak first to his disciples, saying: \"Be on your guard against the yeast of the Pharisees, which is hypocrisy.",
+      "de": "Es lief das Volk zu und kamen etliche Tausend zusammen, also daß sie sich untereinander traten. Da fing er an und sagte zu seinen Jüngern: Zum ersten hütet euch vor dem Sauerteig der Pharisäer, welches ist die Heuchelei.",
+      "zh": "这时，有几万人聚集，甚至彼此践踏。耶稣开讲，先对门徒说：「你们要防备法利赛人的酵，就是假冒为善。",
+      "ja": "そうこうしている間に、おびただしい数の群衆が集まって来て、互いに足を踏み合うほどになった。イエスはまず弟子たちに対して、話しだされた。「パリサイ人のパン種に気をつけなさい。それは彼らの偽善のことです。"
+    },
+    {
+      "number": 2,
+      "ko": "감추인 것이 드러나지 않을 것이 없고 숨긴 것이 알려지지 않을 것이 없나니",
+      "en": "There is nothing concealed that will not be disclosed, or hidden that will not be made known.",
+      "de": "Es ist aber nichts verborgen, das nicht offenbar werde, noch heimlich, das man nicht wissen werde.",
+      "zh": "掩盖的事没有不露出来的；隐藏的事没有不被人知道的。",
+      "ja": "おおいかぶされているもので、現わされないものはなく、隠されているもので、知られずに済むものはありません。"
+    },
+    {
+      "number": 3,
+      "ko": "이러므로 너희가 어두운 데서 말한 모든 것이 광명한 데서 들리고 너희가 골방에서 귀에 대고 말한 것이 지붕 위에서 전파되리라",
+      "en": "What you have said in the dark will be heard in the daylight, and what you have whispered in the ear in the inner rooms will be proclaimed from the roofs.",
+      "de": "Darum, was ihr in der Finsternis saget, das wird man im Licht hören; was ihr redet ins Ohr in den Kammern, das wird man auf den Dächern predigen.",
+      "zh": "因此，你们在暗中所说的，将要在明处被人听见；在内室附耳所说的，将要在房上被人宣扬。」",
+      "ja": "ですから、あなたがたが暗やみで言ったことが、明るみで聞かれ、家の中でささやいたことが、屋上で言い広められます。"
+    },
+    {
+      "number": 4,
+      "ko": "내가 내 친구 너희에게 말하노니 몸을 죽이고 그 후에는 능히 더 못하는 자들을 두려워하지 말라",
+      "en": "\"I tell you, my friends, do not be afraid of those who kill the body and after that can do no more.",
+      "de": "Ich sage euch aber, meinen Freunden: Fürchtet euch nicht vor denen die den Leib töten, und darnach nichts mehr tun können.",
+      "zh": "「我的朋友，我对你们说，那杀身体以后不能再做什么的，不要怕他们。",
+      "ja": "そこで、わたしの友であるあなたがたに言います。からだを殺しても、あとはそれ以上何もできない人間たちを恐れてはいけません。"
+    },
+    {
+      "number": 5,
+      "ko": "마땅히 두려워할 자를 내가 너희에게 보이리니 곧 죽인 후에 또한 지옥에 던져 넣는 권세 있는 그를 두려워하라 내가 참으로 너희에게 이르노니 그를 두려워하라",
+      "en": "But I will show you whom you should fear: Fear him who, after the killing of the body, has power to throw you into hell. Yes, I tell you, fear him.",
+      "de": "Ich will euch aber zeigen, vor welchem ihr euch fürchten sollt: Fürchtet euch vor dem, der, nachdem er getötet hat, auch Macht hat, zu werfen in die Hölle. Ja, ich sage euch, vor dem fürchtet euch.",
+      "zh": "我要指示你们当怕的是谁：当怕那杀了以后又有权柄丢在地狱里的。我实在告诉你们，正要怕他。",
+      "ja": "恐れなければならない方を、あなたがたに教えてあげましょう。殺したあとで、ゲヘナに投げ込む権威を持っておられる方を恐れなさい。そうです。あなたがたに言います。この方を恐れなさい。"
+    },
+    {
+      "number": 6,
+      "ko": "참새 다섯 마리가 두 앗사리온에 팔리는 것이 아니냐 그러나 하나님 앞에는 그 하나도 잊어버리시는 바 되지 아니하는도다",
+      "en": "Are not five sparrows sold for two pennies? Yet not one of them is forgotten by God.",
+      "de": "Verkauft man nicht fünf Sperlinge um zwei Pfennige? Dennoch ist vor Gott deren nicht eines vergessen.",
+      "zh": "五个麻雀不是卖二分银子吗？但在　神面前，一个也不忘记；",
+      "ja": "五羽の雀は二アサリオンで売っているでしょう。そんな雀の一羽でも、神の御前には忘れられてはいません。"
+    },
+    {
+      "number": 7,
+      "ko": "너희에게는 심지어 머리털까지도 다 세신 바 되었나니 두려워하지 말라 너희는 많은 참새보다 더 귀하니라",
+      "en": "Indeed, the very hairs of your head are all numbered. Don't be afraid; you are worth more than many sparrows.",
+      "de": "Aber auch die Haare auf eurem Haupt sind alle gezählt. Darum fürchtet euch nicht; ihr seid besser denn viele Sperlinge.",
+      "zh": "就是你们的头发，也都被数过了。不要惧怕，你们比许多麻雀还贵重！」",
+      "ja": "それどころか、あなたがたの頭の毛さえも、みな数えられています。恐れることはありません。あなたがたは、たくさんの雀よりもすぐれた者です。"
+    },
+    {
+      "number": 8,
+      "ko": "내가 또한 너희에게 말하노니 누구든지 사람 앞에서 나를 시인하면 인자도 하나님의 사자들 앞에서 그를 시인할 것이요",
+      "en": "\"I tell you, whoever acknowledges me before men, the Son of Man will also acknowledge him before the angels of God.",
+      "de": "Ich aber sage euch: Wer mich bekennet vor den Menschen, den wird auch des Menschen Sohn bekennen vor den Engeln Gottes.",
+      "zh": "「我又告诉你们，凡在人面前认我的，人子在　神的使者面前也必认他；",
+      "ja": "そこで、あなたがたに言います。だれでも、わたしを人の前で認める者は、人の子もまた、その人を神の御使いたちの前で認めます。"
+    },
+    {
+      "number": 9,
+      "ko": "사람 앞에서 나를 부인하는 자는 하나님의 사자들 앞에서 부인을 당하리라",
+      "en": "But he who disowns me before men will be disowned before the angels of God.",
+      "de": "Wer mich aber verleugnet vor den Menschen, der wird verleugnet werden vor den Engeln Gottes.",
+      "zh": "在人面前不认我的，人子在　神的使者面前也必不认他。",
+      "ja": "しかし、わたしを人の前で知らないと言う者は、神の御使いたちの前で知らないと言われます。"
+    },
+    {
+      "number": 10,
+      "ko": "누구든지 말로 인자를 거역하면 사하심을 받으려니와 성령을 모독하는 자는 사하심을 받지 못하리라",
+      "en": "And everyone who speaks a word against the Son of Man will be forgiven, but anyone who blasphemes against the Holy Spirit will not be forgiven.",
+      "de": "Und wer da redet ein Wort wider des Menschen Sohn, dem soll es vergeben werden; wer aber lästert den heiligen Geist, dem soll es nicht vergeben werden.",
+      "zh": "凡说话干犯人子的，还可得赦免；惟独亵渎圣灵的，总不得赦免。",
+      "ja": "たとい、人の子をそしることばを使う者があっても、赦されます。しかし、聖霊をけがす者は赦されません。"
+    },
+    {
+      "number": 11,
+      "ko": "사람이 너희를 회당이나 위정자나 권세 있는 자 앞에 끌고 가거든 어떻게 무엇으로 대답하며 무엇으로 말할까 염려하지 말라",
+      "en": "\"When you are brought before synagogues, rulers and authorities, do not worry about how you will defend yourselves or what you will say,",
+      "de": "Wenn sie euch aber führen werden in ihre Schulen und vor die Obrigkeit und vor die Gewaltigen, so sorget nicht, wie oder was ihr antworten oder was ihr sagen sollt;",
+      "zh": "人带你们到会堂，并官府和有权柄的人面前，不要思虑怎么分诉，说什么话；",
+      "ja": "また、人々があなたがたを、会堂や役人や権力者などのところに連れて行ったとき、何をどう弁明しようか、何を言おうかと心配するには及びません。"
+    },
+    {
+      "number": 12,
+      "ko": "마땅히 할 말을 성령이 곧 그 때에 너희에게 가르치시리라 하시니라",
+      "en": "for the Holy Spirit will teach you at that time what you should say.\"",
+      "de": "denn der heilige Geist wird euch zu derselben Stunde lehren, was ihr sagen sollt.",
+      "zh": "因为正在那时候，圣灵要指教你们当说的话。」",
+      "ja": "言うべきことは、そのときに聖霊が教えてくださるからです。」"
+    },
+    {
+      "number": 13,
+      "ko": "무리 중에 한 사람이 이르되 선생님 내 형을 명하여 유산을 나와 나누게 하소서 하니",
+      "en": "Someone in the crowd said to him, \"Teacher, tell my brother to divide the inheritance with me.\"",
+      "de": "Es sprach aber einer aus dem Volk zu ihm: Meister, sage meinem Bruder, daß er mit mir das Erbe teile.",
+      "zh": "众人中有一个人对耶稣说：「夫子！请你吩咐我的兄长和我分开家业。」",
+      "ja": "群衆の中のひとりが、「先生。私と遺産を分けるように私の兄弟に話してください。」と言った。"
+    },
+    {
+      "number": 14,
+      "ko": "이르시되 이 사람아 누가 나를 너희의 재판장이나 물건 나누는 자로 세웠느냐 하시고",
+      "en": "Jesus replied, \"Man, who appointed me a judge or an arbiter between you?\"",
+      "de": "Er aber sprach zu ihm: Mensch, wer hat mich zum Richter oder Erbschichter über euch gesetzt?",
+      "zh": "耶稣说：「你这个人！谁立我作你们断事的官，给你们分家业呢？」",
+      "ja": "すると彼に言われた。「いったいだれが、わたしをあなたがたの裁判官や調停者に任命したのですか。」"
+    },
+    {
+      "number": 15,
+      "ko": "그들에게 이르시되 삼가 모든 탐심을 물리치라 사람의 생명이 그 소유의 넉넉한 데 있지 아니하니라 하시고",
+      "en": "Then he said to them, \"Watch out! Be on your guard against all kinds of greed; a man's life does not consist in the abundance of his possessions.\"",
+      "de": "Und er sprach zu ihnen: Sehet zu und hütet euch vor dem Geiz; denn niemand lebt davon, daß er viele Güter hat.",
+      "zh": "于是对众人说：「你们要谨慎自守，免去一切的贪心，因为人的生命不在乎家道丰富。」",
+      "ja": "そして人々に言われた。「どんな貪欲にも注意して、よく警戒しなさい。なぜなら、いくら豊かな人でも、その人のいのちは財産にあるのではないからです。」"
+    },
+    {
+      "number": 16,
+      "ko": "또 비유로 그들에게 말하여 이르시되 한 부자가 그 밭에 소출이 풍성하매",
+      "en": "And he told them this parable: \"The ground of a certain rich man produced a good crop.",
+      "de": "Und er sagte ihnen ein Gleichnis und sprach: Es war ein reicher Mensch, das Feld hatte wohl getragen.",
+      "zh": "就用比喻对他们说：「有一个财主田产丰盛；",
+      "ja": "それから人々にたとえを話された。 「ある金持ちの畑が豊作であった。"
+    },
+    {
+      "number": 17,
+      "ko": "심중에 생각하여 이르되 내가 곡식 쌓아 둘 곳이 없으니 어찌할까 하고",
+      "en": "He thought to himself, 'What shall I do? I have no place to store my crops.'",
+      "de": "Und er gedachte bei sich selbst und sprach: Was soll ich tun? Ich habe nicht, da ich meine Früchte hin sammle.",
+      "zh": "自己心里思想说：『我的出产没有地方收藏，怎么办呢？』",
+      "ja": "そこで彼は、心の中でこう言いながら考えた。『どうしよう。作物をたくわえておく場所がない。』"
+    },
+    {
+      "number": 18,
+      "ko": "또 이르되 내가 이렇게 하리라 내 곳간을 헐고 더 크게 짓고 내 모든 곡식과 물건을 거기 쌓아 두리라",
+      "en": "\"Then he said, 'This is what I'll do. I will tear down my barns and build bigger ones, and there I will store all my grain and my goods.",
+      "de": "Und sprach: Das will ich tun: ich will meine Scheunen abbrechen und größere bauen und will drein sammeln alles, was mir gewachsen ist, und meine Güter;",
+      "zh": "又说：『我要这么办：要把我的仓房拆了，另盖更大的，在那里好收藏我一切的粮食和财物，",
+      "ja": "そして言った。『こうしよう。あの倉を取りこわして、もっと大きいのを建て、穀物や財産はみなそこにしまっておこう。"
+    },
+    {
+      "number": 19,
+      "ko": "또 내가 내 영혼에게 이르되 영혼아 여러 해 쓸 물건을 많이 쌓아 두었으니 평안히 쉬고 먹고 마시고 즐거워하자 하리라 하되",
+      "en": "And I'll say to myself, \"You have plenty of good things laid up for many years. Take life easy; eat, drink and be merry.\"'",
+      "de": "und will sagen zu meiner Seele: Liebe Seele, du hast einen großen Vorrat auf viele Jahre; habe nun Ruhe, iß, trink und habe guten Mut!",
+      "zh": "然后要对我的灵魂说：灵魂哪，你有许多财物积存，可作多年的费用，只管安安逸逸地吃喝快乐吧！』",
+      "ja": "そして、自分のたましいにこう言おう。「たましいよ。これから先何年分もいっぱい物がためられた。さあ、安心して、食べて、飲んで、楽しめ。」』"
+    },
+    {
+      "number": 20,
+      "ko": "하나님은 이르시되 어리석은 자여 오늘 밤에 네 영혼을 도로 찾으리니 그러면 네 준비한 것이 누구의 것이 되겠느냐 하셨으니",
+      "en": "\"But God said to him, 'You fool! This very night your life will be demanded from you. Then who will get what you have prepared for yourself?'",
+      "de": "Aber Gott sprach zu ihm: Du Narr! diese Nacht wird man deine Seele von dir fordern; und wes wird's sein, das du bereitet hast?",
+      "zh": "神却对他说：『无知的人哪，今夜必要你的灵魂；你所预备的要归谁呢？』",
+      "ja": "しかし神は彼に言われた。『愚か者。おまえのたましいは、今夜おまえから取り去られる。そうしたら、おまえが用意した物は、いったいだれのものになるのか。』"
+    },
+    {
+      "number": 21,
+      "ko": "자기를 위하여 재물을 쌓아 두고 하나님께 대하여 부요하지 못한 자가 이와 같으니라",
+      "en": "\"This is how it will be with anyone who stores up things for himself but is not rich toward God.\"",
+      "de": "Also geht es, wer sich Schätze sammelt und ist nicht reich in Gott.",
+      "zh": "凡为自己积财，在　神面前却不富足的，也是这样。」",
+      "ja": "自分のためにたくわえても、神の前に富まない者はこのとおりです。」"
+    },
+    {
+      "number": 22,
+      "ko": "또 제자들에게 이르시되 그러므로 내가 너희에게 이르노니 너희 목숨을 위하여 무엇을 먹을까 몸을 위하여 무엇을 입을까 염려하지 말라",
+      "en": "Then Jesus said to his disciples: \"Therefore I tell you, do not worry about your life, what you will eat; or about your body, what you will wear.",
+      "de": "Er sprach aber zu seinen Jüngern: Darum sage ich euch: Sorget nicht für euer Leben, was ihr essen sollt, auch nicht für euren Leib, was ihr antun sollt.",
+      "zh": "耶稣又对门徒说：「所以我告诉你们，不要为生命忧虑吃什么，为身体忧虑穿什么；",
+      "ja": "それから弟子たちに言われた。「だから、わたしはあなたがたに言います。いのちのことで何を食べようかと心配したり、からだのことで何を着ようかと心配したりするのはやめなさい。"
+    },
+    {
+      "number": 23,
+      "ko": "목숨이 음식보다 중하고 몸이 의복보다 중하니라",
+      "en": "Life is more than food, and the body more than clothes.",
+      "de": "Das Leben ist mehr denn die Speise, und der Leib mehr denn die Kleidung.",
+      "zh": "因为生命胜于饮食，身体胜于衣裳。",
+      "ja": "いのちは食べ物よりたいせつであり、からだは着物よりたいせつだからです。"
+    },
+    {
+      "number": 24,
+      "ko": "까마귀를 생각하라 심지도 아니하고 거두지도 아니하며 골방도 없고 창고도 없으되 하나님이 기르시나니 너희는 새보다 얼마나 더 귀하냐",
+      "en": "Consider the ravens: They do not sow or reap, they have no storeroom or barn; yet God feeds them. And how much more valuable you are than birds!",
+      "de": "Nehmet wahr der Raben: die sähen nicht, sie ernten auch nicht, sie haben auch keinen Keller noch Scheune; und Gott nährt sie doch. Wie viel aber seid ihr besser denn die Vögel!",
+      "zh": "你想乌鸦，也不种也不收，又没有仓又没有库，　神尚且养活它。你们比飞鸟是何等地贵重呢！",
+      "ja": "烏のことを考えてみなさい。蒔きもせず、刈り入れもせず、納屋も倉もありません。けれども、神が彼らを養っていてくださいます。あなたがたは、鳥よりも、はるかにすぐれたものです。"
+    },
+    {
+      "number": 25,
+      "ko": "또 너희 중에 누가 염려함으로 그 키를 한 자라도 더할 수 있느냐",
+      "en": "Who of you by worrying can add a single hour to his life?",
+      "de": "Welcher ist unter euch, ob er schon darum sorget, der da könnte eine Elle seiner Länge zusetzen?",
+      "zh": "你们哪一个能用思虑使寿数多加一刻呢？",
+      "ja": "あなたがたのうちのだれが、心配したからといって、自分のいのちを少しでも延ばすことができますか。"
+    },
+    {
+      "number": 26,
+      "ko": "그런즉 가장 작은 일도 하지 못하면서 어찌 다른 일들을 염려하느냐",
+      "en": "Since you cannot do this very little thing, why do you worry about the rest?",
+      "de": "So ihr denn das Geringste nicht vermöget, warum sorgt ihr für das andere?",
+      "zh": "这最小的事，你们尚且不能做，为什么还忧虑其余的事呢？",
+      "ja": "こんな小さなことさえできないで、なぜほかのことまで心配するのですか。"
+    },
+    {
+      "number": 27,
+      "ko": "백합화를 생각하여 보라 실도 만들지 않고 짜지도 아니하느니라 그러나 내가 너희에게 말하노니 솔로몬의 모든 영광으로도 입은 것이 이 꽃 하나만큼 훌륭하지 못하였느니라",
+      "en": "\"Consider how the lilies grow. They do not labor or spin. Yet I tell you, not even Solomon in all his splendor was dressed like one of these.",
+      "de": "Nehmet wahr der Lilien auf dem Felde, wie sie wachsen: sie arbeiten nicht, auch spinnen sie nicht. Ich sage euch aber, daß auch Salomo in aller seiner Herrlichkeit nicht ist bekleidet gewesen als deren eines.",
+      "zh": "你想百合花怎么长起来；它也不劳苦，也不纺线。然而我告诉你们，就是所罗门极荣华的时候，他所穿戴的，还不如这花一朵呢！",
+      "ja": "ゆりの花のことを考えてみなさい。どうして育つのか。紡ぎもせず、織りもしないのです。しかし、わたしはあなたがたに言います。栄華を窮めたソロモンでさえ、このような花の一つほどにも着飾ってはいませんでした。"
+    },
+    {
+      "number": 28,
+      "ko": "오늘 있다가 내일 아궁이에 던져지는 들풀도 하나님이 이렇게 입히시거든 하물며 너희일까보냐 믿음이 작은 자들아",
+      "en": "If that is how God clothes the grass of the field, which is here today, and tomorrow is thrown into the fire, how much more will he clothe you, O you of little faith!",
+      "de": "So denn das Gras, das heute auf dem Felde steht und morgen in den Ofen geworfen wird, Gott also kleidet, wie viel mehr wird er euch kleiden, ihr Kleingläubigen!",
+      "zh": "你们这小信的人哪，野地里的草今天还在，明天就丢在炉里，　神还给它这样的妆饰，何况你们呢！",
+      "ja": "しかし、きょうは野にあって、あすは炉に投げ込まれる草をさえ、神はこのように装ってくださるのです。ましてあなたがたには、どんなによくしてくださることでしょう。ああ、信仰の薄い人たち。"
+    },
+    {
+      "number": 29,
+      "ko": "너희는 무엇을 먹을까 무엇을 마실까 하여 구하지 말며 근심하지도 말라",
+      "en": "And do not set your heart on what you will eat or drink; do not worry about it.",
+      "de": "Darum auch ihr, fraget nicht darnach, was ihr essen oder was ihr trinken sollt, und fahret nicht hoch her.",
+      "zh": "你们不要求吃什么，喝什么，也不要挂心；",
+      "ja": "何を食べたらよいか、何を飲んだらよいか、と捜し求めることをやめ、気をもむことをやめなさい。"
+    },
+    {
+      "number": 30,
+      "ko": "이 모든 것은 세상 백성들이 구하는 것이라 너희 아버지께서는 이런 것이 너희에게 있어야 할 것을 아시느니라",
+      "en": "For the pagan world runs after all such things, and your Father knows that you need them.",
+      "de": "Nach solchem allen trachten die Heiden in der Welt; aber euer Vater weiß wohl, das ihr des bedürfet.",
+      "zh": "这都是外邦人所求的。你们必须用这些东西，你们的父是知道的。",
+      "ja": "これらはみな、この世の異邦人たちが切に求めているものです。しかし、あなたがたの父は、それがあなたがたにも必要であることを知っておられます。"
+    },
+    {
+      "number": 31,
+      "ko": "다만 너희는 그의 나라를 구하라 그리하면 이런 것들을 너희에게 더하시리라",
+      "en": "But seek his kingdom, and these things will be given to you as well.",
+      "de": "Doch trachtet nach dem Reich Gottes, so wird euch das alles zufallen.",
+      "zh": "你们只要求他的国，这些东西就必加给你们了。",
+      "ja": "何はともあれ、あなたがたは、神の国を求めなさい。そうすれば、これらの物は、それに加えて与えられます。"
+    },
+    {
+      "number": 32,
+      "ko": "적은 무리여 무서워 말라 너희 아버지께서 그 나라를 너희에게 주시기를 기뻐하시느니라",
+      "en": "\"Do not be afraid, little flock, for your Father has been pleased to give you the kingdom.",
+      "de": "Fürchte dich nicht, du kleine Herde! denn es ist eures Vaters Wohlgefallen, euch das Reich zu geben.",
+      "zh": "你们这小群，不要惧怕，因为你们的父乐意把国赐给你们。",
+      "ja": "小さな群れよ。恐れることはありません。あなたがたの父である神は、喜んであなたがたに御国をお与えになるからです。"
+    },
+    {
+      "number": 33,
+      "ko": "너희 소유를 팔아 구제하여 낡아지지 아니하는 배낭을 만들라 곧 하늘에 둔 바 다함이 없는 보물이니 거기는 도둑도 가까이 하는 일이 없고 좀도 먹는 일이 없느니라",
+      "en": "Sell your possessions and give to the poor. Provide purses for yourselves that will not wear out, a treasure in heaven that will not be exhausted, where no thief comes near and no moth destroys.",
+      "de": "Verkaufet, was ihr habt, und gebt Almosen. Machet euch Beutel, die nicht veralten, einen Schatz, der nimmer abnimmt, im Himmel, da kein Dieb zukommt, und den keine Motten fressen.",
+      "zh": "你们要变卖所有的周济人，为自己预备永不坏的钱囊，用不尽的财宝在天上，就是贼不能近、虫不能蛀的地方。",
+      "ja": "持ち物を売って、施しをしなさい。自分のために、古くならない財布を作り、朽ちることのない宝を天に積み上げなさい。そこには、盗人も近寄らず、しみもいためることがありません。"
+    },
+    {
+      "number": 34,
+      "ko": "너희 보물 있는 곳에는 너희 마음도 있으리라",
+      "en": "For where your treasure is, there your heart will be also.",
+      "de": "Denn wo euer Schatz ist, da wird auch euer Herz sein.",
+      "zh": "因为，你们的财宝在哪里，你们的心也在那里。」",
+      "ja": "あなたがたの宝のあるところに、あなたがたの心もあるからです。"
+    },
+    {
+      "number": 35,
+      "ko": "허리에 띠를 띠고 등불을 켜고 서 있으라",
+      "en": "\"Be dressed ready for service and keep your lamps burning,",
+      "de": "Lasset eure Lenden umgürtet sein und eure Lichter brennen",
+      "zh": "「你们腰里要束上带，灯也要点着，",
+      "ja": "腰に帯を締め、あかりをともしていなさい。"
+    },
+    {
+      "number": 36,
+      "ko": "너희는 마치 그 주인이 혼인 집에서 돌아와 문을 두드리면 곧 열어 주려고 기다리는 사람과 같이 되라",
+      "en": "like men waiting for their master to return from a wedding banquet, so that when he comes and knocks they can immediately open the door for him.",
+      "de": "und seid gleich den Menschen, die auf ihren Herrn warten, wann er aufbrechen wird von der Hochzeit, auf daß, wenn er kommt und anklopft, sie ihm alsbald auftun.",
+      "zh": "自己好像仆人等候主人从婚姻的筵席上回来。他来到，叩门，就立刻给他开门。",
+      "ja": "主人が婚礼から帰って来て戸をたたいたら、すぐに戸をあけようと、その帰りを待ち受けている人たちのようでありなさい。"
+    },
+    {
+      "number": 37,
+      "ko": "주인이 와서 깨어 있는 것을 보면 그 종들은 복이 있으리로다 내가 진실로 너희에게 이르노니 주인이 띠를 띠고 그 종들을 자리에 앉히고 나아와 수종들리라",
+      "en": "It will be good for those servants whose master finds them watching when he comes. I tell you the truth, he will dress himself to serve, will have them recline at the table and will come and wait on them.",
+      "de": "Selig sind die Knechte, die der Herr, so er kommt, wachend findet. Wahrlich, ich sage euch: Er wird sich aufschürzen und wird sie zu Tische setzen und vor ihnen gehen und ihnen dienen.",
+      "zh": "主人来了，看见仆人警醒，那仆人就有福了。我实在告诉你们，主人必叫他们坐席，自己束上带，进前伺候他们。",
+      "ja": "帰って来た主人に、目をさましているところを見られるしもべたちは幸いです。まことに、あなたがたに告げます。主人のほうが帯を締め、そのしもべたちを食卓に着かせ、そばにいて給仕をしてくれます。"
+    },
+    {
+      "number": 38,
+      "ko": "주인이 혹 이경에나 혹 삼경에 이르러서도 종들이 그같이 하고 있는 것을 보면 그 종들은 복이 있으리로다",
+      "en": "It will be good for those servants whose master finds them ready, even if he comes in the second or third watch of the night.",
+      "de": "Und so er kommt in der anderen Wache und in der dritten Wache und wird's also finden: selig sind diese Knechte.",
+      "zh": "或是二更天来，或是三更天来，看见仆人这样，那仆人就有福了。",
+      "ja": "主人が真夜中に帰っても、夜明けに帰っても、いつでもそのようであることを見られるなら、そのしもべたちは幸いです。"
+    },
+    {
+      "number": 39,
+      "ko": "너희도 아는 바니 집 주인이 만일 도둑이 어느 때에 이를 줄 알았더라면 그 집을 뚫지 못하게 하였으리라",
+      "en": "But understand this: If the owner of the house had known at what hour the thief was coming, he would not have let his house be broken into.",
+      "de": "Das sollt ihr aber wissen: Wenn ein Hausherr wüßte, zu welcher Stunde der Dieb käme, so wachte er und ließe nicht in sein Haus brechen.",
+      "zh": "家主若知道贼什么时候来，就必警醒，不容贼挖透房屋，这是你们所知道的。",
+      "ja": "このことを知っておきなさい。もしも家の主人が、どろぼうの来る時間を知っていたなら、おめおめと自分の家に押し入られはしなかったでしょう。"
+    },
+    {
+      "number": 40,
+      "ko": "그러므로 너희도 준비하고 있으라 생각하지 않은 때에 인자가 오리라 하시니라",
+      "en": "You also must be ready, because the Son of Man will come at an hour when you do not expect him.\"",
+      "de": "Darum seid auch ihr bereit; denn des Menschen Sohn wird kommen zu der Stunde, da ihr's nicht meinet.",
+      "zh": "你们也要预备；因为你们想不到的时候，人子就来了。」",
+      "ja": "あなたがたも用心していなさい。人の子は、思いがけない時に来るのですから。」"
+    },
+    {
+      "number": 41,
+      "ko": "베드로가 여짜오되 주께서 이 비유를 우리에게 하심이니이까 모든 사람에게 하심이니이까",
+      "en": "Peter asked, \"Lord, are you telling this parable to us, or to everyone?\"",
+      "de": "Petrus aber sprach zu ihm: HERR, sagst du dies Gleichnis zu uns oder auch zu allen?",
+      "zh": "彼得说：「主啊，这比喻是为我们说的呢？还是为众人呢？」",
+      "ja": "そこで、ペテロが言った。「主よ。このたとえは私たちのために話してくださるのですか。それともみなのためなのですか。」"
+    },
+    {
+      "number": 42,
+      "ko": "주께서 이르시되 지혜 있고 진실한 청지기가 되어 주인에게 그 집 종들을 맡아 때를 따라 양식을 나누어 줄 자가 누구냐",
+      "en": "The Lord answered, \"Who then is the faithful and wise manager, whom the master puts in charge of his servants to give them their food allowance at the proper time?",
+      "de": "Der HERR aber sprach: Wie ein großes Ding ist's um einen treuen und klugen Haushalter, welchen der Herr setzt über sein Gesinde, daß er ihnen zur rechten Zeit ihre Gebühr gebe!",
+      "zh": "主说：「谁是那忠心有见识的管家，主人派他管理家里的人，按时分粮给他们呢？",
+      "ja": "主は言われた。「では、主人から、その家のしもべたちを任されて、食事時には彼らに食べ物を与える忠実な思慮深い管理人とは、いったいだれでしょう。"
+    },
+    {
+      "number": 43,
+      "ko": "주인이 이를 때에 그 종이 그렇게 하는 것을 보면 그 종은 복이 있으리로다",
+      "en": "It will be good for that servant whom the master finds doing so when he returns.",
+      "de": "Selig ist der Knecht, welchen sein Herr findet tun also, wenn er kommt.",
+      "zh": "主人来到，看见仆人这样行，那仆人就有福了。",
+      "ja": "主人が帰って来たときに、そのようにしているのを見られるしもべは幸いです。"
+    },
+    {
+      "number": 44,
+      "ko": "내가 참으로 너희에게 이르노니 주인이 그 모든 소유를 그에게 맡기리라",
+      "en": "I tell you the truth, he will put him in charge of all his possessions.",
+      "de": "Wahrlich, ich sage euch: Er wird ihn über alle seine Güter setzen.",
+      "zh": "我实在告诉你们，主人要派他管理一切所有的。",
+      "ja": "わたしは真実をあなたがたに告げます。主人は彼に自分の全財産を任せるようになります。"
+    },
+    {
+      "number": 45,
+      "ko": "만일 그 종이 마음에 생각하기를 주인이 더디 오리라 하여 남녀 종들을 때리며 먹고 마시고 취하게 되면",
+      "en": "But suppose the servant says to himself, 'My master is taking a long time in coming,' and he then begins to beat the menservants and maidservants and to eat and drink and get drunk.",
+      "de": "So aber der Knecht in seinem Herzen sagen wird: Mein Herr verzieht zu kommen, und fängt an, zu schlagen die Knechte und Mägde, auch zu essen und zu trinken und sich vollzusaufen:",
+      "zh": "那仆人若心里说：『我的主人必来得迟』，就动手打仆人和使女，并且吃喝醉酒；",
+      "ja": "ところが、もし、そのしもべが、『主人の帰りはまだだ。』と心の中で思い、下男や下女を打ちたたき、食べたり飲んだり、酒に酔ったりし始めると、"
+    },
+    {
+      "number": 46,
+      "ko": "생각하지 않은 날 알지 못하는 시각에 그 종의 주인이 이르러 엄히 때리고 신실하지 아니한 자의 받는 벌에 처하리니",
+      "en": "The master of that servant will come on a day when he does not expect him and at an hour he is not aware of. He will cut him to pieces and assign him a place with the unbelievers.",
+      "de": "so wird des Knechtes Herr kommen an dem Tage, da er sich's nicht versieht, und zu der Stunde, die er nicht weiß, und wird ihn zerscheitern und wird ihm seinen Lohn geben mit den Ungläubigen.",
+      "zh": "在他想不到的日子，不知道的时辰，那仆人的主人要来，重重地处治他，定他和不忠心的人同罪。",
+      "ja": "しもべの主人は、思いがけない日の思わぬ時間に帰って来ます。そして、彼をきびしく罰して、不忠実な者どもと同じめに会わせるに違いありません。"
+    },
+    {
+      "number": 47,
+      "ko": "주인의 뜻을 알고도 준비하지 아니하고 그 뜻대로 행하지 아니한 종은 많이 맞을 것이요",
+      "en": "\"That servant who knows his master's will and does not get ready or does not do what his master wants will be beaten with many blows.",
+      "de": "Der Knecht aber, der seines Herrn Willen weiß, und hat sich nicht bereitet, auch nicht nach seinem Willen getan, der wird viel Streiche leiden müssen.",
+      "zh": "仆人知道主人的意思，却不预备，又不顺他的意思行，那仆人必多受责打；",
+      "ja": "主人の心を知りながら、その思いどおりに用意もせず、働きもしなかったしもべは、ひどくむち打たれます。"
+    },
+    {
+      "number": 48,
+      "ko": "알지 못하고 맞을 일을 행한 종은 적게 맞으리라 무릇 많이 받은 자에게는 많이 요구할 것이요 많이 맡은 자에게는 많이 달라 할 것이니라",
+      "en": "But the one who does not know and does things deserving punishment will be beaten with few blows. From everyone who has been given much, much will be demanded; and from the one who has been entrusted with much, much more will be asked.",
+      "de": "Der es aber nicht weiß, hat aber getan, was der Streiche wert ist, wird wenig Streiche leiden. Denn welchem viel gegeben ist, bei dem wird man viel suchen; und welchem viel befohlen ist, von dem wird man viel fordern.",
+      "zh": "惟有那不知道的，做了当受责打的事，必少受责打；因为多给谁，就向谁多取；多托谁，就向谁多要。」",
+      "ja": "しかし、知らずにいたために、むち打たれるようなことをしたしもべは、打たれても、少しで済みます。すべて、多く与えられた者は多く求められ、多く任された者は多く要求されます。"
+    },
+    {
+      "number": 49,
+      "ko": "내가 불을 땅에 던지러 왔노니 이 불이 이미 붙었으면 내가 무엇을 원하리요",
+      "en": "\"I have come to bring fire on the earth, and how I wish it were already kindled!",
+      "de": "Ich bin gekommen, daß ich ein Feuer anzünde auf Erden; was wollte ich lieber, denn es brennete schon!",
+      "zh": "「我来要把火丢在地上，倘若已经着起来，不也是我所愿意的吗？",
+      "ja": "わたしが来たのは、地に火を投げ込むためです。だから、その火が燃えていたらと、どんなに願っていることでしょう。"
+    },
+    {
+      "number": 50,
+      "ko": "나는 받을 세례가 있으니 그것이 이루어지기까지 나의 답답함이 어떠하겠느냐",
+      "en": "But I have a baptism to undergo, and how distressed I am until it is completed!",
+      "de": "Aber ich muß mich zuvor taufen lassen mit einer Taufe; wie ist mir so bange, bis sie vollendet werde!",
+      "zh": "我有当受的洗还没有成就，我是何等地迫切呢？",
+      "ja": "しかし、わたしには受けるバプテスマがあります。それが成し遂げられるまでは、どんなに苦しむことでしょう。"
+    },
+    {
+      "number": 51,
+      "ko": "내가 세상에 화평을 주려고 온 줄로 아느냐 내가 너희에게 이르노니 아니라 도리어 분쟁하게 하려 함이로라",
+      "en": "Do you think I came to bring peace on earth? No, I tell you, but division.",
+      "de": "Meinet ihr, daß ich hergekommen bin, Frieden zu bringen auf Erden? Ich sage: Nein, sondern Zwietracht.",
+      "zh": "你们以为我来，是叫地上太平吗？我告诉你们，不是，乃是叫人纷争。",
+      "ja": "あなたがたは、地に平和を与えるためにわたしが来たと思っているのですか。そうではありません。あなたがたに言いますが、むしろ、分裂です。"
+    },
+    {
+      "number": 52,
+      "ko": "이후부터 한 집에 다섯 사람이 있어 분쟁하되 셋이 둘과, 둘이 셋과 하리니",
+      "en": "From now on there will be five in one family divided against each other, three against two and two against three.",
+      "de": "Denn von nun an werden fünf in einem Hause uneins sein, drei wider zwei, und zwei wider drei.",
+      "zh": "从今以后，一家五个人将要纷争：三个人和两个人相争，两个人和三个人相争；",
+      "ja": "今から、一家五人は、三人がふたりに、ふたりが三人に対抗して分かれるようになります。"
+    },
+    {
+      "number": 53,
+      "ko": "아버지가 아들과, 아들이 아버지와, 어머니가 딸과, 딸이 어머니와, 시어머니가 며느리와, 며느리가 시어머니와 분쟁하리라 하시니라",
+      "en": "They will be divided, father against son and son against father, mother against daughter and daughter against mother, mother-in-law against daughter-in-law and daughter-in-law against mother-in-law.\"",
+      "de": "Es wird sein der Vater wider den Sohn, und der Sohn wider den Vater; die Mutter wider die Tochter, und die Tochter wider die Mutter; die Schwiegermutter wider die Schwiegertochter, und die Schwiegertochter wider die Schwiegermutter.",
+      "zh": "父亲和儿子相争， 儿子和父亲相争； 母亲和女儿相争， 女儿和母亲相争； 婆婆和媳妇相争， 媳妇和婆婆相争。」",
+      "ja": "父は息子に、息子は父に対抗し、母は娘に、娘は母に対抗し、しゅうとめは嫁に、嫁はしゅうとめに対抗して分かれるようになります。」"
+    },
+    {
+      "number": 54,
+      "ko": "또 무리에게 이르시되 너희가 구름이 서쪽에서 이는 것을 보면 곧 말하기를 소나기가 오리라 하나니 과연 그러하고",
+      "en": "He said to the crowd: \"When you see a cloud rising in the west, immediately you say, 'It's going to rain,' and it does.",
+      "de": "Er sprach aber zu dem Volk: Wenn ihr eine Wolke sehet aufgehen am Abend, so sprecht ihr alsbald: Es kommt ein Regen, und es geschieht also.",
+      "zh": "耶稣又对众人说：「你们看见西边起了云彩，就说：『要下一阵雨』；果然就有。",
+      "ja": "群衆にもこう言われた。「あなたがたは、西に雲が起こるのを見るとすぐに、『にわか雨が来るぞ。』と言い、事実そのとおりになります。"
+    },
+    {
+      "number": 55,
+      "ko": "남풍이 부는 것을 보면 말하기를 심히 더우리라 하나니 과연 그러하니라",
+      "en": "And when the south wind blows, you say, 'It's going to be hot,' and it is.",
+      "de": "Und wenn ihr sehet den Südwind wehen, so sprecht ihr: Es wird heiß werden, und es geschieht also.",
+      "zh": "起了南风，就说：『将要燥热』；也就有了。",
+      "ja": "また南風が吹きだすと、『暑い日になるぞ。』と言い、事実そのとおりになります。"
+    },
+    {
+      "number": 56,
+      "ko": "외식하는 자여 너희가 천지의 기상은 분간할 줄 알면서 어찌 이 시대는 분간하지 못하느냐",
+      "en": "Hypocrites! You know how to interpret the appearance of the earth and the sky. How is it that you don't know how to interpret this present time?",
+      "de": "Ihr Heuchler! die Gestalt der Erde und des Himmels könnt ihr prüfen; wie prüft ihr aber diese Zeit nicht?",
+      "zh": "假冒为善的人哪，你们知道分辨天地的气色，怎么不知道分辨这时候呢？」",
+      "ja": "偽善者たち。あなたがたは地や空の現象を見分けることを知りながら、どうして今のこの時代を見分けることができないのですか。"
+    },
+    {
+      "number": 57,
+      "ko": "또 어찌하여 옳은 것을 스스로 판단하지 아니하느냐",
+      "en": "\"Why don't you judge for yourselves what is right?",
+      "de": "Warum richtet ihr aber nicht von euch selber, was recht ist?",
+      "zh": "「你们又为何不自己审量什么是合理的呢？",
+      "ja": "また、なぜ自分から進んで、何が正しいかを判断しないのですか。"
+    },
+    {
+      "number": 58,
+      "ko": "네가 너를 고발하는 자와 함께 법관에게 갈 때에 길에서 화해하기를 힘쓰라 그가 너를 재판장에게 끌어 가고 재판장이 너를 옥졸에게 넘겨 주어 옥졸이 옥에 가둘까 염려하라",
+      "en": "As you are going with your adversary to the magistrate, try hard to be reconciled to him on the way, or he may drag you off to the judge, and the judge turn you over to the officer, and the officer throw you into prison.",
+      "de": "So du aber mit deinem Widersacher vor den Fürsten gehst, so tu Fleiß auf dem Wege, das du ihn los werdest, auf daß er nicht etwa dich vor den Richter ziehe, und der Richter überantworte dich dem Stockmeister, und der Stockmeister werfe dich ins Gefängnis.",
+      "zh": "你同告你的对头去见官，还在路上，务要尽力地和他了结；恐怕他拉你到官面前，官交付差役，差役把你下在监里。",
+      "ja": "あなたを告訴する者といっしょに役人の前に行くときは、途中でも、熱心に彼と和解するよう努めなさい。そうでないと、その人はあなたを裁判官のもとにひっぱって行きます。裁判官は執行人に引き渡し、執行人は牢に投げ込んでしまいます。"
+    },
+    {
+      "number": 59,
+      "ko": "네게 이르노니 한 푼이라도 남김이 없이 갚지 아니하고서는 결코 거기서 나오지 못하리라 하시니라",
+      "en": "I tell you, you will not get out until you have paid the last penny.\"",
+      "de": "Ich sage dir: Du wirst von dannen nicht herauskommen, bis du den allerletzten Heller bezahlest.",
+      "zh": "我告诉你，若有半文钱没有还清，你断不能从那里出来。」",
+      "ja": "あなたに言います。最後の一レプタを支払うまでは、そこから決して出られないのです。」"
+    }
+  ]
+}

@@ -1,0 +1,294 @@
+{
+  "book": "Numbers",
+  "chapter": 10,
+  "verses": [
+    {
+      "number": 1,
+      "ko": "여호와께서 모세에게 말씀하여 이르시되",
+      "en": "The LORD said to Moses:",
+      "de": "Und der HERR redete mit Mose und sprach:",
+      "zh": "耶和华晓谕摩西说：",
+      "ja": "ヱホバ、モーセに告て言たまはく"
+    },
+    {
+      "number": 2,
+      "ko": "은 나팔 둘을 만들되 두들겨 만들어서 그것으로 회중을 소집하며 진영을 출발하게 할 것이라",
+      "en": "\"Make two trumpets of hammered silver, and use them for calling the community together and for having the camps set out.",
+      "de": "Mache dir zwei Drommeten von getriebenem Silber, daß du sie brauchst, die Gemeinde zu berufen und wenn das Heer aufbrechen soll.",
+      "zh": "「你要用银子做两枝号，都要锤出来的，用以招聚会众，并叫众营起行。",
+      "ja": "汝銀の喇叭二本を製れ即ち槌にて椎て之を製り之を用ひて人を呼集めまた營を進ますべし"
+    },
+    {
+      "number": 3,
+      "ko": "나팔 두 개를 불 때에는 온 회중이 회막 문 앞에 모여서 네게로 나아올 것이요",
+      "en": "When both are sounded, the whole community is to assemble before you at the entrance to the Tent of Meeting.",
+      "de": "Wenn man mit beiden schlicht bläst, soll sich zu dir versammeln die ganze Gemeinde vor die Tür der Hütte des Stifts.",
+      "zh": "吹这号的时候，全会众要到你那里，聚集在会幕门口。",
+      "ja": "この二者を吹ときは全會衆集會の幕屋の門に集りて汝に就べし"
+    },
+    {
+      "number": 4,
+      "ko": "하나만 불 때에는 이스라엘의 천부장 된 지휘관들이 모여서 네게로 나아올 것이며",
+      "en": "If only one is sounded, the leaders--the heads of the clans of Israel--are to assemble before you.",
+      "de": "Wenn man nur mit einer schlicht bläst, so sollen sich zu dir versammeln die Fürsten, die Obersten über die Tausende in Israel.",
+      "zh": "若单吹一枝，众首领，就是以色列军中的统领，要聚集到你那里。",
+      "ja": "もし只その一を吹く時はイスラエルの千人の長たるその牧伯等集りて汝に就べし"
+    },
+    {
+      "number": 5,
+      "ko": "너희가 그것을 크게 불 때에는 동쪽 진영들이 행진할 것이며",
+      "en": "When a trumpet blast is sounded, the tribes camping on the east are to set out.",
+      "de": "Wenn ihr aber drommetet, so sollen die Lager aufbrechen, die gegen Morgen liegen.",
+      "zh": "吹出大声的时候，东边安的营都要起行。",
+      "ja": "汝等これを吹鳴す時は東の方に營を張る者途に進むべし"
+    },
+    {
+      "number": 6,
+      "ko": "두 번째로 크게 불 때에는 남쪽 진영들이 행진할 것이라 떠나려 할 때에는 나팔 소리를 크게 불 것이며",
+      "en": "At the sounding of a second blast, the camps on the south are to set out. The blast will be the signal for setting out.",
+      "de": "Und wenn ihr zum andernmal drommetet, so sollen die Lager aufbrechen, die gegen Mittag liegen. Denn wenn sie reisen sollen, so sollt ihr drommeten.",
+      "zh": "二次吹出大声的时候，南边安的营都要起行。他们将起行，必吹出大声。",
+      "ja": "また二次これを吹ならす時は南の方に營を張る者途に進むべし凡て途に進まんとする時は音長く喇叭を吹ならすべし"
+    },
+    {
+      "number": 7,
+      "ko": "또 회중을 모을 때에도 나팔을 불 것이나 소리를 크게 내지 말며",
+      "en": "To gather the assembly, blow the trumpets, but not with the same signal.",
+      "de": "Wenn aber die Gemeinde zu versammeln ist, sollt ihr schlicht blasen und nicht drommeten.",
+      "zh": "但招聚会众的时候，你们要吹号，却不要吹出大声。",
+      "ja": "また會衆を集むる時にも喇叭をふくべし但し音長くこれを吹ならすべからず"
+    },
+    {
+      "number": 8,
+      "ko": "그 나팔은 아론의 자손인 제사장들이 불지니 이는 너희 대대에 영원한 율례니라",
+      "en": "\"The sons of Aaron, the priests, are to blow the trumpets. This is to be a lasting ordinance for you and the generations to come.",
+      "de": "Es sollen aber solch Blasen mit den Drommeten die Söhne Aarons, die Priester, tun; und das soll euer Recht sein ewiglich bei euren Nachkommen.",
+      "zh": "亚伦子孙作祭司的要吹这号；这要作你们世世代代永远的定例。",
+      "ja": "アロンの子等の祭司たる者どもその喇叭を吹べし是すなはち汝らが代々ながく守るべき例たるなり"
+    },
+    {
+      "number": 9,
+      "ko": "또 너희 땅에서 너희가 자기를 압박하는 대적을 치러 나갈 때에는 나팔을 크게 불지니 그리하면 너희 하나님 여호와가 너희를 기억하고 너희를 너희의 대적에게서 구원하시리라",
+      "en": "When you go into battle in your own land against an enemy who is oppressing you, sound a blast on the trumpets. Then you will be remembered by the LORD your God and rescued from your enemies.",
+      "de": "Wenn ihr in einen Streit ziehet in eurem Lande wider eure Feinde, die euch bedrängen, so sollt ihr drommeten mit den Drommeten, daß euer gedacht werde vor dem HERRN, eurem Gott, und ihr erlöst werdet von euren Feinden.",
+      "zh": "你们在自己的地，与欺压你们的敌人打仗，就要用号吹出大声，便在耶和华—你们的　神面前得蒙纪念，也蒙拯救脱离仇敌。",
+      "ja": "また汝らの國において汝等その己を攻るところの敵と戰はんとて出る時は喇叭を吹ならすべし然せば汝等の神ヱホバ汝らを記憶て汝らをその敵の手より救ひたまはん"
+    },
+    {
+      "number": 10,
+      "ko": "또 너희의 희락의 날과 너희가 정한 절기와 초하루에는 번제물을 드리고 화목제물을 드리며 나팔을 불라 그로 말미암아 너희의 하나님이 너희를 기억하시리라 나는 너희의 하나님 여호와니라",
+      "en": "Also at your times of rejoicing--your appointed feasts and New Moon festivals--you are to sound the trumpets over your burnt offerings and fellowship offerings, and they will be a memorial for you before your God. I am the LORD your God.\"",
+      "de": "Desgleichen, wenn ihr fröhlich seid, und an euren Festen und an euren Neumonden sollt ihr mit den Drommeten blasen über eure Brandopfer und Dankopfer, daß es euch sei zum Gedächtnis vor eurem Gott. Ich bin der HERR, euer Gott.",
+      "zh": "在你们快乐的日子和节期，并月朔，献燔祭和平安祭，也要吹号，这都要在你们的　神面前作为纪念。我是耶和华—你们的　神。」",
+      "ja": "また汝らの喜樂の日汝らの節期および月々の朔日には燔祭の上と酬恩祭の犠牲の上に喇叭を吹ならすべし然せば汝らの神これに由て汝らを記憶たまはん我は汝らの神ヱホバ也"
+    },
+    {
+      "number": 11,
+      "ko": "둘째 해 둘째 달 스무날에 구름이 증거의 성막에서 떠오르매",
+      "en": "On the twentieth day of the second month of the second year, the cloud lifted from above the tabernacle of the Testimony.",
+      "de": "Am zwanzigsten Tage im zweiten Monat des zweiten Jahres erhob sich die Wolke von der Wohnung des Zeugnisses.",
+      "zh": "第二年二月二十日，云彩从法柜的帐幕收上去。",
+      "ja": "斯て第二年の二月の二十日に雲律法の幕屋を離れて昇りければ"
+    },
+    {
+      "number": 12,
+      "ko": "이스라엘 자손이 시내 광야에서 출발하여 자기 길을 가더니 바란 광야에 구름이 머무니라",
+      "en": "Then the Israelites set out from the Desert of Sinai and traveled from place to place until the cloud came to rest in the Desert of Paran.",
+      "de": "Und die Kinder Israel brachen auf und zogen aus der Wüste Sinai, und die Wolke blieb in der Wüste Pharan.",
+      "zh": "以色列人就按站往前行，离开西奈的旷野，云彩停住在巴兰的旷野。",
+      "ja": "イスラエルの子孫シナイの野より出でて途に進みたりしがパランの野にいたりて雲止れり"
+    },
+    {
+      "number": 13,
+      "ko": "이와 같이 그들이 여호와께서 모세에게 명령하신 것을 따라 행진하기를 시작하였는데",
+      "en": "They set out, this first time, at the LORD'S command through Moses.",
+      "de": "Es brachen aber auf die ersten nach dem Wort des HERRN durch Mose;",
+      "zh": "这是他们照耶和华借摩西所吩咐的，初次往前行。",
+      "ja": "斯かれらはヱホバのモーセによりて命じたまへるところに遵ひて途に進むことを始めたり"
+    },
+    {
+      "number": 14,
+      "ko": "선두로 유다 자손의 진영의 군기에 속한 자들이 그들의 진영별로 행진하였으니 유다 군대는 암미나답의 아들 나손이 이끌었고",
+      "en": "The divisions of the camp of Judah went first, under their standard. Nahshon son of Amminadab was in command.",
+      "de": "nämlich das Panier des Lagers der Kinder Juda zog am ersten mit ihrem Heer, und über ihr Heer war Nahesson, der Sohn Amminadabs;",
+      "zh": "按着军队首先往前行的是犹大营的纛。统领军队的是亚米拿达的儿子拿顺。",
+      "ja": "首先にはユダの子孫の營の纛の下につく者その軍旅にしたがひて進めりユダの軍旅の長はアミナダブの子ナシヨン"
+    },
+    {
+      "number": 15,
+      "ko": "잇사갈 자손 지파의 군대는 수알의 아들 느다넬이 이끌었고",
+      "en": "Nethanel son of Zuar was over the division of the tribe of Issachar,",
+      "de": "und über das Heer des Stammes der Kinder Isaschar war Nathanael, der Sohn Zuars;",
+      "zh": "统领以萨迦支派军队的是苏押的儿子拿坦业。",
+      "ja": "イッサカルの子孫の支派の軍旅の長はツアルの子ネタニエル"
+    },
+    {
+      "number": 16,
+      "ko": "스불론 자손 지파의 군대는 헬론의 아들 엘리압이 이끌었더라",
+      "en": "and Eliab son of Helon was over the division of the tribe of Zebulun.",
+      "de": "und über das Heer des Stammes der Kinder Sebulon war Eliab, der Sohn Helons.",
+      "zh": "统领西布伦支派军队的是希伦的儿子以利押。",
+      "ja": "ゼブルンの子孫の支派の軍旅の長はへロンの子エリアブなりき"
+    },
+    {
+      "number": 17,
+      "ko": "이에 성막을 걷으매 게르손 자손과 므라리 자손이 성막을 메고 출발하였으며",
+      "en": "Then the tabernacle was taken down, and the Gershonites and Merarites, who carried it, set out.",
+      "de": "Da zerlegte man die Wohnung, und zogen die Kinder Gerson und Merari und trugen die Wohnung.",
+      "zh": "帐幕拆卸，革顺的子孙和米拉利的子孙就抬着帐幕先往前行。",
+      "ja": "乃ち幕屋を取くづしゲルシヨンの子孫およびメラリの子孫幕屋を擔ひて進めり"
+    },
+    {
+      "number": 18,
+      "ko": "다음으로 르우벤 진영의 군기에 속한 자들이 그들의 진영별로 출발하였으니 르우벤의 군대는 스데울의 아들 엘리술이 이끌었고",
+      "en": "The divisions of the camp of Reuben went next, under their standard. Elizur son of Shedeur was in command.",
+      "de": "Darnach zog das Panier des Lagers Rubens mit ihrem Heer, und über ihr Heer war Elizur, der Sohn Sedeurs;",
+      "zh": "按着军队往前行的是吕便营的纛。统领军队的是示丢珥的儿子以利蓿。",
+      "ja": "次にルベンの營の纛の下につく者その軍旅にしたがひて進めりルベンの軍旅の長はシデウルの子エリヅル"
+    },
+    {
+      "number": 19,
+      "ko": "시므온 자손 지파의 군대는 수리삿대의 아들 슬루미엘이 이끌었고",
+      "en": "Shelumiel son of Zurishaddai was over the division of the tribe of Simeon,",
+      "de": "und über das Heer des Stammes der Kinder Simeon war Selumiel, der Sohn Zuri-Saddais;",
+      "zh": "统领西缅支派军队的是苏利沙代的儿子示路蔑。",
+      "ja": "シメオンの子孫の支派の軍旅の長はツリシヤダイの子シルミエル"
+    },
+    {
+      "number": 20,
+      "ko": "갓 자손 지파의 군대는 드우엘의 아들 엘리아삽이 이끌었더라",
+      "en": "and Eliasaph son of Deuel was over the division of the tribe of Gad.",
+      "de": "und Eljasaph, der Sohn Deguels, über das Heer des Stammes der Kinder Gad.",
+      "zh": "统领迦得支派军队的是丢珥的儿子以利雅萨。",
+      "ja": "ガドの子孫の支派の軍旅の長はデウエルの子エリアサフなりき"
+    },
+    {
+      "number": 21,
+      "ko": "고핫인은 성물을 메고 행진하였고 그들이 이르기 전에 성막을 세웠으며",
+      "en": "Then the Kohathites set out, carrying the holy things. The tabernacle was to be set up before they arrived.",
+      "de": "Da zogen auch die Kahathiten und trugen das Heiligtum; und jene richteten die Wohnung auf, bis diese nachkamen.",
+      "zh": "哥辖人抬着圣物先往前行。他们未到以前，抬帐幕的已经把帐幕支好。",
+      "ja": "コハテ人聖所を擔ひて進めり是が至るまでに彼その幕屋を建をはる"
+    },
+    {
+      "number": 22,
+      "ko": "다음으로 에브라임 자손 진영의 군기에 속한 자들이 그들의 진영별로 행진하였으니 에브라임 군대는 암미훗의 아들 엘리사마가 이끌었고",
+      "en": "The divisions of the camp of Ephraim went next, under their standard. Elishama son of Ammihud was in command.",
+      "de": "Darnach zog das Panier des Lagers der Kinder Ephraim mit ihrem Heer, und über ihr Heer war Elisama, der Sohn Ammihuds;",
+      "zh": "按着军队往前行的是以法莲营的纛，统领军队的是亚米忽的儿子以利沙玛。",
+      "ja": "次にエフライムの子孫の營の纛の下につく者その軍旅にしたがひて進めりヱフライムの軍旅の長はアミホデの子エリシヤマ"
+    },
+    {
+      "number": 23,
+      "ko": "므낫세 자손 지파의 군대는 브다술의 아들 가말리엘이 이끌었고",
+      "en": "Gamaliel son of Pedahzur was over the division of the tribe of Manasseh,",
+      "de": "und Gamliel, der Sohn Pedazurs, über das Heer des Stammes der Kinder Manasse;",
+      "zh": "统领玛拿西支派军队的是比大蓿的儿子迦玛列。",
+      "ja": "マナセの子孫の支派の軍旅の長はパダヅルの子ガマリエル"
+    },
+    {
+      "number": 24,
+      "ko": "베냐민 자손 지파의 군대는 기드오니의 아들 아비단이 이끌었더라",
+      "en": "and Abidan son of Gideoni was over the division of the tribe of Benjamin.",
+      "de": "und Abidan, der Sohn des Gideoni, über das Heer des Stammes der Kinder Benjamin.",
+      "zh": "统领便雅悯支派军队的是基多尼的儿子亚比但。",
+      "ja": "ベニヤミンの子孫の支派の軍旅の長はギデオニの子アビダンなりき"
+    },
+    {
+      "number": 25,
+      "ko": "다음으로 단 자손 진영의 군기에 속한 자들이 그들의 진영별로 행진하였으니 이 군대는 모든 진영의 마지막 진영이었더라 단 군대는 암미삿대의 아들 아히에셀이 이끌었고",
+      "en": "Finally, as the rear guard for all the units, the divisions of the camp of Dan set out, under their standard. Ahiezer son of Ammishaddai was in command.",
+      "de": "Darnach zog das Panier des Lagers der Kinder Dan mit ihrem Heer; und so waren die Lager alle auf. Und Ahi-Eser, der Sohn Ammi-Saddais, war über ihr Heer;",
+      "zh": "在诸营末后的是但营的纛，按着军队往前行。统领军队的是亚米沙代的儿子亚希以谢。",
+      "ja": "次にダンの子孫の營の纛の下につく者その軍旅にしたがひて進めりこの軍旅は諸營の後驅なりきダンの軍旅の長はアミシヤダイの子アヒエゼル"
+    },
+    {
+      "number": 26,
+      "ko": "아셀 자손 지파의 군대는 오그란의 아들 바기엘이 이끌었고",
+      "en": "Pagiel son of Ocran was over the division of the tribe of Asher,",
+      "de": "und Pagiel, der Sohn Ochrans, über das Heer des Stammes der Kinder Asser;",
+      "zh": "统领亚设支派军队的是俄兰的儿子帕结。",
+      "ja": "アセルの子孫の支派の軍旅の長はオクランの子バギエル"
+    },
+    {
+      "number": 27,
+      "ko": "납달리 자손 지파의 군대는 에난의 아들 아히라가 이끌었더라",
+      "en": "and Ahira son of Enan was over the division of the tribe of Naphtali.",
+      "de": "und Ahira, der Sohn Enans, über das Heer des Stammes der Kinder Naphthali.",
+      "zh": "统领拿弗他利支派军队的是以南的儿子亚希拉。",
+      "ja": "ナフタリの子孫の支派の軍旅の長はエナンの子アヒラなりき"
+    },
+    {
+      "number": 28,
+      "ko": "이스라엘 자손이 행진할 때에 이와 같이 그들의 군대를 따라 나아갔더라",
+      "en": "This was the order of march for the Israelite divisions as they set out.",
+      "de": "So zogen die Kinder Israel mit ihrem Heer.",
+      "zh": "以色列人按着军队往前行，就是这样。",
+      "ja": "イスラエルの子孫はその途に進む時は是のごとくその軍旅にしたがひて進みたり"
+    },
+    {
+      "number": 29,
+      "ko": "모세가 모세의 장인 미디안 사람 르우엘의 아들 호밥에게 이르되 여호와께서 주마 하신 곳으로 우리가 행진하나니 우리와 동행하자 그리하면 선대하리라 여호와께서 이스라엘에게 복을 내리리라 하셨느니라",
+      "en": "Now Moses said to Hobab son of Reuel the Midianite, Moses' father-in-law, \"We are setting out for the place about which the LORD said, 'I will give it to you.' Come with us and we will treat you well, for the LORD has promised good things to Israel.\"",
+      "de": "Und Mose sprach zu seinem Schwager Hobab, dem Sohn Reguels, aus Midian: Wir ziehen dahin an die Stätte, davon der HERR gesagt hat: Ich will sie euch geben; so komm nun mit uns, so wollen wir das Beste an dir tun; denn der HERR hat Israel Gutes zugesagt.",
+      "zh": "摩西对他岳父—米甸人流珥的儿子何巴—说：「我们要行路，往耶和华所应许之地去；他曾说：『我要将这地赐给你们。』现在求你和我们同去，我们必厚待你，因为耶和华指着以色列人已经应许给好处。」",
+      "ja": "茲にモーセその外舅なるミデアン人リウエルの子ホバブに言けるは我等はヱホバが甞て我これを汝等に與へんと言たまひし處に進み行なり汝も我等とともに來れ我等汝をして幸福ならしめん其はヱホバ、イスラエルに福祉を降さんと言たまひたればなり"
+    },
+    {
+      "number": 30,
+      "ko": "호밥이 그에게 이르되 나는 가지 아니하고 내 고향 내 친족에게로 가리라",
+      "en": "He answered, \"No, I will not go; I am going back to my own land and my own people.\"",
+      "de": "Er aber antwortete: Ich will nicht mit euch, sondern in mein Land zu meiner Freundschaft ziehen.",
+      "zh": "何巴回答说：「我不去；我要回本地本族那里去。」",
+      "ja": "彼モーセに言ふ我は往じ我はわが國に還りわが親族に至らん"
+    },
+    {
+      "number": 31,
+      "ko": "모세가 이르되 청하건대 우리를 떠나지 마소서 당신은 우리가 광야에서 어떻게 진 칠지를 아나니 우리의 눈이 되리이다",
+      "en": "But Moses said, \"Please do not leave us. You know where we should camp in the desert, and you can be our eyes.",
+      "de": "Er sprach: Verlaß uns doch nicht; denn du weißt, wo wir in der Wüste uns lagern sollen, und sollst unser Auge sein.",
+      "zh": "摩西说：「求你不要离开我们；因为你知道我们要在旷野安营，你可以当作我们的眼目。",
+      "ja": "モーセまた言けるは請ふ我等を棄去なかれ汝は我儕が曠野に營を張るを知ば願くは我儕の目となれ"
+    },
+    {
+      "number": 32,
+      "ko": "우리와 동행하면 여호와께서 우리에게 복을 내리시는 대로 우리도 당신에게 행하리이다",
+      "en": "If you come with us, we will share with you whatever good things the LORD gives us.\"",
+      "de": "Und wenn du mit uns ziehst: was der HERR Gutes an uns tut, das wollen wir an dir tun.",
+      "zh": "你若和我们同去，将来耶和华有什么好处待我们，我们也必以什么好处待你。」",
+      "ja": "汝もし我儕とともに往ばヱホバの我儕に降したまふところの福祉を我儕また汝にもおよぼさん"
+    },
+    {
+      "number": 33,
+      "ko": "그들이 여호와의 산에서 떠나 삼 일 길을 갈 때에 여호와의 언약궤가 그 삼 일 길에 앞서 가며 그들의 쉴 곳을 찾았고",
+      "en": "So they set out from the mountain of the LORD and traveled for three days. The ark of the covenant of the LORD went before them during those three days to find them a place to rest.",
+      "de": "Also zogen sie von dem Berge des HERRN drei Tagereisen, und die Lade des Bundes des HERRN zog vor ihnen her die drei Tagereisen, ihnen zu weisen, wo sie ruhen sollten.",
+      "zh": "以色列人离开耶和华的山，往前行了三天的路程；耶和华的约柜在前头行了三天的路程，为他们寻找安歇的地方。",
+      "ja": "斯て彼等ヱホバの山をたち出て三日路ほど進み行りヱホバの契約の櫃その三日路の間かれらに先だち行て彼等の休息所を尋ね覓めたり"
+    },
+    {
+      "number": 34,
+      "ko": "그들이 진영을 떠날 때에 낮에는 여호와의 구름이 그 위에 덮였었더라",
+      "en": "The cloud of the LORD was over them by day when they set out from the camp.",
+      "de": "Und die Wolke des Herrn war des Tages über ihnen, wenn sie aus dem Lager zogen.",
+      "zh": "他们拔营往前行，日间有耶和华的云彩在他们以上。",
+      "ja": "彼等營を出て途に進むに當りて晝はヱホバの雲かれらの上にありき"
+    },
+    {
+      "number": 35,
+      "ko": "궤가 떠날 때에는 모세가 말하되 여호와여 일어나사 주의 대적들을 흩으시고 주를 미워하는 자가 주 앞에서 도망하게 하소서 하였고",
+      "en": "Whenever the ark set out, Moses said, \"Rise up, O LORD! May your enemies be scattered; may your foes flee before you.\"",
+      "de": "Und wenn die Lade zog, so sprach Mose: HERR, stehe auf! laß deine Feinde zerstreut und die dich hassen, flüchtig werden vor dir!",
+      "zh": "约柜往前行的时候，摩西就说：「耶和华啊，求你兴起！愿你的仇敌四散！愿恨你的人从你面前逃跑！」",
+      "ja": "契約の櫃の進まんとする時にはモーセ言りヱホバよ起あがりたまへ然ば汝の敵は打散され汝を惡む者等は汝の前より逃さらんと"
+    },
+    {
+      "number": 36,
+      "ko": "궤가 쉴 때에는 말하되 여호와여 이스라엘 종족들에게로 돌아오소서 하였더라",
+      "en": "Whenever it came to rest, he said, \"Return, O LORD, to the countless thousands of Israel.\"",
+      "de": "Und wenn sie ruhte, so sprach er: Komm wieder, HERR, zu der Menge der Tausende Israels!",
+      "zh": "约柜停住的时候，他就说：「耶和华啊，求你回到以色列的千万人中！」",
+      "ja": "またその止まる時は言りヱホバよ千萬のイスラエル人に歸りたまへ"
+    }
+  ]
+}

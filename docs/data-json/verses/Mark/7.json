@@ -1,0 +1,302 @@
+{
+  "book": "Mark",
+  "chapter": 7,
+  "verses": [
+    {
+      "number": 1,
+      "ko": "바리새인들과 또 서기관 중 몇이 예루살렘에서 와서 예수께 모여들었다가",
+      "en": "The Pharisees and some of the teachers of the law who had come from Jerusalem gathered around Jesus and",
+      "de": "Und es kamen zu ihm die Pharisäer und etliche von den Schriftgelehrten, die von Jerusalem gekommen waren.",
+      "zh": "有法利赛人和几个文士从耶路撒冷来，到耶稣那里聚集。",
+      "ja": "さて、パリサイ人たちと幾人かの律法学者がエルサレムから来ていて、イエスの回りに集まった。"
+    },
+    {
+      "number": 2,
+      "ko": "그의 제자 중 몇 사람이 부정한 손 곧 씻지 아니한 손으로 떡 먹는 것을 보았더라",
+      "en": "saw some of his disciples eating food with hands that were \"unclean,\" that is, unwashed.",
+      "de": "Und da sie sahen etliche seiner Jünger mit gemeinen (das ist ungewaschenen) Händen das Brot essen, tadelten sie es.",
+      "zh": "他们曾看见他的门徒中有人用俗手，就是没有洗的手，吃饭。（",
+      "ja": "イエスの弟子のうちに、汚れた手で、すなわち洗わない手でパンを食べている者があるのを見て、"
+    },
+    {
+      "number": 3,
+      "ko": "(바리새인들과 모든 유대인들은 장로들의 전통을 지키어 손을 잘 씻지 않고서는 음식을 먹지 아니하며",
+      "en": "(The Pharisees and all the Jews do not eat unless they give their hands a ceremonial washing, holding to the tradition of the elders.",
+      "de": "(Denn die Pharisäer und alle Juden essen nicht, sie waschen denn die Hände manchmal, und halten also die Aufsätze der Ältesten;",
+      "zh": "原来法利赛人和犹太人都拘守古人的遗传，若不仔细洗手就不吃饭；",
+      "ja": "――パリサイ人をはじめユダヤ人はみな、昔の人たちの言い伝えを堅く守って、手をよく洗わないでは食事をせず、"
+    },
+    {
+      "number": 4,
+      "ko": "또 시장에서 돌아와서도 물을 뿌리지 않고서는 먹지 아니하며 그 외에도 여러 가지를 지키어 오는 것이 있으니 잔과 주발과 놋그릇을 씻음이러라)",
+      "en": "When they come from the marketplace they do not eat unless they wash. And they observe many other traditions, such as the washing of cups, pitchers and kettles.)",
+      "de": "und wenn sie vom Markt kommen, essen sie nicht, sie waschen sich denn. Und des Dinges ist viel, das sie zu halten haben angenommen, von Trinkgefäßen und Krügen und ehernen Gefäßen und Tischen zu waschen.)",
+      "zh": "从市上来，若不洗浴也不吃饭；还有好些别的规矩，他们历代拘守，就是洗杯、罐、铜器等物。）",
+      "ja": "また、市場から帰ったときには、からだをきよめてからでないと食事をしない。まだこのほかにも、杯、水差し、銅器を洗うことなど、堅く守るように伝えられた、しきたりがたくさんある。――"
+    },
+    {
+      "number": 5,
+      "ko": "이에 바리새인들과 서기관들이 예수께 묻되 어찌하여 당신의 제자들은 장로들의 전통을 준행하지 아니하고 부정한 손으로 떡을 먹나이까",
+      "en": "So the Pharisees and teachers of the law asked Jesus, \"Why don't your disciples live according to the tradition of the elders instead of eating their food with 'unclean' hands?\"",
+      "de": "Da fragten ihn nun die Pharisäer und Schriftgelehrten: Warum wandeln deine Jünger nicht nach den Aufsätzen der Ältesten, sondern essen das Brot mit ungewaschenen Händen?",
+      "zh": "法利赛人和文士问他说：「你的门徒为什么不照古人的遗传，用俗手吃饭呢？」",
+      "ja": "パリサイ人と律法学者たちは、イエスに尋ねた。「なぜ、あなたの弟子たちは、昔の人たちの言い伝えに従って歩まないで、汚れた手でパンを食べるのですか。」"
+    },
+    {
+      "number": 6,
+      "ko": "이르시되 이사야가 너희 외식하는 자에 대하여 잘 예언하였도다 기록하였으되 이 백성이 입술로는 나를 공경하되 마음은 내게서 멀도다",
+      "en": "He replied, \"Isaiah was right when he prophesied about you hypocrites; as it is written: \"'These people honor me with their lips, but their hearts are far from me.",
+      "de": "Er aber antwortete und sprach zu ihnen: Wohl fein hat von euch Heuchlern Jesaja geweissagt, wie geschrieben steht: “Dies Volk ehrt mich mit den Lippen, aber ihr Herz ist ferne von mir.",
+      "zh": "耶稣说：「以赛亚指着你们假冒为善之人所说的预言是不错的。如经上说： 这百姓用嘴唇尊敬我， 心却远离我。",
+      "ja": "イエスは彼らに言われた。「イザヤはあなたがた偽善者について預言をして、こう書いているが、まさにそのとおりです。 『この民は、口先ではわたしを敬うが、 その心は、わたしから遠く離れている。"
+    },
+    {
+      "number": 7,
+      "ko": "사람의 계명으로 교훈을 삼아 가르치니 나를 헛되이 경배하는도다 하였느니라",
+      "en": "They worship me in vain; their teachings are but rules taught by men.'",
+      "de": "Vergeblich aber ist's, daß sie mir dienen, dieweil sie lehren solche Lehre die nichts ist denn Menschengebot.",
+      "zh": "他们将人的吩咐当作道理教导人， 所以拜我也是枉然。",
+      "ja": "彼らが、わたしを拝んでも、むだなことである。 人間の教えを、教えとして教えるだけだから。』"
+    },
+    {
+      "number": 8,
+      "ko": "너희가 하나님의 계명은 버리고 사람의 전통을 지키느니라",
+      "en": "You have let go of the commands of God and are holding on to the traditions of men.\"",
+      "de": "Ihr verlasset Gottes Gebot, und haltet der Menschen Aufsätze von Krügen und Trinkgefäßen zu waschen; und desgleichen tut ihr viel.",
+      "zh": "你们是离弃　神的诫命，拘守人的遗传」；",
+      "ja": "あなたがたは、神の戒めを捨てて、人間の言い伝えを堅く守っている。」"
+    },
+    {
+      "number": 9,
+      "ko": "또 이르시되 너희가 너희 전통을 지키려고 하나님의 계명을 잘 저버리는도다",
+      "en": "And he said to them: \"You have a fine way of setting aside the commands of God in order to observe your own traditions!",
+      "de": "Und er sprach zu ihnen: Wohl fein habt ihr Gottes Gebote aufgehoben, auf daß ihr eure Aufsätze haltet.",
+      "zh": "又说：「你们诚然是废弃　神的诫命，要守自己的遗传。",
+      "ja": "また言われた。「あなたがたは、自分たちの言い伝えを守るために、よくも神の戒めをないがしろにしたものです。"
+    },
+    {
+      "number": 10,
+      "ko": "모세는 네 부모를 공경하라 하고 또 아버지나 어머니를 모욕하는 자는 죽임을 당하리라 하였거늘",
+      "en": "For Moses said, 'Honor your father and your mother,' and, 'Anyone who curses his father or mother must be put to death.'",
+      "de": "Denn Mose hat gesagt: “Du sollst deinen Vater und deine Mutter ehren,” und “Wer Vater oder Mutter flucht, soll des Todes sterben.”",
+      "zh": "摩西说：『当孝敬父母』；又说：『咒骂父母的，必治死他。』",
+      "ja": "モーセは、『あなたの父と母を敬え。』また『父や母をののしる者は、死刑に処せられる。』と言っています。"
+    },
+    {
+      "number": 11,
+      "ko": "너희는 이르되 사람이 아버지에게나 어머니에게나 말하기를 내가 드려 유익하게 할 것이 고르반 곧 하나님께 드림이 되었다고 하기만 하면 그만이라 하고",
+      "en": "But you say that if a man says to his father or mother: 'Whatever help you might otherwise have received from me is Corban' (that is, a gift devoted to God),",
+      "de": "Ihr aber lehret: Wenn einer spricht zu Vater oder Mutter “Korban,” das ist, “es ist Gott gegeben,” was dir sollte von mir zu Nutz kommen, der tut wohl.",
+      "zh": "你们倒说：『人若对父母说：我所当奉给你的，已经作了各耳板』（各耳板就是供献的意思），",
+      "ja": "それなのに、あなたがたは、もし人が父や母に向かって、私からあなたのために上げられる物は、コルバン（すなわち、ささげ物）になりました、と言えば、"
+    },
+    {
+      "number": 12,
+      "ko": "자기 아버지나 어머니에게 다시 아무 것도 하여 드리기를 허락하지 아니하여",
+      "en": "then you no longer let him do anything for his father or mother.",
+      "de": "Und so laßt ihr hinfort ihn nichts tun seinem Vater oder seiner Mutter",
+      "zh": "以后你们就不容他再奉养父母。",
+      "ja": "その人には、父や母のために、もはや何もさせないようにしています。"
+    },
+    {
+      "number": 13,
+      "ko": "너희가 전한 전통으로 하나님의 말씀을 폐하며 또 이같은 일을 많이 행하느니라 하시고",
+      "en": "Thus you nullify the word of God by your tradition that you have handed down. And you do many things like that.\"",
+      "de": "und hebt auf Gottes Wort durch eure Aufsätze, die ihr aufgesetzt habt; und desgleichen tut ihr viel.",
+      "zh": "这就是你们承接遗传，废了　神的道。你们还做许多这样的事。」",
+      "ja": "こうしてあなたがたは、自分たちが受け継いだ言い伝えによって、神のことばを空文にしています。そして、これと同じようなことを、たくさんしているのです。」"
+    },
+    {
+      "number": 14,
+      "ko": "무리를 다시 불러 이르시되 너희는 다 내 말을 듣고 깨달으라",
+      "en": "Again Jesus called the crowd to him and said, \"Listen to me, everyone, and understand this.",
+      "de": "Und er rief zu sich das ganze Volk und sprach zu ihnen: Höret mir alle zu und fasset es!",
+      "zh": "耶稣又叫众人来，对他们说：「你们都要听我的话，也要明白。",
+      "ja": "イエスは再び群衆を呼び寄せて言われた。「みな、わたしの言うことを聞いて、悟るようになりなさい。"
+    },
+    {
+      "number": 15,
+      "ko": "무엇이든지 밖에서 사람에게로 들어가는 것은 능히 사람을 더럽게 하지 못하되",
+      "en": "Nothing outside a man can make him 'unclean' by going into him. Rather, it is what comes out of a man that makes him 'unclean.'\"",
+      "de": "Es ist nichts außerhalb des Menschen, das ihn könnte gemein machen, so es in ihn geht; sondern was von ihm ausgeht, das ist's, was den Menschen gemein macht.",
+      "zh": "从外面进去的不能污秽人，惟有从里面出来的乃能污秽人。」",
+      "ja": "外側から人にはいって、人を汚すことのできる物は何もありません。人から出て来るものが、人を汚すものなのです。"
+    },
+    {
+      "number": 16,
+      "ko": "사람 안에서 나오는 것이 사람을 더럽게 하는 것이니라 하시고",
+      "en": "",
+      "de": "Hat jemand Ohren, zu hören, der höre!",
+      "zh": "耶稣离开众人，进了屋子，门徒就问他这比喻的意思。",
+      "ja": "イエスが群衆を離れて、家にはいられると、弟子たちは、このたとえについて尋ねた。"
+    },
+    {
+      "number": 17,
+      "ko": "무리를 떠나 집으로 들어가시니 제자들이 그 비유를 묻자온대",
+      "en": "After he had left the crowd and entered the house, his disciples asked him about this parable.",
+      "de": "Und da er von dem Volk ins Haus kam, fragten ihn seine Jünger um dies Gleichnis.",
+      "zh": "耶稣对他们说：「你们也是这样不明白吗？岂不晓得凡从外面进入的，不能污秽人，",
+      "ja": "イエスは言われた。「あなたがたまで、そんなにわからないのですか。外側から人にはいって来る物は人を汚すことができない、ということがわからないのですか。"
+    },
+    {
+      "number": 18,
+      "ko": "예수께서 이르시되 너희도 이렇게 깨달음이 없느냐 무엇이든지 밖에서 들어가는 것이 능히 사람을 더럽게 하지 못함을 알지 못하느냐",
+      "en": "\"Are you so dull?\" he asked. \"Don't you see that nothing that enters a man from the outside can make him 'unclean'?",
+      "de": "Und er sprach zu ihnen: Seid ihr denn auch so unverständig? Vernehmet ihr noch nicht, daß alles, was außen ist und in den Menschen geht, das kann ihn nicht gemein machen?",
+      "zh": "因为不是入他的心，乃是入他的肚腹，又落到茅厕里（这是说，各样的食物都是洁净的）」；",
+      "ja": "そのような物は、人の心には、はいらないで、腹にはいり、そして、かわやに出されてしまうのです。」イエスは、このように、すべての食物をきよいとされた。"
+    },
+    {
+      "number": 19,
+      "ko": "이는 마음으로 들어가지 아니하고 배로 들어가 뒤로 나감이라 이러므로 모든 음식물을 깨끗하다 하시니라",
+      "en": "For it doesn't go into his heart but into his stomach, and then out of his body.\" (In saying this, Jesus declared all foods \"clean.\")",
+      "de": "Denn es geht nicht in sein Herz, sondern in den Bauch, und geht aus durch den natürlichen Gang, der alle Speise ausfegt.",
+      "zh": "又说：「从人里面出来的，那才能污秽人；",
+      "ja": "また言われた。「人から出るもの、これが、人を汚すのです。"
+    },
+    {
+      "number": 20,
+      "ko": "또 이르시되 사람에게서 나오는 그것이 사람을 더럽게 하느니라",
+      "en": "He went on: \"What comes out of a man is what makes him 'unclean.'",
+      "de": "Und er sprach: Was aus dem Menschen geht, das macht den Menschen gemein;",
+      "zh": "因为从里面，就是从人心里，发出恶念、苟合、",
+      "ja": "内側から、すなわち、人の心から出て来るものは、悪い考え、不品行、盗み、殺人、"
+    },
+    {
+      "number": 21,
+      "ko": "속에서 곧 사람의 마음에서 나오는 것은 악한 생각 곧 음란과 도둑질과 살인과",
+      "en": "For from within, out of men's hearts, come evil thoughts, sexual immorality, theft, murder, adultery,",
+      "de": "denn von innen, aus dem Herzen der Menschen, gehen heraus böse Gedanken; Ehebruch, Hurerei, Mord,",
+      "zh": "偷盗、凶杀、奸淫、贪婪、邪恶、诡诈、淫荡、嫉妒、谤 、骄傲、狂妄。",
+      "ja": "姦淫、貪欲、よこしま、欺き、好色、ねたみ、そしり、高ぶり、愚かさであり、"
+    },
+    {
+      "number": 22,
+      "ko": "간음과 탐욕과 악독과 속임과 음탕과 질투와 비방과 교만과 우매함이니",
+      "en": "greed, malice, deceit, lewdness, envy, slander, arrogance and folly.",
+      "de": "Dieberei, Geiz, Schalkheit, List, Unzucht, Schalksauge, Gotteslästerung, Hoffart, Unvernunft.",
+      "zh": "这一切的恶都是从里面出来，且能污秽人。」",
+      "ja": "これらの悪はみな、内側から出て、人を汚すのです。」"
+    },
+    {
+      "number": 23,
+      "ko": "이 모든 악한 것이 다 속에서 나와서 사람을 더럽게 하느니라",
+      "en": "All these evils come from inside and make a man 'unclean.'\"",
+      "de": "Alle diese bösen Stücke gehen von innen heraus und machen den Menschen gemein.",
+      "zh": "耶稣从那里起身，往泰尔、西顿的境内去，进了一家，不愿意人知道，却隐藏不住。",
+      "ja": "イエスは、そこを出てツロの地方へ行かれた。家にはいられたとき、だれにも知られたくないと思われたが、隠れていることはできなかった。"
+    },
+    {
+      "number": 24,
+      "ko": "예수께서 일어나사 거기를 떠나 두로 지방으로 가서 한 집에 들어가 아무도 모르게 하시려 하나 숨길 수 없더라",
+      "en": "Jesus left that place and went to the vicinity of Tyre. He entered a house and did not want anyone to know it; yet he could not keep his presence secret.",
+      "de": "Und er stand auf und ging von dannen in die Gegend von Tyrus und Sidon; und ging da in ein Haus und wollte es niemand wissen lassen, und konnte doch nicht verborgen sein.",
+      "zh": "当下，有一个妇人，她的小女儿被污鬼附着，听见耶稣的事，就来俯伏在他脚前。",
+      "ja": "汚れた霊につかれた小さい娘のいる女が、イエスのことを聞きつけてすぐにやって来て、その足もとにひれ伏した。"
+    },
+    {
+      "number": 25,
+      "ko": "이에 더러운 귀신 들린 어린 딸을 둔 한 여자가 예수의 소문을 듣고 곧 와서 그 발 아래에 엎드리니",
+      "en": "In fact, as soon as she heard about him, a woman whose little daughter was possessed by an evil spirit came and fell at his feet.",
+      "de": "Denn ein Weib hatte von ihm gehört, deren Töchterlein einen unsauberen Geist hatte, und sie kam und fiel nieder zu seinen Füßen",
+      "zh": "这妇人是希腊人，属叙利腓尼基族。她求耶稣赶出那鬼离开她的女儿。",
+      "ja": "この女はギリシヤ人で、スロ・フェニキヤの生まれであった。そして、自分の娘から悪霊を追い出してくださるようにイエスに願い続けた。"
+    },
+    {
+      "number": 26,
+      "ko": "그 여자는 헬라인이요 수로보니게 족속이라 자기 딸에게서 귀신 쫓아내 주시기를 간구하거늘",
+      "en": "The woman was a Greek, born in Syrian Phoenicia. She begged Jesus to drive the demon out of her daughter.",
+      "de": "(und es war ein griechisches Weib aus Syrophönizien), und sie bat ihn, daß er den Teufel von ihrer Tochter austriebe.",
+      "zh": "耶稣对她说：「让儿女们先吃饱，不好拿儿女的饼丢给狗吃。」",
+      "ja": "するとイエスは言われた。「まず子どもたちに満腹させなければなりません。子どもたちのパンを取り上げて、小犬に投げてやるのはよくないことです。」"
+    },
+    {
+      "number": 27,
+      "ko": "예수께서 이르시되 자녀로 먼저 배불리 먹게 할지니 자녀의 떡을 취하여 개들에게 던짐이 마땅치 아니하니라",
+      "en": "\"First let the children eat all they want,\" he told her, \"for it is not right to take the children's bread and toss it to their dogs.\"",
+      "de": "Jesus aber sprach zu ihr: Laß zuvor die Kinder satt werden; es ist nicht fein, daß man der Kinder Brot nehme und werfe es vor die Hunde.",
+      "zh": "妇人回答说：「主啊，不错；但是狗在桌子底下也吃孩子们的碎渣儿。」",
+      "ja": "しかし、女は答えて言った。「主よ。そのとおりです。でも、食卓の下の小犬でも、子どもたちのパンくずをいただきます。」"
+    },
+    {
+      "number": 28,
+      "ko": "여자가 대답하여 이르되 주여 옳소이다마는 상 아래 개들도 아이들이 먹던 부스러기를 먹나이다",
+      "en": "\"Yes, Lord,\" she replied, \"but even the dogs under the table eat the children's crumbs.\"",
+      "de": "Sie antwortete aber und sprach zu ihm: Ja, HERR; aber doch essen die Hündlein unter dem Tisch von den Brosamen der Kinder.",
+      "zh": "耶稣对她说：「因这句话，你回去吧；鬼已经离开你的女儿了。」",
+      "ja": "そこでイエスは言われた。「そうまで言うのですか。それなら家にお帰りなさい。悪霊はあなたの娘から出て行きました。」"
+    },
+    {
+      "number": 29,
+      "ko": "예수께서 이르시되 이 말을 하였으니 돌아가라 귀신이 네 딸에게서 나갔느니라 하시매",
+      "en": "Then he told her, \"For such a reply, you may go; the demon has left your daughter.\"",
+      "de": "Und er sprach zu ihr: Um des Wortes willen so gehe hin; der Teufel ist von deiner Tochter ausgefahren.",
+      "zh": "她就回家去，见小孩子躺在床上，鬼已经出去了。",
+      "ja": "女が家に帰ってみると、その子は床の上に伏せっており、悪霊はもう出ていた。"
+    },
+    {
+      "number": 30,
+      "ko": "여자가 집에 돌아가 본즉 아이가 침상에 누웠고 귀신이 나갔더라",
+      "en": "She went home and found her child lying on the bed, and the demon gone.",
+      "de": "Und sie ging hin in ihr Haus und fand, daß der Teufel war ausgefahren und die Tochter auf dem Bette liegend.",
+      "zh": "耶稣又离了泰尔的境界，经过西顿，就从低加坡里境内来到加利利 海。",
+      "ja": "それから、イエスはツロの地方を去り、シドンを通って、もう一度、デカポリス地方のあたりのガリラヤ湖に来られた。"
+    },
+    {
+      "number": 31,
+      "ko": "예수께서 다시 두로 지방에서 나와 시돈을 지나고 데가볼리 지방을 통과하여 갈릴리 호수에 이르시매",
+      "en": "Then Jesus left the vicinity of Tyre and went through Sidon, down to the Sea of Galilee and into the region of the Decapolis.",
+      "de": "Und da er wieder ausging aus der Gegend von Tyrus und Sidon, kam er an das Galiläische Meer, mitten in das Gebiet der zehn Städte.",
+      "zh": "有人带着一个耳聋舌结的人来见耶稣，求他按手在他身上。",
+      "ja": "人々は、耳が聞こえず、口のきけない人を連れて来て、彼の上に手を置いてくださるように願った。"
+    },
+    {
+      "number": 32,
+      "ko": "사람들이 귀 먹고 말 더듬는 자를 데리고 예수께 나아와 안수하여 주시기를 간구하거늘",
+      "en": "There some people brought to him a man who was deaf and could hardly talk, and they begged him to place his hand on the man.",
+      "de": "Und sie brachten zu ihm einen Tauben, der stumm war, und sie baten ihn, daß er die Hand auf ihn legte.",
+      "zh": "耶稣领他离开众人，到一边去，就用指头探他的耳朵，吐唾沫抹他的舌头，",
+      "ja": "そこで、イエスは、その人だけを群衆の中から連れ出し、その両耳に指を差し入れ、それからつばきをして、その人の舌にさわられた。"
+    },
+    {
+      "number": 33,
+      "ko": "예수께서 그 사람을 따로 데리고 무리를 떠나사 손가락을 그의 양 귀에 넣고 침을 뱉어 그의 혀에 손을 대시며",
+      "en": "After he took him aside, away from the crowd, Jesus put his fingers into the man's ears. Then he spit and touched the man's tongue.",
+      "de": "Und er nahm ihn von dem Volk besonders und legte ihm die Finger in die Ohren und spützte und rührte seine Zunge",
+      "zh": "望天叹息，对他说：「以法大！」就是说：「开了吧！」",
+      "ja": "そして、天を見上げ、深く嘆息して、その人に「エパタ。」すなわち、「開け。」と言われた。"
+    },
+    {
+      "number": 34,
+      "ko": "하늘을 우러러 탄식하시며 그에게 이르시되 에바다 하시니 이는 열리라는 뜻이라",
+      "en": "He looked up to heaven and with a deep sigh said to him, \"Ephphatha!\" (which means, \"Be opened!\").",
+      "de": "und sah auf gen Himmel, seufzte und sprach zu ihm: Hephatha! das ist: Tu dich auf!",
+      "zh": "他的耳朵就开了，舌结也解了，说话也清楚了。",
+      "ja": "すると彼の耳が開き、舌のもつれもすぐに解け、はっきりと話せるようになった。"
+    },
+    {
+      "number": 35,
+      "ko": "그의 귀가 열리고 혀가 맺힌 것이 곧 풀려 말이 분명하여졌더라",
+      "en": "At this, the man's ears were opened, his tongue was loosened and he began to speak plainly.",
+      "de": "Und alsbald taten sich seine Ohren auf, und das Band seiner Zunge war los, und er redete recht.",
+      "zh": "耶稣嘱咐他们不要告诉人；但他越发嘱咐，他们越发传扬开了。",
+      "ja": "イエスは、このことをだれにも言ってはならない、と命じられたが、彼らは口止めされればされるほど、かえって言いふらした。"
+    },
+    {
+      "number": 36,
+      "ko": "예수께서 그들에게 경고하사 아무에게도 이르지 말라 하시되 경고하실수록 그들이 더욱 널리 전파하니",
+      "en": "Jesus commanded them not to tell anyone. But the more he did so, the more they kept talking about it.",
+      "de": "Und er verbot ihnen, sie sollten's niemand sagen. Je mehr er aber verbot, je mehr sie es ausbreiteten.",
+      "zh": "众人分外希奇，说：「他所做的事都好，他连聋子也叫他们听见，哑巴也叫他们说话。」",
+      "ja": "人々は非常に驚いて言った。「この方のなさったことは、みなすばらしい。つんぼを聞こえるようにし、おしを話せるようにしてくださった。」"
+    },
+    {
+      "number": 37,
+      "ko": "사람들이 심히 놀라 이르되 그가 모든 것을 잘하였도다 못 듣는 사람도 듣게 하고 말 못하는 사람도 말하게 한다 하니라",
+      "en": "People were overwhelmed with amazement. \"He has done everything well,\" they said. \"He even makes the deaf hear and the mute speak.\"",
+      "de": "Und sie wunderten sich über die Maßen und sprachen: Er hat alles wohl gemacht; die Tauben macht er hörend und die Sprachlosen redend.",
+      "zh": "",
+      "ja": ""
+    }
+  ]
+}

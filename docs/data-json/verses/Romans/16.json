@@ -1,0 +1,222 @@
+{
+  "book": "Romans",
+  "chapter": 16,
+  "verses": [
+    {
+      "number": 1,
+      "ko": "내가 겐그레아 교회의 일꾼으로 있는 우리 자매 뵈뵈를 너희에게 추천하노니",
+      "en": "I commend to you our sister Phoebe, a servant of the church in Cenchrea.",
+      "de": "Ich befehle euch aber unsere Schwester Phöbe, welche ist im Dienste der Gemeinde zu Kenchreä,",
+      "zh": "我对你们举荐我们的姊妹非比；她是坚革哩教会中的女执事。",
+      "ja": "ケンクレヤにある教会の執事で、私たちの姉妹であるフィベを、あなたがたに推薦します。"
+    },
+    {
+      "number": 2,
+      "ko": "너희는 주 안에서 성도들의 합당한 예절로 그를 영접하고 무엇이든지 그에게 소용되는 바를 도와 줄지니 이는 그가 여러 사람과 나의 보호자가 되었음이라",
+      "en": "I ask you to receive her in the Lord in a way worthy of the saints and to give her any help she may need from you, for she has been a great help to many people, including me.",
+      "de": "daß ihr sie aufnehmet in dem HERRN, wie sich's ziemt den Heiligen, und tut ihr Beistand in allem Geschäfte, darin sie euer bedarf; denn sie hat auch vielen Beistand getan, auch mir selbst.",
+      "zh": "请你们为主接待她，合乎圣徒的体统。她在何事上要你们帮助，你们就帮助她；因她素来帮助许多人，也帮助了我。",
+      "ja": "どうぞ、聖徒にふさわしいしかたで、主にあってこの人を歓迎し、あなたがたの助けを必要とすることは、どんなことでも助けてあげてください。この人は、多くの人を助け、また私自身をも助けてくれた人です。"
+    },
+    {
+      "number": 3,
+      "ko": "너희는 그리스도 예수 안에서 나의 동역자들인 브리스가와 아굴라에게 문안하라",
+      "en": "Greet Priscilla and Aquila, my fellow workers in Christ Jesus.",
+      "de": "Grüßt die Priscilla und den Aquila, meine Gehilfen in Christo Jesu,",
+      "zh": "问百基拉和亚居拉安。他们在基督耶稣里与我同工，",
+      "ja": "キリスト・イエスにあって私の同労者であるプリスカとアクラによろしく伝えてください。"
+    },
+    {
+      "number": 4,
+      "ko": "그들은 내 목숨을 위하여 자기들의 목까지도 내놓았나니 나뿐 아니라 이방인의 모든 교회도 그들에게 감사하느니라",
+      "en": "They risked their lives for me. Not only I but all the churches of the Gentiles are grateful to them.",
+      "de": "welche haben für mein Leben ihren Hals dargegeben, welchen nicht allein ich danke, sondern alle Gemeinden unter den Heiden.",
+      "zh": "也为我的命将自己的颈项置之度外。不但我感谢他们，就是外邦的众教会也感谢他们。",
+      "ja": "この人たちは、自分のいのちの危険を冒して私のいのちを守ってくれたのです。この人たちには、私だけでなく、異邦人のすべての教会も感謝しています。"
+    },
+    {
+      "number": 5,
+      "ko": "또 저의 집에 있는 교회에도 문안하라 내가 사랑하는 에배네도에게 문안하라 그는 아시아에서 그리스도께 처음 맺은 열매니라",
+      "en": "Greet also the church that meets at their house. Greet my dear friend Epenetus, who was the first convert to Christ in the province of Asia.",
+      "de": "Auch grüßet die Gemeinde in ihrem Hause. Grüßet Epänetus, meinen Lieben, welcher ist der Erstling unter denen aus Achaja in Christo.",
+      "zh": "又问在他们家中的教会安。问我所亲爱的以拜尼土安；他在亚细亚是归基督初结的果子。",
+      "ja": "またその家の教会によろしく伝えてください。私の愛するエパネトによろしく。この人はアジヤでキリストを信じた最初の人です。"
+    },
+    {
+      "number": 6,
+      "ko": "너희를 위하여 많이 수고한 마리아에게 문안하라",
+      "en": "Greet Mary, who worked very hard for you.",
+      "de": "Grüßet Maria, welche viel Mühe und Arbeit mit uns gehabt hat.",
+      "zh": "又问马利亚安；她为你们多受劳苦。",
+      "ja": "あなたがたのために非常に労苦したマリヤによろしく。"
+    },
+    {
+      "number": 7,
+      "ko": "내 친척이요 나와 함께 갇혔던 안드로니고와 유니아에게 문안하라 그들은 사도들에게 존중히 여겨지고 또한 나보다 먼저 그리스도 안에 있는 자라",
+      "en": "Greet Andronicus and Junias, my relatives who have been in prison with me. They are outstanding among the apostles, and they were in Christ before I was.",
+      "de": "Grüßet den Andronikus und den Junias, meine Gefreundeten und meine Mitgefangenen, welche sind berühmte Apostel und vor mir gewesen in Christo.",
+      "zh": "又问我亲属与我一同坐监的安多尼古和犹尼亚安；他们在使徒中是有名望的，也是比我先在基督里。",
+      "ja": "私の同国人で私といっしょに投獄されたことのある、アンドロニコとユニアスにもよろしく。この人々は使徒たちの間によく知られている人々で、また私より先にキリストにある者となったのです。"
+    },
+    {
+      "number": 8,
+      "ko": "또 주 안에서 내 사랑하는 암블리아에게 문안하라",
+      "en": "Greet Ampliatus, whom I love in the Lord.",
+      "de": "Grüßet Amplias, meinen Lieben in dem HERRN.",
+      "zh": "又问我在主里面所亲爱的暗伯利安。",
+      "ja": "主にあって私の愛するアムプリアトによろしく。"
+    },
+    {
+      "number": 9,
+      "ko": "그리스도 안에서 우리의 동역자인 우르바노와 나의 사랑하는 스다구에게 문안하라",
+      "en": "Greet Urbanus, our fellow worker in Christ, and my dear friend Stachys.",
+      "de": "Grüßet Urban, unsern Gehilfen in Christo, und Stachys, meinen Lieben.",
+      "zh": "又问在基督里与我们同工的耳巴奴，并我所亲爱的士大古安。",
+      "ja": "キリストにあって私たちの同労者であるウルバノと、私の愛するスタキスとによろしく。"
+    },
+    {
+      "number": 10,
+      "ko": "그리스도 안에서 인정함을 받은 아벨레에게 문안하라 아리스도불로의 권속에게 문안하라",
+      "en": "Greet Apelles, tested and approved in Christ. Greet those who belong to the household of Aristobulus.",
+      "de": "Grüßet Apelles, den Bewährten in Christo. Grüßet, die da sind von des Aristobulus Gesinde.",
+      "zh": "又问在基督里经过试验的亚比利安。问亚利多布家里的人安。",
+      "ja": "キリストにあって練達したアペレによろしく。アリストブロの家の人たちによろしく。"
+    },
+    {
+      "number": 11,
+      "ko": "내 친척 헤로디온에게 문안하라 나깃수의 가족 중 주 안에 있는 자들에게 문안하라",
+      "en": "Greet Herodion, my relative. Greet those in the household of Narcissus who are in the Lord.",
+      "de": "Grüßet Herodian, meinen Gefreundeten. Grüßet, die da sind von des Narzissus Gesinde in dem HERRN.",
+      "zh": "又问我亲属希罗天安。问拿其数家在主里的人安。",
+      "ja": "私の同国人ヘロデオンによろしく。ナルキソの家の主にある人たちによろしく。"
+    },
+    {
+      "number": 12,
+      "ko": "주 안에서 수고한 드루배나와 드루보사에게 문안하라 주 안에서 많이 수고하고 사랑하는 버시에게 문안하라",
+      "en": "Greet Tryphena and Tryphosa, those women who work hard in the Lord. Greet my dear friend Persis, another woman who has worked very hard in the Lord.",
+      "de": "Grüßet die Tryphäna und die Tryphosa, welche in dem HERRN gearbeitet haben. Grüßet die Persis, meine Liebe, welch in dem HERRN viel gearbeitet hat.",
+      "zh": "又问为主劳苦的土非拿氏和土富撒氏安。问可亲爱为主多受劳苦的彼息氏安。",
+      "ja": "主にあって労している、ツルパナとツルポサによろしく。主にあって非常に労苦した愛するペルシスによろしく。"
+    },
+    {
+      "number": 13,
+      "ko": "주 안에서 택하심을 입은 루포와 그의 어머니에게 문안하라 그의 어머니는 곧 내 어머니니라",
+      "en": "Greet Rufus, chosen in the Lord, and his mother, who has been a mother to me, too.",
+      "de": "Grüßet Rufus, den Auserwählten in dem HERRN, und seine und meine Mutter.",
+      "zh": "又问在主蒙拣选的鲁孚和他母亲安；他的母亲就是我的母亲。",
+      "ja": "主にあって選ばれた人ルポスによろしく。また彼と私との母によろしく。"
+    },
+    {
+      "number": 14,
+      "ko": "아순그리도와 블레곤과 허메와 바드로바와 허마와 및 그들과 함께 있는 형제들에게 문안하라",
+      "en": "Greet Asyncritus, Phlegon, Hermes, Patrobas, Hermas and the brothers with them.",
+      "de": "Grüßet Asynkritus, Phlegon, Hermas, Patrobas, Hermes und die Brüder bei ihnen.",
+      "zh": "又问亚逊其土、弗勒干、黑米、八罗巴、黑马，并与他们在一处的弟兄们安。",
+      "ja": "アスンクリト、フレゴン、ヘルメス、パトロバ、ヘルマスおよびその人たちといっしょにいる兄弟たちによろしく。"
+    },
+    {
+      "number": 15,
+      "ko": "빌롤로고와 율리아와 또 네레오와 그의 자매와 올름바와 그들과 함께 있는 모든 성도에게 문안하라",
+      "en": "Greet Philologus, Julia, Nereus and his sister, and Olympas and all the saints with them.",
+      "de": "Grüßet Philologus und die Julia, Nereus und seine Schwester und Olympas und alle Heiligen bei ihnen.",
+      "zh": "又问非罗罗古和犹利亚，尼利亚和他姊妹，同阿林巴并与他们在一处的众圣徒安。",
+      "ja": "フィロロゴとユリヤ、ネレオとその姉妹、オルンパおよびその人たちといっしょにいるすべての聖徒たちによろしく。"
+    },
+    {
+      "number": 16,
+      "ko": "너희가 거룩하게 입맞춤으로 서로 문안하라 그리스도의 모든 교회가 다 너희에게 문안하느니라",
+      "en": "Greet one another with a holy kiss. All the churches of Christ send greetings.",
+      "de": "Grüßet euch untereinander mit dem heiligen Kuß. Es grüßen euch die Gemeinden Christi.",
+      "zh": "你们亲嘴问安，彼此务要圣洁。基督的众教会都问你们安。",
+      "ja": "あなたがたはきよい口づけをもって互いのあいさつをかわしなさい。キリストの教会はみな、あなたがたによろしくと言っています。"
+    },
+    {
+      "number": 17,
+      "ko": "형제들아 내가 너희를 권하노니 너희가 배운 교훈을 거슬러 분쟁을 일으키거나 거치게 하는 자들을 살피고 그들에게서 떠나라",
+      "en": "I urge you, brothers, to watch out for those who cause divisions and put obstacles in your way that are contrary to the teaching you have learned. Keep away from them.",
+      "de": "Ich ermahne euch aber, liebe Brüder, daß ihr achtet auf die, die da Zertrennung und Ärgernis anrichten neben der Lehre, die ihr gelernt habt, und weichet von ihnen.",
+      "zh": "弟兄们，那些离间你们、叫你们跌倒、背乎所学之道的人，我劝你们要留意躲避他们。",
+      "ja": "兄弟たち。私はあなたがたに願います。あなたがたの学んだ教えにそむいて、分裂とつまずきを引き起こす人たちを警戒してください。彼らから遠ざかりなさい。"
+    },
+    {
+      "number": 18,
+      "ko": "이같은 자들은 우리 주 그리스도를 섬기지 아니하고 다만 자기들의 배만 섬기나니 교활한 말과 아첨하는 말로 순진한 자들의 마음을 미혹하느니라",
+      "en": "For such people are not serving our Lord Christ, but their own appetites. By smooth talk and flattery they deceive the minds of naive people.",
+      "de": "Denn solche dienen nicht dem HERRN Jesus Christus, sondern ihrem Bauche; und durch süße Worte und prächtige Reden verführen sie unschuldige Herzen.",
+      "zh": "因为这样的人不服事我们的主基督，只服事自己的肚腹，用花言巧语诱惑那些老实人的心。",
+      "ja": "そういう人たちは、私たちの主キリストに仕えないで、自分の欲に仕えているのです。彼らは、なめらかなことば、へつらいのことばをもって純朴な人たちの心をだましているのです。"
+    },
+    {
+      "number": 19,
+      "ko": "너희의 순종함이 모든 사람에게 들리는지라 그러므로 내가 너희로 말미암아 기뻐하노니 너희가 선한 데 지혜롭고 악한 데 미련하기를 원하노라",
+      "en": "Everyone has heard about your obedience, so I am full of joy over you; but I want you to be wise about what is good, and innocent about what is evil.",
+      "de": "Denn euer Gehorsam ist bei jedermann kund geworden. Derhalben freue ich mich über euch; ich will aber, daß ihr weise seid zum Guten, aber einfältig zum Bösen.",
+      "zh": "你们的顺服已经传于众人，所以我为你们欢喜；但我愿意你们在善上聪明，在恶上愚拙。",
+      "ja": "あなたがたの従順はすべての人に知られているので、私はあなたがたのことを喜んでいます。しかし、私は、あなたがたが善にはさとく、悪にはうとくあってほしい、と望んでいます。"
+    },
+    {
+      "number": 20,
+      "ko": "평강의 하나님께서 속히 사탄을 너희 발 아래에서 상하게 하시리라",
+      "en": "The God of peace will soon crush Satan under your feet. The grace of our Lord Jesus be with you.",
+      "de": "Aber der Gott des Friedens zertrete den Satan unter eure Füße in kurzem. Die Gnade unsers HERRN Jesu Christi sei mit euch!",
+      "zh": "赐平安的　神快要将撒但践踏在你们脚下。愿我主耶稣基督的恩常和你们同在！",
+      "ja": "平和の神は、すみやかに、あなたがたの足でサタンを踏み砕いてくださいます。 どうか、私たちの主イエスの恵みが、あなたがたとともにありますように。"
+    },
+    {
+      "number": 21,
+      "ko": "나의 동역자 디모데와 나의 친척 누기오와 야손과 소시바더가 너희에게 문안하느니라",
+      "en": "Timothy, my fellow worker, sends his greetings to you, as do Lucius, Jason and Sosipater, my relatives.",
+      "de": "Es grüßen euch Timotheus, mein Gehilfe, und Luzius und Jason und Sosipater, meine Gefreundeten.",
+      "zh": "与我同工的提摩太，和我的亲属路求、耶孙、所西巴德，问你们安。",
+      "ja": "私の同労者テモテが、あなたがたによろしくと言っています。また私の同国人ルキオとヤソンとソシパテロがよろしくと言っています。"
+    },
+    {
+      "number": 22,
+      "ko": "이 편지를 기록하는 나 더디오도 주 안에서 너희에게 문안하노라",
+      "en": "I, Tertius, who wrote down this letter, greet you in the Lord.",
+      "de": "Ich, Tertius, grüße euch, der ich diesen Brief geschrieben habe, in dem HERRN.",
+      "zh": "我这代笔写信的德提，在主里面问你们安。",
+      "ja": "この手紙を筆記した私、テルテオも、主にあってあなたがたにごあいさつ申し上げます。"
+    },
+    {
+      "number": 23,
+      "ko": "나와 온 교회를 돌보아 주는 가이오도 너희에게 문안하고 이 성의 재무관 에라스도와 형제 구아도도 너희에게 문안하느니라",
+      "en": "Gaius, whose hospitality I and the whole church here enjoy, sends you his greetings. Erastus, who is the city's director of public works, and our brother Quartus send you their greetings.",
+      "de": "Es grüßt euch Gajus, mein und der ganzen Gemeinde Wirt. Es grüßt euch Erastus, der Stadt Rentmeister, und Quartus, der Bruder.",
+      "zh": "那接待我、也接待全教会的该犹问你们安。",
+      "ja": "私と全教会との家主であるガイオも、あなたがたによろしくと言っています。市の収入役であるエラストと兄弟クワルトもよろしくと言っています。"
+    },
+    {
+      "number": 24,
+      "ko": "(없음)",
+      "en": "",
+      "de": "Die Gnade unsers HERRN Jesus Christus sei mit euch allen! Amen.",
+      "zh": "城内管银库的以拉都和兄弟括土问你们安。",
+      "ja": "私の福音とイエス・キリストの宣教によって、すなわち、世々にわたって長い間隠されていたが、今や現わされて、永遠の神の命令に従い、預言者たちの書によって、信仰の従順に導くためにあらゆる国の人々に知らされた奥義の啓示によって、あなたがたを堅く立たせることができる方、"
+    },
+    {
+      "number": 25,
+      "ko": "나의 복음과 예수 그리스도를 전파함은 영세 전부터 감추어졌다가",
+      "en": "Now to him who is able to establish you by my gospel and the proclamation of Jesus Christ, according to the revelation of the mystery hidden for long ages past,",
+      "de": "Dem aber, der euch stärken kann laut meines Evangeliums und der Predigt von Jesu Christo, durch welche das Geheimnis offenbart ist, das von der Welt her verschwiegen gewesen ist,",
+      "zh": "惟有　神能照我所传的福音和所讲的耶稣基督，并照永古隐藏不言的奥秘，坚固你们的心。",
+      "ja": "知恵に富む唯一の神に、イエス・キリストによって、御栄えがとこしえまでありますように。アーメン。"
+    },
+    {
+      "number": 26,
+      "ko": "이제는 나타내신 바 되었으며 영원하신 하나님의 명을 따라 선지자들의 글로 말미암아 모든 민족이 믿어 순종하게 하시려고 알게 하신 바 그 신비의 계시를 따라 된 것이니 이 복음으로 너희를 능히 견고하게 하실",
+      "en": "but now revealed and made known through the prophetic writings by the command of the eternal God, so that all nations might believe and obey him--",
+      "de": "nun aber offenbart, auch kundgemacht durch der Propheten Schriften nach Befehl des ewigen Gottes, den Gehorsam des Glaubens aufzurichten unter allen Heiden:",
+      "zh": "这奥秘如今显明出来，而且按着永生　神的命，借众先知的书指示万国的民，使他们信服真道。",
+      "ja": ""
+    },
+    {
+      "number": 27,
+      "ko": "지혜로우신 하나님께 예수 그리스도로 말미암아 영광이 세세무궁하도록 있을지어다 아멘",
+      "en": "to the only wise God be glory forever through Jesus Christ! Amen.",
+      "de": "demselben Gott, der allein weise ist, sei Ehre durch Jesum Christum in Ewigkeit! Amen.",
+      "zh": "愿荣耀，因耶稣基督，归与独一全智的　神，直到永远。阿们！",
+      "ja": ""
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "book": "Ecclesiastes",
+  "chapter": 4,
+  "verses": [
+    {
+      "number": 1,
+      "ko": "내가 다시 해 아래에서 행하는 모든 학대를 살펴 보았도다 보라 학대 받는 자들의 눈물이로다 그들에게 위로자가 없도다 그들을 학대하는 자들의 손에는 권세가 있으나 그들에게는 위로자가 없도다",
+      "en": "Again I looked and saw all the oppression that was taking place under the sun: I saw the tears of the oppressed--and they have no comforter; power was on the side of their oppressors--and they have no comforter.",
+      "de": "Ich wandte mich um und sah an alles Unrecht, das geschah unter der Sonne; und siehe, da waren die Tränen derer, so Unrecht litten und hatten keinen Tröster; und die ihnen Unrecht taten, waren zu mächtig, daß sie keinen Tröster haben konnten.",
+      "zh": "我又转念，见日光之下所行的一切欺压。看哪，受欺压的流泪，且无人安慰；欺压他们的有势力，也无人安慰他们。",
+      "ja": "茲に我身を轉して日の下に行はるる諸の虐遇を視たり 嗚呼虐げらる者の涙ながる 之を慰むる者あらざるなり また虐ぐる者の手には權力あり 彼等はこれを慰むる者あらざるなり"
+    },
+    {
+      "number": 2,
+      "ko": "그러므로 나는 아직 살아 있는 산 자들보다 죽은 지 오랜 죽은 자들을 더 복되다 하였으며",
+      "en": "And I declared that the dead, who had already died, are happier than the living, who are still alive.",
+      "de": "Da lobte ich die Toten, die schon gestorben waren, mehr denn die Lebendigen, die noch das Leben hatten;",
+      "zh": "因此，我赞叹那早已死的死人，胜过那还活着的活人。",
+      "ja": "我は猶生る生者よりも旣に死たる死者をもて幸なりとす"
+    },
+    {
+      "number": 3,
+      "ko": "이 둘보다도 아직 출생하지 아니하여 해 아래에서 행하는 악한 일을 보지 못한 자가 더 복되다 하였노라",
+      "en": "But better than both is he who has not yet been, who has not seen the evil that is done under the sun.",
+      "de": "und besser als alle beide ist, der noch nicht ist und des Bösen nicht innewird, das unter der Sonne geschieht.",
+      "zh": "并且我以为那未曾生的，就是未见过日光之下恶事的，比这两等人更强。",
+      "ja": "またこの二者よりも幸なるは未だ世にあらずして日の下におこなはるる惡事を見ざる者なり"
+    },
+    {
+      "number": 4,
+      "ko": "내가 또 본즉 사람이 모든 수고와 모든 재주로 말미암아 이웃에게 시기를 받으니 이것도 헛되어 바람을 잡는 것이로다",
+      "en": "And I saw that all labor and all achievement spring from man's envy of his neighbor. This too is meaningless, a chasing after the wind.",
+      "de": "Ich sah an Arbeit und Geschicklichkeit in allen Sachen; da neidet einer den andern. Das ist auch eitel und Haschen nach dem Wind.",
+      "zh": "我又见人为一切的劳碌和各样灵巧的工作就被邻舍嫉妒。这也是虚空，也是捕风。",
+      "ja": "我また諸の勞苦と諸の工事の精巧とを觀るに 是は人のたがひに嫉みあひて成せる者たるなり 是も空にして風を捕ふるが如し"
+    },
+    {
+      "number": 5,
+      "ko": "우매자는 팔짱을 끼고 있으면서 자기의 몸만 축내는도다",
+      "en": "The fool folds his hands and ruins himself.",
+      "de": "Ein Narr schlägt die Finger ineinander und verzehrt sich selbst.",
+      "zh": "愚昧人抱着手，吃自己的肉。",
+      "ja": "愚なる者は手を束ねてその身の肉を食ふ"
+    },
+    {
+      "number": 6,
+      "ko": "두 손에 가득하고 수고하며 바람을 잡는 것보다 한 손에만 가득하고 평온함이 더 나으니라",
+      "en": "Better one handful with tranquillity than two handfuls with toil and chasing after the wind.",
+      "de": "Es ist besser eine Handvoll mit Ruhe denn beide Fäuste voll mit Mühe und Haschen nach Wind.",
+      "zh": "满了一把，得享安静，强如满了两把，劳碌捕风。",
+      "ja": "片手に物を盈て平穩にあるは 兩手に物を盈て勞苦て風を捕ふるに愈れり"
+    },
+    {
+      "number": 7,
+      "ko": "내가 또 다시 해 아래에서 헛된 것을 보았도다",
+      "en": "Again I saw something meaningless under the sun:",
+      "de": "Ich wandte mich um und sah die Eitelkeit unter der Sonne.",
+      "zh": "我又转念，见日光之下有一件虚空的事：",
+      "ja": "我また身をめぐらし日の下に空なる事のあるを見たり"
+    },
+    {
+      "number": 8,
+      "ko": "어떤 사람은 아들도 없고 형제도 없이 홀로 있으나 그의 모든 수고에는 끝이 없도다 또 비록 그의 눈은 부요를 족하게 여기지 아니하면서 이르기를 내가 누구를 위하여는 이같이 수고하고 나를 위하여는 행복을 누리지 못하게 하는가 하여도 이것도 헛되어 불행한 노고로다",
+      "en": "There was a man all alone; he had neither son nor brother. There was no end to his toil, yet his eyes were not content with his wealth. \"For whom am I toiling,\" he asked, \"and why am I depriving myself of enjoyment?\" This too is meaningless--a miserable business!",
+      "de": "Es ist ein einzelner, und nicht selbander, und hat weder Kind noch Bruder; doch ist seines Arbeitens kein Ende, und seine Augen werden Reichtums nicht satt. Wem arbeite ich doch und breche meiner Seele ab? Das ist auch eitel und eine böse Mühe.",
+      "zh": "有人孤单无二，无子无兄，竟劳碌不息，眼目也不以钱财为足。他说：「我劳劳碌碌，刻苦自己，不享福乐，到底是为谁呢？」这也是虚空，是极重的劳苦。",
+      "ja": "茲に人あり只獨にして伴侶もなく子もなく兄弟もなし 然るにその勞苦は都て窮なくの目は富に飽ことなし 彼また言ず嗚呼我は誰がために勞するや何とて我は心を樂ませざるやと 是もまた空にして勞力の苦き者なり"
+    },
+    {
+      "number": 9,
+      "ko": "두 사람이 한 사람보다 나음은 그들이 수고함으로 좋은 상을 얻을 것임이라",
+      "en": "Two are better than one, because they have a good return for their work:",
+      "de": "So ist's ja besser zwei als eins; denn sie genießen doch ihrer Arbeit wohl.",
+      "zh": "两个人总比一个人好，因为二人劳碌同得美好的果效。",
+      "ja": "二人は一人に愈る其はその勞苦のために善報を得ればなり"
+    },
+    {
+      "number": 10,
+      "ko": "혹시 그들이 넘어지면 하나가 그 동무를 붙들어 일으키려니와 홀로 있어 넘어지고 붙들어 일으킬 자가 없는 자에게는 화가 있으리라",
+      "en": "If one falls down, his friend can help him up. But pity the man who falls and has no one to help him up!",
+      "de": "Fällt ihrer einer so hilft ihm sein Gesell auf. Weh dem, der allein ist! Wenn er fällt, so ist keiner da, der ihm aufhelfe.",
+      "zh": "若是跌倒，这人可以扶起他的同伴；若是孤身跌倒，没有别人扶起他来，这人就有祸了。",
+      "ja": "即ちその跌倒る時には一箇の人その伴侶を扶けおこすべし 然ど孤身にして跌倒る者は憐なるかな之を扶けおこす者なきなり"
+    },
+    {
+      "number": 11,
+      "ko": "또 두 사람이 함께 누우면 따뜻하거니와 한 사람이면 어찌 따뜻하랴",
+      "en": "Also, if two lie down together, they will keep warm. But how can one keep warm alone?",
+      "de": "Auch wenn zwei beieinander liegen, wärmen sie sich; wie kann ein einzelner warm werden?",
+      "zh": "再者，二人同睡就都暖和，一人独睡怎能暖和呢？",
+      "ja": "又二人ともに寝れば温暖なり一人ならば爭で温暖ならんや"
+    },
+    {
+      "number": 12,
+      "ko": "한 사람이면 패하겠거니와 두 사람이면 맞설 수 있나니 세 겹 줄은 쉽게 끊어지지 아니하느니라",
+      "en": "Though one may be overpowered, two can defend themselves. A cord of three strands is not quickly broken.",
+      "de": "Einer mag überwältigt werden, aber zwei mögen widerstehen; und eine dreifältige Schnur reißt nicht leicht entzwei.",
+      "zh": "有人攻胜孤身一人，若有二人便能敌挡他；三股合成的绳子不容易折断。",
+      "ja": "人もしその一人を攻撃ば二人してこれに當るべし 三根の繩は容易く斷ざるなり"
+    },
+    {
+      "number": 13,
+      "ko": "가난하여도 지혜로운 젊은이가 늙고 둔하여 경고를 더 받을 줄 모르는 왕보다 나으니",
+      "en": "Better a poor but wise youth than an old but foolish king who no longer knows how to take warning.",
+      "de": "Ein armes Kind, das weise ist, ist besser denn ein alter König, der ein Narr ist und weiß nicht sich zu hüten.",
+      "zh": "贫穷而有智慧的少年人胜过年老不肯纳谏的愚昧王。",
+      "ja": "貧くして賢き童子は 老て愚にして諌を納れざる王に愈る"
+    },
+    {
+      "number": 14,
+      "ko": "그는 자기의 나라에서 가난하게 태어났을지라도 감옥에서 나와 왕이 되었음이니라",
+      "en": "The youth may have come from prison to the kingship, or he may have been born in poverty within his kingdom.",
+      "de": "Es kommt einer aus dem Gefängnis zum Königreich; und einer, der in seinem Königreich geboren ist, verarmt.",
+      "zh": "这人是从监牢中出来作王，在他国中，生来原是贫穷的。",
+      "ja": "彼は牢獄より出て王となれり 然どその國に生れし時は貧かりき"
+    },
+    {
+      "number": 15,
+      "ko": "내가 본즉 해 아래에서 다니는 인생들이 왕의 다음 자리에 있다가 왕을 대신하여 일어난 젊은이와 함께 있고",
+      "en": "I saw that all who lived and walked under the sun followed the youth, the king's successor.",
+      "de": "Und ich sah, daß alle Lebendigen unter der Sonne wandelten bei dem andern, dem Kinde, das an jenes Statt sollte aufkommen.",
+      "zh": "我见日光之下一切行动的活人都随从那第二位，就是起来代替老王的少年人。",
+      "ja": "我日の下にあゆむところの群生が彼王に続てこれに代りて立ところの童子とともにあるを觀たり"
+    },
+    {
+      "number": 16,
+      "ko": "그의 치리를 받는 모든 백성들이 무수하였을지라도 후에 오는 자들은 그를 기뻐하지 아니하리니 이것도 헛되어 바람을 잡는 것이로다",
+      "en": "There was no end to all the people who were before them. But those who came later were not pleased with the successor. This too is meaningless, a chasing after the wind.",
+      "de": "Und des Volks, das vor ihm ging, war kein Ende und des, das ihm nachging; und wurden sein doch nicht froh. Das ist auch eitel und Mühe um Wind.",
+      "zh": "他所治理的众人就是他的百姓，多得无数；在他后来的人尚且不喜悦他。这真是虚空，也是捕风。",
+      "ja": "民はすべて際限なし その前にありし者みな然り 後にきたる者また彼を悦ばず 是も空にして風を捕ふるがごとし"
+    }
+  ]
+}

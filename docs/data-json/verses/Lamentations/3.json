@@ -1,0 +1,534 @@
+{
+  "book": "Lamentations",
+  "chapter": 3,
+  "verses": [
+    {
+      "number": 1,
+      "ko": "여호와의 분노의 매로 말미암아 고난 당한 자는 나로다",
+      "en": "I am the man who has seen affliction by the rod of his wrath.",
+      "de": "Ich bin ein elender Mann, der die Rute seines Grimmes sehen muß.",
+      "zh": "我是因耶和华忿怒的杖， 遭遇困苦的人。",
+      "ja": "我はかれの震怒の笞によりて艱難に遭たる人なり"
+    },
+    {
+      "number": 2,
+      "ko": "나를 이끌어 어둠 안에서 걸어가게 하시고 빛 안에서 걸어가지 못하게 하셨으며",
+      "en": "He has driven me away and made me walk in darkness rather than light;",
+      "de": "Er hat mich geführt und lassen gehen in die Finsternis und nicht in Licht.",
+      "zh": "他引导我，使我行在黑暗中， 不行在光明里。",
+      "ja": "かれは我をひきて黑暗をあゆませ光明にゆかしめたまはず"
+    },
+    {
+      "number": 3,
+      "ko": "종일토록 손을 들어 자주자주 나를 치시는도다",
+      "en": "indeed, he has turned his hand against me again and again, all day long.",
+      "de": "Er hat seine Hand gewendet wider mich und handelt gar anders mit mir für und für.",
+      "zh": "他真是终日再三反手攻击我。",
+      "ja": "まことに屢々その手をむけて終日われを攻なやまし"
+    },
+    {
+      "number": 4,
+      "ko": "나의 살과 가죽을 쇠하게 하시며 나의 뼈들을 꺾으셨고",
+      "en": "He has made my skin and my flesh grow old and has broken my bones.",
+      "de": "Er hat mir Fleisch und Haut alt gemacht und mein Gebein zerschlagen.",
+      "zh": "他使我的皮肉枯干； 他折断我的骨头。",
+      "ja": "わが肉と肌膚をおとろへしめ わが骨を摧き"
+    },
+    {
+      "number": 5,
+      "ko": "고통과 수고를 쌓아 나를 에우셨으며",
+      "en": "He has besieged me and surrounded me with bitterness and hardship.",
+      "de": "Er hat mich verbaut und mich mit Galle und Mühe umgeben.",
+      "zh": "他筑垒攻击我， 用苦楚和艰难围困我。",
+      "ja": "われにむかひて患苦と艱難を築きこれをもて我を圍み"
+    },
+    {
+      "number": 6,
+      "ko": "나를 어둠 속에 살게 하시기를 죽은 지 오랜 자 같게 하셨도다",
+      "en": "He has made me dwell in darkness like those long dead.",
+      "de": "Er hat mich in Finsternis gelegt wie die, so längst tot sind.",
+      "zh": "他使我住在幽暗之处， 像死了许久的人一样。",
+      "ja": "われをして長久に死し者のごとく暗き處に住しめ"
+    },
+    {
+      "number": 7,
+      "ko": "나를 둘러싸서 나가지 못하게 하시고 내 사슬을 무겁게 하셨으며",
+      "en": "He has walled me in so I cannot escape; he has weighed me down with chains.",
+      "de": "Er hat mich vermauert, daß ich nicht heraus kann, und mich in harte Fesseln gelegt.",
+      "zh": "他用篱笆围住我，使我不能出去； 他使我的铜链沉重。",
+      "ja": "我をかこみて出ること能はざらしめわが鏈索を重くしたまへり"
+    },
+    {
+      "number": 8,
+      "ko": "내가 부르짖어 도움을 구하나 내 기도를 물리치시며",
+      "en": "Even when I call out or cry for help, he shuts out my prayer.",
+      "de": "Und wenn ich gleich schreie und rufe, so stopft er die Ohren zu vor meinem Gebet.",
+      "zh": "我哀号求救； 他使我的祷告不得上达。",
+      "ja": "我さけびて助をもとめしとき彼わが祈禱をふせぎ"
+    },
+    {
+      "number": 9,
+      "ko": "다듬은 돌을 쌓아 내 길들을 막으사 내 길들을 굽게 하셨도다",
+      "en": "He has barred my way with blocks of stone; he has made my paths crooked.",
+      "de": "Er hat meinen Weg vermauert mit Werkstücken und meinen Steig umgekehrt.",
+      "zh": "他用凿过的石头挡住我的道； 他使我的路弯曲。",
+      "ja": "斫たる石をもてわが道を塞ぎわが途をまげたまへり"
+    },
+    {
+      "number": 10,
+      "ko": "그는 내게 대하여 엎드려 기다리는 곰과 은밀한 곳에 있는 사자 같으사",
+      "en": "Like a bear lying in wait, like a lion in hiding,",
+      "de": "Er hat auf mich gelauert wie ein Bär, wie ein Löwe im Verborgenen.",
+      "zh": "他向我如熊埋伏， 如狮子在隐密处。",
+      "ja": "その我に對することは伏て伺がふ熊のごとく潜みかくるる獅子のごとし"
+    },
+    {
+      "number": 11,
+      "ko": "나의 길들로 치우치게 하시며 내 몸을 찢으시며 나를 적막하게 하셨도다",
+      "en": "he dragged me from the path and mangled me and left me without help.",
+      "de": "Er läßt mich des Weges fehlen. Er hat mich zerstückt und zunichte gemacht.",
+      "zh": "他使我转离正路， 将我撕碎，使我凄凉。",
+      "ja": "われに路を離れしめ 我をひきさきて獨くるしましめ"
+    },
+    {
+      "number": 12,
+      "ko": "활을 당겨 나를 화살의 과녁으로 삼으심이여",
+      "en": "He drew his bow and made me the target for his arrows.",
+      "de": "Er hat seinen Bogen gespannt und mich dem Pfeil zum Ziel gesteckt.",
+      "zh": "他张弓将我当作箭靶子。",
+      "ja": "弓を張りてわれを矢先の的となし"
+    },
+    {
+      "number": 13,
+      "ko": "화살통의 화살들로 내 허리를 맞추셨도다",
+      "en": "He pierced my heart with arrows from his quiver.",
+      "de": "Er hat aus dem Köcher in meine Nieren schießen lassen.",
+      "zh": "他把箭袋中的箭射入我的肺腑。",
+      "ja": "矢筒の矢をもてわが腰を射ぬきたまへり"
+    },
+    {
+      "number": 14,
+      "ko": "나는 내 모든 백성에게 조롱거리 곧 종일토록 그들의 노랫거리가 되었도다",
+      "en": "I became the laughingstock of all my people; they mock me in song all day long.",
+      "de": "Ich bin ein Spott allem meinem Volk und täglich ihr Liedlein.",
+      "zh": "我成了众民的笑话； 他们终日以我为歌曲。",
+      "ja": "われはわがすべての民のあざけりとなり 終日うたひそしらる"
+    },
+    {
+      "number": 15,
+      "ko": "나를 쓴 것들로 배불리시고 쑥으로 취하게 하셨으며",
+      "en": "He has filled me with bitter herbs and sated me with gall.",
+      "de": "Er hat mich mit Bitterkeit gesättigt und mit Wermut getränkt.",
+      "zh": "他用苦楚充满我，使我饱用茵 。",
+      "ja": "かれ我をして苦き物に飽しめ茵蔯を飮しめ"
+    },
+    {
+      "number": 16,
+      "ko": "조약돌로 내 이들을 꺾으시고 재로 나를 덮으셨도다",
+      "en": "He has broken my teeth with gravel; he has trampled me in the dust.",
+      "de": "Er hat meine Zähne zu kleinen Stücken zerschlagen. Er wälzt mich in der Asche.",
+      "zh": "他又用沙石碜断我的牙， 用灰尘将我蒙蔽。",
+      "ja": "小石をもてわが齒を摧き灰をもて我を蒙ひたまへり"
+    },
+    {
+      "number": 17,
+      "ko": "주께서 내 심령이 평강에서 멀리 떠나게 하시니 내가 복을 내어버렸음이여",
+      "en": "I have been deprived of peace; I have forgotten what prosperity is.",
+      "de": "Meine Seele ist aus dem Frieden vertrieben; ich muß des Guten vergessen.",
+      "zh": "你使我远离平安， 我忘记好处。",
+      "ja": "なんぢわが靈魂をして平和を遠くはなれしめたまへば我は福祉をわすれたり"
+    },
+    {
+      "number": 18,
+      "ko": "스스로 이르기를 나의 힘과 여호와께 대한 내 소망이 끊어졌다 하였도다",
+      "en": "So I say, \"My splendor is gone and all that I had hoped from the LORD.\"",
+      "de": "Ich sprach: Mein Vermögen ist dahin und meine Hoffnung auf den HERRN.",
+      "zh": "我就说：我的力量衰败； 我在耶和华那里毫无指望！",
+      "ja": "是において我みづから言り わが氣力うせゆきぬ ヱホバより何を望むべきところ無しと"
+    },
+    {
+      "number": 19,
+      "ko": "내 고초와 재난 곧 쑥과 담즙을 기억하소서",
+      "en": "I remember my affliction and my wandering, the bitterness and the gall.",
+      "de": "Gedenke doch, wie ich so elend und verlassen, mit Wermut und Galle getränkt bin!",
+      "zh": "耶和华啊，求你记念我 如茵 和苦胆的困苦窘迫。",
+      "ja": "ねがはくは我が艱難と苦楚茵蔯と膽汁とを心に記たまへ"
+    },
+    {
+      "number": 20,
+      "ko": "내 마음이 그것을 기억하고 내가 낙심이 되오나",
+      "en": "I well remember them, and my soul is downcast within me.",
+      "de": "Du wirst ja daran gedenken; denn meine Seele sagt mir es.",
+      "zh": "我心想念这些， 就在里面忧闷。",
+      "ja": "わがたましひは今なほ是らの事を想ひてわが衷に鬱ぐ"
+    },
+    {
+      "number": 21,
+      "ko": "이것을 내가 내 마음에 담아 두었더니 그것이 오히려 나의 소망이 되었사옴은",
+      "en": "Yet this I call to mind and therefore I have hope:",
+      "de": "Das nehme ich zu Herzen, darum hoffe ich noch.",
+      "zh": "我想起这事， 心里就有指望。",
+      "ja": "われこの事を心におもひ起せり この故に望をいだくなり"
+    },
+    {
+      "number": 22,
+      "ko": "여호와의 인자와 긍휼이 무궁하시므로 우리가 진멸되지 아니함이니이다",
+      "en": "Because of the LORD'S great love we are not consumed, for his compassions never fail.",
+      "de": "Die Güte des HERRN ist's, daß wir nicht gar aus sind; seine Barmherzigkeit hat noch kein Ende,",
+      "zh": "我们不致消灭， 是出于耶和华诸般的慈爱； 是因他的怜悯不致断绝。",
+      "ja": "われらの尚ほろびざるはヱホバの仁愛によりその憐憫の盡ざるに因る"
+    },
+    {
+      "number": 23,
+      "ko": "이것들이 아침마다 새로우니 주의 성실하심이 크시도소이다",
+      "en": "They are new every morning; great is your faithfulness.",
+      "de": "sondern sie ist alle Morgen neu, und deine Treue ist groß.",
+      "zh": "每早晨，这都是新的； 你的诚实极其广大！",
+      "ja": "これは朝ごとに新なり なんぢの誠實はおほいなるかな"
+    },
+    {
+      "number": 24,
+      "ko": "내 심령에 이르기를 여호와는 나의 기업이시니 그러므로 내가 그를 바라리라 하도다",
+      "en": "I say to myself, \"The LORD is my portion; therefore I will wait for him.\"",
+      "de": "Der HERR ist mein Teil, spricht meine Seele; darum will ich auf ihn hoffen.",
+      "zh": "我心里说：耶和华是我的分， 因此，我要仰望他。",
+      "ja": "わが靈魂は言ふ ヱホバはわが分なり このゆゑに我彼を待ち望まん"
+    },
+    {
+      "number": 25,
+      "ko": "기다리는 자들에게나 구하는 영혼들에게 여호와는 선하시도다",
+      "en": "The LORD is good to those whose hope is in him, to the one who seeks him;",
+      "de": "Denn der HERR ist freundlich dem, der auf sie harrt, und der Seele, die nach ihm fragt.",
+      "zh": "凡等候耶和华，心里寻求他的， 耶和华必施恩给他。",
+      "ja": "ヱホバはおのれを待ち望む者とおのれを尋ねもとむる人に恩惠をほどこしたまふ"
+    },
+    {
+      "number": 26,
+      "ko": "사람이 여호와의 구원을 바라고 잠잠히 기다림이 좋도다",
+      "en": "it is good to wait quietly for the salvation of the LORD.",
+      "de": "Es ist ein köstlich Ding, geduldig sein und auf die Hilfe des HERRN hoffen.",
+      "zh": "人仰望耶和华， 静默等候他的救恩， 这原是好的。",
+      "ja": "ヱホバの救拯をのぞみて靜にこれを待は善し"
+    },
+    {
+      "number": 27,
+      "ko": "사람은 젊었을 때에 멍에를 메는 것이 좋으니",
+      "en": "It is good for a man to bear the yoke while he is young.",
+      "de": "Es ist ein köstlich Ding einem Mann, daß er das Joch in seiner Jugend trage;",
+      "zh": "人在幼年负轭， 这原是好的。",
+      "ja": "人わかき時に軛を負は善し"
+    },
+    {
+      "number": 28,
+      "ko": "혼자 앉아서 잠잠할 것은 주께서 그것을 그에게 메우셨음이라",
+      "en": "Let him sit alone in silence, for the LORD has laid it on him.",
+      "de": "daß ein Verlassener geduldig sei, wenn ihn etwas überfällt,",
+      "zh": "他当独坐无言， 因为这是耶和华加在他身上的。",
+      "ja": "ヱホバこれを負せたまふなれば獨坐して默すべし"
+    },
+    {
+      "number": 29,
+      "ko": "그대의 입을 땅의 티끌에 댈지어다 혹시 소망이 있을지로다",
+      "en": "Let him bury his face in the dust--there may yet be hope.",
+      "de": "und seinen Mund in den Staub stecke und der Hoffnung warte",
+      "zh": "他当口贴尘埃， 或者有指望。",
+      "ja": "口を塵につけよ あるひは望あらん"
+    },
+    {
+      "number": 30,
+      "ko": "자기를 치는 자에게 뺨을 돌려대어 치욕으로 배불릴지어다",
+      "en": "Let him offer his cheek to one who would strike him, and let him be filled with disgrace.",
+      "de": "und lasse sich auf die Backen schlagen und viel Schmach anlegen.",
+      "zh": "他当由人打他的腮颊， 要满受凌辱。",
+      "ja": "おのれを撃つ者に頬をむけ 充足れるまでに恥辱をうけよ"
+    },
+    {
+      "number": 31,
+      "ko": "이는 주께서 영원하도록 버리지 아니하실 것임이며",
+      "en": "For men are not cast off by the Lord forever.",
+      "de": "Denn der Herr verstößt nicht ewiglich;",
+      "zh": "因为主必不永远丢弃人。",
+      "ja": "そは主は永久に棄ることを爲たまはざるべければなり"
+    },
+    {
+      "number": 32,
+      "ko": "그가 비록 근심하게 하시나 그의 풍부한 인자하심에 따라 긍휼히 여기실 것임이라",
+      "en": "Though he brings grief, he will show compassion, so great is his unfailing love.",
+      "de": "sondern er betrübt wohl, und erbarmt sich wieder nach seiner Güte.",
+      "zh": "主虽使人忧愁， 还要照他诸般的慈爱发怜悯。",
+      "ja": "かれは患難を與へ給ふといへどもその慈悲おほいなればまた憐憫を加へたまふなり"
+    },
+    {
+      "number": 33,
+      "ko": "주께서 인생으로 고생하게 하시며 근심하게 하심은 본심이 아니시로다",
+      "en": "For he does not willingly bring affliction or grief to the children of men.",
+      "de": "Denn er nicht von Herzen die Menschen plagt und betrübt,",
+      "zh": "因他并不甘心使人受苦， 使人忧愁。",
+      "ja": "心より世の人をなやましかつ苦しめ給ふにはあらざるなり"
+    },
+    {
+      "number": 34,
+      "ko": "세상에 있는 모든 갇힌 자들을 발로 밟는 것과",
+      "en": "To crush underfoot all prisoners in the land,",
+      "de": "als wollte er die Gefangenen auf Erden gar unter seine Füße zertreten",
+      "zh": "人将世上被囚的踹在脚下，",
+      "ja": "世のもろもろの俘囚人を脚の下にふみにじり"
+    },
+    {
+      "number": 35,
+      "ko": "지존자의 얼굴 앞에서 사람의 재판을 굽게 하는 것과",
+      "en": "to deny a man his rights before the Most High,",
+      "de": "und eines Mannes Recht vor dem Allerhöchsten beugen lassen",
+      "zh": "或在至高者面前屈枉人，",
+      "ja": "至高者の面の前にて人の理を抂げ"
+    },
+    {
+      "number": 36,
+      "ko": "사람의 송사를 억울하게 하는 것은 다 주께서 기쁘게 보시는 것이 아니로다",
+      "en": "to deprive a man of justice--would not the Lord see such things?",
+      "de": "und eines Menschen Sache verkehren lassen, gleich als sähe es der Herr nicht.",
+      "zh": "或在人的讼事上颠倒是非， 这都是主看不上的。",
+      "ja": "人の詞訟を屈むることは主のよろこび給はざるところなり"
+    },
+    {
+      "number": 37,
+      "ko": "주의 명령이 아니면 누가 이것을 능히 말하여 이루게 할 수 있으랴",
+      "en": "Who can speak and have it happen if the Lord has not decreed it?",
+      "de": "Wer darf denn sagen, daß solches geschehe ohne des Herrn Befehl",
+      "zh": "除非主命定， 谁能说成就成呢？",
+      "ja": "主の命じたまふにあらずば誰か事を述んにその事即ち成んや"
+    },
+    {
+      "number": 38,
+      "ko": "화와 복이 지존자의 입으로부터 나오지 아니하느냐",
+      "en": "Is it not from the mouth of the Most High that both calamities and good things come?",
+      "de": "und daß nicht Böses und Gutes komme aus dem Munde des Allerhöchsten?",
+      "zh": "祸福不都出于至高者的口吗？",
+      "ja": "禍も福もともに至高者の口より出るにあらずや"
+    },
+    {
+      "number": 39,
+      "ko": "살아 있는 사람은 자기 죄들 때문에 벌을 받나니 어찌 원망하랴",
+      "en": "Why should any living man complain when punished for his sins?",
+      "de": "Wie murren denn die Leute im Leben also? Ein jeglicher murre wider seine Sünde!",
+      "zh": "活人因自己的罪受罚， 为何发怨言呢？",
+      "ja": "活る人なんぞ怨言べけんや 人おのれの罪の罰せらるるをつぶやくべけんや"
+    },
+    {
+      "number": 40,
+      "ko": "우리가 스스로 우리의 행위들을 조사하고 여호와께로 돌아가자",
+      "en": "Let us examine our ways and test them, and let us return to the LORD.",
+      "de": "Und laßt uns erforschen und prüfen unser Wesen und uns zum HERRN bekehren!",
+      "zh": "我们当深深考察自己的行为， 再归向耶和华。",
+      "ja": "我等みづからの行をしらべかつ省みてヱホバに歸るべし"
+    },
+    {
+      "number": 41,
+      "ko": "우리의 마음과 손을 아울러 하늘에 계신 하나님께 들자",
+      "en": "Let us lift up our hearts and our hands to God in heaven, and say:",
+      "de": "Laßt uns unser Herz samt den Händen aufheben zu Gott im Himmel!",
+      "zh": "我们当诚心向天上的　神举手祷告。",
+      "ja": "我ら天にいます神にむかひて手とともに心をも擧べし"
+    },
+    {
+      "number": 42,
+      "ko": "우리의 범죄함과 우리의 반역함을 주께서 사하지 아니하시고",
+      "en": "\"We have sinned and rebelled and you have not forgiven.",
+      "de": "Wir, wir haben gesündigt und sind ungehorsam gewesen; darum hast du billig nicht verschont;",
+      "zh": "我们犯罪背逆， 你并不赦免。",
+      "ja": "われらは罪ををかし我らは叛きたり なんぢこれを赦したまはざりき"
+    },
+    {
+      "number": 43,
+      "ko": "진노로 자신을 가리시고 우리를 추격하시며 죽이시고 긍휼을 베풀지 아니하셨나이다",
+      "en": "\"You have covered yourself with anger and pursued us; you have slain without pity.",
+      "de": "sondern du hast uns mit Zorn überschüttet und verfolgt und ohne Barmherzigkeit erwürgt.",
+      "zh": "你自被怒气遮蔽，追赶我们； 你施行杀戮，并不顾惜。",
+      "ja": "なんぢ震怒をもてみづから蔽ひ 我らを追攻め殺してあはれまず"
+    },
+    {
+      "number": 44,
+      "ko": "주께서 구름으로 자신을 가리사 기도가 상달되지 못하게 하시고",
+      "en": "You have covered yourself with a cloud so that no prayer can get through.",
+      "de": "Du hast dich mit einer Wolke verdeckt, daß kein Gebet hindurch konnte.",
+      "zh": "你以黑云遮蔽自己， 以致祷告不得透入。",
+      "ja": "雲をもてみづから蔽ひ 祈禱をして通ぜざらしめ"
+    },
+    {
+      "number": 45,
+      "ko": "우리를 뭇 나라 가운데에서 쓰레기와 폐물로 삼으셨으므로",
+      "en": "You have made us scum and refuse among the nations.",
+      "de": "Du hast uns zu Kot und Unflat gemacht unter den Völkern.",
+      "zh": "你使我们在万民中成为污秽和渣滓。",
+      "ja": "もろもろの民の中にわれらを塵埃となしたまへり"
+    },
+    {
+      "number": 46,
+      "ko": "우리의 모든 원수들이 우리를 향하여 그들의 입을 크게 벌렸나이다",
+      "en": "\"All our enemies have opened their mouths wide against us.",
+      "de": "Alle unsre Feinde sperren ihr Maul auf wider uns.",
+      "zh": "我们的仇敌都向我们大大张口。",
+      "ja": "敵は皆われらにむかひて口を張れり"
+    },
+    {
+      "number": 47,
+      "ko": "두려움과 함정과 파멸과 멸망이 우리에게 임하였도다",
+      "en": "We have suffered terror and pitfalls, ruin and destruction.\"",
+      "de": "Wir werden gedrückt und geplagt mit Schrecken und Angst.",
+      "zh": "恐惧和陷坑，残害和毁灭， 都临近我们。",
+      "ja": "恐懼と陷阱また暴行と滅亡我らに來れり"
+    },
+    {
+      "number": 48,
+      "ko": "딸 내 백성의 파멸로 말미암아 내 눈에는 눈물이 시내처럼 흐르도다",
+      "en": "Streams of tears flow from my eyes because my people are destroyed.",
+      "de": "Meine Augen rinnen mit Wasserbächen über den Jammer der Tochter meines Volks.",
+      "zh": "因我众民遭的毁灭， 我就眼泪下流如河。",
+      "ja": "わが民の女の滅亡によりてわが眼には涙の河ながる"
+    },
+    {
+      "number": 49,
+      "ko": "내 눈에 흐르는 눈물이 그치지 아니하고 쉬지 아니함이여",
+      "en": "My eyes will flow unceasingly, without relief,",
+      "de": "Meine Augen fließen und können nicht ablassen; denn es ist kein Aufhören da,",
+      "zh": "我的眼多多流泪， 总不止息，",
+      "ja": "わが目は斷ず涙をそそぎて止ず"
+    },
+    {
+      "number": 50,
+      "ko": "여호와께서 하늘에서 살피시고 돌아보실 때까지니라",
+      "en": "until the LORD looks down from heaven and sees.",
+      "de": "bis der HERR vom Himmel herabschaue uns sehe darein.",
+      "zh": "直等耶和华垂顾， 从天观看。",
+      "ja": "天よりヱホバの臨み見て顧みたまふ時にまで至らん"
+    },
+    {
+      "number": 51,
+      "ko": "나의 성읍의 모든 여자들을 내 눈으로 보니 내 심령이 상하는도다",
+      "en": "What I see brings grief to my soul because of all the women of my city.",
+      "de": "Mein Auge frißt mir das Leben weg um die Töchter meiner Stadt.",
+      "zh": "因我本城的众民， 我的眼，使我的心伤痛。",
+      "ja": "わが邑の一切の女等の故によりてわが眼はわが心をいたましむ"
+    },
+    {
+      "number": 52,
+      "ko": "나의 원수들이 이유없이 나를 새처럼 사냥하는도다",
+      "en": "Those who were my enemies without cause hunted me like a bird.",
+      "de": "Meine Feinde haben mich gehetzt wie einen Vogel ohne Ursache;",
+      "zh": "无故与我为仇的追逼我， 像追雀鸟一样。",
+      "ja": "故なくして我に敵する者ども鳥を追ごとくにいたく我をおひ"
+    },
+    {
+      "number": 53,
+      "ko": "그들이 내 생명을 끊으려고 나를 구덩이에 넣고 그 위에 돌을 던짐이여",
+      "en": "They tried to end my life in a pit and threw stones at me;",
+      "de": "sie haben mein Leben in einer Grube fast umgebracht und Steine auf mich geworfen;",
+      "zh": "他们使我的命在牢狱中断绝， 并将一块石头抛在我身上。",
+      "ja": "わが生命を坑の中にほろぼし わが上に石を投かけ"
+    },
+    {
+      "number": 54,
+      "ko": "물이 내 머리 위로 넘치니 내가 스스로 이르기를 이제는 멸절되었다 하도다",
+      "en": "the waters closed over my head, and I thought I was about to be cut off.",
+      "de": "sie haben mein Haupt mit Wasser überschüttet; da sprach ich: Nun bin ich gar dahin.",
+      "zh": "众水流过我头， 我说：我命断绝了！",
+      "ja": "また水わが頭の上に溢る 我みづから言り滅びうせぬと"
+    },
+    {
+      "number": 55,
+      "ko": "여호와여 내가 심히 깊은 구덩이에서 주의 이름을 불렀나이다",
+      "en": "I called on your name, O LORD, from the depths of the pit.",
+      "de": "Ich rief aber deinen Namen an, HERR, unten aus der Grube,",
+      "zh": "耶和华啊， 我从深牢中求告你的名。",
+      "ja": "ヱホバよ われ深き坑の底より汝の名を呼り"
+    },
+    {
+      "number": 56,
+      "ko": "주께서 이미 나의 음성을 들으셨사오니 이제 나의 탄식과 부르짖음에 주의 귀를 가리지 마옵소서",
+      "en": "You heard my plea: \"Do not close your ears to my cry for relief.\"",
+      "de": "und du erhörtest meine Stimme: Verbirg deine Ohren nicht vor meinem Seufzen und Schreien!",
+      "zh": "你曾听见我的声音； 我求你解救， 你不要掩耳不听。",
+      "ja": "なんぢ我が聲を聽たまへり わが哀歎と祈求に耳をおほひたまふなかれ"
+    },
+    {
+      "number": 57,
+      "ko": "내가 주께 아뢴 날에 주께서 내게 가까이 하여 이르시되 두려워하지 말라 하셨나이다",
+      "en": "You came near when I called you, and you said, \"Do not fear.\"",
+      "de": "Du nahest dich zu mir, wenn ich dich anrufe, und sprichst: Fürchte dich nicht!",
+      "zh": "我求告你的日子，你临近我， 说：不要惧怕！",
+      "ja": "わが汝を龥たりし時なんぢは近よりたまひて恐るるなかれと宣へり"
+    },
+    {
+      "number": 58,
+      "ko": "주여 주께서 내 심령의 원통함을 풀어 주셨고 내 생명을 속량하셨나이다",
+      "en": "O Lord, you took up my case; you redeemed my life.",
+      "de": "Du führest, Herr, die Sache meiner Seele und erlösest mein Leben.",
+      "zh": "主啊，你伸明了我的冤； 你救赎了我的命。",
+      "ja": "主よなんぢはわが靈魂の訴を助け伸べ わが生命を贖ひ給へり"
+    },
+    {
+      "number": 59,
+      "ko": "여호와여 나의 억울함을 보셨사오니 나를 위하여 원통함을 풀어주옵소서",
+      "en": "You have seen, O LORD, the wrong done to me. Uphold my cause!",
+      "de": "Du siehest, HERR, wie mir so Unrecht geschieht; hilf mir zu meinem Recht!",
+      "zh": "耶和华啊，你见了我受的委屈； 求你为我伸冤。",
+      "ja": "ヱホバよ なんぢは我がかうむりたる不義を見たまへり 願はくは我に正しき審判を與へたまへ"
+    },
+    {
+      "number": 60,
+      "ko": "그들이 내게 보복하며 나를 모해함을 주께서 다 보셨나이다",
+      "en": "You have seen the depth of their vengeance, all their plots against me.",
+      "de": "Du siehst alle ihre Rache und alle ihre Gedanken wider mich.",
+      "zh": "他们仇恨我，谋害我， 你都看见了。",
+      "ja": "なんぢは彼らが我を怨み われを害せんとはかるを凡て見たまへり"
+    },
+    {
+      "number": 61,
+      "ko": "여호와여 그들이 나를 비방하며 나를 모해하는 모든 것",
+      "en": "O LORD, you have heard their insults, all their plots against me--",
+      "de": "HERR, du hörest ihr Schmähen und alle ihre Gedanken über mich,",
+      "zh": "耶和华啊，你听见他们辱骂我的话， 知道他们向我所设的计，",
+      "ja": "ヱホバよなんぢは彼らが我を詈り 我を害せんとはかるを凡て聞たまへり"
+    },
+    {
+      "number": 62,
+      "ko": "곧 일어나 나를 치는 자들의 입술에서 나오는 것들과 종일 나를 모해하는 것들을 들으셨나이다",
+      "en": "what my enemies whisper and mutter against me all day long.",
+      "de": "die Lippen meiner Widersacher und ihr dichten wider mich täglich.",
+      "zh": "并那些起来攻击我的人口中所说的话， 以及终日向我所设的计谋。",
+      "ja": "かの立て我に逆らふ者等の言語およびその終日われを攻んとて運らす謀計もまた汝これを聞たまへり"
+    },
+    {
+      "number": 63,
+      "ko": "그들이 앉으나 서나 나를 조롱하여 노래하는 것을 주목하여 보옵소서",
+      "en": "Look at them! Sitting or standing, they mock me in their songs.",
+      "de": "Schaue doch, sie sitzen oder stehen auf, so singen sie von mir ein Liedlein.",
+      "zh": "求你观看， 他们坐下，起来，都以我为歌曲。",
+      "ja": "ねがはくは彼らの起居をかんがみたまへ 我はかれらに歌ひそしらる"
+    },
+    {
+      "number": 64,
+      "ko": "여호와여 주께서 그들의 손이 행한 대로 그들에게 보응하사",
+      "en": "Pay them back what they deserve, O LORD, for what their hands have done.",
+      "de": "Vergilt ihnen, HERR, wie sie verdient haben!",
+      "zh": "耶和华啊，你要按着他们手所做的 向他们施行报应。",
+      "ja": "ヱホバよ なんぢは彼らが手に爲すところに循がひて報をなし"
+    },
+    {
+      "number": 65,
+      "ko": "그들에게 거만한 마음을 주시고 그들에게 저주를 내리소서",
+      "en": "Put a veil over their hearts, and may your curse be on them!",
+      "de": "Laß ihnen das Herz erschrecken, laß sie deinen Fluch fühlen!",
+      "zh": "你要使他们心里刚硬， 使你的咒诅临到他们。",
+      "ja": "かれらをして心くらからしめたまはん なんぢの呪詛かれらに歸せよ"
+    },
+    {
+      "number": 66,
+      "ko": "주께서 진노로 그들을 뒤쫓으사 여호와의 하늘 아래에서 멸하소서",
+      "en": "Pursue them in anger and destroy them from under the heavens of the LORD.",
+      "de": "Verfolge sie mit deinem Grimm und vertilge sie unter dem Himmel des HERRN.",
+      "zh": "你要发怒追赶他们， 从耶和华的天下除灭他们。",
+      "ja": "なんぢは震怒をもてかれらを追ひ ヱホバの天の下よりかれらをほろぼし絶たまはん"
+    }
+  ]
+}

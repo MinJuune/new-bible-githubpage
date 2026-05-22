@@ -1,0 +1,238 @@
+{
+  "book": "Numbers",
+  "chapter": 34,
+  "verses": [
+    {
+      "number": 1,
+      "ko": "여호와께서 모세에게 말씀하여 이르시되",
+      "en": "The LORD said to Moses,",
+      "de": "Und der HERR redete mit Mose und sprach:",
+      "zh": "耶和华晓谕摩西说：",
+      "ja": "ヱホバ、モーセに告て言たまはく"
+    },
+    {
+      "number": 2,
+      "ko": "너는 이스라엘 자손에게 명령하여 그들에게 이르라 너희가 가나안 땅에 들어가는 때에 그 땅은 너희의 기업이 되리니 곧 가나안 사방 지경이라",
+      "en": "\"Command the Israelites and say to them: 'When you enter Canaan, the land that will be allotted to you as an inheritance will have these boundaries:",
+      "de": "Gebiete den Kindern Israel und sprich zu ihnen: Wenn ihr ins Land Kanaan kommt, so soll dies das Land sein, das euch zum Erbteil fällt, das Land Kanaan nach seinen Grenzen.",
+      "zh": "「你吩咐以色列人说：你们到了迦南地，就是归你们为业的迦南四境之地，",
+      "ja": "イスラエルの子孫に告てこれに言へ汝らがカナンの地にいる時に汝らに歸して產業となる地は是なり即ち是カナンの地その境に循へる者"
+    },
+    {
+      "number": 3,
+      "ko": "너희 남쪽은 에돔 곁에 접근한 신 광야니 너희의 남쪽 경계는 동쪽으로 염해 끝에서 시작하여",
+      "en": "\"'Your southern side will include some of the Desert of Zin along the border of Edom. On the east, your southern boundary will start from the end of the Salt Sea,",
+      "de": "Die Ecke gegen Mittag soll anfangen an der Wüste Zin bei Edom, daß eure Grenze gegen Mittag sei vom Ende des Salzmeeres, das gegen Morgen liegt,",
+      "zh": "南角要从寻的旷野，贴着以东的边界；南界要从盐海东头起，",
+      "ja": "汝らの南の方はエドムに接すろチンの曠野より起り南の界は鹽海の極端より東の方にいたるべし"
+    },
+    {
+      "number": 4,
+      "ko": "돌아서 아그랍빔 언덕 남쪽에 이르고 신을 지나 가데스바네아 남쪽에 이르고 또 하살아달을 지나 아스몬에 이르고",
+      "en": "cross south of Scorpion Pass, continue on to Zin and go south of Kadesh Barnea. Then it will go to Hazar Addar and over to Azmon,",
+      "de": "und das die Grenze sich lenke mittagwärts von der Steige Akrabbim und gehe durch Zin, und ihr Ausgang sei mittagwärts von Kades-Barnea und gelange zum Dorf Adar und gehe durch Azmon",
+      "zh": "绕到亚克拉滨坡的南边，接连到寻，直通到加低斯·巴尼亚的南边，又通到哈萨·亚达，接连到押们，",
+      "ja": "また汝らの界は南より繞りてアクラビムの坂にいたりてチンに赴き南よりカデシバルネアに亘りハザルアダルに進みアズモンに赴くべし"
+    },
+    {
+      "number": 5,
+      "ko": "아스몬에서 돌아서 애굽 시내를 지나 바다까지 이르느니라",
+      "en": "where it will turn, join the Wadi of Egypt and end at the Sea.",
+      "de": "und lenke sich von Azmon an den Bach Ägyptens, und ihr Ende sei an dem Meer.",
+      "zh": "从押们转到埃及小河，直通到海为止。",
+      "ja": "その界はまたアズモンより繞りてエジプトの河にいたり海におよびて盡べし"
+    },
+    {
+      "number": 6,
+      "ko": "서쪽 경계는 대해가 경계가 되나니 이는 너희의 서쪽 경계니라",
+      "en": "\"'Your western boundary will be the coast of the Great Sea. This will be your boundary on the west.",
+      "de": "Aber die Grenze gegen Abend soll diese sein, nämlich das große Meer. Das sei eure Grenze gegen Abend.",
+      "zh": "「西边要以大海为界；这就是你们的西界。",
+      "ja": "西の界においては大海をもてその界とすべし是を汝らの西の界とす"
+    },
+    {
+      "number": 7,
+      "ko": "북쪽 경계는 이러하니 대해에서부터 호르 산까지 그어라",
+      "en": "\"'For your northern boundary, run a line from the Great Sea to Mount Hor",
+      "de": "Die Grenze gegen Mitternacht soll diese sein: ihr sollt messen von dem großen Meer bis an den Berg Hor,",
+      "zh": "「北界要从大海起，划到何珥山，",
+      "ja": "汝らの北の界は是のごとし即ち大海よりホル山までを畫り"
+    },
+    {
+      "number": 8,
+      "ko": "호르 산에서 그어 하맛 어귀에 이르러 스닷에 이르고",
+      "en": "and from Mount Hor to Lebo Hamath. Then the boundary will go to Zedad,",
+      "de": "und von dem Berg Hor messen, bis man kommt gen Hamath, das der Ausgang der Grenze sei gen Zedad",
+      "zh": "从何珥山划到哈马口，通到西达达，",
+      "ja": "ホル山よりハマテの入口までを畫りその界をしてゼダデまで亘らしむべし"
+    },
+    {
+      "number": 9,
+      "ko": "그 경계가 또 시브론을 지나 하살에난에 이르나니 이는 너희의 북쪽 경계니라",
+      "en": "continue to Ziphron and end at Hazar Enan. This will be your boundary on the north.",
+      "de": "und die Grenze ausgehe gen Siphron und ihr Ende sei am Dorf Enan. Das sei eure Grenze gegen Mitternacht.",
+      "zh": "又通到西斐 ，直到哈萨·以难。这要作你们的北界。",
+      "ja": "またその界はジフロンに進みハザルエノンにいたりて盡べし是を汝らの北の界とす"
+    },
+    {
+      "number": 10,
+      "ko": "너희의 동쪽 경계는 하살에난에서 그어 스밤에 이르고",
+      "en": "\"'For your eastern boundary, run a line from Hazar Enan to Shepham.",
+      "de": "Und sollt messen die Grenze gegen Morgen vom Dorf Enan gen Sepham,",
+      "zh": "「你们要从哈萨·以难划到示番为东界。",
+      "ja": "汝らの東の界はハザルエノンよりシバムまでを畫るべし"
+    },
+    {
+      "number": 11,
+      "ko": "그 경계가 또 스밤에서 리블라로 내려가서 아인 동쪽에 이르고 또 내려가서 긴네렛 동쪽 해변에 이르고",
+      "en": "The boundary will go down from Shepham to Riblah on the east side of Ain and continue along the slopes east of the Sea of Kinnereth.",
+      "de": "und die Grenze gehe herab von Sepham gen Ribla morgenwärts von Ain; darnach gehe sie herab und lenke sich an die Seite des Meers Kinneret gegen Morgen",
+      "zh": "这界要从示番下到亚延东边的利比拉，又要达到基尼烈湖的东边。",
+      "ja": "またその界はアインの東の方においてシバムよりリブラに下りゆくべし斯その界は下りてキンネレテの海の東の傍に抵り"
+    },
+    {
+      "number": 12,
+      "ko": "그 경계가 또 요단으로 내려가서 염해에 이르나니 너희 땅의 사방 경계가 이러하니라",
+      "en": "Then the boundary will go down along the Jordan and end at the Salt Sea. \"'This will be your land, with its boundaries on every side.'\"",
+      "de": "und komme herab an den Jordan, daß ihr Ende sei das Salzmeer. Das sei euer Land mit seiner Grenze umher.",
+      "zh": "这界要下到约旦河，通到盐海为止。这四围的边界以内，要作你们的地。」",
+      "ja": "その界ヨルダンに下りゆきて鹽海におよびて盡べし汝らの國はその周圍の界に依ば是のごとくなるべし"
+    },
+    {
+      "number": 13,
+      "ko": "모세가 이스라엘 자손에게 명령하여 이르되 이는 너희가 제비 뽑아 받을 땅이라 여호와께서 이것을 아홉 지파 반 쪽에게 주라고 명령하셨나니",
+      "en": "Moses commanded the Israelites: \"Assign this land by lot as an inheritance. The LORD has ordered that it be given to the nine and a half tribes,",
+      "de": "Und Mose gebot den Kindern Israel und sprach: Das ist das Land, das ihr durchs Los unter euch teilen sollt, das der HERR geboten hat den neun Stämmen und dem halben Stamm zu geben.",
+      "zh": "摩西吩咐以色列人说：「这地就是耶和华吩咐拈阄给九个半支派承受为业的；",
+      "ja": "モーセ、イスラエルの子孫に命じて言けるは是すなはち汝らが鬮をもて獲べき地なりヱホバこれを九の支派と半支派とに與へよと命じたまふ"
+    },
+    {
+      "number": 14,
+      "ko": "이는 르우벤 자손의 지파와 갓 자손의 지파가 함께 그들의 조상의 가문에 따라 그들의 기업을 받을 것이며 므낫세의 반쪽도 기업을 받았음이니라",
+      "en": "because the families of the tribe of Reuben, the tribe of Gad and the half-tribe of Manasseh have received their inheritance.",
+      "de": "Denn der Stamm der Kinder Ruben nach ihren Vaterhäusern und der halbe Stamm Manasse haben ihr Teil genommen.",
+      "zh": "因为吕便支派和迦得支派按着宗族受了产业，玛拿西半个支派也受了产业。",
+      "ja": "そはルベンの子孫の支派とガドの子孫の支派はともにその宗族にしたがひてその產業を受けまたマナセの半支派もその產業を受たればなり"
+    },
+    {
+      "number": 15,
+      "ko": "이 두 지파와 그 반 지파는 여리고 맞은편 요단 건너편 곧 해 돋는 쪽에서 그들의 기업을 받으리라",
+      "en": "These two and a half tribes have received their inheritance on the east side of the Jordan of Jericho, toward the sunrise.\"",
+      "de": "Also haben zwei Stämme und der halbe Stamm ihr Erbteil dahin, diesseit des Jordans gegenüber Jericho gegen Morgen.",
+      "zh": "这两个半支派已经在耶利哥对面、约旦河东、向日出之地受了产业。」",
+      "ja": "この二の支派と半支派とはヱリコに對するヨルダンの彼旁すなはちその東日の出る方においてその產業を受たり"
+    },
+    {
+      "number": 16,
+      "ko": "여호와께서 또 모세에게 말씀하여 이르시되",
+      "en": "The LORD said to Moses,",
+      "de": "Und der HERR redete mit Mose und sprach:",
+      "zh": "耶和华晓谕摩西说：",
+      "ja": "ヱホバまたモーセに告て言たまはく"
+    },
+    {
+      "number": 17,
+      "ko": "너희에게 땅을 기업으로 나눌 자의 이름은 이러하니 제사장 엘르아살과 눈의 아들 여호수아니라",
+      "en": "\"These are the names of the men who are to assign the land for you as an inheritance: Eleazar the priest and Joshua son of Nun.",
+      "de": "Das sind die Namen der Männer, die das Land unter euch teilen sollen: der Priester Eleasar und Josua, der Sohn Nuns.",
+      "zh": "「要给你们分地为业之人的名字是祭司以利亚撒和嫩的儿子约书亚。",
+      "ja": "汝らに地を分つ人々の名は是なり即ち祭司エレアザルとヌンの子ヨシユア"
+    },
+    {
+      "number": 18,
+      "ko": "너희는 또 기업의 땅을 나누기 위하여 각 지파에 한 지휘관씩 택하라",
+      "en": "And appoint one leader from each tribe to help assign the land.",
+      "de": "Dazu sollt ihr nehmen von einem jeglichen Stamm einen Fürsten, das Land auszuteilen.",
+      "zh": "又要从每支派中选一个首领帮助他们。",
+      "ja": "汝らまた各箇の支派より牧伯一人づつを簡びて地を分つことを爲しむべし"
+    },
+    {
+      "number": 19,
+      "ko": "그 사람들의 이름은 이러하니 유다 지파에서는 여분네의 아들 갈렙이요",
+      "en": "These are their names: Caleb son of Jephunneh, from the tribe of Judah;",
+      "de": "Und das sind der Männer Namen: Kaleb, der Sohn Jephunnes, des Stammes Juda;",
+      "zh": "这些人的名字：犹大支派有耶孚尼的儿子迦勒。",
+      "ja": "その人々の名は是のごとしユダの支派にてはエフンネの子カルブ"
+    },
+    {
+      "number": 20,
+      "ko": "시므온 지파에서는 암미훗의 아들 스므엘이요",
+      "en": "Shemuel son of Ammihud, from the tribe of Simeon;",
+      "de": "Samuel, der Sohn Ammihuds, des Stammes Simeon;",
+      "zh": "西缅支派有亚米忽的儿子示母利。",
+      "ja": "シメオンの子孫の支派にてはアミホデの子サムエル"
+    },
+    {
+      "number": 21,
+      "ko": "베냐민 지파에서는 기슬론의 아들 엘리닷이요",
+      "en": "Elidad son of Kislon, from the tribe of Benjamin;",
+      "de": "Elidad, der Sohn Chislons, des Stammes Benjamin;",
+      "zh": "便雅悯支派有基斯伦的儿子以利达。",
+      "ja": "ベニヤミンの支派にてはキスロンの子エリダデ"
+    },
+    {
+      "number": 22,
+      "ko": "단 자손 지파에서는 지휘관 요글리의 아들 북기요",
+      "en": "Bukki son of Jogli, the leader from the tribe of Dan;",
+      "de": "Bukki, der Sohn Joglis, Fürst des Stammes der Kinder Dan;",
+      "zh": "但支派有一个首领，约利的儿子布基。",
+      "ja": "ダンの子孫の支派の牧伯はヨグリの子ブッキ"
+    },
+    {
+      "number": 23,
+      "ko": "요셉 자손 중 므낫세 자손 지파에서는 지휘관 에봇의 아들 한니엘이요",
+      "en": "Hanniel son of Ephod, the leader from the tribe of Manasseh son of Joseph;",
+      "de": "Hanniel, der Sohn Ephods, Fürst des Stammes der Kinder Manasse, von den Kindern Joseph;",
+      "zh": "约瑟的子孙玛拿西支派有一个首领，以弗的儿子汉聂。",
+      "ja": "ヨセフの子孫すなはちマナセの子孫の支派の牧伯はエポデの子ハニエル"
+    },
+    {
+      "number": 24,
+      "ko": "에브라임 자손 지파에서는 지휘관 십단의 아들 그므엘이요",
+      "en": "Kemuel son of Shiphtan, the leader from the tribe of Ephraim son of Joseph;",
+      "de": "Kemuel, der Sohn Siphtans, Fürst des Stammes der Kinder Ephraim;",
+      "zh": "以法莲支派有一个首领，拾弗但的儿子基母利。",
+      "ja": "エフライムの子孫の支派の牧伯はシフタンの子ケムエル"
+    },
+    {
+      "number": 25,
+      "ko": "스불론 자손 지파에서는 지휘관 바르낙의 아들 엘리사반이요",
+      "en": "Elizaphan son of Parnach, the leader from the tribe of Zebulun;",
+      "de": "Elizaphan, der Sohn Parnachs, Fürst des Stammes der Kinder Sebulon;",
+      "zh": "西布伦支派有一个首领，帕纳的儿子以利撒番。",
+      "ja": "ゼブルンの子孫の支派の牧伯はパルナクの子エリザバン"
+    },
+    {
+      "number": 26,
+      "ko": "잇사갈 자손 지파에서는 지휘관 앗산의 아들 발디엘이요",
+      "en": "Paltiel son of Azzan, the leader from the tribe of Issachar;",
+      "de": "Paltiel, der Sohn Assans, der Fürst des Stammes der Kinder Isaschar;",
+      "zh": "以萨迦支派有一个首领，阿散的儿子帕铁。",
+      "ja": "イッサカルの子孫の支派の牧伯はアザンの子パルテエル"
+    },
+    {
+      "number": 27,
+      "ko": "아셀 자손 지파에서는 지휘관 슬로미의 아들 아히훗이요",
+      "en": "Ahihud son of Shelomi, the leader from the tribe of Asher;",
+      "de": "Ahihud, der Sohn Selomis, Fürst des Stammes der Kinder Asser;",
+      "zh": "亚设支派有一个首领，示罗米的儿子亚希忽。",
+      "ja": "アセルの子孫の支派の牧伯はシロミの子アヒウデ"
+    },
+    {
+      "number": 28,
+      "ko": "납달리 자손 지파에서는 지휘관 암미훗의 아들 브다헬이니라 하셨느니라",
+      "en": "Pedahel son of Ammihud, the leader from the tribe of Naphtali.\"",
+      "de": "Pedahel, der Sohn Ammihuds, Fürst des Stammes der Kinder Naphthali.",
+      "zh": "拿弗他利支派有一个首领，亚米忽的儿子比大黑。」",
+      "ja": "ナフタリの子孫の支派の牧伯はアミホデの子パダヘル"
+    },
+    {
+      "number": 29,
+      "ko": "이들이 여호와께서 명령하사 가나안 땅에서 이스라엘 자손에게 기업을 받게 하신 자들이니라",
+      "en": "These are the men the LORD commanded to assign the inheritance to the Israelites in the land of Canaan.",
+      "de": "Dies sind die, denen der HERR gebot, daß sie den Kindern Israel Erbe austeilten im Lande Kanaan.",
+      "zh": "这些人就是耶和华所吩咐、在迦南地把产业分给以色列人的。",
+      "ja": "カナンの地においてイスラエルの子孫に產業を分つことをヱホバの命じたまへる人は是のごとし"
+    }
+  ]
+}

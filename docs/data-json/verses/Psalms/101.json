@@ -1,0 +1,70 @@
+{
+  "book": "Psalms",
+  "chapter": 101,
+  "verses": [
+    {
+      "number": 1,
+      "ko": "내가 인자와 정의를 노래하겠나이다 여호와여 내가 주께 찬양하리이다",
+      "en": "Of David. A psalm. I will sing of your love and justice; to you, O LORD, I will sing praise.",
+      "de": "Ein Psalm Davids. Von Gnade und Recht will ich singen und dir, HERR, lobsagen.",
+      "zh": "大卫的诗。 我要歌唱慈爱和公平； 耶和华啊，我要向你歌颂！",
+      "ja": "われ憐憫と審判とをうたはん ヱホバよ我なんぢを讃うたはん"
+    },
+    {
+      "number": 2,
+      "ko": "내가 완전한 길을 주목하오리니 주께서 어느 때나 내게 임하시겠나이까 내가 완전한 마음으로 내 집 안에서 행하리이다",
+      "en": "I will be careful to lead a blameless life--when will you come to me? I will walk in my house with blameless heart.",
+      "de": "Ich handle vorsichtig und redlich bei denen, die mir zugehören, und wandle treulich in meinem Hause.",
+      "zh": "我要用智慧行完全的道。 你几时到我这里来呢？ 我要存完全的心行在我家中。",
+      "ja": "われ心をさとくして全き道をまもらん なんぢいづれの時われにきたりたまふや 我なほき心をもてわが家のうちをありかん"
+    },
+    {
+      "number": 3,
+      "ko": "나는 비천한 것을 내 눈 앞에 두지 아니할 것이요 배교자들의 행위를 내가 미워하오리니 나는 그 어느 것도 붙들지 아니하리이다",
+      "en": "I will set before my eyes no vile thing. The deeds of faithless men I hate; they will not cling to me.",
+      "de": "Ich nehme mir keine böse Sache vor; ich hasse den Übeltäter und lasse ihn nicht bei mir bleiben.",
+      "zh": "邪僻的事，我都不摆在我眼前； 悖逆人所做的事，我甚恨恶， 不容沾在我身上。",
+      "ja": "われわが眼前にいやしき事をおかず われ叛くものの業をにくむ そのわざは我につかじ"
+    },
+    {
+      "number": 4,
+      "ko": "사악한 마음이 내게서 떠날 것이니 악한 일을 내가 알지 아니하리로다",
+      "en": "Men of perverse heart shall be far from me; I will have nothing to do with evil.",
+      "de": "Ein verkehrtes Herz muß von mir weichen; den Bösen leide ich nicht.",
+      "zh": "弯曲的心思，我必远离； 一切的恶人，我不认识。",
+      "ja": "僻めるこころは我よりはなれん 惡きものを知ることをこのまず"
+    },
+    {
+      "number": 5,
+      "ko": "자기의 이웃을 은근히 헐뜯는 자를 내가 멸할 것이요 눈이 높고 마음이 교만한 자를 내가 용납하지 아니하리로다",
+      "en": "Whoever slanders his neighbor in secret, him will I put to silence; whoever has haughty eyes and a proud heart, him will I not endure.",
+      "de": "Der seinen Nächsten heimlich verleumdet, den vertilge ich; ich mag den nicht, der stolze Gebärde und hohen Mut hat.",
+      "zh": "在暗中谗谤他邻居的，我必将他灭绝； 眼目高傲、心里骄纵的，我必不容他。",
+      "ja": "隠にその友をそしるものは我これをほろぼさん 高ぶる眼また驕れる心のものは我これをしのばじ"
+    },
+    {
+      "number": 6,
+      "ko": "내 눈이 이 땅의 충성된 자를 살펴 나와 함께 살게 하리니 완전한 길에 행하는 자가 나를 따르리로다",
+      "en": "My eyes will be on the faithful in the land, that they may dwell with me; he whose walk is blameless will minister to me.",
+      "de": "Meine Augen sehen nach den Treuen im Lande, daß sie bei mir wohnen; und habe gerne fromme Diener.",
+      "zh": "我眼要看国中的诚实人，叫他们与我同住； 行为完全的，他要伺候我。",
+      "ja": "わが眼は國のうちの忠なる者をみて之をわれとともに住はせん 全き道をあゆむ人はわれに事へん"
+    },
+    {
+      "number": 7,
+      "ko": "거짓을 행하는 자는 내 집 안에 거주하지 못하며 거짓말하는 자는 내 목전에 서지 못하리로다",
+      "en": "No one who practices deceit will dwell in my house; no one who speaks falsely will stand in my presence.",
+      "de": "Falsche Leute halte ich nicht in meinem Hause; die Lügner gedeihen bei mir nicht.",
+      "zh": "行诡诈的，必不得住在我家里； 说谎话的，必不得立在我眼前。",
+      "ja": "欺くことをなす者はわが家のうちに住むことをえず 虚偽をいふものはわが目前にたつことを得じ"
+    },
+    {
+      "number": 8,
+      "ko": "아침마다 내가 이 땅의 모든 악인을 멸하리니 악을 행하는 자는 여호와의 성에서 다 끊어지리로다",
+      "en": "Every morning I will put to silence all the wicked in the land; I will cut off every evildoer from the city of the LORD.",
+      "de": "Jeden Morgen will ich vertilgen alle Gottlosen im Lande, daß ich alle Übeltäter ausrotte aus der Stadt des HERRN.",
+      "zh": "我每日早晨要灭绝国中所有的恶人， 好把一切作孽的从耶和华的城里剪除。",
+      "ja": "われ朝な朝なこの國のあしき者をことごとく滅し ヱホバの邑より不義をおこなふ者をことごとく絶除かん"
+    }
+  ]
+}

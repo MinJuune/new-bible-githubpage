@@ -1,0 +1,230 @@
+{
+  "book": "Proverbs",
+  "chapter": 28,
+  "verses": [
+    {
+      "number": 1,
+      "ko": "악인은 쫓아오는 자가 없어도 도망하나 의인은 사자 같이 담대하니라",
+      "en": "The wicked man flees though no one pursues, but the righteous are as bold as a lion.",
+      "de": "Der Gottlose flieht, und niemand jagt ihn; der Gerechte aber ist getrost wie ein junger Löwe.",
+      "zh": "恶人虽无人追赶也逃跑； 义人却胆壮像狮子。",
+      "ja": "惡者は逐ふ者なけれども逃げ 義者は獅子のごとくに勇まし"
+    },
+    {
+      "number": 2,
+      "ko": "나라는 죄가 있으면 주관자가 많아져도 명철과 지식 있는 사람으로 말미암아 장구하게 되느니라",
+      "en": "When a country is rebellious, it has many rulers, but a man of understanding and knowledge maintains order.",
+      "de": "Um des Landes Sünde willen werden viel Änderungen der Fürstentümer; aber um der Leute willen, die verständig und vernünftig sind, bleiben sie lange.",
+      "zh": "邦国因有罪过，君王就多更换； 因有聪明知识的人，国必长存。",
+      "ja": "國の罪によりて侯伯多くなり 智くして知識ある人によりて國は長く保つ"
+    },
+    {
+      "number": 3,
+      "ko": "가난한 자를 학대하는 가난한 자는 곡식을 남기지 아니하는 폭우 같으니라",
+      "en": "A ruler who oppresses the poor is like a driving rain that leaves no crops.",
+      "de": "Ein armer Mann, der die Geringen bedrückt, ist wie ein Meltau, der die Frucht verdirbt.",
+      "zh": "穷人欺压贫民， 好像暴雨冲没粮食。",
+      "ja": "弱者を虐ぐる貧人は糧をのこさざる暴しき雨のごとし"
+    },
+    {
+      "number": 4,
+      "ko": "율법을 버린 자는 악인을 칭찬하나 율법을 지키는 자는 악인을 대적하느니라",
+      "en": "Those who forsake the law praise the wicked, but those who keep the law resist them.",
+      "de": "Die das Gesetz verlassen, loben den Gottlosen; die es aber bewahren, sind unwillig auf sie.",
+      "zh": "违弃律法的，夸奖恶人； 遵守律法的，却与恶人相争。",
+      "ja": "律法を棄るものは惡者をほめ 律法を守る者はこれに敵す"
+    },
+    {
+      "number": 5,
+      "ko": "악인은 정의를 깨닫지 못하나 여호와를 찾는 자는 모든 것을 깨닫느니라",
+      "en": "Evil men do not understand justice, but those who seek the LORD understand it fully.",
+      "de": "Böse Leute merken nicht aufs Recht; die aber nach dem HERRN fragen, merken auf alles.",
+      "zh": "坏人不明白公义； 惟有寻求耶和华的，无不明白。",
+      "ja": "惡人は義きことを覺らず ヱホバを求むる者は凡の事をさとる"
+    },
+    {
+      "number": 6,
+      "ko": "가난하여도 성실하게 행하는 자는 부유하면서 굽게 행하는 자보다 나으니라",
+      "en": "Better a poor man whose walk is blameless than a rich man whose ways are perverse.",
+      "de": "Es ist besser ein Armer, der in seiner Frömmigkeit geht, denn ein Reicher, der in verkehrten Wegen geht.",
+      "zh": "行为纯正的穷乏人 胜过行事乖僻的富足人。",
+      "ja": "義しくあゆむ貧者は曲れる路をあゆむ富者に愈る"
+    },
+    {
+      "number": 7,
+      "ko": "율법을 지키는 자는 지혜로운 아들이요 음식을 탐하는 자와 사귀는 자는 아비를 욕되게 하는 자니라",
+      "en": "He who keeps the law is a discerning son, but a companion of gluttons disgraces his father.",
+      "de": "Wer das Gesetz bewahrt, ist ein verständiges Kind; wer aber der Schlemmer Geselle ist, schändet seinen Vater.",
+      "zh": "谨守律法的，是智慧之子； 与贪食人作伴的，却羞辱其父。",
+      "ja": "律法を守る者は智子なり 放蕩なる者に交るものは父を辱かしむ"
+    },
+    {
+      "number": 8,
+      "ko": "중한 변리로 자기 재산을 늘이는 것은 가난한 사람을 불쌍히 여기는 자를 위해 그 재산을 저축하는 것이니라",
+      "en": "He who increases his wealth by exorbitant interest amasses it for another, who will be kind to the poor.",
+      "de": "Wer sein Gut mehrt mit Wucher und Zins, der sammelt es für den, der sich der Armen erbarmt.",
+      "zh": "人以厚利加增财物， 是给那怜悯穷人者积蓄的。",
+      "ja": "利息と高利とをもてその財產を増すものは貧人をめぐむ者のために之をたくはふるなり"
+    },
+    {
+      "number": 9,
+      "ko": "사람이 귀를 돌려 율법을 듣지 아니하면 그의 기도도 가증하니라",
+      "en": "If anyone turns a deaf ear to the law, even his prayers are detestable.",
+      "de": "Wer sein Ohr abwendet, das Gesetz zu hören, des Gebet ist ein Greuel.",
+      "zh": "转耳不听律法的， 他的祈祷也为可憎。",
+      "ja": "耳をそむけて律法を聞ざる者はその祈すらも憎まる"
+    },
+    {
+      "number": 10,
+      "ko": "정직한 자를 악한 길로 유인하는 자는 스스로 자기 함정에 빠져도 성실한 자는 복을 받느니라",
+      "en": "He who leads the upright along an evil path will fall into his own trap, but the blameless will receive a good inheritance.",
+      "de": "Wer die Frommen verführt auf bösem Wege, der wird in seine Grube fallen; aber die Frommen werden Gutes ererben.",
+      "zh": "诱惑正直人行恶道的，必掉在自己的坑里； 惟有完全人必承受福分。",
+      "ja": "義者を惡き道に惑す者はみづから自己の阱に陷らん されど質直なる者は福祉をつぐべし"
+    },
+    {
+      "number": 11,
+      "ko": "부자는 자기를 지혜롭게 여기나 가난해도 명철한 자는 자기를 살펴 아느니라",
+      "en": "A rich man may be wise in his own eyes, but a poor man who has discernment sees through him.",
+      "de": "Ein Reicher dünkt sich, weise zu sein; aber ein verständiger Armer durchschaut ihn.",
+      "zh": "富足人自以为有智慧， 但聪明的贫穷人能将他查透。",
+      "ja": "富者はおのれの目に自らを智慧ある者となす されど聰明ある貧者は彼をはかり知る"
+    },
+    {
+      "number": 12,
+      "ko": "의인이 득의하면 큰 영화가 있고 악인이 일어나면 사람이 숨느니라",
+      "en": "When the righteous triumph, there is great elation; but when the wicked rise to power, men go into hiding.",
+      "de": "Wenn die Gerechten Oberhand haben, so geht's sehr fein zu; wenn aber Gottlose aufkommen, wendet sich's unter den Leuten.",
+      "zh": "义人得志，有大荣耀； 恶人兴起，人就躲藏。",
+      "ja": "義者の喜ぶときは大なる榮あり 惡者の起るときは民身を匿す"
+    },
+    {
+      "number": 13,
+      "ko": "자기의 죄를 숨기는 자는 형통하지 못하나 죄를 자복하고 버리는 자는 불쌍히 여김을 받으리라",
+      "en": "He who conceals his sins does not prosper, but whoever confesses and renounces them finds mercy.",
+      "de": "Wer seine Missetat leugnet, dem wird's nicht gelingen; wer sie aber bekennt und läßt, der wird Barmherzigkeit erlangen.",
+      "zh": "遮掩自己罪过的，必不亨通； 承认离弃罪过的，必蒙怜恤。",
+      "ja": "その罪を隱すものは榮ゆることなし 然ど認らはして之を離るる者は憐憫をうけん"
+    },
+    {
+      "number": 14,
+      "ko": "항상 경외하는 자는 복되거니와 마음을 완악하게 하는 자는 재앙에 빠지리라",
+      "en": "Blessed is the man who always fears the LORD, but he who hardens his heart falls into trouble.",
+      "de": "Wohl dem, der sich allewege fürchtet; wer aber sein Herz verhärtet, wird in Unglück fallen.",
+      "zh": "常存敬畏的，便为有福； 心存刚硬的，必陷在祸患里。",
+      "ja": "恒に畏るる人は幸福なり その心を剛愎にする者は災禍に陷るべし"
+    },
+    {
+      "number": 15,
+      "ko": "가난한 백성을 압제하는 악한 관원은 부르짖는 사자와 주린 곰 같으니라",
+      "en": "Like a roaring lion or a charging bear is a wicked man ruling over a helpless people.",
+      "de": "Ein Gottloser, der über ein armes Volk regiert, das ist ein brüllender Löwe und gieriger Bär.",
+      "zh": "暴虐的君王辖制贫民， 好像吼叫的狮子、觅食的熊。",
+      "ja": "貧しき民を治むるあしき侯伯は吼る獅子あるひは饑たる熊のごとし"
+    },
+    {
+      "number": 16,
+      "ko": "무지한 치리자는 포학을 크게 행하거니와 탐욕을 미워하는 자는 장수하리라",
+      "en": "A tyrannical ruler lacks judgment, but he who hates ill-gotten gain will enjoy a long life.",
+      "de": "Wenn ein Fürst ohne Verstand ist, so geschieht viel Unrecht; wer aber den Geiz haßt, der wird lange leben.",
+      "zh": "无知的君多行暴虐； 以贪财为可恨的，必年长日久。",
+      "ja": "智からざる君はおほく暴虐をおこなふ 不義の利を惡む者は遐齢をうべし"
+    },
+    {
+      "number": 17,
+      "ko": "사람의 피를 흘린 자는 함정으로 달려갈 것이니 그를 막지 말지니라",
+      "en": "A man tormented by the guilt of murder will be a fugitive till death; let no one support him.",
+      "de": "Ein Mensch, der am Blut einer Seele schuldig ist, der wird flüchtig sein bis zur Grube, und niemand halte ihn auf.",
+      "zh": "背负流人血之罪的，必往坑里奔跑， 谁也不可拦阻他。",
+      "ja": "人を殺してその血を心に負ふ者は墓に奔るなり 人これを阻むること勿れ"
+    },
+    {
+      "number": 18,
+      "ko": "성실하게 행하는 자는 구원을 받을 것이나 굽은 길로 행하는 자는 곧 넘어지리라",
+      "en": "He whose walk is blameless is kept safe, but he whose ways are perverse will suddenly fall.",
+      "de": "Wer fromm einhergeht, dem wird geholfen; wer aber verkehrtes Weges ist, wird auf einmal fallen.",
+      "zh": "行动正直的，必蒙拯救； 行事弯曲的，立时跌倒。",
+      "ja": "義く行む者は救をえ 曲れる路に行む者は直に跌れん"
+    },
+    {
+      "number": 19,
+      "ko": "자기의 토지를 경작하는 자는 먹을 것이 많으려니와 방탕을 따르는 자는 궁핍함이 많으리라",
+      "en": "He who works his land will have abundant food, but the one who chases fantasies will have his fill of poverty.",
+      "de": "Wer seinen Acker baut, wird Brot genug haben; wer aber dem Müßiggang nachgeht, wird Armut genug haben.",
+      "zh": "耕种自己田地的，必得饱食； 追随虚浮的，足受穷乏。",
+      "ja": "おのれの田地を耕す者は糧にあき 放蕩なる者に從ふものは貧乏に飽く"
+    },
+    {
+      "number": 20,
+      "ko": "충성된 자는 복이 많아도 속히 부하고자 하는 자는 형벌을 면하지 못하리라",
+      "en": "A faithful man will be richly blessed, but one eager to get rich will not go unpunished.",
+      "de": "Ein treuer Mann wird viel gesegnet; wer aber eilt, reich zu werden, wird nicht unschuldig bleiben.",
+      "zh": "诚实人必多得福； 想要急速发财的，不免受罚。",
+      "ja": "忠信なる人は多くの幸福をえ 速かに富を得んとする者は罪を免れず"
+    },
+    {
+      "number": 21,
+      "ko": "사람의 낯을 보아 주는 것이 좋지 못하고 한 조각 떡으로 말미암아 사람이 범법하는 것도 그러하니라",
+      "en": "To show partiality is not good--yet a man will do wrong for a piece of bread.",
+      "de": "Person ansehen ist nicht gut; und mancher tut übel auch wohl um ein Stück Brot.",
+      "zh": "看人的情面乃为不好； 人因一块饼枉法也为不好。",
+      "ja": "人を偏視るはよからず 人はただ一片のパンのために愆を犯すなり"
+    },
+    {
+      "number": 22,
+      "ko": "악한 눈이 있는 자는 재물을 얻기에만 급하고 빈궁이 자기에게로 임할 줄은 알지 못하느니라",
+      "en": "A stingy man is eager to get rich and is unaware that poverty awaits him.",
+      "de": "Wer eilt zum Reichtum und ist neidisch, der weiß nicht, daß Mangel ihm begegnen wird.",
+      "zh": "人有恶眼想要急速发财， 却不知穷乏必临到他身。",
+      "ja": "惡目をもつ者は財をえんとて急がはしく 却て貧窮のおのれに來るを知らず"
+    },
+    {
+      "number": 23,
+      "ko": "사람을 경책하는 자는 혀로 아첨하는 자보다 나중에 더욱 사랑을 받느니라",
+      "en": "He who rebukes a man will in the end gain more favor than he who has a flattering tongue.",
+      "de": "Wer einen Menschen straft, wird hernach Gunst finden, mehr denn der da heuchelt.",
+      "zh": "责备人的，后来蒙人喜悦， 多于那用舌头谄媚人的。",
+      "ja": "人を譴むる者は舌をもて諂ふ者よりも大なる感謝をうく"
+    },
+    {
+      "number": 24,
+      "ko": "부모의 물건을 도둑질하고서도 죄가 아니라 하는 자는 멸망 받게 하는 자의 동류니라",
+      "en": "He who robs his father or mother and says, \"It's not wrong\"--he is partner to him who destroys.",
+      "de": "Wer seinem Vater oder seiner Mutter etwas nimmt und spricht, es sei nicht Sünde, der ist des Verderbers Geselle.",
+      "zh": "偷窃父母的，说：这不是罪， 此人就是与强盗同类。",
+      "ja": "父母の物を竊みて罪ならずといふ者は滅す者の友なり"
+    },
+    {
+      "number": 25,
+      "ko": "욕심이 많은 자는 다툼을 일으키나 여호와를 의지하는 자는 풍족하게 되느니라",
+      "en": "A greedy man stirs up dissension, but he who trusts in the LORD will prosper.",
+      "de": "Ein Stolzer erweckt Zank; wer aber auf den HERRN sich verläßt, wird gelabt.",
+      "zh": "心中贪婪的，挑起争端； 倚靠耶和华的，必得丰裕。",
+      "ja": "心に貧る者は爭端を起し ヱホバに倚賴むものは豊饒になるべし"
+    },
+    {
+      "number": 26,
+      "ko": "자기의 마음을 믿는 자는 미련한 자요 지혜롭게 행하는 자는 구원을 얻을 자니라",
+      "en": "He who trusts in himself is a fool, but he who walks in wisdom is kept safe.",
+      "de": "Wer sich auf sein Herz verläßt, ist ein Narr; wer aber mit Weisheit geht, wird entrinnen.",
+      "zh": "心中自是的，便是愚昧人； 凭智慧行事的，必蒙拯救。",
+      "ja": "おのれの心を恃む者は愚なり 智慧をもて行む者は救をえん"
+    },
+    {
+      "number": 27,
+      "ko": "가난한 자를 구제하는 자는 궁핍하지 아니하려니와 못 본 체하는 자에게는 저주가 크리라",
+      "en": "He who gives to the poor will lack nothing, but he who closes his eyes to them receives many curses.",
+      "de": "Wer dem Armen gibt, dem wird nichts mangeln; wer aber seine Augen abwendet, der wird viel verflucht.",
+      "zh": "周济贫穷的，不致缺乏； 佯为不见的，必多受咒诅。",
+      "ja": "貧者に賙すものは乏しからず その目を掩ふ者は詛を受ること多し"
+    },
+    {
+      "number": 28,
+      "ko": "악인이 일어나면 사람이 숨고 그가 멸망하면 의인이 많아지느니라",
+      "en": "When the wicked rise to power, people go into hiding; but when the wicked perish, the righteous thrive.",
+      "de": "Wenn die Gottlosen aufkommen, so verbergen sich die Leute; wenn sie aber umkommen, werden der Gerechten viel.",
+      "zh": "恶人兴起，人就躲藏； 恶人败亡，义人增多。",
+      "ja": "惡者の起るときは人匿れ その滅るときは義者ます"
+    }
+  ]
+}

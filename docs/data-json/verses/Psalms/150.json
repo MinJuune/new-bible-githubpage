@@ -1,0 +1,54 @@
+{
+  "book": "Psalms",
+  "chapter": 150,
+  "verses": [
+    {
+      "number": 1,
+      "ko": "할렐루야 그의 성소에서 하나님을 찬양하며 그의 권능의 궁창에서 그를 찬양할지어다",
+      "en": "Praise the LORD. Praise God in his sanctuary; praise him in his mighty heavens.",
+      "de": "Halleluja! Lobet den HERRN in seinem Heiligtum; lobet ihn in der Feste seiner Macht!",
+      "zh": "你们要赞美耶和华！ 在　神的圣所赞美他！ 在他显能力的穹苍赞美他！",
+      "ja": "ヱホバをほめたたへよ その聖所にて神をほめたたへよ その能力のあらはるる穹蒼にて神をほめたたへよ"
+    },
+    {
+      "number": 2,
+      "ko": "그의 능하신 행동을 찬양하며 그의 지극히 위대하심을 따라 찬양할지어다",
+      "en": "Praise him for his acts of power; praise him for his surpassing greatness.",
+      "de": "Lobet ihn in seinen Taten; lobet ihn in seiner großen Herrlichkeit!",
+      "zh": "要因他大能的作为赞美他， 按着他极美的大德赞美他！",
+      "ja": "その大能のはたらきのゆゑをもて神をほめたたへよ その秀ておほいなることの故によりてヱホバをほめたたへよ"
+    },
+    {
+      "number": 3,
+      "ko": "나팔 소리로 찬양하며 비파와 수금으로 찬양할지어다",
+      "en": "Praise him with the sounding of the trumpet, praise him with the harp and lyre,",
+      "de": "Lobet ihn mit Posaunen; lobet ihn mit Psalter und Harfe!",
+      "zh": "要用角声赞美他， 鼓瑟弹琴赞美他！",
+      "ja": "ラッパの聲をもて神をほめたたへよ 筝と琴とをもて神をほめたたへよ"
+    },
+    {
+      "number": 4,
+      "ko": "소고 치며 춤 추어 찬양하며 현악과 퉁소로 찬양할지어다",
+      "en": "praise him with tambourine and dancing, praise him with the strings and flute,",
+      "de": "Lobet ihn mit Pauken und Reigen; lobet ihn mit Saiten und Pfeifen!",
+      "zh": "击鼓跳舞赞美他！ 用丝弦的乐器和箫的声音赞美他！",
+      "ja": "つづみと蹈舞とをもて神をほめたたへよ 絃簫をもて神をほめたたへよ"
+    },
+    {
+      "number": 5,
+      "ko": "큰 소리 나는 제금으로 찬양하며 높은 소리 나는 제금으로 찬양할지어다",
+      "en": "praise him with the clash of cymbals, praise him with resounding cymbals.",
+      "de": "Lobet ihn mit hellen Zimbeln; lobet ihn mit wohlklingenden Zimbeln!",
+      "zh": "用大响的钹赞美他！ 用高声的钹赞美他！",
+      "ja": "音のたかき鐃鈸をもて神をほめたたへよ なりひびく鐃鈸をもて神をほめたたへよ"
+    },
+    {
+      "number": 6,
+      "ko": "호흡이 있는 자마다 여호와를 찬양할지어다 할렐루야",
+      "en": "Let everything that has breath praise the LORD. Praise the LORD.",
+      "de": "Alles, was Odem hat, lobe den HERRN! Halleluja!",
+      "zh": "凡有气息的都要赞美耶和华！ 你们要赞美耶和华！",
+      "ja": "氣息あるものは皆ヤハをほめたたふべし なんぢらヱホバをほめたたへよ"
+    }
+  ]
+}

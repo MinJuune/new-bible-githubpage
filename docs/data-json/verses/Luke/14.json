@@ -1,0 +1,286 @@
+{
+  "book": "Luke",
+  "chapter": 14,
+  "verses": [
+    {
+      "number": 1,
+      "ko": "안식일에 예수께서 한 바리새인 지도자의 집에 떡 잡수시러 들어가시니 그들이 엿보고 있더라",
+      "en": "One Sabbath, when Jesus went to eat in the house of a prominent Pharisee, he was being carefully watched.",
+      "de": "Und es begab sich, daß er kam in ein Haus eines Obersten der Pharisäer an einem Sabbat, das Brot zu essen; und sie hatten acht auf ihn.",
+      "zh": "安息日，耶稣到一个法利赛人的首领家里去吃饭，他们就窥探他。",
+      "ja": "ある安息日に、食事をしようとして、パリサイ派のある指導者の家にはいられたとき、みんながじっとイエスを見つめていた。"
+    },
+    {
+      "number": 2,
+      "ko": "주의 앞에 수종병 든 한 사람이 있는지라",
+      "en": "There in front of him was a man suffering from dropsy.",
+      "de": "Und siehe, da war ein Mensch vor ihm, der war wassersüchtig.",
+      "zh": "在他面前有一个患水臌的人。",
+      "ja": "そこには、イエスの真正面に、水腫をわずらっている人がいた。"
+    },
+    {
+      "number": 3,
+      "ko": "예수께서 대답하여 율법교사들과 바리새인들에게 이르시되 안식일에 병 고쳐 주는 것이 합당하냐 아니하냐",
+      "en": "Jesus asked the Pharisees and experts in the law, \"Is it lawful to heal on the Sabbath or not?\"",
+      "de": "Und Jesus antwortete und sagte zu den Schriftgelehrten und Pharisäern und sprach: Ist's auch recht, am Sabbat zu heilen?",
+      "zh": "耶稣对律法师和法利赛人说：「安息日治病可以不可以？」",
+      "ja": "イエスは、律法の専門家、パリサイ人たちに、「安息日に病気を直すことは正しいことですか、それともよくないことですか。」と言われた。"
+    },
+    {
+      "number": 4,
+      "ko": "그들이 잠잠하거늘 예수께서 그 사람을 데려다가 고쳐 보내시고",
+      "en": "But they remained silent. So taking hold of the man, he healed him and sent him away.",
+      "de": "Sie aber schwiegen still. Und er griff ihn an und heilte ihn und ließ ihn gehen.",
+      "zh": "他们却不言语。耶稣就治好那人，叫他走了；",
+      "ja": "しかし、彼らは黙っていた。それで、イエスはその人を抱いて直してやり、そしてお帰しになった。"
+    },
+    {
+      "number": 5,
+      "ko": "또 그들에게 이르시되 너희 중에 누가 그 아들이나 소가 우물에 빠졌으면 안식일에라도 곧 끌어내지 않겠느냐 하시니",
+      "en": "Then he asked them, \"If one of you has a son or an ox that falls into a well on the Sabbath day, will you not immediately pull him out?\"",
+      "de": "Und antwortete und sprach zu ihnen: Welcher ist unter euch, dem sein Ochse oder Esel in den Brunnen fällt, und der nicht alsbald ihn herauszieht am Sabbattage?",
+      "zh": "便对他们说：「你们中间谁有驴或有牛，在安息日掉在井里，不立时拉它上来呢？」",
+      "ja": "それから、彼らに言われた。「自分の息子や牛が井戸に落ちたのに、安息日だからといって、すぐに引き上げてやらない者があなたがたのうちにいるでしょうか。」"
+    },
+    {
+      "number": 6,
+      "ko": "그들이 이에 대하여 대답하지 못하니라",
+      "en": "And they had nothing to say.",
+      "de": "Und sie konnten ihm darauf nicht wieder Antwort geben.",
+      "zh": "他们不能对答这话。",
+      "ja": "彼らは答えることができなかった。"
+    },
+    {
+      "number": 7,
+      "ko": "청함을 받은 사람들이 높은 자리 택함을 보시고 그들에게 비유로 말씀하여 이르시되",
+      "en": "When he noticed how the guests picked the places of honor at the table, he told them this parable:",
+      "de": "Er sagte aber ein Gleichnis zu den Gästen, da er merkte, wie sie erwählten obenan zu sitzen, und sprach zu ihnen:",
+      "zh": "耶稣见所请的客拣择首位，就用比喻对他们说：",
+      "ja": "招かれた人々が上座を選んでいる様子に気づいておられたイエスは、彼らにたとえを話された。"
+    },
+    {
+      "number": 8,
+      "ko": "네가 누구에게나 혼인 잔치에 청함을 받았을 때에 높은 자리에 앉지 말라 그렇지 않으면 너보다 더 높은 사람이 청함을 받은 경우에",
+      "en": "\"When someone invites you to a wedding feast, do not take the place of honor, for a person more distinguished than you may have been invited.",
+      "de": "Wenn du von jemand geladen wirst zur Hochzeit, so setze dich nicht obenan, daß nicht etwa ein Vornehmerer denn du von ihm geladen sei,",
+      "zh": "「你被人请去赴婚姻的筵席，不要坐在首位上，恐怕有比你尊贵的客被他请来；",
+      "ja": "「婚礼の披露宴に招かれたときには、上座にすわってはいけません。あなたより身分の高い人が、招かれているかもしれないし、"
+    },
+    {
+      "number": 9,
+      "ko": "너와 그를 청한 자가 와서 너더러 이 사람에게 자리를 내주라 하리니 그 때에 네가 부끄러워 끝자리로 가게 되리라",
+      "en": "If so, the host who invited both of you will come and say to you, 'Give this man your seat.' Then, humiliated, you will have to take the least important place.",
+      "de": "und dann komme, der dich und ihn geladen hat, und spreche zu dir: Weiche diesem! und du müssest dann mit Scham untenan sitzen.",
+      "zh": "那请你们的人前来对你说：『让座给这一位吧！』你就羞羞惭惭地退到末位上去了。",
+      "ja": "あなたやその人を招いた人が来て、『この人に席を譲ってください。』とあなたに言うなら、そのときあなたは恥をかいて、末席に着かなければならないでしょう。"
+    },
+    {
+      "number": 10,
+      "ko": "청함을 받았을 때에 차라리 가서 끝자리에 앉으라 그러면 너를 청한 자가 와서 너더러 벗이여 올라 앉으라 하리니 그 때에야 함께 앉은 모든 사람 앞에서 영광이 있으리라",
+      "en": "But when you are invited, take the lowest place, so that when your host comes, he will say to you, 'Friend, move up to a better place.' Then you will be honored in the presence of all your fellow guests.",
+      "de": "Sondern wenn du geladen wirst, so gehe hin und setze dich untenan, auf daß, wenn da kommt, der dich geladen hat, er spreche zu dir: Freund, rücke hinauf! Dann wirst du Ehre haben vor denen, die mit dir am Tische sitzen.",
+      "zh": "你被请的时候，就去坐在末位上，好叫那请你的人来对你说：『朋友，请上座。』那时，你在同席的人面前就有光彩了。",
+      "ja": "招かれるようなことがあって、行ったなら、末席に着きなさい。そうしたら、あなたを招いた人が来て、『どうぞもっと上席にお進みください。』と言うでしょう。そのときは、満座の中で面目を施すことになります。"
+    },
+    {
+      "number": 11,
+      "ko": "무릇 자기를 높이는 자는 낮아지고 자기를 낮추는 자는 높아지리라",
+      "en": "For everyone who exalts himself will be humbled, and he who humbles himself will be exalted.\"",
+      "de": "Denn wer sich selbst erhöht, der soll erniedrigt werden; und wer sich selbst erniedrigt, der soll erhöht werden.",
+      "zh": "因为，凡自高的，必降为卑；自卑的，必升为高。」",
+      "ja": "なぜなら、だれでも自分を高くする者は低くされ、自分を低くする者は高くされるからです。」"
+    },
+    {
+      "number": 12,
+      "ko": "또 자기를 청한 자에게 이르시되 네가 점심이나 저녁이나 베풀거든 벗이나 형제나 친척이나 부한 이웃을 청하지 말라 두렵건대 그 사람들이 너를 도로 청하여 네게 갚음이 될까 하노라",
+      "en": "Then Jesus said to his host, \"When you give a luncheon or dinner, do not invite your friends, your brothers or relatives, or your rich neighbors; if you do, they may invite you back and so you will be repaid.",
+      "de": "Er sprach auch zu dem, der ihn geladen hatte: Wenn du ein Mittags-oder Abendmahl machst, so lade nicht deine Freunde noch deine Brüder noch deine Gefreunden noch deine Nachbarn, die da reich sind, auf daß sie dich nicht etwa wieder laden und dir vergolten werde.",
+      "zh": "耶稣又对请他的人说：「你摆设午饭或晚饭，不要请你的朋友、弟兄、亲属，和富足的邻舍，恐怕他们也请你，你就得了报答。",
+      "ja": "また、イエスは、自分を招いてくれた人にも、こう話された。「昼食や夕食のふるまいをするなら、友人、兄弟、親族、近所の金持ちなどを呼んではいけません。でないと、今度は彼らがあなたを招いて、お返しすることになるからです。"
+    },
+    {
+      "number": 13,
+      "ko": "잔치를 베풀거든 차라리 가난한 자들과 몸 불편한 자들과 저는 자들과 맹인들을 청하라",
+      "en": "But when you give a banquet, invite the poor, the crippled, the lame, the blind,",
+      "de": "Sondern wenn du ein Mahl machst, so lade die Armen, die Krüppel, die Lahmen, die Blinden,",
+      "zh": "你摆设筵席，倒要请那贫穷的、残废的、瘸腿的、瞎眼的，你就有福了！",
+      "ja": "祝宴を催すばあいには、むしろ、貧しい人、不具の人、足なえ、盲人たちを招きなさい。"
+    },
+    {
+      "number": 14,
+      "ko": "그리하면 그들이 갚을 것이 없으므로 네게 복이 되리니 이는 의인들의 부활시에 네가 갚음을 받겠음이라 하시더라",
+      "en": "and you will be blessed. Although they cannot repay you, you will be repaid at the resurrection of the righteous.\"",
+      "de": "so bist du selig; denn sie haben's dir nicht zu vergelten, es wird dir aber vergolten werden in der Auferstehung der Gerechten.",
+      "zh": "因为他们没有什么可报答你。到义人复活的时候，你要得着报答。」",
+      "ja": "その人たちはお返しができないので、あなたは幸いです。義人の復活のときお返しを受けるからです。」"
+    },
+    {
+      "number": 15,
+      "ko": "함께 먹는 사람 중의 하나가 이 말을 듣고 이르되 무릇 하나님의 나라에서 떡을 먹는 자는 복되도다 하니",
+      "en": "When one of those at the table with him heard this, he said to Jesus, \"Blessed is the man who will eat at the feast in the kingdom of God.\"",
+      "de": "Da aber solches hörte einer, der mit zu Tische saß, sprach er zu ihm: Selig ist, der das Brot ißt im Reiche Gottes.",
+      "zh": "同席的有一人听见这话，就对耶稣说：「在　神国里吃饭的有福了！」",
+      "ja": "イエスといっしょに食卓に着いていた客のひとりはこれを聞いて、イエスに、「神の国で食事する人は、何と幸いなことでしょう。」と言った。"
+    },
+    {
+      "number": 16,
+      "ko": "이르시되 어떤 사람이 큰 잔치를 베풀고 많은 사람을 청하였더니",
+      "en": "Jesus replied: \"A certain man was preparing a great banquet and invited many guests.",
+      "de": "Er aber sprach zu ihm: Es war ein Mensch, der machte ein großes Abendmahl und lud viele dazu.",
+      "zh": "耶稣对他说：「有一人摆设大筵席，请了许多客。",
+      "ja": "するとイエスはこう言われた。 「ある人が盛大な宴会を催し、大ぜいの人を招いた。"
+    },
+    {
+      "number": 17,
+      "ko": "잔치할 시각에 그 청하였던 자들에게 종을 보내어 이르되 오소서 모든 것이 준비되었나이다 하매",
+      "en": "At the time of the banquet he sent his servant to tell those who had been invited, 'Come, for everything is now ready.'",
+      "de": "Und sandte seinen Knecht aus zur Stunde des Abendmahls, zu sagen den Geladenen: Kommt, denn es ist alles bereit!",
+      "zh": "到了坐席的时候，打发仆人去对所请的人说：『请来吧！样样都齐备了。』",
+      "ja": "宴会の時刻になったのでしもべをやり、招いておいた人々に、『さあ、おいでください。もうすっかり、用意ができましたから。』と言わせた。"
+    },
+    {
+      "number": 18,
+      "ko": "다 일치하게 사양하여 한 사람은 이르되 나는 밭을 샀으매 아무래도 나가 보아야 하겠으니 청컨대 나를 양해하도록 하라 하고",
+      "en": "\"But they all alike began to make excuses. The first said, 'I have just bought a field, and I must go and see it. Please excuse me.'",
+      "de": "Und sie fingen an, alle nacheinander, sich zu entschuldigen. Der erste sprach zu ihm: Ich habe einen Acker gekauft und muß hinausgehen und ihn besehen; ich bitte dich, entschuldige mich.",
+      "zh": "众人一口同音地推辞。头一个说：『我买了一块地，必须去看看。请你准我辞了。』",
+      "ja": "ところが、みな同じように断わり始めた。最初の人はこう言った。『畑を買ったので、どうしても見に出かけなければなりません。すみませんが、お断わりさせていただきます。』"
+    },
+    {
+      "number": 19,
+      "ko": "또 한 사람은 이르되 나는 소 다섯 겨리를 샀으매 시험하러 가니 청컨대 나를 양해하도록 하라 하고",
+      "en": "\"Another said, 'I have just bought five yoke of oxen, and I'm on my way to try them out. Please excuse me.'",
+      "de": "Und der andere sprach: Ich habe fünf Joch Ochsen gekauft, und ich gehe jetzt hin, sie zu besehen; ich bitte dich, entschuldige mich.",
+      "zh": "又有一个说：『我买了五对牛，要去试一试。请你准我辞了。』",
+      "ja": "もうひとりはこう言った。『五くびきの牛を買ったので、それをためしに行くところです。すみませんが、お断わりさせていただきます。』"
+    },
+    {
+      "number": 20,
+      "ko": "또 한 사람은 이르되 나는 장가 들었으니 그러므로 가지 못하겠노라 하는지라",
+      "en": "\"Still another said, 'I just got married, so I can't come.'",
+      "de": "Und der dritte sprach: Ich habe ein Weib genommen, darum kann ich nicht kommen.",
+      "zh": "又有一个说：『我才娶了妻，所以不能去。』",
+      "ja": "また、別の人はこう言った。『結婚したので、行くことができません。』"
+    },
+    {
+      "number": 21,
+      "ko": "종이 돌아와 주인에게 그대로 고하니 이에 집 주인이 노하여 그 종에게 이르되 빨리 시내의 거리와 골목으로 나가서 가난한 자들과 몸 불편한 자들과 맹인들과 저는 자들을 데려오라 하니라",
+      "en": "\"The servant came back and reported this to his master. Then the owner of the house became angry and ordered his servant, 'Go out quickly into the streets and alleys of the town and bring in the poor, the crippled, the blind and the lame.'",
+      "de": "Und der Knecht kam und sagte das seinem Herrn wieder. Da ward der Hausherr zornig und sprach zu seinem Knechte: Gehe aus schnell auf die Straßen und Gassen der Stadt und führe die Armen und Krüppel und Lahmen und Blinden herein.",
+      "zh": "那仆人回来，把这事都告诉了主人。家主就动怒，对仆人说：『快出去，到城里大街小巷，领那贫穷的、残废的、瞎眼的、瘸腿的来。』",
+      "ja": "しもべは帰って、このことを主人に報告した。すると、おこった主人は、そのしもべに言った。『急いで町の大通りや路地に出て行って、貧しい人や、不具の人や、盲人や、足なえをここに連れて来なさい。』"
+    },
+    {
+      "number": 22,
+      "ko": "종이 이르되 주인이여 명하신 대로 하였으되 아직도 자리가 있나이다",
+      "en": "\"'Sir,' the servant said, 'what you ordered has been done, but there is still room.'",
+      "de": "Und der Knecht sprach: Herr, es ist geschehen, was du befohlen hast; es ist aber noch Raum da.",
+      "zh": "仆人说：『主啊，你所吩咐的已经办了，还有空座。』",
+      "ja": "しもべは言った。『ご主人さま。仰せのとおりにいたしました。でも、まだ席があります。』"
+    },
+    {
+      "number": 23,
+      "ko": "주인이 종에게 이르되 길과 산울타리 가로 나가서 사람을 강권하여 데려다가 내 집을 채우라",
+      "en": "\"Then the master told his servant, 'Go out to the roads and country lanes and make them come in, so that my house will be full.",
+      "de": "Und der Herr sprach zu dem Knechte: Gehe aus auf die Landstraßen und an die Zäune und nötige sie hereinzukommen, auf das mein Haus voll werde.",
+      "zh": "主人对仆人说：『你出去到路上和篱笆那里，勉强人进来，坐满我的屋子。",
+      "ja": "主人は言った。『街道や垣根のところに出かけて行って、この家がいっぱいになるように、無理にでも人々を連れて来なさい。"
+    },
+    {
+      "number": 24,
+      "ko": "내가 너희에게 말하노니 전에 청하였던 그 사람들은 하나도 내 잔치를 맛보지 못하리라 하였다 하시니라",
+      "en": "I tell you, not one of those men who were invited will get a taste of my banquet.'\"",
+      "de": "Ich sage euch aber, daß der Männer keiner, die geladen waren mein Abendmahl schmecken wird.",
+      "zh": "我告诉你们，先前所请的人没有一个得尝我的筵席。』」",
+      "ja": "言っておくが、あの招待されていた人たちの中で、私の食事を味わう者は、ひとりもいないのです。』」"
+    },
+    {
+      "number": 25,
+      "ko": "수많은 무리가 함께 갈새 예수께서 돌이키사 이르시되",
+      "en": "Large crowds were traveling with Jesus, and turning to them he said:",
+      "de": "Es ging aber viel Volks mit ihm; und er wandte sich und sprach zu ihnen:",
+      "zh": "有极多的人和耶稣同行。他转过来对他们说：",
+      "ja": "さて、大ぜいの群衆が、イエスといっしょに歩いていたが、イエスは彼らのほうに向いて言われた。"
+    },
+    {
+      "number": 26,
+      "ko": "무릇 내게 오는 자가 자기 부모와 처자와 형제와 자매와 더욱이 자기 목숨까지 미워하지 아니하면 능히 내 제자가 되지 못하고",
+      "en": "\"If anyone comes to me and does not hate his father and mother, his wife and children, his brothers and sisters--yes, even his own life--he cannot be my disciple.",
+      "de": "So jemand zu mir kommt und haßt nicht seinen Vater, Mutter, Weib, Kinder, Brüder, Schwestern, auch dazu sein eigen Leben, der kann nicht mein Jünger sein.",
+      "zh": "「人到我这里来，若不爱我胜过爱自己的父 母、妻子、儿女、弟兄、姊妹，和自己的性命，就不能作我的门徒。",
+      "ja": "「わたしのもとに来て、自分の父、母、妻、子、兄弟、姉妹、そのうえ自分のいのちまでも憎まない者は、わたしの弟子になることができません。"
+    },
+    {
+      "number": 27,
+      "ko": "누구든지 자기 십자가를 지고 나를 따르지 않는 자도 능히 내 제자가 되지 못하리라",
+      "en": "And anyone who does not carry his cross and follow me cannot be my disciple.",
+      "de": "Und wer nicht sein Kreuz trägt und mir nachfolgt, der kann nicht mein Jünger sein.",
+      "zh": "凡不背着自己十字架跟从我的，也不能作我的门徒。",
+      "ja": "自分の十字架を負ってわたしについて来ない者は、わたしの弟子になることはできません。"
+    },
+    {
+      "number": 28,
+      "ko": "너희 중의 누가 망대를 세우고자 할진대 자기의 가진 것이 준공하기까지에 족할는지 먼저 앉아 그 비용을 계산하지 아니하겠느냐",
+      "en": "\"Suppose one of you wants to build a tower. Will he not first sit down and estimate the cost to see if he has enough money to complete it?",
+      "de": "Wer ist aber unter euch, der einen Turm bauen will, und sitzt nicht zuvor und überschlägt die Kosten, ob er's habe, hinauszuführen?",
+      "zh": "你们哪一个要盖一座楼，不先坐下算计花费，能盖成不能呢？",
+      "ja": "塔を築こうとするとき、まずすわって、完成に十分な金があるかどうか、その費用を計算しない者が、あなたがたのうちにひとりでもあるでしょうか。"
+    },
+    {
+      "number": 29,
+      "ko": "그렇게 아니하여 그 기초만 쌓고 능히 이루지 못하면 보는 자가 다 비웃어",
+      "en": "For if he lays the foundation and is not able to finish it, everyone who sees it will ridicule him,",
+      "de": "auf daß nicht, wo er Grund gelegt hat und kann's nicht hinausführen, alle, die es sehen, fangen an, sein zu spotten,",
+      "zh": "恐怕安了地基，不能成功，看见的人都笑话他，说：",
+      "ja": "基礎を築いただけで完成できなかったら、見ていた人はみな彼をあざ笑って、"
+    },
+    {
+      "number": 30,
+      "ko": "이르되 이 사람이 공사를 시작하고 능히 이루지 못하였다 하리라",
+      "en": "saying, 'This fellow began to build and was not able to finish.'",
+      "de": "und sagen: Dieser Mensch hob an zu bauen, und kann's nicht hinausführen.",
+      "zh": "『这个人开了工，却不能完工。』",
+      "ja": "『この人は、建て始めはしたものの、完成できなかった。』と言うでしょう。"
+    },
+    {
+      "number": 31,
+      "ko": "또 어떤 임금이 다른 임금과 싸우러 갈 때에 먼저 앉아 일만 명으로써 저 이만 명을 거느리고 오는 자를 대적할 수 있을까 헤아리지 아니하겠느냐",
+      "en": "\"Or suppose a king is about to go to war against another king. Will he not first sit down and consider whether he is able with ten thousand men to oppose the one coming against him with twenty thousand?",
+      "de": "Oder welcher König will sich begeben in einen Streit wider einen andern König und sitzt nicht zuvor und ratschlagt, ob er könne mit zehntausend begegnen dem, der über ihn kommt mit zwanzigtausend?",
+      "zh": "或是一个王出去和别的王打仗，岂不先坐下酌量，能用一万兵去敌那领二万兵来攻打他的吗？",
+      "ja": "また、どんな王でも、ほかの王と戦いを交えようとするときは、二万人を引き連れて向かって来る敵を、一万人で迎え撃つことができるかどうかを、まずすわって、考えずにいられましょうか。"
+    },
+    {
+      "number": 32,
+      "ko": "만일 못할 터이면 그가 아직 멀리 있을 때에 사신을 보내어 화친을 청할지니라",
+      "en": "If he is not able, he will send a delegation while the other is still a long way off and will ask for terms of peace.",
+      "de": "Wo nicht, so schickt er Botschaft, wenn jener noch ferne ist, und bittet um Frieden.",
+      "zh": "若是不能，就趁敌人还远的时候，派使者去求和息的条款。",
+      "ja": "もし見込みがなければ、敵がまだ遠くに離れている間に、使者を送って講和を求めるでしょう。"
+    },
+    {
+      "number": 33,
+      "ko": "이와 같이 너희 중의 누구든지 자기의 모든 소유를 버리지 아니하면 능히 내 제자가 되지 못하리라",
+      "en": "In the same way, any of you who does not give up everything he has cannot be my disciple.",
+      "de": "Also muß auch ein jeglicher unter euch, der nicht absagt allem, was er hat, kann nicht mein Jünger sein.",
+      "zh": "这样，你们无论什么人，若不撇下一切所有的，就不能作我的门徒。」",
+      "ja": "そういうわけで、あなたがたはだれでも、自分の財産全部を捨てないでは、わたしの弟子になることはできません。"
+    },
+    {
+      "number": 34,
+      "ko": "소금이 좋은 것이나 소금도 만일 그 맛을 잃으면 무엇으로 짜게 하리요",
+      "en": "\"Salt is good, but if it loses its saltiness, how can it be made salty again?",
+      "de": "Das Salz ist ein gutes Ding; wo aber das Salz dumm wird, womit wird man's würzen?",
+      "zh": "「盐本是好的；盐若失了味，可用什么叫它再咸呢？",
+      "ja": "ですから、塩は良いものですが、もしその塩が塩けをなくしたら、何によってそれに味をつけるのでしょうか。"
+    },
+    {
+      "number": 35,
+      "ko": "땅에도, 거름에도 쓸 데 없어 내버리느니라 들을 귀가 있는 자는 들을지어다 하시니라",
+      "en": "It is fit neither for the soil nor for the manure pile; it is thrown out. \"He who has ears to hear, let him hear.\"",
+      "de": "Es ist weder auf das Land noch in den Mist nütze, sondern man wird's wegwerfen. Wer Ohren hat, zu hören, der höre!",
+      "zh": "或用在田里，或堆在粪里，都不合式，只好丢在外面。有耳可听的，就应当听！」",
+      "ja": "土地にも肥やしにも役立たず、外に投げ捨てられてしまいます。聞く耳のある人は聞きなさい。」"
+    }
+  ]
+}

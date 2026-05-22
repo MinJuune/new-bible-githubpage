@@ -1,0 +1,486 @@
+{
+  "book": "Acts",
+  "chapter": 7,
+  "verses": [
+    {
+      "number": 1,
+      "ko": "대제사장이 이르되 이것이 사실이냐",
+      "en": "Then the high priest asked him, \"Are these charges true?\"",
+      "de": "Da sprach der Hohepriester: Ist dem also?",
+      "zh": "大祭司就说：「这些事果然有吗？」",
+      "ja": "大祭司は、「そのとおりか。」と尋ねた。"
+    },
+    {
+      "number": 2,
+      "ko": "스데반이 이르되 여러분 부형들이여 들으소서 우리 조상 아브라함이 하란에 있기 전 메소보다미아에 있을 때에 영광의 하나님이 그에게 보여",
+      "en": "To this he replied: \"Brothers and fathers, listen to me! The God of glory appeared to our father Abraham while he was still in Mesopotamia, before he lived in Haran.",
+      "de": "Er aber sprach: Liebe Brüder und Väter, höret zu. Der Gott der Herrlichkeit erschien unserm Vater Abraham, da er noch in Mesopotamien war, ehe er wohnte in Haran,",
+      "zh": "司提反说：「诸位父兄请听！当日我们的祖宗亚伯拉罕在美索不达米亚还未住哈兰的时候，荣耀的　神向他显现，",
+      "ja": "そこでステパノは言った。「兄弟たち、父たちよ。聞いてください。私たちの父祖アブラハムが、カランに住む以前まだメソポタミヤにいたとき、栄光の神が彼に現われて、"
+    },
+    {
+      "number": 3,
+      "ko": "이르시되 네 고향과 친척을 떠나 내가 네게 보일 땅으로 가라 하시니",
+      "en": "'Leave your country and your people,' God said, 'and go to the land I will show you.'",
+      "de": "und sprach zu ihm: Gehe aus deinem Lande und von deiner Freundschaft und zieh in ein Land, das ich dir zeigen will.",
+      "zh": "对他说：『你要离开本地和亲族，往我所要指示你的地方去。』",
+      "ja": "『あなたの土地とあなたの親族を離れ、わたしがあなたに示す地に行け。』と言われました。"
+    },
+    {
+      "number": 4,
+      "ko": "아브라함이 갈대아 사람의 땅을 떠나 하란에 거하다가 그의 아버지가 죽으매 하나님이 그를 거기서 너희 지금 사는 이 땅으로 옮기셨느니라",
+      "en": "\"So he left the land of the Chaldeans and settled in Haran. After the death of his father, God sent him to this land where you are now living.",
+      "de": "Da ging er aus der Chaldäer Lande und wohnte in Haran. Und von dort, da sein Vater gestorben war, brachte er ihn herüber in dies Land, darin ihr nun wohnet,",
+      "zh": "他就离开迦勒底人之地，住在哈兰。他父亲死了以后，　神使他从那里搬到你们现在所住之地。",
+      "ja": "そこで、アブラハムはカルデヤ人の地を出て、カランに住みました。そして、父の死後、神は彼をそこから今あなたがたの住んでいるこの地にお移しになりましたが、"
+    },
+    {
+      "number": 5,
+      "ko": "그러나 여기서 발 붙일 만한 땅도 유업으로 주지 아니하시고 다만 이 땅을 아직 자식도 없는 그와 그의 후손에게 소유로 주신다고 약속하셨으며",
+      "en": "He gave him no inheritance here, not even a foot of ground. But God promised him that he and his descendants after him would possess the land, even though at that time Abraham had no child.",
+      "de": "und gab ihm kein Erbteil darin, auch nicht einen Fuß breit, und verhieß ihm, er wollte es geben ihm zu besitzen und seinem Samen nach ihm, da er noch kein Kind hatte.",
+      "zh": "在这地方，　神并没有给他产业，连立足之地也没有给他；但应许要将这地赐给他和他的后裔为业；那时他还没有儿子。",
+      "ja": "ここでは、足の踏み場となるだけのものさえも、相続財産として彼にお与えになりませんでした。それでも、子どももなかった彼に対して、この地を彼とその子孫に財産として与えることを約束されたのです。"
+    },
+    {
+      "number": 6,
+      "ko": "하나님이 또 이같이 말씀하시되 그 후손이 다른 땅에서 나그네가 되리니 그 땅 사람들이 종으로 삼아 사백 년 동안을 괴롭게 하리라 하시고",
+      "en": "God spoke to him in this way: 'Your descendants will be strangers in a country not their own, and they will be enslaved and mistreated four hundred years.",
+      "de": "Aber Gott sprach also: Dein Same wird ein Fremdling sein in einem fremden Lande, und sie werden ihn dienstbar machen und übel behandeln vierhundert Jahre;",
+      "zh": "神说：『他的后裔必寄居外邦，那里的人要叫他们作奴仆，苦待他们四百年。』",
+      "ja": "また神は次のようなことを話されました。『彼の子孫は外国に移り住み、四百年間、奴隷にされ、虐待される。』"
+    },
+    {
+      "number": 7,
+      "ko": "또 이르시되 종 삼는 나라를 내가 심판하리니 그 후에 그들이 나와서 이 곳에서 나를 섬기리라 하시고",
+      "en": "But I will punish the nation they serve as slaves,' God said, 'and afterward they will come out of that country and worship me in this place.'",
+      "de": "und das Volk, dem sie dienen werden, will ich richten, sprach Gott; und darnach werden sie ausziehen und mir dienen an dieser Stätte.",
+      "zh": "神又说：『使他们作奴仆的那国，我要惩罚。以后他们要出来，在这地方事奉我。』",
+      "ja": "そして、こう言われました。『彼らを奴隷にする国民は、わたしがさばく。その後、彼らはのがれ出て、この所で、わたしを礼拝する。』"
+    },
+    {
+      "number": 8,
+      "ko": "할례의 언약을 아브라함에게 주셨더니 그가 이삭을 낳아 여드레 만에 할례를 행하고 이삭이 야곱을, 야곱이 우리 열두 조상을 낳으니라",
+      "en": "Then he gave Abraham the covenant of circumcision. And Abraham became the father of Isaac and circumcised him eight days after his birth. Later Isaac became the father of Jacob, and Jacob became the father of the twelve patriarchs.",
+      "de": "Und gab ihm den Bund der Beschneidung. Und er zeugte Isaak und beschnitt ihn am achten Tage, und Isaak den Jakob, und Jakob die zwölf Erzväter.",
+      "zh": "神又赐他割礼的约。于是亚伯拉罕生了以撒，第八日给他行了割礼。以撒生雅各；雅各生十二位先祖。",
+      "ja": "また神は、アブラハムに割礼の契約をお与えになりました。こうして、彼にイサクが生まれました。彼は八日目にイサクに割礼を施しました。それから、イサクにヤコブが生まれ、ヤコブに十二人の族長が生まれました。"
+    },
+    {
+      "number": 9,
+      "ko": "여러 조상이 요셉을 시기하여 애굽에 팔았더니 하나님이 그와 함께 계셔",
+      "en": "\"Because the patriarchs were jealous of Joseph, they sold him as a slave into Egypt. But God was with him",
+      "de": "Und die Erzväter neideten Joseph und verkauften ihn nach Ägypten; aber Gott war mit ihm",
+      "zh": "「先祖嫉妒约瑟，把他卖到埃及去；　神却与他同在，",
+      "ja": "族長たちはヨセフをねたんで、彼をエジプトに売りとばしました。しかし、神は彼とともにおられ、"
+    },
+    {
+      "number": 10,
+      "ko": "그 모든 환난에서 건져내사 애굽 왕 바로 앞에서 은총과 지혜를 주시매 바로가 그를 애굽과 자기 온 집의 통치자로 세웠느니라",
+      "en": "and rescued him from all his troubles. He gave Joseph wisdom and enabled him to gain the goodwill of Pharaoh king of Egypt; so he made him ruler over Egypt and all his palace.",
+      "de": "und errettete ihn aus aller seiner Trübsal und gab ihm Gnade und Weisheit vor Pharao, dem König in Ägypten; der setzte ihn zum Fürsten über Ägypten über sein ganzes Haus.",
+      "zh": "救他脱离一切苦难，又使他在埃及王法老面前得恩典，有智慧。法老就派他作埃及国的宰相兼管全家。",
+      "ja": "あらゆる患難から彼を救い出し、エジプト王パロの前で、恵みと知恵をお与えになったので、パロは彼をエジプトと王の家全体を治める大臣に任じました。"
+    },
+    {
+      "number": 11,
+      "ko": "그 때에 애굽과 가나안 온 땅에 흉년이 들어 큰 환난이 있을새 우리 조상들이 양식이 없는지라",
+      "en": "\"Then a famine struck all Egypt and Canaan, bringing great suffering, and our fathers could not find food.",
+      "de": "Es kam aber eine teure Zeit über das ganze Land Ägypten und Kanaan und große Trübsal, und unsere Väter fanden nicht Nahrung.",
+      "zh": "后来埃及和迦南全地遭遇饥荒，大受艰难，我们的祖宗就绝了粮。",
+      "ja": "ところが、エジプトとカナンとの全地にききんが起こり、大きな災難が襲って来たので、私たちの先祖たちには、食物がなくなりました。"
+    },
+    {
+      "number": 12,
+      "ko": "야곱이 애굽에 곡식 있다는 말을 듣고 먼저 우리 조상들을 보내고",
+      "en": "When Jacob heard that there was grain in Egypt, he sent our fathers on their first visit.",
+      "de": "Jakob aber hörte, daß in Ägypten Getreide wäre, und sandte unsere Väter aus aufs erstemal.",
+      "zh": "雅各听见在埃及有粮，就打发我们的祖宗初次往那里去。",
+      "ja": "しかし、ヤコブはエジプトに穀物があると聞いて、初めに私たちの先祖たちを遣わしました。"
+    },
+    {
+      "number": 13,
+      "ko": "또 재차 보내매 요셉이 자기 형제들에게 알려지게 되고 또 요셉의 친족이 바로에게 드러나게 되니라",
+      "en": "On their second visit, Joseph told his brothers who he was, and Pharaoh learned about Joseph's family.",
+      "de": "Und zum andernmal ward Joseph erkannt von seinen Brüdern, und ward dem Pharao Josephs Geschlecht offenbar.",
+      "zh": "第二次约瑟与弟兄们相认，他的亲族也被法老知道了。",
+      "ja": "二回目のとき、ヨセフは兄弟たちに、自分のことを打ち明け、ヨセフの家族のことがパロに明らかになりました。"
+    },
+    {
+      "number": 14,
+      "ko": "요셉이 사람을 보내어 그의 아버지 야곱과 온 친족 일흔다섯 사람을 청하였더니",
+      "en": "After this, Joseph sent for his father Jacob and his whole family, seventy-five in all.",
+      "de": "Joseph aber sandte aus und ließ holen seinen Vater Jakob und seine ganze Freundschaft, fünfundsiebzig Seelen.",
+      "zh": "约瑟就打发弟兄请父亲雅各和全家七十五个人都来。",
+      "ja": "そこで、ヨセフは人をやって、父ヤコブと七十五人の全親族を呼び寄せました。"
+    },
+    {
+      "number": 15,
+      "ko": "야곱이 애굽으로 내려가 자기와 우리 조상들이 거기서 죽고",
+      "en": "Then Jacob went down to Egypt, where he and our fathers died.",
+      "de": "Und Jakob zog hinab nach Ägypten und starb, er und unsere Väter.",
+      "zh": "于是雅各下了埃及，后来他和我们的祖宗都死在那里；",
+      "ja": "ヤコブはエジプトに下り、そこで彼も私たちの先祖たちも死にました。"
+    },
+    {
+      "number": 16,
+      "ko": "세겜으로 옮겨져 아브라함이 세겜 하몰의 자손에게서 은으로 값 주고 산 무덤에 장사되니라",
+      "en": "Their bodies were brought back to Shechem and placed in the tomb that Abraham had bought from the sons of Hamor at Shechem for a certain sum of money.",
+      "de": "Und sie sind herübergebracht nach Sichem und gelegt in das Grab, das Abraham gekauft hatte ums Geld von den Kindern Hemor zu Sichem.",
+      "zh": "又被带到示剑，葬于亚伯拉罕在示剑用银子从哈抹子孙买来的坟墓里。",
+      "ja": "そしてシケムに運ばれ、かねてアブラハムがいくらかの金でシケムのハモルの子から買っておいた墓に葬られました。"
+    },
+    {
+      "number": 17,
+      "ko": "하나님이 아브라함에게 약속하신 때가 가까우매 이스라엘 백성이 애굽에서 번성하여 많아졌더니",
+      "en": "\"As the time drew near for God to fulfill his promise to Abraham, the number of our people in Egypt greatly increased.",
+      "de": "Da nun die Zeit der Verheißung nahte, die Gott Abraham geschworen hatte, wuchs das Volk und mehrte sich in Ägypten,",
+      "zh": "「及至　神应许亚伯拉罕的日期将到，以色列民在埃及兴盛众多，",
+      "ja": "神がアブラハムにお立てになった約束の時が近づくにしたがって、民はエジプトの中にふえ広がり、"
+    },
+    {
+      "number": 18,
+      "ko": "요셉을 알지 못하는 새 임금이 애굽 왕위에 오르매",
+      "en": "Then another king, who knew nothing about Joseph, became ruler of Egypt.",
+      "de": "bis daß ein anderer König aufkam, der nichts wußte von Joseph.",
+      "zh": "直到有不晓得约瑟的新王兴起。",
+      "ja": "ヨセフのことを知らない別の王がエジプトの王位につくときまで続きました。"
+    },
+    {
+      "number": 19,
+      "ko": "그가 우리 족속에게 교활한 방법을 써서 조상들을 괴롭게 하여 그 어린 아이들을 내버려 살지 못하게 하려 할새",
+      "en": "He dealt treacherously with our people and oppressed our forefathers by forcing them to throw out their newborn babies so that they would die.",
+      "de": "Dieser trieb Hinterlist mit unserm Geschlecht und behandelte unsre Väter übel und schaffte, daß man die jungen Kindlein aussetzen mußte, daß sie nicht lebendig blieben.",
+      "zh": "他用诡计待我们的宗族，苦害我们的祖宗，叫他们丢弃婴孩，使婴孩不能存活。",
+      "ja": "この王は、私たちの同胞に対して策略を巡らし、私たちの先祖を苦しめて、幼子を捨てさせ、生かしておけないようにしました。"
+    },
+    {
+      "number": 20,
+      "ko": "그 때에 모세가 났는데 하나님 보시기에 아름다운지라 그의 아버지의 집에서 석 달 동안 길리더니",
+      "en": "\"At that time Moses was born, and he was no ordinary child. For three months he was cared for in his father's house.",
+      "de": "Zu der Zeit war Moses geboren, und war ein feines Kind vor Gott und ward drei Monate ernährt in seines Vaters Hause.",
+      "zh": "那时，摩西生下来，俊美非凡，在他父亲家里抚养了三个月。",
+      "ja": "このようなときに、モーセが生まれたのです。彼は神の目にかなった、かわいらしい子で、三か月の間、父の家で育てられましたが、"
+    },
+    {
+      "number": 21,
+      "ko": "버려진 후에 바로의 딸이 그를 데려다가 자기 아들로 기르매",
+      "en": "When he was placed outside, Pharaoh's daughter took him and brought him up as her own son.",
+      "de": "Als er aber ausgesetzt ward, nahm ihn die Tochter Pharaos auf und zog ihn auf, ihr selbst zu einem Sohn.",
+      "zh": "他被丢弃的时候，法老的女儿拾了去，养为自己的儿子。",
+      "ja": "ついに捨てられたのをパロの娘が拾い上げ、自分の子として育てたのです。"
+    },
+    {
+      "number": 22,
+      "ko": "모세가 애굽 사람의 모든 지혜를 배워 그의 말과 하는 일들이 능하더라",
+      "en": "Moses was educated in all the wisdom of the Egyptians and was powerful in speech and action.",
+      "de": "Und Moses ward gelehrt in aller Weisheit der Ägypter und war mächtig in Werken und Worten.",
+      "zh": "摩西学了埃及人一切的学问，说话行事都有才能。",
+      "ja": "モーセはエジプト人のあらゆる学問を教え込まれ、ことばにもわざにも力がありました。"
+    },
+    {
+      "number": 23,
+      "ko": "나이가 사십이 되매 그 형제 이스라엘 자손을 돌볼 생각이 나더니",
+      "en": "\"When Moses was forty years old, he decided to visit his fellow Israelites.",
+      "de": "Da er aber vierzig Jahre alt ward, gedachte er zu sehen nach seinen Brüdern, den Kindern von Israel.",
+      "zh": "「他将到四十岁，心中起意去看望他的弟兄以色列人；",
+      "ja": "四十歳になったころ、モーセはその兄弟であるイスラエル人を、顧みる心を起こしました。"
+    },
+    {
+      "number": 24,
+      "ko": "한 사람이 원통한 일 당함을 보고 보호하여 압제 받는 자를 위하여 원수를 갚아 애굽 사람을 쳐 죽이니라",
+      "en": "He saw one of them being mistreated by an Egyptian, so he went to his defense and avenged him by killing the Egyptian.",
+      "de": "Und sah einen Unrecht leiden; da stand er bei und rächte den, dem Leid geschah, und erschlug den Ägypter.",
+      "zh": "到了那里，见他们一个人受冤屈，就护庇他，为那受欺压的人报仇，打死了那埃及人。",
+      "ja": "そして、同胞のひとりが虐待されているのを見て、その人をかばい、エジプト人を打ち倒して、乱暴されているその人の仕返しをしました。"
+    },
+    {
+      "number": 25,
+      "ko": "그는 그의 형제들이 하나님께서 자기의 손을 통하여 구원해 주시는 것을 깨달으리라고 생각하였으나 그들이 깨닫지 못하였더라",
+      "en": "Moses thought that his own people would realize that God was using him to rescue them, but they did not.",
+      "de": "Er meinte aber, seine Brüder sollten's verstehen, daß Gott durch seine Hand ihnen Heil gäbe; aber sie verstanden's nicht.",
+      "zh": "他以为弟兄必明白　神是借他的手搭救他们；他们却不明白。",
+      "ja": "彼は、自分の手によって神が兄弟たちに救いを与えようとしておられることを、みなが理解してくれるものと思っていましたが、彼らは理解しませんでした。"
+    },
+    {
+      "number": 26,
+      "ko": "이튿날 이스라엘 사람끼리 싸울 때에 모세가 와서 화해시키려 하여 이르되 너희는 형제인데 어찌 서로 해치느냐 하니",
+      "en": "The next day Moses came upon two Israelites who were fighting. He tried to reconcile them by saying, 'Men, you are brothers; why do you want to hurt each other?'",
+      "de": "Und am andern Tage kam er zu ihnen, da sie miteinander haderten, und handelte mit ihnen, daß sie Frieden hätten, und sprach: Liebe Männer, ihr seid Brüder, warum tut einer dem andern Unrecht?",
+      "zh": "第二天，遇见两个以色列人争斗，就劝他们和睦，说：『你们二位是弟兄，为什么彼此欺负呢？』",
+      "ja": "翌日彼は、兄弟たちが争っているところに現われ、和解させようとして、『あなたがたは、兄弟なのだ。それなのにどうしてお互いに傷つけ合っているのか。』と言いました。"
+    },
+    {
+      "number": 27,
+      "ko": "그 동무를 해치는 사람이 모세를 밀어뜨려 이르되 누가 너를 관리와 재판장으로 우리 위에 세웠느냐",
+      "en": "\"But the man who was mistreating the other pushed Moses aside and said, 'Who made you ruler and judge over us?",
+      "de": "Der aber seinem Nächsten Unrecht tat, stieß in von sich und sprach: Wer hat dich über uns gesetzt zum Obersten und Richter?",
+      "zh": "那欺负邻舍的把他推开，说：『谁立你作我们的首领和审判官呢？",
+      "ja": "すると、隣人を傷つけていた者が、モーセを押しのけてこう言いました。『だれがあなたを、私たちの支配者や裁判官にしたのか。"
+    },
+    {
+      "number": 28,
+      "ko": "네가 어제는 애굽 사람을 죽임과 같이 또 나를 죽이려느냐 하니",
+      "en": "Do you want to kill me as you killed the Egyptian yesterday?'",
+      "de": "Willst du mich auch töten, wie du gestern den Ägypter getötet hast?",
+      "zh": "难道你要杀我，像昨天杀那埃及人吗？』",
+      "ja": "きのうエジプト人を殺したように、私も殺す気か。』"
+    },
+    {
+      "number": 29,
+      "ko": "모세가 이 말 때문에 도주하여 미디안 땅에서 나그네 되어 거기서 아들 둘을 낳으니라",
+      "en": "When Moses heard this, he fled to Midian, where he settled as a foreigner and had two sons.",
+      "de": "Mose aber floh wegen dieser Rede und ward ein Fremdling im Lande Midian; daselbst zeugte er zwei Söhne.",
+      "zh": "摩西听见这话就逃走了，寄居于米甸；在那里生了两个儿子。",
+      "ja": "このことばを聞いたモーセは、逃げてミデアンの地に身を寄せ、そこで男の子ふたりをもうけました。"
+    },
+    {
+      "number": 30,
+      "ko": "사십 년이 차매 천사가 시내 산 광야 가시나무 떨기 불꽃 가운데서 그에게 보이거늘",
+      "en": "\"After forty years had passed, an angel appeared to Moses in the flames of a burning bush in the desert near Mount Sinai.",
+      "de": "Und über vierzig Jahre erschien ihm in der Wüste an dem Berge Sinai der Engel des HERRN in einer Feuerflamme im Busch.",
+      "zh": "「过了四十年，在西奈山的旷野，有一位天使从荆棘火焰中向摩西显现。",
+      "ja": "四十年たったとき、御使いが、モーセに、シナイ山の荒野で柴の燃える炎の中に現われました。"
+    },
+    {
+      "number": 31,
+      "ko": "모세가 그 광경을 보고 놀랍게 여겨 알아보려고 가까이 가니 주의 소리가 있어",
+      "en": "When he saw this, he was amazed at the sight. As he went over to look more closely, he heard the Lord's voice:",
+      "de": "Da es aber Mose sah, wunderte er sich des Gesichtes. Als er aber hinzuging zu schauen, geschah die Stimme des HERRN zu ihm:",
+      "zh": "摩西见了那异象，便觉希奇，正进前观看的时候，有主的声音说：",
+      "ja": "その光景を見たモーセは驚いて、それをよく見ようとして近寄ったとき、主の御声が聞こえました。"
+    },
+    {
+      "number": 32,
+      "ko": "나는 네 조상의 하나님 즉 아브라함과 이삭과 야곱의 하나님이라 하신대 모세가 무서워 감히 바라보지 못하더라",
+      "en": "'I am the God of your fathers, the God of Abraham, Isaac and Jacob.' Moses trembled with fear and did not dare to look.",
+      "de": "Ich bin der Gott deiner Väter, der Gott Abrahams und der Gott Isaaks und der Gott Jakobs. Mose aber ward zitternd und wagte nicht anzuschauen.",
+      "zh": "『我是你列祖的　神，就是亚伯拉罕的　神，以撒的　神，雅各的　神。』摩西战战兢兢，不敢观看。",
+      "ja": "『わたしはあなたの先祖の神、アブラハム、イサク、ヤコブの神である。』そこで、モーセは震え上がり、見定める勇気もなくなりました。"
+    },
+    {
+      "number": 33,
+      "ko": "주께서 이르시되 네 발의 신을 벗으라 네가 서 있는 곳은 거룩한 땅이니라",
+      "en": "\"Then the Lord said to him, 'Take off your sandals; the place where you are standing is holy ground.",
+      "de": "Aber der HERR sprach zu ihm: Zieh die Schuhe aus von deinen Füßen; denn die Stätte, da du stehest, ist heilig Land!",
+      "zh": "主对他说：『把你脚上的鞋脱下来，因为你所站之地是圣地。",
+      "ja": "すると、主は彼にこう言われたのです。『あなたの足のくつを脱ぎなさい。あなたの立っている所は聖なる地である。"
+    },
+    {
+      "number": 34,
+      "ko": "내 백성이 애굽에서 괴로움 받음을 내가 확실히 보고 그 탄식하는 소리를 듣고 그들을 구원하려고 내려왔노니 이제 내가 너를 애굽으로 보내리라 하시니라",
+      "en": "I have indeed seen the oppression of my people in Egypt. I have heard their groaning and have come down to set them free. Now come, I will send you back to Egypt.'",
+      "de": "Ich habe wohl gesehen das Leiden meines Volkes, das in Ägypten ist, und habe ihr Seufzen gehört und bin herabgekommen, sie zu erretten. Und nun komm her, ich will dich nach Ägypten senden.",
+      "zh": "我的百姓在埃及所受的困苦，我实在看见了，他们悲叹的声音，我也听见了。我下来要救他们。你来！我要差你往埃及去。』",
+      "ja": "わたしは、確かにエジプトにいるわたしの民の苦難を見、そのうめき声を聞いたので、彼らを救い出すために下って来た。さあ、行きなさい。わたしはあなたをエジプトに遣わそう。』"
+    },
+    {
+      "number": 35,
+      "ko": "그들의 말이 누가 너를 관리와 재판장으로 세웠느냐 하며 거절하던 그 모세를 하나님은 가시나무 떨기 가운데서 보이던 천사의 손으로 관리와 속량하는 자로서 보내셨으니",
+      "en": "\"This is the same Moses whom they had rejected with the words, 'Who made you ruler and judge?' He was sent to be their ruler and deliverer by God himself, through the angel who appeared to him in the bush.",
+      "de": "Diesen Mose, welchen sie verleugneten, da sie sprachen: Wer hat dich zum Obersten und Richter gesetzt? den sandte Gott zu einem Obersten und Erlöser durch die Hand des Engels, der ihm erschien im Busch.",
+      "zh": "这摩西就是百姓弃绝说『谁立你作我们的首领和审判官』的；　神却借那在荆棘中显现之使者的手差派他作首领、作救赎的。",
+      "ja": "『だれがあなたを支配者や裁判官にしたのか。』と言って人々が拒んだこのモーセを、神は柴の中で彼に現われた御使いの手によって、支配者また解放者としてお遣わしになったのです。"
+    },
+    {
+      "number": 36,
+      "ko": "이 사람이 백성을 인도하여 나오게 하고 애굽과 홍해와 광야에서 사십 년간 기사와 표적을 행하였느니라",
+      "en": "He led them out of Egypt and did wonders and miraculous signs in Egypt, at the Red Sea and for forty years in the desert.",
+      "de": "Dieser führte sie aus und tat Wunder und Zeichen in Ägypten, im Roten Meer und in der Wüste vierzig Jahre.",
+      "zh": "这人领百姓出来，在埃及，在红海，在旷野，四十年间行了奇事神迹。",
+      "ja": "この人が、彼らを導き出し、エジプトの地で、紅海で、また四十年間荒野で、不思議なわざとしるしを行ないました。"
+    },
+    {
+      "number": 37,
+      "ko": "이스라엘 자손에 대하여 하나님이 너희 형제 가운데서 나와 같은 선지자를 세우리라 하던 자가 곧 이 모세라",
+      "en": "\"This is that Moses who told the Israelites, 'God will send you a prophet like me from your own people.'",
+      "de": "Dies ist der Mose, der zu den Kindern Israel gesagt hat: “Einen Propheten wird euch der HERR, euer Gott, erwecken aus euren Brüdern gleichwie mich; den sollt ihr hören.”",
+      "zh": "那曾对以色列人说『　神要从你们弟兄中间给你们兴起一位先知像我』的，就是这位摩西。",
+      "ja": "このモーセが、イスラエルの人々に、『神はあなたがたのために、私のようなひとりの預言者を、あなたがたの兄弟たちの中からお立てになる。』と言ったのです。"
+    },
+    {
+      "number": 38,
+      "ko": "시내 산에서 말하던 그 천사와 우리 조상들과 함께 광야 교회에 있었고 또 살아 있는 말씀을 받아 우리에게 주던 자가 이 사람이라",
+      "en": "He was in the assembly in the desert, with the angel who spoke to him on Mount Sinai, and with our fathers; and he received living words to pass on to us.",
+      "de": "Dieser ist's, der in der Gemeinde in der Wüste mit dem Engel war, der ihm redete auf dem Berge Sinai und mit unsern Vätern; dieser empfing lebendige Worte, uns zu geben;",
+      "zh": "这人曾在旷野会中和西奈山上，与那对他说话的天使同在，又与我们的祖宗同在，并且领受活泼的圣言传给我们。",
+      "ja": "また、この人が、シナイ山で彼に語った御使いや私たちの先祖たちとともに、荒野の集会において、生けるみことばを授かり、あなたがたに与えたのです。"
+    },
+    {
+      "number": 39,
+      "ko": "우리 조상들이 모세에게 복종하지 아니하고자 하여 거절하며 그 마음이 도리어 애굽으로 향하여",
+      "en": "\"But our fathers refused to obey him. Instead, they rejected him and in their hearts turned back to Egypt.",
+      "de": "welchem nicht wollten gehorsam werden eure Väter, sondern stießen ihn von sich und wandten sich um mit ihren Herzen nach Ägypten",
+      "zh": "我们的祖宗不肯听从，反弃绝他，心里归向埃及，",
+      "ja": "ところが、私たちの先祖たちは彼に従うことを好まず、かえって彼を退け、エジプトをなつかしく思って、"
+    },
+    {
+      "number": 40,
+      "ko": "아론더러 이르되 우리를 인도할 신들을 우리를 위하여 만들라 애굽 땅에서 우리를 인도하던 이 모세는 어떻게 되었는지 알지 못하노라 하고",
+      "en": "They told Aaron, 'Make us gods who will go before us. As for this fellow Moses who led us out of Egypt--we don't know what has happened to him!'",
+      "de": "und sprachen zu Aaron: Mache uns Götter, die vor uns hin gehen; denn wir wissen nicht, was diesem Mose, der uns aus dem Lande Ägypten geführt hat, widerfahren ist.",
+      "zh": "对亚伦说：『你且为我们造些神像，在我们前面引路；因为领我们出埃及地的那个摩西，我们不知道他遭了什么事。』",
+      "ja": "『私たちに、先立って行く神々を作ってください。私たちをエジプトの地から導き出したモーセは、どうなったのかわかりませんから。』とアロンに言いました。"
+    },
+    {
+      "number": 41,
+      "ko": "그 때에 그들이 송아지를 만들어 그 우상 앞에 제사하며 자기 손으로 만든 것을 기뻐하더니",
+      "en": "That was the time they made an idol in the form of a calf. They brought sacrifices to it and held a celebration in honor of what their hands had made.",
+      "de": "Und sie machten ein Kalb zu der Zeit und brachten dem Götzen Opfer und freuten sich der Werke ihrer Hände.",
+      "zh": "那时，他们造了一个牛犊，又拿祭物献给那像，欢喜自己手中的工作。",
+      "ja": "そのころ彼らは子牛を作り、この偶像に供え物をささげ、彼らの手で作った物を楽しんでいました。"
+    },
+    {
+      "number": 42,
+      "ko": "하나님이 외면하사 그들을 그 하늘의 군대 섬기는 일에 버려 두셨으니 이는 선지자의 책에 기록된 바 이스라엘의 집이여 너희가 광야에서 사십 년간 희생과 제물을 내게 드린 일이 있었느냐",
+      "en": "But God turned away and gave them over to the worship of the heavenly bodies. This agrees with what is written in the book of the prophets: \"'Did you bring me sacrifices and offerings forty years in the desert, O house of Israel?",
+      "de": "Aber Gott wandte sich und gab sie dahin, das sie dienten des Himmels Heer; wie denn geschrieben steht in dem Buch der Propheten: “Habt ihr vom Hause Israel die vierzig Jahre in der Wüste mir auch je Opfer und Vieh geopfert?",
+      "zh": "神就转脸不顾，任凭他们事奉天上的日月星辰，正如先知书上所写的说： 以色列家啊， 你们四十年间在旷野， 岂是将牺牲和祭物献给我吗？",
+      "ja": "そこで、神は彼らに背を向け、彼らが天の星に仕えるままにされました。預言者たちの書に書いてあるとおりです。 『イスラエルの家よ。あなたがたは 荒野にいた四十年の間に、 ほふられた獣と供え物とを、 わたしにささげたことがあったか。"
+    },
+    {
+      "number": 43,
+      "ko": "몰록의 장막과 신 레판의 별을 받들었음이여 이것은 너희가 절하고자 하여 만든 형상이로다 내가 너희를 바벨론 밖으로 옮기리라 함과 같으니라",
+      "en": "You have lifted up the shrine of Molech and the star of your god Rephan, the idols you made to worship. Therefore I will send you into exile' beyond Babylon.",
+      "de": "Und ihr nahmet die Hütte Molochs an und das Gestirn eures Gottes Remphan, die Bilder, die ihr gemacht hattet, sie anzubeten. Und ich will euch wegwerfen jenseit Babylon.”",
+      "zh": "你们抬着摩洛的帐幕和理番神的星， 就是你们所造为要敬拜的像。 因此，我要把你们迁到巴比伦外去。",
+      "ja": "あなたがたは、モロクの幕屋と ロンパの神の星をかついでいた。 それらは、あなたがたが拝むために 作った偶像ではないか。 それゆえ、わたしは、あなたがたを バビロンのかなたへ移す。』"
+    },
+    {
+      "number": 44,
+      "ko": "광야에서 우리 조상들에게 증거의 장막이 있었으니 이것은 모세에게 말씀하신 이가 명하사 그가 본 그 양식대로 만들게 하신 것이라",
+      "en": "\"Our forefathers had the tabernacle of the Testimony with them in the desert. It had been made as God directed Moses, according to the pattern he had seen.",
+      "de": "Es hatten unsre Väter die Hütte des Zeugnisses in der Wüste, wie ihnen das verordnet hatte, der zu Mose redete, daß er sie machen sollte nach dem Vorbilde, das er gesehen hatte;",
+      "zh": "「我们的祖宗在旷野，有法柜的帐幕，是　神吩咐摩西叫他照所看见的样式做的。",
+      "ja": "私たちの先祖のためには、荒野にあかしの幕屋がありました。それは、見たとおりの形に造れとモーセに言われた方の命令どおりに、造られていました。"
+    },
+    {
+      "number": 45,
+      "ko": "우리 조상들이 그것을 받아 하나님이 그들 앞에서 쫓아내신 이방인의 땅을 점령할 때에 여호수아와 함께 가지고 들어가서 다윗 때까지 이르니라",
+      "en": "Having received the tabernacle, our fathers under Joshua brought it with them when they took the land from the nations God drove out before them. It remained in the land until the time of David,",
+      "de": "welche unsre Väter auch annahmen und mit Josua in das Land brachten, das die Heiden innehatten, welche Gott ausstieß vor dem Angesicht unsrer Väter bis zur Zeit Davids.",
+      "zh": "这帐幕，我们的祖宗相继承受。当　神在他们面前赶出外邦人去的时候，他们同约书亚把帐幕搬进承受为业之地，直存到大卫的日子。",
+      "ja": "私たちの先祖は、この幕屋を次々に受け継いで、神が先祖たちの前から異邦人を追い払い、その領土を取らせてくださったときには、ヨシュアとともにそれを運び入れ、ついにダビデの時代となりました。"
+    },
+    {
+      "number": 46,
+      "ko": "다윗이 하나님 앞에서 은혜를 받아 야곱의 집을 위하여 하나님의 처소를 준비하게 하여 달라고 하더니",
+      "en": "who enjoyed God's favor and asked that he might provide a dwelling place for the God of Jacob.",
+      "de": "Der fand Gnade bei Gott und bat, daß er eine Wohnung finden möchte für den Gott Jakobs.",
+      "zh": "大卫在　神面前蒙恩，祈求为雅各的　神预备居所；",
+      "ja": "ダビデは神の前に恵みをいただき、ヤコブの神のために御住まいを得たいと願い求めました。"
+    },
+    {
+      "number": 47,
+      "ko": "솔로몬이 그를 위하여 집을 지었느니라",
+      "en": "But it was Solomon who built the house for him.",
+      "de": "Salomo aber baute ihm ein Haus.",
+      "zh": "却是所罗门为　神造成殿宇。",
+      "ja": "けれども、神のために家を建てたのはソロモンでした。"
+    },
+    {
+      "number": 48,
+      "ko": "그러나 지극히 높으신 이는 손으로 지은 곳에 계시지 아니하시나니 선지자가 말한 바",
+      "en": "\"However, the Most High does not live in houses made by men. As the prophet says:",
+      "de": "Aber der Allerhöchste wohnt nicht in Tempeln, die mit Händen gemacht sind, wie der Prophet spricht:",
+      "zh": "其实，至高者并不住人手所造的，就如先知所言：",
+      "ja": "しかし、いと高き方は、手で造った家にはお住みになりません。預言者が語っているとおりです。"
+    },
+    {
+      "number": 49,
+      "ko": "주께서 이르시되 하늘은 나의 보좌요 땅은 나의 발등상이니 너희가 나를 위하여 무슨 집을 짓겠으며 나의 안식할 처소가 어디냐",
+      "en": "\"'Heaven is my throne, and the earth is my footstool. What kind of house will you build for me? says the Lord. Or where will my resting place be?",
+      "de": "Der Himmel ist mein Stuhl und die Erde meiner Füße Schemel; was wollt ihr mir denn für ein Haus bauen? spricht der HERR, oder welches ist die Stätte meiner Ruhe?",
+      "zh": "主说：天是我的座位， 地是我的脚凳； 你们要为我造何等的殿宇？ 哪里是我安息的地方呢？",
+      "ja": "『主は言われる。 天はわたしの王座、 地はわたしの足の足台である。 あなたがたは、どのような家を わたしのために建てようとするのか。 わたしの休む所とは、どこか。"
+    },
+    {
+      "number": 50,
+      "ko": "이 모든 것이 다 내 손으로 지은 것이 아니냐 함과 같으니라",
+      "en": "Has not my hand made all these things?'",
+      "de": "Hat nicht meine Hand das alles gemacht?”",
+      "zh": "这一切不都是我手所造的吗？",
+      "ja": "わたしの手が、これらのものを みな、造ったのではないか。』"
+    },
+    {
+      "number": 51,
+      "ko": "목이 곧고 마음과 귀에 할례를 받지 못한 사람들아 너희도 너희 조상과 같이 항상 성령을 거스르는도다",
+      "en": "\"You stiff-necked people, with uncircumcised hearts and ears! You are just like your fathers: You always resist the Holy Spirit!",
+      "de": "Ihr Halsstarrigen und Unbeschnittenen an Herzen und Ohren, ihr widerstrebt allezeit dem Heiligen Geist, wie eure Väter also auch ihr.",
+      "zh": "「你们这硬着颈项、心与耳未受割礼的人，常时抗拒圣灵！你们的祖宗怎样，你们也怎样。",
+      "ja": "かたくなで、心と耳とに割礼を受けていない人たち。あなたがたは、先祖たちと同様に、いつも聖霊に逆らっているのです。"
+    },
+    {
+      "number": 52,
+      "ko": "너희 조상들이 선지자들 중의 누구를 박해하지 아니하였느냐 의인이 오시리라 예고한 자들을 그들이 죽였고 이제 너희는 그 의인을 잡아 준 자요 살인한 자가 되나니",
+      "en": "Was there ever a prophet your fathers did not persecute? They even killed those who predicted the coming of the Righteous One. And now you have betrayed and murdered him--",
+      "de": "Welchen Propheten haben eure Väter nicht verfolgt? Und sie haben getötet, die da zuvor verkündigten die Zukunft dieses Gerechten, dessen Verräter und Mörder ihr nun geworden seid.",
+      "zh": "哪一个先知不是你们祖宗逼迫呢？他们也把预先传说那义者要来的人杀了；如今你们又把那义者卖了，杀了。",
+      "ja": "あなたがたの先祖が迫害しなかった預言者がだれかあったでしょうか。彼らは、正しい方が来られることを前もって宣べた人たちを殺したが、今はあなたがたが、この正しい方を裏切る者、殺す者となりました。"
+    },
+    {
+      "number": 53,
+      "ko": "너희는 천사가 전한 율법을 받고도 지키지 아니하였도다 하니라",
+      "en": "you who have received the law that was put into effect through angels but have not obeyed it.\"",
+      "de": "Ihr habt das Gesetz empfangen durch der Engel Geschäfte, und habt's nicht gehalten.",
+      "zh": "你们受了天使所传的律法，竟不遵守。」",
+      "ja": "あなたがたは、御使いたちによって定められた律法を受けたが、それを守ったことはありません。」"
+    },
+    {
+      "number": 54,
+      "ko": "그들이 이 말을 듣고 마음에 찔려 그를 향하여 이를 갈거늘",
+      "en": "When they heard this, they were furious and gnashed their teeth at him.",
+      "de": "Da sie solches hörten, ging's ihnen durchs Herz, und sie bissen die Zähne zusammen über ihn.",
+      "zh": "众人听见这话就极其恼怒，向司提反咬牙切齿。",
+      "ja": "人々はこれを聞いて、はらわたが煮え返る思いで、ステパノに向かって歯ぎしりした。"
+    },
+    {
+      "number": 55,
+      "ko": "스데반이 성령 충만하여 하늘을 우러러 주목하여 하나님의 영광과 및 예수께서 하나님 우편에 서신 것을 보고",
+      "en": "But Stephen, full of the Holy Spirit, looked up to heaven and saw the glory of God, and Jesus standing at the right hand of God.",
+      "de": "Wie er aber voll heiligen Geistes war, sah er auf gen Himmel und sah die Herrlichkeit Gottes und Jesum stehen zur Rechten Gottes",
+      "zh": "但司提反被圣灵充满，定睛望天，看见　神的荣耀，又看见耶稣站在　神的右边，",
+      "ja": "しかし、聖霊に満たされていたステパノは、天を見つめ、神の栄光と、神の右に立っておられるイエスとを見て、"
+    },
+    {
+      "number": 56,
+      "ko": "말하되 보라 하늘이 열리고 인자가 하나님 우편에 서신 것을 보노라 한대",
+      "en": "\"Look,\" he said, \"I see heaven open and the Son of Man standing at the right hand of God.\"",
+      "de": "und sprach: Siehe, ich sehe den Himmel offen und des Menschen Sohn zur Rechten Gottes stehen.",
+      "zh": "就说：「我看见天开了，人子站在　神的右边。」",
+      "ja": "こう言った。「見なさい。天が開けて、人の子が神の右に立っておられるのが見えます。」"
+    },
+    {
+      "number": 57,
+      "ko": "그들이 큰 소리를 지르며 귀를 막고 일제히 그에게 달려들어",
+      "en": "At this they covered their ears and, yelling at the top of their voices, they all rushed at him,",
+      "de": "Sie schrieen aber laut und hielten ihre Ohren zu und stürmten einmütig auf ihn ein, stießen ihn zur Stadt hinaus und steinigten ihn.",
+      "zh": "众人大声喊叫，捂着耳朵，齐心拥上前去，",
+      "ja": "人々は大声で叫びながら、耳をおおい、いっせいにステパノに殺到した。"
+    },
+    {
+      "number": 58,
+      "ko": "성 밖으로 내치고 돌로 칠새 증인들이 옷을 벗어 사울이라 하는 청년의 발 앞에 두니라",
+      "en": "dragged him out of the city and began to stone him. Meanwhile, the witnesses laid their clothes at the feet of a young man named Saul.",
+      "de": "Und die Zeugen legten ihre Kleider ab zu den Füßen eines Jünglings, der hieß Saulus,",
+      "zh": "把他推到城外，用石头打他。作见证的人把衣裳放在一个少年人名叫扫罗的脚前。",
+      "ja": "そして彼を町の外に追い出して、石で打ち殺した。証人たちは、自分たちの着物をサウロという青年の足もとに置いた。"
+    },
+    {
+      "number": 59,
+      "ko": "그들이 돌로 스데반을 치니 스데반이 부르짖어 이르되 주 예수여 내 영혼을 받으시옵소서 하고",
+      "en": "While they were stoning him, Stephen prayed, \"Lord Jesus, receive my spirit.\"",
+      "de": "und steinigten Stephanus, der anrief und sprach: HERR Jesu, nimm meinen Geist auf!",
+      "zh": "他们正用石头打的时候，司提反呼吁主说：「求主耶稣接收我的灵魂！」",
+      "ja": "こうして彼らがステパノに石を投げつけていると、ステパノは主を呼んで、こう言った。「主イエスよ。私の霊をお受けください。」"
+    },
+    {
+      "number": 60,
+      "ko": "무릎을 꿇고 크게 불러 이르되 주여 이 죄를 그들에게 돌리지 마옵소서 이 말을 하고 자니라",
+      "en": "Then he fell on his knees and cried out, \"Lord, do not hold this sin against them.\" When he had said this, he fell asleep.",
+      "de": "Er kniete aber nieder und schrie laut: HERR, behalte ihnen diese Sünde nicht! Und als er das gesagt, entschlief er.",
+      "zh": "又跪下大声喊着说：「主啊，不要将这罪归于他们！」说了这话，就睡了。扫罗也喜悦他被害。",
+      "ja": "そして、ひざまずいて、大声でこう叫んだ。「主よ。この罪を彼らに負わせないでください。」こう言って、眠りについた。"
+    }
+  ]
+}

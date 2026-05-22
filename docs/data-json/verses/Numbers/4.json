@@ -1,0 +1,398 @@
+{
+  "book": "Numbers",
+  "chapter": 4,
+  "verses": [
+    {
+      "number": 1,
+      "ko": "또 여호와께서 모세와 아론에게 말씀하여 이르시되",
+      "en": "The LORD said to Moses and Aaron:",
+      "de": "Und der HERR redete mit Mose und Aaron und sprach:",
+      "zh": "耶和华晓谕摩西、亚伦说：",
+      "ja": "ヱホバまたモーセとアロンに告て言たまはく"
+    },
+    {
+      "number": 2,
+      "ko": "레위 자손 중에서 고핫 자손을 그들의 종족과 조상의 가문에 따라 집계할지니",
+      "en": "\"Take a census of the Kohathite branch of the Levites by their clans and families.",
+      "de": "Nimm die Summe der Kinder Kahath aus den Kindern Levi nach ihren Geschlechtern und Vaterhäusern,",
+      "zh": "「你从利未人中，将哥辖子孙的总数，照他们的家室、宗族，",
+      "ja": "レビの子孫の中よりコハテの子孫の總數をその宗族に依りその父祖の家にしたがひて計べ"
+    },
+    {
+      "number": 3,
+      "ko": "곧 삼십 세 이상으로 오십 세까지 회막의 일을 하기 위하여 그 역사에 참가할 만한 모든 자를 계수하라",
+      "en": "Count all the men from thirty to fifty years of age who come to serve in the work in the Tent of Meeting.",
+      "de": "von dreißig Jahren an bis ins fünfzigste Jahr, alle, die zum Dienst taugen, daß sie tun die Werke in der Hütte des Stifts.",
+      "zh": "从三十岁直到五十岁，凡前来任职、在会幕里办事的，全都计算。",
+      "ja": "三十歳以上五十歳までにして能く軍団に入り集會の幕屋に働作をなすことを得る者をことごとく數へよ"
+    },
+    {
+      "number": 4,
+      "ko": "고핫 자손이 회막 안의 지성물에 대하여 할 일은 이러하니라",
+      "en": "\"This is the work of the Kohathites in the Tent of Meeting: the care of the most holy things.",
+      "de": "Das soll aber das Amt der Kinder Kahath in der Hütte des Stifts sein; was das Hochheilige ist.",
+      "zh": "哥辖子孙在会幕搬运至圣之物，所办的事乃是这样：",
+      "ja": "コハテの子孫が集會の幕屋においてなすべき勤務は至聖物に關る者にして是のごとし"
+    },
+    {
+      "number": 5,
+      "ko": "진영이 전진할 때에 아론과 그의 아들들이 들어가서 칸 막는 휘장을 걷어 증거궤를 덮고",
+      "en": "When the camp is to move, Aaron and his sons are to go in and take down the shielding curtain and cover the ark of the Testimony with it.",
+      "de": "Wenn das Heer aufbricht, so sollen Aaron und seine Söhne hineingehen und den Vorhang abnehmen und die Lade des Zeugnisses darein winden",
+      "zh": "起营的时候，亚伦和他儿子要进去摘下遮掩柜的幔子，用以蒙盖法柜，",
+      "ja": "即ち營を進むる時はアロンとその子等まづ往て障蔽の幕を取おろし之をもて律法の櫃を覆ひ"
+    },
+    {
+      "number": 6,
+      "ko": "그 위를 해달의 가죽으로 덮고 그 위에 순청색 보자기를 덮은 후에 그 채를 꿰고",
+      "en": "Then they are to cover this with hides of sea cows, spread a cloth of solid blue over that and put the poles in place.",
+      "de": "und darauf tun die Decke von Dachsfellen und obendrauf eine ganz blaue Decke breiten und ihre Stangen daran legen",
+      "zh": "又用海狗皮盖在上头，再蒙上纯蓝色的毯子，把杠穿上。",
+      "ja": "その上に獾の皮の蓋をほどこしまたその上に總靑の布を打かけその杠を差いるべし"
+    },
+    {
+      "number": 7,
+      "ko": "진설병의 상에 청색 보자기를 펴고 대접들과 숟가락들과 주발들과 붓는 잔들을 그 위에 두고 또 항상 진설하는 떡을 그 위에 두고",
+      "en": "\"Over the table of the Presence they are to spread a blue cloth and put on it the plates, dishes and bowls, and the jars for drink offerings; the bread that is continually there is to remain on it.",
+      "de": "und über den Schaubrottisch auch eine blaue Decke breiten und darauf legen die Schüsseln, Löffel, die Schalen und Kannen zum Trankopfer, und das beständige Brot soll darauf liegen.",
+      "zh": "又用蓝色毯子铺在陈设饼的桌子上，将盘子、调羹、奠酒的爵，和杯摆在上头。桌子上也必有常设的饼。",
+      "ja": "また供前のパンの案の上には靑き布を打かけその上に皿匙杓および酒を灌ぐ斝を置きまた常供のパンをその上にあらしめ"
+    },
+    {
+      "number": 8,
+      "ko": "홍색 보자기를 그 위에 펴고 그것을 해달의 가죽 덮개로 덮은 후에 그 채를 꿰고",
+      "en": "Over these they are to spread a scarlet cloth, cover that with hides of sea cows and put its poles in place.",
+      "de": "Und sollen darüber breiten eine scharlachrote Decke und dieselbe bedecken mit einer Decke von Dachsfellen und seine Stangen daran legen.",
+      "zh": "在其上又要蒙朱红色的毯子，再蒙上海狗皮，把杠穿上。",
+      "ja": "紅の布をその上に打かけ獾の皮の蓋をもてこれを覆ひ而してその杠を差いるべし"
+    },
+    {
+      "number": 9,
+      "ko": "청색 보자기를 취하여 등잔대와 등잔들과 불 집게들과 불똥 그릇들과 그 쓰는 바 모든 기름 그릇을 덮고",
+      "en": "\"They are to take a blue cloth and cover the lampstand that is for light, together with its lamps, its wick trimmers and trays, and all its jars for the oil used to supply it.",
+      "de": "Und sollen eine blaue Decke nehmen und darein winden den Leuchter des Lichts und seine Lampen mit seinen Schneuzen und Näpfen und alle Ölgefäße, die zum Amt gehören.",
+      "zh": "要拿蓝色毯子，把灯台和灯台上所用的灯盏、剪子、蜡花盘，并一切盛油的器皿，全都遮盖。",
+      "ja": "また靑き布を取て燈臺とその盞その燈鉗その剪燈盤および其に用ふる諸の油の器を覆ひ"
+    },
+    {
+      "number": 10,
+      "ko": "등잔대와 그 모든 기구를 해달의 가죽 덮개 안에 넣어 메는 틀 위에 두고",
+      "en": "Then they are to wrap it and all its accessories in a covering of hides of sea cows and put it on a carrying frame.",
+      "de": "Und sollen um das alles tun eine Decke von Dachsfellen und sollen es auf die Stangen legen.",
+      "zh": "又要把灯台和灯台的一切器具包在海狗皮里，放在抬架上。",
+      "ja": "獾の皮の蓋の内に燈臺とその諸の器をいれてこれを棹にかくべし"
+    },
+    {
+      "number": 11,
+      "ko": "금제단 위에 청색 보자기를 펴고 해달의 가죽 덮개로 덮고 그 채를 꿰고",
+      "en": "\"Over the gold altar they are to spread a blue cloth and cover that with hides of sea cows and put its poles in place.",
+      "de": "Also sollen sie auch über den goldenen Altar eine blaue Decke breiten und sie bedecken mit der Decke von Dachsfellen und seine Stangen daran tun.",
+      "zh": "在金坛上要铺蓝色毯子，蒙上海狗皮，把杠穿上。",
+      "ja": "また金の壇の上に靑き布を打かけ獾の皮の蓋をもて之を蓋ひその杠を差いるべし"
+    },
+    {
+      "number": 12,
+      "ko": "성소에서 봉사하는 데에 쓰는 모든 기구를 취하여 청색 보자기에 싸서 해달의 가죽 덮개로 덮어 메는 틀 위에 두고",
+      "en": "\"They are to take all the articles used for ministering in the sanctuary, wrap them in a blue cloth, cover that with hides of sea cows and put them on a carrying frame.",
+      "de": "Alle Gerät, womit sie schaffen im Heiligtum, sollen sie nehmen und blaue Decken darüber tun und mit einer Decke von Dachsfellen bedecken und auf Stangen legen.",
+      "zh": "又要把圣所用的一切器具包在蓝色毯子里，用海狗皮蒙上，放在抬架上。",
+      "ja": "また聖所の役事に用ふる役事の器をことごとく取靑き布に裹み獾の皮の蓋をもてこれを蓋ひて棹にかくべし"
+    },
+    {
+      "number": 13,
+      "ko": "제단의 재를 버리고 그 제단 위에 자색 보자기를 펴고",
+      "en": "\"They are to remove the ashes from the bronze altar and spread a purple cloth over it.",
+      "de": "Sie sollen auch die Asche vom Altar fegen und eine Decke von rotem Purpur über ihn breiten",
+      "zh": "要收去坛上的灰，把紫色毯子铺在坛上；",
+      "ja": "また壇の灰を取さりて紫の布をその壇に打かけ"
+    },
+    {
+      "number": 14,
+      "ko": "봉사하는 데에 쓰는 모든 기구 곧 불 옮기는 그릇들과 고기 갈고리들과 부삽들과 대야들과 제단의 모든 기구를 두고 해달의 가죽 덮개를 그 위에 덮고 그 채를 꿸 것이며",
+      "en": "Then they are to place on it all the utensils used for ministering at the altar, including the firepans, meat forks, shovels and sprinkling bowls. Over it they are to spread a covering of hides of sea cows and put its poles in place.",
+      "de": "und alle seine Geräte darauf schaffen, Kohlenpfannen, Gabeln, Schaufeln, Becken mit allem Gerät des Altars; und sollen darüber breiten eine Decke von Dachsfellen und seine Stangen daran tun.",
+      "zh": "又要把所用的一切器具，就是火鼎、肉锸子、铲子、盘子，一切属坛的器具都摆在坛上，又蒙上海狗皮，把杠穿上。",
+      "ja": "その上に役事をなすに用ふる諸の器具すなはち火鼎肉叉火鏟鉢および壇の一切の器具をこれに載せ獾の皮の蓋をその上に打かけ而してその杠を差とほすべし"
+    },
+    {
+      "number": 15,
+      "ko": "진영을 떠날 때에 아론과 그의 아들들이 성소와 성소의 모든 기구 덮는 일을 마치거든 고핫 자손들이 와서 멜 것이니라 그러나 성물은 만지지 말라 그들이 죽으리라 회막 물건 중에서 이것들은 고핫 자손이 멜 것이며",
+      "en": "\"After Aaron and his sons have finished covering the holy furnishings and all the holy articles, and when the camp is ready to move, the Kohathites are to come to do the carrying. But they must not touch the holy things or they will die. The Kohathites are to carry those things that are in the Tent of Meeting.",
+      "de": "Wenn nun Aaron und seine Söhne solches ausgerichtet und das Heiligtum und all sein Gerät bedeckt haben, wenn das Heer aufbricht, darnach sollen die Kinder Kahath hineingehen, daß sie es tragen; und sollen das Heiligtum nicht anrühren, daß sie nicht sterben. Dies sind die Lasten der Kinder Kahath an der Hütte des Stifts.",
+      "zh": "将要起营的时候，亚伦和他儿子把圣所和圣所的一切器具遮盖完了，哥辖的子孙就要来抬，只是不可摸圣物，免得他们死亡。会幕里这些物件是哥辖子孙所当抬的。",
+      "ja": "營を進むるにあたりてアロンとその子等聖所と聖所の一切の器具を蓋ふことを畢りたらば即ちコハテの子孫いり來りてこれを舁べし然ながら彼等は聖物に捫るべからず恐くは死ん集會の幕屋の中なる是等の物はコハテの子孫の擔ふべき者なり"
+    },
+    {
+      "number": 16,
+      "ko": "제사장 아론의 아들 엘르아살이 맡을 것은 등유와 태우는 향과 항상 드리는 소제물과 관유이며 또 장막 전체와 그 중에 있는 모든 것과 성소와 그 모든 기구니라",
+      "en": "\"Eleazar son of Aaron, the priest, is to have charge of the oil for the light, the fragrant incense, the regular grain offering and the anointing oil. He is to be in charge of the entire tabernacle and everything in it, including its holy furnishings and articles.\"",
+      "de": "Und Eleasar, Aarons, des Priesters, Sohn, soll das Amt haben, daß er ordne das Öl zum Licht und die Spezerei zum Räuchwerk und das tägliche Speisopfer und das Salböl, daß er beschicke die ganze Wohnung und alles, was darin ist, im Heiligtum und seinem Geräte.",
+      "zh": "「祭司亚伦的儿子以利亚撒所要看守的是点灯的油与香料，并当献的素祭和膏油，也要看守全帐幕与其中所有的，并圣所和圣所的器具。」",
+      "ja": "祭司アロンの子エレアザルは燈火の油馨しき香常供の素祭および灌膏を司どりまた幕屋の全體とその中なる一切の聖物および其處の諸の器具を司どるべし"
+    },
+    {
+      "number": 17,
+      "ko": "여호와께서 또 모세와 아론에게 말씀하여 이르시되",
+      "en": "The LORD said to Moses and Aaron,",
+      "de": "Und der HERR redete mit Mose und Aaron und sprach:",
+      "zh": "耶和华晓谕摩西、亚伦说：",
+      "ja": "ヱホバまたモーセとアロンに告て言たまはく"
+    },
+    {
+      "number": 18,
+      "ko": "너희는 고핫 족속의 지파를 레위인 중에서 끊어지게 하지 말지니",
+      "en": "\"See that the Kohathite tribal clans are not cut off from the Levites.",
+      "de": "Ihr sollt den Stamm der Geschlechter der Kahathiter nicht lassen sich verderben unter den Leviten;",
+      "zh": "「你们不可将哥辖人的支派从利未人中剪除。",
+      "ja": "汝等コハテ人の宗族の者をしてレビ人の中より絶るるに至らしむる勿れ"
+    },
+    {
+      "number": 19,
+      "ko": "그들이 지성물에 접근할 때에 그들의 생명을 보존하고 죽지 않게 하기 위하여 이같이 하라 아론과 그의 아들들이 들어가서 각 사람에게 그가 할 일과 그가 멜 것을 지휘하게 할지니라",
+      "en": "So that they may live and not die when they come near the most holy things, do this for them: Aaron and his sons are to go into the sanctuary and assign to each man his work and what he is to carry.",
+      "de": "sondern das sollt ihr mit ihnen tun, daß sie leben und nicht sterben, wo sie werden anrühren das Hochheilige: Aaron und seine Söhne sollen hineingehen und einen jeglichen stellen zu seinem Amt und seiner Last.",
+      "zh": "他们挨近至圣物的时候，亚伦和他儿子要进去派他们各人所当办的，所当抬的。这样待他们，好使他们活着，不致死亡。",
+      "ja": "彼等が至聖物に近く時に生命を保ちて死ることなからん爲に汝等かく之に爲べし即ちアロンとその子等まづ入り彼等をして各箇その役事に就しめその擔ふべき物を取しむべし"
+    },
+    {
+      "number": 20,
+      "ko": "그들은 잠시라도 들어가서 성소를 보지 말라 그들이 죽으리라",
+      "en": "But the Kohathites must not go in to look at the holy things, even for a moment, or they will die.\"",
+      "de": "Sie sollen aber nicht hineingehen, zu schauen das Heiligtum auch nur einen Augenblick, daß sie nicht sterben.",
+      "zh": "只是他们连片时不可进去观看圣所，免得他们死亡。」",
+      "ja": "彼等は入て須臾も聖物を觀るべからず恐らくは死ん"
+    },
+    {
+      "number": 21,
+      "ko": "여호와께서 또 모세에게 말씀하여 이르시되",
+      "en": "The LORD said to Moses,",
+      "de": "Und der HERR redete mit Mose und sprach:",
+      "zh": "耶和华晓谕摩西说：",
+      "ja": "ヱホバまたモーセに告て言たまはく"
+    },
+    {
+      "number": 22,
+      "ko": "게르손 자손도 그 조상의 가문과 종족에 따라 계수하되",
+      "en": "\"Take a census also of the Gershonites by their families and clans.",
+      "de": "Nimm die Summe der Kinder Gerson auch nach ihren Vaterhäusern und Geschlechtern,",
+      "zh": "「你要将革顺子孙的总数，照着宗族、家室，",
+      "ja": "汝ゲルシヨンの子孫の總數をその父祖の家に依りその宗族に循ひてしらべ"
+    },
+    {
+      "number": 23,
+      "ko": "삼십 세 이상으로 오십 세까지 회막에서 복무하고 봉사할 모든 자를 계수하라",
+      "en": "Count all the men from thirty to fifty years of age who come to serve in the work at the Tent of Meeting.",
+      "de": "von dreißig Jahren an und darüber bis ins fünfzigste Jahr, und ordne sie alle, die da zum Dienst tüchtig sind, daß sie ein Amt haben in der Hütte des Stifts.",
+      "zh": "从三十岁直到五十岁，凡前来任职、在会幕里办事的，全都数点。",
+      "ja": "三十歳以上五十歳までにして能く軍團に入り集會の幕屋に動作をなすことを得る者をことごとく數へよ"
+    },
+    {
+      "number": 24,
+      "ko": "게르손 종족의 할 일과 멜 것은 이러하니",
+      "en": "\"This is the service of the Gershonite clans as they work and carry burdens:",
+      "de": "Das soll aber der Geschlechter der Gersoniter Amt sein, das sie schaffen und tragen:",
+      "zh": "革顺人各族所办的事、所抬的物乃是这样：",
+      "ja": "ゲルシヨン人の働く事と擔ふ物は是のごとし"
+    },
+    {
+      "number": 25,
+      "ko": "곧 그들이 성막의 휘장들과 회막과 그 덮개와 그 위의 해달의 가죽 덮개와 회막 휘장 문을 메며",
+      "en": "They are to carry the curtains of the tabernacle, the Tent of Meeting, its covering and the outer covering of hides of sea cows, the curtains for the entrance to the Tent of Meeting,",
+      "de": "sie sollen die Teppiche der Wohnung und der Hütte des Stifts tragen und ihre Decke und die Decke von Dachsfellen, die obendrüber ist, und das Tuch in der Hütte des Stifts",
+      "zh": "他们要抬帐幕的幔子和会幕，并会幕的盖与其上的海狗皮，和会幕的门帘，",
+      "ja": "即ち彼等は幕屋の幕と集會の天幕およびその頂蓋とその上なる貛の皮の蓋ならびに集會の天幕の入口の幔を擔ひ"
+    },
+    {
+      "number": 26,
+      "ko": "뜰의 휘장과 성막과 제단 사방에 있는 뜰의 휘장 문과 그 줄들과 그것에 사용하는 모든 기구를 메며 이 모든 것을 이렇게 맡아 처리할 것이라",
+      "en": "the curtains of the courtyard surrounding the tabernacle and altar, the curtain for the entrance, the ropes and all the equipment used in its service. The Gershonites are to do all that needs to be done with these things.",
+      "de": "und die Umhänge des Vorhofs und das Tuch in der Tür des Tores am Vorhof, welcher um die Wohnung und den Altar her geht, und ihre Seile und alle Geräte ihres Amtes und alles, was zu ihrem Amt gehört.",
+      "zh": "院子的帷子和门帘（院子是围帐幕和坛的）、绳子，并所用的器具，不论是做什么用的，他们都要经理。",
+      "ja": "庭の幕および幕屋と壇の周圍なる庭の門の入口の幔とその繩ならびにそれに用ふる諸の器具と其がために造る一切の物を擔ふべし斯動作べきなり"
+    },
+    {
+      "number": 27,
+      "ko": "게르손 자손은 그들의 모든 일 곧 멜 것과 처리할 것을 아론과 그의 아들들의 명령대로 할 것이니 너희는 그들이 멜 짐을 그들에게 맡길 것이니라",
+      "en": "All their service, whether carrying or doing other work, is to be done under the direction of Aaron and his sons. You shall assign to them as their responsibility all they are to carry.",
+      "de": "Nach dem Wort Aarons und seiner Söhne soll alles Amt der Kinder Gerson geschehen, alles, was sie tragen und schaffen sollen, und ihr sollt zusehen, daß sie aller ihrer Last warten.",
+      "zh": "革顺的子孙在一切抬物办事之上都要凭亚伦和他儿子的吩咐；他们所当抬的，要派他们看守。",
+      "ja": "ゲルシヨンの子孫の一切の役事すなはちその擔ふところと働くところはアロンとその子等の命に循ふべきなり汝等は彼等にその擔ふべき物を割交してこれを守らしむべし"
+    },
+    {
+      "number": 28,
+      "ko": "게르손 자손의 종족들이 회막에서 할 일은 이러하며 그들의 직무는 제사장 아론의 아들 이다말이 감독할지니라",
+      "en": "This is the service of the Gershonite clans at the Tent of Meeting. Their duties are to be under the direction of Ithamar son of Aaron, the priest.",
+      "de": "Das soll das Amt der Geschlechter der Kinder der Gersoniter sein in der Hütte des Stifts; und ihr Dienst soll unter der Hand Ithamars sein, des Sohnes Aarons, des Priesters.",
+      "zh": "这是革顺子孙的各族在会幕里所办的事；他们所看守的，必在祭司亚伦儿子以他玛的手下。」",
+      "ja": "ゲルシヨンの子孫の宗族が集會の幕屋において爲べき動作は是のごとし彼等の守る所は祭司アロンの子イタマルこれを監督るべし"
+    },
+    {
+      "number": 29,
+      "ko": "너는 므라리 자손도 그 조상의 가문과 종족에 따라 계수하되",
+      "en": "\"Count the Merarites by their clans and families.",
+      "de": "Die Kinder Merari nach ihren Geschlechtern und Vaterhäusern sollst du auch ordnen,",
+      "zh": "「至于米拉利的子孙，你要照着家室、宗族把他们数点。",
+      "ja": "メラリの子孫もまた汝これをその宗族に依りその父祖の家に循ひて計べ"
+    },
+    {
+      "number": 30,
+      "ko": "삼십 세부터 오십 세까지 회막에서 복무하고 봉사할 모든 자를 계수하라",
+      "en": "Count all the men from thirty to fifty years of age who come to serve in the work at the Tent of Meeting.",
+      "de": "von dreißig Jahren an und darüber bis ins fünfzigste Jahr, alle, die zum Dienst taugen, daß sie ein Amt haben in der Hütte des Stifts.",
+      "zh": "从三十岁直到五十岁，凡前来任职、在会幕里办事的，你都要数点。",
+      "ja": "三十歳以上五十歳までにして能く軍團に入り集會の幕屋において勤務をなすことを得る者を盡く數へよ"
+    },
+    {
+      "number": 31,
+      "ko": "그들이 직무를 따라 회막에서 할 모든 일 곧 그 멜 것은 이러하니 곧 장막의 널판들과 그 띠들과 그 기둥들과 그 받침들과",
+      "en": "This is their duty as they perform service at the Tent of Meeting: to carry the frames of the tabernacle, its crossbars, posts and bases,",
+      "de": "Dieser Last aber sollen sie warten nach allem ihrem Amt in der Hütte des Stifts, das sie tragen die Bretter der Wohnung und Riegel und Säulen und Füße,",
+      "zh": "他们办理会幕的事，就是抬帐幕的板、闩、柱子，和带卯的座，",
+      "ja": "彼等が集會の幕屋において爲べき一切の役事すなはちその擔ひ守るべき物は是のごとし幕屋の板その横木その柱その座"
+    },
+    {
+      "number": 32,
+      "ko": "뜰 둘레의 기둥들과 그 받침들과 그 말뚝들과 그 줄들과 그 모든 기구들과 그것에 쓰는 모든 것이라 너희는 그들이 맡아 멜 모든 기구의 품목을 지정하라",
+      "en": "as well as the posts of the surrounding courtyard with their bases, tent pegs, ropes, all their equipment and everything related to their use. Assign to each man the specific things he is to carry.",
+      "de": "dazu die Säulen des Vorhofs umher und Füße und Nägel und Seile mit allem ihrem Geräte, nach allem ihrem Amt; einem jeglichen sollt ihr seinen Teil der Last am Geräte zu warten verordnen.",
+      "zh": "院子四围的柱子和其上带卯的座、橛子、绳子，并一切使用的器具。他们所抬的器具，你们要按名指定。",
+      "ja": "庭の四周の柱その座その釘その繩およびこれがために用ふる一切の器具なり彼等が擔ひ守るべき器具は汝等その名を按べて之を數ふべし"
+    },
+    {
+      "number": 33,
+      "ko": "이는 제사장 아론의 아들 이다말의 수하에 있을 므라리 자손의 종족들이 그 모든 직무대로 회막에서 행할 일이니라",
+      "en": "This is the service of the Merarite clans as they work at the Tent of Meeting under the direction of Ithamar son of Aaron, the priest.\"",
+      "de": "Das sei das Amt der Geschlechter der Kinder Merari, alles, was sie schaffen sollen in der Hütte des Stifts unter der Hand Ithamars, des Priesters, des Sohnes Aarons.",
+      "zh": "这是米拉利子孙各族在会幕里所办的事，都在祭司亚伦儿子以他玛的手下。」",
+      "ja": "是すなはちメラリの子孫の族がなすべき役事にして彼等は祭司アロンの子イタマルの監督をうけて集會の幕屋において此すべての役事を爲べきなり"
+    },
+    {
+      "number": 34,
+      "ko": "모세와 아론과 회중의 지도자들이 고핫 자손들을 그 종족과 조상의 가문에 따라 계수하니",
+      "en": "Moses, Aaron and the leaders of the community counted the Kohathites by their clans and families.",
+      "de": "Und Mose und Aaron samt den Hauptleuten der Gemeinde zählten die Kinder der Kahathiter nach ihren Geschlechtern und Vaterhäusern,",
+      "zh": "摩西、亚伦与会众的诸首领将哥辖的子孙，照着家室、宗族，",
+      "ja": "是においてモーセとアロンおよび會衆の牧伯等コハテの子孫をその宗族に依りその父祖の家にしたがひてしらべ"
+    },
+    {
+      "number": 35,
+      "ko": "삼십 세부터 오십 세까지 회막에서 복무하고 봉사할 모든 자",
+      "en": "All the men from thirty to fifty years of age who came to serve in the work in the Tent of Meeting,",
+      "de": "von dreißig Jahren an und darüber bis ins fünfzigste Jahr, alle, die zum Dienst taugten, daß sie Amt in der Hütte des Stifts hätten.",
+      "zh": "从三十岁直到五十岁，凡前来任职、在会幕里办事的，都数点了。",
+      "ja": "三十歳以上五十歳までにして能く軍團に入り集會の幕屋において勤務をなすことを得る者を盡く數へたるに"
+    },
+    {
+      "number": 36,
+      "ko": "곧 그 종족대로 계수된 자가 이천칠백오십 명이니",
+      "en": "counted by clans, were 2,750.",
+      "de": "Und die Summe war zweitausend siebenhundertfünfzig.",
+      "zh": "被数的共有二千七百五十名。",
+      "ja": "その宗族にしたがひて數へられし者二千七百五十人ありき"
+    },
+    {
+      "number": 37,
+      "ko": "이는 모세와 아론이 여호와께서 모세에게 명령하신 대로 회막에서 종사하는 고핫인의 모든 종족 중 계수된 자이니라",
+      "en": "This was the total of all those in the Kohathite clans who served in the Tent of Meeting. Moses and Aaron counted them according to the LORD'S command through Moses.",
+      "de": "Das ist die Summe der Geschlechter der Kahathiter, die alle zu schaffen hatten in der Hütte des Stifts, die Mose und Aaron zählten nach dem Wort des HERRN durch Mose.",
+      "zh": "这是哥辖各族中被数的，是在会幕里办事的，就是摩西、亚伦照耶和华借摩西所吩咐数点的。",
+      "ja": "是すなはちコハテ人の族の數へられし者にして皆集會の幕屋に於て役事をなすことを得る者なりモーセとアロン、ヱホバがモーセによりて命じたまひし所にしたがひて之を數へたり"
+    },
+    {
+      "number": 38,
+      "ko": "게르손 자손 중 그 종족과 조상의 가문을 따라 계수된 자는",
+      "en": "The Gershonites were counted by their clans and families.",
+      "de": "Die Kinder Gerson wurden auch gezählt in ihren Geschlechtern und Vaterhäusern,",
+      "zh": "革顺子孙被数的，照着家室、宗族，",
+      "ja": "またゲルシヨンの子孫をその宗族に依りその父祖の家に循ひて計べ"
+    },
+    {
+      "number": 39,
+      "ko": "삼십 세부터 오십 세까지 회막 봉사에 참여하여 일할 만한 모든 자라",
+      "en": "All the men from thirty to fifty years of age who came to serve in the work at the Tent of Meeting,",
+      "de": "von dreißig Jahren an und darüber bis ins fünfzigste, alle, die zum Dienst taugten, daß sie Amt in der Hütte des Stifts hätten.",
+      "zh": "从三十岁直到五十岁，凡前来任职、在会幕里办事的，共有二千六百三十名。",
+      "ja": "三十歳以上五十歳までにして能く軍團に入り集會の幕屋において勤務をなすことを得る者を數へたるに"
+    },
+    {
+      "number": 40,
+      "ko": "그 종족과 조상의 가문을 따라 계수된 자는 이천육백삼십 명이니",
+      "en": "counted by their clans and families, were 2,630.",
+      "de": "Und die Summe war zweitausend sechshundertdreißig.",
+      "zh": "这是革顺子孙各族中被数的，是在会幕里办事的，就是摩西、亚伦照耶和华借摩西所吩咐数点的。",
+      "ja": "その宗族に依りその父祖の家に循ひて數へられし者二千六百三十人ありき"
+    },
+    {
+      "number": 41,
+      "ko": "이는 모세와 아론이 여호와의 명령대로 회막에서 종사하는 게르손 자손의 모든 종족 중 계수된 자니라",
+      "en": "This was the total of those in the Gershonite clans who served at the Tent of Meeting. Moses and Aaron counted them according to the LORD'S command.",
+      "de": "Das ist die Summe der Geschlechter der Kinder Gerson, die alle zu schaffen hatten in der Hütte des Stifts, welche Mose und Aaron zählten nach dem Wort des HERRN.",
+      "zh": "米拉利子孙中各族被数的，照着家室、宗族，",
+      "ja": "是すなはちゲルシヨンの子孫の族の數へられし者にして皆集會の幕屋において勤務をなすことを得る者なりモーセとアロン、ヱホバの命にしたがひて之を數へたり"
+    },
+    {
+      "number": 42,
+      "ko": "므라리 자손의 종족 중 그 종족과 조상의 가문을 따라 계수된 자는",
+      "en": "The Merarites were counted by their clans and families.",
+      "de": "Die Kinder Merari wurden auch gezählt nach ihren Geschlechtern und Vaterhäusern,",
+      "zh": "从三十岁直到五十岁，凡前来任职、在会幕里办事的，共有三千二百名。",
+      "ja": "またメラリの子孫の族をその宗族に依りその父祖の家に循ひて計べ"
+    },
+    {
+      "number": 43,
+      "ko": "삼십 세부터 오십 세까지 회막에서 복무하고 봉사할 모든 자라",
+      "en": "All the men from thirty to fifty years of age who came to serve in the work at the Tent of Meeting,",
+      "de": "von dreißig Jahren an und darüber bis ins fünfzigste, alle, die zum Dienst taugten, daß sie Amt in der Hütte des Stifts hätten.",
+      "zh": "这是米拉利子孙各族中被数的，就是摩西、亚伦照耶和华借摩西所吩咐数点的。",
+      "ja": "三十歳以上五十歳までにして能く軍團に入り集會の幕屋において勤務をなすことを得る者を數へたるに"
+    },
+    {
+      "number": 44,
+      "ko": "그 종족을 따라 계수된 자는 삼천이백 명이니",
+      "en": "counted by their clans, were 3,200.",
+      "de": "Und die Summe war dreitausendzweihundert.",
+      "zh": "凡被数的利未人，就是摩西、亚伦并以色列众首领，照着家室、宗族所数点的，",
+      "ja": "その宗族にしたがひて數へられし者三千二百人ありき"
+    },
+    {
+      "number": 45,
+      "ko": "이는 모세와 아론이 여호와께서 모세에게 명령하신 대로 므라리 자손들의 종족 중 계수된 자니라",
+      "en": "This was the total of those in the Merarite clans. Moses and Aaron counted them according to the LORD'S command through Moses.",
+      "de": "Das ist die Summe der Geschlechter der Kinder Merari, die Mose und Aaron zählten nach dem Wort des HERRN durch Mose.",
+      "zh": "从三十岁直到五十岁，凡前来任职、在会幕里做抬物之工的，共有八千五百八十名。",
+      "ja": "是すなはちメラリの子孫の族の數へられし者なりモーセとアロン、ヱホバのモーセによりて命じたまひし所にしたがひて之を數へたり"
+    },
+    {
+      "number": 46,
+      "ko": "모세와 아론과 이스라엘 지휘관들이 레위인을 그 종족과 조상의 가문에 따라 다 계수하니",
+      "en": "So Moses, Aaron and the leaders of Israel counted all the Levites by their clans and families.",
+      "de": "Die Summe aller Leviten, die Mose und Aaron samt den Hauptleuten Israels zählten nach ihren Geschlechtern und Vaterhäusern,",
+      "zh": "摩西按他们所办的事、所抬的物，凭耶和华的吩咐数点他们；他们这样被摩西数点，正如耶和华所吩咐他的。",
+      "ja": "モーセとアロンおよびイスラエルの牧伯等レビ人をその宗族に依りその父祖の家にしたがひてしらべ"
+    },
+    {
+      "number": 47,
+      "ko": "삼십 세부터 오십 세까지 회막 봉사와 메는 일에 참여하여 일할 만한 모든 자",
+      "en": "All the men from thirty to fifty years of age who came to do the work of serving and carrying the Tent of Meeting",
+      "de": "von dreißig Jahren und darüber bis ins fünfzigste, aller, die eingingen, zu schaffen ein jeglicher sein Amt und zu tragen die Last der Hütte des Stifts,",
+      "zh": "",
+      "ja": "三十歳以上五十歳までにして能く來りて集會の幕屋の役事を爲し且これを擔ふ業を爲す者を數へたるに"
+    },
+    {
+      "number": 48,
+      "ko": "곧 그 계수된 자는 팔천오백팔십 명이라",
+      "en": "numbered 8,580.",
+      "de": "war achttausend fünfhundertachtzig,",
+      "zh": "",
+      "ja": "その數へられしものの數都合八千五百八十人なりき"
+    },
+    {
+      "number": 49,
+      "ko": "그들이 할 일과 짐을 메는 일을 따라 모세에게 계수되었으되 여호와께서 모세에게 명령하신 대로 그들이 계수되었더라",
+      "en": "At the LORD'S command through Moses, each was assigned his work and told what to carry. Thus they were counted, as the LORD commanded Moses.",
+      "de": "die gezählt wurden nach dem Wort des HERRN durch Mose, ein jeglicher zu seinem Amt und seiner Last, wie der HERR dem Mose geboten hatte.",
+      "zh": "",
+      "ja": "ヱホバの命にしたがひてモーセかれらを數へ彼等をして各人その役事に就しめかつその擔ふ所をうけもたしめたりヱホバの命にしたがひて數へたるところ是のごとし"
+    }
+  ]
+}

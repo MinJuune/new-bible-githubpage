@@ -1,0 +1,454 @@
+{
+  "book": "Luke",
+  "chapter": 8,
+  "verses": [
+    {
+      "number": 1,
+      "ko": "그 후에 예수께서 각 성과 마을에 두루 다니시며 하나님의 나라를 선포하시며 그 복음을 전하실새 열두 제자가 함께 하였고",
+      "en": "After this, Jesus traveled about from one town and village to another, proclaiming the good news of the kingdom of God. The Twelve were with him,",
+      "de": "Und es begab sich darnach, daß er reiste durch Städte und Dörfer und predigte und verkündigte das Evangelium vom Reich Gottes; und die zwölf mit ihm,",
+      "zh": "过了不多日，耶稣周游各城各乡传道，宣讲　神国的福音。和他同去的有十二个门徒，",
+      "ja": "その後、イエスは、神の国を説き、その福音を宣べ伝えながら、町や村を次から次に旅をしておられた。十二弟子もお供をした。"
+    },
+    {
+      "number": 2,
+      "ko": "또한 악귀를 쫓아내심과 병 고침을 받은 어떤 여자들 곧 일곱 귀신이 나간 자 막달라인이라 하는 마리아와",
+      "en": "and also some women who had been cured of evil spirits and diseases: Mary (called Magdalene) from whom seven demons had come out;",
+      "de": "dazu etliche Weiber, die er gesund hatte gemacht von den bösen Geistern und Krankheiten, nämlich Maria, die da Magdalena heißt, von welcher waren sieben Teufel ausgefahren,",
+      "zh": "还有被恶鬼所附、被疾病所累、已经治好的几个妇女，内中有称为抹大拉的马利亚（曾有七个鬼从她身上赶出来），",
+      "ja": "また、悪霊や病気を直していただいた女たち、すなわち、七つの悪霊を追い出していただいたマグダラの女と呼ばれるマリヤ、"
+    },
+    {
+      "number": 3,
+      "ko": "헤롯의 청지기 구사의 아내 요안나와 수산나와 다른 여러 여자가 함께 하여 자기들의 소유로 그들을 섬기더라",
+      "en": "Joanna the wife of Cuza, the manager of Herod's household; Susanna; and many others. These women were helping to support them out of their own means.",
+      "de": "und Johanna, das Weib Chusas, des Pflegers des Herodes, und Susanna und viele andere, die ihm Handreichung taten von ihrer Habe.",
+      "zh": "又有希律的家宰苦撒的妻子约亚拿，并苏撒拿，和好些别的妇女，都是用自己的财物供给耶稣和门徒。",
+      "ja": "ヘロデの執事クーザの妻ヨハンナ、スザンナ、そのほか自分の財産をもって彼らに仕えている大ぜいの女たちもいっしょであった。"
+    },
+    {
+      "number": 4,
+      "ko": "각 동네 사람들이 예수께로 나아와 큰 무리를 이루니 예수께서 비유로 말씀하시되",
+      "en": "While a large crowd was gathering and people were coming to Jesus from town after town, he told this parable:",
+      "de": "Da nun viel Volks beieinander war und sie aus den Städten zu ihm eilten, sprach er durch ein Gleichnis:",
+      "zh": "当许多人聚集、又有人从各城里出来见耶稣的时候，耶稣就用比喻说：",
+      "ja": "さて、大ぜいの人の群れが集まり、また方々の町からも人々がみもとにやって来たので、イエスはたとえを用いて話された。"
+    },
+    {
+      "number": 5,
+      "ko": "씨를 뿌리는 자가 그 씨를 뿌리러 나가서 뿌릴새 더러는 길 가에 떨어지매 밟히며 공중의 새들이 먹어버렸고",
+      "en": "\"A farmer went out to sow his seed. As he was scattering the seed, some fell along the path; it was trampled on, and the birds of the air ate it up.",
+      "de": "Es ging ein Säemann aus, zu säen seinen Samen. Und indem er säte, fiel etliches an den Weg und ward zertreten und die Vögel unter dem Himmel fraßen's auf.",
+      "zh": "「有一个撒种的出去撒种。撒的时候，有落在路旁的，被人践踏，天上的飞鸟又来吃尽了。",
+      "ja": "「種を蒔く人が種蒔きに出かけた。蒔いているとき、道ばたに落ちた種があった。すると、人に踏みつけられ、空の鳥がそれを食べてしまった。"
+    },
+    {
+      "number": 6,
+      "ko": "더러는 바위 위에 떨어지매 싹이 났다가 습기가 없으므로 말랐고",
+      "en": "Some fell on rock, and when it came up, the plants withered because they had no moisture.",
+      "de": "Und etliches fiel auf den Fels; und da es aufging, verdorrte es, darum daß es nicht Saft hatte.",
+      "zh": "有落在磐石上的，一出来就枯干了，因为得不着滋润。",
+      "ja": "また、別の種は岩の上に落ち、生え出たが、水分がなかったので、枯れてしまった。"
+    },
+    {
+      "number": 7,
+      "ko": "더러는 가시떨기 속에 떨어지매 가시가 함께 자라서 기운을 막았고",
+      "en": "Other seed fell among thorns, which grew up with it and choked the plants.",
+      "de": "Und etliches fiel mitten unter die Dornen; und die Dornen gingen mit auf und erstickten's.",
+      "zh": "有落在荆棘里的，荆棘一同生长，把它挤住了。",
+      "ja": "また、別の種はいばらの真中に落ちた。ところが、いばらもいっしょに生え出て、それを押しふさいでしまった。"
+    },
+    {
+      "number": 8,
+      "ko": "더러는 좋은 땅에 떨어지매 나서 백 배의 결실을 하였느니라 이 말씀을 하시고 외치시되 들을 귀 있는 자는 들을지어다",
+      "en": "Still other seed fell on good soil. It came up and yielded a crop, a hundred times more than was sown.\" When he said this, he called out, \"He who has ears to hear, let him hear.\"",
+      "de": "Und etliches fiel auf ein gutes Land; und es ging auf und trug hundertfältige Frucht. Da er das sagte, rief er: Wer Ohren hat, zu hören, der höre!",
+      "zh": "又有落在好土里的，生长起来，结实百倍。」耶稣说了这些话，就大声说：「有耳可听的，就应当听！」",
+      "ja": "また、別の種は良い地に落ち、生え出て、百倍の実を結んだ。」 イエスは、これらのことを話しながら「聞く耳のある者は聞きなさい。」と叫ばれた。"
+    },
+    {
+      "number": 9,
+      "ko": "제자들이 이 비유의 뜻을 물으니",
+      "en": "His disciples asked him what this parable meant.",
+      "de": "Es fragten ihn aber seine Jünger und sprachen, was dies Gleichnis wäre?",
+      "zh": "门徒问耶稣说：「这比喻是什么意思呢？」",
+      "ja": "さて、弟子たちは、このたとえがどんな意味かをイエスに尋ねた。"
+    },
+    {
+      "number": 10,
+      "ko": "이르시되 하나님 나라의 비밀을 아는 것이 너희에게는 허락되었으나 다른 사람에게는 비유로 하나니 이는 그들로 보아도 보지 못하고 들어도 깨닫지 못하게 하려 함이라",
+      "en": "He said, \"The knowledge of the secrets of the kingdom of God has been given to you, but to others I speak in parables, so that, \"'though seeing, they may not see; though hearing, they may not understand.'",
+      "de": "Er aber sprach: Euch ist es gegeben, zu wissen das Geheimnis des Reiches Gottes; den andern aber in Gleichnissen, daß sie es nicht sehen, ob sie es schon sehen, und nicht verstehen, ob sie es schon hören.",
+      "zh": "他说：「　神国的奥秘只叫你们知道；至于别人，就用比喻，叫他们看也看不见，听也听不明。」",
+      "ja": "そこでイエスは言われた。「あなたがたに、神の国の奥義を知ることが許されているが、ほかの者には、たとえで話します。彼らが見ていても見えず、聞いていても悟らないためです。"
+    },
+    {
+      "number": 11,
+      "ko": "이 비유는 이러하니라 씨는 하나님의 말씀이요",
+      "en": "\"This is the meaning of the parable: The seed is the word of God.",
+      "de": "Das ist aber das Gleichnis: Der Same ist das Wort Gottes.",
+      "zh": "「这比喻乃是这样：种子就是　神的道。",
+      "ja": "このたとえの意味はこうです。種は神のことばです。"
+    },
+    {
+      "number": 12,
+      "ko": "길 가에 있다는 것은 말씀을 들은 자니 이에 마귀가 가서 그들이 믿어 구원을 얻지 못하게 하려고 말씀을 그 마음에서 빼앗는 것이요",
+      "en": "Those along the path are the ones who hear, and then the devil comes and takes away the word from their hearts, so that they may not believe and be saved.",
+      "de": "Die aber an dem Wege sind, das sind, die es hören; darnach kommt der Teufel und nimmt das Wort von ihrem Herzen, auf daß sie nicht glauben und selig werden.",
+      "zh": "那些在路旁的，就是人听了道，随后魔鬼来，从他们心里把道夺去，恐怕他们信了得救。",
+      "ja": "道ばたに落ちるとは、こういう人たちのことです。みことばを聞いたが、あとから悪魔が来て、彼らが信じて救われることのないように、その人たちの心から、みことばを持ち去ってしまうのです。"
+    },
+    {
+      "number": 13,
+      "ko": "바위 위에 있다는 것은 말씀을 들을 때에 기쁨으로 받으나 뿌리가 없어 잠깐 믿다가 시련을 당할 때에 배반하는 자요",
+      "en": "Those on the rock are the ones who receive the word with joy when they hear it, but they have no root. They believe for a while, but in the time of testing they fall away.",
+      "de": "Die aber auf dem Fels sind die: wenn sie es hören, nehmen sie das Wort mit Freuden an; und die haben nicht Wurzel; eine Zeitlang glauben sie, und zur Zeit der Anfechtung fallen sie ab.",
+      "zh": "那些在磐石上的，就是人听道，欢喜领受，但心中没有根，不过暂时相信，及至遇见试炼就退后了。",
+      "ja": "岩の上に落ちるとは、こういう人たちのことです。聞いたときには喜んでみことばを受け入れるが、根がないので、しばらくは信じていても、試練のときになると、身を引いてしまうのです。"
+    },
+    {
+      "number": 14,
+      "ko": "가시떨기에 떨어졌다는 것은 말씀을 들은 자이나 지내는 중 이생의 염려와 재물과 향락에 기운이 막혀 온전히 결실하지 못하는 자요",
+      "en": "The seed that fell among thorns stands for those who hear, but as they go on their way they are choked by life's worries, riches and pleasures, and they do not mature.",
+      "de": "Das aber unter die Dornen fiel, sind die, so es hören und gehen hin unter den Sorgen, Reichtum und Wollust dieses Lebens und ersticken und bringen keine Frucht.",
+      "zh": "那落在荆棘里的，就是人听了道，走开以后，被今生的思虑、钱财、宴乐挤住了，便结不出成熟的子粒来。",
+      "ja": "いばらの中に落ちるとは、こういう人たちのことです。みことばを聞きはしたが、とかくしているうちに、この世の心づかいや、富や、快楽によってふさがれて、実が熟するまでにならないのです。"
+    },
+    {
+      "number": 15,
+      "ko": "좋은 땅에 있다는 것은 착하고 좋은 마음으로 말씀을 듣고 지키어 인내로 결실하는 자니라",
+      "en": "But the seed on good soil stands for those with a noble and good heart, who hear the word, retain it, and by persevering produce a crop.",
+      "de": "Das aber auf dem guten Land sind, die das Wort hören und behalten in einem feinen, guten Herzen und bringen Frucht in Geduld.",
+      "zh": "那落在好土里的，就是人听了道，持守在诚实善良的心里，并且忍耐着结实。」",
+      "ja": "しかし、良い地に落ちるとは、こういう人たちのことです。正しい、良い心でみことばを聞くと、それをしっかりと守り、よく耐えて、実を結ばせるのです。"
+    },
+    {
+      "number": 16,
+      "ko": "누구든지 등불을 켜서 그릇으로 덮거나 평상 아래에 두지 아니하고 등경 위에 두나니 이는 들어가는 자들로 그 빛을 보게 하려 함이라",
+      "en": "\"No one lights a lamp and hides it in a jar or puts it under a bed. Instead, he puts it on a stand, so that those who come in can see the light.",
+      "de": "Niemand aber zündet ein Licht an und bedeckt's mit einem Gefäß oder setzt es unter eine Bank; sondern er setzt es auf einen Leuchter, auf daß, wer hineingeht, das Licht sehe.",
+      "zh": "「没有人点灯用器皿盖上，或放在床底下，乃是放在灯台上，叫进来的人看见亮光。",
+      "ja": "あかりをつけてから、それを器で隠したり、寝台の下に置いたりする者はありません。燭台の上に置きます。はいって来る人々に、その光が見えるためです。"
+    },
+    {
+      "number": 17,
+      "ko": "숨은 것이 장차 드러나지 아니할 것이 없고 감추인 것이 장차 알려지고 나타나지 않을 것이 없느니라",
+      "en": "For there is nothing hidden that will not be disclosed, and nothing concealed that will not be known or brought out into the open.",
+      "de": "Denn nichts ist verborgen, das nicht offenbar werde, auch nichts Heimliches, das nicht kund werde und an den Tag komme.",
+      "zh": "因为掩藏的事没有不显出来的；隐瞒的事没有不露出来被人知道的。",
+      "ja": "隠れているもので、あらわにならぬものはなく、秘密にされているもので、知られず、また現われないものはありません。"
+    },
+    {
+      "number": 18,
+      "ko": "그러므로 너희가 어떻게 들을까 스스로 삼가라 누구든지 있는 자는 받겠고 없는 자는 그 있는 줄로 아는 것까지도 빼앗기리라 하시니라",
+      "en": "Therefore consider carefully how you listen. Whoever has will be given more; whoever does not have, even what he thinks he has will be taken from him.\"",
+      "de": "So sehet nun darauf wie ihr zuhöret. Denn wer da hat, dem wird gegeben; wer aber nicht hat, von dem wird genommen, auch was er meint zu haben.",
+      "zh": "所以，你们应当小心怎样听；因为凡有的，还要加给他；凡没有的，连他自以为有的，也要夺去。」",
+      "ja": "だから、聞き方に注意しなさい。というのは、持っている人は、さらに与えられ、持たない人は、持っていると思っているものまでも取り上げられるからです。」"
+    },
+    {
+      "number": 19,
+      "ko": "예수의 어머니와 그 동생들이 왔으나 무리로 인하여 가까이 하지 못하니",
+      "en": "Now Jesus' mother and brothers came to see him, but they were not able to get near him because of the crowd.",
+      "de": "Es gingen aber hinzu seine Mutter und Brüder und konnten vor dem Volk nicht zu ihm kommen.",
+      "zh": "耶稣的母亲和他弟兄来了，因为人多，不得到他跟前。",
+      "ja": "イエスのところに母と兄弟たちが来たが、群衆のためにそばへ近寄れなかった。"
+    },
+    {
+      "number": 20,
+      "ko": "어떤 이가 알리되 당신의 어머니와 동생들이 당신을 보려고 밖에 서 있나이다",
+      "en": "Someone told him, \"Your mother and brothers are standing outside, wanting to see you.\"",
+      "de": "Und es ward ihm angesagt: Deine Mutter und deine Brüder stehen draußen und wollen dich sehen.",
+      "zh": "有人告诉他说：「你母亲和你弟兄站在外边，要见你。」",
+      "ja": "それでイエスに、「あなたのおかあさんと兄弟たちが、あなたに会おうとして、外に立っています。」という知らせがあった。"
+    },
+    {
+      "number": 21,
+      "ko": "예수께서 대답하여 이르시되 내 어머니와 내 동생들은 곧 하나님의 말씀을 듣고 행하는 이 사람들이라 하시니라",
+      "en": "He replied, \"My mother and brothers are those who hear God's word and put it into practice.\"",
+      "de": "Er aber antwortete und sprach zu ihnen: Meine Mutter und meine Brüder sind diese, die Gottes Wort hören und tun.",
+      "zh": "耶稣回答说：「听了　神之道而遵行的人就是我的母亲，我的弟兄了。」",
+      "ja": "ところが、イエスは人々にこう答えられた。「わたしの母、わたしの兄弟たちとは、神のことばを聞いて行なう人たちです。」"
+    },
+    {
+      "number": 22,
+      "ko": "하루는 제자들과 함께 배에 오르사 그들에게 이르시되 호수 저편으로 건너가자 하시매 이에 떠나",
+      "en": "One day Jesus said to his disciples, \"Let's go over to the other side of the lake.\" So they got into a boat and set out.",
+      "de": "Und es begab sich an der Tage einem, daß er in ein Schiff trat samt seinen Jüngern; und er sprach zu ihnen: Laßt uns über den See fahren. Und sie stießen vom Lande.",
+      "zh": "有一天，耶稣和门徒上了船，对门徒说：「我们可以渡到湖那边去。」他们就开了船。",
+      "ja": "そのころのある日のこと、イエスは弟子たちといっしょに舟に乗り、「さあ、湖の向こう岸へ渡ろう。」と言われた。それで弟子たちは舟を出した。"
+    },
+    {
+      "number": 23,
+      "ko": "행선할 때에 예수께서 잠이 드셨더니 마침 광풍이 호수로 내리치매 배에 물이 가득하게 되어 위태한지라",
+      "en": "As they sailed, he fell asleep. A squall came down on the lake, so that the boat was being swamped, and they were in great danger.",
+      "de": "Und da sie schifften, schlief er ein. Und es kam ein Windwirbel auf den See, und die Wellen überfielen sie, und sie standen in großer Gefahr.",
+      "zh": "正行的时候，耶稣睡着了。湖上忽然起了暴风，船将满了水，甚是危险。",
+      "ja": "舟で渡っている間にイエスはぐっすり眠ってしまわれた。ところが突風が湖に吹きおろして来たので、弟子たちは水をかぶって危険になった。"
+    },
+    {
+      "number": 24,
+      "ko": "제자들이 나아와 깨워 이르되 주여 주여 우리가 죽겠나이다 한대 예수께서 잠을 깨사 바람과 물결을 꾸짖으시니 이에 그쳐 잔잔하여지더라",
+      "en": "The disciples went and woke him, saying, \"Master, Master, we're going to drown!\" He got up and rebuked the wind and the raging waters; the storm subsided, and all was calm.",
+      "de": "Da traten sie zu ihm und weckten ihn auf und sprachen: Meister, Meister, wir verderben! Da stand er auf und bedrohte den Wind und die Woge des Wassers; und es ließ ab, und ward eine Stille.",
+      "zh": "门徒来叫醒了他，说：「夫子！夫子！我们丧命啦！」耶稣醒了，斥责那狂风大浪；风浪就止住，平静了。",
+      "ja": "そこで、彼らは近寄って行ってイエスを起こし、「先生、先生。私たちはおぼれて死にそうです。」と言った。イエスは、起き上がって、風と荒波とをしかりつけられた。すると風も波も治まり、なぎになった。"
+    },
+    {
+      "number": 25,
+      "ko": "제자들에게 이르시되 너희 믿음이 어디 있느냐 하시니 그들이 두려워하고 놀랍게 여겨 서로 말하되 그가 누구이기에 바람과 물을 명하매 순종하는가 하더라",
+      "en": "\"Where is your faith?\" he asked his disciples. In fear and amazement they asked one another, \"Who is this? He commands even the winds and the water, and they obey him.\"",
+      "de": "Er aber sprach zu ihnen: Wo ist euer Glaube? Sie fürchteten sich aber und verwunderten sich und sprachen untereinander: Wer ist dieser? denn er gebietet dem Winde und dem Wasser, und sie sind ihm gehorsam.",
+      "zh": "耶稣对他们说：「你们的信心在哪里呢？」他们又惧怕又希奇，彼此说：「这到底是谁？他吩咐风和水，连风和水也听从他了。」",
+      "ja": "イエスは彼らに、「あなたがたの信仰はどこにあるのです。」と言われた。弟子たちは驚き恐れて互いに言った。「風も水も、お命じになれば従うとは、いったいこの方はどういう方なのだろう。」"
+    },
+    {
+      "number": 26,
+      "ko": "그들이 갈릴리 맞은편 거라사인의 땅에 이르러",
+      "en": "They sailed to the region of the Gerasenes, which is across the lake from Galilee.",
+      "de": "Und sie schifften fort in die Gegend der Gadarener, welche ist Galiläa gegenüber.",
+      "zh": "他们到了格拉森人的地方，就是加利利的对面。",
+      "ja": "こうして彼らは、ガリラヤの向こう側のゲラサ人の地方に着いた。"
+    },
+    {
+      "number": 27,
+      "ko": "예수께서 육지에 내리시매 그 도시 사람으로서 귀신 들린 자 하나가 예수를 만나니 그 사람은 오래 옷을 입지 아니하며 집에 거하지도 아니하고 무덤 사이에 거하는 자라",
+      "en": "When Jesus stepped ashore, he was met by a demon-possessed man from the town. For a long time this man had not worn clothes or lived in a house, but had lived in the tombs.",
+      "de": "Und als er austrat auf das Land, begegnete ihm ein Mann aus der Stadt, der hatte Teufel von langer Zeit her und tat keine Kleider an und blieb in keinem Hause, sondern in den Gräbern.",
+      "zh": "耶稣上了岸，就有城里一个被鬼附着的人迎面而来。这个人许久不穿衣服，不住房子，只住在坟茔里。",
+      "ja": "イエスが陸に上がられると、この町の者で悪霊につかれている男がイエスに出会った。彼は、長い間着物も着けず、家には住まないで、墓場に住んでいた。"
+    },
+    {
+      "number": 28,
+      "ko": "예수를 보고 부르짖으며 그 앞에 엎드려 큰 소리로 불러 이르되 지극히 높으신 하나님의 아들 예수여 당신이 나와 무슨 상관이 있나이까 당신께 구하노니 나를 괴롭게 하지 마옵소서 하니",
+      "en": "When he saw Jesus, he cried out and fell at his feet, shouting at the top of his voice, \"What do you want with me, Jesus, Son of the Most High God? I beg you, don't torture me!\"",
+      "de": "Da er aber Jesum sah, schrie er und fiel vor ihm nieder und rief laut und sprach: Was habe ich mit dir zu schaffen, Jesu, du Sohn Gottes, des Allerhöchsten? Ich bitte dich, du wollest mich nicht quälen.",
+      "zh": "他见了耶稣，就俯伏在他面前，大声喊叫，说：「至高　神的儿子耶稣，我与你有什么相干？求你不要叫我受苦！」",
+      "ja": "彼はイエスを見ると、叫び声をあげ、御前にひれ伏して大声で言った。「いと高き神の子、イエスさま。いったい私に何をしようというのです。お願いです。どうか私を苦しめないでください。」"
+    },
+    {
+      "number": 29,
+      "ko": "이는 예수께서 이미 더러운 귀신을 명하사 그 사람에게서 나오라 하셨음이라 (귀신이 가끔 그 사람을 붙잡으므로 그를 쇠사슬과 고랑에 매어 지켰으되 그 맨 것을 끊고 귀신에게 몰려 광야로 나갔더라)",
+      "en": "For Jesus had commanded the evil spirit to come out of the man. Many times it had seized him, and though he was chained hand and foot and kept under guard, he had broken his chains and had been driven by the demon into solitary places.",
+      "de": "Denn er gebot dem unsauberen Geist, daß er von dem Menschen ausführe. Denn er hatte ihn lange Zeit geplagt, und er ward mit Ketten gebunden und mit Fesseln gefangen, und zerriß die Bande und ward getrieben von dem Teufel in die Wüsten.",
+      "zh": "是因耶稣曾吩咐污鬼从那人身上出来。原来这鬼屡次抓住他；他常被人看守，又被铁链和脚镣捆锁，他竟把锁链挣断，被鬼赶到旷野去。",
+      "ja": "それは、イエスが、汚れた霊に、この人から出て行け、と命じられたからである。汚れた霊が何回となくこの人を捕えたので、彼は鎖や足かせでつながれて看視されていたが、それでもそれらを断ち切っては悪霊によって荒野に追いやられていたのである。"
+    },
+    {
+      "number": 30,
+      "ko": "예수께서 네 이름이 무엇이냐 물으신즉 이르되 군대라 하니 이는 많은 귀신이 들렸음이라",
+      "en": "Jesus asked him, \"What is your name?\" \"Legion,\" he replied, because many demons had gone into him.",
+      "de": "Und Jesus fragte ihn und sprach: Wie heißest du? Er sprach: Legion; denn es waren viel Teufel in ihn gefahren.",
+      "zh": "耶稣问他说：「你名叫什么？」他说：「我名叫『群』」；这是因为附着他的鬼多。",
+      "ja": "イエスが、「何という名か。」とお尋ねになると、「レギオンです。」と答えた。悪霊が大ぜい彼にはいっていたからである。"
+    },
+    {
+      "number": 31,
+      "ko": "무저갱으로 들어가라 하지 마시기를 간구하더니",
+      "en": "And they begged him repeatedly not to order them to go into the Abyss.",
+      "de": "Und sie baten ihn, daß er sie nicht hieße in die Tiefe fahren.",
+      "zh": "鬼就央求耶稣，不要吩咐他们到无底坑里去。",
+      "ja": "悪霊どもはイエスに、底知れぬ所に行け、とはお命じになりませんようにと願った。"
+    },
+    {
+      "number": 32,
+      "ko": "마침 그 곳에 많은 돼지 떼가 산에서 먹고 있는지라 귀신들이 그 돼지에게로 들어가게 허락하심을 간구하니 이에 허락하시니",
+      "en": "A large herd of pigs was feeding there on the hillside. The demons begged Jesus to let them go into them, and he gave them permission.",
+      "de": "Es war aber daselbst eine große Herde Säue auf der Weide auf dem Berge. Und sie baten ihn, daß er ihnen erlaubte in sie zu fahren. Und er erlaubte es ihnen.",
+      "zh": "那里有一大群猪在山上吃食。鬼央求耶稣，准他们进入猪里去。耶稣准了他们，",
+      "ja": "ちょうど、山のそのあたりに、おびただしい豚の群れが飼ってあったので、悪霊どもは、その豚にはいることを許してくださいと願った。イエスはそれを許された。"
+    },
+    {
+      "number": 33,
+      "ko": "귀신들이 그 사람에게서 나와 돼지에게로 들어가니 그 떼가 비탈로 내리달아 호수에 들어가 몰사하거늘",
+      "en": "When the demons came out of the man, they went into the pigs, and the herd rushed down the steep bank into the lake and was drowned.",
+      "de": "Da fuhren die Teufel aus von dem Menschen und fuhren in die Säue; und die Herde stürzte sich von dem Abhange in den See und ersoff.",
+      "zh": "鬼就从那人出来，进入猪里去。于是那群猪闯下山崖，投在湖里淹死了。",
+      "ja": "悪霊どもは、その人から出て、豚にはいった。すると、豚の群れはいきなりがけを駆け下って湖にはいり、おぼれ死んだ。"
+    },
+    {
+      "number": 34,
+      "ko": "치던 자들이 그 이루어진 일을 보고 도망하여 성내와 마을에 알리니",
+      "en": "When those tending the pigs saw what had happened, they ran off and reported this in the town and countryside,",
+      "de": "Da aber die Hirten sahen, was da geschah, flohen sie und verkündigten es in der Stadt und in den Dörfern.",
+      "zh": "放猪的看见这事就逃跑了，去告诉城里和乡下的人。",
+      "ja": "飼っていた者たちは、この出来事を見て逃げ出し、町や村々でこの事を告げ知らせた。"
+    },
+    {
+      "number": 35,
+      "ko": "사람들이 그 이루어진 일을 보러 나와서 예수께 이르러 귀신 나간 사람이 옷을 입고 정신이 온전하여 예수의 발치에 앉아 있는 것을 보고 두려워하거늘",
+      "en": "and the people went out to see what had happened. When they came to Jesus, they found the man from whom the demons had gone out, sitting at Jesus' feet, dressed and in his right mind; and they were afraid.",
+      "de": "Da gingen sie hinaus, zu sehen, was da geschehen war, und kamen zu Jesu und fanden den Menschen, von welchem die Teufel ausgefahren waren, sitzend zu den Füßen Jesu, bekleidet und vernünftig, und erschraken.",
+      "zh": "众人出来要看是什么事；到了耶稣那里，看见鬼所离开的那人，坐在耶稣脚前，穿着衣服，心里明白过来，他们就害怕。",
+      "ja": "人々が、この出来事を見に来て、イエスのそばに来たところ、イエスの足もとに、悪霊の去った男が着物を着て、正気に返って、すわっていた。人々は恐ろしくなった。"
+    },
+    {
+      "number": 36,
+      "ko": "귀신 들렸던 자가 어떻게 구원 받았는지를 본 자들이 그들에게 이르매",
+      "en": "Those who had seen it told the people how the demon-possessed man had been cured.",
+      "de": "Und die es gesehen hatten, verkündigten's ihnen, wie der Besessene war gesund geworden.",
+      "zh": "看见这事的便将被鬼附着的人怎么得救告诉他们。",
+      "ja": "目撃者たちは、悪霊につかれていた人の救われた次第を、その人々に知らせた。"
+    },
+    {
+      "number": 37,
+      "ko": "거라사인의 땅 근방 모든 백성이 크게 두려워하여 예수께 떠나가시기를 구하더라 예수께서 배에 올라 돌아가실새",
+      "en": "Then all the people of the region of the Gerasenes asked Jesus to leave them, because they were overcome with fear. So he got into the boat and left.",
+      "de": "Und es bat ihn die ganze Menge des umliegenden Landes der Gadarener, daß er von ihnen ginge; denn es war sie eine große Furcht angekommen. Und er trat in das Schiff und wandte wieder um.",
+      "zh": "格拉森四围的人，因为害怕得很，都求耶稣离开他们；耶稣就上船回去了。",
+      "ja": "ゲラサ地方の民衆はみな、すっかりおびえてしまい、イエスに自分たちのところから離れていただきたいと願った。そこで、イエスは舟に乗って帰られた。"
+    },
+    {
+      "number": 38,
+      "ko": "귀신 나간 사람이 함께 있기를 구하였으나 예수께서 그를 보내시며 이르시되",
+      "en": "The man from whom the demons had gone out begged to go with him, but Jesus sent him away, saying,",
+      "de": "Es bat ihn aber der Mann, von dem die Teufel ausgefahren waren, daß er bei ihm möchte sein. Aber Jesus ließ ihn von sich und sprach:",
+      "zh": "鬼所离开的那人恳求和耶稣同在；耶稣却打发他回去，说：",
+      "ja": "そのとき、悪霊を追い出された人が、お供をしたいとしきりに願ったが、イエスはこう言って彼を帰された。"
+    },
+    {
+      "number": 39,
+      "ko": "집으로 돌아가 하나님이 네게 어떻게 큰 일을 행하셨는지를 말하라 하시니 그가 가서 예수께서 자기에게 어떻게 큰 일을 행하셨는지를 온 성내에 전파하니라",
+      "en": "\"Return home and tell how much God has done for you.\" So the man went away and told all over town how much Jesus had done for him.",
+      "de": "Gehe wieder heim und sage, wie große Dinge dir Gott getan hat. Und er ging hin und verkündigte durch die ganze Stadt, wie große Dinge ihm Jesus getan hatte.",
+      "zh": "「你回家去，传说　神为你做了何等大的事。」他就去，满城里传扬耶稣为他做了何等大的事。",
+      "ja": "「家に帰って、神があなたにどんなに大きなことをしてくださったかを、話して聞かせなさい。」そこで彼は出て行って、イエスが自分にどんなに大きなことをしてくださったかを、町中に言い広めた。"
+    },
+    {
+      "number": 40,
+      "ko": "예수께서 돌아오시매 무리가 환영하니 이는 다 기다렸음이러라",
+      "en": "Now when Jesus returned, a crowd welcomed him, for they were all expecting him.",
+      "de": "Und es begab sich, da Jesus wiederkam, nahm ihn das Volk auf; denn sie warteten alle auf ihn.",
+      "zh": "耶稣回来的时候，众人迎接他，因为他们都等候他。",
+      "ja": "さて、イエスが帰られると、群衆は喜んで迎えた。みなイエスを待ちわびていたからである。"
+    },
+    {
+      "number": 41,
+      "ko": "이에 회당장인 야이로라 하는 사람이 와서 예수의 발 아래에 엎드려 자기 집에 오시기를 간구하니",
+      "en": "Then a man named Jairus, a ruler of the synagogue, came and fell at Jesus' feet, pleading with him to come to his house",
+      "de": "Und siehe, da kam ein Mann mit Namen Jairus, der ein Oberster der Schule war, und fiel Jesu zu den Füßen und bat ihn, daß er wollte in sein Haus kommen;",
+      "zh": "有一个管会堂的，名叫睚鲁，来俯伏在耶稣脚前，求耶稣到他家里去；",
+      "ja": "するとそこに、ヤイロという人が来た。この人は会堂管理者であった。彼はイエスの足もとにひれ伏して自分の家に来ていただきたいと願った。"
+    },
+    {
+      "number": 42,
+      "ko": "이는 자기에게 열두 살 된 외딸이 있어 죽어감이러라",
+      "en": "because his only daughter, a girl of about twelve, was dying. As Jesus was on his way, the crowds almost crushed him.",
+      "de": "denn er hatte eine einzige Tochter bei zwölf Jahren, die lag in den letzten Zügen. Und da er hinging, drängte ihn das Volk.",
+      "zh": "因他有一个独生女儿，约有十二岁，快要死了。 耶稣去的时候，众人拥挤他。",
+      "ja": "彼には十二歳ぐらいのひとり娘がいて、死にかけていたのである。イエスがお出かけになると、群衆がみもとに押し迫って来た。"
+    },
+    {
+      "number": 43,
+      "ko": "이에 열두 해를 혈루증으로 앓는 중에 아무에게도 고침을 받지 못하던 여자가",
+      "en": "And a woman was there who had been subject to bleeding for twelve years, but no one could heal her.",
+      "de": "Und ein Weib hatte den Blutgang zwölf Jahre gehabt; die hatte alle ihre Nahrung an die Ärzte gewandt, und konnte von niemand geheilt werden;",
+      "zh": "有一个女人，患了十二年的血漏，在医生手里花尽了她一切养生的，并没有一人能医好她。",
+      "ja": "ときに、十二年の間長血をわずらった女がいた。だれにも直してもらえなかったこの女は、"
+    },
+    {
+      "number": 44,
+      "ko": "예수의 뒤로 와서 그의 옷 가에 손을 대니 혈루증이 즉시 그쳤더라",
+      "en": "She came up behind him and touched the edge of his cloak, and immediately her bleeding stopped.",
+      "de": "die trat hinzu von hinten und rührte seines Kleides Saum an; und alsobald stand ihr der Blutgang.",
+      "zh": "她来到耶稣背后，摸他的衣裳 子，血漏立刻就止住了。",
+      "ja": "イエスのうしろに近寄って、イエスの着物のふさにさわった。すると、たちどころに出血が止まった。"
+    },
+    {
+      "number": 45,
+      "ko": "예수께서 이르시되 내게 손을 댄 자가 누구냐 하시니 다 아니라 할 때에 베드로가 이르되 주여 무리가 밀려들어 미나이다",
+      "en": "\"Who touched me?\" Jesus asked. When they all denied it, Peter said, \"Master, the people are crowding and pressing against you.\"",
+      "de": "Und Jesus sprach: Wer hat mich angerührt? Da sie aber alle leugneten, sprach Petrus und die mit ihm waren: Meister, das Volk drängt und drückt dich, und du sprichst: Wer hat mich angerührt?",
+      "zh": "耶稣说：「摸我的是谁？」众人都不承认。彼得和同行的人都说：「夫子，众人拥拥挤挤紧靠着你。」",
+      "ja": "イエスは、「わたしにさわったのは、だれですか。」と言われた。みな自分ではないと言ったので、ペテロは、「先生。この大ぜいの人が、ひしめき合って押しているのです。」と言った。"
+    },
+    {
+      "number": 46,
+      "ko": "예수께서 이르시되 내게 손을 댄 자가 있도다 이는 내게서 능력이 나간 줄 앎이로다 하신대",
+      "en": "But Jesus said, \"Someone touched me; I know that power has gone out from me.\"",
+      "de": "Jesus aber sprach: Es hat mich jemand angerührt; denn ich fühle, daß eine Kraft von mir gegangen ist.",
+      "zh": "耶稣说：「总有人摸我，因我觉得有能力从我身上出去。」",
+      "ja": "しかし、イエスは、「だれかが、わたしにさわったのです。わたしから力が出て行くのを感じたのだから。」と言われた。"
+    },
+    {
+      "number": 47,
+      "ko": "여자가 스스로 숨기지 못할 줄 알고 떨며 나아와 엎드리어 그 손 댄 이유와 곧 나은 것을 모든 사람 앞에서 말하니",
+      "en": "Then the woman, seeing that she could not go unnoticed, came trembling and fell at his feet. In the presence of all the people, she told why she had touched him and how she had been instantly healed.",
+      "de": "Da aber das Weib sah, daß es nicht verborgen war, kam sie mit Zittern und fiel vor ihm nieder und verkündigte vor allem Volk, aus welcher Ursache sie ihn hätte angerührt und wie sie wäre alsbald gesund geworden.",
+      "zh": "那女人知道不能隐藏，就战战兢兢地来俯伏在耶稣脚前，把摸他的缘故和怎样立刻得好了，当着众人都说出来。",
+      "ja": "女は、隠しきれないと知って、震えながら進み出て、御前にひれ伏し、すべての民の前で、イエスにさわったわけと、たちどころにいやされた次第とを話した。"
+    },
+    {
+      "number": 48,
+      "ko": "예수께서 이르시되 딸아 네 믿음이 너를 구원하였으니 평안히 가라 하시더라",
+      "en": "Then he said to her, \"Daughter, your faith has healed you. Go in peace.\"",
+      "de": "Er aber sprach zu ihr: Sei getrost, meine Tochter, dein Glaube hat dir geholfen. Gehe hin mit Frieden!",
+      "zh": "耶稣对她说：「女儿，你的信救了你；平平安安地去吧！」",
+      "ja": "そこで、イエスは彼女に言われた。「娘よ。あなたの信仰があなたを直したのです。安心して行きなさい。」"
+    },
+    {
+      "number": 49,
+      "ko": "아직 말씀하실 때에 회당장의 집에서 사람이 와서 말하되 당신의 딸이 죽었나이다 선생님을 더 괴롭게 하지 마소서 하거늘",
+      "en": "While Jesus was still speaking, someone came from the house of Jairus, the synagogue ruler. \"Your daughter is dead,\" he said. \"Don't bother the teacher any more.\"",
+      "de": "Da er noch redete, kam einer vom Gesinde des Obersten der Schule und sprach zu ihm: Deine Tochter ist gestorben; bemühe den Meister nicht.",
+      "zh": "还说话的时候，有人从管会堂的家里来，说：「你的女儿死了，不要劳动夫子。」",
+      "ja": "イエスがまだ話しておられるときに、会堂管理者の家から人が来て言った。「あなたのお嬢さんはなくなりました。もう、先生を煩わすことはありません。」"
+    },
+    {
+      "number": 50,
+      "ko": "예수께서 들으시고 이르시되 두려워하지 말고 믿기만 하라 그리하면 딸이 구원을 얻으리라 하시고",
+      "en": "Hearing this, Jesus said to Jairus, \"Don't be afraid; just believe, and she will be healed.\"",
+      "de": "Da aber Jesus das hörte, antwortete er ihm und sprach: Fürchte dich nicht, glaube nur, so wird sie gesund!",
+      "zh": "耶稣听见就对他说：「不要怕，只要信！你的女儿就必得救。」",
+      "ja": "これを聞いて、イエスは答えられた。「恐れないで、ただ信じなさい。そうすれば、娘は直ります。」"
+    },
+    {
+      "number": 51,
+      "ko": "그 집에 이르러 베드로와 요한과 야고보와 아이의 부모 외에는 함께 들어가기를 허락하지 아니하시니라",
+      "en": "When he arrived at the house of Jairus, he did not let anyone go in with him except Peter, John and James, and the child's father and mother.",
+      "de": "Da er aber in das Haus kam, ließ er niemand hineingehen denn Petrus und Jakobus und Johannes und des Kindes Vater und Mutter.",
+      "zh": "耶稣到了他的家，除了彼得、约翰、雅各，和女儿的父母，不许别人同他进去。",
+      "ja": "イエスは家にはいられたが、ペテロとヨハネとヤコブ、それに子どもの父と母のほかは、だれもいっしょにはいることをお許しにならなかった。"
+    },
+    {
+      "number": 52,
+      "ko": "모든 사람이 아이를 위하여 울며 통곡하매 예수께서 이르시되 울지 말라 죽은 것이 아니라 잔다 하시니",
+      "en": "Meanwhile, all the people were wailing and mourning for her. \"Stop wailing,\" Jesus said. \"She is not dead but asleep.\"",
+      "de": "Sie weinten aber alle und klagten um sie. Er aber sprach: Weinet nicht, sie ist nicht gestorben, sondern sie schläft.",
+      "zh": "众人都为这女儿哀哭捶胸。耶稣说：「不要哭！她不是死了，是睡着了。」",
+      "ja": "人々はみな、娘のために泣き悲しんでいた。しかし、イエスは言われた。「泣かなくてもよい。死んだのではない。眠っているのです。」"
+    },
+    {
+      "number": 53,
+      "ko": "그들이 그 죽은 것을 아는 고로 비웃더라",
+      "en": "They laughed at him, knowing that she was dead.",
+      "de": "Und sie verlachten ihn, wußten wohl, daß sie gestorben war.",
+      "zh": "他们晓得女儿已经死了，就嗤笑耶稣。",
+      "ja": "人々は、娘が死んだことを知っていたので、イエスをあざ笑っていた。"
+    },
+    {
+      "number": 54,
+      "ko": "예수께서 아이의 손을 잡고 불러 이르시되 아이야 일어나라 하시니",
+      "en": "But he took her by the hand and said, \"My child, get up!\"",
+      "de": "Er aber trieb sie alle hinaus, nahm sie bei der Hand und rief und sprach: Kind, stehe auf!",
+      "zh": "耶稣拉着她的手，呼叫说：「女儿，起来吧！」",
+      "ja": "しかしイエスは、娘の手を取って、叫んで言われた。「子どもよ。起きなさい。」"
+    },
+    {
+      "number": 55,
+      "ko": "그 영이 돌아와 아이가 곧 일어나거늘 예수께서 먹을 것을 주라 명하시니",
+      "en": "Her spirit returned, and at once she stood up. Then Jesus told them to give her something to eat.",
+      "de": "Und ihr Geist kam wieder, und sie stand alsobald auf. Und er befahl, man sollte ihr zu essen geben.",
+      "zh": "她的灵魂便回来，她就立刻起来了。耶稣吩咐给她东西吃。",
+      "ja": "すると、娘の霊が戻って、娘はただちに起き上がった。それでイエスは、娘に食事をさせるように言いつけられた。"
+    },
+    {
+      "number": 56,
+      "ko": "그 부모가 놀라는지라 예수께서 경고하사 이 일을 아무에게도 말하지 말라 하시니라",
+      "en": "Her parents were astonished, but he ordered them not to tell anyone what had happened.",
+      "de": "Und ihre Eltern entsetzten sich. Er aber gebot ihnen, daß sie niemand sagten, was geschehen war.",
+      "zh": "她的父母惊奇得很；耶稣嘱咐他们，不要把所做的事告诉人。",
+      "ja": "両親がひどく驚いていると、イエスは、この出来事をだれにも話さないように命じられた。"
+    }
+  ]
+}

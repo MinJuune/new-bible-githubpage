@@ -1,0 +1,230 @@
+{
+  "book": "Ezra",
+  "chapter": 7,
+  "verses": [
+    {
+      "number": 1,
+      "ko": "이 일 후에 바사 왕 아닥사스다가 왕위에 있을 때에 에스라라 하는 자가 있으니라 그는 스라야의 아들이요 아사랴의 손자요 힐기야의 증손이요",
+      "en": "After these things, during the reign of Artaxerxes king of Persia, Ezra son of Seraiah, the son of Azariah, the son of Hilkiah,",
+      "de": "Nach diesen Geschichten, da Arthahsastha, der König in Persien, regierte, zog herauf von Babel Esra, der Sohn Serajas, des Sohnes Asarjas, des Sohnes Hilkias,",
+      "zh": "这事以后，波斯王亚达薛西年间，有个以斯拉，他是西莱雅的儿子，西莱雅是亚撒利雅的儿子，亚撒利雅是希勒家的儿子，",
+      "ja": "是等の事の後ペルシヤ王アルタシヤスタの治世にエズラといふ者あり エズラはセラヤの子セラヤはアザリヤの子アザリヤはヒルキヤの子"
+    },
+    {
+      "number": 2,
+      "ko": "살룸의 현손이요 사독의 오대 손이요 아히둡의 육대 손이요",
+      "en": "the son of Shallum, the son of Zadok, the son of Ahitub,",
+      "de": "des Sohnes Sallum, des Sohnes Zadoks, des Sohnes Ahitobs,",
+      "zh": "希勒家是沙龙的儿子，沙龙是撒督的儿子，撒督是亚希突的儿子，",
+      "ja": "ヒルキヤはシヤルムの子シヤルムはザドクの子ザドクはアヒトブの子"
+    },
+    {
+      "number": 3,
+      "ko": "아마랴의 칠대 손이요 아사랴의 팔대 손이요 므라욧의 구대 손이요",
+      "en": "the son of Amariah, the son of Azariah, the son of Meraioth,",
+      "de": "des Sohnes Amarjas, des Sohnes Asarjas, des Sohnes Merajoths,",
+      "zh": "亚希突是亚玛利雅的儿子，亚玛利雅是亚撒利雅的儿子，亚撒利雅是米拉约的儿子，",
+      "ja": "アヒトブはアマリヤの子アマリヤはアザリヤの子アザリヤはメラヨテの子"
+    },
+    {
+      "number": 4,
+      "ko": "스라히야의 십대 손이요 웃시엘의 십일대 손이요 북기의 십이대 손이요",
+      "en": "the son of Zerahiah, the son of Uzzi, the son of Bukki,",
+      "de": "des Sohnes Serahjas, des Sohnes Usis, des Sohnes Bukkis,",
+      "zh": "米拉约是西拉希雅的儿子，西拉希雅是乌西的儿子，乌西是布基的儿子，",
+      "ja": "メラヨテはゼラヒヤの子ゼラヒヤはウジの子ウジはブツキの子"
+    },
+    {
+      "number": 5,
+      "ko": "아비수아의 십삼대 손이요 비느하스의 십사대 손이요 엘르아살의 십오대 손이요 대제사장 아론의 십육대 손이라",
+      "en": "the son of Abishua, the son of Phinehas, the son of Eleazar, the son of Aaron the chief priest--",
+      "de": "des Sohnes Abisuas, des Sohnes Pinehas, des Sohnes Eleasars, des Sohnes Aarons, des obersten Priesters.",
+      "zh": "布基是亚比书的儿子，亚比书是非尼哈的儿子，非尼哈是以利亚撒的儿子，以利亚撒是大祭司亚伦的儿子。",
+      "ja": "ブツキはアビシユアの子アビシユアはピネハスの子ピネハスはエレアザルの子エレアザルは祭司の長アロンの子なり"
+    },
+    {
+      "number": 6,
+      "ko": "이 에스라가 바벨론에서 올라왔으니 그는 이스라엘의 하나님 여호와께서 주신 모세의 율법에 익숙한 학자로서 그의 하나님 여호와의 도우심을 입음으로 왕에게 구하는 것은 다 받는 자이더니",
+      "en": "this Ezra came up from Babylon. He was a teacher well versed in the Law of Moses, which the LORD, the God of Israel, had given. The king had granted him everything he asked, for the hand of the LORD his God was on him.",
+      "de": "Esra aber war ein geschickter Schriftgelehrter im Gesetz Mose's, das der HERR, der Gott Israels gegeben hatte. Und der König gab ihm alles, was er forderte, nach der Hand des HERRN, seines Gottes, über ihm.",
+      "zh": "这以斯拉从巴比伦上来，他是敏捷的文士，通达耶和华—以色列　神所赐摩西的律法书。王允准他一切所求的，是因耶和华—他　神的手帮助他。",
+      "ja": "此エズラ、バビロンより上り來れり 彼はイスラエルの神ヱホバの授けたまひしモーセの律法に精しき學士なりき 其神ヱホバの手これが上にありしに因てその求むる所を王ことごとく許せり"
+    },
+    {
+      "number": 7,
+      "ko": "아닥사스다 왕 제칠년에 이스라엘 자손과 제사장들과 레위 사람들과 노래하는 자들과 문지기들과 느디님 사람들 중에 몇 사람이 예루살렘으로 올라올 때에",
+      "en": "Some of the Israelites, including priests, Levites, singers, gatekeepers and temple servants, also came up to Jerusalem in the seventh year of King Artaxerxes.",
+      "de": "Und es zogen herauf etliche der Kinder Israel und der Priester und der Leviten, der Sänger, der Torhüter und der Tempelknechte gen Jerusalem, im siebenten Jahr Arthahsasthas, des Königs.",
+      "zh": "亚达薛西王第七年，以色列人、祭司、利未人、歌唱的、守门的、尼提宁，有上耶路撒冷的。",
+      "ja": "アルタシヤスタ王の七年にイスラエルの子孫および祭司レビ人謳歌者門を守る者ネテニ人など多くヱルサレムに上れり"
+    },
+    {
+      "number": 8,
+      "ko": "이 에스라가 올라왔으니 왕의 제칠년 다섯째 달이라",
+      "en": "Ezra arrived in Jerusalem in the fifth month of the seventh year of the king.",
+      "de": "Und er kam gen Jerusalem im fünften Monat, nämlich des siebenten Jahres des Königs.",
+      "zh": "王第七年五月，以斯拉到了耶路撒冷。",
+      "ja": "王の七年の五月にエズラ、ヱルサレムに到れり"
+    },
+    {
+      "number": 9,
+      "ko": "첫째 달 초하루에 바벨론에서 길을 떠났고 하나님의 선한 손의 도우심을 입어 다섯째 달 초하루에 예루살렘에 이르니라",
+      "en": "He had begun his journey from Babylon on the first day of the first month, and he arrived in Jerusalem on the first day of the fifth month, for the gracious hand of his God was on him.",
+      "de": "Denn am ersten Tage des ersten Monats ward er Rats, heraufzuziehen von Babel, und am ersten Tage des fünften Monats kam er gen Jerusalem nach der guten Hand Gottes über ihm.",
+      "zh": "正月初一日，他从巴比伦起程；因他　神施恩的手帮助他，五月初一日就到了耶路撒冷。",
+      "ja": "即ち正月の一日にバビロンを出たちて五月の一日にヱルサレムに至る 其神のよき手これが上にありしに因てなり"
+    },
+    {
+      "number": 10,
+      "ko": "에스라가 여호와의 율법을 연구하여 준행하며 율례와 규례를 이스라엘에게 가르치기로 결심하였었더라",
+      "en": "For Ezra had devoted himself to the study and observance of the Law of the LORD, and to teaching its decrees and laws in Israel.",
+      "de": "Denn Esra schickte sein Herz, zu suchen das Gesetz des HERRN und zu tun, und zu lehren in Israel Gebote und Rechte.",
+      "zh": "以斯拉定志考究遵行耶和华的律法，又将律例典章教训以色列人。",
+      "ja": "エズラは心をこめてヱホバの律法を求め之を行ひてイスラエルの中に法度と例規とを敎へたりき"
+    },
+    {
+      "number": 11,
+      "ko": "여호와의 계명의 말씀과 이스라엘에게 주신 율례 학자요 학자 겸 제사장인 에스라에게 아닥사스다 왕이 내린 조서의 초본은 아래와 같으니라",
+      "en": "This is a copy of the letter King Artaxerxes had given to Ezra the priest and teacher, a man learned in matters concerning the commands and decrees of the LORD for Israel:",
+      "de": "Und dies ist der Inhalt des Briefes, den der König Arthahsastha gab Esra, dem Priester, dem Schriftgelehrten, der ein Lehrer war in den Worten des HERRN und seiner Gebote über Israel:",
+      "zh": "祭司以斯拉是通达耶和华诫命和赐以色列之律例的文士。亚达薛西王赐给他们谕旨，上面写着说：",
+      "ja": "ヱホバの誡命の言に精しく且つイスラエルに賜ひし法度に明かなる學士にて祭司たるエズラにアルタシヤスタ王の與へし書の言は是のごとし"
+    },
+    {
+      "number": 12,
+      "ko": "모든 왕의 왕 아닥사스다는 하늘의 하나님의 율법에 완전한 학자 겸 제사장 에스라에게",
+      "en": "Artaxerxes, king of kings, To Ezra the priest, a teacher of the Law of the God of heaven: Greetings.",
+      "de": "Arthahsastha, König aller Könige, Esra, dem Priester und Schriftgelehrten im Gesetz des Gottes des Himmels, Friede und Gruß!",
+      "zh": "「诸王之王亚达薛西，达于祭司以斯拉通达天上　神律法大德的文士，云云。",
+      "ja": "諸王の王アルタシヤスタ天の神の律法の學士なる祭司エズラに諭す 願くは全云々"
+    },
+    {
+      "number": 13,
+      "ko": "조서를 내리노니 우리 나라에 있는 이스라엘 백성과 그들 제사장들과 레위 사람들 중에 예루살렘으로 올라갈 뜻이 있는 자는 누구든지 너와 함께 갈지어다",
+      "en": "Now I decree that any of the Israelites in my kingdom, including priests and Levites, who wish to go to Jerusalem with you, may go.",
+      "de": "Von mir ist befohlen, daß alle, die da willig sind in meinem Reich, des Volkes Israel und der Priester und Leviten, gen Jerusalem zu ziehen, daß die mit dir ziehen,",
+      "zh": "住在我国中的以色列人、祭司、利未人，凡甘心上耶路撒冷去的，我降旨准他们与你同去。",
+      "ja": "我詔言を出す 我國の内にをるイスラエルの民およびその祭司レビ人の中凡てヱルサレムに往んと志す者は皆なんぢと偕に往べし"
+    },
+    {
+      "number": 14,
+      "ko": "너는 네 손에 있는 네 하나님의 율법을 따라 유다와 예루살렘의 형편을 살피기 위하여 왕과 일곱 자문관의 보냄을 받았으니",
+      "en": "You are sent by the king and his seven advisers to inquire about Judah and Jerusalem with regard to the Law of your God, which is in your hand.",
+      "de": "dieweil du vom König und seinen sieben Ratsherren gesandt bist, zu besichtigen Juda und Jerusalem nach dem Gesetz Gottes, das unter deiner Hand ist,",
+      "zh": "王与七个谋士既然差你去，照你手中　神的律法书察问犹大和耶路撒冷的景况；",
+      "ja": "汝はおのが手にある汝の神の律法に照してユダとヱルサレムの模樣とを察せんために王および七人の議官に遣はされて往くなり"
+    },
+    {
+      "number": 15,
+      "ko": "왕과 자문관들이 예루살렘에 거하시는 이스라엘 하나님께 성심으로 드리는 은금을 가져가고",
+      "en": "Moreover, you are to take with you the silver and gold that the king and his advisers have freely given to the God of Israel, whose dwelling is in Jerusalem,",
+      "de": "und hinzubringen Silber und Gold, das der König und seine Ratsherren freiwillig geben dem Gott Israels, des Wohnung zu Jerusalem ist,",
+      "zh": "又带金银，就是王和谋士甘心献给住耶路撒冷、以色列　神的，",
+      "ja": "且汝は王とその議官がヱルサレムに宮居するところのイスラエルの神のために誠意よりささぐる金銀を携へ"
+    },
+    {
+      "number": 16,
+      "ko": "또 네가 바벨론 온 도에서 얻을 모든 은금과 및 백성과 제사장들이 예루살렘에 있는 그들의 하나님의 성전을 위하여 기쁘게 드릴 예물을 가져다가",
+      "en": "together with all the silver and gold you may obtain from the province of Babylon, as well as the freewill offerings of the people and priests for the temple of their God in Jerusalem.",
+      "de": "und allerlei Silber und Gold, das du finden kannst in der ganzen Landschaft Babel, mit dem, was das Volk und die Priester freiwillig geben zum Hause ihres Gottes zu Jerusalem.",
+      "zh": "并带你在巴比伦全省所得的金银，和百姓、祭司乐意献给耶路撒冷—他们　神殿的礼物。",
+      "ja": "またバビロン全州にて汝が獲る一切の金銀および民と祭司とがヱルサレムなる其神の室のために誠意よりする禮物を携さふ"
+    },
+    {
+      "number": 17,
+      "ko": "그들의 돈으로 수송아지와 숫양과 어린 양과 그 소제와 그 전제의 물품을 신속히 사서 예루살렘 네 하나님의 성전 제단 위에 드리고",
+      "en": "With this money be sure to buy bulls, rams and male lambs, together with their grain offerings and drink offerings, and sacrifice them on the altar of the temple of your God in Jerusalem.",
+      "de": "Alles das nimm und kaufe mit Fleiß von dem Gelde Farren, Widder, Lämmer und die Speisopfer und Trankopfer dazu, daß man opfere auf dem Altar beim Hause eures Gottes zu Jerusalem.",
+      "zh": "所以你当用这金银，急速买公牛、公绵羊、绵羊羔，和同献的素祭奠祭之物，献在耶路撒冷—你们　神殿的坛上。",
+      "ja": "然ば汝その金をもて牡牛牡羊羔羊およびその素祭と灌祭の品を速に買ひヱルサレムにある汝らの神の室の壇の上にこれを獻ぐべし"
+    },
+    {
+      "number": 18,
+      "ko": "그 나머지 은금은 너와 너의 형제가 좋게 여기는 일에 너희 하나님의 뜻을 따라 쓸지며",
+      "en": "You and your brother Jews may then do whatever seems best with the rest of the silver and gold, in accordance with the will of your God.",
+      "de": "Dazu was dir und deinen Brüdern mit dem übrigen Gelde zu tun gefällt, das tut nach dem Willen eures Gottes.",
+      "zh": "剩下的金银，你和你的弟兄看着怎样好，就怎样用，总要遵着你们　神的旨意。",
+      "ja": "また汝と汝の兄弟等その餘れる金銀をもて爲んと欲する所あらば汝らの神の旨にしたがひて之を爲せ"
+    },
+    {
+      "number": 19,
+      "ko": "네 하나님의 성전에서 섬기는 일을 위하여 네게 준 그릇은 예루살렘 하나님 앞에 드리고",
+      "en": "Deliver to the God of Jerusalem all the articles entrusted to you for worship in the temple of your God.",
+      "de": "Und die Gefäße, die dir gegeben sind zum Amt im Hause Gottes, überantworte vor Gott zu Jerusalem.",
+      "zh": "所交给你　神殿中使用的器皿，你要交在耶路撒冷　神面前。",
+      "ja": "また汝の神の室の奉事のために汝が賜はりし器皿は汝これをヱルサレムの神の前に納めよ"
+    },
+    {
+      "number": 20,
+      "ko": "그 외에도 네 하나님의 성전에 쓰일 것이 있어서 네가 드리고자 하거든 무엇이든지 궁중창고에서 내다가 드릴지니라",
+      "en": "And anything else needed for the temple of your God that you may have occasion to supply, you may provide from the royal treasury.",
+      "de": "Auch was mehr not sein wird zum Hause deines Gottes, das dir vorfällt auszugeben, das laß geben aus der Kammer des Königs.",
+      "zh": "你　神殿里若再有需用的经费，你可以从王的府库里支取。",
+      "ja": "その外汝の神の室のために需むる所あらば汝の用ひんとする所の者をことごとく王の府庫より取て用ふべし"
+    },
+    {
+      "number": 21,
+      "ko": "나 곧 아닥사스다 왕이 유브라데 강 건너편 모든 창고지기에게 조서를 내려 이르기를 하늘의 하나님의 율법 학자 겸 제사장 에스라가 무릇 너희에게 구하는 것을 신속히 시행하되",
+      "en": "Now I, King Artaxerxes, order all the treasurers of Trans-Euphrates to provide with diligence whatever Ezra the priest, a teacher of the Law of the God of heaven, may ask of you--",
+      "de": "Ich, König Arthahsastha, habe dies befohlen den Schatzmeistern jenseit des Wassers, daß, was Esra von euch fordern wird, der Priester und Schriftgelehrte im Gesetz des Gottes des Himmels, daß ihr das fleißig tut,",
+      "zh": "「我—亚达薛西王又降旨与河西的一切库官，说：『通达天上　神律法的文士祭司以斯拉，无论向你们要什么，你们要速速地备办，",
+      "ja": "我や我アルタシヤスタ王 河外ふの一切の庫官に詔言を下して云ふ 天の神の律法の學士祭司エズラが汝らに需むる所は凡てこれを迅速に爲べし"
+    },
+    {
+      "number": 22,
+      "ko": "은은 백 달란트까지, 밀은 백 고르까지, 포도주는 백 밧까지, 기름도 백 밧까지 하고 소금은 정량 없이 하라",
+      "en": "up to a hundred talents of silver, a hundred cors of wheat, a hundred baths of wine, a hundred baths of olive oil, and salt without limit.",
+      "de": "bis auf hundert Zentner Silber und auf hundert Kor Weizen und auf hundert Bath Wein und auf hundert Bath Öl und salz ohne Maß.",
+      "zh": "就是银子直到一百他连得，麦子一百柯珥，酒一百罢特，油一百罢特，盐不计其数，也要给他。",
+      "ja": "即ち銀は百タラント小麥は百石酒は百バテ油は百バテ鹽は量なかるべし"
+    },
+    {
+      "number": 23,
+      "ko": "무릇 하늘의 하나님의 전을 위하여 하늘의 하나님이 명령하신 것은 삼가 행하라 어찌하여 진노가 왕과 왕자의 나라에 임하게 하랴",
+      "en": "Whatever the God of heaven has prescribed, let it be done with diligence for the temple of the God of heaven. Why should there be wrath against the realm of the king and of his sons?",
+      "de": "Alles was gehört zum Gesetz des Gottes des Himmels, daß man dasselbe fleißig tue zum Hause des Gottes des Himmels, daß nicht ein Zorn komme über das Königreich des Königs und seiner Kinder.",
+      "zh": "凡天上之　神所吩咐的，当为天上　神的殿详细办理。为何使忿怒临到王和王众子的国呢？",
+      "ja": "天の神の室のために天の神の命ずる所は凡て謹んで之を行なへ しからずば王とその子等との國に恐くは震怒のぞまん"
+    },
+    {
+      "number": 24,
+      "ko": "내가 너희에게 이르노니 제사장들이나 레위 사람들이나 노래하는 자들이나 문지기들이나 느디님 사람들이나 혹 하나님의 성전에서 일하는 자들에게 조공과 관세와 통행세를 받는 것이 옳지 않으니라 하였노라",
+      "en": "You are also to know that you have no authority to impose taxes, tribute or duty on any of the priests, Levites, singers, gatekeepers, temple servants or other workers at this house of God.",
+      "de": "Und euch sei kund, daß ihr nicht Macht habt, Zins, Zoll und jährliche Rente zu legen auf irgend einen Priester, Leviten, Sänger, Torhüter, Tempelknecht und Diener im Hause dieses Gottes.",
+      "zh": "我又晓谕你们，至于祭司、利未人、歌唱的、守门的，和尼提宁，并在　神殿当差的人，不可叫他们进贡，交课，纳税。』",
+      "ja": "かつ我儕なんぢらに諭す 祭司レビ人謳歌者門を守る者ネテニ人および神のその室の役者などには貢賦租税税金などを課すべからず"
+    },
+    {
+      "number": 25,
+      "ko": "에스라여 너는 네 손에 있는 네 하나님의 지혜를 따라 네 하나님의 율법을 아는 자를 법관과 재판관을 삼아 강 건너편 모든 백성을 재판하게 하고 그 중 알지 못하는 자는 너희가 가르치라",
+      "en": "And you, Ezra, in accordance with the wisdom of your God, which you possess, appoint magistrates and judges to administer justice to all the people of Trans-Euphrates--all who know the laws of your God. And you are to teach any who do not know them.",
+      "de": "Du aber, Esra, nach der Weisheit deines Gottes, die unter deiner Hand ist, setze Richter und Pfleger, die alles Volk richten, das jenseit des Wassers ist, alle, die das Gesetz deines Gottes wissen; und welche es nicht wissen, die lehret es.",
+      "zh": "「以斯拉啊，要照着你　神赐你的智慧，将所有明白你　神律法的人立为士师、审判官，治理河西的百姓，使他们教训一切不明白　神律法的人。",
+      "ja": "汝エズラ汝の手にある汝の神の智慧にしたがひて有司および裁判人を立て河外ふの一切の民すなはち汝の神の律法を知る者等を盡く裁判しめよ 汝らまた之を知ざる者を敎へよ"
+    },
+    {
+      "number": 26,
+      "ko": "무릇 네 하나님의 명령과 왕의 명령을 준행하지 아니하는 자는 속히 그 죄를 정하여 혹 죽이거나 귀양 보내거나 가산을 몰수하거나 옥에 가둘지니라 하였더라",
+      "en": "Whoever does not obey the law of your God and the law of the king must surely be punished by death, banishment, confiscation of property, or imprisonment.",
+      "de": "Und ein jeglicher, der nicht mit Fleiß tun wird das Gesetz deines Gottes und das Gesetz des Königs, der soll sein Urteil um der Tat willen haben, es sei zum Tod oder in die Acht oder zur Buße am Gut oder ins Gefängnis.",
+      "zh": "凡不遵行你　神律法和王命令的人就当速速定他的罪，或治死，或充军，或抄家，或囚禁。」",
+      "ja": "凡そ汝の神の律法および王の律法を行はざる者をば迅速にその罪を定めて或は殺し或は追放ち或はその貨財を沒収し或は獄に繋ぐべし"
+    },
+    {
+      "number": 27,
+      "ko": "우리 조상들의 하나님 여호와를 송축할지로다 그가 왕의 마음에 예루살렘 여호와의 성전을 아름답게 할 뜻을 두시고",
+      "en": "Praise be to the LORD, the God of our fathers, who has put it into the king's heart to bring honor to the house of the LORD in Jerusalem in this way",
+      "de": "Gelobt sei der HERR, unsrer Väter Gott, der solches hat dem König eingegeben, daß er das Haus des HERRN zu Jerusalem ziere,",
+      "zh": "以斯拉说：「耶和华—我们列祖的　神是应当称颂的！因他使王起这心意修饰耶路撒冷耶和华的殿，",
+      "ja": "我らの先祖の神ヱホバは讃べき哉 斯王の心にヱルサレムなるヱホバの室を飾る意を起させ"
+    },
+    {
+      "number": 28,
+      "ko": "또 나로 왕과 그의 보좌관들 앞과 왕의 권세 있는 모든 방백의 앞에서 은혜를 얻게 하셨도다 내 하나님 여호와의 손이 내 위에 있으므로 내가 힘을 얻어 이스라엘 중에 우두머리들을 모아 나와 함께 올라오게 하였노라",
+      "en": "and who has extended his good favor to me before the king and his advisers and all the king's powerful officials. Because the hand of the LORD my God was on me, I took courage and gathered leading men from Israel to go up with me.",
+      "de": "und hat zu mir Barmherzigkeit geneigt vor dem König und seinen Ratsherren und allen Gewaltigen des Königs! Und ich ward getrost nach der Hand des HERRN, meines Gottes, über mir und versammelte Häupter aus Israel, daß sie mit mir hinaufzögen.",
+      "zh": "又在王和谋士，并大能的军长面前施恩于我。因耶和华—我　神的手帮助我，我就得以坚强，从以色列中招聚首领，与我一同上来。」",
+      "ja": "また王の前とその議官の前と王の大臣の前にて我に矜恤を得させたまへり 我神ヱホバの手わが上にありしに因て我は力を得 イスラエルの中より首領たる人々を集めて我とともに上らしむ"
+    }
+  ]
+}

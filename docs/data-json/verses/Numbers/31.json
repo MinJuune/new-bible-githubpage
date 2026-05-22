@@ -1,0 +1,438 @@
+{
+  "book": "Numbers",
+  "chapter": 31,
+  "verses": [
+    {
+      "number": 1,
+      "ko": "여호와께서 모세에게 말씀하여 이르시되",
+      "en": "The LORD said to Moses,",
+      "de": "Und der HERR redete mit Mose und sprach:",
+      "zh": "耶和华吩咐摩西说：",
+      "ja": "茲にヱホバ、モーセに告て言たまはく"
+    },
+    {
+      "number": 2,
+      "ko": "이스라엘 자손의 원수를 미디안에게 갚으라 그 후에 네가 네 조상에게로 돌아가리라",
+      "en": "\"Take vengeance on the Midianites for the Israelites. After that, you will be gathered to your people.\"",
+      "de": "Räche die Kinder Israel an den Midianitern, daß du darnach dich sammelst zu deinem Volk.",
+      "zh": "「你要在米甸人身上报以色列人的仇，后来要归到你列祖那里。」",
+      "ja": "汝イスラエルの子孫の仇をミデアン人に報ゆべし其後汝はその民に加はらん"
+    },
+    {
+      "number": 3,
+      "ko": "모세가 백성에게 말하여 이르되 너와 함께 있는 사람들 가운데서 전쟁에 나갈 사람들을 무장시키고 미디안을 치러 보내어 여호와의 원수를 갚되",
+      "en": "So Moses said to the people, \"Arm some of your men to go to war against the Midianites and to carry out the LORD'S vengeance on them.",
+      "de": "Da redete Mose mit dem Volk und sprach: Rüstet unter euch Leute zum Heer wider die Midianiter, daß sie den HERRN rächen an den Midianitern,",
+      "zh": "摩西吩咐百姓说：「要从你们中间叫人带兵器出去攻击米甸，好在米甸人身上为耶和华报仇。",
+      "ja": "モーセすなはち民に告て言けるは汝らの中より人を選みて戰爭にいづる准備をなさしめ之をしてミデアン人に攻ゆかしめてヱホバの仇をミデアン人に報ゆべし"
+    },
+    {
+      "number": 4,
+      "ko": "이스라엘 모든 지파에게 각 지파에서 천 명씩을 전쟁에 보낼지니라 하매",
+      "en": "Send into battle a thousand men from each of the tribes of Israel.\"",
+      "de": "aus jeglichem Stamm tausend, daß ihr aus allen Stämmen Israels in das Heer schickt.",
+      "zh": "从以色列众支派中，每支派要打发一千人去打仗。」",
+      "ja": "即ちイスラエルの諸の支派につきて各々の支派より千人づつを取りこれを戰爭につかはすべしと"
+    },
+    {
+      "number": 5,
+      "ko": "각 지파에서 천 명씩 이스라엘 백만 명 중에서 만 이천 명을 택하여 무장을 시킨지라",
+      "en": "So twelve thousand men armed for battle, a thousand from each tribe, were supplied from the clans of Israel.",
+      "de": "Und sie nahmen aus den Tausenden Israels je tausend eines Stammes, zwölftausend gerüstet zum Heer.",
+      "zh": "于是从以色列千万人中，每支派交出一千人，共一万二千人，带着兵器预备打仗。",
+      "ja": "是において各々の支派より千人づつを選みイスラエルの衆軍の中より一萬二千人を得て戰爭にいづる准備をなさしむ"
+    },
+    {
+      "number": 6,
+      "ko": "모세가 각 지파에 천 명씩 싸움에 보내되 제사장 엘르아살의 아들 비느하스에게 성소의 기구와 신호 나팔을 들려서 그들과 함께 전쟁에 보내매",
+      "en": "Moses sent them into battle, a thousand from each tribe, along with Phinehas son of Eleazar, the priest, who took with him articles from the sanctuary and the trumpets for signaling.",
+      "de": "Und Mose schickte sie mit Pinehas, dem Sohn Eleasars, des Priesters, ins Heer und die heiligen Geräte und die Halldrommeten in seiner Hand.",
+      "zh": "摩西就打发每支派的一千人去打仗，并打发祭司以利亚撒的儿子非尼哈同去；非尼哈手里拿着圣所的器皿和吹大声的号筒。",
+      "ja": "モーセすなはち各々の支派より千人宛を戰爭に遣しまた祭司エレアザルの子ピネハスに聖器と吹鳴す喇叭を執しめて之とともに戰爭に遣せり"
+    },
+    {
+      "number": 7,
+      "ko": "그들이 여호와께서 모세에게 명령하신 대로 미디안을 쳐서 남자를 다 죽였고",
+      "en": "They fought against Midian, as the LORD commanded Moses, and killed every man.",
+      "de": "Und sie führten das Heer wider die Midianiter, wie der HERR dem Mose geboten hatte, und erwürgten alles, was männlich war.",
+      "zh": "他们就照耶和华所吩咐摩西的，与米甸人打仗，杀了所有的男丁。",
+      "ja": "彼らヱホバのモーセに命じたまへるごとくミデアン人を攻撃ち遂にその中の男子をことごとく殺せり"
+    },
+    {
+      "number": 8,
+      "ko": "그 죽인 자 외에 미디안의 다섯 왕을 죽였으니 미디안의 왕들은 에위와 레겜과 수르와 후르와 레바이며 또 브올의 아들 발람을 칼로 죽였더라",
+      "en": "Among their victims were Evi, Rekem, Zur, Hur and Reba--the five kings of Midian. They also killed Balaam son of Beor with the sword.",
+      "de": "Dazu die Könige der Midianiter erwürgten sie samt ihren Erschlagenen, nämlich Evi, Rekem, Zur, Hur und Reba, die fünf Könige der Midianiter. Bileam, den Sohn Beors, erwürgten sie auch mit dem Schwert.",
+      "zh": "在所杀的人中，杀了米甸的五王，就是以未、利金、苏珥、户珥、利巴，又用刀杀了比珥的儿子巴兰。",
+      "ja": "その殺しし者の外にまたミデアンの王五人を殺せりそのミデアンの王等はエビ、レケム、ツル、ホル、レバといふまたベオルの子バラムをも劍にかけて殺せり"
+    },
+    {
+      "number": 9,
+      "ko": "이스라엘 자손이 미디안의 부녀들과 그들의 아이들을 사로잡고 그들의 가축과 양 떼와 재물을 다 탈취하고",
+      "en": "The Israelites captured the Midianite women and children and took all the Midianite herds, flocks and goods as plunder.",
+      "de": "Und die Kinder Israel nahmen gefangen die Weiber der Midianiter und ihre Kinder; all ihr Vieh, alle ihre Habe und alle ihre Güter raubten sie,",
+      "zh": "以色列人掳了米甸人的妇女孩子，并将他们的牲畜、羊群，和所有的财物都夺了来，当作掳物，",
+      "ja": "イスラエルの子孫すなはちミデアンの婦女等とその子女を生擒りその家畜と羊の群とその貨財をことごとく奪ひ取り"
+    },
+    {
+      "number": 10,
+      "ko": "그들이 거처하는 성읍들과 촌락을 다 불사르고",
+      "en": "They burned all the towns where the Midianites had settled, as well as all their camps.",
+      "de": "und verbrannten mit Feuer alle ihre Städte ihrer Wohnungen und alle Zeltdörfer.",
+      "zh": "又用火焚烧他们所住的城邑和所有的营寨，",
+      "ja": "その住居の邑々とその村々とを盡く火にて燒り"
+    },
+    {
+      "number": 11,
+      "ko": "탈취한 것, 노략한 것, 사람과 짐승을 다 빼앗으니라",
+      "en": "They took all the plunder and spoils, including the people and animals,",
+      "de": "Und nahmen allen Raub und alles, was zu nehmen war, Menschen und Vieh,",
+      "zh": "把一切所夺的、所掳的，连人带牲畜都带了去，",
+      "ja": "かくて彼等はその奪ひし物と掠めし物を人と畜ともに取り"
+    },
+    {
+      "number": 12,
+      "ko": "그들이 사로잡은 자와 노략한 것과 탈취한 것을 가지고 여리고 맞은편 요단 강 가 모압 평지의 진영에 이르러 모세와 제사장 엘르아살과 이스라엘 자손의 회중에게로 나아오니라",
+      "en": "and brought the captives, spoils and plunder to Moses and Eleazar the priest and the Israelite assembly at their camp on the plains of Moab, by the Jordan across from Jericho.",
+      "de": "und brachten's zu Mose und zu Eleasar, dem Priester, und zu der Gemeinde der Kinder Israel, nämlich die Gefangenen und das genommene Vieh und das geraubte Gut ins Lager auf der Moabiter Gefilde, das am Jordan liegt gegenüber Jericho.",
+      "zh": "将所掳的人，所夺的牲畜、财物，都带到摩押平原，在约旦河边与耶利哥相对的营盘，交给摩西和祭司以利亚撒，并以色列的会众。",
+      "ja": "ヱリコに對するヨルダンの邊なるモアブの平野の營にその生擒し者と掠めし物と奪ひし物とを携へきたりてモーセと祭司エレアザルとイスラエルの子孫の會衆に詣れり"
+    },
+    {
+      "number": 13,
+      "ko": "모세와 제사장 엘르아살과 회중의 지도자들이 다 진영 밖에 나가서 영접하다가",
+      "en": "Moses, Eleazar the priest and all the leaders of the community went to meet them outside the camp.",
+      "de": "Und Mose und Eleasar, der Priester, und alle Fürsten der Gemeinde gingen ihnen entgegen, hinaus vor das Lager.",
+      "zh": "摩西和祭司以利亚撒，并会众一切的首领，都出到营外迎接他们。",
+      "ja": "時にモーセと祭司エレアザルおよび會衆の牧伯等みな營の外に出て之を迎へたりしが"
+    },
+    {
+      "number": 14,
+      "ko": "모세가 군대의 지휘관 곧 싸움에서 돌아온 천부장들과 백부장들에게 노하니라",
+      "en": "Moses was angry with the officers of the army--the commanders of thousands and commanders of hundreds--who returned from the battle.",
+      "de": "Und Mose ward zornig über die Hauptleute des Heeres, die Hauptleute über tausend und über hundert waren, die aus dem Heer und Streit kamen,",
+      "zh": "摩西向打仗回来的军长，就是千夫长、百夫长，发怒，",
+      "ja": "モーセはその軍勢の領袖等すなはち戰爭より歸りきたれる千人の長等と百人の長等のなせる所を怒れり"
+    },
+    {
+      "number": 15,
+      "ko": "모세가 그들에게 이르되 너희가 여자들을 다 살려두었느냐",
+      "en": "\"Have you allowed all the women to live?\" he asked them.",
+      "de": "und sprach zu ihnen: Warum habt ihr alle Weiber leben lassen?",
+      "zh": "对他们说：「你们要存留这一切妇女的活命吗？",
+      "ja": "モーセすなはち彼等に言けるは汝らは婦女等をことごとく生し存しや"
+    },
+    {
+      "number": 16,
+      "ko": "보라 이들이 발람의 꾀를 따라 이스라엘 자손을 브올의 사건에서 여호와 앞에 범죄하게 하여 여호와의 회중 가운데에 염병이 일어나게 하였느니라",
+      "en": "\"They were the ones who followed Balaam's advice and were the means of turning the Israelites away from the LORD in what happened at Peor, so that a plague struck the LORD'S people.",
+      "de": "Siehe, haben nicht dieselben die Kinder Israel durch Bileams Rat abwendig gemacht, daß sie sich versündigten am HERRN über dem Peor und eine Plage der Gemeinde des HERRN widerfuhr?",
+      "zh": "这些妇女因巴兰的计谋，叫以色列人在毗珥的事上得罪耶和华，以致耶和华的会众遭遇瘟疫。",
+      "ja": "視よ是等の者はバラムの謀計によりイスラエルの子孫をしてペオルの事においてヱホバに罪を犯さしめ遂にヱホバの會衆の中に疫病おこるにいたらしめたり"
+    },
+    {
+      "number": 17,
+      "ko": "그러므로 아이들 중에서 남자는 다 죽이고 남자와 동침하여 사내를 아는 여자도 다 죽이고",
+      "en": "Now kill all the boys. And kill every woman who has slept with a man,",
+      "de": "So erwürget nun alles, was männlich ist unter den Kindern, und alle Weiber, die Männer erkannt und beigelegen haben;",
+      "zh": "所以，你们要把一切的男孩和所有已嫁的女子都杀了。",
+      "ja": "然ばこの子等の中の男の子を盡く殺しまた男と寝て男しれる婦人を盡く殺せ"
+    },
+    {
+      "number": 18,
+      "ko": "남자와 동침하지 아니하여 사내를 알지 못하는 여자들은 다 너희를 위하여 살려둘 것이니라",
+      "en": "but save for yourselves every girl who has never slept with a man.",
+      "de": "aber alle Kinder, die weiblich sind und nicht Männer erkannt haben, die laßt für euch leben.",
+      "zh": "但女孩子中，凡没有出嫁的，你们都可以存留她的活命。",
+      "ja": "但し未だ男と寝て男しれる事あらざる女の子はこれを汝らのために生し存べし"
+    },
+    {
+      "number": 19,
+      "ko": "너희는 이레 동안 진영 밖에 주둔하라 누구든지 살인자나 죽임을 당한 사체를 만진 자는 셋째 날과 일곱째 날에 몸을 깨끗하게 하고 너희의 포로도 깨끗하게 할 것이며",
+      "en": "\"All of you who have killed anyone or touched anyone who was killed must stay outside the camp seven days. On the third and seventh days you must purify yourselves and your captives.",
+      "de": "Und lagert euch draußen vor dem Lager sieben Tage, alle, die jemand erwürgt oder Erschlagene angerührt haben, daß ihr euch entsündigt am dritten und am siebenten Tage, samt denen, die ihr gefangen genommen habt.",
+      "zh": "你们要在营外驻扎七日；凡杀了人的，和一切摸了被杀的，并你们所掳来的人口，第三日，第七日，都要洁净自己，",
+      "ja": "而して汝らは七日の間營の外に居れ汝らの中凡そ人を殺せし者または殺されし者に捫りたる者は第三日と第七日にその身を潔め且その俘囚を潔むべし"
+    },
+    {
+      "number": 20,
+      "ko": "모든 의복과 가죽으로 만든 모든 것과 염소털로 만든 모든 것과 나무로 만든 모든 것을 다 깨끗하게 할지니라",
+      "en": "Purify every garment as well as everything made of leather, goat hair or wood.\"",
+      "de": "Und alle Kleider und alles Gerät von Fellen und alles Pelzwerk und alles hölzerne Gefäß sollt ihr entsündigen.",
+      "zh": "也要因一切的衣服、皮物、山羊毛织的物，和各样的木器，洁净自己。」",
+      "ja": "また一切の衣服と一切の皮の器具および凡て山羊の毛にて作れる物と凡て木にて造れる物を潔むべしと"
+    },
+    {
+      "number": 21,
+      "ko": "제사장 엘르아살이 싸움에 나갔던 군인들에게 이르되 이는 여호와께서 모세에게 명령하신 율법이니라",
+      "en": "Then Eleazar the priest said to the soldiers who had gone into battle, \"This is the requirement of the law that the LORD gave Moses:",
+      "de": "Und Eleasar, der Priester, sprach zu dem Kriegsvolk, das in den Streit gezogen war: Das ist das Gesetz, welches der HERR dem Mose geboten hat:",
+      "zh": "祭司以利亚撒对打仗回来的兵丁说：「耶和华所吩咐摩西律法中的条例乃是这样：",
+      "ja": "祭司エレアザル戰にいでし軍人等に言けるはヱホバのモーセに命じたまへる律法の例は是のごとし"
+    },
+    {
+      "number": 22,
+      "ko": "금, 은, 동, 철과 주석과 납 등의",
+      "en": "Gold, silver, bronze, iron, tin, lead",
+      "de": "Gold, Silber, Erz, Eisen, Zinn und Blei",
+      "zh": "金、银、铜、铁、锡、铅，",
+      "ja": "金銀銅鐵錫鉛など"
+    },
+    {
+      "number": 23,
+      "ko": "불에 견딜 만한 모든 물건은 불을 지나게 하라 그리하면 깨끗하려니와 다만 정결하게 하는 물로 그것을 깨끗하게 할 것이며 불에 견디지 못할 모든 것은 물을 지나게 할 것이니라",
+      "en": "and anything else that can withstand fire must be put through the fire, and then it will be clean. But it must also be purified with the water of cleansing. And whatever cannot withstand fire must be put through that water.",
+      "de": "und alles was das Feuer leidet, sollt ihr durchs Feuer lassen gehen und reinigen; nur daß es mit dem Sprengwasser entsündigt werde. Aber alles, was das Feuer nicht leidet, sollt ihr durchs Wasser gehen lassen.",
+      "zh": "凡能见火的，你们要叫它经火就为洁净，然而还要用除污秽的水洁净它；凡不能见火的，你们要叫它过水。",
+      "ja": "凡て火に勝る物は火の中を通すべし然せば潔くならん然ながら尚また潔淨の水をもてこれを潔むべしまた凡て火に勝ざる者は水の中を通すべし"
+    },
+    {
+      "number": 24,
+      "ko": "너희는 일곱째 날에 옷을 빨아서 깨끗하게 한 후에 진영에 들어올지니라",
+      "en": "On the seventh day wash your clothes and you will be clean. Then you may come into the camp.\"",
+      "de": "Und sollt eure Kleider waschen am siebenten Tage, so werdet ihr rein; darnach sollt ihr ins Lager kommen.",
+      "zh": "第七日，你们要洗衣服，就为洁净，然后可以进营。」",
+      "ja": "汝等は第七日にその衣服を洗ひて潔くなり然る後營にいるべし"
+    },
+    {
+      "number": 25,
+      "ko": "여호와께서 모세에게 말씀하여 이르시되",
+      "en": "The LORD said to Moses,",
+      "de": "Und der HERR redete mit Mose und sprach:",
+      "zh": "耶和华晓谕摩西说：",
+      "ja": "その時ヱホバ、モーセに告て言たまはく"
+    },
+    {
+      "number": 26,
+      "ko": "너는 제사장 엘르아살과 회중의 수령들과 더불어 이 사로잡은 사람들과 짐승들을 계수하고",
+      "en": "\"You and Eleazar the priest and the family heads of the community are to count all the people and animals that were captured.",
+      "de": "Nimm die Summe des Raubes der Gefangenen, an Menschen und an Vieh, du und Eleasar, der Priester, und die obersten Väter der Gemeinde;",
+      "zh": "「你和祭司以利亚撒，并会众的各族长，要计算所掳来的人口和牲畜的总数。",
+      "ja": "汝と祭司エレアザルおよび會衆の族長等この取獲たる人と畜の總數をしらべ"
+    },
+    {
+      "number": 27,
+      "ko": "그 얻은 물건을 반분하여 그 절반은 전쟁에 나갔던 군인들에게 주고 절반은 회중에게 주고",
+      "en": "Divide the spoils between the soldiers who took part in the battle and the rest of the community.",
+      "de": "und gib die Hälfte denen, die ins Heer gezogen sind und die Schlacht getan haben, und die andere Hälfte der Gemeinde.",
+      "zh": "把所掳来的分作两半：一半归与出去打仗的精兵，一半归与全会众。",
+      "ja": "その獲物を二分に分てその一を戰爭にいでて戰ひし者に予へその一を全會衆に予へよ"
+    },
+    {
+      "number": 28,
+      "ko": "전쟁에 나갔던 군인들은 사람이나 소나 나귀나 양 떼의 오백분의 일을 여호와께 드릴지니라",
+      "en": "From the soldiers who fought in the battle, set apart as tribute for the LORD one out of every five hundred, whether persons, cattle, donkeys, sheep or goats.",
+      "de": "Du sollst aber dem HERRN heben von den Kriegsleuten, die ins Heer gezogen sind, je fünf Hunderten eine Seele, an Menschen, Rindern, Eseln und Schafen.",
+      "zh": "又要从出去打仗所得的人口、牛、驴、羊群中，每五百取一，作为贡物奉给耶和华。",
+      "ja": "而して戰ひに出し軍人をして人または牛または驢馬または羊おのおの五百ごとに一をとりてヱホバに貢として奉つらしめよ"
+    },
+    {
+      "number": 29,
+      "ko": "곧 이를 그들의 절반에서 가져다가 여호와의 거제로 제사장 엘르아살에게 주고",
+      "en": "Take this tribute from their half share and give it to Eleazar the priest as the LORD'S part.",
+      "de": "Von ihrer Hälfte sollst du es nehmen und dem Priester Eleasar geben zur Hebe dem HERRN.",
+      "zh": "从他们一半之中，要取出来交给祭司以利亚撒，作为耶和华的举祭。",
+      "ja": "即ち彼らの一半より之をとりヱホバの擧祭として祭司エレアザルに與へよ"
+    },
+    {
+      "number": 30,
+      "ko": "또 이스라엘 자손이 받은 절반에서는 사람이나 소나 나귀나 양 떼나 각종 짐승 오십분의 일을 가져다가 여호와의 성막을 맡은 레위인에게 주라",
+      "en": "From the Israelites' half, select one out of every fifty, whether persons, cattle, donkeys, sheep, goats or other animals. Give them to the Levites, who are responsible for the care of the LORD'S tabernacle.\"",
+      "de": "Aber von der Hälfte der Kinder Israel sollst du je ein Stück von fünfzigen nehmen, an Menschen, Rindern, Eseln und Schafen und von allem Vieh, und sollst es den Leviten geben, die des Dienstes warten an der Wohnung des HERRN.",
+      "zh": "从以色列人的一半之中，就是从人口、牛、驴、羊群、各样牲畜中，每五十取一，交给看守耶和华帐幕的利未人。」",
+      "ja": "またイスラエルの子孫の一半よりはその獲たる人または牛または驢馬または羊または種々の獣畜五十ごとに一を取りヱホバの幕屋の職守を守るところのレビ人にこれを與へよと"
+    },
+    {
+      "number": 31,
+      "ko": "모세와 제사장 엘르아살이 여호와께서 모세에게 명령하신 대로 하니라",
+      "en": "So Moses and Eleazar the priest did as the LORD commanded Moses.",
+      "de": "Und Mose und Eleasar, der Priester, taten, wie der HERR dem Mose geboten hatte.",
+      "zh": "于是摩西和祭司以利亚撒照耶和华所吩咐摩西的行了。",
+      "ja": "モーセと祭司エレアザルすなはちヱホバのモーセに命じたまへるごとく爲り"
+    },
+    {
+      "number": 32,
+      "ko": "그 탈취물 곧 군인들의 다른 탈취물 외에 양이 육십칠만 오천 마리요",
+      "en": "The plunder remaining from the spoils that the soldiers took was 675,000 sheep,",
+      "de": "Und es war die übrige Ausbeute, die das Kriegsvolk geraubt hatte, sechsmal hundert und fünfundsiebzigtausend Schafe,",
+      "zh": "除了兵丁所夺的财物以外，所掳来的：羊六十七万五千只；",
+      "ja": "その掠取物すなはち軍人等が奪ひ獲たる物の殘餘は羊六十七萬五千"
+    },
+    {
+      "number": 33,
+      "ko": "소가 칠만 이천 마리요",
+      "en": "72,000 cattle,",
+      "de": "zweiundsiebzigtausend Rinder,",
+      "zh": "牛七万二千只；",
+      "ja": "牛七萬二千"
+    },
+    {
+      "number": 34,
+      "ko": "나귀가 육만 천 마리요",
+      "en": "61,000 donkeys",
+      "de": "einundsechzigtausend Esel",
+      "zh": "驴六万一千匹；",
+      "ja": "驢馬六萬一千"
+    },
+    {
+      "number": 35,
+      "ko": "사람은 남자와 동침하지 아니하여서 사내를 알지 못하는 여자가 도합 삼만 이천 명이니",
+      "en": "and 32,000 women who had never slept with a man.",
+      "de": "und der Mädchen, die nicht Männer erkannt hatten, zweiunddreißigtausend Seelen.",
+      "zh": "女人共三万二千口，都是没有出嫁的。",
+      "ja": "人三萬二千是みな未だ男と寝て男しれる事あらざる女なり"
+    },
+    {
+      "number": 36,
+      "ko": "그 절반 곧 전쟁에 나갔던 자들의 소유가 양이 삼십삼만 칠천오백 마리라",
+      "en": "The half share of those who fought in the battle was: 337,500 sheep,",
+      "de": "Und die Hälfte, die denen, so ins Heer gezogen waren, gehörte, war an der Zahl dreihundertmal und siebenunddreißigtausend und fünfhundert Schafe;",
+      "zh": "出去打仗之人的分，就是他们所得的那一半，共计羊三十三万七千五百只，",
+      "ja": "その一半すなはち戰爭にいでし者の分は羊三十三萬七千五百"
+    },
+    {
+      "number": 37,
+      "ko": "여호와께 공물로 드린 양이 육백칠십오요",
+      "en": "of which the tribute for the LORD was 675;",
+      "de": "davon wurden dem HERRN sechshundertfünfundsiebzig Schafe.",
+      "zh": "从其中归耶和华为贡物的，有六百七十五只；",
+      "ja": "ヱホバに貢として奉つれる羊は六百七十五"
+    },
+    {
+      "number": 38,
+      "ko": "소가 삼만 육천 마리라 그 중에서 여호와께 공물로 드린 것이 칠십이 마리요",
+      "en": "36,000 cattle, of which the tribute for the LORD was 72;",
+      "de": "Desgleichen sechsunddreißigtausend Rinder; davon wurden dem HERRN zweiundsiebzig.",
+      "zh": "牛三万六千只，从其中归耶和华为贡物的，有七十二只；",
+      "ja": "牛三萬六千その中よりヱホバに貢とせし者は七十二"
+    },
+    {
+      "number": 39,
+      "ko": "나귀가 삼만 오백 마리라 그 중에서 여호와께 공물로 드린 것이 육십일 마리요",
+      "en": "30,500 donkeys, of which the tribute for the LORD was 61;",
+      "de": "Desgleichen dreißigtausend und fünfhundert Esel; davon wurden dem HERRN einundsechzig.",
+      "zh": "驴三万零五百匹，从其中归耶和华为贡物的，有六十一匹；",
+      "ja": "驢馬三萬五百その中よりヱホバに貢とせし者は六十一"
+    },
+    {
+      "number": 40,
+      "ko": "사람이 만 육천 명이라 그 중에서 여호와께 공물로 드린 자가 삼십이 명이니",
+      "en": "16,000 people, of which the tribute for the LORD was 32.",
+      "de": "Desgleichen Menschenseelen, sechzehntausend Seelen; davon wurden dem HERRN zweiunddreißig Seelen.",
+      "zh": "人一万六千口，从其中归耶和华的，有三十二口。",
+      "ja": "人一萬六千その中よりヱホバに貢とせし者は三十二人"
+    },
+    {
+      "number": 41,
+      "ko": "여호와께 거제의 공물로 드린 것을 모세가 제사장 엘르아살에게 주었으니 여호와께서 모세에게 명령하심과 같았더라",
+      "en": "Moses gave the tribute to Eleazar the priest as the LORD'S part, as the LORD commanded Moses.",
+      "de": "Und Mose gab solche Hebe des HERRN dem Priester Eleasar, wie ihm der HERR geboten hatte.",
+      "zh": "摩西把贡物，就是归与耶和华的举祭，交给祭司以利亚撒，是照耶和华所吩咐摩西的。",
+      "ja": "モーセその貢すなはちヱホバの擧祭なる者を祭司エレアザルに與へたりヱホバのモーセに命じたまへる如し"
+    },
+    {
+      "number": 42,
+      "ko": "모세가 전쟁에 나갔던 자에게서 나누어 이스라엘 자손에게 준 절반",
+      "en": "The half belonging to the Israelites, which Moses set apart from that of the fighting men--",
+      "de": "Aber die andere Hälfte, die Mose den Kindern Israel zuteilte von den Kriegsleuten,",
+      "zh": "以色列人所得的那一半，就是摩西从打仗的人取来分给他们的。（",
+      "ja": "モーセが戰爭に出しものより分ちとりてイスラエルの子孫に予へし一半"
+    },
+    {
+      "number": 43,
+      "ko": "곧 회중이 받은 절반은 양이 삼십삼만 칠천오백 마리요",
+      "en": "the community's half--was 337,500 sheep,",
+      "de": "nämlich die Hälfte, der Gemeinde zuständig, war auch dreihundertmal und siebenunddreißigtausend fünfhundert Schafe,",
+      "zh": "会众的那一半有：羊三十三万七千五百只；",
+      "ja": "すなはち會衆に屬する一半は羊三十三萬七千五百"
+    },
+    {
+      "number": 44,
+      "ko": "소가 삼만 육천 마리요",
+      "en": "36,000 cattle,",
+      "de": "sechsunddreißigtausend Rinder,",
+      "zh": "牛三万六千只；",
+      "ja": "牛三萬六千"
+    },
+    {
+      "number": 45,
+      "ko": "나귀가 삼만 오백 마리요",
+      "en": "30,500 donkeys",
+      "de": "dreißigtausend und fünfhundert Esel",
+      "zh": "驴三万零五百匹；",
+      "ja": "驢馬三萬五百"
+    },
+    {
+      "number": 46,
+      "ko": "사람이 만 육천 명이라",
+      "en": "and 16,000 people.",
+      "de": "und sechzehntausend Menschenseelen.",
+      "zh": "人一万六千口。）",
+      "ja": "人一萬六千"
+    },
+    {
+      "number": 47,
+      "ko": "이스라엘 자손의 그 절반에서 모세가 사람이나 짐승의 오십분의 일을 취하여 여호와의 장막을 맡은 레위인에게 주었으니 여호와께서 모세에게 명령하심과 같았더라",
+      "en": "From the Israelites' half, Moses selected one out of every fifty persons and animals, as the LORD commanded him, and gave them to the Levites, who were responsible for the care of the LORD'S tabernacle.",
+      "de": "Und Mose nahm von dieser Hälfte der Kinder Israel je ein Stück von fünfzigen, sowohl des Viehs als der Menschen, und gab's den Leviten, die des Dienstes warteten an der Wohnung des HERRN, wie der HERR dem Mose geboten hatte.",
+      "zh": "无论是人口是牲畜，摩西每五十取一，交给看守耶和华帐幕的利未人，是照耶和华所吩咐摩西的。",
+      "ja": "すなはちイスラエルの子孫のその一半よりモーセ人と畜ともに各箇五十ごとに一を取りヱホバの幕屋の職守をまもるレビ人に之を與へたりヱホバのモーセに命じたまへるごとし"
+    },
+    {
+      "number": 48,
+      "ko": "군대의 지휘관들 곧 천부장과 백부장들이 모세에게 나아와서",
+      "en": "Then the officers who were over the units of the army--the commanders of thousands and commanders of hundreds--went to Moses",
+      "de": "Und es traten herzu die Hauptleute über die Tausende des Kriegsvolks, nämlich die über tausend und über hundert waren, zu Mose",
+      "zh": "带领千军的各军长，就是千夫长、百夫长，都近前来见摩西，",
+      "ja": "時に其軍勢の帥士たりし者等すなはち千人の長百人の長等モーセにきたり"
+    },
+    {
+      "number": 49,
+      "ko": "모세에게 말하되 당신의 종들이 이끈 군인을 계수한즉 우리 중 한 사람도 축나지 아니하였기로",
+      "en": "and said to him, \"Your servants have counted the soldiers under our command, and not one is missing.",
+      "de": "und sprachen zu ihm: Deine Knechte haben die Summe genommen der Kriegsleute, die unter unsern Händen gewesen sind, und fehlt nicht einer.",
+      "zh": "对他说：「仆人权下的兵已经计算总数，并不短少一人。",
+      "ja": "モーセに言けるは僕等我らの手に屬する軍人を數へたるにわれらの中一人も缺たる者なし"
+    },
+    {
+      "number": 50,
+      "ko": "우리 각 사람이 받은 바 금 패물 곧 발목 고리, 손목 고리, 인장 반지, 귀 고리, 목걸이들을 여호와께 헌금으로 우리의 생명을 위하여 여호와 앞에 속죄하려고 가져왔나이다",
+      "en": "So we have brought as an offering to the LORD the gold articles each of us acquired--armlets, bracelets, signet rings, earrings and necklaces--to make atonement for ourselves before the LORD.\"",
+      "de": "Darum bringen wir dem HERRN Geschenke, was ein jeglicher gefunden hat von goldenem Geräte, Ketten, Armgeschmeide, Ringe, Ohrenringe und Spangen, daß unsere Seelen versöhnt werden vor dem HERRN.",
+      "zh": "如今我们将各人所得的金器，就是脚链子、镯子、打印的戒指、耳环、手钏，都送来为耶和华的供物，好在耶和华面前为我们的生命赎罪。」",
+      "ja": "是をもて我ら各人その獲たる金の飾品すなはち鏈子釧指鐶耳環頸玉等をヱホバに携へきたりて禮物となし之をもて我らの生命のためにヱホバの前に贖罪をなさんとすと"
+    },
+    {
+      "number": 51,
+      "ko": "모세와 제사장 엘르아살이 그들에게서 그 금으로 만든 모든 패물을 취한즉",
+      "en": "Moses and Eleazar the priest accepted from them the gold--all the crafted articles.",
+      "de": "Und Mose samt dem Priester Eleasar nahm von ihnen das Gold von allerlei Geräte.",
+      "zh": "摩西和祭司以利亚撒就收了他们的金子，都是打成的器皿。",
+      "ja": "モーセと祭司エレアザルすなはち彼らよりその金を受たり是みな製り成る飾品なりき"
+    },
+    {
+      "number": 52,
+      "ko": "천부장과 백부장들이 여호와께 드린 거제의 금의 도합이 만 육천칠백오십 세겔이니",
+      "en": "All the gold from the commanders of thousands and commanders of hundreds that Moses and Eleazar presented as a gift to the LORD weighed 16,750 shekels.",
+      "de": "Und alles Goldes Hebe, das sie dem HERRN hoben, war sechzehntausend und siebenhundertfünfzig Lot von den Hauptleuten über tausend und hundert.",
+      "zh": "千夫长、百夫长所献给耶和华为举祭的金子共有一万六千七百五十舍客勒。",
+      "ja": "千人の長と百人の長たちがヱホバに献げて擧祭となせしその金は都合一萬六千七百五十シケル"
+    },
+    {
+      "number": 53,
+      "ko": "군인들이 각기 자기를 위하여 탈취한 것이니라",
+      "en": "Each soldier had taken plunder for himself.",
+      "de": "Denn die Kriegsleute hatten geraubt ein jeglicher für sich.",
+      "zh": "各兵丁都为自己夺了财物。",
+      "ja": "軍人は各箇その掠取物をもて自分の有となせり"
+    },
+    {
+      "number": 54,
+      "ko": "모세와 제사장 엘르아살이 천부장과 백부장들에게서 금을 취하여 회막에 드려 여호와 앞에서 이스라엘 자손의 기념을 삼았더라",
+      "en": "Moses and Eleazar the priest accepted the gold from the commanders of thousands and commanders of hundreds and brought it into the Tent of Meeting as a memorial for the Israelites before the LORD.",
+      "de": "Und Mose mit Eleasar, dem Priester, nahm das Gold von den Hauptleuten über tausend und hundert, und brachten es in die Hütte des Stifts zum Gedächtnis der Kinder Israel vor dem HERRN.",
+      "zh": "摩西和祭司以利亚撒收了千夫长、百夫长的金子，就带进会幕，在耶和华面前作为以色列人的纪念。",
+      "ja": "モーセと祭司エレアザルは千人の長と百人の長等よりその金を受て集會の幕屋に携へいりヱホバの前におきてイスラエルの子孫の記念とならしむ"
+    }
+  ]
+}

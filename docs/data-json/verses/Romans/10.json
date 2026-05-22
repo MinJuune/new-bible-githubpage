@@ -1,0 +1,174 @@
+{
+  "book": "Romans",
+  "chapter": 10,
+  "verses": [
+    {
+      "number": 1,
+      "ko": "형제들아 내 마음에 원하는 바와 하나님께 구하는 바는 이스라엘을 위함이니 곧 그들로 구원을 받게 함이라",
+      "en": "Brothers, my heart's desire and prayer to God for the Israelites is that they may be saved.",
+      "de": "Liebe Brüder, meines Herzens Wunsch ist, und ich flehe auch zu Gott für Israel, daß sie selig werden.",
+      "zh": "弟兄们，我心里所愿的，向　神所求的，是要以色列人得救。",
+      "ja": "兄弟たち。私が心の望みとし、また彼らのために神に願い求めているのは、彼らの救われることです。"
+    },
+    {
+      "number": 2,
+      "ko": "내가 증언하노니 그들이 하나님께 열심이 있으나 올바른 지식을 따른 것이 아니니라",
+      "en": "For I can testify about them that they are zealous for God, but their zeal is not based on knowledge.",
+      "de": "Denn ich gebe ihnen das Zeugnis, daß sie eifern um Gott, aber mit Unverstand.",
+      "zh": "我可以证明，他们向　神有热心，但不是按着真知识；",
+      "ja": "私は、彼らが神に対して熱心であることをあかしします。しかし、その熱心は知識に基づくものではありません。"
+    },
+    {
+      "number": 3,
+      "ko": "하나님의 의를 모르고 자기 의를 세우려고 힘써 하나님의 의에 복종하지 아니하였느니라",
+      "en": "Since they did not know the righteousness that comes from God and sought to establish their own, they did not submit to God's righteousness.",
+      "de": "Denn sie erkennen die Gerechtigkeit nicht, die vor Gott gilt, und trachten, ihre eigene Gerechtigkeit aufzurichten, und sind also der Gerechtigkeit, die vor Gott gilt, nicht untertan.",
+      "zh": "因为不知道　神的义，想要立自己的义，就不服　神的义了。",
+      "ja": "というのは、彼らは神の義を知らず、自分自身の義を立てようとして、神の義に従わなかったからです。"
+    },
+    {
+      "number": 4,
+      "ko": "그리스도는 모든 믿는 자에게 의를 이루기 위하여 율법의 마침이 되시니라",
+      "en": "Christ is the end of the law so that there may be righteousness for everyone who believes.",
+      "de": "Denn Christus ist des Gesetzes Ende; wer an den glaubt, der ist gerecht.",
+      "zh": "律法的总结就是基督，使凡信他的都得着义。",
+      "ja": "キリストが律法を終わらせられたので、信じる人はみな義と認められるのです。"
+    },
+    {
+      "number": 5,
+      "ko": "모세가 기록하되 율법으로 말미암는 의를 행하는 사람은 그 의로 살리라 하였거니와",
+      "en": "Moses describes in this way the righteousness that is by the law: \"The man who does these things will live by them.\"",
+      "de": "Mose schreibt wohl von der Gerechtigkeit, die aus dem Gesetz kommt: “Welcher Mensch dies tut, der wird dadurch leben.”",
+      "zh": "摩西写着说：「人若行那出于律法的义，就必因此活着。」",
+      "ja": "モーセは、律法による義を行なう人は、その義によって生きる、と書いています。"
+    },
+    {
+      "number": 6,
+      "ko": "믿음으로 말미암는 의는 이같이 말하되 네 마음에 누가 하늘에 올라가겠느냐 하지 말라 하니 올라가겠느냐 함은 그리스도를 모셔 내리려는 것이요",
+      "en": "But the righteousness that is by faith says: \"Do not say in your heart, 'Who will ascend into heaven?'\" (that is, to bring Christ down)",
+      "de": "Aber die Gerechtigkeit aus dem Glauben spricht also: “Sprich nicht in deinem Herzen: Wer will hinauf gen Himmel fahren?” (Das ist nichts anderes denn Christum herabholen.)",
+      "zh": "惟有出于信心的义如此说：「你不要心里说：谁要升到天上去呢？（就是要领下基督来；）",
+      "ja": "しかし、信仰による義はこう言います。「あなたは心の中で、だれが天に上るだろうか、と言ってはいけない。」それはキリストを引き降ろすことです。"
+    },
+    {
+      "number": 7,
+      "ko": "혹은 누가 무저갱에 내려가겠느냐 하지 말라 하니 내려가겠느냐 함은 그리스도를 죽은 자 가운데서 모셔 올리려는 것이라",
+      "en": "\"or 'Who will descend into the deep?'\" (that is, to bring Christ up from the dead).",
+      "de": "Oder: “Wer will hinab in die Tiefe fahren?” (Das ist nichts anderes denn Christum von den Toten holen.)",
+      "zh": "谁要下到阴间去呢？（就是要领基督从死里上来。）」",
+      "ja": "また、「だれが地の奥底に下るだろうか、と言ってはいけない。」それはキリストを死者の中から引き上げることです。"
+    },
+    {
+      "number": 8,
+      "ko": "그러면 무엇을 말하느냐 말씀이 네게 가까워 네 입에 있으며 네 마음에 있다 하였으니 곧 우리가 전파하는 믿음의 말씀이라",
+      "en": "But what does it say? \"The word is near you; it is in your mouth and in your heart,\" that is, the word of faith we are proclaiming:",
+      "de": "Aber was sagt sie? “Das Wort ist dir nahe, in deinem Munde und in deinem Herzen.” Dies ist das Wort vom Glauben, das wir predigen.",
+      "zh": "他到底怎么说呢？他说： 这道离你不远， 正在你口里，在你心里— （就是我们所传信主的道。）",
+      "ja": "では、どう言っていますか。「みことばはあなたの近くにある。あなたの口にあり、あなたの心にある。」これは私たちの宣べ伝えている信仰のことばのことです。"
+    },
+    {
+      "number": 9,
+      "ko": "네가 만일 네 입으로 예수를 주로 시인하며 또 하나님께서 그를 죽은 자 가운데서 살리신 것을 네 마음에 믿으면 구원을 받으리라",
+      "en": "That if you confess with your mouth, \"Jesus is Lord,\" and believe in your heart that God raised him from the dead, you will be saved.",
+      "de": "Denn so du mit deinem Munde bekennst Jesum, daß er der HERR sei, und glaubst in deinem Herzen, daß ihn Gott von den Toten auferweckt hat, so wirst du selig.",
+      "zh": "你若口里认耶稣为主，心里信　神叫他从死里复活，就必得救。",
+      "ja": "なぜなら、もしあなたの口でイエスを主と告白し、あなたの心で神はイエスを死者の中からよみがえらせてくださったと信じるなら、あなたは救われるからです。"
+    },
+    {
+      "number": 10,
+      "ko": "사람이 마음으로 믿어 의에 이르고 입으로 시인하여 구원에 이르느니라",
+      "en": "For it is with your heart that you believe and are justified, and it is with your mouth that you confess and are saved.",
+      "de": "Denn so man von Herzen glaubt, so wird man gerecht; und so man mit dem Munde bekennt, so wird man selig.",
+      "zh": "因为，人心里相信就可以称义，口里承认就可以得救。",
+      "ja": "人は心に信じて義と認められ、口で告白して救われるのです。"
+    },
+    {
+      "number": 11,
+      "ko": "성경에 이르되 누구든지 그를 믿는 자는 부끄러움을 당하지 아니하리라 하니",
+      "en": "As the Scripture says, \"Anyone who trusts in him will never be put to shame.\"",
+      "de": "Denn die Schrift spricht: “Wer an ihn glaubt, wird nicht zu Schanden werden.”",
+      "zh": "经上说：「凡信他的人必不至于羞愧。」",
+      "ja": "聖書はこう言っています。「彼に信頼する者は、失望させられることがない。」"
+    },
+    {
+      "number": 12,
+      "ko": "유대인이나 헬라인이나 차별이 없음이라 한 분이신 주께서 모든 사람의 주가 되사 그를 부르는 모든 사람에게 부요하시도다",
+      "en": "For there is no difference between Jew and Gentile--the same Lord is Lord of all and richly blesses all who call on him,",
+      "de": "Es ist hier kein Unterschied unter Juden und Griechen; es ist aller zumal ein HERR, reich über alle, die ihn anrufen.",
+      "zh": "犹太人和希腊人并没有分别，因为众人同有一位主；他也厚待一切求告他的人。",
+      "ja": "ユダヤ人とギリシヤ人との区別はありません。同じ主が、すべての人の主であり、主を呼び求めるすべての人に対して恵み深くあられるからです。"
+    },
+    {
+      "number": 13,
+      "ko": "누구든지 주의 이름을 부르는 자는 구원을 받으리라",
+      "en": "for, \"Everyone who calls on the name of the Lord will be saved.\"",
+      "de": "Denn “wer den Namen des HERRN wird anrufen, soll selig werden.”",
+      "zh": "因为「凡求告主名的就必得救」。",
+      "ja": "「主の御名を呼び求める者は、だれでも救われる。」のです。"
+    },
+    {
+      "number": 14,
+      "ko": "그런즉 그들이 믿지 아니하는 이를 어찌 부르리요 듣지도 못한 이를 어찌 믿으리요 전파하는 자가 없이 어찌 들으리요",
+      "en": "How, then, can they call on the one they have not believed in? And how can they believe in the one of whom they have not heard? And how can they hear without someone preaching to them?",
+      "de": "Wie sollen sie aber den anrufen, an den sie nicht glauben? Wie sollen sie aber an den glauben, von dem sie nichts gehört haben? wie sollen sie aber hören ohne Prediger?",
+      "zh": "然而，人未曾信他，怎能求他呢？未曾听见他，怎能信他呢？没有传道的，怎能听见呢？",
+      "ja": "しかし、信じたことのない方を、どうして呼び求めることができるでしょう。聞いたことのない方を、どうして信じることができるでしょう。宣べ伝える人がなくて、どうして聞くことができるでしょう。"
+    },
+    {
+      "number": 15,
+      "ko": "보내심을 받지 아니하였으면 어찌 전파하리요 기록된 바 아름답도다 좋은 소식을 전하는 자들의 발이여 함과 같으니라",
+      "en": "And how can they preach unless they are sent? As it is written, \"How beautiful are the feet of those who bring good news!\"",
+      "de": "Wie sollen sie aber predigen, wo sie nicht gesandt werden? Wie denn geschrieben steht: “Wie lieblich sich die Füße derer, die den Frieden verkündigen, die das Gute verkündigen!”",
+      "zh": "若没有奉差遣，怎能传道呢？如经上所记：「报福音、传喜信的人，他们的脚踪何等佳美！」",
+      "ja": "遣わされなくては、どうして宣べ伝えることができるでしょう。次のように書かれているとおりです。「良いことの知らせを伝える人々の足は、なんとりっぱでしょう。」"
+    },
+    {
+      "number": 16,
+      "ko": "그러나 그들이 다 복음을 순종하지 아니하였도다 이사야가 이르되 주여 우리가 전한 것을 누가 믿었나이까 하였으니",
+      "en": "But not all the Israelites accepted the good news. For Isaiah says, \"Lord, who has believed our message?\"",
+      "de": "Aber sie sind nicht alle dem Evangelium gehorsam. Denn Jesaja sagt: “HERR, wer glaubt unserm Predigen?”",
+      "zh": "只是人没有都听从福音，因为以赛亚说：「主啊，我们所传的有谁信呢？」",
+      "ja": "しかし、すべての人が福音に従ったのではありません。「主よ。だれが私たちの知らせを信じましたか。」とイザヤは言っています。"
+    },
+    {
+      "number": 17,
+      "ko": "그러므로 믿음은 들음에서 나며 들음은 그리스도의 말씀으로 말미암았느니라",
+      "en": "Consequently, faith comes from hearing the message, and the message is heard through the word of Christ.",
+      "de": "So kommt der Glaube aus der Predigt, das Predigen aber aus dem Wort Gottes.",
+      "zh": "可见，信道是从听道来的，听道是从基督的话来的。",
+      "ja": "そのように、信仰は聞くことから始まり、聞くことは、キリストについてのみことばによるのです。"
+    },
+    {
+      "number": 18,
+      "ko": "그러나 내가 말하노니 그들이 듣지 아니하였느냐 그렇지 아니하니 그 소리가 온 땅에 퍼졌고 그 말씀이 땅 끝까지 이르렀도다 하였느니라",
+      "en": "But I ask: Did they not hear? Of course they did: \"Their voice has gone out into all the earth, their words to the ends of the world.\"",
+      "de": "Ich sage aber: Haben sie es nicht gehört? Wohl, es ist ja in alle Lande ausgegangen ihr Schall und in alle Welt ihre Worte.",
+      "zh": "但我说，人没有听见吗？诚然听见了。 他们的声音传遍天下； 他们的言语传到地极。",
+      "ja": "でも、こう尋ねましょう。「はたして彼らは聞こえなかったのでしょうか。」むろん、そうではありません。 「その声は全地に響き渡り、 そのことばは地の果てまで届いた。」"
+    },
+    {
+      "number": 19,
+      "ko": "그러나 내가 말하노니 이스라엘이 알지 못하였느냐 먼저 모세가 이르되 내가 백성 아닌 자로써 너희를 시기하게 하며 미련한 백성으로써 너희를 노엽게 하리라 하였고",
+      "en": "Again I ask: Did Israel not understand? First, Moses says, \"I will make you envious by those who are not a nation; I will make you angry by a nation that has no understanding.\"",
+      "de": "Ich sage aber: Hat es Israel nicht erkannt? Aufs erste spricht Mose: “Ich will euch eifern machen über dem, das nicht ein Volk ist; und über ein unverständiges Volk will ich euch erzürnen.”",
+      "zh": "我再说，以色列人不知道吗？先有摩西说： 我要用那不成子民的惹动你们的愤恨； 我要用那无知的民触动你们的怒气。",
+      "ja": "でも、私はこう言いましょう。「はたしてイスラエルは知らなかったのでしょうか。」まず、モーセがこう言っています。 「わたしは、民でない者のことで、 あなたがたのねたみを起こさせ、 無知な国民のことで、あなたがたを怒らせる。」"
+    },
+    {
+      "number": 20,
+      "ko": "이사야는 매우 담대하여 내가 나를 찾지 아니한 자들에게 찾은 바 되고 내게 묻지 아니한 자들에게 나타났노라 말하였고",
+      "en": "And Isaiah boldly says, \"I was found by those who did not seek me; I revealed myself to those who did not ask for me.\"",
+      "de": "Jesaja aber darf wohl so sagen: “Ich bin gefunden von denen, die mich nicht gesucht haben, und bin erschienen denen, die nicht nach mir gefragt haben.”",
+      "zh": "又有以赛亚放胆说： 没有寻找我的，我叫他们遇见； 没有访问我的，我向他们显现。",
+      "ja": "またイザヤは大胆にこう言っています。 「わたしは、わたしを求めない者に見いだされ、 わたしをたずねない者に自分を現わした。」"
+    },
+    {
+      "number": 21,
+      "ko": "이스라엘에 대하여 이르되 순종하지 아니하고 거슬러 말하는 백성에게 내가 종일 내 손을 벌렸노라 하였느니라",
+      "en": "But concerning Israel he says, \"All day long I have held out my hands to a disobedient and obstinate people.\" ROM",
+      "de": "Zu Israel aber spricht er: “Den ganzen Tag habe ich meine Hände ausgestreckt zu dem Volk, das sich nicht sagen läßt und widerspricht.”",
+      "zh": "至于以色列人，他说：「我整天伸手招呼那悖逆顶嘴的百姓。」",
+      "ja": "またイスラエルについては、こう言っています。 「不従順で反抗する民に対して、 わたしは一日中、手を差し伸べた。」"
+    }
+  ]
+}

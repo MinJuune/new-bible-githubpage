@@ -1,0 +1,254 @@
+{
+  "book": "Genesis",
+  "chapter": 1,
+  "verses": [
+    {
+      "number": 1,
+      "ko": "태초에 하나님이 천지를 창조하시니라",
+      "en": "In the beginning God created the heavens and the earth.",
+      "de": "Am Anfang schuf Gott Himmel und Erde.",
+      "zh": "起初，　神创造天地。",
+      "ja": "元始に神天地を創造たまへり"
+    },
+    {
+      "number": 2,
+      "ko": "땅이 혼돈하고 공허하며 흑암이 깊음 위에 있고 하나님의 영은 수면 위에 운행하시니라",
+      "en": "Now the earth was formless and empty, darkness was over the surface of the deep, and the Spirit of God was hovering over the waters.",
+      "de": "Und die Erde war wüst und leer, und es war finster auf der Tiefe; und der Geist Gottes schwebte auf dem Wasser.",
+      "zh": "地是空虚混沌，渊面黑暗；　神的灵运行在水面上。",
+      "ja": "地は定形なく曠空くして黑暗淵の面にあり神の靈水の面を覆たりき"
+    },
+    {
+      "number": 3,
+      "ko": "하나님이 이르시되 빛이 있으라 하시니 빛이 있었고",
+      "en": "And God said, \"Let there be light,\" and there was light.",
+      "de": "Und Gott sprach: Es werde Licht! und es ward Licht.",
+      "zh": "神说：「要有光」，就有了光。",
+      "ja": "神光あれと言たまひければ光ありき"
+    },
+    {
+      "number": 4,
+      "ko": "빛이 하나님이 보시기에 좋았더라 하나님이 빛과 어둠을 나누사",
+      "en": "God saw that the light was good, and he separated the light from the darkness.",
+      "de": "Und Gott sah, daß das Licht gut war. Da schied Gott das Licht von der Finsternis",
+      "zh": "神看光是好的，就把光暗分开了。",
+      "ja": "神光を善と觀たまへり神光と暗を分ちたまへり"
+    },
+    {
+      "number": 5,
+      "ko": "하나님이 빛을 낮이라 부르시고 어둠을 밤이라 부르시니라 저녁이 되고 아침이 되니 이는 첫째 날이니라",
+      "en": "God called the light \"day,\" and the darkness he called \"night.\" And there was evening, and there was morning--the first day.",
+      "de": "und nannte das Licht Tag und die Finsternis Nacht. Da ward aus Abend und Morgen der erste Tag.",
+      "zh": "神称光为「昼」，称暗为「夜」。有晚上，有早晨，这是头一日。",
+      "ja": "神光を晝と名け暗を夜と名けたまへり夕あり朝ありき是首の日なり"
+    },
+    {
+      "number": 6,
+      "ko": "하나님이 이르시되 물 가운데에 궁창이 있어 물과 물로 나뉘라 하시고",
+      "en": "And God said, \"Let there be an expanse between the waters to separate water from water.\"",
+      "de": "Und Gott sprach: Es werde eine Feste zwischen den Wassern, und die sei ein Unterschied zwischen den Wassern.",
+      "zh": "神说：「诸水之间要有空气，将水分为上下。」",
+      "ja": "神言たまひけるは水の中に穹蒼ありて水と水とを分つべし"
+    },
+    {
+      "number": 7,
+      "ko": "하나님이 궁창을 만드사 궁창 아래의 물과 궁창 위의 물로 나뉘게 하시니 그대로 되니라",
+      "en": "So God made the expanse and separated the water under the expanse from the water above it. And it was so.",
+      "de": "Da machte Gott die Feste und schied das Wasser unter der Feste von dem Wasser über der Feste. Und es geschah also.",
+      "zh": "神就造出空气，将空气以下的水、空气以上的水分开了。事就这样成了。",
+      "ja": "神穹蒼を作りて穹蒼の下の水と穹蒼の上の水とを判ちたまへり即ち斯なりぬ"
+    },
+    {
+      "number": 8,
+      "ko": "하나님이 궁창을 하늘이라 부르시니라 저녁이 되고 아침이 되니 이는 둘째 날이니라",
+      "en": "God called the expanse \"sky.\" And there was evening, and there was morning--the second day.",
+      "de": "Und Gott nannte die Feste Himmel. Da ward aus Abend und Morgen der andere Tag.",
+      "zh": "神称空气为「天」。有晚上，有早晨，是第二日。",
+      "ja": "神穹蒼を天と名けたまへり夕あり朝ありき是二日なり"
+    },
+    {
+      "number": 9,
+      "ko": "하나님이 이르시되 천하의 물이 한 곳으로 모이고 뭍이 드러나라 하시니 그대로 되니라",
+      "en": "And God said, \"Let the water under the sky be gathered to one place, and let dry ground appear.\" And it was so.",
+      "de": "Und Gott sprach: Es sammle sich das Wasser unter dem Himmel an besondere Örter, daß man das Trockene sehe. Und es geschah also.",
+      "zh": "神说：「天下的水要聚在一处，使旱地露出来。」事就这样成了。",
+      "ja": "神言たまひけるは天の下の水は一處に集りて乾ける土顯べしと即ち斯なりぬ"
+    },
+    {
+      "number": 10,
+      "ko": "하나님이 뭍을 땅이라 부르시고 모인 물을 바다라 부르시니 하나님이 보시기에 좋았더라",
+      "en": "God called the dry ground \"land,\" and the gathered waters he called \"seas.\" And God saw that it was good.",
+      "de": "Und Gott nannte das Trockene Erde, und die Sammlung der Wasser nannte er Meer. Und Gott sah, daß es gut war.",
+      "zh": "神称旱地为「地」，称水的聚处为「海」。　神看着是好的。",
+      "ja": "神乾ける土を地と名け水の集合るを海と名けたまへり神之を善と觀たまへり"
+    },
+    {
+      "number": 11,
+      "ko": "하나님이 이르시되 땅은 풀과 씨 맺는 채소와 각기 종류대로 씨 가진 열매 맺는 나무를 내라 하시니 그대로 되어",
+      "en": "Then God said, \"Let the land produce vegetation: seed-bearing plants and trees on the land that bear fruit with seed in it, according to their various kinds.\" And it was so.",
+      "de": "Und Gott sprach: Es lasse die Erde aufgehen Gras und Kraut, das sich besame, und fruchtbare Bäume, da ein jeglicher nach seiner Art Frucht trage und habe seinen eigenen Samen bei sich selbst auf Erden. Und es geschah also.",
+      "zh": "神说：「地要发生青草和结种子的菜蔬，并结果子的树木，各从其类，果子都包着核。」事就这样成了。",
+      "ja": "神言たまひけるは地は靑草と實蓏を生ずる草蔬と其類に從ひ果を結びみづから核をもつ所の果を結ぶ樹を地に發出すべしと即ち斯なりぬ"
+    },
+    {
+      "number": 12,
+      "ko": "땅이 풀과 각기 종류대로 씨 맺는 채소와 각기 종류대로 씨 가진 열매 맺는 나무를 내니 하나님이 보시기에 좋았더라",
+      "en": "The land produced vegetation: plants bearing seed according to their kinds and trees bearing fruit with seed in it according to their kinds. And God saw that it was good.",
+      "de": "Und die Erde ließ aufgehen Gras und Kraut, das sich besamte, ein jegliches nach seiner Art, und Bäume, die da Frucht trugen und ihren eigenen Samen bei sich selbst hatten, ein jeglicher nach seiner Art. Und Gott sah, daß es gut war.",
+      "zh": "于是地发生了青草和结种子的菜蔬，各从其类；并结果子的树木，各从其类；果子都包着核。　神看着是好的。",
+      "ja": "地靑草と其類に從ひ實蓏を生ずる草蔬と其類に從ひ果を結てみづから核をもつ所の樹を發出せり神これを善と觀たまへり"
+    },
+    {
+      "number": 13,
+      "ko": "저녁이 되고 아침이 되니 이는 셋째 날이니라",
+      "en": "And there was evening, and there was morning--the third day.",
+      "de": "Da ward aus Abend und Morgen der dritte Tag.",
+      "zh": "有晚上，有早晨，是第三日。",
+      "ja": "夕あり朝ありき是三日なり"
+    },
+    {
+      "number": 14,
+      "ko": "하나님이 이르시되 하늘의 궁창에 광명체들이 있어 낮과 밤을 나뉘게 하고 그것들로 징조와 계절과 날과 해를 이루게 하라",
+      "en": "And God said, \"Let there be lights in the expanse of the sky to separate the day from the night, and let them serve as signs to mark seasons and days and years,",
+      "de": "Und Gott sprach: Es werden Lichter an der Feste des Himmels, die da scheiden Tag und Nacht und geben Zeichen, Zeiten, Tage und Jahre",
+      "zh": "神说：「天上要有光体，可以分昼夜，作记号，定节令、日子、年岁，",
+      "ja": "神言たまひけるは天の穹蒼に光明ありて晝と夜とを分ち又天象のため時節のため日のため年のために成べし"
+    },
+    {
+      "number": 15,
+      "ko": "또 광명체들이 하늘의 궁창에 있어 땅을 비추라 하시니 그대로 되니라",
+      "en": "and let them be lights in the expanse of the sky to give light on the earth.\" And it was so.",
+      "de": "und seien Lichter an der Feste des Himmels, daß sie scheinen auf Erden. Und es geschah also.",
+      "zh": "并要发光在天空，普照在地上。」事就这样成了。",
+      "ja": "又天の穹蒼にありて地を照す光となるべしと即ち斯なりぬ"
+    },
+    {
+      "number": 16,
+      "ko": "하나님이 두 큰 광명체를 만드사 큰 광명체로 낮을 주관하게 하시고 작은 광명체로 밤을 주관하게 하시며 또 별들을 만드시고",
+      "en": "God made two great lights--the greater light to govern the day and the lesser light to govern the night. He also made the stars.",
+      "de": "Und Gott machte zwei große Lichter: ein großes Licht, das den Tag regiere, und ein kleines Licht, das die Nacht regiere, dazu auch Sterne.",
+      "zh": "于是　神造了两个大光，大的管昼，小的管夜，又造众星，",
+      "ja": "神二の巨なる光を造り大なる光に晝を司どらしめ小き光に夜を司どらしめたまふまた星を造りたまへり"
+    },
+    {
+      "number": 17,
+      "ko": "하나님이 그것들을 하늘의 궁창에 두어 땅을 비추게 하시며",
+      "en": "God set them in the expanse of the sky to give light on the earth,",
+      "de": "Und Gott setzte sie an die Feste des Himmels, daß sie schienen auf die Erde",
+      "zh": "就把这些光摆列在天空，普照在地上，",
+      "ja": "神これを天の穹蒼に置て地を照さしめ"
+    },
+    {
+      "number": 18,
+      "ko": "낮과 밤을 주관하게 하시고 빛과 어둠을 나뉘게 하시니 하나님이 보시기에 좋았더라",
+      "en": "to govern the day and the night, and to separate light from darkness. And God saw that it was good.",
+      "de": "und den Tag und die Nacht regierten und schieden Licht und Finsternis. Und Gott sah, daß es gut war.",
+      "zh": "管理昼夜，分别明暗。　神看着是好的。",
+      "ja": "晝と夜を司どらしめ光と暗を分たしめたまふ神これを善と觀たまへり"
+    },
+    {
+      "number": 19,
+      "ko": "저녁이 되고 아침이 되니 이는 넷째 날이니라",
+      "en": "And there was evening, and there was morning--the fourth day.",
+      "de": "Da ward aus Abend und Morgen der vierte Tag.",
+      "zh": "有晚上，有早晨，是第四日。",
+      "ja": "夕あり朝ありき是四日なり"
+    },
+    {
+      "number": 20,
+      "ko": "하나님이 이르시되 물들은 생물을 번성하게 하라 땅 위 하늘의 궁창에는 새가 날으라 하시고",
+      "en": "And God said, \"Let the water teem with living creatures, and let birds fly above the earth across the expanse of the sky.\"",
+      "de": "Und Gott sprach: Es errege sich das Wasser mit webenden und lebendigen Tieren, und Gevögel fliege auf Erden unter der Feste des Himmels.",
+      "zh": "神说：「水要多多滋生有生命的物；要有雀鸟飞在地面以上，天空之中。」",
+      "ja": "神云たまひけるは水には生物饒に生じ鳥は天の穹蒼の面に地の上に飛べしと"
+    },
+    {
+      "number": 21,
+      "ko": "하나님이 큰 바다 짐승들과 물에서 번성하여 움직이는 모든 생물을 그 종류대로, 날개 있는 모든 새를 그 종류대로 창조하시니 하나님이 보시기에 좋았더라",
+      "en": "So God created the great creatures of the sea and every living and moving thing with which the water teems, according to their kinds, and every winged bird according to its kind. And God saw that it was good.",
+      "de": "Und Gott schuf große Walfische und allerlei Getier, daß da lebt und webt, davon das Wasser sich erregte, ein jegliches nach seiner Art, und allerlei gefiedertes Gevögel, ein jegliches nach seiner Art. Und Gott sah, daß es gut war.",
+      "zh": "神就造出大鱼和水中所滋生各样有生命的动物，各从其类；又造出各样飞鸟，各从其类。　神看着是好的。",
+      "ja": "神巨なる魚と水に饒に生じて動く諸の生物を其類に從ひて創造り又羽翼ある諸の鳥を其類に從ひて創造りたまへり神之を善と觀たまへり"
+    },
+    {
+      "number": 22,
+      "ko": "하나님이 그들에게 복을 주시며 이르시되 생육하고 번성하여 여러 바닷물에 충만하라 새들도 땅에 번성하라 하시니라",
+      "en": "God blessed them and said, \"Be fruitful and increase in number and fill the water in the seas, and let the birds increase on the earth.\"",
+      "de": "Und Gott segnete sie und sprach: Seid fruchtbar und mehrt euch und erfüllt das Wasser im Meer; und das Gefieder mehre sich auf Erden.",
+      "zh": "神就赐福给这一切，说：「滋生繁多，充满海中的水；雀鸟也要多生在地上。」",
+      "ja": "神之を祝して曰く生よ繁息よ海の水に充牣よ又禽鳥は地に蕃息よと"
+    },
+    {
+      "number": 23,
+      "ko": "저녁이 되고 아침이 되니 이는 다섯째 날이니라",
+      "en": "And there was evening, and there was morning--the fifth day.",
+      "de": "Da ward aus Abend und Morgen der fünfte Tag.",
+      "zh": "有晚上，有早晨，是第五日。",
+      "ja": "夕あり朝ありき是五日なり"
+    },
+    {
+      "number": 24,
+      "ko": "하나님이 이르시되 땅은 생물을 그 종류대로 내되 가축과 기는 것과 땅의 짐승을 종류대로 내라 하시니 그대로 되니라",
+      "en": "And God said, \"Let the land produce living creatures according to their kinds: livestock, creatures that move along the ground, and wild animals, each according to its kind.\" And it was so.",
+      "de": "Und Gott sprach: Die Erde bringe hervor lebendige Tiere, ein jegliches nach seiner Art: Vieh, Gewürm und Tiere auf Erden, ein jegliches nach seiner Art. Und es geschah also.",
+      "zh": "神说：「地要生出活物来，各从其类；牲畜、昆虫、野兽，各从其类。」事就这样成了。",
+      "ja": "神言給ひけるは地は生物を其類に從て出し家畜と昆蟲と地の獸を其類に從て出すべしと即ち斯なりぬ"
+    },
+    {
+      "number": 25,
+      "ko": "하나님이 땅의 짐승을 그 종류대로, 가축을 그 종류대로, 땅에 기는 모든 것을 그 종류대로 만드시니 하나님이 보시기에 좋았더라",
+      "en": "God made the wild animals according to their kinds, the livestock according to their kinds, and all the creatures that move along the ground according to their kinds. And God saw that it was good.",
+      "de": "Und Gott machte die Tiere auf Erden, ein jegliches nach seiner Art, und das Vieh nach seiner Art, und allerlei Gewürm auf Erden nach seiner Art. Und Gott sah, daß es gut war.",
+      "zh": "于是　神造出野兽，各从其类；牲畜，各从其类；地上一切昆虫，各从其类。　神看着是好的。",
+      "ja": "神地の獸を其類に從て造り家畜を其類に從て造り地の諸の昆蟲を其類に從て造り給へり神之を善と觀給へり"
+    },
+    {
+      "number": 26,
+      "ko": "하나님이 이르시되 우리의 형상을 따라 우리의 모양대로 우리가 사람을 만들고 그들로 바다의 물고기와 하늘의 새와 가축과 온 땅과 땅에 기는 모든 것을 다스리게 하자 하시고",
+      "en": "Then God said, \"Let us make man in our image, in our likeness, and let them rule over the fish of the sea and the birds of the air, over the livestock, over all the earth, and over all the creatures that move along the ground.\"",
+      "de": "Und Gott sprach: Laßt uns Menschen machen, ein Bild, das uns gleich sei, die da herrschen über die Fische im Meer und über die Vögel unter dem Himmel und über das Vieh und über die ganze Erde und über alles Gewürm, das auf Erden kriecht.",
+      "zh": "神说：「我们要照着我们的形象、按着我们的样式造人，使他们管理海里的鱼、空中的鸟、地上的牲畜，和全地，并地上所爬的一切昆虫。」",
+      "ja": "神言給けるは我儕に象りて我儕の像の如くに我儕人を造り之に海の魚と天空の鳥と家畜と全地と地に匍ふ所の諸の昆蟲を治めんと"
+    },
+    {
+      "number": 27,
+      "ko": "하나님이 자기 형상 곧 하나님의 형상대로 사람을 창조하시되 남자와 여자를 창조하시고",
+      "en": "So God created man in his own image, in the image of God he created him; male and female he created them.",
+      "de": "Und Gott schuf den Menschen ihm zum Bilde, zum Bilde Gottes schuf er ihn; und schuf sie einen Mann und ein Weib.",
+      "zh": "神就照着自己的形象造人，乃是照着他的形象造男造女。",
+      "ja": "神其像の如くに人を創造たまへり即ち神の像の如くに之を創造之を男と女に創造たまへり"
+    },
+    {
+      "number": 28,
+      "ko": "하나님이 그들에게 복을 주시며 하나님이 그들에게 이르시되 생육하고 번성하여 땅에 충만하라, 땅을 정복하라, 바다의 물고기와 하늘의 새와 땅에 움직이는 모든 생물을 다스리라 하시니라",
+      "en": "God blessed them and said to them, \"Be fruitful and increase in number; fill the earth and subdue it. Rule over the fish of the sea and the birds of the air and over every living creature that moves on the ground.\"",
+      "de": "Und Gott segnete sie und sprach zu ihnen: Seid fruchtbar und mehrt euch und füllt die Erde und macht sie euch untertan und herrscht über die Fische im Meer und über die Vögel unter dem Himmel und über alles Getier, das auf Erden kriecht.",
+      "zh": "神就赐福给他们，又对他们说：「要生养众多，遍满地面，治理这地，也要管理海里的鱼、空中的鸟，和地上各样行动的活物。」",
+      "ja": "神彼等を祝し神彼等に言たまひけるは生よ繁殖よ地に滿盈よ之を服從せよ又海の魚と天空の鳥と地に動く所の諸の生物を治めよ"
+    },
+    {
+      "number": 29,
+      "ko": "하나님이 이르시되 내가 온 지면의 씨 맺는 모든 채소와 씨 가진 열매 맺는 모든 나무를 너희에게 주노니 너희의 먹을 거리가 되리라",
+      "en": "Then God said, \"I give you every seed-bearing plant on the face of the whole earth and every tree that has fruit with seed in it. They will be yours for food.",
+      "de": "Und Gott sprach: Seht da, ich habe euch gegeben allerlei Kraut, das sich besamt, auf der ganzen Erde und allerlei fruchtbare Bäume, die sich besamen, zu eurer Speise,",
+      "zh": "神说：「看哪，我将遍地上一切结种子的菜蔬和一切树上所结有核的果子全赐给你们作食物。",
+      "ja": "神言たまひけるは視よ我全地の面にある實蓏のなる諸の草蔬と核ある木果の結る諸の樹とを汝等に與ふこれは汝らの糧となるべし"
+    },
+    {
+      "number": 30,
+      "ko": "또 땅의 모든 짐승과 하늘의 모든 새와 생명이 있어 땅에 기는 모든 것에게는 내가 모든 푸른 풀을 먹을 거리로 주노라 하시니 그대로 되니라",
+      "en": "And to all the beasts of the earth and all the birds of the air and all the creatures that move on the ground--everything that has the breath of life in it--I give every green plant for food.\" And it was so.",
+      "de": "und allem Getier auf Erden und allen Vögeln unter dem Himmel und allem Gewürm, das da lebt auf Erden, daß sie allerlei grünes Kraut essen. Und es geschah also.",
+      "zh": "至于地上的走兽和空中的飞鸟，并各样爬在地上有生命的物，我将青草赐给它们作食物。」事就这样成了。",
+      "ja": "又地の諸の獸と天空の諸の鳥および地に匍ふ諸の物等凡そ生命ある者には我食物として諸の靑き草を與ふと即ち斯なりぬ"
+    },
+    {
+      "number": 31,
+      "ko": "하나님이 지으신 그 모든 것을 보시니 보시기에 심히 좋았더라 저녁이 되고 아침이 되니 이는 여섯째 날이니라",
+      "en": "God saw all that he had made, and it was very good. And there was evening, and there was morning--the sixth day.",
+      "de": "Und Gott sah alles an, was er gemacht hatte; und siehe da, es war sehr gut. Da ward aus Abend und Morgen der sechste Tag.",
+      "zh": "神看着一切所造的都甚好。有晚上，有早晨，是第六日。",
+      "ja": "神其造りたる諸の物を視たまひけるに甚だ善りき夕あり朝ありき是六日なり"
+    }
+  ]
+}

@@ -1,0 +1,286 @@
+{
+  "book": "Job",
+  "chapter": 9,
+  "verses": [
+    {
+      "number": 1,
+      "ko": "욥이 대답하여 이르되",
+      "en": "Then Job replied:",
+      "de": "Hiob antwortete und sprach:",
+      "zh": "约伯回答说：",
+      "ja": "ヨブこたへて言けるは"
+    },
+    {
+      "number": 2,
+      "ko": "진실로 내가 이 일이 그런 줄을 알거니와 인생이 어찌 하나님 앞에 의로우랴",
+      "en": "\"Indeed, I know that this is true. But how can a mortal be righteous before God?",
+      "de": "Ja, ich weiß gar wohl, daß es also ist und daß ein Mensch nicht recht behalten mag gegen Gott.",
+      "zh": "我真知道是这样； 但人在　神面前怎能成为义呢？",
+      "ja": "我まことに其事の然るを知り 人いかでか神の前に義かるべけん"
+    },
+    {
+      "number": 3,
+      "ko": "사람이 하나님께 변론하기를 좋아할지라도 천 마디에 한 마디도 대답하지 못하리라",
+      "en": "Though one wished to dispute with him, he could not answer him one time out of a thousand.",
+      "de": "Hat er Lust, mit ihm zu hadern, so kann er ihm auf tausend nicht eins antworten.",
+      "zh": "若愿意与他争辩， 千中之一也不能回答。",
+      "ja": "よし人は神と辨爭はんとするとも千の一も答ふること能はざるべし"
+    },
+    {
+      "number": 4,
+      "ko": "그는 마음이 지혜로우시고 힘이 강하시니 그를 거슬러 스스로 완악하게 행하고도 형통할 자가 누구이랴",
+      "en": "His wisdom is profound, his power is vast. Who has resisted him and come out unscathed?",
+      "de": "Er ist weise und mächtig; wem ist's je gelungen, der sich wider ihn gelegt hat?",
+      "zh": "他心里有智慧，且大有能力。 谁向　神刚硬而得亨通呢？",
+      "ja": "神は心慧く力強くましますなり 誰か神に逆ひてその身安からんや"
+    },
+    {
+      "number": 5,
+      "ko": "그가 진노하심으로 산을 무너뜨리시며 옮기실지라도 산이 깨닫지 못하며",
+      "en": "He moves mountains without their knowing it and overturns them in his anger.",
+      "de": "Er versetzt Berge, ehe sie es innewerden, die er in seinem Zorn umkehrt.",
+      "zh": "他发怒，把山翻倒挪移， 山并不知觉。",
+      "ja": "彼山を移したまふに山しらず 彼震怒をもて之を飜倒したまふ"
+    },
+    {
+      "number": 6,
+      "ko": "그가 땅을 그 자리에서 움직이시니 그 기둥들이 흔들리도다",
+      "en": "He shakes the earth from its place and makes its pillars tremble.",
+      "de": "Er bewegt die Erde aus ihrem Ort, daß ihre Pfeiler zittern.",
+      "zh": "他使地震动，离其本位， 地的柱子就摇撼。",
+      "ja": "彼地を震ひてその所を離れしめたまへばその柱ゆるぐ"
+    },
+    {
+      "number": 7,
+      "ko": "그가 해를 명령하여 뜨지 못하게 하시며 별들을 가두시도다",
+      "en": "He speaks to the sun and it does not shine; he seals off the light of the stars.",
+      "de": "Er spricht zur Sonne, so geht sie nicht auf, und versiegelt die Sterne.",
+      "zh": "他吩咐日头不出来，就不出来， 又封闭众星。",
+      "ja": "日に命じたまへば日いでず 又星辰を封じたまふ"
+    },
+    {
+      "number": 8,
+      "ko": "그가 홀로 하늘을 펴시며 바다 물결을 밟으시며",
+      "en": "He alone stretches out the heavens and treads on the waves of the sea.",
+      "de": "Er breitet den Himmel aus allein und geht auf den Wogen des Meeres.",
+      "zh": "他独自铺张苍天， 步行在海浪之上。",
+      "ja": "唯かれ獨天を張り海の濤を覆たまふ"
+    },
+    {
+      "number": 9,
+      "ko": "북두성과 삼성과 묘성과 남방의 밀실을 만드셨으며",
+      "en": "He is the Maker of the Bear and Orion, the Pleiades and the constellations of the south.",
+      "de": "Er macht den Wagen am Himmel und Orion und die Plejaden und die Sterne gegen Mittag.",
+      "zh": "他造北斗、参星、昴星， 并南方的密宫；",
+      "ja": "また北斗參宿昴宿および南方の密室を造りたまふ"
+    },
+    {
+      "number": 10,
+      "ko": "측량할 수 없는 큰 일을, 셀 수 없는 기이한 일을 행하시느니라",
+      "en": "He performs wonders that cannot be fathomed, miracles that cannot be counted.",
+      "de": "Er tut große Dinge, die nicht zu erforschen sind, und Wunder, deren keine Zahl ist.",
+      "zh": "他行大事，不可测度， 行奇事，不可胜数。",
+      "ja": "大なる事を行ひたまふこと測られず奇しき業を爲たまふこと數しれず"
+    },
+    {
+      "number": 11,
+      "ko": "그가 내 앞으로 지나시나 내가 보지 못하며 그가 내 앞에서 움직이시나 내가 깨닫지 못하느니라",
+      "en": "When he passes me, I cannot see him; when he goes by, I cannot perceive him.",
+      "de": "Siehe, er geht an mir vorüber, ehe ich's gewahr werde, und wandelt vorbei, ehe ich's merke.",
+      "zh": "他从我旁边经过，我却不看见； 他在我面前行走，我倒不知觉。",
+      "ja": "視よ彼わが前を過たまふ 然るに我これを見ず彼すすみゆき賜ふ然るに我之を曉ず"
+    },
+    {
+      "number": 12,
+      "ko": "하나님이 빼앗으시면 누가 막을 수 있으며 무엇을 하시나이까 하고 누가 물을 수 있으랴",
+      "en": "If he snatches away, who can stop him? Who can say to him, 'What are you doing?'",
+      "de": "Siehe, wenn er hinreißt, wer will ihm wehren? Wer will zu ihm sagen: Was machst du?",
+      "zh": "他夺取，谁能阻挡？ 谁敢问他：你做什么？",
+      "ja": "彼奪ひ去賜ふ 誰か能之を沮まん 誰か之に汝何を爲やと言ことを得爲ん"
+    },
+    {
+      "number": 13,
+      "ko": "하나님이 진노를 돌이키지 아니하시나니 라합을 돕는 자들이 그 밑에 굴복하겠거든",
+      "en": "God does not restrain his anger; even the cohorts of Rahab cowered at his feet.",
+      "de": "Er ist Gott; seinen Zorn kann niemand stillen; unter ihn mußten sich beugen die Helfer Rahabs.",
+      "zh": "神必不收回他的怒气； 扶助拉哈伯的，屈身在他以下。",
+      "ja": "神其震怒を息賜はず ラハブを助る者等之が下に屈む"
+    },
+    {
+      "number": 14,
+      "ko": "하물며 내가 감히 대답하겠으며 그 앞에서 무슨 말을 택하랴",
+      "en": "\"How then can I dispute with him? How can I find words to argue with him?",
+      "de": "Wie sollte ich denn ihm antworten und Worte finden gegen ihn?",
+      "zh": "既是这样，我怎敢回答他， 怎敢选择言语与他辩论呢？",
+      "ja": "然ば我爭か彼に回答を爲ことを得ん 爭われ言を選びて彼と論ふ事をえんや"
+    },
+    {
+      "number": 15,
+      "ko": "가령 내가 의로울지라도 대답하지 못하겠고 나를 심판하실 그에게 간구할 뿐이며",
+      "en": "Though I were innocent, I could not answer him; I could only plead with my Judge for mercy.",
+      "de": "Wenn ich auch recht habe, kann ich ihm dennoch nicht antworten, sondern ich müßte um mein Recht flehen.",
+      "zh": "我虽有义，也不回答他， 只要向那审判我的恳求。",
+      "ja": "假令われ義かるとも彼に回答をせじ 彼は我を審判く者なれば我彼に哀き求ん"
+    },
+    {
+      "number": 16,
+      "ko": "가령 내가 그를 부르므로 그가 내게 대답하셨을지라도 내 음성을 들으셨다고는 내가 믿지 아니하리라",
+      "en": "Even if I summoned him and he responded, I do not believe he would give me a hearing.",
+      "de": "Wenn ich ihn schon anrufe, und er mir antwortet, so glaube ich doch nicht, daß er meine Stimme höre.",
+      "zh": "我若呼吁，他应允我； 我仍不信他真听我的声音。",
+      "ja": "假令我彼を呼て彼われに答たまふともわが言を聽いれ賜ひしとは我信ぜざるなり"
+    },
+    {
+      "number": 17,
+      "ko": "그가 폭풍으로 나를 치시고 까닭 없이 내 상처를 깊게 하시며",
+      "en": "He would crush me with a storm and multiply my wounds for no reason.",
+      "de": "Denn er fährt über mich mit Ungestüm und macht mir Wunden viel ohne Ursache.",
+      "zh": "他用暴风折断我， 无故地加增我的损伤。",
+      "ja": "彼は大風をもて我を撃碎き 故なくして我に衆多の傷を負せ"
+    },
+    {
+      "number": 18,
+      "ko": "나를 숨 쉬지 못하게 하시며 괴로움을 내게 채우시는구나",
+      "en": "He would not let me regain my breath but would overwhelm me with misery.",
+      "de": "Er läßt meinen Geist sich nicht erquicken, sondern macht mich voll Betrübnis.",
+      "zh": "我就是喘一口气，他都不容， 倒使我满心苦恼。",
+      "ja": "我に息をつかさしめず 苦き事をもて我身に充せ賜ふ"
+    },
+    {
+      "number": 19,
+      "ko": "힘으로 말하면 그가 강하시고 심판으로 말하면 누가 그를 소환하겠느냐",
+      "en": "If it is a matter of strength, he is mighty! And if it is a matter of justice, who will summon him?",
+      "de": "Will man Macht, so ist er zu mächtig; will man Recht, wer will mein Zeuge sein?",
+      "zh": "若论力量，他真有能力！ 若论审判，他说谁能将我传来呢？",
+      "ja": "強き者の力量を言んか 視よ此にあり 審判の事ならんか 誰か我を喚出すことを得爲ん"
+    },
+    {
+      "number": 20,
+      "ko": "가령 내가 의로울지라도 내 입이 나를 정죄하리니 가령 내가 온전할지라도 나를 정죄하시리라",
+      "en": "Even if I were innocent, my mouth would condemn me; if I were blameless, it would pronounce me guilty.",
+      "de": "Sage ich, daß ich gerecht bin, so verdammt er mich doch; bin ich Unschuldig, so macht er mich doch zu Unrecht.",
+      "zh": "我虽有义，自己的口要定我为有罪； 我虽完全，我口必显我为弯曲。",
+      "ja": "假令われ義かるとも我口われを惡しと爲ん 假令われ完全かるとも尚われを罪ありとせん"
+    },
+    {
+      "number": 21,
+      "ko": "나는 온전하다마는 내가 나를 돌아보지 아니하고 내 생명을 천히 여기는구나",
+      "en": "\"Although I am blameless, I have no concern for myself; I despise my own life.",
+      "de": "Ich bin unschuldig! ich frage nicht nach meiner Seele, begehre keines Lebens mehr.",
+      "zh": "我本完全，不顾自己； 我厌恶我的性命。",
+      "ja": "我は全し 然ども我はわが心を知ず 我生命を賤む"
+    },
+    {
+      "number": 22,
+      "ko": "일이 다 같은 것이라 그러므로 나는 말하기를 하나님이 온전한 자나 악한 자나 멸망시키신다 하나니",
+      "en": "It is all the same; that is why I say, 'He destroys both the blameless and the wicked.'",
+      "de": "Es ist eins, darum sage ich: Er bringt um beide, den Frommen und den Gottlosen.",
+      "zh": "善恶无分，都是一样； 所以我说，完全人和恶人，他都灭绝。",
+      "ja": "皆同一なり 故に我は言ふ神は完全者と惡者とを等しく滅したまふと"
+    },
+    {
+      "number": 23,
+      "ko": "갑자기 재난이 닥쳐 죽을지라도 무죄한 자의 절망도 그가 비웃으시리라",
+      "en": "When a scourge brings sudden death, he mocks the despair of the innocent.",
+      "de": "Wenn er anhebt zu geißeln, so dringt er alsbald zum Tod und spottet der Anfechtung der Unschuldigen.",
+      "zh": "若忽然遭杀害之祸， 他必戏笑无辜的人遇难。",
+      "ja": "災禍の俄然に人を誅す如き事あれば彼は辜なき者の苦痛を笑ひ見たまふ"
+    },
+    {
+      "number": 24,
+      "ko": "세상이 악인의 손에 넘어갔고 재판관의 얼굴도 가려졌나니 그렇게 되게 한 이가 그가 아니시면 누구냐",
+      "en": "When a land falls into the hands of the wicked, he blindfolds its judges. If it is not he, then who is it?",
+      "de": "Das Land aber wird gegeben unter die Hand der Gottlosen, und der Richter Antlitz verhüllt er. Ist's nicht also, wer anders sollte es tun?",
+      "zh": "世界交在恶人手中； 蒙蔽世界审判官的脸， 若不是他，是谁呢？",
+      "ja": "世は惡き者の手に交されてあり 彼またその裁判人の面を蔽ひたまふ 若彼ならずば是誰の行爲なるや"
+    },
+    {
+      "number": 25,
+      "ko": "나의 날이 경주자보다 빨리 사라져 버리니 복을 볼 수 없구나",
+      "en": "\"My days are swifter than a runner; they fly away without a glimpse of joy.",
+      "de": "Meine Tage sind schneller gewesen denn ein Läufer; sie sind geflohen und haben nichts Gutes erlebt.",
+      "zh": "我的日子比跑信的更快， 急速过去，不见福乐。",
+      "ja": "わが日は驛使よりも迅く 徒に過さりて福祉を見ず"
+    },
+    {
+      "number": 26,
+      "ko": "그 지나가는 것이 빠른 배 같고 먹이에 날아 내리는 독수리와도 같구나",
+      "en": "They skim past like boats of papyrus, like eagles swooping down on their prey.",
+      "de": "Sie sind dahingefahren wie die Rohrschiffe, wie ein Adler fliegt zur Speise.",
+      "zh": "我的日子过去如快船， 如急落抓食的鹰。",
+      "ja": "其はしること葦舟のごとく 物を攫まんとて飛かける鷲のごとし"
+    },
+    {
+      "number": 27,
+      "ko": "가령 내가 말하기를 내 불평을 잊고 얼굴 빛을 고쳐 즐거운 모양을 하자 할지라도",
+      "en": "If I say, 'I will forget my complaint, I will change my expression, and smile,'",
+      "de": "Wenn ich gedenke: Ich will meiner Klage vergessen und meine Gebärde lassen fahren und mich erquicken,",
+      "zh": "我若说：我要忘记我的哀情， 除去我的愁容，心中畅快；",
+      "ja": "たとひ我わが愁を忘れ面色を改めて笑ひをらんと思ふとも"
+    },
+    {
+      "number": 28,
+      "ko": "내 모든 고통을 두려워하오니 주께서 나를 죄 없다고 여기지 않으실 줄을 아나이다",
+      "en": "I still dread all my sufferings, for I know you will not hold me innocent.",
+      "de": "so fürchte ich alle meine Schmerzen, weil ich weiß, daß du mich nicht unschuldig sein lässest.",
+      "zh": "我因愁苦而惧怕， 知道你必不以我为无辜。",
+      "ja": "尚この諸の苦痛のために戰慄くなり 我思ふに汝われを釋し放ちたまはざらん"
+    },
+    {
+      "number": 29,
+      "ko": "내가 정죄하심을 당할진대 어찌 헛되이 수고하리이까",
+      "en": "Since I am already found guilty, why should I struggle in vain?",
+      "de": "Ich muß ja doch ein Gottloser sein; warum mühe ich mich denn so vergeblich?",
+      "zh": "我必被你定为有罪， 我何必徒然劳苦呢？",
+      "ja": "我は罪ありとせらるるなれば何ぞ徒然に勞すべけんや"
+    },
+    {
+      "number": 30,
+      "ko": "내가 눈 녹은 물로 몸을 씻고 잿물로 손을 깨끗하게 할지라도",
+      "en": "Even if I washed myself with soap and my hands with washing soda,",
+      "de": "Wenn ich mich gleich mit Schneewasser wüsche und reinigte mein Hände mit Lauge,",
+      "zh": "我若用雪水洗身， 用硷洁净我的手，",
+      "ja": "われ雪水をもて身を洗ひ 灰汁をもて手を潔むるとも"
+    },
+    {
+      "number": 31,
+      "ko": "주께서 나를 개천에 빠지게 하시리니 내 옷이라도 나를 싫어하리이다",
+      "en": "you would plunge me into a slime pit so that even my clothes would detest me.",
+      "de": "so wirst du mich doch tauchen in Kot, und so werden mir meine Kleider greulich anstehen.",
+      "zh": "你还要扔我在坑里， 我的衣服都憎恶我。",
+      "ja": "汝われを汚はしき穴の中に陷いれたまはん 而して我衣も我を厭ふにいたらん"
+    },
+    {
+      "number": 32,
+      "ko": "하나님은 나처럼 사람이 아니신즉 내가 그에게 대답할 수 없으며 함께 들어가 재판을 할 수도 없고",
+      "en": "\"He is not a man like me that I might answer him, that we might confront each other in court.",
+      "de": "Denn er ist nicht meinesgleichen, dem ich antworten könnte, daß wir vor Gericht miteinander kämen.",
+      "zh": "他本不像我是人，使我可以回答他， 又使我们可以同听审判。",
+      "ja": "神は我のごとく人にあらざれば我かれに答ふべからず 我ら二箇して共に裁判に臨むべからず"
+    },
+    {
+      "number": 33,
+      "ko": "우리 사이에 손을 얹을 판결자도 없구나",
+      "en": "If only there were someone to arbitrate between us, to lay his hand upon us both,",
+      "de": "Es ist zwischen uns kein Schiedsmann, der seine Hand auf uns beide lege.",
+      "zh": "我们中间没有听讼的人 可以向我们两造按手。",
+      "ja": "また我らの間には我ら二箇の上に手を置べき仲保あらず"
+    },
+    {
+      "number": 34,
+      "ko": "주께서 그의 막대기를 내게서 떠나게 하시고 그의 위엄이 나를 두렵게 하지 아니하시기를 원하노라",
+      "en": "someone to remove God's rod from me, so that his terror would frighten me no more.",
+      "de": "Er nehme von mir seine Rute und lasse seinen Schrecken von mir,",
+      "zh": "愿他把杖离开我， 不使惊惶威吓我。",
+      "ja": "願くは彼その杖を我より取はなし その震怒をもて我を懼れしめたまはざれ"
+    },
+    {
+      "number": 35,
+      "ko": "그리하시면 내가 두려움 없이 말하리라 나는 본래 그렇게 할 수 있는 자가 아니니라",
+      "en": "Then I would speak up without fear of him, but as it now stands with me, I cannot.",
+      "de": "daß ich möge reden und mich nicht vor ihm fürchten dürfe; denn ich weiß, daß ich kein solcher bin.",
+      "zh": "我就说话，也不惧怕他， 现在我却不是那样。",
+      "ja": "然らば我 言語て彼を畏れざらん 其は我みづから斯る者と思はざればなり"
+    }
+  ]
+}

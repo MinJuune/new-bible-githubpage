@@ -1,0 +1,310 @@
+{
+  "book": "Luke",
+  "chapter": 21,
+  "verses": [
+    {
+      "number": 1,
+      "ko": "예수께서 눈을 들어 부자들이 헌금함에 헌금 넣는 것을 보시고",
+      "en": "As he looked up, Jesus saw the rich putting their gifts into the temple treasury.",
+      "de": "Er sah aber auf und schaute die Reichen, wie sie ihre Opfer einlegten in den Gotteskasten.",
+      "zh": "耶稣抬头观看，见财主把捐项投在库里，",
+      "ja": "さてイエスが、目を上げてご覧になると、金持ちたちが献金箱に献金を投げ入れていた。"
+    },
+    {
+      "number": 2,
+      "ko": "또 어떤 가난한 과부가 두 렙돈 넣는 것을 보시고",
+      "en": "He also saw a poor widow put in two very small copper coins.",
+      "de": "Er sah aber auch eine arme Witwe, die legte zwei Scherflein ein.",
+      "zh": "又见一个穷寡妇投了两个小钱，",
+      "ja": "また、ある貧しいやもめが、そこにレプタ銅貨二つを投げ入れているのをご覧になった。"
+    },
+    {
+      "number": 3,
+      "ko": "이르시되 내가 참으로 너희에게 말하노니 이 가난한 과부가 다른 모든 사람보다 많이 넣었도다",
+      "en": "\"I tell you the truth,\" he said, \"this poor widow has put in more than all the others.",
+      "de": "Und er sprach: Wahrlich ich sage euch: Diese arme Witwe hat mehr denn sie alle eingelegt.",
+      "zh": "就说：「我实在告诉你们，这穷寡妇所投的比众人还多；",
+      "ja": "それでイエスは言われた。「わたしは真実をあなたがたに告げます。この貧しいやもめは、どの人よりもたくさん投げ入れました。"
+    },
+    {
+      "number": 4,
+      "ko": "저들은 그 풍족한 중에서 헌금을 넣었거니와 이 과부는 그 가난한 중에서 자기가 가지고 있는 생활비 전부를 넣었느니라 하시니라",
+      "en": "All these people gave their gifts out of their wealth; but she out of her poverty put in all she had to live on.\"",
+      "de": "Denn diese alle haben aus ihrem Überfluß eingelegt zu dem Opfer Gottes; sie aber hat von ihrer Armut alle ihre Nahrung, die sie hatte, eingelegt.",
+      "zh": "因为众人都是自己有余，拿出来投在捐项里，但这寡妇是自己不足，把她一切养生的都投上了。」",
+      "ja": "みなは、あり余る中から献金を投げ入れたのに、この女は、乏しい中から、持っていた生活費の全部を投げ入れたからです。」"
+    },
+    {
+      "number": 5,
+      "ko": "어떤 사람들이 성전을 가리켜 그 아름다운 돌과 헌물로 꾸민 것을 말하매 예수께서 이르시되",
+      "en": "Some of his disciples were remarking about how the temple was adorned with beautiful stones and with gifts dedicated to God. But Jesus said,",
+      "de": "Und da etliche sagten von dem Tempel, daß er geschmückt wäre mit feinen Steinen und Kleinoden, sprach er:",
+      "zh": "有人谈论圣殿是用美石和供物妆饰的；",
+      "ja": "宮がすばらしい石や奉納物で飾ってあると話していた人々があった。するとイエスはこう言われた。"
+    },
+    {
+      "number": 6,
+      "ko": "너희 보는 이것들이 날이 이르면 돌 하나도 돌 위에 남지 않고 다 무너뜨려지리라",
+      "en": "\"As for what you see here, the time will come when not one stone will be left on another; every one of them will be thrown down.\"",
+      "de": "Es wird die Zeit kommen, in welcher von dem allem, was ihr sehet, nicht ein Stein auf dem andern gelassen wird, der nicht zerbrochen werde.",
+      "zh": "耶稣就说：「论到你们所看见的这一切，将来日子到了，在这里没有一块石头留在石头上，不被拆毁了。」",
+      "ja": "「あなたがたの見ているこれらの物について言えば、石がくずされずに積まれたまま残ることのない日がやって来ます。」"
+    },
+    {
+      "number": 7,
+      "ko": "그들이 물어 이르되 선생님이여 그러면 어느 때에 이런 일이 있겠사오며 이런 일이 일어나려 할 때에 무슨 징조가 있사오리이까",
+      "en": "\"Teacher,\" they asked, \"when will these things happen? And what will be the sign that they are about to take place?\"",
+      "de": "Sie fragten ihn aber und sprachen: Meister, wann soll das werden? und welches ist das Zeichen, wann das geschehen wird?",
+      "zh": "他们问他说：「夫子！什么时候有这事呢？这事将到的时候有什么预兆呢？」",
+      "ja": "彼らは、イエスに質問して言った。「先生。それでは、これらのことは、いつ起こるのでしょう。これらのことが起こるときは、どんな前兆があるのでしょう。」"
+    },
+    {
+      "number": 8,
+      "ko": "이르시되 미혹을 받지 않도록 주의하라 많은 사람이 내 이름으로 와서 이르되 내가 그라 하며 때가 가까이 왔다 하겠으나 그들을 따르지 말라",
+      "en": "He replied: \"Watch out that you are not deceived. For many will come in my name, claiming, 'I am he,' and, 'The time is near.' Do not follow them.",
+      "de": "Er aber sprach: Sehet zu, lasset euch nicht verführen. Denn viele werden kommen in meinem Namen und sagen, ich sei es, und: “Die Zeit ist herbeigekommen.” Folget ihnen nicht nach!",
+      "zh": "耶稣说：「你们要谨慎，不要受迷惑；因为将来有好些人冒我的名来，说：『我是基督』，又说：『时候近了』，你们不要跟从他们！",
+      "ja": "イエスは言われた。「惑わされないように気をつけなさい。わたしの名を名のる者が大ぜい現われ、『私がそれだ。』とか『時は近づいた。』とか言います。そんな人々のあとについて行ってはなりません。"
+    },
+    {
+      "number": 9,
+      "ko": "난리와 소요의 소문을 들을 때에 두려워하지 말라 이 일이 먼저 있어야 하되 끝은 곧 되지 아니하리라",
+      "en": "When you hear of wars and revolutions, do not be frightened. These things must happen first, but the end will not come right away.\"",
+      "de": "Wenn ihr aber hören werdet von Kriegen und Empörungen, so entsetzet euch nicht. Denn solches muß zuvor geschehen; aber das Ende ist noch nicht so bald da.",
+      "zh": "你们听见打仗和扰乱的事，不要惊惶；因为这些事必须先有，只是末期不能立时就到。」",
+      "ja": "戦争や暴動のことを聞いても、こわがってはいけません。それは、初めに必ず起こることです。だが、終わりは、すぐには来ません。」"
+    },
+    {
+      "number": 10,
+      "ko": "또 이르시되 민족이 민족을, 나라가 나라를 대적하여 일어나겠고",
+      "en": "Then he said to them: \"Nation will rise against nation, and kingdom against kingdom.",
+      "de": "Da sprach er zu ihnen: Ein Volk wird sich erheben wider das andere und ein Reich wider das andere,",
+      "zh": "当时，耶稣对他们说：「民要攻打民，国要攻打国；",
+      "ja": "それから、イエスは彼らに言われた。「民族は民族に、国は国に敵対して立ち上がり、"
+    },
+    {
+      "number": 11,
+      "ko": "곳곳에 큰 지진과 기근과 전염병이 있겠고 또 무서운 일과 하늘로부터 큰 징조들이 있으리라",
+      "en": "There will be great earthquakes, famines and pestilences in various places, and fearful events and great signs from heaven.",
+      "de": "und es werden geschehen große Erdbeben hin und wieder, teure Zeit und Pestilenz; auch werden Schrecknisse und große Zeichen am Himmel geschehen.",
+      "zh": "地要大大震动，多处必有饥荒、瘟疫，又有可怕的异象和大神迹从天上显现。",
+      "ja": "大地震があり、方々に疫病やききんが起こり、恐ろしいことや天からのすさまじい前兆が現われます。"
+    },
+    {
+      "number": 12,
+      "ko": "이 모든 일 전에 내 이름으로 말미암아 너희에게 손을 대어 박해하며 회당과 옥에 넘겨 주며 임금들과 집권자들 앞에 끌어 가려니와",
+      "en": "\"But before all this, they will lay hands on you and persecute you. They will deliver you to synagogues and prisons, and you will be brought before kings and governors, and all on account of my name.",
+      "de": "Aber vor diesem allem werden sie die Hände an euch legen und euch verfolgen und werden euch überantworten in ihre Schulen und Gefängnisse und vor Könige und Fürsten ziehen um meines Namens willen.",
+      "zh": "但这一切的事以先，人要下手拿住你们，逼迫你们，把你们交给会堂，并且收在监里，又为我的名拉你们到君王诸侯面前。",
+      "ja": "しかし、これらのすべてのことの前に、人々はあなたがたを捕えて迫害し、会堂や牢に引き渡し、わたしの名のために、あなたがたを王たちや総督たちの前に引き出すでしょう。"
+    },
+    {
+      "number": 13,
+      "ko": "이 일이 도리어 너희에게 증거가 되리라",
+      "en": "This will result in your being witnesses to them.",
+      "de": "Das wird euch aber widerfahren zu einem Zeugnis.",
+      "zh": "但这些事终必为你们的见证。",
+      "ja": "それはあなたがたのあかしをする機会となります。"
+    },
+    {
+      "number": 14,
+      "ko": "그러므로 너희는 변명할 것을 미리 궁리하지 않도록 명심하라",
+      "en": "But make up your mind not to worry beforehand how you will defend yourselves.",
+      "de": "So nehmet nun zu Herzen, daß ihr nicht sorget, wie ihr euch verantworten sollt.",
+      "zh": "所以，你们当立定心意，不要预先思想怎样分诉；",
+      "ja": "それで、どう弁明するかは、あらかじめ考えないことに、心を定めておきなさい。"
+    },
+    {
+      "number": 15,
+      "ko": "내가 너희의 모든 대적이 능히 대항하거나 변박할 수 없는 구변과 지혜를 너희에게 주리라",
+      "en": "For I will give you words and wisdom that none of your adversaries will be able to resist or contradict.",
+      "de": "Denn ich will euch Mund und Weisheit geben, welcher nicht sollen widersprechen können noch widerstehen alle eure Widersacher.",
+      "zh": "因为我必赐你们口才、智慧，是你们一切敌人所敌不住、驳不倒的。",
+      "ja": "どんな反対者も、反論もできず、反証もできないようなことばと知恵を、わたしがあなたがたに与えます。"
+    },
+    {
+      "number": 16,
+      "ko": "심지어 부모와 형제와 친척과 벗이 너희를 넘겨 주어 너희 중의 몇을 죽이게 하겠고",
+      "en": "You will be betrayed even by parents, brothers, relatives and friends, and they will put some of you to death.",
+      "de": "Ihr werdet aber überantwortet werden von den Eltern, Brüdern, Gefreunden und Freunden; und sie werden euer etliche töten.",
+      "zh": "连你们的父母、弟兄、亲族、朋友也要把你们交官；你们也有被他们害死的。",
+      "ja": "しかしあなたがたは、両親、兄弟、親族、友人たちにまで裏切られます。中には殺される者もあり、"
+    },
+    {
+      "number": 17,
+      "ko": "또 너희가 내 이름으로 말미암아 모든 사람에게 미움을 받을 것이나",
+      "en": "All men will hate you because of me.",
+      "de": "Und ihr werdet gehaßt sein von jedermann um meines Namens willen.",
+      "zh": "你们要为我的名被众人恨恶，",
+      "ja": "わたしの名のために、みなの者に憎まれます。"
+    },
+    {
+      "number": 18,
+      "ko": "너희 머리털 하나도 상하지 아니하리라",
+      "en": "But not a hair of your head will perish.",
+      "de": "Und ein Haar von eurem Haupte soll nicht umkommen.",
+      "zh": "然而，你们连一根头发也必不损坏。",
+      "ja": "しかし、あなたがたの髪の毛一筋も失われることはありません。"
+    },
+    {
+      "number": 19,
+      "ko": "너희의 인내로 너희 영혼을 얻으리라",
+      "en": "By standing firm you will gain life.",
+      "de": "Fasset eure Seelen mit Geduld.",
+      "zh": "你们常存忍耐，就必保全灵魂。」",
+      "ja": "あなたがたは、忍耐によって、自分のいのちを勝ち取ることができます。"
+    },
+    {
+      "number": 20,
+      "ko": "너희가 예루살렘이 군대들에게 에워싸이는 것을 보거든 그 멸망이 가까운 줄을 알라",
+      "en": "\"When you see Jerusalem being surrounded by armies, you will know that its desolation is near.",
+      "de": "Wenn ihr aber sehen werdet Jerusalem belagert mit einem Heer, so merket daß herbeigekommen ist seine Verwüstung.",
+      "zh": "「你们看见耶路撒冷被兵围困，就可知道它成荒场的日子近了。",
+      "ja": "しかし、エルサレムが軍隊に囲まれるのを見たら、そのときには、その滅亡が近づいたことを悟りなさい。"
+    },
+    {
+      "number": 21,
+      "ko": "그 때에 유대에 있는 자들은 산으로 도망갈 것이며 성내에 있는 자들은 나갈 것이며 촌에 있는 자들은 그리로 들어가지 말지어다",
+      "en": "Then let those who are in Judea flee to the mountains, let those in the city get out, and let those in the country not enter the city.",
+      "de": "Alsdann, wer in Judäa ist, der fliehe auf das Gebirge, und wer drinnen ist, der weiche heraus, und wer auf dem Lande ist, der komme nicht hinein.",
+      "zh": "那时，在犹太的应当逃到山上；在城里的应当出来；在乡下的不要进城；",
+      "ja": "そのとき、ユダヤにいる人々は山へ逃げなさい。都の中にいる人々は、そこから立ちのきなさい。いなかにいる者たちは、都にはいってはいけません。"
+    },
+    {
+      "number": 22,
+      "ko": "이 날들은 기록된 모든 것을 이루는 징벌의 날이니라",
+      "en": "For this is the time of punishment in fulfillment of all that has been written.",
+      "de": "Denn das sind die Tage der Rache, daß erfüllet werde alles, was geschrieben ist.",
+      "zh": "因为这是报应的日子，使经上所写的都得应验。",
+      "ja": "これは、書かれているすべてのことが成就する報復の日だからです。"
+    },
+    {
+      "number": 23,
+      "ko": "그 날에는 아이 밴 자들과 젖먹이는 자들에게 화가 있으리니 이는 땅에 큰 환난과 이 백성에게 진노가 있겠음이로다",
+      "en": "How dreadful it will be in those days for pregnant women and nursing mothers! There will be great distress in the land and wrath against this people.",
+      "de": "Weh aber den Schwangern und Säugerinnen in jenen Tagen! Denn es wird große Not auf Erden sein und ein Zorn über dies Volk,",
+      "zh": "当那些日子，怀孕的和奶孩子的有祸了！因为将有大灾难降在这地方，也有震怒临到这百姓。",
+      "ja": "その日、悲惨なのは身重の女と乳飲み子を持つ女です。この地に大きな苦難が臨み、この民に御怒りが臨むからです。"
+    },
+    {
+      "number": 24,
+      "ko": "그들이 칼날에 죽임을 당하며 모든 이방에 사로잡혀 가겠고 예루살렘은 이방인의 때가 차기까지 이방인들에게 밟히리라",
+      "en": "They will fall by the sword and will be taken as prisoners to all the nations. Jerusalem will be trampled on by the Gentiles until the times of the Gentiles are fulfilled.",
+      "de": "und sie werden fallen durch des Schwertes Schärfe und gefangen geführt werden unter alle Völker; und Jerusalem wird zertreten werden von den Heiden, bis daß der Heiden Zeit erfüllt wird.",
+      "zh": "他们要倒在刀下，又被掳到各国去。耶路撒冷要被外邦人践踏，直到外邦人的日期满了。」",
+      "ja": "人々は、剣の刃に倒れ、捕虜となってあらゆる国に連れて行かれ、異邦人の時の終わるまで、エルサレムは異邦人に踏み荒らされます。"
+    },
+    {
+      "number": 25,
+      "ko": "일월 성신에는 징조가 있겠고 땅에서는 민족들이 바다와 파도의 성난 소리로 인하여 혼란한 중에 곤고하리라",
+      "en": "\"There will be signs in the sun, moon and stars. On the earth, nations will be in anguish and perplexity at the roaring and tossing of the sea.",
+      "de": "Und es werden Zeichen geschehen an Sonne und Mond und Sternen; und auf Erden wird den Leuten bange sein, und sie werden zagen, und das Meer und die Wassermengen werden brausen,",
+      "zh": "「日、月、星辰要显出异兆，地上的邦国也有困苦；因海中波浪的响声，就慌慌不定。",
+      "ja": "そして、日と月と星には、前兆が現われ、地上では、諸国の民が、海と波が荒れどよめくために不安に陥って悩み、"
+    },
+    {
+      "number": 26,
+      "ko": "사람들이 세상에 임할 일을 생각하고 무서워하므로 기절하리니 이는 하늘의 권능들이 흔들리겠음이라",
+      "en": "Men will faint from terror, apprehensive of what is coming on the world, for the heavenly bodies will be shaken.",
+      "de": "und Menschen werden verschmachten vor Furcht und vor Warten der Dinge, die kommen sollen auf Erden; denn auch der Himmel Kräfte werden sich bewegen.",
+      "zh": "天势都要震动，人想起那将要临到世界的事，就都吓得魂不附体。",
+      "ja": "人々は、その住むすべての所を襲おうとしていることを予想して、恐ろしさのあまり気を失います。天の万象が揺り動かされるからです。"
+    },
+    {
+      "number": 27,
+      "ko": "그 때에 사람들이 인자가 구름을 타고 능력과 큰 영광으로 오는 것을 보리라",
+      "en": "At that time they will see the Son of Man coming in a cloud with power and great glory.",
+      "de": "Und alsdann werden sie sehen des Menschen Sohn kommen in der Wolke mit großer Kraft und Herrlichkeit.",
+      "zh": "那时，他们要看见人子有能力，有大荣耀驾云降临。",
+      "ja": "そのとき、人々は、人の子が力と輝かしい栄光を帯びて雲に乗って来るのを見るのです。"
+    },
+    {
+      "number": 28,
+      "ko": "이런 일이 되기를 시작하거든 일어나 머리를 들라 너희 속량이 가까웠느니라 하시더라",
+      "en": "When these things begin to take place, stand up and lift up your heads, because your redemption is drawing near.\"",
+      "de": "Wenn aber dieses anfängt zu geschehen, so sehet auf und erhebet eure Häupter, darum daß sich eure Erlösung naht.",
+      "zh": "一有这些事，你们就当挺身昂首，因为你们得赎的日子近了。」",
+      "ja": "これらのことが起こり始めたなら、からだをまっすぐにし、頭を上に上げなさい。贖いが近づいたのです。」"
+    },
+    {
+      "number": 29,
+      "ko": "이에 비유로 이르시되 무화과나무와 모든 나무를 보라",
+      "en": "He told them this parable: \"Look at the fig tree and all the trees.",
+      "de": "Und er sagte ihnen ein Gleichnis: Sehet an den Feigenbaum und alle Bäume:",
+      "zh": "耶稣又设比喻对他们说：「你们看无花果树和各样的树；它发芽的时候，你们一看见，自然晓得夏天近了。",
+      "ja": "それからイエスは、人々にたとえを話された。「いちじくの木や、すべての木を見なさい。"
+    },
+    {
+      "number": 30,
+      "ko": "싹이 나면 너희가 보고 여름이 가까운 줄을 자연히 아나니",
+      "en": "When they sprout leaves, you can see for yourselves and know that summer is near.",
+      "de": "wenn sie jetzt ausschlagen, so sehet ihr's an ihnen und merket, daß jetzt der Sommer nahe ist.",
+      "zh": "这样，你们看见这些事渐渐地成就，也该晓得　神的国近了。",
+      "ja": "木の芽が出ると、それを見て夏の近いことがわかります。"
+    },
+    {
+      "number": 31,
+      "ko": "이와 같이 너희가 이런 일이 일어나는 것을 보거든 하나님의 나라가 가까이 온 줄을 알라",
+      "en": "Even so, when you see these things happening, you know that the kingdom of God is near.",
+      "de": "Also auch ihr: wenn ihr dies alles sehet angehen, so wisset, daß das Reich Gottes nahe ist.",
+      "zh": "我实在告诉你们，这世代还没有过去，这些事都要成就。",
+      "ja": "そのように、これらのことが起こるのを見たら、神の国は近いと知りなさい。"
+    },
+    {
+      "number": 32,
+      "ko": "내가 진실로 너희에게 말하노니 이 세대가 지나가기 전에 모든 일이 다 이루어지리라",
+      "en": "\"I tell you the truth, this generation will certainly not pass away until all these things have happened.",
+      "de": "Wahrlich ich sage euch: Dies Geschlecht wird nicht vergehen, bis daß es alles geschehe.",
+      "zh": "天地要废去，我的话却不能废去。」",
+      "ja": "まことに、あなたがたに告げます。すべてのことが起こってしまうまでは、この時代は過ぎ去りません。"
+    },
+    {
+      "number": 33,
+      "ko": "천지는 없어지겠으나 내 말은 없어지지 아니하리라",
+      "en": "Heaven and earth will pass away, but my words will never pass away.",
+      "de": "Himmel und Erde werden vergehen; aber meine Worte vergehen nicht.",
+      "zh": "「你们要谨慎，恐怕因贪食、醉酒，并今生的思虑累住你们的心，那日子就如同网罗忽然临到你们；",
+      "ja": "この天地は滅びます。しかし、わたしのことばは決して滅びることがありません。"
+    },
+    {
+      "number": 34,
+      "ko": "너희는 스스로 조심하라 그렇지 않으면 방탕함과 술취함과 생활의 염려로 마음이 둔하여지고 뜻밖에 그 날이 덫과 같이 너희에게 임하리라",
+      "en": "\"Be careful, or your hearts will be weighed down with dissipation, drunkenness and the anxieties of life, and that day will close on you unexpectedly like a trap.",
+      "de": "Hütet euch aber, daß eure Herzen nicht beschwert werden mit Fressen und Saufen und mit Sorgen der Nahrung und komme dieser Tag schnell über euch;",
+      "zh": "因为那日子要这样临到全地上一切居住的人。",
+      "ja": "あなたがたの心が、放蕩や深酒やこの世の煩いのために沈み込んでいるところに、その日がわなのように、突然あなたがたに臨むことのないように、よく気をつけていなさい。"
+    },
+    {
+      "number": 35,
+      "ko": "이 날은 온 지구상에 거하는 모든 사람에게 임하리라",
+      "en": "For it will come upon all those who live on the face of the whole earth.",
+      "de": "denn wie ein Fallstrick wird er kommen über alle, die auf Erden wohnen.",
+      "zh": "你们要时时警醒，常常祈求，使你们能逃避这一切要来的事，得以站立在人子面前。」",
+      "ja": "その日は、全地の表に住むすべての人に臨むからです。"
+    },
+    {
+      "number": 36,
+      "ko": "이러므로 너희는 장차 올 이 모든 일을 능히 피하고 인자 앞에 서도록 항상 기도하며 깨어 있으라 하시니라",
+      "en": "Be always on the watch, and pray that you may be able to escape all that is about to happen, and that you may be able to stand before the Son of Man.\"",
+      "de": "So seid nun wach allezeit und betet, daß ihr würdig werden möget, zu entfliehen diesem allem, das geschehen soll, und zu stehen vor des Menschen Sohn.",
+      "zh": "耶稣每日在殿里教训人，每夜出城在一座山，名叫橄榄山住宿。",
+      "ja": "しかし、あなたがたは、やがて起ころうとしているこれらすべてのことからのがれ、人の子の前に立つことができるように、いつも油断せずに祈っていなさい。」"
+    },
+    {
+      "number": 37,
+      "ko": "예수께서 낮에는 성전에서 가르치시고 밤에는 나가 감람원이라 하는 산에서 쉬시니",
+      "en": "Each day Jesus was teaching at the temple, and each evening he went out to spend the night on the hill called the Mount of Olives,",
+      "de": "Und er lehrte des Tages im Tempel; des Nachts aber ging er hinaus und blieb über Nacht am Ölberge.",
+      "zh": "众百姓清早上圣殿，到耶稣那里，要听他讲道。",
+      "ja": "さてイエスは、昼は宮で教え、夜はいつも外に出てオリーブという山で過ごされた。"
+    },
+    {
+      "number": 38,
+      "ko": "모든 백성이 그 말씀을 들으려고 이른 아침에 성전에 나아가더라",
+      "en": "and all the people came early in the morning to hear him at the temple.",
+      "de": "Und alles Volk machte sich früh auf zu ihm, im Tempel ihn zu hören.",
+      "zh": "",
+      "ja": "民衆はみな朝早く起きて、教えを聞こうとして、宮におられるイエスのもとに集まって来た。"
+    }
+  ]
+}

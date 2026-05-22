@@ -1,0 +1,342 @@
+{
+  "book": "Matthew",
+  "chapter": 10,
+  "verses": [
+    {
+      "number": 1,
+      "ko": "예수께서 그의 열두 제자를 부르사 더러운 귀신을 쫓아내며 모든 병과 모든 약한 것을 고치는 권능을 주시니라",
+      "en": "He called his twelve disciples to him and gave them authority to drive out evil spirits and to heal every disease and sickness.",
+      "de": "Und er rief seine zwölf Jünger zu sich und gab ihnen Macht über die unsauberen Geister, daß sie sie austrieben und heilten allerlei Seuche und allerlei Krankheit.",
+      "zh": "耶稣叫了十二个门徒来，给他们权柄，能赶逐污鬼，并医治各样的病症。",
+      "ja": "イエスは十二弟子を呼び寄せて、汚れた霊どもを制する権威をお授けになった。霊どもを追い出し、あらゆる病気、あらゆるわずらいを直すためであった。"
+    },
+    {
+      "number": 2,
+      "ko": "열두 사도의 이름은 이러하니 베드로라 하는 시몬을 비롯하여 그의 형제 안드레와 세베대의 아들 야고보와 그의 형제 요한,",
+      "en": "These are the names of the twelve apostles: first, Simon (who is called Peter) and his brother Andrew; James son of Zebedee, and his brother John;",
+      "de": "Die Namen aber der zwölf Apostel sind diese: der erste Simon, genannt Petrus, und Andreas, sein Bruder; Jakobus, des Zebedäus Sohn, und Johannes, sein Bruder;",
+      "zh": "这十二使徒的名：头一个叫西门（又称彼得），还有他兄弟安得烈，西庇太的儿子雅各和雅各的兄弟约翰，",
+      "ja": "さて、十二使徒の名は次のとおりである。まず、ペテロと呼ばれるシモンとその兄弟アンデレ、ゼベダイの子ヤコブとその兄弟ヨハネ、"
+    },
+    {
+      "number": 3,
+      "ko": "빌립과 바돌로매, 도마와 세리 마태, 알패오의 아들 야고보와 다대오,",
+      "en": "Philip and Bartholomew; Thomas and Matthew the tax collector; James son of Alphaeus, and Thaddaeus;",
+      "de": "Philippus und Bartholomäus; Thomas und Matthäus, der Zöllner; Jakobus, des Alphäus Sohn, Lebbäus, mit dem Zunamen Thaddäus;",
+      "zh": "腓力和巴多罗买，多马和税吏马太，亚勒腓的儿子雅各，和达太，",
+      "ja": "ピリポとバルトロマイ、トマスと取税人マタイ、アルパヨの子ヤコブとタダイ、"
+    },
+    {
+      "number": 4,
+      "ko": "가나나인 시몬 및 가룟 유다 곧 예수를 판 자라",
+      "en": "Simon the Zealot and Judas Iscariot, who betrayed him.",
+      "de": "Simon von Kana und Judas Ischariot, welcher ihn verriet.",
+      "zh": "奋锐党的西门，还有卖耶稣的加略人犹大。",
+      "ja": "熱心党員シモンとイエスを裏切ったイスカリオテ・ユダである。"
+    },
+    {
+      "number": 5,
+      "ko": "예수께서 이 열둘을 내보내시며 명하여 이르시되 이방인의 길로도 가지 말고 사마리아인의 고을에도 들어가지 말고",
+      "en": "These twelve Jesus sent out with the following instructions: \"Do not go among the Gentiles or enter any town of the Samaritans.",
+      "de": "Diese zwölf sandte Jesus, gebot ihnen und sprach: Gehet nicht auf der Heiden Straße und ziehet nicht in der Samariter Städte,",
+      "zh": "耶稣差这十二个人去，吩咐他们说：「外邦人的路，你们不要走；撒马利亚人的城，你们不要进；",
+      "ja": "イエスは、この十二人を遣わし、そのとき彼らにこう命じられた。「異邦人の道に行ってはいけません。サマリヤ人の町にはいってはいけません。"
+    },
+    {
+      "number": 6,
+      "ko": "오히려 이스라엘 집의 잃어버린 양에게로 가라",
+      "en": "Go rather to the lost sheep of Israel.",
+      "de": "sondern gehet hin zu den verlorenen Schafen aus dem Hause Israel.",
+      "zh": "宁可往以色列家迷失的羊那里去。",
+      "ja": "イスラエルの家の滅びた羊のところに行きなさい。"
+    },
+    {
+      "number": 7,
+      "ko": "가면서 전파하여 말하되 천국이 가까이 왔다 하고",
+      "en": "As you go, preach this message: 'The kingdom of heaven is near.'",
+      "de": "Geht aber und predigt und sprecht: Das Himmelreich ist nahe herbeigekommen.",
+      "zh": "随走随传，说『天国近了！』",
+      "ja": "行って、『天の御国が近づいた。』と宣べ伝えなさい。"
+    },
+    {
+      "number": 8,
+      "ko": "병든 자를 고치며 죽은 자를 살리며 나병환자를 깨끗하게 하며 귀신을 쫓아내되 너희가 거저 받았으니 거저 주라",
+      "en": "Heal the sick, raise the dead, cleanse those who have leprosy, drive out demons. Freely you have received, freely give.",
+      "de": "Macht die Kranken gesund, reinigt die Aussätzigen, weckt die Toten auf, treibt die Teufel aus. Umsonst habt ihr's empfangen, umsonst gebt es auch.",
+      "zh": "医治病人，叫死人复活，叫长大麻风的洁净，把鬼赶出去。你们白白地得来，也要白白地舍去。",
+      "ja": "病人を直し、死人を生き返らせ、らい病人をきよめ、悪霊を追い出しなさい。あなたがたは、ただで受けたのだから、ただで与えなさい。"
+    },
+    {
+      "number": 9,
+      "ko": "너희 전대에 금이나 은이나 동을 가지지 말고",
+      "en": "Do not take along any gold or silver or copper in your belts;",
+      "de": "Ihr sollt nicht Gold noch Silber noch Erz in euren Gürteln haben,",
+      "zh": "腰袋里不要带金银铜钱；",
+      "ja": "胴巻に金貨や銀貨や銅貨を入れてはいけません。"
+    },
+    {
+      "number": 10,
+      "ko": "여행을 위하여 배낭이나 두 벌 옷이나 신이나 지팡이를 가지지 말라 이는 일꾼이 자기의 먹을 것 받는 것이 마땅함이라",
+      "en": "take no bag for the journey, or extra tunic, or sandals or a staff; for the worker is worth his keep.",
+      "de": "auch keine Tasche zur Wegfahrt, auch nicht zwei Röcke, keine Schuhe, auch keinen Stecken. Denn ein Arbeiter ist seiner Speise wert.",
+      "zh": "行路不要带口袋；不要带两件褂子，也不要带鞋和拐杖。因为工人得饮食是应当的。",
+      "ja": "旅行用の袋も、二枚目の下着も、くつも、杖も持たずに行きなさい。働く者が食べ物を与えられるのは当然だからです。"
+    },
+    {
+      "number": 11,
+      "ko": "어떤 성이나 마을에 들어가든지 그 중에 합당한 자를 찾아내어 너희가 떠나기까지 거기서 머물라",
+      "en": "\"Whatever town or village you enter, search for some worthy person there and stay at his house until you leave.",
+      "de": "Wo ihr aber in eine Stadt oder einen Markt geht, da erkundigt euch, ob jemand darin sei, der es wert ist; und bei demselben bleibet, bis ihr von dannen zieht.",
+      "zh": "你们无论进哪一城，哪一村，要打听那里谁是好人，就住在他家，直住到走的时候。",
+      "ja": "どんな町や村にはいっても、そこでだれが適当な人かを調べて、そこを立ち去るまで、その人のところにとどまりなさい。"
+    },
+    {
+      "number": 12,
+      "ko": "또 그 집에 들어가면서 평안하기를 빌라",
+      "en": "As you enter the home, give it your greeting.",
+      "de": "Wo ihr aber in ein Haus geht, so grüßt es;",
+      "zh": "进他家里去，要请他的安。",
+      "ja": "その家にはいるときには、平安を祈るあいさつをしなさい。"
+    },
+    {
+      "number": 13,
+      "ko": "그 집이 이에 합당하면 너희 빈 평안이 거기 임할 것이요 만일 합당하지 아니하면 그 평안이 너희에게 돌아올 것이니라",
+      "en": "If the home is deserving, let your peace rest on it; if it is not, let your peace return to you.",
+      "de": "und so es das Haus wert ist, wird euer Friede auf sie kommen. Ist es aber nicht wert, so wird sich euer Friede wieder zu euch wenden.",
+      "zh": "那家若配得平安，你们所求的平安就必临到那家；若不配得，你们所求的平安仍归你们。",
+      "ja": "その家がそれにふさわしい家なら、その平安はきっとその家に来るし、もし、ふさわしい家でないなら、その平安はあなたがたのところに返って来ます。"
+    },
+    {
+      "number": 14,
+      "ko": "누구든지 너희를 영접하지도 아니하고 너희 말을 듣지도 아니하거든 그 집이나 성에서 나가 너희 발의 먼지를 떨어 버리라",
+      "en": "If anyone will not welcome you or listen to your words, shake the dust off your feet when you leave that home or town.",
+      "de": "Und wo euch jemand nicht annehmen wird noch eure Rede hören, so geht heraus von demselben Haus oder der Stadt und schüttelt den Staub von euren Füßen.",
+      "zh": "凡不接待你们、不听你们话的人，你们离开那家，或是那城的时候，就把脚上的尘土跺下去。",
+      "ja": "もしだれも、あなたがたを受け入れず、あなたがたのことばに耳を傾けないなら、その家またはその町を出て行くときに、あなたがたの足のちりを払い落としなさい。"
+    },
+    {
+      "number": 15,
+      "ko": "내가 진실로 너희에게 이르노니 심판 날에 소돔과 고모라 땅이 그 성보다 견디기 쉬우리라",
+      "en": "I tell you the truth, it will be more bearable for Sodom and Gomorrah on the day of judgment than for that town.",
+      "de": "Wahrlich ich sage euch: Dem Lande der Sodomer und Gomorrer wird es erträglicher gehen am Jüngsten Gericht denn solcher Stadt.",
+      "zh": "我实在告诉你们，当审判的日子，所多玛和蛾摩拉所受的，比那城还容易受呢！」",
+      "ja": "まことに、あなたがたに告げます。さばきの日には、ソドムとゴモラの地でも、その町よりはまだ罰が軽いのです。"
+    },
+    {
+      "number": 16,
+      "ko": "보라 내가 너희를 보냄이 양을 이리 가운데로 보냄과 같도다 그러므로 너희는 뱀 같이 지혜롭고 비둘기 같이 순결하라",
+      "en": "I am sending you out like sheep among wolves. Therefore be as shrewd as snakes and as innocent as doves.",
+      "de": "Siehe, ich sende euch wie Schafe mitten unter die Wölfe; darum seid klug wie die Schlangen und ohne Falsch wie die Tauben.",
+      "zh": "「我差你们去，如同羊进入狼群；所以你们要灵巧像蛇，驯良像鸽子。",
+      "ja": "いいですか。わたしが、あなたがたを遣わすのは、狼の中に羊を送り出すようなものです。ですから、蛇のようにさとく、鳩のようにすなおでありなさい。"
+    },
+    {
+      "number": 17,
+      "ko": "사람들을 삼가라 그들이 너희를 공회에 넘겨 주겠고 그들의 회당에서 채찍질하리라",
+      "en": "\"Be on your guard against men; they will hand you over to the local councils and flog you in their synagogues.",
+      "de": "Hütet euch vor den Menschen; denn sie werden euch überantworten vor ihre Rathäuser und werden euch geißeln in ihren Schulen.",
+      "zh": "你们要防备人；因为他们要把你们交给公会，也要在会堂里鞭打你们，",
+      "ja": "人々には用心しなさい。彼らはあなたがたを議会に引き渡し、会堂でむち打ちますから。"
+    },
+    {
+      "number": 18,
+      "ko": "또 너희가 나로 말미암아 총독들과 임금들 앞에 끌려 가리니 이는 그들과 이방인들에게 증거가 되게 하려 하심이라",
+      "en": "On my account you will be brought before governors and kings as witnesses to them and to the Gentiles.",
+      "de": "Und man wird euch vor Fürsten und Könige führen um meinetwillen, zum Zeugnis über sie und über die Heiden.",
+      "zh": "并且你们要为我的缘故被送到诸侯君王面前，对他们和外邦人作见证。",
+      "ja": "また、あなたがたは、わたしのゆえに、総督たちや王たちの前に連れて行かれます。それは、彼らと異邦人たちにあかしをするためです。"
+    },
+    {
+      "number": 19,
+      "ko": "너희를 넘겨 줄 때에 어떻게 또는 무엇을 말할까 염려하지 말라 그 때에 너희에게 할 말을 주시리니",
+      "en": "But when they arrest you, do not worry about what to say or how to say it. At that time you will be given what to say,",
+      "de": "Wenn sie euch nun überantworten werden, so sorget nicht, wie oder was ihr reden sollt; denn es soll euch zu der Stunde gegeben werden, was ihr reden sollt.",
+      "zh": "你们被交的时候，不要思虑怎样说话，或说什么话。到那时候，必赐给你们当说的话；",
+      "ja": "人々があなたがたを引き渡したとき、どのように話そうか、何を話そうかと心配するには及びません。話すべきことは、そのとき示されるからです。"
+    },
+    {
+      "number": 20,
+      "ko": "말하는 이는 너희가 아니라 너희 속에서 말씀하시는 이 곧 너희 아버지의 성령이시니라",
+      "en": "for it will not be you speaking, but the Spirit of your Father speaking through you.",
+      "de": "Denn ihr seid es nicht, die da reden, sondern eures Vaters Geist ist es, der durch euch redet.",
+      "zh": "因为不是你们自己说的，乃是你们父的灵在你们里头说的。",
+      "ja": "というのは、話すのはあなたがたではなく、あなたがたのうちにあって話されるあなたがたの父の御霊だからです。"
+    },
+    {
+      "number": 21,
+      "ko": "장차 형제가 형제를, 아버지가 자식을 죽는 데에 내주며 자식들이 부모를 대적하여 죽게 하리라",
+      "en": "\"Brother will betray brother to death, and a father his child; children will rebel against their parents and have them put to death.",
+      "de": "Es wird aber ein Bruder den andern zum Tod überantworten und der Vater den Sohn, und die Kinder werden sich empören wider die Eltern und ihnen zum Tode helfen.",
+      "zh": "弟兄要把弟兄，父亲要把儿子，送到死地；儿女要与父母为敌，害死他们；",
+      "ja": "兄弟は兄弟を死に渡し、父は子を死に渡し、子どもたちは両親に立ち逆らって、彼らを死なせます。"
+    },
+    {
+      "number": 22,
+      "ko": "또 너희가 내 이름으로 말미암아 모든 사람에게 미움을 받을 것이나 끝까지 견디는 자는 구원을 얻으리라",
+      "en": "All men will hate you because of me, but he who stands firm to the end will be saved.",
+      "de": "Und ihr müsset gehaßt werden von jedermann um meines Namens willen. Wer aber bis an das Ende beharrt, der wird selig.",
+      "zh": "并且你们要为我的名被众人恨恶。惟有忍耐到底的必然得救。",
+      "ja": "また、わたしの名のために、あなたがたはすべての人々に憎まれます。しかし、最後まで耐え忍ぶ者は救われます。"
+    },
+    {
+      "number": 23,
+      "ko": "이 동네에서 너희를 박해하거든 저 동네로 피하라 내가 진실로 너희에게 이르노니 이스라엘의 모든 동네를 다 다니지 못하여서 인자가 오리라",
+      "en": "When you are persecuted in one place, flee to another. I tell you the truth, you will not finish going through the cities of Israel before the Son of Man comes.",
+      "de": "Wenn sie euch aber in einer Stadt verfolgen, so flieht in eine andere. Wahrlich ich sage euch: Ihr werdet mit den Städten Israels nicht zu Ende kommen, bis des Menschen Sohn kommt.",
+      "zh": "有人在这城里逼迫你们，就逃到那城里去。我实在告诉你们，以色列的城邑，你们还没有走遍，人子就到了。",
+      "ja": "彼らがこの町であなたがたを迫害するなら、次の町にのがれなさい。というわけは、確かなことをあなたがたに告げるのですが、人の子が来るときまでに、あなたがたは決してイスラエルの町々を巡り尽くせないからです。"
+    },
+    {
+      "number": 24,
+      "ko": "제자가 그 선생보다, 또는 종이 그 상전보다 높지 못하나니",
+      "en": "\"A student is not above his teacher, nor a servant above his master.",
+      "de": "Der Jünger ist nicht über seinen Meister noch der Knecht über den Herrn.",
+      "zh": "学生不能高过先生；仆人不能高过主人。",
+      "ja": "弟子はその師にまさらず、しもべはその主人にまさりません。"
+    },
+    {
+      "number": 25,
+      "ko": "제자가 그 선생 같고 종이 그 상전 같으면 족하도다 집 주인을 바알세불이라 하였거든 하물며 그 집 사람들이랴",
+      "en": "It is enough for the student to be like his teacher, and the servant like his master. If the head of the house has been called Beelzebub, how much more the members of his household!",
+      "de": "Es ist dem Jünger genug, daß er sei wie sein Meister und der Knecht wie sein Herr. Haben sie den Hausvater Beelzebub geheißen, wie viel mehr werden sie seine Hausgenossen also heißen!",
+      "zh": "学生和先生一样，仆人和主人一样，也就罢了。人既骂家主是别西卜，何况他的家人呢？」",
+      "ja": "弟子がその師のようになれたら十分だし、しもべがその主人のようになれたら十分です。彼らは家長をベルゼブルと呼ぶぐらいですから、ましてその家族の者のことは、何と呼ぶでしょう。"
+    },
+    {
+      "number": 26,
+      "ko": "그런즉 그들을 두려워하지 말라 감추인 것이 드러나지 않을 것이 없고 숨은 것이 알려지지 않을 것이 없느니라",
+      "en": "\"So do not be afraid of them. There is nothing concealed that will not be disclosed, or hidden that will not be made known.",
+      "de": "So fürchtet euch denn nicht vor ihnen. Es ist nichts verborgen, das es nicht offenbar werde, und ist nichts heimlich, das man nicht wissen werde.",
+      "zh": "「所以，不要怕他们；因为掩盖的事没有不露出来的，隐藏的事没有不被人知道的。",
+      "ja": "だから、彼らを恐れてはいけません。おおわれているもので、現わされないものはなく、隠されているもので知られずに済むものはありません。"
+    },
+    {
+      "number": 27,
+      "ko": "내가 너희에게 어두운 데서 이르는 것을 광명한 데서 말하며 너희가 귓속말로 듣는 것을 집 위에서 전파하라",
+      "en": "What I tell you in the dark, speak in the daylight; what is whispered in your ear, proclaim from the roofs.",
+      "de": "Was ich euch sage in der Finsternis, das redet im Licht; und was ihr hört in das Ohr, das predigt auf den Dächern.",
+      "zh": "我在暗中告诉你们的，你们要在明处说出来；你们耳中所听的，要在房上宣扬出来。",
+      "ja": "わたしが暗やみであなたがたに話すことを明るみで言いなさい。また、あなたがたが耳もとで聞くことを屋上で言い広めなさい。"
+    },
+    {
+      "number": 28,
+      "ko": "몸은 죽여도 영혼은 능히 죽이지 못하는 자들을 두려워하지 말고 오직 몸과 영혼을 능히 지옥에 멸하실 수 있는 이를 두려워하라",
+      "en": "Do not be afraid of those who kill the body but cannot kill the soul. Rather, be afraid of the One who can destroy both soul and body in hell.",
+      "de": "Und fürchtet euch nicht vor denen, die den Leib töten, und die Seele nicht können töten; fürchtet euch aber vielmehr vor dem, der Leib und Seele verderben kann in der Hölle.",
+      "zh": "那杀身体、不能杀灵魂的，不要怕他们；惟有能把身体和灵魂都灭在地狱里的，正要怕他。",
+      "ja": "からだを殺しても、たましいを殺せない人たちなどを恐れてはなりません。そんなものより、たましいもからだも、ともにゲヘナで滅ぼすことのできる方を恐れなさい。"
+    },
+    {
+      "number": 29,
+      "ko": "참새 두 마리가 한 앗사리온에 팔리지 않느냐 그러나 너희 아버지께서 허락하지 아니하시면 그 하나도 땅에 떨어지지 아니하리라",
+      "en": "Are not two sparrows sold for a penny? Yet not one of them will fall to the ground apart from the will of your Father.",
+      "de": "Kauft man nicht zwei Sperlinge um einen Pfennig? Dennoch fällt deren keiner auf die Erde ohne euren Vater.",
+      "zh": "两个麻雀不是卖一分银子吗？若是你们的父不许，一个也不能掉在地上；",
+      "ja": "二羽の雀は一アサリオンで売っているでしょう。しかし、そんな雀の一羽でも、あなたがたの父のお許しなしには地に落ちることはありません。"
+    },
+    {
+      "number": 30,
+      "ko": "너희에게는 머리털까지 다 세신 바 되었나니",
+      "en": "And even the very hairs of your head are all numbered.",
+      "de": "Nun aber sind auch eure Haare auf dem Haupte alle gezählt.",
+      "zh": "就是你们的头发也都被数过了。",
+      "ja": "また、あなたがたの頭の毛さえも、みな数えられています。"
+    },
+    {
+      "number": 31,
+      "ko": "두려워하지 말라 너희는 많은 참새보다 귀하니라",
+      "en": "So don't be afraid; you are worth more than many sparrows.",
+      "de": "So fürchtet euch denn nicht; ihr seid besser als viele Sperlinge.",
+      "zh": "所以，不要惧怕，你们比许多麻雀还贵重！」",
+      "ja": "だから恐れることはありません。あなたがたは、たくさんの雀よりもすぐれた者です。"
+    },
+    {
+      "number": 32,
+      "ko": "누구든지 사람 앞에서 나를 시인하면 나도 하늘에 계신 내 아버지 앞에서 그를 시인할 것이요",
+      "en": "\"Whoever acknowledges me before men, I will also acknowledge him before my Father in heaven.",
+      "de": "Wer nun mich bekennet vor den Menschen, den will ich bekennen vor meinem himmlischen Vater.",
+      "zh": "「凡在人面前认我的，我在我天上的父面前也必认他；",
+      "ja": "ですから、わたしを人の前で認める者はみな、わたしも、天におられるわたしの父の前でその人を認めます。"
+    },
+    {
+      "number": 33,
+      "ko": "누구든지 사람 앞에서 나를 부인하면 나도 하늘에 계신 내 아버지 앞에서 그를 부인하리라",
+      "en": "But whoever disowns me before men, I will disown him before my Father in heaven.",
+      "de": "Wer mich aber verleugnet vor den Menschen, den will ich auch verleugnen vor meinem himmlischen Vater.",
+      "zh": "凡在人面前不认我的，我在我天上的父面前也必不认他。」",
+      "ja": "しかし、人の前でわたしを知らないと言うような者なら、わたしも天におられるわたしの父の前で、そんな者は知らないと言います。"
+    },
+    {
+      "number": 34,
+      "ko": "내가 세상에 화평을 주러 온 줄로 생각하지 말라 화평이 아니요 검을 주러 왔노라",
+      "en": "\"Do not suppose that I have come to bring peace to the earth. I did not come to bring peace, but a sword.",
+      "de": "Ihr sollt nicht wähnen, daß ich gekommen sei, Frieden zu senden auf die Erde. Ich bin nicht gekommen, Frieden zu senden, sondern das Schwert.",
+      "zh": "「你们不要想我来是叫地上太平；我来并不是叫地上太平，乃是叫地上动刀兵。",
+      "ja": "わたしが来たのは地に平和をもたらすためだと思ってはなりません。わたしは、平和をもたらすために来たのではなく、剣をもたらすために来たのです。"
+    },
+    {
+      "number": 35,
+      "ko": "내가 온 것은 사람이 그 아버지와, 딸이 어머니와, 며느리가 시어머니와 불화하게 하려 함이니",
+      "en": "For I have come to turn \"'a man against his father, a daughter against her mother, a daughter-in-law against her mother-in-law--",
+      "de": "Denn ich bin gekommen, den Menschen zu erregen gegen seinen Vater und die Tochter gegen ihre Mutter und die Schwiegertochter gegen ihre Schwiegermutter.",
+      "zh": "因为我来是叫 人与父亲生疏， 女儿与母亲生疏， 媳妇与婆婆生疏。",
+      "ja": "なぜなら、わたしは人をその父に、娘をその母に、嫁をそのしゅうとめに逆らわせるために来たからです。"
+    },
+    {
+      "number": 36,
+      "ko": "사람의 원수가 자기 집안 식구리라",
+      "en": "a man's enemies will be the members of his own household.'",
+      "de": "Und des Menschen Feinde werden seine eigenen Hausgenossen sein.",
+      "zh": "人的仇敌就是自己家里的人。",
+      "ja": "さらに、家族の者がその人の敵となります。"
+    },
+    {
+      "number": 37,
+      "ko": "아버지나 어머니를 나보다 더 사랑하는 자는 내게 합당하지 아니하고 아들이나 딸을 나보다 더 사랑하는 자도 내게 합당하지 아니하며",
+      "en": "\"Anyone who loves his father or mother more than me is not worthy of me; anyone who loves his son or daughter more than me is not worthy of me;",
+      "de": "Wer Vater oder Mutter mehr liebt denn mich, der ist mein nicht wert; und wer Sohn oder Tochter mehr liebt denn mich, der ist mein nicht wert.",
+      "zh": "「爱父母过于爱我的，不配作我的门徒；爱儿女过于爱我的，不配作我的门徒；",
+      "ja": "わたしよりも父や母を愛する者は、わたしにふさわしい者ではありません。また、わたしよりも息子や娘を愛する者は、わたしにふさわしい者ではありません。"
+    },
+    {
+      "number": 38,
+      "ko": "또 자기 십자가를 지고 나를 따르지 않는 자도 내게 합당하지 아니하니라",
+      "en": "and anyone who does not take his cross and follow me is not worthy of me.",
+      "de": "Und wer nicht sein Kreuz auf sich nimmt und folgt mir nach, der ist mein nicht wert.",
+      "zh": "不背着他的十字架跟从我的，也不配作我的门徒。",
+      "ja": "自分の十字架を負ってわたしについて来ない者は、わたしにふさわしい者ではありません。"
+    },
+    {
+      "number": 39,
+      "ko": "자기 목숨을 얻는 자는 잃을 것이요 나를 위하여 자기 목숨을 잃는 자는 얻으리라",
+      "en": "Whoever finds his life will lose it, and whoever loses his life for my sake will find it.",
+      "de": "Wer sein Leben findet, der wird's verlieren; und wer sein Leben verliert um meinetwillen, der wird's finden.",
+      "zh": "得着生命的，将要失丧生命；为我失丧生命的，将要得着生命。」",
+      "ja": "自分のいのちを自分のものとした者はそれを失い、わたしのために自分のいのちを失った者は、それを自分のものとします。"
+    },
+    {
+      "number": 40,
+      "ko": "너희를 영접하는 자는 나를 영접하는 것이요 나를 영접하는 자는 나를 보내신 이를 영접하는 것이니라",
+      "en": "\"He who receives you receives me, and he who receives me receives the one who sent me.",
+      "de": "Wer euch aufnimmt, der nimmt mich auf; und wer mich aufnimmt, der nimmt den auf, der mich gesandt hat.",
+      "zh": "「人接待你们就是接待我；接待我就是接待那差我来的。",
+      "ja": "あなたがたを受け入れる者は、わたしを受け入れるのです。また、わたしを受け入れる者は、わたしを遣わした方を受け入れるのです。"
+    },
+    {
+      "number": 41,
+      "ko": "선지자의 이름으로 선지자를 영접하는 자는 선지자의 상을 받을 것이요 의인의 이름으로 의인을 영접하는 자는 의인의 상을 받을 것이요",
+      "en": "Anyone who receives a prophet because he is a prophet will receive a prophet's reward, and anyone who receives a righteous man because he is a righteous man will receive a righteous man's reward.",
+      "de": "Wer einen Propheten aufnimmt in eines Propheten Namen, der wird eines Propheten Lohn empfangen. Wer einen Gerechten aufnimmt in eines Gerechten Namen, der wird eines Gerechten Lohn empfangen.",
+      "zh": "人因为先知的名接待先知，必得先知所得的赏赐；人因为义人的名接待义人，必得义人所得的赏赐。",
+      "ja": "預言者を預言者だというので受け入れる者は、預言者の受ける報いを受けます。また、義人を義人だということで受け入れる者は、義人の受ける報いを受けます。"
+    },
+    {
+      "number": 42,
+      "ko": "또 누구든지 제자의 이름으로 이 작은 자 중 하나에게 냉수 한 그릇이라도 주는 자는 내가 진실로 너희에게 이르노니 그 사람이 결단코 상을 잃지 아니하리라 하시니라",
+      "en": "And if anyone gives even a cup of cold water to one of these little ones because he is my disciple, I tell you the truth, he will certainly not lose his reward.\" MAT",
+      "de": "Und wer dieser Geringsten einen nur mit einem Becher kalten Wassers tränkt in eines Jüngers Namen, wahrlich ich sage euch: es wird ihm nicht unbelohnt bleiben.",
+      "zh": "无论何人，因为门徒的名，只把一杯凉水给这小子里的一个喝，我实在告诉你们，这人不能不得赏赐。」",
+      "ja": "わたしの弟子だというので、この小さい者たちのひとりに、水一杯でも飲ませるなら、まことに、あなたがたに告げます。その人は決して報いに漏れることはありません。」"
+    }
+  ]
+}

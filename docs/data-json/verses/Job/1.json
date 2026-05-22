@@ -1,0 +1,182 @@
+{
+  "book": "Job",
+  "chapter": 1,
+  "verses": [
+    {
+      "number": 1,
+      "ko": "우스 땅에 욥이라 불리는 사람이 있었는데 그 사람은 온전하고 정직하여 하나님을 경외하며 악에서 떠난 자더라",
+      "en": "In the land of Uz there lived a man whose name was Job. This man was blameless and upright; he feared God and shunned evil.",
+      "de": "Es war ein Mann im Lande Uz, der hieß Hiob. Derselbe war schlecht und recht, gottesfürchtig und mied das Böse.",
+      "zh": "乌斯地有一个人名叫约伯；那人完全正直，敬畏　神，远离恶事。",
+      "ja": "ウヅの地にヨブと名くる人あり 其人と爲完全かつ正くして神を畏れ惡に遠ざかる"
+    },
+    {
+      "number": 2,
+      "ko": "그에게 아들 일곱과 딸 셋이 태어나니라",
+      "en": "He had seven sons and three daughters,",
+      "de": "Und zeugte sieben Söhne und drei Töchter;",
+      "zh": "他生了七个儿子，三个女儿。",
+      "ja": "その生る者は男の子七人女の子三人"
+    },
+    {
+      "number": 3,
+      "ko": "그의 소유물은 양이 칠천 마리요 낙타가 삼천 마리요 소가 오백 겨리요 암나귀가 오백 마리이며 종도 많이 있었으니 이 사람은 동방 사람 중에 가장 훌륭한 자라",
+      "en": "and he owned seven thousand sheep, three thousand camels, five hundred yoke of oxen and five hundred donkeys, and had a large number of servants. He was the greatest man among all the people of the East.",
+      "de": "und seines Viehs waren siebentausend Schafe, dreitausend Kamele, fünfhundert Joch Rinder und fünfhundert Eselinnen, und er hatte viel Gesinde; und er war herrlicher denn alle, die gegen Morgen wohnten.",
+      "zh": "他的家产有七千羊，三千骆驼，五百对牛，五百母驴，并有许多仆婢。这人在东方人中就为至大。",
+      "ja": "その所有物は羊七千 駱駝三千 牛五百軛 牝驢馬五百 僕も夥多しくあり 此人は東の人の中にて最も大なる者なり"
+    },
+    {
+      "number": 4,
+      "ko": "그의 아들들이 자기 생일에 각각 자기의 집에서 잔치를 베풀고 그의 누이 세 명도 청하여 함께 먹고 마시더라",
+      "en": "His sons used to take turns holding feasts in their homes, and they would invite their three sisters to eat and drink with them.",
+      "de": "Und seine Söhne gingen und machten ein Mahl, ein jeglicher in seinem Hause auf seinen Tag, und sandten hin und luden ihre drei Schwestern, mit ihnen zu essen und zu trinken.",
+      "zh": "他的儿子按着日子各在自己家里设摆筵宴，就打发人去，请了他们的三个姊妹来，与他们一同吃喝。",
+      "ja": "その子等おのおの己の家にて己の日に宴筵を設くる事を爲し その三人の姉妹をも招きて與に食飮せしむ"
+    },
+    {
+      "number": 5,
+      "ko": "그들이 차례대로 잔치를 끝내면 욥이 그들을 불러다가 성결하게 하되 아침에 일어나서 그들의 명수대로 번제를 드렸으니 이는 욥이 말하기를 혹시 내 아들들이 죄를 범하여 마음으로 하나님을 욕되게 하였을까 함이라 욥의 행위가 항상 이러하였더라",
+      "en": "When a period of feasting had run its course, Job would send and have them purified. Early in the morning he would sacrifice a burnt offering for each of them, thinking, \"Perhaps my children have sinned and cursed God in their hearts.\" This was Job's regular custom.",
+      "de": "Und wenn die Tage des Mahls um waren, sandte Hiob hin und heiligte sie und machte sich des Morgens früh auf und opferte Brandopfer nach ihrer aller Zahl; denn Hiob gedachte: Meine Söhne möchten gesündigt und Gott abgesagt haben in ihrem Herzen. Also tat Hiob allezeit.",
+      "zh": "筵宴的日子过了，约伯打发人去叫他们自洁。他清早起来，按着他们众人的数目献燔祭；因为他说：「恐怕我儿子犯了罪，心中弃掉　神。」约伯常常这样行。",
+      "ja": "その宴筵の日はつる毎にヨブかならず彼らを召よせて潔む 即ち朝はやく興き彼ら一切の數にしたがひて燔祭を獻ぐ 是はヨブ我子ら罪を犯し心を神を忘れたらんも知べからずと謂てなり ヨブの爲ところ常に是のごとし"
+    },
+    {
+      "number": 6,
+      "ko": "하루는 하나님의 아들들이 와서 여호와 앞에 섰고 사탄도 그들 가운데에 온지라",
+      "en": "One day the angels came to present themselves before the LORD, and Satan also came with them.",
+      "de": "Es begab sich aber auf einen Tag, da die Kinder Gottes kamen und vor den HERRN traten, kam der Satan auch unter ihnen.",
+      "zh": "有一天，　神的众子来侍立在耶和华面前，撒但也来在其中。",
+      "ja": "或日神の子等きたりてヱホバの前に立つ サタンも來りてその中にあり"
+    },
+    {
+      "number": 7,
+      "ko": "여호와께서 사탄에게 이르시되 네가 어디서 왔느냐 사탄이 여호와께 대답하여 이르되 땅을 두루 돌아 여기저기 다녀왔나이다",
+      "en": "The LORD said to Satan, \"Where have you come from?\" Satan answered the LORD, \"From roaming through the earth and going back and forth in it.\"",
+      "de": "Der HERR aber sprach zu dem Satan: Wo kommst du her? Satan antwortete dem HERRN und sprach: Ich habe das Land umher durchzogen.",
+      "zh": "耶和华问撒但说：「你从哪里来？」撒但回答说：「我从地上走来走去，往返而来。」",
+      "ja": "ヱホバ、サタンに言たまひけるは汝何處より來りしや サタン、ヱホバに應へて言けるは地を行めぐり此彼經あるきて來れり"
+    },
+    {
+      "number": 8,
+      "ko": "여호와께서 사탄에게 이르시되 네가 내 종 욥을 주의하여 보았느냐 그와 같이 온전하고 정직하여 하나님을 경외하며 악에서 떠난 자는 세상에 없느니라",
+      "en": "Then the LORD said to Satan, \"Have you considered my servant Job? There is no one on earth like him; he is blameless and upright, a man who fears God and shuns evil.\"",
+      "de": "Der HERR sprach zu Satan: Hast du nicht achtgehabt auf meinen Knecht Hiob? Denn es ist seinesgleichen nicht im Lande, schlecht und recht, gottesfürchtig und meidet das Böse.",
+      "zh": "耶和华问撒但说：「你曾用心察看我的仆人约伯没有？地上再没有人像他完全正直，敬畏　神，远离恶事。」",
+      "ja": "ヱホバ、サタンに言たまひけるは汝心をもちひてわが僕ヨブを觀しや 彼のごとく完全かつ正くして神を畏れ惡に遠ざかる人世にあらざるなり"
+    },
+    {
+      "number": 9,
+      "ko": "사탄이 여호와께 대답하여 이르되 욥이 어찌 까닭 없이 하나님을 경외하리이까",
+      "en": "\"Does Job fear God for nothing?\" Satan replied.",
+      "de": "Der Satan antwortete dem HERRN und sprach: Meinst du, daß Hiob umsonst Gott fürchtet?",
+      "zh": "撒但回答耶和华说：「约伯敬畏　神，岂是无故呢？",
+      "ja": "サタン、ヱホバに應へて言けるはヨブあにもとむることなくして神を畏れんや"
+    },
+    {
+      "number": 10,
+      "ko": "주께서 그와 그의 집과 그의 모든 소유물을 울타리로 두르심 때문이 아니니이까 주께서 그의 손으로 하는 바를 복되게 하사 그의 소유물이 땅에 넘치게 하셨음이니이다",
+      "en": "\"Have you not put a hedge around him and his household and everything he has? You have blessed the work of his hands, so that his flocks and herds are spread throughout the land.",
+      "de": "Hast du doch ihn, sein Haus und alles, was er hat, ringsumher verwahrt. Du hast das Werk seiner Hände gesegnet, und sein Gut hat sich ausgebreitet im Lande.",
+      "zh": "你岂不是四面圈上篱笆围护他和他的家，并他一切所有的吗？他手所做的都蒙你赐福；他的家产也在地上增多。",
+      "ja": "汝彼とその家およびその一切の所有物の周圍に藩屏を設けたまふにあらずや 汝かれが手に爲ところを盡く成就せしむるがゆゑにその所有物地に遍ねし"
+    },
+    {
+      "number": 11,
+      "ko": "이제 주의 손을 펴서 그의 모든 소유물을 치소서 그리하시면 틀림없이 주를 향하여 욕하지 않겠나이까",
+      "en": "But stretch out your hand and strike everything he has, and he will surely curse you to your face.\"",
+      "de": "Aber recke deine Hand aus und taste an alles, was er hat: was gilt's, er wird dir ins Angesicht absagen?",
+      "zh": "你且伸手毁他一切所有的；他必当面弃掉你。」",
+      "ja": "然ど汝の手を伸て彼の一切の所有物を撃たまへ 然ば必ず汝の面にむかひて汝を詛はん"
+    },
+    {
+      "number": 12,
+      "ko": "여호와께서 사탄에게 이르시되 내가 그의 소유물을 다 네 손에 맡기노라 다만 그의 몸에는 네 손을 대지 말지니라 사탄이 곧 여호와 앞에서 물러가니라",
+      "en": "The LORD said to Satan, \"Very well, then, everything he has is in your hands, but on the man himself do not lay a finger.\" Then Satan went out from the presence of the LORD.",
+      "de": "Der HERR sprach zum Satan: Siehe, alles, was er hat, sei in deiner Hand; nur an ihn selbst lege deine Hand nicht. Da ging der Satan aus von dem HERRN.",
+      "zh": "耶和华对撒但说：「凡他所有的都在你手中；只是不可伸手加害于他。」于是撒但从耶和华面前退去。",
+      "ja": "ヱホバ、サタンに言たまひけるは視よ彼の一切の所有物を汝の手に任す 唯かれの身に汝の手をつくる勿れ サタンすなはちヱホバの前よりいでゆけり"
+    },
+    {
+      "number": 13,
+      "ko": "하루는 욥의 자녀들이 그 맏아들의 집에서 음식을 먹으며 포도주를 마실 때에",
+      "en": "One day when Job's sons and daughters were feasting and drinking wine at the oldest brother's house,",
+      "de": "Des Tages aber, da seine Söhne und Töchter aßen und Wein tranken in ihres Bruders Hause, des Erstgeborenen,",
+      "zh": "有一天，约伯的儿女正在他们长兄的家里吃饭喝酒，",
+      "ja": "或日ヨブの子女等その第一の兄の家にて物食ひ酒飮ゐたる時"
+    },
+    {
+      "number": 14,
+      "ko": "사환이 욥에게 와서 아뢰되 소는 밭을 갈고 나귀는 그 곁에서 풀을 먹는데",
+      "en": "a messenger came to Job and said, \"The oxen were plowing and the donkeys were grazing nearby,",
+      "de": "kam ein Bote zu Hiob und sprach: Die Rinder pflügten, und die Eselinnen gingen neben ihnen auf der Weide,",
+      "zh": "有报信的来见约伯，说：「牛正耕地，驴在旁边吃草，",
+      "ja": "使者ヨブの許に來りて言ふ 牛耕しをり牝驢馬その傍に草食をりしに"
+    },
+    {
+      "number": 15,
+      "ko": "스바 사람이 갑자기 이르러 그것들을 빼앗고 칼로 종들을 죽였나이다 나만 홀로 피하였으므로 주인께 아뢰러 왔나이다",
+      "en": "and the Sabeans attacked and carried them off. They put the servants to the sword, and I am the only one who has escaped to tell you!\"",
+      "de": "da fielen die aus Saba herein und nahmen sie und schlugen die Knechte mit der Schärfe des Schwerts; und ich bin allein entronnen, daß ich dir's ansagte.",
+      "zh": "示巴人忽然闯来，把牲畜掳去，并用刀杀了仆人；惟有我一人逃脱，来报信给你。」",
+      "ja": "シバ人襲ひて之を奪ひ刄をもて少者を打殺せり 我ただ一人のがれて汝に告んとて來れりと"
+    },
+    {
+      "number": 16,
+      "ko": "그가 아직 말하는 동안에 또 한 사람이 와서 아뢰되 하나님의 불이 하늘에서 떨어져서 양과 종들을 살라 버렸나이다 나만 홀로 피하였으므로 주인께 아뢰러 왔나이다",
+      "en": "While he was still speaking, another messenger came and said, \"The fire of God fell from the sky and burned up the sheep and the servants, and I am the only one who has escaped to tell you!\"",
+      "de": "Da er noch redete, kam ein anderer und sprach: Das Feuer Gottes fiel vom Himmel und verbrannte Schafe und Knechte und verzehrte sie; und ich bin allein entronnen, daß ich dir's ansagte.",
+      "zh": "他还说话的时候，又有人来说：「　神从天上降下火来，将群羊和仆人都烧灭了；惟有我一人逃脱，来报信给你。」",
+      "ja": "彼なほ語ひをる中に又一人きたりて言ふ 神の火天より降りて羊および少者を焚て滅ぼせり 我ただ一人のがれて汝に告んとて來れりと"
+    },
+    {
+      "number": 17,
+      "ko": "그가 아직 말하는 동안에 또 한 사람이 와서 아뢰되 갈대아 사람이 세 무리를 지어 갑자기 낙타에게 달려들어 그것을 빼앗으며 칼로 종들을 죽였나이다 나만 홀로 피하였으므로 주인께 아뢰러 왔나이다",
+      "en": "While he was still speaking, another messenger came and said, \"The Chaldeans formed three raiding parties and swept down on your camels and carried them off. They put the servants to the sword, and I am the only one who has escaped to tell you!\"",
+      "de": "Da der noch redete, kam einer und sprach: Die Chaldäer machte drei Rotten und überfielen die Kamele und nahmen sie und schlugen die Knechte mit der Schärfe des Schwerts; und ich bin allein entronnen, daß ich dir's ansagte.",
+      "zh": "他还说话的时候，又有人来说：「迦勒底人分作三队忽然闯来，把骆驼掳去，并用刀杀了仆人；惟有我一人逃脱，来报信给你。」",
+      "ja": "彼なほ語ひをる中に又一人きたりて言ふ カルデヤ人三隊に分れ來て駱駝を襲ひてこれを奪ひ刄をもて少者を打殺せり我ただ一人のがれて汝に告んとて來れりと"
+    },
+    {
+      "number": 18,
+      "ko": "그가 아직 말하는 동안에 또 한 사람이 와서 아뢰되 주인의 자녀들이 그들의 맏아들의 집에서 음식을 먹으며 포도주를 마시는데",
+      "en": "While he was still speaking, yet another messenger came and said, \"Your sons and daughters were feasting and drinking wine at the oldest brother's house,",
+      "de": "Da der noch redete, kam einer und sprach: Deine Söhne und Töchter aßen und tranken im Hause ihres Bruders, des Erstgeborenen,",
+      "zh": "他还说话的时候，又有人来说：「你的儿女正在他们长兄的家里吃饭喝酒，",
+      "ja": "彼なほ語ひをる中に又一人來りて言ふ汝の子女等その第一の兄の家にて物食ひ酒飮をりしに"
+    },
+    {
+      "number": 19,
+      "ko": "거친 들에서 큰 바람이 와서 집 네 모퉁이를 치매 그 청년들 위에 무너지므로 그들이 죽었나이다 나만 홀로 피하였으므로 주인께 아뢰러 왔나이다 한지라",
+      "en": "when suddenly a mighty wind swept in from the desert and struck the four corners of the house. It collapsed on them and they are dead, and I am the only one who has escaped to tell you!\"",
+      "de": "Und siehe, da kam ein großer Wind von der Wüste her und stieß auf die vier Ecken des Hauses und warf's auf die jungen Leute, daß sie starben; und ich bin allein entronnen, daß ich dir's ansagte.",
+      "zh": "不料，有狂风从旷野刮来，击打房屋的四角，房屋倒塌在少年人身上，他们就都死了；惟有我一人逃脱，来报信给你。」",
+      "ja": "荒野の方より大風ふき來て家の四隅を撃ければ夫の若き人々の上に潰れおちて皆しねり 我これを汝に告んとて只一人のがれ來れりと"
+    },
+    {
+      "number": 20,
+      "ko": "욥이 일어나 겉옷을 찢고 머리털을 밀고 땅에 엎드려 예배하며",
+      "en": "At this, Job got up and tore his robe and shaved his head. Then he fell to the ground in worship",
+      "de": "Da stand Hiob auf und zerriß seine Kleider und raufte sein Haupt und fiel auf die Erde und betete an",
+      "zh": "约伯便起来，撕裂外袍，剃了头，伏在地上下拜，",
+      "ja": "是においてヨブ起あがり外衣を裂き髮を斬り地に伏して拜し"
+    },
+    {
+      "number": 21,
+      "ko": "이르되 내가 모태에서 알몸으로 나왔사온즉 또한 알몸이 그리로 돌아가올지라 주신 이도 여호와시요 거두신 이도 여호와시오니 여호와의 이름이 찬송을 받으실지니이다 하고",
+      "en": "and said: \"Naked I came from my mother's womb, and naked I will depart. The LORD gave and the LORD has taken away; may the name of the LORD be praised.\"",
+      "de": "und sprach: Ich bin nackt von meiner Mutter Leibe gekommen, nackt werde ich wieder dahinfahren. Der HERR hat's gegeben, der HERR hat's genommen; der Name des HERRN sei gelobt.",
+      "zh": "说：「我赤身出于母胎，也必赤身归回；赏赐的是耶和华，收取的也是耶和华。耶和华的名是应当称颂的。」",
+      "ja": "言ふ我裸にて母の胎を出たり 又裸にて彼處に歸らん ヱホバ與へヱホバ取たまふなり ヱホバの御名は讚べきかな"
+    },
+    {
+      "number": 22,
+      "ko": "이 모든 일에 욥이 범죄하지 아니하고 하나님을 향하여 원망하지 아니하니라",
+      "en": "In all this, Job did not sin by charging God with wrongdoing.",
+      "de": "In diesem allem sündigte Hiob nicht und tat nichts Törichtes wider Gott.",
+      "zh": "在这一切的事上约伯并不犯罪，也不以　神为愚妄。",
+      "ja": "この事においてヨブは全く罪を犯さず神にむかひて愚なることを言ざりき"
+    }
+  ]
+}

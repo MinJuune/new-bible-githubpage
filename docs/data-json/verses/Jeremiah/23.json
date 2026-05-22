@@ -1,0 +1,326 @@
+{
+  "book": "Jeremiah",
+  "chapter": 23,
+  "verses": [
+    {
+      "number": 1,
+      "ko": "여호와의 말씀이니라 내 목장의 양 떼를 멸하며 흩어지게 하는 목자에게 화 있으리라",
+      "en": "\"Woe to the shepherds who are destroying and scattering the sheep of my pasture!\" declares the LORD.",
+      "de": "Weh euch Hirten, die ihr die Herde meiner Weide umbringet und zerstreuet! spricht der HERR.",
+      "zh": "耶和华说：「那些残害、赶散我草场之羊的牧人有祸了！」",
+      "ja": "ヱホバいひ給ひけるは嗚呼わが養ふ群を滅し散す牧者は禍なるかな"
+    },
+    {
+      "number": 2,
+      "ko": "그러므로 이스라엘의 하나님 여호와께서 내 백성을 기르는 목자에게 이와 같이 말씀하시니라 너희가 내 양 떼를 흩으며 그것을 몰아내고 돌보지 아니하였도다 보라 내가 너희의 악행 때문에 너희에게 보응하리라 여호와의 말씀이니라",
+      "en": "Therefore this is what the LORD, the God of Israel, says to the shepherds who tend my people: \"Because you have scattered my flock and driven them away and have not bestowed care on them, I will bestow punishment on you for the evil you have done,\" declares the LORD.",
+      "de": "Darum spricht der HERR, der Gott Israels, von den Hirten, die mein Volk weiden: Ihr habt meine Herde zerstreut und verstoßen und nicht besucht. Siehe, ich will euch heimsuchen um eures bösen Wesens willen, spricht der HERR.",
+      "zh": "耶和华—以色列的　神斥责那些牧养他百姓的牧人，如此说：「你们赶散我的羊群，并没有看顾他们；我必讨你们这行恶的罪。这是耶和华说的。",
+      "ja": "故にイスラエルの神ヱホバ我民を養ふ牧者につきて斯いふ汝らはわが群を散しこれを逐はなちて顧みざりき視よわれ汝らの惡き行によりて汝等に報ゆべしとヱホバいふ"
+    },
+    {
+      "number": 3,
+      "ko": "내가 내 양 떼의 남은 것을 그 몰려 갔던 모든 지방에서 모아 다시 그 우리로 돌아오게 하리니 그들의 생육이 번성할 것이며",
+      "en": "\"I myself will gather the remnant of my flock out of all the countries where I have driven them and will bring them back to their pasture, where they will be fruitful and increase in number.",
+      "de": "Und ich will die übrigen meiner Herde sammeln aus allen Ländern, dahin ich sie verstoßen habe, und will sie wiederbringen zu ihren Hürden, daß sie sollen wachsen und ihrer viel werden.",
+      "zh": "我要将我羊群中所余剩的，从我赶他们到的各国内招聚出来，领他们归回本圈；他们也必生养众多。",
+      "ja": "われ我群の遺餘たる者をその逐はなちたる諸の地より集め再びこれを其牢に歸さん彼らは子を產て多くなるべし"
+    },
+    {
+      "number": 4,
+      "ko": "내가 그들을 기르는 목자들을 그들 위에 세우리니 그들이 다시는 두려워하거나 놀라거나 잃어 버리지 아니하리라 여호와의 말씀이니라",
+      "en": "I will place shepherds over them who will tend them, and they will no longer be afraid or terrified, nor will any be missing,\" declares the LORD.",
+      "de": "Und ich will Hirten über sie setzen, die sie weiden sollen, daß sie sich nicht mehr sollen fürchten noch erschrecken noch heimgesucht werden, spricht der HERR.",
+      "zh": "我必设立照管他们的牧人，牧养他们。他们不再惧怕，不再惊惶，也不缺少一个；这是耶和华说的。」",
+      "ja": "我これを養ふ牧者をその上に立ん彼等はふたたび慄かず懼ずまた失じとヱホバいひたまふ"
+    },
+    {
+      "number": 5,
+      "ko": "여호와의 말씀이니라 보라 때가 이르리니 내가 다윗에게 한 의로운 가지를 일으킬 것이라 그가 왕이 되어 지혜롭게 다스리며 세상에서 정의와 공의를 행할 것이며",
+      "en": "\"The days are coming,\" declares the LORD, \"when I will raise up to David a righteous Branch, a King who will reign wisely and do what is just and right in the land.",
+      "de": "Siehe, es kommt die Zeit, spricht der HERR, daß ich dem David ein gerechtes Gewächs erwecken will, und soll ein König sein, der wohl regieren wird und Recht und Gerechtigkeit auf Erden anrichten.",
+      "zh": "耶和华说：「日子将到，我要给大卫兴起一个公义的苗裔；他必掌王权，行事有智慧，在地上施行公平和公义。",
+      "ja": "ヱホバいひたまひけるは視よわがダビデに一の義き枝を起す日來らん彼王となりて世を治め榮え公道と公義を世に行ふべし"
+    },
+    {
+      "number": 6,
+      "ko": "그의 날에 유다는 구원을 받겠고 이스라엘은 평안히 살 것이며 그의 이름은 여호와 우리의 공의라 일컬음을 받으리라",
+      "en": "In his days Judah will be saved and Israel will live in safety. This is the name by which he will be called: The LORD Our Righteousness.",
+      "de": "Zu seiner Zeit soll Juda geholfen werden und Israel sicher wohnen. Und dies wird sein Name sein, daß man ihn nennen wird: Der HERR unsre Gerechtigkeit.",
+      "zh": "在他的日子，犹大必得救，以色列也安然居住。他的名必称为『耶和华—我们的义』。」",
+      "ja": "其日ユダは救をえイスラエルは安に居らん其名はヱホバ我儕の義と稱らるべし"
+    },
+    {
+      "number": 7,
+      "ko": "그러므로 여호와의 말씀이니라 보라 날이 이르리니 그들이 다시는 이스라엘 자손을 애굽 땅에서 인도하여 내신 여호와의 사심으로 맹세하지 아니하고",
+      "en": "\"So then, the days are coming,\" declares the LORD, \"when people will no longer say, 'As surely as the LORD lives, who brought the Israelites up out of Egypt,'",
+      "de": "Darum siehe, es wird die Zeit kommen, spricht der HERR, daß man nicht mehr sagen wird: So wahr der HERR lebt, der die Kinder Israel aus Ägyptenland geführt hat!",
+      "zh": "耶和华说：「日子将到，人必不再指着那领以色列人从埃及地上来永生的耶和华起誓，",
+      "ja": "この故にヱホバいひ給ふ視よイスラエルの民をエジプトの地より導出せしヱホバは活くと人衆復いはずして"
+    },
+    {
+      "number": 8,
+      "ko": "이스라엘 집 자손을 북쪽 땅, 그 모든 쫓겨났던 나라에서 인도하여 내신 여호와의 사심으로 맹세할 것이며 그들이 자기 땅에 살리라 하시니라",
+      "en": "but they will say, 'As surely as the LORD lives, who brought the descendants of Israel up out of the land of the north and out of all the countries where he had banished them.' Then they will live in their own land.\"",
+      "de": "sondern: So wahr der HERR lebt, der den Samen des Hauses Israel hat herausgeführt aus dem Lande der Mitternacht und aus allen Landen, dahin ich sie verstoßen hatte, daß sie in ihrem Lande wohnen sollen!",
+      "zh": "却要指着那领以色列家的后裔从北方和赶他们到的各国中上来、永生的耶和华起誓。他们必住在本地。」",
+      "ja": "イスラエルの家の裔を北の地と其諸て逐やりし地より導出せしヱホバは活くといふ日來らん彼らは自己の地に居るべし"
+    },
+    {
+      "number": 9,
+      "ko": "선지자들에 대한 말씀이라",
+      "en": "Concerning the prophets: My heart is broken within me; all my bones tremble. I am like a drunken man, like a man overcome by wine, because of the LORD and his holy words.",
+      "de": "Wider die Propheten. Mein Herz will mir im Leibe brechen, alle meine Gebeine zittern; mir ist wie einem trunkenen Mann und wie einem, der vom Wein taumelt, vor dem HERRN und vor seinen heiligen Worten;",
+      "zh": "论到那些先知， 我心在我里面忧伤， 我骨头都发颤； 因耶和华和他的圣言， 我像醉酒的人， 像被酒所胜的人。",
+      "ja": "預言者輩のために我心はわが衷に壞れわが骨は皆震ふ且ヱホバとその聖言のためにわれは醉る人のごとく酒に勝るる人のごとし"
+    },
+    {
+      "number": 10,
+      "ko": "이 땅에 간음하는 자가 가득하도다 저주로 말미암아 땅이 슬퍼하며 광야의 초장들이 마르나니 그들의 행위가 악하고 힘쓰는 것이 정직하지 못함이로다",
+      "en": "The land is full of adulterers; because of the curse the land lies parched and the pastures in the desert are withered. The prophets follow an evil course and use their power unjustly.",
+      "de": "daß das Land so voll Ehebrecher ist, daß das Land so jämmerlich steht, daß es so verflucht ist und die Auen in der Wüste verdorren; und ihr Leben ist böse, und ihr Regiment taugt nicht.",
+      "zh": "地满了行淫的人！ 因妄自赌咒，地就悲哀； 旷野的草场都枯干了。 他们所行的道乃是恶的； 他们的勇力使得不正。",
+      "ja": "この地は姦淫をなすもの盈ち地は呪詛によりて憂へ曠野の艸は枯る彼らの途はあしく其力は正しからず"
+    },
+    {
+      "number": 11,
+      "ko": "여호와의 말씀이니라 선지자와 제사장이 다 사악한지라 내가 내 집에서도 그들의 악을 발견하였노라",
+      "en": "\"Both prophet and priest are godless; even in my temple I find their wickedness,\" declares the LORD.",
+      "de": "Denn beide, Propheten und Priester, sind Schälke; und auch in meinem Hause finde ich ihre Bosheit, spricht der HERR.",
+      "zh": "连先知带祭司都是亵渎的， 就是在我殿中我也看见他们的恶。 这是耶和华说的。",
+      "ja": "預言者と祭司は偕に邪惡なりわれ我家に於てすら彼等の惡を見たりとヱホバいひたまふ"
+    },
+    {
+      "number": 12,
+      "ko": "그러므로 그들의 길이 그들에게 어두운 가운데 미끄러운 곳과 같이 되고 그들이 밀어냄을 당하여 그 길에 엎드러질 것이라 그들을 벌하는 해에 내가 그들에게 재앙을 내리리라 여호와의 말씀이니라",
+      "en": "\"Therefore their path will become slippery; they will be banished to darkness and there they will fall. I will bring disaster on them in the year they are punished,\" declares the LORD.",
+      "de": "Darum ist ihr Weg wie ein glatter Weg im Finstern, darauf sie gleiten und fallen; denn ich will Unglück über sie kommen lassen, das Jahr ihrer Heimsuchung, spricht der HERR.",
+      "zh": "因此，他们的道路必像黑暗中的滑地， 他们必被追赶，在这路中仆倒； 因为当追讨之年， 我必使灾祸临到他们。 这是耶和华说的。",
+      "ja": "故にかれらの途は暗に在る滑なる途の如くならん彼等推れて其途に仆るべし我災をその上にのぞましめん是彼らが刑罰らるる年なりとヱホバいひたまふ"
+    },
+    {
+      "number": 13,
+      "ko": "내가 사마리아 선지자들 가운데 우매함을 보았나니 그들은 바알을 의지하고 예언하여 내 백성 이스라엘을 그릇되게 하였고",
+      "en": "\"Among the prophets of Samaria I saw this repulsive thing: They prophesied by Baal and led my people Israel astray.",
+      "de": "Zwar bei den Propheten zu Samaria sah ich Torheit, daß sie weissagten durch Baal und verführten mein Volk Israel;",
+      "zh": "我在撒马利亚的先知中曾见愚妄； 他们借巴力说预言， 使我的百姓以色列走错了路。",
+      "ja": "われサマリヤの預言者の中に愚昧なる事あるをみたり彼等はバアルに託りて預言し我民イスラエルを惑はせり"
+    },
+    {
+      "number": 14,
+      "ko": "내가 예루살렘 선지자들 가운데도 가증한 일을 보았나니 그들은 간음을 행하며 거짓을 말하며 악을 행하는 자의 손을 강하게 하여 사람으로 그 악에서 돌이킴이 없게 하였은즉 그들은 다 내 앞에서 소돔과 다름이 없고 그 주민은 고모라와 다름이 없느니라",
+      "en": "And among the prophets of Jerusalem I have seen something horrible: They commit adultery and live a lie. They strengthen the hands of evildoers, so that no one turns from his wickedness. They are all like Sodom to me; the people of Jerusalem are like Gomorrah.\"",
+      "de": "aber bei den Propheten zu Jerusalem sehe ich Greuel, wie sie ehebrechen und gehen mit Lügen um und stärken die Boshaften, auf daß sich ja niemand bekehre von seiner Bosheit. Sie sind alle vor mir gleichwie Sodom, und die Bürger zu Jerusalem wie Gomorra.",
+      "zh": "我在耶路撒冷的先知中曾见可憎恶的事； 他们行奸淫，做事虚妄， 又坚固恶人的手， 甚至无人回头离开他的恶。 他们在我面前都像所多玛； 耶路撒冷的居民都像蛾摩拉。",
+      "ja": "我ヱルサレムの預言者の中にも憎むべき事あるを見たり彼等は姦淫をなし詐僞をおこなひ惡人の手を堅くして人をその惡に離れざらしむ彼等みな我にはソドムのごとく其民はゴモラのごとし"
+    },
+    {
+      "number": 15,
+      "ko": "그러므로 만군의 여호와께서 선지자에 대하여 이와 같이 말씀하시니라 보라 내가 그들에게 쑥을 먹이며 독한 물을 마시게 하리니 이는 사악이 예루살렘 선지자들로부터 나와서 온 땅에 퍼짐이라 하시니라",
+      "en": "Therefore, this is what the LORD Almighty says concerning the prophets: \"I will make them eat bitter food and drink poisoned water, because from the prophets of Jerusalem ungodliness has spread throughout the land.\"",
+      "de": "Darum spricht der HERR Zebaoth von den Propheten also: Siehe, ich will sie mit Wermut speisen und mit Galle tränken; denn von den Propheten zu Jerusalem kommt Heuchelei aus ins ganze Land.",
+      "zh": "所以万军之耶和华论到先知如此说： 我必将茵 给他们吃， 又将苦胆水给他们喝； 因为亵渎的事出于耶路撒冷的先知，流行遍地。",
+      "ja": "この故に萬軍のヱホバ預言者につきてかくいひたまふ視よわれ茵蔯を之に食はせ毒水をこれに飮せんそは邪惡ヱルサレムの預言者よりいでて此全地に及べばなり"
+    },
+    {
+      "number": 16,
+      "ko": "만군의 여호와께서 이와 같이 말씀하시되 너희에게 예언하는 선지자들의 말을 듣지 말라 그들은 너희에게 헛된 것을 가르치나니 그들이 말한 묵시는 자기 마음으로 말미암은 것이요 여호와의 입에서 나온 것이 아니니라",
+      "en": "This is what the LORD Almighty says: \"Do not listen to what the prophets are prophesying to you; they fill you with false hopes. They speak visions from their own minds, not from the mouth of the LORD.",
+      "de": "So spricht der HERR Zebaoth: Gehorcht nicht den Worten der Propheten, so euch weissagen. Sie betrügen euch; denn sie predigen ihres Herzens Gesicht und nicht aus des HERRN Munde.",
+      "zh": "万军之耶和华如此说：「这些先知向你们说预言，你们不要听他们的话。他们以虚空教训你们，所说的异象是出于自己的心，不是出于耶和华的口。",
+      "ja": "萬軍のヱホバかくいひたまふ汝等に預言する預言者の言を聽く勿れ彼等は汝らを欺きヱホバの口よりいでざるおのが心の默示を語るなり"
+    },
+    {
+      "number": 17,
+      "ko": "항상 그들이 나를 멸시하는 자에게 이르기를 너희가 평안하리라 여호와의 말씀이니라 하며 또 자기 마음이 완악한 대로 행하는 모든 사람에게 이르기를 재앙이 너희에게 임하지 아니하리라 하였느니라",
+      "en": "They keep saying to those who despise me, 'The LORD says: You will have peace.' And to all who follow the stubbornness of their hearts they say, 'No harm will come to you.'",
+      "de": "Sie sagen denen, die mich lästern: “Der HERR hat's gesagt, es wird euch wohl gehen”; und allen, die nach ihres Herzens Dünkel wandeln, sagen sie: “Es wird kein Unglück über euch kommen.”",
+      "zh": "他们常对藐视我的人说：『耶和华说：你们必享平安』；又对一切按自己顽梗之心而行的人说：『必没有灾祸临到你们。』」",
+      "ja": "常に彼らは我を藐忽ずる者にむかひて汝等平安をえんとヱホバいひたまへりといひ又己が心の剛愎なるに循ひて行むところのすべての者に向ひて災汝らに來らじといへり"
+    },
+    {
+      "number": 18,
+      "ko": "누가 여호와의 회의에 참여하여 그 말을 알아들었으며 누가 귀를 기울여 그 말을 들었느냐",
+      "en": "But which of them has stood in the council of the LORD to see or to hear his word? Who has listened and heard his word?",
+      "de": "Aber wer ist im Rat des HERRN gestanden, der sein Wort gesehen und gehört habe? Wer hat sein Wort vernommen und gehört?",
+      "zh": "有谁站在耶和华的会中 得以听见并会悟他的话呢？ 有谁留心听他的话呢？",
+      "ja": "誰かヱホバの議會に立て其言を見聞せし者あらんや誰か其耳を傾けて我言を聽し者あらんや"
+    },
+    {
+      "number": 19,
+      "ko": "보라 여호와의 노여움이 일어나 폭풍과 회오리바람처럼 악인의 머리를 칠 것이라",
+      "en": "See, the storm of the LORD will burst out in wrath, a whirlwind swirling down on the heads of the wicked.",
+      "de": "Siehe, es wird ein Wetter des HERRN mit Grimm kommen und ein schreckliches Ungewitter den Gottlosen auf den Kopf fallen.",
+      "zh": "看哪！耶和华的忿怒 好像暴风，已经发出； 是暴烈的旋风， 必转到恶人的头上。",
+      "ja": "みよヱホバの暴風あり怒と旋轉風いでて惡人の首をうたん"
+    },
+    {
+      "number": 20,
+      "ko": "여호와의 진노가 내 마음의 뜻하는 바를 행하여 이루기까지는 그치지 아니하나니 너희가 끝날에 그것을 완전히 깨달으리라",
+      "en": "The anger of the LORD will not turn back until he fully accomplishes the purposes of his heart. In days to come you will understand it clearly.",
+      "de": "Und des HERRN Zorn wird nicht nachlassen, bis er tue und ausrichte, was er im Sinn hat; zur letzten Zeit werdet ihr's wohl erfahren.",
+      "zh": "耶和华的怒气必不转消， 直到他心中所拟定的成就了。 末后的日子你们要全然明白。",
+      "ja": "ヱホバの怒はかれがその心の思を行ひてこれを遂げ給ふまでは息じ末の日に汝ら明にこれを曉らん"
+    },
+    {
+      "number": 21,
+      "ko": "이 선지자들은 내가 보내지 아니하였어도 달음질하며 내가 그들에게 이르지 아니하였어도 예언하였은즉",
+      "en": "I did not send these prophets, yet they have run with their message; I did not speak to them, yet they have prophesied.",
+      "de": "Ich sandte die Propheten nicht, doch liefen sie; ich redete nicht zu ihnen, doch weissagten sie.",
+      "zh": "我没有打发那些先知， 他们竟自奔跑； 我没有对他们说话， 他们竟自预言。",
+      "ja": "預言者等はわが遣さざるに趨り我告ざるに預言せり"
+    },
+    {
+      "number": 22,
+      "ko": "그들이 만일 나의 회의에 참여하였더라면 내 백성에게 내 말을 들려서 그들을 악한 길과 악한 행위에서 돌이키게 하였으리라",
+      "en": "But if they had stood in my council, they would have proclaimed my words to my people and would have turned them from their evil ways and from their evil deeds.",
+      "de": "Denn wo sie bei meinem Rat geblieben wären und hätten meine Worte meinem Volk gepredigt, so hätten sie dasselbe von seinem bösen Wesen und von seinem bösen Leben bekehrt.",
+      "zh": "他们若是站在我的会中， 就必使我的百姓听我的话， 又使他们回头离开恶道和他们所行的恶。",
+      "ja": "彼らもし我議會に立ちしならば我民にわが言をきかしめて之をその惡き途とその惡き行に離れしめしならん"
+    },
+    {
+      "number": 23,
+      "ko": "여호와의 말씀이니라 나는 가까운 데에 있는 하나님이요 먼 데에 있는 하나님은 아니냐",
+      "en": "\"Am I only a God nearby,\" declares the LORD, \"and not a God far away?",
+      "de": "Bin ich nur ein Gott, der nahe ist, spricht der HERR, und nicht auch ein Gott von ferneher?",
+      "zh": "耶和华说：「我岂为近处的　神呢？不也为远处的　神吗？」",
+      "ja": "ヱホバいひ給ふ我はただ近くにおいてのみ神たらんや遠くに於ても神たるにあらずや"
+    },
+    {
+      "number": 24,
+      "ko": "여호와의 말씀이니라 사람이 내게 보이지 아니하려고 누가 자신을 은밀한 곳에 숨길 수 있겠느냐 여호와가 말하노라 나는 천지에 충만하지 아니하냐",
+      "en": "Can anyone hide in secret places so that I cannot see him?\" declares the LORD. \"Do not I fill heaven and earth?\" declares the LORD.",
+      "de": "Meinst du, daß sich jemand so heimlich verbergen könne, daß ich ihn nicht sehe? spricht der HERR. Bin ich es nicht, der Himmel und Erde füllt? spricht der HERR.",
+      "zh": "耶和华说：「人岂能在隐密处藏身，使我看不见他呢？」耶和华说：「我岂不充满天地吗？",
+      "ja": "ヱホバいひたまふ人我に見られざる樣に密かなる處に身を匿し得るかヱホバいひたまふ我は天地に充るにあらずや"
+    },
+    {
+      "number": 25,
+      "ko": "내 이름으로 거짓을 예언하는 선지자들의 말에 내가 꿈을 꾸었다 꿈을 꾸었다고 말하는 것을 내가 들었노라",
+      "en": "\"I have heard what the prophets say who prophesy lies in my name. They say, 'I had a dream! I had a dream!'",
+      "de": "Ich höre es wohl, was die Propheten predigen und falsch weissagen in meinem Namen und sprechen: Mir hat geträumt, mir hat geträumt.",
+      "zh": "我已听见那些先知所说的，就是托我名说的假预言，他们说：『我做了梦！我做了梦！』",
+      "ja": "われ我名をもて謊を預言する預言者等がわれ夢を見たりわれ夢を見たりと曰ふをきけり"
+    },
+    {
+      "number": 26,
+      "ko": "거짓을 예언하는 선지자들이 언제까지 이 마음을 품겠느냐 그들은 그 마음의 간교한 것을 예언하느니라",
+      "en": "How long will this continue in the hearts of these lying prophets, who prophesy the delusions of their own minds?",
+      "de": "Wann wollen doch die Propheten aufhören, die falsch weissagen und ihres Herzens Trügerei weissagen",
+      "zh": "说假预言的先知，就是预言本心诡诈的先知，他们这样存心要到几时呢？",
+      "ja": "謊を預言する預言者等はいつまで此心をいだくや彼らは其心の詐僞を預言するなり"
+    },
+    {
+      "number": 27,
+      "ko": "그들이 서로 꿈 꾼 것을 말하니 그 생각인즉 그들의 조상들이 바알로 말미암아 내 이름을 잊어버린 것 같이 내 백성으로 내 이름을 잊게 하려 함이로다",
+      "en": "They think the dreams they tell one another will make my people forget my name, just as their fathers forgot my name through Baal worship.",
+      "de": "und wollen, daß mein Volk meines Namens vergesse über ihren Träumen, die einer dem andern erzählt? gleichwie ihre Väter meines Namens vergaßen über dem Baal.",
+      "zh": "他们各人将所做的梦对邻舍述说，想要使我的百姓忘记我的名，正如他们列祖因巴力忘记我的名一样。",
+      "ja": "彼らは其先祖がバアルによりて我名を忘れしごとく互に夢をかたりて我民にわが名を忘れしめんと思ふや"
+    },
+    {
+      "number": 28,
+      "ko": "여호와의 말씀이니라 꿈을 꾼 선지자는 꿈을 말할 것이요 내 말을 받은 자는 성실함으로 내 말을 말할 것이라 겨가 어찌 알곡과 같겠느냐",
+      "en": "Let the prophet who has a dream tell his dream, but let the one who has my word speak it faithfully. For what has straw to do with grain?\" declares the LORD.",
+      "de": "Ein Prophet, der Träume hat, der erzähle Träume; wer aber mein Wort hat, der Predige mein Wort recht. Wie reimen sich Stroh und Weizen zusammen? spricht der HERR.",
+      "zh": "得梦的先知可以述说那梦；得我话的人可以诚实讲说我的话。糠秕怎能与麦子比较呢？这是耶和华说的。」",
+      "ja": "夢をみし預言者は夢を語るべし我言を受し者は誠實をもて我言を語るべし糠いかで麥に比擬ことをえんやとヱホバいひたまふ"
+    },
+    {
+      "number": 29,
+      "ko": "여호와의 말씀이니라 내 말이 불 같지 아니하냐 바위를 쳐서 부스러뜨리는 방망이 같지 아니하냐",
+      "en": "\"Is not my word like fire,\" declares the LORD, \"and like a hammer that breaks a rock in pieces?",
+      "de": "Ist mein Wort nicht wie Feuer, spricht der HERR, und wie ein Hammer, der Felsen zerschmeißt?",
+      "zh": "耶和华说：「我的话岂不像火，又像能打碎磐石的大锤吗？」",
+      "ja": "ヱホバ言たまはく我言は火のごとくならずや又磐を打碎く槌の如くならずや"
+    },
+    {
+      "number": 30,
+      "ko": "여호와의 말씀이라 그러므로 보라 서로 내 말을 도둑질하는 선지자들을 내가 치리라",
+      "en": "\"Therefore,\" declares the LORD, \"I am against the prophets who steal from one another words supposedly from me.",
+      "de": "Darum siehe, ich will an die Propheten, spricht der HERR, die mein Wort stehlen einer dem andern.",
+      "zh": "耶和华说：「那些先知各从邻舍偷窃我的言语，因此我必与他们反对。」",
+      "ja": "故に視よわれ我言を相互に竊める預言者の敵となるとヱホバいひたまふ"
+    },
+    {
+      "number": 31,
+      "ko": "여호와의 말씀이니라 보라 그들이 혀를 놀려 여호와가 말씀하셨다 하는 선지자들을 내가 치리라",
+      "en": "Yes,\" declares the LORD, \"I am against the prophets who wag their own tongues and yet declare, 'The LORD declares.'",
+      "de": "Siehe, ich will an die Propheten, spricht der HERR, die ihr eigenes Wort führen und sprechen: Er hat's gesagt.",
+      "zh": "耶和华说：「那些先知用舌头，说是耶和华说的；我必与他们反对。」",
+      "ja": "視よわれは彼いひたまへりと舌をもて語るところの預言者の敵となるとヱホバいひたまふ"
+    },
+    {
+      "number": 32,
+      "ko": "여호와의 말씀이니라 보라 거짓 꿈을 예언하여 이르며 거짓과 헛된 자만으로 내 백성을 미혹하게 하는 자를 내가 치리라 내가 그들을 보내지 아니하였으며 명령하지 아니하였나니 그들은 이 백성에게 아무 유익이 없느니라 여호와의 말씀이니라",
+      "en": "Indeed, I am against those who prophesy false dreams,\" declares the LORD. \"They tell them and lead my people astray with their reckless lies, yet I did not send or appoint them. They do not benefit these people in the least,\" declares the LORD.",
+      "de": "Siehe, ich will an die, so falsche Träume weissagen, spricht der HERR, und erzählen dieselben und verführen mein Volk mit ihren Lügen und losen Reden, so ich sie doch nicht gesandt und ihnen nichts befohlen habe und sie auch diesem Volk nichts nütze sind, spricht der HERR.",
+      "zh": "耶和华说：「那些以幻梦为预言，又述说这梦，以谎言和矜夸使我百姓走错了路的，我必与他们反对。我没有打发他们，也没有吩咐他们。他们与这百姓毫无益处。这是耶和华说的。」",
+      "ja": "ヱホバいひたまひけるは視よわれ僞の夢を預言する者の敵となる彼らは之を語りまたその謊と其誇をもて我民を惑はす我かれらを遣さずかれらに命ぜざるなり故に彼らは斯民に益なしとヱホバいひ給ふ"
+    },
+    {
+      "number": 33,
+      "ko": "이 백성이나 선지자나 제사장이 네게 물어 이르기를 여호와의 엄중한 말씀이 무엇인가 묻거든 너는 그들에게 대답하기를 엄중한 말씀이 무엇이냐 묻느냐 여호와의 말씀에 내가 너희를 버리리라 하셨고",
+      "en": "\"When these people, or a prophet or a priest, ask you, 'What is the oracle of the LORD?' say to them, 'What oracle? I will forsake you, declares the LORD.'",
+      "de": "Wenn dich dies Volk oder ein Prophet oder ein Priester fragen wird und sagen: Welches ist die Last des HERRN? sollst du zu ihnen sagen, was die Last sei: Ich will euch hinwerfen, spricht der HERR.",
+      "zh": "「无论是百姓，是先知，是祭司，问你说：『耶和华有什么默示呢？』你就对他们说：『什么默示啊？耶和华说：我要撇弃你们。』",
+      "ja": "この民或は預言者又は祭司汝に問てヱホバの重負は何ぞやといはば汝彼等にこたへてヱホバの重負は我汝等を棄んとヱホバの云たまひし事是なりといふべし"
+    },
+    {
+      "number": 34,
+      "ko": "또 여호와의 엄중한 말씀이라 하는 선지자에게나 제사장에게나 백성에게는 내가 그 사람과 그 집안을 벌하리라 하셨다 하고",
+      "en": "If a prophet or a priest or anyone else claims, 'This is the oracle of the LORD,' I will punish that man and his household.",
+      "de": "Und wo ein Prophet oder Priester oder das Volk wird sagen: “Das ist die Last des HERRN”, den will ich heimsuchen und sein Haus dazu.",
+      "zh": "无论是先知，是祭司，是百姓，说『耶和华的默示』，我必刑罚那人和他的家。",
+      "ja": "ヱホバの重負といふところの預言者と祭司と民には我その人と其家にこれを降さん"
+    },
+    {
+      "number": 35,
+      "ko": "너희는 서로 이웃과 형제에게 묻기를 여호와께서 무엇이라 응답하셨으며 여호와께서 무엇이라 말씀하셨느냐 하고",
+      "en": "This is what each of you keeps on saying to his friend or relative: 'What is the LORD'S answer?' or 'What has the LORD spoken?'",
+      "de": "Also sollt ihr aber einer mit dem andern reden und untereinander sagen: “Was antwortet der HERR, und was sagt der HERR?”",
+      "zh": "你们各人要对邻舍，各人要对弟兄如此说：『耶和华回答什么？』『耶和华说了什么呢？』",
+      "ja": "汝らはおのおの斯互に言ひその兄弟にいふべしヱホバは何と應へたまひしやヱホバは何と云たまひしやと"
+    },
+    {
+      "number": 36,
+      "ko": "다시는 여호와의 엄중한 말씀이라 말하지 말라 각 사람의 말이 자기에게 중벌이 되리니 이는 너희가 살아 계신 하나님, 만군의 여호와 우리 하나님의 말씀을 망령되이 사용함이니라 하고",
+      "en": "But you must not mention 'the oracle of the LORD' again, because every man's own word becomes his oracle and so you distort the words of the living God, the LORD Almighty, our God.",
+      "de": "Und nennt's nicht mehr “Last des HERRN”; denn einem jeglichem wird sein eigenes Wort eine “Last” sein, weil ihr also die Worte des lebendigen Gottes, des HERRN Zebaoth, unsers Gottes, verkehrt.",
+      "zh": "『耶和华的默示』你们不可再提，各人所说的话必作自己的重担，因为你们谬用永生　神、万军之耶和华—我们　神的言语。",
+      "ja": "汝ら復びヱホバの重負といふべからず人の重負となる者は其人の言なるべし汝らは活る神萬軍のヱホバなる我らの神の言を枉るなり"
+    },
+    {
+      "number": 37,
+      "ko": "너는 또 선지자에게 말하기를 여호와께서 네게 무엇이라 대답하셨으며 여호와께서 무엇이라 말씀하셨느냐",
+      "en": "This is what you keep saying to a prophet: 'What is the LORD'S answer to you?' or 'What has the LORD spoken?'",
+      "de": "Darum sollt ihr zum Propheten also sagen: Was antwortet dir der HERR, und was sagt der HERR?",
+      "zh": "你们要对先知如此说：『耶和华回答你什么？』『耶和华说了什么呢？』",
+      "ja": "汝かく預言者にいふべしヱホバは汝に何と答へ給ひしやヱホバは何といひたまひしやと"
+    },
+    {
+      "number": 38,
+      "ko": "너희는 여호와의 엄중한 말씀이라 말하도다 그러므로 여호와께서 이와 같이 말씀하시되 내가 너희에게 사람을 보내어 이 말씀은 여호와의 엄중한 말씀이니 너희는 말하지 말라 하였으나 너희가 여호와의 엄중한 말씀이라 하였은즉",
+      "en": "Although you claim, 'This is the oracle of the LORD,' this is what the LORD says: You used the words, 'This is the oracle of the LORD,' even though I told you that you must not claim, 'This is the oracle of the LORD.'",
+      "de": "Weil ihr aber sprecht: “Last des HERRN”, darum spricht der HERR also: Nun ihr dieses Wort eine “Last des HERRN” nennt und ich zu euch gesandt habe und sagen lassen, ihr sollt's nicht nennen “Last des HERRN”:",
+      "zh": "你们若说『耶和华的默示』，耶和华就如此说：『因你们说「耶和华的默示」这句话，我也打发人到你们那里去，告诉你们不可说「耶和华的默示」。』",
+      "ja": "汝らもしヱホバの重負といはばヱホバそれにつきてかくいひたまふ我人を汝らに遣して汝等ヱホバの重負といふべからずといはしむるも汝らはヱホバの重負といふ此言をいふによりて"
+    },
+    {
+      "number": 39,
+      "ko": "내가 너희를 온전히 잊어버리며 내가 너희와 너희 조상들에게 준 이 성읍을 내 앞에서 내버려",
+      "en": "Therefore, I will surely forget you and cast you out of my presence along with the city I gave to you and your fathers.",
+      "de": "siehe, so will ich euch hinwegnehmen und euch samt der Stadt, die ich euch und euren Vätern gegeben habe, von meinem Angesicht wegwerfen",
+      "zh": "所以我必全然忘记你们，将你们和我所赐给你们并你们列祖的城撇弃了；",
+      "ja": "われ必ず汝らを忘れ汝らと汝らの先祖にあたへし此邑と汝らとを我前より棄ん"
+    },
+    {
+      "number": 40,
+      "ko": "너희는 영원한 치욕과 잊지 못할 영구한 수치를 당하게 하리라 하셨느니라",
+      "en": "I will bring upon you everlasting disgrace--everlasting shame that will not be forgotten.\"",
+      "de": "und will euch ewige Schande und ewige Schmach zufügen, der nimmer vergessen soll werden.",
+      "zh": "又必使永远的凌辱和长久的羞耻临到你们，是不能忘记的。」",
+      "ja": "且われ永遠の辱と永遠なる忘らるることなき恥を汝らにかうむらしめん"
+    }
+  ]
+}

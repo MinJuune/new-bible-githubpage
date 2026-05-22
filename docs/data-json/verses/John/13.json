@@ -1,0 +1,310 @@
+{
+  "book": "John",
+  "chapter": 13,
+  "verses": [
+    {
+      "number": 1,
+      "ko": "유월절 전에 예수께서 자기가 세상을 떠나 아버지께로 돌아가실 때가 이른 줄 아시고 세상에 있는 자기 사람들을 사랑하시되 끝까지 사랑하시니라",
+      "en": "It was just before the Passover Feast. Jesus knew that the time had come for him to leave this world and go to the Father. Having loved his own who were in the world, he now showed them the full extent of his love.",
+      "de": "Vor dem Fest aber der Ostern, da Jesus erkannte, daß seine Zeit gekommen war, daß er aus dieser Welt ginge zum Vater: wie hatte er geliebt die Seinen, die in der Welt waren, so liebte er sie bis ans Ende.",
+      "zh": "逾越节以前，耶稣知道自己离世归父的时候到了。他既然爱世间属自己的人，就爱他们到底。",
+      "ja": "さて、過越の祭りの前に、この世を去って父のみもとに行くべき自分の時が来たことを知られたので、世にいる自分のものを愛されたイエスは、その愛を残るところなく示された。"
+    },
+    {
+      "number": 2,
+      "ko": "마귀가 벌써 시몬의 아들 가룟 유다의 마음에 예수를 팔려는 생각을 넣었더라",
+      "en": "The evening meal was being served, and the devil had already prompted Judas Iscariot, son of Simon, to betray Jesus.",
+      "de": "Und beim Abendessen, da schon der Teufel hatte dem Judas, Simons Sohn, dem Ischariot, ins Herz gegeben, daß er ihn verriete,",
+      "zh": "吃晚饭的时候，魔鬼已将卖耶稣的意思放在西门的儿子加略人犹大心里。",
+      "ja": "夕食の間のことであった。悪魔はすでにシモンの子イスカリオテ・ユダの心に、イエスを売ろうとする思いを入れていたが、"
+    },
+    {
+      "number": 3,
+      "ko": "저녁 먹는 중 예수는 아버지께서 모든 것을 자기 손에 맡기신 것과 또 자기가 하나님께로부터 오셨다가 하나님께로 돌아가실 것을 아시고",
+      "en": "Jesus knew that the Father had put all things under his power, and that he had come from God and was returning to God;",
+      "de": "und Jesus wußte, daß ihm der Vater alles in seine Hände gegeben und daß er von Gott gekommen war und zu Gott ging:",
+      "zh": "耶稣知道父已将万有交在他手里，且知道自己是从　神出来的，又要归到　神那里去，",
+      "ja": "イエスは、父が万物を自分の手に渡されたことと、ご自分が父から来て父に行くことを知られ、"
+    },
+    {
+      "number": 4,
+      "ko": "저녁 잡수시던 자리에서 일어나 겉옷을 벗고 수건을 가져다가 허리에 두르시고",
+      "en": "so he got up from the meal, took off his outer clothing, and wrapped a towel around his waist.",
+      "de": "stand er von Abendmahl auf, legte seine Kleider ab und nahm einen Schurz und umgürtete sich.",
+      "zh": "就离席站起来，脱了衣服，拿一条手巾束腰，",
+      "ja": "夕食の席から立ち上がって、上着を脱ぎ、手ぬぐいを取って腰にまとわれた。"
+    },
+    {
+      "number": 5,
+      "ko": "이에 대야에 물을 떠서 제자들의 발을 씻으시고 그 두르신 수건으로 닦기를 시작하여",
+      "en": "After that, he poured water into a basin and began to wash his disciples' feet, drying them with the towel that was wrapped around him.",
+      "de": "Darnach goß er Wasser in ein Becken, hob an, den Jüngern die Füße zu waschen, und trocknete sie mit dem Schurz, damit er umgürtet war.",
+      "zh": "随后把水倒在盆里，就洗门徒的脚，并用自己所束的手巾擦干。",
+      "ja": "それから、たらいに水を入れ、弟子たちの足を洗って、腰にまとっておられる手ぬぐいで、ふき始められた。"
+    },
+    {
+      "number": 6,
+      "ko": "시몬 베드로에게 이르시니 베드로가 이르되 주여 주께서 내 발을 씻으시나이까",
+      "en": "He came to Simon Peter, who said to him, \"Lord, are you going to wash my feet?\"",
+      "de": "Da kam er zu Simon Petrus; und der sprach zu ihm: HERR, sollst du mir meine Füße waschen?",
+      "zh": "挨到西门·彼得，彼得对他说：「主啊，你洗我的脚吗？」",
+      "ja": "こうして、イエスはシモン・ペテロのところに来られた。ペテロはイエスに言った。「主よ。あなたが、私の足を洗ってくださるのですか。」"
+    },
+    {
+      "number": 7,
+      "ko": "예수께서 대답하여 이르시되 내가 하는 것을 네가 지금은 알지 못하나 이후에는 알리라",
+      "en": "Jesus replied, \"You do not realize now what I am doing, but later you will understand.\"",
+      "de": "Jesus antwortete und sprach zu ihm: Was ich tue, das weißt du jetzt nicht; du wirst es aber hernach erfahren.",
+      "zh": "耶稣回答说：「我所做的，你如今不知道，后来必明白。」",
+      "ja": "イエスは答えて言われた。「わたしがしていることは、今はあなたにはわからないが、あとでわかるようになります。」"
+    },
+    {
+      "number": 8,
+      "ko": "베드로가 이르되 내 발을 절대로 씻지 못하시리이다 예수께서 대답하시되 내가 너를 씻어 주지 아니하면 네가 나와 상관이 없느니라",
+      "en": "\"No,\" said Peter, \"you shall never wash my feet.\" Jesus answered, \"Unless I wash you, you have no part with me.\"",
+      "de": "Da sprach Petrus zu ihm: Nimmermehr sollst du meine Füße waschen! Jesus antwortete ihm: Werde ich dich nicht waschen, so hast du kein Teil mit mir.",
+      "zh": "彼得说：「你永不可洗我的脚！」耶稣说：「我若不洗你，你就与我无分了。」",
+      "ja": "ペテロはイエスに言った。「決して私の足をお洗いにならないでください。」イエスは答えられた。「もしわたしが洗わなければ、あなたはわたしと何の関係もありません。」"
+    },
+    {
+      "number": 9,
+      "ko": "시몬 베드로가 이르되 주여 내 발뿐 아니라 손과 머리도 씻어 주옵소서",
+      "en": "\"Then, Lord,\" Simon Peter replied, \"not just my feet but my hands and my head as well!\"",
+      "de": "So spricht zu ihm Simon Petrus: HERR, nicht die Füße allein, sondern auch die Hände und das Haupt!",
+      "zh": "西门·彼得说：「主啊，不但我的脚，连手和头也要洗。」",
+      "ja": "シモン・ペテロは言った。「主よ。私の足だけでなく、手も頭も洗ってください。」"
+    },
+    {
+      "number": 10,
+      "ko": "예수께서 이르시되 이미 목욕한 자는 발밖에 씻을 필요가 없느니라 온 몸이 깨끗하니라 너희가 깨끗하나 다는 아니니라 하시니",
+      "en": "Jesus answered, \"A person who has had a bath needs only to wash his feet; his whole body is clean. And you are clean, though not every one of you.\"",
+      "de": "Spricht Jesus zu ihm: Wer gewaschen ist, bedarf nichts denn die Füße waschen, sondern er ist ganz rein. Und ihr seid rein, aber nicht alle.",
+      "zh": "耶稣说：「凡洗过澡的人，只要把脚一洗，全身就干净了。你们是干净的，然而不都是干净的。」",
+      "ja": "イエスは彼に言われた。「水浴した者は、足以外は洗う必要がありません。全身きよいのです。あなたがたはきよいのですが、みながそうではありません。」"
+    },
+    {
+      "number": 11,
+      "ko": "이는 자기를 팔 자가 누구인지 아심이라 그러므로 다는 깨끗하지 아니하다 하시니라",
+      "en": "For he knew who was going to betray him, and that was why he said not every one was clean.",
+      "de": "(Denn er wußte seinen Verräter wohl; darum sprach er: Ihr seid nicht alle rein.)",
+      "zh": "耶稣原知道要卖他的是谁，所以说：「你们不都是干净的。」",
+      "ja": "イエスはご自分を裏切る者を知っておられた。それで、「みながきよいのではない。」と言われたのである。"
+    },
+    {
+      "number": 12,
+      "ko": "그들의 발을 씻으신 후에 옷을 입으시고 다시 앉아 그들에게 이르시되 내가 너희에게 행한 것을 너희가 아느냐",
+      "en": "When he had finished washing their feet, he put on his clothes and returned to his place. \"Do you understand what I have done for you?\" he asked them.",
+      "de": "Da er nun ihre Füße gewaschen hatte, nahm er wieder seine Kleider und setzte sich wieder nieder und sprach abermals zu ihnen: Wisset ihr, was ich euch getan habe?",
+      "zh": "耶稣洗完了他们的脚，就穿上衣服，又坐下，对他们说：「我向你们所做的，你们明白吗？",
+      "ja": "イエスは、彼らの足を洗い終わり、上着を着けて、再び席に着いて、彼らに言われた。「わたしがあなたがたに何をしたか、わかりますか。"
+    },
+    {
+      "number": 13,
+      "ko": "너희가 나를 선생이라 또는 주라 하니 너희 말이 옳도다 내가 그러하다",
+      "en": "\"You call me 'Teacher' and 'Lord,' and rightly so, for that is what I am.",
+      "de": "Ihr heißet mich Meister und HERR und saget recht daran, denn ich bin es auch.",
+      "zh": "你们称呼我夫子，称呼我主，你们说的不错，我本来是。",
+      "ja": "あなたがたはわたしを先生とも主とも呼んでいます。あなたがたがそう言うのはよい。わたしはそのような者だからです。"
+    },
+    {
+      "number": 14,
+      "ko": "내가 주와 또는 선생이 되어 너희 발을 씻었으니 너희도 서로 발을 씻어 주는 것이 옳으니라",
+      "en": "Now that I, your Lord and Teacher, have washed your feet, you also should wash one another's feet.",
+      "de": "So nun ich, euer HERR und Meister, euch die Füße gewaschen habe, so sollt ihr auch euch untereinander die Füße waschen.",
+      "zh": "我是你们的主，你们的夫子，尚且洗你们的脚，你们也当彼此洗脚。",
+      "ja": "それで、主であり師であるこのわたしが、あなたがたの足を洗ったのですから、あなたがたもまた互いに足を洗い合うべきです。"
+    },
+    {
+      "number": 15,
+      "ko": "내가 너희에게 행한 것 같이 너희도 행하게 하려 하여 본을 보였노라",
+      "en": "I have set you an example that you should do as I have done for you.",
+      "de": "Ein Beispiel habe ich euch gegeben, daß ihr tut, wie ich euch getan habe.",
+      "zh": "我给你们作了榜样，叫你们照着我向你们所做的去做。",
+      "ja": "わたしがあなたがたにしたとおりに、あなたがたもするように、わたしはあなたがたに模範を示したのです。"
+    },
+    {
+      "number": 16,
+      "ko": "내가 진실로 진실로 너희에게 이르노니 종이 주인보다 크지 못하고 보냄을 받은 자가 보낸 자보다 크지 못하나니",
+      "en": "I tell you the truth, no servant is greater than his master, nor is a messenger greater than the one who sent him.",
+      "de": "Wahrlich, wahrlich ich sage euch: Der Knecht ist nicht größer denn sein Herr, noch der Apostel größer denn der ihn gesandt hat.",
+      "zh": "我实实在在地告诉你们，仆人不能大于主人，差人也不能大于差他的人。",
+      "ja": "まことに、まことに、あなたがたに告げます。しもべはその主人にまさらず、遣わされた者は遣わした者にまさるものではありません。"
+    },
+    {
+      "number": 17,
+      "ko": "너희가 이것을 알고 행하면 복이 있으리라",
+      "en": "Now that you know these things, you will be blessed if you do them.",
+      "de": "So ihr solches wisset, selig seid ihr, so ihr's tut.",
+      "zh": "你们既知道这事，若是去行就有福了。",
+      "ja": "あなたがたがこれらのことを知っているのなら、それを行なうときに、あなたがたは祝福されるのです。"
+    },
+    {
+      "number": 18,
+      "ko": "내가 너희 모두를 가리켜 말하는 것이 아니니라 나는 내가 택한 자들이 누구인지 앎이라 그러나 내 떡을 먹는 자가 내게 발꿈치를 들었다 한 성경을 응하게 하려는 것이니라",
+      "en": "\"I am not referring to all of you; I know those I have chosen. But this is to fulfill the scripture: 'He who shares my bread has lifted up his heel against me.'",
+      "de": "Nicht sage ich von euch allen; ich weiß, welche ich erwählt habe. Aber es muß die Schrift erfüllt werden: “Der mein Brot isset, der tritt mich mit Füßen.”",
+      "zh": "我这话不是指着你们众人说的，我知道我所拣选的是谁。现在要应验经上的话，说：『同我吃饭的人用脚踢我。』",
+      "ja": "わたしは、あなたがた全部の者について言っているのではありません。わたしは、わたしが選んだ者を知っています。しかし聖書に『わたしのパンを食べている者が、わたしに向かってかかとを上げた。』と書いてあることは成就するのです。"
+    },
+    {
+      "number": 19,
+      "ko": "지금부터 일이 일어나기 전에 미리 너희에게 일러 둠은 일이 일어날 때에 내가 그인 줄 너희가 믿게 하려 함이로라",
+      "en": "\"I am telling you now before it happens, so that when it does happen you will believe that I am He.",
+      "de": "Jetzt sage ich's euch, ehe denn es geschieht, auf daß, wenn es geschehen ist, ihr glaubt, daß ich es bin.",
+      "zh": "如今事情还没有成就，我要先告诉你们，叫你们到事情成就的时候可以信我是基督。",
+      "ja": "わたしは、そのことが起こる前に、今あなたがたに話しておきます。そのことが起こったときに、わたしがその人であることをあなたがたが信じるためです。"
+    },
+    {
+      "number": 20,
+      "ko": "내가 진실로 진실로 너희에게 이르노니 내가 보낸 자를 영접하는 자는 나를 영접하는 것이요 나를 영접하는 자는 나를 보내신 이를 영접하는 것이니라",
+      "en": "I tell you the truth, whoever accepts anyone I send accepts me; and whoever accepts me accepts the one who sent me.\"",
+      "de": "Wahrlich, wahrlich ich sage euch: Wer aufnimmt, so ich jemand senden werde, der nimmt mich auf; wer aber mich aufnimmt, der nimmt den auf, der mich gesandt hat.",
+      "zh": "我实实在在地告诉你们，有人接待我所差遣的，就是接待我；接待我，就是接待那差遣我的。」",
+      "ja": "まことに、まことに、あなたがたに告げます。わたしの遣わす者を受け入れる者は、わたしを受け入れるのです。わたしを受け入れる者は、わたしを遣わした方を受け入れるのです。」"
+    },
+    {
+      "number": 21,
+      "ko": "예수께서 이 말씀을 하시고 심령이 괴로워 증언하여 이르시되 내가 진실로 진실로 너희에게 이르노니 너희 중 하나가 나를 팔리라 하시니",
+      "en": "After he had said this, Jesus was troubled in spirit and testified, \"I tell you the truth, one of you is going to betray me.\"",
+      "de": "Da Jesus solches gesagt hatte, ward er betrübt im Geist und zeugte und sprach: Wahrlich, wahrlich ich sage euch: Einer unter euch wird mich verraten.",
+      "zh": "耶稣说了这话，心里忧愁，就明说：「我实实在在地告诉你们，你们中间有一个人要卖我了。」",
+      "ja": "イエスは、これらのことを話されたとき、霊の激動を感じ、あかしして言われた。「まことに、まことに、あなたがたに告げます。あなたがたのうちのひとりが、わたしを裏切ります。」"
+    },
+    {
+      "number": 22,
+      "ko": "제자들이 서로 보며 누구에게 대하여 말씀하시는지 의심하더라",
+      "en": "His disciples stared at one another, at a loss to know which of them he meant.",
+      "de": "Da sahen sich die Jünger untereinander an, und ward ihnen bange, von welchem er redete.",
+      "zh": "门徒彼此对看，猜不透所说的是谁。",
+      "ja": "弟子たちは、だれのことを言われたのか、わからずに当惑して、互いに顔を見合わせていた。"
+    },
+    {
+      "number": 23,
+      "ko": "예수의 제자 중 하나 곧 그가 사랑하시는 자가 예수의 품에 의지하여 누웠는지라",
+      "en": "One of them, the disciple whom Jesus loved, was reclining next to him.",
+      "de": "Es war aber einer unter seinen Jüngern, der zu Tische saß an der Brust Jesu, welchen Jesus liebhatte.",
+      "zh": "有一个门徒，是耶稣所爱的，侧身挨近耶稣的怀里。",
+      "ja": "弟子のひとりで、イエスが愛しておられた者が、イエスの右側で席に着いていた。"
+    },
+    {
+      "number": 24,
+      "ko": "시몬 베드로가 머릿짓을 하여 말하되 말씀하신 자가 누구인지 말하라 하니",
+      "en": "Simon Peter motioned to this disciple and said, \"Ask him which one he means.\"",
+      "de": "Dem winkte Simon Petrus, daß er forschen sollte, wer es wäre, von dem er sagte.",
+      "zh": "西门·彼得点头对他说：「你告诉我们，主是指着谁说的。」",
+      "ja": "そこで、シモン・ペテロが彼に合図をして言った。「だれのことを言っておられるのか、知らせなさい。」"
+    },
+    {
+      "number": 25,
+      "ko": "그가 예수의 가슴에 그대로 의지하여 말하되 주여 누구니이까",
+      "en": "Leaning back against Jesus, he asked him, \"Lord, who is it?\"",
+      "de": "Denn derselbe lag an der Brust Jesu, und er sprach zu ihm: HERR, wer ist's?",
+      "zh": "那门徒便就势靠着耶稣的胸膛，问他说：「主啊，是谁呢？」",
+      "ja": "その弟子は、イエスの右側で席に着いたまま、イエスに言った。「主よ。それはだれですか。」"
+    },
+    {
+      "number": 26,
+      "ko": "예수께서 대답하시되 내가 떡 한 조각을 적셔다 주는 자가 그니라 하시고 곧 한 조각을 적셔서 가룟 시몬의 아들 유다에게 주시니",
+      "en": "Jesus answered, \"It is the one to whom I will give this piece of bread when I have dipped it in the dish.\" Then, dipping the piece of bread, he gave it to Judas Iscariot, son of Simon.",
+      "de": "Jesus antwortete: Der ist's, dem ich den Bissen eintauche und gebe. Und er tauchte den Bissen ein und gab ihn Judas, Simons Sohn, dem Ischariot.",
+      "zh": "耶稣回答说：「我蘸一点饼给谁，就是谁。」耶稣就蘸了一点饼，递给加略人西门的儿子犹大。",
+      "ja": "イエスは答えられた。「それはわたしがパン切れを浸して与える者です。」それからイエスは、パン切れを浸し、取って、イスカリオテ・シモンの子ユダにお与えになった。"
+    },
+    {
+      "number": 27,
+      "ko": "조각을 받은 후 곧 사탄이 그 속에 들어간지라 이에 예수께서 유다에게 이르시되 네가 하는 일을 속히 하라 하시니",
+      "en": "As soon as Judas took the bread, Satan entered into him. \"What you are about to do, do quickly,\" Jesus told him,",
+      "de": "Und nach dem Bissen fuhr der Satan in ihn. Da sprach Jesus zu ihm: Was du tust, das tue bald!",
+      "zh": "他吃了以后，撒但就入了他的心。耶稣便对他说：「你所做的，快做吧！」",
+      "ja": "彼がパン切れを受けると、そのとき、サタンが彼にはいった。そこで、イエスは彼に言われた。「あなたがしようとしていることを、今すぐしなさい。」"
+    },
+    {
+      "number": 28,
+      "ko": "이 말씀을 무슨 뜻으로 하셨는지 그 앉은 자 중에 아는 자가 없고",
+      "en": "but no one at the meal understood why Jesus said this to him.",
+      "de": "Das aber wußte niemand am Tische, wozu er's ihm sagte.",
+      "zh": "同席的人没有一个知道是为什么对他说这话。",
+      "ja": "席に着いている者で、イエスが何のためにユダにそう言われたのか知っている者は、だれもなかった。"
+    },
+    {
+      "number": 29,
+      "ko": "어떤 이들은 유다가 돈궤를 맡았으므로 명절에 우리가 쓸 물건을 사라 하시는지 혹은 가난한 자들에게 무엇을 주라 하시는 줄로 생각하더라",
+      "en": "Since Judas had charge of the money, some thought Jesus was telling him to buy what was needed for the Feast, or to give something to the poor.",
+      "de": "Etliche meinten, dieweil Judas den Beutel hatte, Jesus spräche zu ihm: Kaufe was uns not ist auf das Fest! oder daß er den Armen etwas gäbe.",
+      "zh": "有人因犹大带着钱囊，以为耶稣是对他说：「你去买我们过节所应用的东西」，或是叫他拿什么周济穷人。",
+      "ja": "ユダが金入れを持っていたので、イエスが彼に、「祭りのために入用の物を買え。」と言われたのだとか、または、貧しい人々に何か施しをするように言われたのだとか思った者も中にはいた。"
+    },
+    {
+      "number": 30,
+      "ko": "유다가 그 조각을 받고 곧 나가니 밤이러라",
+      "en": "As soon as Judas had taken the bread, he went out. And it was night.",
+      "de": "Da er nun den Bissen genommen hatte, ging er alsbald hinaus. Und es war Nacht.",
+      "zh": "犹大受了那点饼，立刻就出去。那时候是夜间了。",
+      "ja": "ユダは、パン切れを受けるとすぐ、外に出て行った。すでに夜であった。"
+    },
+    {
+      "number": 31,
+      "ko": "그가 나간 후에 예수께서 이르시되 지금 인자가 영광을 받았고 하나님도 인자로 말미암아 영광을 받으셨도다",
+      "en": "When he was gone, Jesus said, \"Now is the Son of Man glorified and God is glorified in him.",
+      "de": "Da er aber hinausgegangen war, spricht Jesus: Nun ist des Menschen Sohn verklärt, und Gott ist verklärt in ihm.",
+      "zh": "他既出去，耶稣就说：「如今人子得了荣耀，　神在人子身上也得了荣耀。",
+      "ja": "ユダが出て行ったとき、イエスは言われた。「今こそ人の子は栄光を受けました。また、神は人の子によって栄光をお受けになりました。"
+    },
+    {
+      "number": 32,
+      "ko": "만일 하나님이 그로 말미암아 영광을 받으셨으면 하나님도 자기로 말미암아 그에게 영광을 주시리니 곧 주시리라",
+      "en": "If God is glorified in him, God will glorify the Son in himself, and will glorify him at once.",
+      "de": "Ist Gott verklärt in ihm, so wird ihn auch Gott verklären in sich selbst und wird ihn bald verklären.",
+      "zh": "神要因自己荣耀人子，并且要快快地荣耀他。",
+      "ja": "神が、人の子によって栄光をお受けになったのであれば、神も、ご自身によって人の子に栄光をお与えになります。しかも、ただちにお与えになります。"
+    },
+    {
+      "number": 33,
+      "ko": "작은 자들아 내가 아직 잠시 너희와 함께 있겠노라 너희가 나를 찾을 것이나 일찍이 내가 유대인들에게 너희는 내가 가는 곳에 올 수 없다고 말한 것과 같이 지금 너희에게도 이르노라",
+      "en": "\"My children, I will be with you only a little longer. You will look for me, and just as I told the Jews, so I tell you now: Where I am going, you cannot come.",
+      "de": "Liebe Kindlein, ich bin noch eine kleine Weile bei euch. Ihr werdet mich suchen; und wie ich zu den Juden sagte: “Wo ich hin gehe, da könnet ihr nicht hin kommen”, sage ich jetzt auch euch.",
+      "zh": "小子们，我还有不多的时候与你们同在；后来你们要找我，但我所去的地方你们不能到。这话我曾对犹太人说过，如今也照样对你们说。",
+      "ja": "子どもたちよ。わたしはいましばらくの間、あなたがたといっしょにいます。あなたがたはわたしを捜すでしょう。そして、『わたしが行く所へは、あなたがたは来ることができない。』とわたしがユダヤ人たちに言ったように、今はあなたがたにも言うのです。"
+    },
+    {
+      "number": 34,
+      "ko": "새 계명을 너희에게 주노니 서로 사랑하라 내가 너희를 사랑한 것 같이 너희도 서로 사랑하라",
+      "en": "\"A new command I give you: Love one another. As I have loved you, so you must love one another.",
+      "de": "Ein neu Gebot gebe ich euch, daß ihr euch untereinander liebet, wie ich euch geliebt habe, auf daß auch ihr einander liebhabet.",
+      "zh": "我赐给你们一条新命令，乃是叫你们彼此相爱；我怎样爱你们，你们也要怎样相爱。",
+      "ja": "あなたがたに新しい戒めを与えましょう。あなたがたは互いに愛し合いなさい。わたしがあなたがたを愛したように、そのように、あなたがたも互いに愛し合いなさい。"
+    },
+    {
+      "number": 35,
+      "ko": "너희가 서로 사랑하면 이로써 모든 사람이 너희가 내 제자인 줄 알리라",
+      "en": "By this all men will know that you are my disciples, if you love one another.\"",
+      "de": "Dabei wird jedermann erkennen, daß ihr meine Jünger seid, so ihr Liebe untereinander habt.",
+      "zh": "你们若有彼此相爱的心，众人因此就认出你们是我的门徒了。」",
+      "ja": "もしあなたがたの互いの間に愛があるなら、それによって、あなたがたがわたしの弟子であることを、すべての人が認めるのです。」"
+    },
+    {
+      "number": 36,
+      "ko": "시몬 베드로가 이르되 주여 어디로 가시나이까 예수께서 대답하시되 내가 가는 곳에 네가 지금은 따라올 수 없으나 후에는 따라오리라",
+      "en": "Simon Peter asked him, \"Lord, where are you going?\" Jesus replied, \"Where I am going, you cannot follow now, but you will follow later.\"",
+      "de": "Spricht Simon Petrus zu ihm: HERR, wo gehst du hin? Jesus antwortete ihm: Wo ich hin gehe, kannst du mir diesmal nicht folgen; aber du wirst mir nachmals folgen.",
+      "zh": "西门·彼得问耶稣说：「主往哪里去？」耶稣回答说：「我所去的地方，你现在不能跟我去，后来却要跟我去。」",
+      "ja": "シモン・ペテロがイエスに言った。「主よ。どこにおいでになるのですか。」イエスは答えられた。「わたしが行く所に、あなたは今はついて来ることができません。しかし後にはついて来ます。」"
+    },
+    {
+      "number": 37,
+      "ko": "베드로가 이르되 주여 내가 지금은 어찌하여 따라갈 수 없나이까 주를 위하여 내 목숨을 버리겠나이다",
+      "en": "Peter asked, \"Lord, why can't I follow you now? I will lay down my life for you.\"",
+      "de": "Petrus spricht zu ihm: HERR, warum kann ich dir diesmal nicht folgen? Ich will mein Leben für dich lassen.",
+      "zh": "彼得说：「主啊，我为什么现在不能跟你去？我愿意为你舍命！」",
+      "ja": "ペテロはイエスに言った。「主よ。なぜ今はあなたについて行くことができないのですか。あなたのためにはいのちも捨てます。」"
+    },
+    {
+      "number": 38,
+      "ko": "예수께서 대답하시되 네가 나를 위하여 네 목숨을 버리겠느냐 내가 진실로 진실로 네게 이르노니 닭 울기 전에 네가 세 번 나를 부인하리라",
+      "en": "Then Jesus answered, \"Will you really lay down your life for me? I tell you the truth, before the rooster crows, you will disown me three times!",
+      "de": "Jesus antwortete ihm: Solltest du dein Leben für mich lassen? Wahrlich, wahrlich ich sage dir: Der Hahn wird nicht krähen, bis du mich dreimal habest verleugnet.",
+      "zh": "耶稣说：「你愿意为我舍命吗？我实实在在地告诉你，鸡叫以先，你要三次不认我。」",
+      "ja": "イエスは答えられた。「わたしのためにはいのちも捨てる、と言うのですか。まことに、まことに、あなたに告げます。鶏が鳴くまでに、あなたは三度わたしを知らないと言います。」"
+    }
+  ]
+}

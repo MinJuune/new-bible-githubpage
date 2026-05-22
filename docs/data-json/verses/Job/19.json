@@ -1,0 +1,238 @@
+{
+  "book": "Job",
+  "chapter": 19,
+  "verses": [
+    {
+      "number": 1,
+      "ko": "욥이 대답하여 이르되",
+      "en": "Then Job replied:",
+      "de": "Hiob antwortete und sprach:",
+      "zh": "约伯回答说：",
+      "ja": "ヨブこたへて曰く"
+    },
+    {
+      "number": 2,
+      "ko": "너희가 내 마음을 괴롭히며 말로 나를 짓부수기를 어느 때까지 하겠느냐",
+      "en": "\"How long will you torment me and crush me with words?",
+      "de": "Wie lange plagt ihr doch meine Seele und peinigt mich mit Worten?",
+      "zh": "你们搅扰我的心， 用言语压碎我要到几时呢？",
+      "ja": "汝ら我心をなやまし 言語をもて我を打くだくこと何時までぞや"
+    },
+    {
+      "number": 3,
+      "ko": "너희가 열 번이나 나를 학대하고도 부끄러워 아니하는구나",
+      "en": "Ten times now you have reproached me; shamelessly you attack me.",
+      "de": "Ihr habt mich nun zehnmal gehöhnt und schämt euch nicht, daß ihr mich also umtreibt.",
+      "zh": "你们这十次羞辱我； 你们苦待我也不以为耻。",
+      "ja": "なんぢら已に十次も我を辱しめ我を惡く待ひてなほ愧るところ無し"
+    },
+    {
+      "number": 4,
+      "ko": "비록 내게 허물이 있다 할지라도 그 허물이 내게만 있느냐",
+      "en": "If it is true that I have gone astray, my error remains my concern alone.",
+      "de": "Irre ich, so irre ich mir.",
+      "zh": "果真我有错， 这错乃是在我。",
+      "ja": "假令われ眞に過ちたらんもその過は我の身に止れり"
+    },
+    {
+      "number": 5,
+      "ko": "너희가 참으로 나를 향하여 자만하며 내게 수치스러운 행위가 있다고 증언하려면 하려니와",
+      "en": "If indeed you would exalt yourselves above me and use my humiliation against me,",
+      "de": "Wollt ihr wahrlich euch über mich erheben und wollt meine Schmach mir beweisen,",
+      "zh": "你们果然要向我夸大， 以我的羞辱为证指责我，",
+      "ja": "なんぢら眞に我に向ひて誇り我身に羞べき行爲ありと證するならば"
+    },
+    {
+      "number": 6,
+      "ko": "하나님이 나를 억울하게 하시고 자기 그물로 나를 에워싸신 줄을 알아야 할지니라",
+      "en": "then know that God has wronged me and drawn his net around me.",
+      "de": "so merkt doch nun einmal, daß mir Gott Unrecht tut und hat mich mit seinem Jagdstrick umgeben.",
+      "zh": "就该知道是　神倾覆我， 用网罗围绕我。",
+      "ja": "神われを虐げその網羅をもて我を包みたまへりと知るべし"
+    },
+    {
+      "number": 7,
+      "ko": "내가 폭행을 당한다고 부르짖으나 응답이 없고 도움을 간구하였으나 정의가 없구나",
+      "en": "\"Though I cry, 'I've been wronged!' I get no response; though I call for help, there is no justice.",
+      "de": "Siehe, ob ich schon schreie über Frevel, so werde ich doch nicht erhört; ich rufe, und ist kein Recht da.",
+      "zh": "我因委曲呼叫，却不蒙应允； 我呼求，却不得公断。",
+      "ja": "我虐げらるると叫べども答なく 呼はり求むれども審理なし"
+    },
+    {
+      "number": 8,
+      "ko": "그가 내 길을 막아 지나가지 못하게 하시고 내 앞길에 어둠을 두셨으며",
+      "en": "He has blocked my way so I cannot pass; he has shrouded my paths in darkness.",
+      "de": "Er hat meinen Weg verzäunt, daß ich nicht kann hinübergehen, und hat Finsternis auf meinen Steig gestellt.",
+      "zh": "神用篱笆拦住我的道路，使我不得经过； 又使我的路径黑暗。",
+      "ja": "彼わが路の周圍に垣を結めぐらして逾る能はざらしめ 我が行く途に黑暗を蒙むらしめ"
+    },
+    {
+      "number": 9,
+      "ko": "나의 영광을 거두어가시며 나의 관모를 머리에서 벗기시고",
+      "en": "He has stripped me of my honor and removed the crown from my head.",
+      "de": "Er hat meine Ehre mir ausgezogen und die Krone von meinem Haupt genommen.",
+      "zh": "他剥去我的荣光， 摘去我头上的冠冕。",
+      "ja": "わが光榮を褫ぎ我冠冕を首より奪ひ"
+    },
+    {
+      "number": 10,
+      "ko": "사면으로 나를 헐으시니 나는 죽었구나 내 희망을 나무 뽑듯 뽑으시고",
+      "en": "He tears me down on every side till I am gone; he uproots my hope like a tree.",
+      "de": "Er hat mich zerbrochen um und um und läßt mich gehen und hat ausgerissen meine Hoffnung wie einen Baum.",
+      "zh": "他在四围攻击我，我便归于死亡， 将我的指望如树拔出来。",
+      "ja": "四方より我を毀ちて失しめ 我望を樹のごとくに根より拔き"
+    },
+    {
+      "number": 11,
+      "ko": "나를 향하여 진노하시고 원수 같이 보시는구나",
+      "en": "His anger burns against me; he counts me among his enemies.",
+      "de": "Sein Zorn ist über mich ergrimmt, und er achtet mich für seinen Feind.",
+      "zh": "他的忿怒向我发作， 以我为敌人。",
+      "ja": "我にむかひて震怒を燃し 我を敵の一人と見たまへり"
+    },
+    {
+      "number": 12,
+      "ko": "그 군대가 일제히 나아와서 길을 돋우고 나를 치며 내 장막을 둘러 진을 쳤구나",
+      "en": "His troops advance in force; they build a siege ramp against me and encamp around my tent.",
+      "de": "Seine Kriegsscharen sind miteinander gekommen und haben ihren Weg gegen mich gebahnt und haben sich um meine Hütte her gelagert.",
+      "zh": "他的军旅一齐上来， 修筑战路攻击我， 在我帐棚的四围安营。",
+      "ja": "その軍旅ひとしく進み途を高くして我に攻寄せ わが天幕の周圍に陣を張り"
+    },
+    {
+      "number": 13,
+      "ko": "나의 형제들이 나를 멀리 떠나게 하시니 나를 아는 모든 사람이 내게 낯선 사람이 되었구나",
+      "en": "\"He has alienated my brothers from me; my acquaintances are completely estranged from me.",
+      "de": "Er hat meine Brüder fern von mir getan, und meine Verwandten sind mir fremd geworden.",
+      "zh": "他把我的弟兄隔在远处， 使我所认识的全然与我生疏。",
+      "ja": "彼わが兄弟等をして遠くわれを離れしめたまへり 我を知る人々は全く我に疎くなりぬ"
+    },
+    {
+      "number": 14,
+      "ko": "내 친척은 나를 버렸으며 가까운 친지들은 나를 잊었구나",
+      "en": "My kinsmen have gone away; my friends have forgotten me.",
+      "de": "Meine Nächsten haben sich entzogen, und meine Freunde haben mein vergessen.",
+      "zh": "我的亲戚与我断绝； 我的密友都忘记我。",
+      "ja": "わが親戚は往來を休め わが朋友はわれを忘れ"
+    },
+    {
+      "number": 15,
+      "ko": "내 집에 머물러 사는 자와 내 여종들은 나를 낯선 사람으로 여기니 내가 그들 앞에서 타국 사람이 되었구나",
+      "en": "My guests and my maidservants count me a stranger; they look upon me as an alien.",
+      "de": "Meine Hausgenossen und meine Mägde achten mich für fremd; ich bin unbekannt geworden vor ihren Augen.",
+      "zh": "在我家寄居的， 和我的使女都以我为外人； 我在他们眼中看为外邦人。",
+      "ja": "わが家に寄寓る者およびわが婢等は我を見て外人のごとくす 我かれらの前にては異國人のごとし"
+    },
+    {
+      "number": 16,
+      "ko": "내가 내 종을 불러도 대답하지 아니하니 내 입으로 그에게 간청하여야 하겠구나",
+      "en": "I summon my servant, but he does not answer, though I beg him with my own mouth.",
+      "de": "Ich rief meinen Knecht, und er antwortete mir nicht; ich mußte ihn anflehen mit eigenem Munde.",
+      "zh": "我呼唤仆人， 虽用口求他，他还是不回答。",
+      "ja": "われわが僕を喚どもこたへず 我口をもて彼に請はざるを得ざるなり"
+    },
+    {
+      "number": 17,
+      "ko": "내 아내도 내 숨결을 싫어하며 내 허리의 자식들도 나를 가련하게 여기는구나",
+      "en": "My breath is offensive to my wife; I am loathsome to my own brothers.",
+      "de": "Mein Odem ist zuwider meinem Weibe, und ich bin ein Ekel den Kindern meines Leibes.",
+      "zh": "我口的气味，我妻子厌恶； 我的恳求，我同胞也憎嫌。",
+      "ja": "わが氣息はわが妻に厭はれ わが臭氣はわが同胎の子等に嫌はる"
+    },
+    {
+      "number": 18,
+      "ko": "어린 아이들까지도 나를 업신여기고 내가 일어나면 나를 조롱하는구나",
+      "en": "Even the little boys scorn me; when I appear, they ridicule me.",
+      "de": "Auch die jungen Kinder geben nichts auf mich; wenn ich ihnen widerstehe, so geben sie mir böse Worte.",
+      "zh": "连小孩子也藐视我； 我若起来，他们都嘲笑我。",
+      "ja": "童子等さへも我を侮どり 我起あがれば即ち我を嘲ける"
+    },
+    {
+      "number": 19,
+      "ko": "나의 가까운 친구들이 나를 미워하며 내가 사랑하는 사람들이 돌이켜 나의 원수가 되었구나",
+      "en": "All my intimate friends detest me; those I love have turned against me.",
+      "de": "Alle meine Getreuen haben einen Greuel an mir; und die ich liebhatte, haben sich auch gegen mich gekehrt.",
+      "zh": "我的密友都憎恶我； 我平日所爱的人向我翻脸。",
+      "ja": "わが親しき友われを惡みわが愛したる人々ひるがへりてわが敵となれり"
+    },
+    {
+      "number": 20,
+      "ko": "내 피부와 살이 뼈에 붙었고 남은 것은 겨우 잇몸 뿐이로구나",
+      "en": "I am nothing but skin and bones; I have escaped with only the skin of my teeth.",
+      "de": "Mein Gebein hanget an mir an Haut und Fleisch, und ich kann meine Zähne mit der Haut nicht bedecken.",
+      "zh": "我的皮肉紧贴骨头； 我只剩牙皮逃脱了。",
+      "ja": "わが骨はわが皮と肉とに貼り 我は僅に齒の皮を全うして逃れしのみ"
+    },
+    {
+      "number": 21,
+      "ko": "나의 친구야 너희는 나를 불쌍히 여겨다오 나를 불쌍히 여겨다오 하나님의 손이 나를 치셨구나",
+      "en": "\"Have pity on me, my friends, have pity, for the hand of God has struck me.",
+      "de": "Erbarmt euch mein, erbarmt euch mein, ihr meine Freunde! denn die Hand Gottes hat mich getroffen.",
+      "zh": "我朋友啊，可怜我！可怜我！ 因为　神的手攻击我。",
+      "ja": "わが友よ汝等われを恤れめ 我を恤れめ 神の手われを撃り"
+    },
+    {
+      "number": 22,
+      "ko": "너희가 어찌하여 하나님처럼 나를 박해하느냐 내 살로도 부족하냐",
+      "en": "Why do you pursue me as God does? Will you never get enough of my flesh?",
+      "de": "Warum verfolgt ihr mich gleich wie Gott und könnt meines Fleisches nicht satt werden?",
+      "zh": "你们为什么仿佛　神逼迫我， 吃我的肉还以为不足呢？",
+      "ja": "汝らなにとて神のごとくして我を攻め わが肉に饜ことなきや"
+    },
+    {
+      "number": 23,
+      "ko": "나의 말이 곧 기록되었으면, 책에 씌어졌으면,",
+      "en": "\"Oh, that my words were recorded, that they were written on a scroll,",
+      "de": "Ach daß meine Reden geschrieben würden! ach daß sie in ein Buch gestellt würden!",
+      "zh": "惟愿我的言语现在写上， 都记录在书上；",
+      "ja": "望むらくは我言の書留られんことを 望むらくは我言書に記されんことを"
+    },
+    {
+      "number": 24,
+      "ko": "철필과 납으로 영원히 돌에 새겨졌으면 좋겠노라",
+      "en": "that they were inscribed with an iron tool on lead, or engraved in rock forever!",
+      "de": "mit einem eisernen Griffel auf Blei und zum ewigem Gedächtnis in Stein gehauen würden!",
+      "zh": "用铁笔镌刻， 用铅灌在磐石上，直存到永远。",
+      "ja": "望むらくは鐡の筆と鉛とをもて之を永く磐石に鐫つけおかんことを"
+    },
+    {
+      "number": 25,
+      "ko": "내가 알기에는 나의 대속자가 살아 계시니 마침내 그가 땅 위에 서실 것이라",
+      "en": "I know that my Redeemer lives, and that in the end he will stand upon the earth.",
+      "de": "Aber ich weiß, daß mein Erlöser lebt; und als der letzte wird er über dem Staube sich erheben.",
+      "zh": "我知道我的救赎主活着， 末了必站立在地上。",
+      "ja": "われ知る我を贖ふ者は活く 後の日に彼かならず地の上に立ん"
+    },
+    {
+      "number": 26,
+      "ko": "내 가죽이 벗김을 당한 뒤에도 내가 육체 밖에서 하나님을 보리라",
+      "en": "And after my skin has been destroyed, yet in my flesh I will see God;",
+      "de": "Und nachdem diese meine Haut zerschlagen ist, werde ich ohne mein Fleisch Gott sehen.",
+      "zh": "我这皮肉灭绝之后， 我必在肉体之外得见　神。",
+      "ja": "わがこの皮この身の朽はてん後 われ肉を離れて神を見ん"
+    },
+    {
+      "number": 27,
+      "ko": "내가 그를 보리니 내 눈으로 그를 보기를 낯선 사람처럼 하지 않을 것이라 내 마음이 초조하구나",
+      "en": "I myself will see him with my own eyes--I, and not another. How my heart yearns within me!",
+      "de": "Denselben werde ich mir sehen, und meine Augen werden ihn schauen, und kein Fremder. Darnach sehnen sich meine Nieren in meinem Schoß.",
+      "zh": "我自己要见他， 亲眼要看他，并不像外人。 我的心肠在我里面消灭了！",
+      "ja": "我みづから彼を見たてまつらん 我目かれを見んに識らぬ者のごとくならじ 我が心これを望みて焦る"
+    },
+    {
+      "number": 28,
+      "ko": "너희가 만일 이르기를 우리가 그를 어떻게 칠까 하며 또 이르기를 일의 뿌리가 그에게 있다 할진대",
+      "en": "\"If you say, 'How we will hound him, since the root of the trouble lies in him,'",
+      "de": "Wenn ihr sprecht: Wie wollen wir ihn verfolgen und eine Sache gegen ihn finden!",
+      "zh": "你们若说：我们逼迫他要何等地重呢？ 惹事的根乃在乎他；",
+      "ja": "なんぢら若われら如何に彼を攻んかと言ひ また事の根われに在りと言ば"
+    },
+    {
+      "number": 29,
+      "ko": "너희는 칼을 두려워 할지니라 분노는 칼의 형벌을 부르나니 너희가 심판장이 있는 줄을 알게 되리라",
+      "en": "you should fear the sword yourselves; for wrath will bring punishment by the sword, and then you will know that there is judgment.\"",
+      "de": "so fürchtet euch vor dem Schwert; denn das Schwert ist der Zorn über die Missetaten, auf daß ihr wißt, daß ein Gericht sei.",
+      "zh": "你们就当惧怕刀剑； 因为忿怒惹动刀剑的刑罚， 使你们知道有报应。",
+      "ja": "劍を懼れよ 忿怒は劍の罰をきたらす 斯なんぢら遂に審判のあるを知ん"
+    }
+  ]
+}

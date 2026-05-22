@@ -1,0 +1,270 @@
+{
+  "book": "Numbers",
+  "chapter": 13,
+  "verses": [
+    {
+      "number": 1,
+      "ko": "여호와께서 모세에게 말씀하여 이르시되",
+      "en": "The LORD said to Moses,",
+      "de": "Und der HERR redet mit Mose und sprach:",
+      "zh": "耶和华晓谕摩西说：",
+      "ja": "茲にヱホバ、モーセに告て言たまはく"
+    },
+    {
+      "number": 2,
+      "ko": "사람을 보내어 내가 이스라엘 자손에게 주는 가나안 땅을 정탐하게 하되 그들의 조상의 가문 각 지파 중에서 지휘관 된 자 한 사람씩 보내라",
+      "en": "\"Send some men to explore the land of Canaan, which I am giving to the Israelites. From each ancestral tribe send one of its leaders.\"",
+      "de": "Sende Männer aus, die das Land Kanaan erkunden, das ich den Kindern Israel geben will, aus jeglichem Stamm ihrer Väter einen vornehmen Mann.",
+      "zh": "「你打发人去窥探我所赐给以色列人的迦南地，他们每支派中要打发一个人，都要作首领的。」",
+      "ja": "汝人を遣して我がイスラエルの子孫に與ふるカナンの地を窺はしめよ即ち支派ごとに一人を取て之を遣すべし其人々は皆かれらの中の牧伯たる者なるべし"
+    },
+    {
+      "number": 3,
+      "ko": "모세가 여호와의 명령을 따라 바란 광야에서 그들을 보냈으니 그들은 다 이스라엘 자손의 수령 된 사람이라",
+      "en": "So at the LORD'S command Moses sent them out from the Desert of Paran. All of them were leaders of the Israelites.",
+      "de": "Mose, der sandte sie aus der Wüste Pharan nach dem Wort des HERRN, die alle vornehme Männer waren unter den Kindern Israel.",
+      "zh": "摩西就照耶和华的吩咐从巴兰的旷野打发他们去；他们都是以色列人的族长。",
+      "ja": "モーセすなはちヱホバの命にしたがひてバランの曠野よりこれを遣せりその人等は皆イスラエルの子孫の領袖たる者なり"
+    },
+    {
+      "number": 4,
+      "ko": "그들의 이름은 이러하니라 르우벤 지파에서는 삭굴의 아들 삼무아요",
+      "en": "These are their names: from the tribe of Reuben, Shammua son of Zaccur;",
+      "de": "Und hießen also: Sammua, der Sohn Sakkurs, des Stammes Ruben;",
+      "zh": "他们的名字：属吕便支派的有撒刻的儿子沙母亚。",
+      "ja": "その名は是のごとしルベンの支派にてはザックルの子シヤンマ"
+    },
+    {
+      "number": 5,
+      "ko": "시므온 지파에서는 호리의 아들 사밧이요",
+      "en": "from the tribe of Simeon, Shaphat son of Hori;",
+      "de": "Saphat, der Sohn Horis, des Stammes Simeon;",
+      "zh": "属西缅支派的有何利的儿子沙法。",
+      "ja": "シメオンの支派にてはホリの子シヤパテ"
+    },
+    {
+      "number": 6,
+      "ko": "유다 지파에서는 여분네의 아들 갈렙이요",
+      "en": "from the tribe of Judah, Caleb son of Jephunneh;",
+      "de": "Kaleb, der Sohn Jephunnes, des Stammes Juda;",
+      "zh": "属犹大支派的有耶孚尼的儿子迦勒。",
+      "ja": "ユダの支派にてはエフンネの子カルブ"
+    },
+    {
+      "number": 7,
+      "ko": "잇사갈 지파에서는 요셉의 아들 이갈이요",
+      "en": "from the tribe of Issachar, Igal son of Joseph;",
+      "de": "Jigeal, der Sohn Josephs, des Stammes Isaschar;",
+      "zh": "属以萨迦支派的有约色的儿子以迦。",
+      "ja": "イッサカルの支派にてはヨセフの子イガル"
+    },
+    {
+      "number": 8,
+      "ko": "에브라임 지파에서는 눈의 아들 호세아요",
+      "en": "from the tribe of Ephraim, Hoshea son of Nun;",
+      "de": "Hosea, der Sohn Nuns, des Stammes Ephraim;",
+      "zh": "属以法莲支派的有嫩的儿子何希阿。",
+      "ja": "エフライムの支派にてはヌンの子ホセア"
+    },
+    {
+      "number": 9,
+      "ko": "베냐민 지파에서는 라부의 아들 발디요",
+      "en": "from the tribe of Benjamin, Palti son of Raphu;",
+      "de": "Palti, der Sohn Raphus, des Stammes Benjamin;",
+      "zh": "属便雅悯支派的有拉孚的儿子帕提。",
+      "ja": "ベニヤミンの支派にてはラフの子パルテ"
+    },
+    {
+      "number": 10,
+      "ko": "스불론 지파에서는 소디의 아들 갓디엘이요",
+      "en": "from the tribe of Zebulun, Gaddiel son of Sodi;",
+      "de": "Gaddiel, der Sohn Sodis, des Stammes Sebulon;",
+      "zh": "属西布伦支派的有梭底的儿子迦叠。",
+      "ja": "ゼブルンの支派にてはソデの子ガデエル"
+    },
+    {
+      "number": 11,
+      "ko": "요셉 지파 곧 므낫세 지파에서는 수시의 아들 갓디요",
+      "en": "from the tribe of Manasseh (a tribe of Joseph), Gaddi son of Susi;",
+      "de": "Gaddi, der Sohn Susis, des Stammes Joseph von Manasse;",
+      "zh": "约瑟的子孙，属玛拿西支派的有稣西的儿子迦底。",
+      "ja": "ヨセフの支派すなはちマナセの支派にてはスシの子ガデ"
+    },
+    {
+      "number": 12,
+      "ko": "단 지파에서는 그말리의 아들 암미엘이요",
+      "en": "from the tribe of Dan, Ammiel son of Gemalli;",
+      "de": "Ammiel, der Sohn Gemallis, des Stammes Dan;",
+      "zh": "属但支派的有基玛利的儿子亚米利。",
+      "ja": "ダンの支派にではゲマリの子アンミエル"
+    },
+    {
+      "number": 13,
+      "ko": "아셀 지파에서는 미가엘의 아들 스둘이요",
+      "en": "from the tribe of Asher, Sethur son of Michael;",
+      "de": "Sethur, der Sohn Michaels, des Stammes Asser;",
+      "zh": "属亚设支派的有米迦勒的儿子西帖。",
+      "ja": "アセルの支派にてはミカエルの子セトル"
+    },
+    {
+      "number": 14,
+      "ko": "납달리 지파에서는 웝시의 아들 나비요",
+      "en": "from the tribe of Naphtali, Nahbi son of Vophsi;",
+      "de": "Nahebi, der Sohn Vaphsis, des Stammes Naphthali;",
+      "zh": "属拿弗他利支派的有缚西的儿子拿比。",
+      "ja": "ナフタリの支派にてはワフシの子ナヘビ"
+    },
+    {
+      "number": 15,
+      "ko": "갓 지파에서는 마기의 아들 그우엘이니",
+      "en": "from the tribe of Gad, Geuel son of Maki.",
+      "de": "Guel, der Sohn Machis, des Stammes Gad.",
+      "zh": "属迦得支派的有玛基的儿子臼利。",
+      "ja": "ガドの支派にてはマキの子ギウエル"
+    },
+    {
+      "number": 16,
+      "ko": "이는 모세가 땅을 정탐하러 보낸 자들의 이름이라 모세가 눈의 아들 호세아를 여호수아라 불렀더라",
+      "en": "These are the names of the men Moses sent to explore the land. (Moses gave Hoshea son of Nun the name Joshua.)",
+      "de": "Das sind die Namen der Männer, die Mose aussandte, zu erkunden das Land. Aber Hosea, den Sohn Nuns, nannte Mose Josua.",
+      "zh": "这就是摩西所打发、窥探那地之人的名字。摩西就称嫩的儿子何希阿为约书亚。",
+      "ja": "是すなはちモーセがその地を窺はしめんとて遣したる人々の名なり時にモーセ、ヌンの子ホセアをヨシユアと名けたり"
+    },
+    {
+      "number": 17,
+      "ko": "모세가 가나안 땅을 정탐하러 그들을 보내며 이르되 너희는 네겝 길로 행하여 산지로 올라가서",
+      "en": "When Moses sent them to explore Canaan, he said, \"Go up through the Negev and on into the hill country.",
+      "de": "Da sie nun Mose sandte, das Land Kanaan zu erkunden, sprach er zu ihnen: Ziehet hinauf ins Mittagsland und geht auf das Gebirge",
+      "zh": "摩西打发他们去窥探迦南地，说：「你们从南地上山地去，",
+      "ja": "モーセかれらを遣はしてカナンの地を窺はしめんとして之に言けるは汝等その南の方に赴きて山に登り"
+    },
+    {
+      "number": 18,
+      "ko": "그 땅이 어떠한지 정탐하라 곧 그 땅 거민이 강한지 약한지 많은지 적은지와",
+      "en": "See what the land is like and whether the people who live there are strong or weak, few or many.",
+      "de": "und besehet das Land, wie es ist, und das Volk, das darin wohnt, ob's stark oder schwach, wenig oder viel ist;",
+      "zh": "看那地如何，其中所住的民是强是弱，是多是少，",
+      "ja": "その地の如何と其處に住む民の強か弱か多か寡かを觀"
+    },
+    {
+      "number": 19,
+      "ko": "그들이 사는 땅이 좋은지 나쁜지와 사는 성읍이 진영인지 산성인지와",
+      "en": "What kind of land do they live in? Is it good or bad? What kind of towns do they live in? Are they unwalled or fortified?",
+      "de": "und was es für ein Land ist, darin sie wohnen, ob's gut oder böse sei; und was für Städte sind, darin sie wohnen, ob sie in Gezelten oder Festungen wohnen;",
+      "zh": "所住之地是好是歹，所住之处是营盘是坚城。",
+      "ja": "またその住ところの地は善か惡か其住ところの邑々は如何なるものなるか彼等は天幕に住をるか城の邑に住をるかを觀"
+    },
+    {
+      "number": 20,
+      "ko": "토지가 비옥한지 메마른지 나무가 있는지 없는지를 탐지하라 담대하라 또 그 땅의 실과를 가져오라 하니 그 때는 포도가 처음 익을 즈음이었더라",
+      "en": "How is the soil? Is it fertile or poor? Are there trees on it or not? Do your best to bring back some of the fruit of the land.\" (It was the season for the first ripe grapes.)",
+      "de": "und was es für Land sei, ob's fett oder mager sei und ob Bäume darin sind oder nicht. Seid getrost und nehmet die Früchte des Landes. Es war aber eben um die Zeit der ersten Weintrauben.",
+      "zh": "又看那地土是肥美是瘠薄，其中有树木没有。你们要放开胆量，把那地的果子带些来。」（那时正是葡萄初熟的时候。）",
+      "ja": "またその地は腴なるか痩たるか其中に樹あるや否を觀よ汝等勇しかれその地の果物を携へきたれよとこの時は葡萄の熟し始むる時なりき"
+    },
+    {
+      "number": 21,
+      "ko": "이에 그들이 올라가서 땅을 정탐하되 신 광야에서부터 하맛 어귀 르홉에 이르렀고",
+      "en": "So they went up and explored the land from the Desert of Zin as far as Rehob, toward Lebo Hamath.",
+      "de": "Sie gingen hinauf und erkundeten das Land von der Wüste Zin bis gen Rehob, da man gen Hamath geht.",
+      "zh": "他们上去窥探那地，从寻的旷野到利合，直到哈马口。",
+      "ja": "是において彼等上りゆきてその地を窺ひチンの曠野よりレホブにおよべり是はハマテに近し"
+    },
+    {
+      "number": 22,
+      "ko": "또 네겝으로 올라가서 헤브론에 이르렀으니 헤브론은 애굽 소안보다 칠 년 전에 세운 곳이라 그 곳에 아낙 자손 아히만과 세새와 달매가 있었더라",
+      "en": "They went up through the Negev and came to Hebron, where Ahiman, Sheshai and Talmai, the descendants of Anak, lived. (Hebron had been built seven years before Zoan in Egypt.)",
+      "de": "Sie gingen auch hinauf ins Mittagsland und kamen bis gen Hebron; da waren Ahiman, Sesai und Thalmai, die Kinder Enaks. Hebron aber war sieben Jahre gebaut vor Zoan in Ägypten.",
+      "zh": "他们从南地上去，到了希伯 ；在那里有亚衲族人亚希幔、示筛、挞买。（原来希伯 城被建造比埃及的锁安城早七年。）",
+      "ja": "彼等すなはち南の方に上りゆきてヘブロンにいたれり此にはアナクの子アヒマン、セシヤイおよびタルマイあり(ヘブロンはエジプトのゾアンよりも七年前に建たる者なり)"
+    },
+    {
+      "number": 23,
+      "ko": "또 에스골 골짜기에 이르러 거기서 포도송이가 달린 가지를 베어 둘이 막대기에 꿰어 메고 또 석류와 무화과를 따니라",
+      "en": "When they reached the Valley of Eshcol, they cut off a branch bearing a single cluster of grapes. Two of them carried it on a pole between them, along with some pomegranates and figs.",
+      "de": "Und sie kamen bis an den Bach Eskol und schnitten daselbst eine Rebe ab mit einer Weintraube und ließen sie zwei auf einem Stecken tragen, dazu auch Granatäpfel und Feigen.",
+      "zh": "他们到了以实各谷，从那里砍了葡萄树的一枝，上头有一挂葡萄，两个人用杠抬着，又带了些石榴和无花果来。（",
+      "ja": "彼らつひにエシコルの谷にいたり其處より一球の葡萄のなれる枝を砍とりてこれを杠に貫き二人してこれを擔へりまた石榴と無花果を取り"
+    },
+    {
+      "number": 24,
+      "ko": "이스라엘 자손이 거기서 포도를 베었으므로 그 곳을 에스골 골짜기라 불렀더라",
+      "en": "That place was called the Valley of Eshcol because of the cluster of grapes the Israelites cut off there.",
+      "de": "Der Ort heißt Bach Eskol um der Traube willen, die die Kinder Israel daselbst abschnitten.",
+      "zh": "因为以色列人从那里砍来的那挂葡萄，所以那地方叫做以实各谷。）",
+      "ja": "イスラエルの子孫其處より葡萄一球を砍とりしが故にその處をエシコル(一球の葡萄)の谷と稱ふ"
+    },
+    {
+      "number": 25,
+      "ko": "사십 일 동안 땅을 정탐하기를 마치고 돌아와",
+      "en": "At the end of forty days they returned from exploring the land.",
+      "de": "Und sie kehrten um, als sie das Land erkundet hatten, nach vierzig Tagen,",
+      "zh": "过了四十天，他们窥探那地才回来，",
+      "ja": "彼ら四十日を經その地を窺ふことを竟て歸り"
+    },
+    {
+      "number": 26,
+      "ko": "바란 광야 가데스에 이르러 모세와 아론과 이스라엘 자손의 온 회중에게 나아와 그들에게 보고하고 그 땅의 과일을 보이고",
+      "en": "They came back to Moses and Aaron and the whole Israelite community at Kadesh in the Desert of Paran. There they reported to them and to the whole assembly and showed them the fruit of the land.",
+      "de": "gingen hin und kamen zu Mose und Aaron und zu der ganzen Gemeinde der Kinder Israel in die Wüste Pharan gen Kades und sagten ihnen wieder und der ganzen Gemeinde, wie es stände, und ließen sie die Früchte des Landes sehen.",
+      "zh": "到了巴兰旷野的加低斯，见摩西、亚伦，并以色列的全会众，回报摩西、亚伦，并全会众，又把那地的果子给他们看；",
+      "ja": "パランの曠野なるカデシに至りてモーセとアロンおよびイスラエルの子孫の全會衆に就きかれらと全會衆にその復命を申しその地の果物をこれに見せり"
+    },
+    {
+      "number": 27,
+      "ko": "모세에게 말하여 이르되 당신이 우리를 보낸 땅에 간즉 과연 그 땅에 젖과 꿀이 흐르는데 이것은 그 땅의 과일이니이다",
+      "en": "They gave Moses this account: \"We went into the land to which you sent us, and it does flow with milk and honey! Here is its fruit.",
+      "de": "Und erzählten ihnen und sprachen: Wir sind in das Land gekommen, dahin ihr uns sandtet, darin Milch und Honig fließt, und dies ist seine Frucht;",
+      "zh": "又告诉摩西说：「我们到了你所打发我们去的那地，果然是流奶与蜜之地；这就是那地的果子。",
+      "ja": "彼等すなはちモーセに語りて言ふ我等は汝が遣しし地にいたれり誠に其處は乳と蜜とながる是その果物なり"
+    },
+    {
+      "number": 28,
+      "ko": "그러나 그 땅 거주민은 강하고 성읍은 견고하고 심히 클 뿐 아니라 거기서 아낙 자손을 보았으며",
+      "en": "But the people who live there are powerful, and the cities are fortified and very large. We even saw descendants of Anak there.",
+      "de": "nur, daß starkes Volk darin wohnt und sehr große und feste Städte sind; und wir sahen auch Enaks Kinder daselbst.",
+      "zh": "然而住那地的民强壮，城邑也坚固宽大，并且我们在那里看见了亚衲族的人。",
+      "ja": "然ながらその地に住む民は猛くその邑々は堅固にして甚だ大なり我等またアナクの子孫の其處にをるを見たり"
+    },
+    {
+      "number": 29,
+      "ko": "아말렉인은 남방 땅에 거주하고 헷인과 여부스인과 아모리인은 산지에 거주하고 가나안인은 해변과 요단 가에 거주하더이다",
+      "en": "The Amalekites live in the Negev; the Hittites, Jebusites and Amorites live in the hill country; and the Canaanites live near the sea and along the Jordan.\"",
+      "de": "So wohnen die Amalekiter im Lande gegen Mittag, die Hethiter und Jebusiter und Amoriter wohnen auf dem Gebirge, die Kanaaniter aber wohnen am Meer und um den Jordan.",
+      "zh": "亚玛力人住在南地；赫人、耶布斯人、亚摩利人住在山地；迦南人住在海边并约旦河旁。」",
+      "ja": "またアマレキ人その南の地に住みヘテ人エブス人およびアモリ人その山々に住みカナン人その海邊とヨルダンの邊に住をると"
+    },
+    {
+      "number": 30,
+      "ko": "갈렙이 모세 앞에서 백성을 조용하게 하고 이르되 우리가 곧 올라가서 그 땅을 취하자 능히 이기리라 하나",
+      "en": "Then Caleb silenced the people before Moses and said, \"We should go up and take possession of the land, for we can certainly do it.\"",
+      "de": "Kaleb aber stillte das Volk gegen Mose und sprach: Laßt uns hinaufziehen und das Land einnehmen; denn wir können es überwältigen.",
+      "zh": "迦勒在摩西面前安抚百姓，说：「我们立刻上去得那地吧！我们足能得胜。」",
+      "ja": "時にカルブ、モーセの前に民を靜めて言けるは我等直に上りゆきて之を攻取ん我等は必ずこれに勝ことを得ん"
+    },
+    {
+      "number": 31,
+      "ko": "그와 함께 올라갔던 사람들은 이르되 우리는 능히 올라가서 그 백성을 치지 못하리라 그들은 우리보다 강하니라 하고",
+      "en": "But the men who had gone up with him said, \"We can't attack those people; they are stronger than we are.\"",
+      "de": "Aber die Männer, die mit ihm waren hinaufgezogen, sprachen: Wir vermögen nicht hinaufzuziehen gegen das Volk; denn sie sind uns zu stark,",
+      "zh": "但那些和他同去的人说：「我们不能上去攻击那民，因为他们比我们强壮。」",
+      "ja": "然ど彼とともに往たる人々は言ふ我等はかの民の所に攻上ることを得ず彼らは我らよりも強ければなりと"
+    },
+    {
+      "number": 32,
+      "ko": "이스라엘 자손 앞에서 그 정탐한 땅을 악평하여 이르되 우리가 두루 다니며 정탐한 땅은 그 거주민을 삼키는 땅이요 거기서 본 모든 백성은 신장이 장대한 자들이며",
+      "en": "And they spread among the Israelites a bad report about the land they had explored. They said, \"The land we explored devours those living in it. All the people we saw there are of great size.",
+      "de": "und machten dem Lande, das sie erkundet hatten, ein böses Geschrei unter den Kindern Israel und sprachen: Das Land, dadurch wir gegangen sind, es zu erkunden, frißt seine Einwohner, und alles Volk, das wir darin sahen, sind Leute von großer Länge.",
+      "zh": "探子中有人论到所窥探之地，向以色列人报恶信，说：「我们所窥探、经过之地是吞吃居民之地，我们在那里所看见的人民都身量高大。",
+      "ja": "彼等すなはちその窺ひたりし地の事をイスラエルの子孫の中に惡く言ふらして云く我等が行巡りて窺ひたる地は其中に住む者を呑ほろぼす地なり且またその中に我等が見し民はみな身幹たかき人なりし"
+    },
+    {
+      "number": 33,
+      "ko": "거기서 네피림 후손인 아낙 자손의 거인들을 보았나니 우리는 스스로 보기에도 메뚜기 같으니 그들이 보기에도 그와 같았을 것이니라",
+      "en": "We saw the Nephilim there (the descendants of Anak come from the Nephilim). We seemed like grasshoppers in our own eyes, and we looked the same to them.\"",
+      "de": "Wir sahen auch Riesen daselbst, Enaks Kinder von den Riesen; und wir waren vor unsern Augen wie Heuschrecken, und also waren wir auch vor ihren Augen.",
+      "zh": "我们在那里看见亚衲族人，就是伟人；他们是伟人的后裔。据我们看，自己就如蚱蜢一样；据他们看，我们也是如此。」",
+      "ja": "我等またアナクの子ネピリムを彼處に見たり是ネピリムより出たる者なり我儕は自ら見るに蝗のごとくまた彼らにも然見なされたり"
+    }
+  ]
+}

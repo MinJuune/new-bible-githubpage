@@ -1,0 +1,310 @@
+{
+  "book": "Leviticus",
+  "chapter": 7,
+  "verses": [
+    {
+      "number": 1,
+      "ko": "속건제의 규례는 이러하니라 이는 지극히 거룩하니",
+      "en": "\"'These are the regulations for the guilt offering, which is most holy:",
+      "de": "Und dies ist das Gesetz des Schuldopfers. Ein Hochheiliges ist es.",
+      "zh": "「赎愆祭的条例乃是如此：这祭是至圣的。",
+      "ja": "また愆祭の例は是のごとし是は至聖者なり"
+    },
+    {
+      "number": 2,
+      "ko": "번제물을 잡는 곳에서 속건제의 번제물을 잡을 것이요 제사장은 그 피를 제단 사방에 뿌릴 것이며",
+      "en": "The guilt offering is to be slaughtered in the place where the burnt offering is slaughtered, and its blood is to be sprinkled against the altar on all sides.",
+      "de": "An der Stätte, da man das Brandopfer schlachtet, soll man auch das Schuldopfer schlachten und sein Blut auf dem Altar umhersprengen.",
+      "zh": "人在那里宰燔祭牲，也要在那里宰赎愆祭牲；其血，祭司要洒在坛的周围。",
+      "ja": "燔祭を宰る場にて愆祭を宰るべし而して祭司その血を壇の四周にそそぎ"
+    },
+    {
+      "number": 3,
+      "ko": "그 기름을 모두 드리되 곧 그 기름진 꼬리와 내장에 덮인 기름과",
+      "en": "All its fat shall be offered: the fat tail and the fat that covers the inner parts,",
+      "de": "Und all sein Fett soll man opfern, den Schwanz und das Fett, welches das Eingeweide bedeckt,",
+      "zh": "又要将肥尾巴和盖脏的脂油，",
+      "ja": "その脂をことごとく献ぐべし即ちその脂の尾その臓腑を裹むところの諸の脂"
+    },
+    {
+      "number": 4,
+      "ko": "두 콩팥과 그 위의 기름 곧 허리 쪽에 있는 것과 간에 덮인 꺼풀을 콩팥과 함께 떼어내고",
+      "en": "both kidneys with the fat on them near the loins, and the covering of the liver, which is to be removed with the kidneys.",
+      "de": "die zwei Nieren mit dem Fett, das daran ist, an den Lenden, und das Netz über der Leber, an den Nieren abgerissen.",
+      "zh": "两个腰子和腰子上的脂油，就是靠腰两旁的脂油，并肝上的网子和腰子，一概取下。",
+      "ja": "兩個の腎とその上の脂の腰の兩傍にある者および肝の上の網膜の腎の上におよべる者を取り"
+    },
+    {
+      "number": 5,
+      "ko": "제사장은 그것을 다 제단 위에서 불살라 여호와께 화제로 드릴 것이니 이는 속건제니라",
+      "en": "The priest shall burn them on the altar as an offering made to the LORD by fire. It is a guilt offering.",
+      "de": "Und der Priester soll's auf dem Altar anzünden zum Feuer dem HERRN. Das ist ein Schuldopfer.",
+      "zh": "祭司要在坛上焚烧，为献给耶和华的火祭，是赎愆祭。",
+      "ja": "祭司これを壇の上に焚てヱホバに火祭とすべし之を愆祭となす"
+    },
+    {
+      "number": 6,
+      "ko": "제사장인 남자는 모두 그것을 먹되 거룩한 곳에서 먹을지니라 그것은 지극히 거룩하니라",
+      "en": "Any male in a priest's family may eat it, but it must be eaten in a holy place; it is most holy.",
+      "de": "Was männlich ist unter den Priestern, die sollen das essen an heiliger Stätte; denn es ist ein Hochheiliges.",
+      "zh": "祭司中的男丁都可以吃这祭物；要在圣处吃，是至圣的。",
+      "ja": "祭司等の中の男たる者はみな之を食ふことを得是は聖所に食ふべし至聖者なり"
+    },
+    {
+      "number": 7,
+      "ko": "속죄제와 속건제는 규례가 같으니 그 제물은 속죄하는 제사장에게로 돌아갈 것이요",
+      "en": "\"'The same law applies to both the sin offering and the guilt offering: They belong to the priest who makes atonement with them.",
+      "de": "Wie das Sündopfer, also soll auch das Schuldopfer sein; aller beider soll einerlei Gesetz sein; und sollen dem Priester gehören, der dadurch versöhnt.",
+      "zh": "赎罪祭怎样，赎愆祭也是怎样，两个祭是一个条例。献赎愆祭赎罪的祭司要得这祭物。",
+      "ja": "罪祭も愆祭もその例は一にして異らずこれは贖罪をなすところの祭司に歸すべし"
+    },
+    {
+      "number": 8,
+      "ko": "사람을 위하여 번제를 드리는 제사장 곧 그 제사장은 그 드린 번제물의 가죽을 자기가 가질 것이며",
+      "en": "The priest who offers a burnt offering for anyone may keep its hide for himself.",
+      "de": "Welcher Priester jemandes Brandopfer opfert, des soll des Brandopfers Fell sein, das er geopfert hat.",
+      "zh": "献燔祭的祭司，无论为谁奉献，要亲自得他所献那燔祭牲的皮。",
+      "ja": "人の燔祭をささぐるところの祭司その祭司はその献ぐる燔祭の物の皮を自己に得べし"
+    },
+    {
+      "number": 9,
+      "ko": "화덕에 구운 소제물과 냄비에나 철판에서 만든 소제물은 모두 그 드린 제사장에게로 돌아갈 것이니",
+      "en": "Every grain offering baked in an oven or cooked in a pan or on a griddle belongs to the priest who offers it,",
+      "de": "Und alles Speisopfer, das im Ofen oder auf dem Rost oder in der Pfanne gebacken ist, soll dem Priester gehören, der es opfert.",
+      "zh": "凡在炉中烤的素祭和煎盘中做的，并铁鏊上做的，都要归那献祭的祭司。",
+      "ja": "凡て爐に燒たる素祭の物および凡て釜と鍋にて製へたる者はこれを献ぐるところの祭司に歸すべし"
+    },
+    {
+      "number": 10,
+      "ko": "소제물은 기름 섞은 것이나 마른 것이나 모두 아론의 모든 자손이 균등하게 분배할 것이니라",
+      "en": "and every grain offering, whether mixed with oil or dry, belongs equally to all the sons of Aaron.",
+      "de": "Und alles Speisopfer, das mit Öl gemengt oder trocken ist, soll aller Kinder Aarons sein, eines wie des andern.",
+      "zh": "凡素祭，无论是油调和的是干的，都要归亚伦的子孙，大家均分。」",
+      "ja": "凡そ素祭は油を和たる者も乾たる者もみなアロンの諸の子等に均く歸すべし"
+    },
+    {
+      "number": 11,
+      "ko": "여호와께 드릴 화목제물의 규례는 이러하니라",
+      "en": "\"'These are the regulations for the fellowship offering a person may present to the LORD:",
+      "de": "Und dies ist das Gesetz des Dankopfers, das man dem HERRN opfert.",
+      "zh": "「人献与耶和华平安祭的条例乃是这样：",
+      "ja": "ヱホバに献ぐべき酬恩祭の犠牲の例は是のごとし"
+    },
+    {
+      "number": 12,
+      "ko": "만일 그것을 감사함으로 드리려면 기름 섞은 무교병과 기름 바른 무교전병과 고운 가루에 기름 섞어 구운 과자를 그 감사제물과 함께 드리고",
+      "en": "\"'If he offers it as an expression of thankfulness, then along with this thank offering he is to offer cakes of bread made without yeast and mixed with oil, wafers made without yeast and spread with oil, and cakes of fine flour well-kneaded and mixed with oil.",
+      "de": "Wollen sie ein Lobopfer tun, so sollen sie ungesäuerte Kuchen opfern, mit Öl gemengt, oder ungesäuerte Fladen, mit Öl bestrichen, oder geröstete Semmelkuchen, mit Öl gemengt.",
+      "zh": "他若为感谢献上，就要用调油的无酵饼和抹油的无酵薄饼，并用油调匀细面做的饼，与感谢祭一同献上。",
+      "ja": "若これを感謝のために献ぐるならば油を和たる無酵菓子と油をぬりたる無酵煎餅および麥粉に油をませて燒たる菓子をその感謝の犠牲にあはせて献ぐべし"
+    },
+    {
+      "number": 13,
+      "ko": "또 유교병을 화목제의 감사제물과 함께 그 예물로 드리되",
+      "en": "Along with his fellowship offering of thanksgiving he is to present an offering with cakes of bread made with yeast.",
+      "de": "Sie sollen aber solches Opfer tun auf Kuchen von gesäuerten Brot mit ihrem Lob- und Dankopfer,",
+      "zh": "要用有酵的饼和为感谢献的平安祭，与供物一同献上。",
+      "ja": "その菓子の外にまた有酵パンを酬恩祭なる感謝の犠牲にあはせてその禮物に供ふべし"
+    },
+    {
+      "number": 14,
+      "ko": "그 전체의 예물 중에서 하나씩 여호와께 거제로 드리고 그것을 화목제의 피를 뿌린 제사장들에게로 돌릴지니라",
+      "en": "He is to bring one of each kind as an offering, a contribution to the LORD; it belongs to the priest who sprinkles the blood of the fellowship offerings.",
+      "de": "und sollen einen von den allen dem HERRN zur Hebe opfern, und es soll dem Priester gehören, der das Blut des Dankopfers sprengt.",
+      "zh": "从各样的供物中，他要把一个饼献给耶和华为举祭，是要归给洒平安祭牲血的祭司。",
+      "ja": "即ちこの全體の禮物の中より一箇宛を取りヱホバにささげて擧祭となすべし是は酬恩祭の血を灑ぐところの祭司に歸すべきなり"
+    },
+    {
+      "number": 15,
+      "ko": "감사함으로 드리는 화목제물의 고기는 드리는 그 날에 먹을 것이요 조금이라도 이튿날 아침까지 두지 말 것이니라",
+      "en": "The meat of his fellowship offering of thanksgiving must be eaten on the day it is offered; he must leave none of it till morning.",
+      "de": "Und das Fleisch ihres Lob- und Dankopfers soll desselben Tages gegessen werden, da es geopfert ist, und nichts übriggelassen werden bis an den Morgen.",
+      "zh": "为感谢献平安祭牲的肉，要在献的日子吃，一点不可留到早晨。",
+      "ja": "感謝のために献ぐる酬恩祭の犠牲の肉はこれを献げしその日の中に食ふべし少にても翌朝まで存しおくまじきなり"
+    },
+    {
+      "number": 16,
+      "ko": "그러나 그의 예물의 제물이 서원이나 자원하는 것이면 그 제물을 드린 날에 먹을 것이요 그 남은 것은 이튿날에도 먹되",
+      "en": "\"'If, however, his offering is the result of a vow or is a freewill offering, the sacrifice shall be eaten on the day he offers it, but anything left over may be eaten on the next day.",
+      "de": "Ist es aber ein Gelübde oder freiwilliges Opfer, so soll es desselben Tages, da es geopfert ist, gegessen werden; so aber etwas übrigbleibt auf den andern Tag, so soll man's doch essen.",
+      "zh": "若所献的是为还愿，或是甘心献的，必在献祭的日子吃，所剩下的第二天也可以吃。",
+      "ja": "その犠牲の禮物もし願還かまたは自意の禮物ならばその犠牲をささげし日にこれを食ふべしその殘餘はまた明日これを食ふことを得るなり"
+    },
+    {
+      "number": 17,
+      "ko": "그 제물의 고기가 셋째 날까지 남았으면 불사를지니",
+      "en": "Any meat of the sacrifice left over till the third day must be burned up.",
+      "de": "Aber was vom geopferten Fleisch übrigbleibt am dritten Tage, soll mit Feuer verbrannt werden.",
+      "zh": "但所剩下的祭肉，到第三天要用火焚烧；",
+      "ja": "但しその犠牲の肉の殘餘は第三日にいたらば火に焚べし"
+    },
+    {
+      "number": 18,
+      "ko": "만일 그 화목제물의 고기를 셋째 날에 조금이라도 먹으면 그 제사는 기쁘게 받아들여지지 않을 것이라 드린 자에게도 예물답게 되지 못하고 도리어 가증한 것이 될 것이며 그것을 먹는 자는 그 죄를 짊어지리라",
+      "en": "If any meat of the fellowship offering is eaten on the third day, it will not be accepted. It will not be credited to the one who offered it, for it is impure; the person who eats any of it will be held responsible.",
+      "de": "Und wo jemand am dritten Tage wird essen von dem geopferten Fleisch seines Dankopfers, so wird er nicht angenehm sein, der es geopfert hat; es wird ihm auch nicht zugerechnet werden, sondern es wird ein Greuel sein; und welche Seele davon essen wird, die ist einer Missetat schuldig.",
+      "zh": "第三天若吃了平安祭的肉，这祭必不蒙悦纳，人所献的也不算为祭，反为可憎嫌的，吃这祭肉的，就必担当他的罪孽。",
+      "ja": "若その酬恩祭の犠牲の肉を第三日に少にても食ふことをなさば其は受納られずまた禮物と算らるることなくして反て憎むべき者とならん是を食ふ者その罪を任べし"
+    },
+    {
+      "number": 19,
+      "ko": "그 고기가 부정한 물건에 접촉되었으면 먹지 말고 불사를 것이라 그 고기는 깨끗한 자만 먹을 것이니",
+      "en": "\"'Meat that touches anything ceremonially unclean must not be eaten; it must be burned up. As for other meat, anyone ceremonially clean may eat it.",
+      "de": "Und das Fleisch, das von etwas Unreinem berührt wird, soll nicht gegessen, sondern mit Feuer verbrannt werden. Wer reines Leibes ist, soll von dem Fleisch essen.",
+      "zh": "「挨了污秽物的肉就不可吃，要用火焚烧。至于平安祭的肉，凡洁净的人都要吃；",
+      "ja": "その肉もし汚穢たる物にふるる事あらば食ふべからず火に焚べしその肉は淨き者みなこれを食ふことを得るなり"
+    },
+    {
+      "number": 20,
+      "ko": "만일 몸이 부정한 자가 여호와께 속한 화목제물의 고기를 먹으면 그 사람은 자기 백성 중에서 끊어질 것이요",
+      "en": "But if anyone who is unclean eats any meat of the fellowship offering belonging to the LORD, that person must be cut off from his people.",
+      "de": "Und welche Seele essen wird von dem Fleisch des Dankopfers, das dem HERRN zugehört, und hat eine Unreinigkeit an sich, die wird ausgerottet werden von ihrem Volk.",
+      "zh": "只是献与耶和华平安祭的肉，人若不洁净而吃了，这人必从民中剪除。",
+      "ja": "若その身に汚穢ある人ヱホバに屬する酬恩祭の犠牲の肉を食はばその人はその民の中より絶るべし"
+    },
+    {
+      "number": 21,
+      "ko": "만일 누구든지 부정한 것 곧 사람의 부정이나 부정한 짐승이나 부정하고 가증한 무슨 물건을 만지고 여호와께 속한 화목제물의 고기를 먹으면 그 사람도 자기 백성 중에서 끊어지리라",
+      "en": "If anyone touches something unclean--whether human uncleanness or an unclean animal or any unclean, detestable thing--and then eats any of the meat of the fellowship offering belonging to the LORD, that person must be cut off from his people.'\"",
+      "de": "Und wenn eine Seele etwas Unreines anrührt, es sei ein unreiner Mensch, ein unreines Vieh oder sonst was greulich ist, und vom Fleisch des Dankopfers ißt, das dem HERRN zugehört, die wird ausgerottet werden von ihrem Volk.",
+      "zh": "有人摸了什么不洁净的物，或是人的不洁净，或是不洁净的牲畜，或是不洁可憎之物，吃了献与耶和华平安祭的肉，这人必从民中剪除。」",
+      "ja": "また人もし人の汚穢あるひは汚たる獣畜あるひは忌しき汚たる物等都て汚穢に觸ることありながらヱホバに屬する酬恩祭の犠牲の肉を食はばその人はその民の中より絶るべし"
+    },
+    {
+      "number": 22,
+      "ko": "여호와께서 모세에게 말씀하여 이르시되",
+      "en": "The LORD said to Moses,",
+      "de": "Und der HERR redete mit Mose und sprach:",
+      "zh": "耶和华对摩西说：",
+      "ja": "ヱホバまたモーセに告て言たまはく"
+    },
+    {
+      "number": 23,
+      "ko": "이스라엘 자손에게 말하여 이르라 너희는 소나 양이나 염소의 기름을 먹지 말 것이요",
+      "en": "\"Say to the Israelites: 'Do not eat any of the fat of cattle, sheep or goats.",
+      "de": "Rede mit den Kindern Israel und sprich: Ihr sollt kein Fett essen von Ochsen, Lämmern und Ziegen.",
+      "zh": "「你晓谕以色列人说：牛的脂油、绵羊的脂油、山羊的脂油，你们都不可吃。",
+      "ja": "イスラエルの子孫に告て言べし牛羊山羊の脂は都て汝等これを食ふべからず"
+    },
+    {
+      "number": 24,
+      "ko": "스스로 죽은 것의 기름이나 짐승에게 찢긴 것의 기름은 다른 데는 쓰려니와 결단코 먹지는 말지니라",
+      "en": "The fat of an animal found dead or torn by wild animals may be used for any other purpose, but you must not eat it.",
+      "de": "Aber das Fett vom Aas, und was vom Wild zerrissen ist, macht euch zu allerlei Nutz; aber essen sollt ihr's nicht.",
+      "zh": "自死的和被野兽撕裂的，那脂油可以做别的使用，只是你们万不可吃。",
+      "ja": "自ら死たる獣畜の脂および裂ころされし獣畜の脂は諸般の事に用ふるを得れどもこれを食ふことは絶てなすべからず"
+    },
+    {
+      "number": 25,
+      "ko": "사람이 여호와께 화제로 드리는 제물의 기름을 먹으면 그 먹는 자는 자기 백성 중에서 끊어지리라",
+      "en": "Anyone who eats the fat of an animal from which an offering by fire may be made to the LORD must be cut off from his people.",
+      "de": "Denn wer das Fett ißt von dem Vieh, davon man dem HERRN Opfer bringt, dieselbe Seele soll ausgerottet werde von ihrem Volk.",
+      "zh": "无论何人吃了献给耶和华当火祭牲畜的脂油，那人必从民中剪除。",
+      "ja": "人のヱホバに火祭として献ぐるところの牲畜の脂は誰もこれを食ふべからず之を食ふ人はその民の中より絶るべし"
+    },
+    {
+      "number": 26,
+      "ko": "너희가 사는 모든 곳에서 새나 짐승의 피나 무슨 피든지 먹지 말라",
+      "en": "And wherever you live, you must not eat the blood of any bird or animal.",
+      "de": "Ihr sollt auch kein Blut essen, weder vom Vieh noch von Vögeln, überall, wo ihr wohnt.",
+      "zh": "在你们一切的住处，无论是雀鸟的血是野兽的血，你们都不可吃。",
+      "ja": "また汝等はその一切の住處において鳥獣の血を決して食ふべからず"
+    },
+    {
+      "number": 27,
+      "ko": "무슨 피든지 먹는 사람이 있으면 그 사람은 다 자기 백성 중에서 끊어지리라",
+      "en": "If anyone eats blood, that person must be cut off from his people.'\"",
+      "de": "Welche Seele würde irgend ein Blut essen, die soll ausgerottet werden von ihrem Volk.",
+      "zh": "无论是谁吃血，那人必从民中剪除。」",
+      "ja": "何の血によらずこれを食ふ人あればその人は皆民の中より絶るべし"
+    },
+    {
+      "number": 28,
+      "ko": "여호와께서 모세에게 말씀하여 이르시되",
+      "en": "The LORD said to Moses,",
+      "de": "Und der HERR redete mit Mose und sprach:",
+      "zh": "耶和华对摩西说：",
+      "ja": "ヱホバ、モーセに告て言たまはく"
+    },
+    {
+      "number": 29,
+      "ko": "이스라엘 자손에게 말하여 이르라 화목제물을 여호와께 드리려는 자는 그 화목제물 중에서 그의 예물을 여호와께 가져오되",
+      "en": "\"Say to the Israelites: 'Anyone who brings a fellowship offering to the LORD is to bring part of it as his sacrifice to the LORD.",
+      "de": "Rede mit den Kindern Israel und sprich: Wer dem HERRN sein Dankopfer tun will, der soll darbringen, was vom Dankopfer dem HERRN gehört.",
+      "zh": "「你晓谕以色列人说：献平安祭给耶和华的，要从平安祭中取些来奉给耶和华。",
+      "ja": "イスラエルの子孫に告て言べし酬恩祭の犠牲をヱホバに献ぐる者はその酬恩祭の犠牲の中よりその禮物を取てヱホバにたづさへ來るべし"
+    },
+    {
+      "number": 30,
+      "ko": "여호와의 화제물은 그 사람이 자기 손으로 가져올지니 곧 그 제물의 기름과 가슴을 가져올 것이요 제사장은 그 가슴을 여호와 앞에 흔들어 요제를 삼고",
+      "en": "With his own hands he is to bring the offering made to the LORD by fire; he is to bring the fat, together with the breast, and wave the breast before the LORD as a wave offering.",
+      "de": "Er soll's aber mit seiner Hand herzubringen zum Opfer des HERRN; nämlich das Fett soll er bringen samt der Brust, daß sie ein Webeopfer werden vor dem HERRN.",
+      "zh": "他亲手献给耶和华的火祭，就是脂油和胸，要带来，好把胸在耶和华面前作摇祭，摇一摇。",
+      "ja": "ヱホバの火祭はその人手づからこれを携へきたるべし即ちその脂と胸とをたづさへ來りその胸をヱホバの前に搖て搖祭となすべし"
+    },
+    {
+      "number": 31,
+      "ko": "그 기름은 제단 위에서 불사를 것이며 가슴은 아론과 그의 자손에게 돌릴 것이며",
+      "en": "The priest shall burn the fat on the altar, but the breast belongs to Aaron and his sons.",
+      "de": "Und der Priester soll das Fett anzünden auf dem Altar, aber die Brust soll Aarons und seiner Söhne sein.",
+      "zh": "祭司要把脂油在坛上焚烧，但胸要归亚伦和他的子孙。",
+      "ja": "而して祭司その脂を壇の上に焚べしその胸はアロンとその子等に歸すべし"
+    },
+    {
+      "number": 32,
+      "ko": "또 너희는 그 화목제물의 오른쪽 뒷다리를 제사장에게 주어 거제를 삼을지니",
+      "en": "You are to give the right thigh of your fellowship offerings to the priest as a contribution.",
+      "de": "Und die rechte Schulter sollen sie dem Priester geben zur Hebe von ihren Dankopfern.",
+      "zh": "你们要从平安祭中把右腿作举祭，奉给祭司。",
+      "ja": "汝等はその酬恩祭の犠牲の右の腿を擧祭となして祭司に與ふべし"
+    },
+    {
+      "number": 33,
+      "ko": "아론의 자손 중에서 화목제물의 피와 기름을 드리는 자는 그 오른쪽 뒷다리를 자기의 소득으로 삼을 것이니라",
+      "en": "The son of Aaron who offers the blood and the fat of the fellowship offering shall have the right thigh as his share.",
+      "de": "Und welcher unter Aarons Söhnen das Blut der Dankopfer opfert und das Fett, des soll die rechte Schulter sein zu seinem Teil.",
+      "zh": "亚伦子孙中，献平安祭牲血和脂油的，要得这右腿为分；",
+      "ja": "アロンの子等の中酬恩祭の血と脂とを献ぐる者その右の腿を得て自己の分となすべし"
+    },
+    {
+      "number": 34,
+      "ko": "내가 이스라엘 자손의 화목제물 중에서 그 흔든 가슴과 든 뒷다리를 가져다가 제사장 아론과 그의 자손에게 주었나니 이는 이스라엘 자손에게서 받을 영원한 소득이니라",
+      "en": "From the fellowship offerings of the Israelites, I have taken the breast that is waved and the thigh that is presented and have given them to Aaron the priest and his sons as their regular share from the Israelites.'\"",
+      "de": "Denn die Webebrust und die Hebeschulter habe ich genommen von den Kindern Israel von ihren Dankopfern und habe sie dem Priester Aaron und seinen Söhnen gegeben zum ewigen Recht.",
+      "zh": "因为我从以色列人的平安祭中，取了这摇的胸和举的腿给祭司亚伦和他子孙，作他们从以色列人中所永得的分。」",
+      "ja": "我イスラエルの子孫の酬恩祭の犠牲の中よりその搖る胸と擧たる腿をとりてこれを祭司アロンとその子等に與ふ是はイスラエルの子孫の中に永く行はるべき例典なり"
+    },
+    {
+      "number": 35,
+      "ko": "이는 여호와의 화제물 중에서 아론에게 돌릴 것과 그의 아들들에게 돌릴 것이니 그들을 세워 여호와의 제사장의 직분을 행하게 한 날",
+      "en": "This is the portion of the offerings made to the LORD by fire that were allotted to Aaron and his sons on the day they were presented to serve the LORD as priests.",
+      "de": "Dies ist die Gebühr Aarons und seiner Söhne von den Opfern des HERRN, des Tages, da sie überantwortet wurden Priester zu sein dem HERRN,",
+      "zh": "这是从耶和华火祭中，作亚伦受膏的分和他子孙受膏的分，正在摩西叫他们前来给耶和华供祭司职分的日子，",
+      "ja": "是はヱホバの火祭の中よりアロンに歸する分またその子等に歸する分なり彼等を立てヱホバに祭司の職をなさしむる日に斯定めらる"
+    },
+    {
+      "number": 36,
+      "ko": "곧 그들에게 기름 부은 날에 여호와께서 명령하사 이스라엘 자손 중에서 그들에게 돌리게 하신 것이라 대대로 영원히 받을 소득이니라",
+      "en": "On the day they were anointed, the LORD commanded that the Israelites give this to them as their regular share for the generations to come.",
+      "de": "die der HERR gebot am Tage, da er sie salbte, daß sie ihnen gegeben werden sollte von den Kindern Israel, zum ewigen Recht allen ihren Nachkommen.",
+      "zh": "就是在摩西膏他们的日子，耶和华吩咐以色列人给他们的。这是他们世世代代永得的分。",
+      "ja": "すなはち是は彼等に膏をそそぐ日にヱホバが命をくだしてイスラエルの子孫の中より彼等に歸せしめたまふ者にて代々永くまもるべき例典たるなり"
+    },
+    {
+      "number": 37,
+      "ko": "이는 번제와 소제와 속죄제와 속건제와 위임식과 화목제의 규례라",
+      "en": "These, then, are the regulations for the burnt offering, the grain offering, the sin offering, the guilt offering, the ordination offering and the fellowship offering,",
+      "de": "Dies ist das Gesetz des Brandopfers, des Speisopfers, des Sündopfers, des Schuldopfers, der Füllopfer und der Dankopfer,",
+      "zh": "这就是燔祭、素祭、赎罪祭、赎愆祭，和平安祭的条例，并承接圣职的礼，",
+      "ja": "是すなはち燔祭素祭罪祭愆祭任職祭酬恩祭の犠牲の法なり"
+    },
+    {
+      "number": 38,
+      "ko": "여호와께서 시내 광야에서 이스라엘 자손에게 그 예물을 여호와께 드리라 명령하신 날에 시내 산에서 이같이 모세에게 명령하셨더라",
+      "en": "which the LORD gave Moses on Mount Sinai on the day he commanded the Israelites to bring their offerings to the LORD, in the Desert of Sinai.",
+      "de": "das der HERR dem Mose gebot auf dem Berge Sinai des Tages, da er ihm gebot an die Kinder Israel, zu opfern ihre Opfer dem HERRN in der Wüste Sinai.",
+      "zh": "都是耶和华在西奈山所吩咐摩西的，就是他在西奈旷野吩咐以色列人献供物给耶和华之日所说的。",
+      "ja": "ヱホバ、シナイの野においてイスラエルの子孫にその禮物をヱホバに供ふることを命じたまひし日に是をシナイ山にてモーセに命じたまひしなり"
+    }
+  ]
+}

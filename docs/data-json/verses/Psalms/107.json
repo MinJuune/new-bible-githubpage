@@ -1,0 +1,350 @@
+{
+  "book": "Psalms",
+  "chapter": 107,
+  "verses": [
+    {
+      "number": 1,
+      "ko": "여호와께 감사하라 그는 선하시며 그 인자하심이 영원함이로다",
+      "en": "Give thanks to the LORD, for he is good; his love endures forever.",
+      "de": "Danket dem HERRN; denn er ist freundlich, und seine Güte währet ewiglich.",
+      "zh": "你们要称谢耶和华，因他本为善； 他的慈爱永远长存！",
+      "ja": "ヱホバに感謝せよ ヱホバは惠ふかくましましてその憐憫かぎりなし"
+    },
+    {
+      "number": 2,
+      "ko": "여호와의 속량을 받은 자들은 이같이 말할지어다 여호와께서 대적의 손에서 그들을 속량하사",
+      "en": "Let the redeemed of the LORD say this--those he redeemed from the hand of the foe,",
+      "de": "So sollen sagen, die erlöst sind durch den HERRN, die er aus der Not erlöst hat",
+      "zh": "愿耶和华的赎民说这话， 就是他从敌人手中所救赎的，",
+      "ja": "ヱホバの救贖をかうぶる者はみな然いふべきなり"
+    },
+    {
+      "number": 3,
+      "ko": "동서 남북 각 지방에서부터 모으셨도다",
+      "en": "those he gathered from the lands, from east and west, from north and south.",
+      "de": "und die er aus den Ländern zusammengebracht hat vom Aufgang, vom Niedergang, von Mitternacht und vom Meer.",
+      "zh": "从各地，从东从西， 从南从北，所招聚来的。",
+      "ja": "ヱホバは敵の手よりかれらを贖ひもろもろの地よ東西北南よりとりあつめたまへり"
+    },
+    {
+      "number": 4,
+      "ko": "그들이 광야 사막 길에서 방황하며 거주할 성읍을 찾지 못하고",
+      "en": "Some wandered in desert wastelands, finding no way to a city where they could settle.",
+      "de": "Die irregingen in der Wüste, in ungebahntem Wege, und fanden keine Stadt, da sie wohnen konnten,",
+      "zh": "他们在旷野荒地漂流， 寻不见可住的城邑，",
+      "ja": "かれら野にてあれはてたる路にさまよひその住ふべき邑にあはざりき"
+    },
+    {
+      "number": 5,
+      "ko": "주리고 목이 말라 그들의 영혼이 그들 안에서 피곤하였도다",
+      "en": "They were hungry and thirsty, and their lives ebbed away.",
+      "de": "hungrig und durstig, und ihre Seele verschmachtete;",
+      "zh": "又饥又渴， 心里发昏。",
+      "ja": "かれら饑また渇きそのうちの霊魂おとろへたり"
+    },
+    {
+      "number": 6,
+      "ko": "이에 그들이 근심 중에 여호와께 부르짖으매 그들의 고통에서 건지시고",
+      "en": "Then they cried out to the LORD in their trouble, and he delivered them from their distress.",
+      "de": "die zum HERRN riefen in ihrer Not, und er errettete sie aus ihren Ängsten",
+      "zh": "于是，他们在苦难中哀求耶和华； 他从他们的祸患中搭救他们，",
+      "ja": "斯てその困苦のうちにてヱホバをよばはりたればヱホバこれを患難よりたすけいだし"
+    },
+    {
+      "number": 7,
+      "ko": "또 바른 길로 인도하사 거주할 성읍에 이르게 하셨도다",
+      "en": "He led them by a straight way to a city where they could settle.",
+      "de": "und führte sie einen richtigen Weg, daß sie gingen zur Stadt, da sie wohnen konnten:",
+      "zh": "又领他们行走直路， 使他们往可居住的城邑。",
+      "ja": "住ふべき邑にゆかしめんとて直き路にみちびきたまへり"
+    },
+    {
+      "number": 8,
+      "ko": "여호와의 인자하심과 인생에게 행하신 기적으로 말미암아 그를 찬송할지로다",
+      "en": "Let them give thanks to the LORD for his unfailing love and his wonderful deeds for men,",
+      "de": "die sollen dem HERRN danken für seine Güte und für seine Wunder, die er an den Menschenkindern tut,",
+      "zh": "但愿人因耶和华的慈爱 和他向人所行的奇事都称赞他；",
+      "ja": "願くはすべての人はヱホバの惠により人の子になしたまへる奇しき事跡によりてヱホバを讃稱へんことを"
+    },
+    {
+      "number": 9,
+      "ko": "그가 사모하는 영혼에게 만족을 주시며 주린 영혼에게 좋은 것으로 채워주심이로다",
+      "en": "for he satisfies the thirsty and fills the hungry with good things.",
+      "de": "daß er sättigt die durstige Seele und füllt die hungrige Seele mit Gutem.",
+      "zh": "因他使心里渴慕的人得以知足， 使心里饥饿的人得饱美物。",
+      "ja": "ヱホバは渇きしたふ霊魂をたらはせ饑たるたましひを嘉物にてあかしめ給へばなり"
+    },
+    {
+      "number": 10,
+      "ko": "사람이 흑암과 사망의 그늘에 앉으며 곤고와 쇠사슬에 매임은",
+      "en": "Some sat in darkness and the deepest gloom, prisoners suffering in iron chains,",
+      "de": "Die da sitzen mußten in Finsternis und Dunkel, gefangen in Zwang und Eisen,",
+      "zh": "那些坐在黑暗中、死荫里的人 被困苦和铁链捆锁，",
+      "ja": "くらきと死の蔭とに居るもの患難とくろがねとに縛しめらるるもの"
+    },
+    {
+      "number": 11,
+      "ko": "하나님의 말씀을 거역하며 지존자의 뜻을 멸시함이라",
+      "en": "for they had rebelled against the words of God and despised the counsel of the Most High.",
+      "de": "darum daß sie Gottes Geboten ungehorsam gewesen waren und das Gesetz des Höchsten geschändet hatten,",
+      "zh": "是因他们违背　神的话语， 藐视至高者的旨意。",
+      "ja": "神の言にそむき至高者のをしへを蔑しめければ"
+    },
+    {
+      "number": 12,
+      "ko": "그러므로 그가 고통을 주어 그들의 마음을 겸손하게 하셨으니 그들이 엎드러져도 돕는 자가 없었도다",
+      "en": "So he subjected them to bitter labor; they stumbled, and there was no one to help.",
+      "de": "dafür ihr Herz mit Unglück geplagt werden mußte, daß sie dalagen und ihnen niemand half;",
+      "zh": "所以，他用劳苦治服他们的心； 他们仆倒，无人扶助。",
+      "ja": "勤勞をもてその心をひくうしたまへり かれら仆れたれど助くるものもなかりき"
+    },
+    {
+      "number": 13,
+      "ko": "이에 그들이 그 환난 중에 여호와께 부르짖으매 그들의 고통에서 구원하시되",
+      "en": "Then they cried to the LORD in their trouble, and he saved them from their distress.",
+      "de": "die zum HERRN riefen in ihrer Not, und er half ihnen aus ihren Ängsten",
+      "zh": "于是，他们在苦难中哀求耶和华； 他从他们的祸患中拯救他们。",
+      "ja": "斯てその困苦のうちにてヱホバをよばはりたればヱホバこれを患難よりすくひ"
+    },
+    {
+      "number": 14,
+      "ko": "흑암과 사망의 그늘에서 인도하여 내시고 그들의 얽어 맨 줄을 끊으셨도다",
+      "en": "He brought them out of darkness and the deepest gloom and broke away their chains.",
+      "de": "und führte sie aus der Finsternis und Dunkel und zerriß ihre Bande:",
+      "zh": "他从黑暗中和死荫里领他们出来， 折断他们的绑索。",
+      "ja": "くらきと死のかげより彼等をみちびき出してその械をこぼちたまへり"
+    },
+    {
+      "number": 15,
+      "ko": "여호와의 인자하심과 인생에게 행하신 기적으로 말미암아 그를 찬송할지로다",
+      "en": "Let them give thanks to the LORD for his unfailing love and his wonderful deeds for men,",
+      "de": "die sollen dem HERRN danken für seine Güte und für seine Wunder, die an den Menschenkindern tut,",
+      "zh": "但愿人因耶和华的慈爱 和他向人所行的奇事都称赞他；",
+      "ja": "願くはすべての人はヱホバの惠により人の子になしたまへる奇しき事跡によりてヱホバを讃稱へんことを"
+    },
+    {
+      "number": 16,
+      "ko": "그가 놋문을 깨뜨리시며 쇠빗장을 꺾으셨음이로다",
+      "en": "for he breaks down gates of bronze and cuts through bars of iron.",
+      "de": "daß er zerbricht eherne Türen und zerschlägt eiserne Riegel.",
+      "zh": "因为他打破了铜门， 砍断了铁闩。",
+      "ja": "そはあかがねの門をこぼち くろがねの關木をたちきりたまへり"
+    },
+    {
+      "number": 17,
+      "ko": "미련한 자들은 그들의 죄악의 길을 따르고 그들의 악을 범하기 때문에 고난을 받아",
+      "en": "Some became fools through their rebellious ways and suffered affliction because of their iniquities.",
+      "de": "Die Narren, so geplagt waren um ihrer Übertretung willen und um ihrer Sünden willen,",
+      "zh": "愚妄人因自己的过犯 和自己的罪孽便受苦楚。",
+      "ja": "愚かなる者はおのが愆の道により己がよこしまによりて惱めり"
+    },
+    {
+      "number": 18,
+      "ko": "그들은 그들의 모든 음식물을 싫어하게 되어 사망의 문에 이르렀도다",
+      "en": "They loathed all food and drew near the gates of death.",
+      "de": "daß ihnen ekelte vor aller Speise und sie todkrank wurden;",
+      "zh": "他们心里厌恶各样的食物， 就临近死门。",
+      "ja": "かれらの霊魂はすべての食物をきらひて死の門にちかづく"
+    },
+    {
+      "number": 19,
+      "ko": "이에 그들이 그들의 고통 때문에 여호와께 부르짖으매 그가 그들의 고통에서 그들을 구원하시되",
+      "en": "Then they cried to the LORD in their trouble, and he saved them from their distress.",
+      "de": "die riefen zum HERRN in ihrer Not, und er half ihnen aus ihren Ängsten,",
+      "zh": "于是，他们在苦难中哀求耶和华； 他从他们的祸患中拯救他们。",
+      "ja": "かくてその困苦のうちにてヱホバをよばふ ヱホバこれを患難よりすくひたまふ"
+    },
+    {
+      "number": 20,
+      "ko": "그가 그의 말씀을 보내어 그들을 고치시고 위험한 지경에서 건지시는도다",
+      "en": "He sent forth his word and healed them; he rescued them from the grave.",
+      "de": "er sandte sein Wort und machte sie gesund und errettete sie, daß sie nicht starben:",
+      "zh": "他发命医治他们， 救他们脱离死亡。",
+      "ja": "その聖言をつかはして之をいやし之をその滅亡よりたすけいだしたまふ"
+    },
+    {
+      "number": 21,
+      "ko": "여호와의 인자하심과 인생에게 행하신 기적으로 말미암아 그를 찬송할지로다",
+      "en": "Let them give thanks to the LORD for his unfailing love and his wonderful deeds for men.",
+      "de": "die sollen dem HERRN danken für seine Güte und für seine Wunder, die er an den Menschenkindern tut,",
+      "zh": "但愿人因耶和华的慈爱 和他向人所行的奇事都称赞他。",
+      "ja": "願くはすべての人ヱホバのめぐみにより人の子になしたまへる奇しき事跡によりてヱホバをほめたたへんことを"
+    },
+    {
+      "number": 22,
+      "ko": "감사제를 드리며 노래하여 그가 행하신 일을 선포할지로다",
+      "en": "Let them sacrifice thank offerings and tell of his works with songs of joy.",
+      "de": "und Dank opfern und erzählen seine Werke mit Freuden.",
+      "zh": "愿他们以感谢为祭献给他， 欢呼述说他的作为！",
+      "ja": "かれらは感謝のそなへものをささげ喜びうたひてその事跡をいひあらはすべし"
+    },
+    {
+      "number": 23,
+      "ko": "배들을 바다에 띄우며 큰 물에서 일을 하는 자는",
+      "en": "Others went out on the sea in ships; they were merchants on the mighty waters.",
+      "de": "Die mit Schiffen auf dem Meer fuhren und trieben ihren Handel in großen Wassern;",
+      "zh": "在海上坐船， 在大水中经理事务的，",
+      "ja": "舟にて海にうかび大洋にて事をいとなむ者は"
+    },
+    {
+      "number": 24,
+      "ko": "여호와께서 행하신 일들과 그의 기이한 일들을 깊은 바다에서 보나니",
+      "en": "They saw the works of the LORD, his wonderful deeds in the deep.",
+      "de": "die des HERRN Werke erfahren haben und seine Wunder im Meer,",
+      "zh": "他们看见耶和华的作为， 并他在深水中的奇事。",
+      "ja": "ヱホバのみわざを見また淵にてその奇しき事跡をみる"
+    },
+    {
+      "number": 25,
+      "ko": "여호와께서 명령하신즉 광풍이 일어나 바다 물결을 일으키는도다",
+      "en": "For he spoke and stirred up a tempest that lifted high the waves.",
+      "de": "wenn er sprach und einen Sturmwind erregte, der die Wellen erhob,",
+      "zh": "因他一吩咐，狂风就起来， 海中的波浪也扬起。",
+      "ja": "ヱホバ命じたまへばあらき風おこりてその浪をあぐ"
+    },
+    {
+      "number": 26,
+      "ko": "그들이 하늘로 솟구쳤다가 깊은 곳으로 내려가나니 그 위험 때문에 그들의 영혼이 녹는도다",
+      "en": "They mounted up to the heavens and went down to the depths; in their peril their courage melted away.",
+      "de": "und sie gen Himmel fuhren und in den Abgrund fuhren, daß ihre Seele vor Angst verzagte,",
+      "zh": "他们上到天空，下到海底； 他们的心因患难便消化。",
+      "ja": "かれら天にのぼりまた淵にくだり患難によりてその霊魂とけさり"
+    },
+    {
+      "number": 27,
+      "ko": "그들이 이리저리 구르며 취한 자 같이 비틀거리니 그들의 모든 지각이 혼돈 속에 빠지는도다",
+      "en": "They reeled and staggered like drunken men; they were at their wits' end.",
+      "de": "daß sie taumelten und wankten wie ein Trunkener und wußten keinen Rat mehr;",
+      "zh": "他们摇摇晃晃，东倒西歪，好像醉酒的人； 他们的智慧无法可施。",
+      "ja": "左た右たにかたぶき酔たる者のごとく踉蹌てなす所をしらず"
+    },
+    {
+      "number": 28,
+      "ko": "이에 그들이 그들의 고통 때문에 여호와께 부르짖으매 그가 그들의 고통에서 그들을 인도하여 내시고",
+      "en": "Then they cried out to the LORD in their trouble, and he brought them out of their distress.",
+      "de": "die zum HERRN schrieen in ihrer Not, und er führte sie aus ihren Ängsten",
+      "zh": "于是，他们在苦难中哀求耶和华， 他从他们的祸患中领出他们来。",
+      "ja": "かくてその困苦のうちにてヱホバをよばふ ヱホバこれを患難よりたづさへいで"
+    },
+    {
+      "number": 29,
+      "ko": "광풍을 고요하게 하사 물결도 잔잔하게 하시는도다",
+      "en": "He stilled the storm to a whisper; the waves of the sea were hushed.",
+      "de": "und stillte das Ungewitter, daß die Wellen sich legten",
+      "zh": "他使狂风止息， 波浪就平静。",
+      "ja": "狂風をしづめて浪をおだやかになし給へり"
+    },
+    {
+      "number": 30,
+      "ko": "그들이 평온함으로 말미암아 기뻐하는 중에 여호와께서 그들이 바라는 항구로 인도하시는도다",
+      "en": "They were glad when it grew calm, and he guided them to their desired haven.",
+      "de": "und sie froh wurden, daß es still geworden war und er sie zu Lande brachte nach ihrem Wunsch:",
+      "zh": "风息浪静，他们便欢喜； 他就引他们到所愿去的海口。",
+      "ja": "かれらはおのが靜かなるをよろこぶ 斯てヱホバはかれらをその望むところの湊にみちびきたまふ"
+    },
+    {
+      "number": 31,
+      "ko": "여호와의 인자하심과 인생에게 행하신 기적으로 말미암아 그를 찬송할지로다",
+      "en": "Let them give thanks to the LORD for his unfailing love and his wonderful deeds for men.",
+      "de": "die sollen dem HERRN danken für seine Güte und für seine Wunder, die er an den Menschenkindern tut,",
+      "zh": "但愿人因耶和华的慈爱 和他向人所行的奇事都称赞他。",
+      "ja": "願くはすべての人ヱホバの惠により人の子になしたまへる奇しき事跡によりてヱホバをほめたたへんことを"
+    },
+    {
+      "number": 32,
+      "ko": "백성의 모임에서 그를 높이며 장로들의 자리에서 그를 찬송할지로다",
+      "en": "Let them exalt him in the assembly of the people and praise him in the council of the elders.",
+      "de": "und ihn bei der Gemeinde preisen und bei den Alten rühmen.",
+      "zh": "愿他们在民的会中尊崇他， 在长老的位上赞美他！",
+      "ja": "かれら民の會にてこれをあがめ長老の座にてこれを讃稱ふべし"
+    },
+    {
+      "number": 33,
+      "ko": "여호와께서는 강이 변하여 광야가 되게 하시며 샘이 변하여 마른 땅이 되게 하시며",
+      "en": "He turned rivers into a desert, flowing springs into thirsty ground,",
+      "de": "Er machte Bäche trocken und ließ Wasserquellen versiegen,",
+      "zh": "他使江河变为旷野， 叫水泉变为干渴之地，",
+      "ja": "ヱホバは河を野にかはらせ泉をかわける地に變らせ"
+    },
+    {
+      "number": 34,
+      "ko": "그 주민의 악으로 말미암아 옥토가 변하여 염전이 되게 하시며",
+      "en": "and fruitful land into a salt waste, because of the wickedness of those who lived there.",
+      "de": "daß ein fruchtbar Land zur Salzwüste wurde um der Bosheit willen derer, die darin wohnten.",
+      "zh": "使肥地变为硷地； 这都因其间居民的罪恶。",
+      "ja": "また豊かなる地にすめる民の惡によりてそこを鹵の地にかはらせ給ふ"
+    },
+    {
+      "number": 35,
+      "ko": "또 광야가 변하여 못이 되게 하시며 마른 땅이 변하여 샘물이 되게 하시고",
+      "en": "He turned the desert into pools of water and the parched ground into flowing springs;",
+      "de": "Er machte das Trockene wiederum wasserreich und im dürren Lande Wasserquellen",
+      "zh": "他使旷野变为水潭， 叫旱地变为水泉。",
+      "ja": "野を池にかはらせ乾ける地をいづみにかはらせ"
+    },
+    {
+      "number": 36,
+      "ko": "주린 자들로 말미암아 거기에 살게 하사 그들이 거주할 성읍을 준비하게 하시고",
+      "en": "there he brought the hungry to live, and they founded a city where they could settle.",
+      "de": "und hat die Hungrigen dahingesetzt, daß sie eine Stadt zurichten, da sie wohnen konnten,",
+      "zh": "他使饥饿的人住在那里， 好建造可住的城邑，",
+      "ja": "ここに餓たるものを住はせたまふ されば彼らは己がすまひの邑をたて"
+    },
+    {
+      "number": 37,
+      "ko": "밭에 파종하며 포도원을 재배하여 풍성한 소출을 거두게 하시며",
+      "en": "They sowed fields and planted vineyards that yielded a fruitful harvest;",
+      "de": "und Äcker besäen und Weinberge pflanzen möchten und die jährlichen Früchte gewönnen.",
+      "zh": "又种田地，栽葡萄园， 得享所出的土产。",
+      "ja": "畠にたねをまき葡萄園をまうけてそのむすべる實をえたり"
+    },
+    {
+      "number": 38,
+      "ko": "또 복을 주사 그들이 크게 번성하게 하시고 그의 가축이 감소하지 아니하게 하실지라도",
+      "en": "he blessed them, and their numbers greatly increased, and he did not let their herds diminish.",
+      "de": "Und er segnete sie, daß sie sich sehr mehrten, und gab ihnen viel Vieh.",
+      "zh": "他又赐福给他们，叫他们生养众多， 也不叫他们的牲畜减少。",
+      "ja": "ヱホバはかれらの甚くふえひろごれるまでに惠をあたへ その牲畜のへることをも許したまはず"
+    },
+    {
+      "number": 39,
+      "ko": "다시 압박과 재난과 우환을 통하여 그들의 수를 줄이시며 낮추시는도다",
+      "en": "Then their numbers decreased, and they were humbled by oppression, calamity and sorrow;",
+      "de": "Sie waren niedergedrückt und geschwächt von dem Bösen, das sie gezwungen und gedrungen hatte.",
+      "zh": "他们又因暴虐、患难、愁苦， 就减少且卑下。",
+      "ja": "されどまた虐待くるしみ悲哀によりて減ゆき且うなたれたり"
+    },
+    {
+      "number": 40,
+      "ko": "여호와께서 고관들에게는 능욕을 쏟아 부으시고 길 없는 황야에서 유리하게 하시나",
+      "en": "he who pours contempt on nobles made them wander in a trackless waste.",
+      "de": "Er schüttete Verachtung auf die Fürsten und ließ sie irren in der Wüste, da kein Weg ist,",
+      "zh": "他使君王蒙羞被辱， 使他们在荒废无路之地漂流。",
+      "ja": "ヱホバもろもろの君に侮辱をそそぎ道なき荒地にさまよはせたまふ"
+    },
+    {
+      "number": 41,
+      "ko": "궁핍한 자는 그의 고통으로부터 건져 주시고 그의 가족을 양 떼 같이 지켜 주시나니",
+      "en": "But he lifted the needy out of their affliction and increased their families like flocks.",
+      "de": "und schützte den Armen vor Elend und mehrte sein Geschlecht wie eine Herde.",
+      "zh": "他却将穷乏人安置在高处，脱离苦难， 使他的家属多如羊群。",
+      "ja": "然はあれど貧しきものを患難のうちより擧てその家族をひつじの群のごとくならしめたまふ"
+    },
+    {
+      "number": 42,
+      "ko": "정직한 자는 보고 기뻐하며 모든 사악한 자는 자기 입을 봉하리로다",
+      "en": "The upright see and rejoice, but all the wicked shut their mouths.",
+      "de": "Solches werden die Frommen sehen und sich freuen; und aller Bosheit wird das Maul gestopft werden.",
+      "zh": "正直人看见就欢喜； 罪孽之辈必塞口无言。",
+      "ja": "直きものは之をみて喜びもろもろの不義はその口をふさがん"
+    },
+    {
+      "number": 43,
+      "ko": "지혜 있는 자들은 이러한 일들을 지켜 보고 여호와의 인자하심을 깨달으리로다",
+      "en": "Whoever is wise, let him heed these things and consider the great love of the LORD.",
+      "de": "Wer ist weise und behält dies? So werden sie merken, wie viel Wohltaten der HERR erzeigt.",
+      "zh": "凡有智慧的，必在这些事上留心， 也必思想耶和华的慈爱。",
+      "ja": "すべて慧者はこれらのことに心をよせヱホバの憐憫をさとるべし"
+    }
+  ]
+}

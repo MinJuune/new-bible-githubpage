@@ -1,0 +1,334 @@
+{
+  "book": "Mark",
+  "chapter": 4,
+  "verses": [
+    {
+      "number": 1,
+      "ko": "예수께서 다시 바닷가에서 가르치시니 큰 무리가 모여들거늘 예수께서 바다에 떠 있는 배에 올라 앉으시고 온 무리는 바닷가 육지에 있더라",
+      "en": "Again Jesus began to teach by the lake. The crowd that gathered around him was so large that he got into a boat and sat in it out on the lake, while all the people were along the shore at the water's edge.",
+      "de": "Und er fing abermals an, zu lehren am Meer. Und es versammelte sich viel Volks zu ihm, also daß er mußte in ein Schiff treten und auf dem Wasser sitzen; und alles Volk stand auf dem Lande am Meer.",
+      "zh": "耶稣又在海边教训人。有许多人到他那里聚集，他只得上船坐下。船在海里，众人都靠近海，站在岸上。",
+      "ja": "イエスはまた湖のほとりで教え始められた。おびただしい数の群衆がみもとに集まった。それでイエスは湖の上の舟に乗り、そこに腰をおろされ、群衆はみな岸べの陸地にいた。"
+    },
+    {
+      "number": 2,
+      "ko": "이에 예수께서 여러 가지를 비유로 가르치시니 그 가르치시는 중에 그들에게 이르시되",
+      "en": "He taught them many things by parables, and in his teaching said:",
+      "de": "Und er predigte ihnen lange durch Gleichnisse; und in seiner Predigt sprach er zu ihnen:",
+      "zh": "耶稣就用比喻教训他们许多道理。在教训之间，对他们说：",
+      "ja": "イエスはたとえによって多くのことを教えられた。その教えの中でこう言われた。"
+    },
+    {
+      "number": 3,
+      "ko": "들으라 씨를 뿌리는 자가 뿌리러 나가서",
+      "en": "\"Listen! A farmer went out to sow his seed.",
+      "de": "Höret zu! Siehe, es ging ein Sämann aus, zu säen.",
+      "zh": "「你们听啊！有一个撒种的出去撒种。",
+      "ja": "「よく聞きなさい。種を蒔く人が種蒔きに出かけた。"
+    },
+    {
+      "number": 4,
+      "ko": "뿌릴새 더러는 길 가에 떨어지매 새들이 와서 먹어 버렸고",
+      "en": "As he was scattering the seed, some fell along the path, and the birds came and ate it up.",
+      "de": "Und es begab sich, indem er säte, fiel etliches an den Weg; da kamen die Vögel unter dem Himmel und fraßen's auf.",
+      "zh": "撒的时候，有落在路旁的，飞鸟来吃尽了；",
+      "ja": "蒔いているとき、種が道ばたに落ちた。すると、鳥が来て食べてしまった。"
+    },
+    {
+      "number": 5,
+      "ko": "더러는 흙이 얕은 돌밭에 떨어지매 흙이 깊지 아니하므로 곧 싹이 나오나",
+      "en": "Some fell on rocky places, where it did not have much soil. It sprang up quickly, because the soil was shallow.",
+      "de": "Etliches fiel in das Steinige, wo es nicht viel Erde hatte; und ging bald auf, darum daß es nicht tiefe Erde hatte.",
+      "zh": "有落在土浅石头地上的，土既不深，发苗最快，",
+      "ja": "また、別の種が土の薄い岩地に落ちた。土が深くなかったので、すぐに芽を出した。"
+    },
+    {
+      "number": 6,
+      "ko": "해가 돋은 후에 타서 뿌리가 없으므로 말랐고",
+      "en": "But when the sun came up, the plants were scorched, and they withered because they had no root.",
+      "de": "Da nun die Sonne aufging, verwelkte es, und dieweil es nicht Wurzel hatte verdorrte es.",
+      "zh": "日头出来一晒，因为没有根，就枯干了；",
+      "ja": "しかし日が上ると、焼けて、根がないために枯れてしまった。"
+    },
+    {
+      "number": 7,
+      "ko": "더러는 가시떨기에 떨어지매 가시가 자라 기운을 막으므로 결실하지 못하였고",
+      "en": "Other seed fell among thorns, which grew up and choked the plants, so that they did not bear grain.",
+      "de": "Und etliches fiel unter die Dornen; und die Dornen wuchsen empor und erstickten's, und es brachte keine Frucht.",
+      "zh": "有落在荆棘里的，荆棘长起来，把它挤住了，就不结实；",
+      "ja": "また、別の種がいばらの中に落ちた。ところが、いばらが伸びて、それをふさいでしまったので、実を結ばなかった。"
+    },
+    {
+      "number": 8,
+      "ko": "더러는 좋은 땅에 떨어지매 자라 무성하여 결실하였으니 삼십 배나 육십 배나 백 배가 되었느니라 하시고",
+      "en": "Still other seed fell on good soil. It came up, grew and produced a crop, multiplying thirty, sixty, or even a hundred times.\"",
+      "de": "Und etliches fiel auf ein gutes Land und brachte Frucht, die da zunahm und wuchs; etliches trug dreißigfältig und etliches sechzigfältig und etliches hundertfältig.",
+      "zh": "又有落在好土里的，就发生长大，结实有三十倍的，有六十倍的，有一百倍的」；",
+      "ja": "また、別の種が良い地に落ちた。すると芽ばえ、育って、実を結び、三十倍、六十倍、百倍になった。」"
+    },
+    {
+      "number": 9,
+      "ko": "또 이르시되 들을 귀 있는 자는 들으라 하시니라",
+      "en": "Then Jesus said, \"He who has ears to hear, let him hear.\"",
+      "de": "Und er sprach zu ihnen: Wer Ohren hat, zu hören, der höre!",
+      "zh": "又说：「有耳可听的，就应当听！」",
+      "ja": "そしてイエスは言われた。「聞く耳のある者は聞きなさい。」"
+    },
+    {
+      "number": 10,
+      "ko": "예수께서 홀로 계실 때에 함께 한 사람들이 열두 제자와 더불어 그 비유들에 대하여 물으니",
+      "en": "When he was alone, the Twelve and the others around him asked him about the parables.",
+      "de": "Und da er allein war, fragten ihn um dies Gleichnis, die um ihn waren, mitsamt den Zwölfen.",
+      "zh": "无人的时候，跟随耶稣的人和十二个门徒问他这比喻的意思。",
+      "ja": "さて、イエスだけになったとき、いつもつき従っている人たちが、十二弟子とともに、これらのたとえのことを尋ねた。"
+    },
+    {
+      "number": 11,
+      "ko": "이르시되 하나님 나라의 비밀을 너희에게는 주었으나 외인에게는 모든 것을 비유로 하나니",
+      "en": "He told them, \"The secret of the kingdom of God has been given to you. But to those on the outside everything is said in parables",
+      "de": "Und er sprach zu ihnen: Euch ist's gegeben, das Geheimnis des Reiches Gottes zu wissen; denen aber draußen widerfährt es alles nur durch Gleichnisse,",
+      "zh": "耶稣对他们说：「　神国的奥秘只叫你们知道，若是对外人讲，凡事就用比喻，",
+      "ja": "そこで、イエスは言われた。「あなたがたには、神の国の奥義が知らされているが、ほかの人たちには、すべてがたとえで言われるのです。"
+    },
+    {
+      "number": 12,
+      "ko": "이는 그들로 보기는 보아도 알지 못하며 듣기는 들어도 깨닫지 못하게 하여 돌이켜 죄 사함을 얻지 못하게 하려 함이라 하시고",
+      "en": "so that, \"'they may be ever seeing but never perceiving, and ever hearing but never understanding; otherwise they might turn and be forgiven!'\"",
+      "de": "auf daß sie es mit sehenden Augen sehen, und doch nicht erkennen, und mit hörenden Ohren hören, und doch nicht verstehen, auf daß sie sich nicht dermaleinst bekehren und ihre Sünden ihnen vergeben werden.",
+      "zh": "叫他们 看是看见，却不晓得； 听是听见，却不明白； 恐怕他们回转过来，就得赦免。」",
+      "ja": "それは、『彼らは確かに見るには見るがわからず、聞くには聞くが悟らず、悔い改めて赦されることのないため。』です。」"
+    },
+    {
+      "number": 13,
+      "ko": "또 이르시되 너희가 이 비유를 알지 못할진대 어떻게 모든 비유를 알겠느냐",
+      "en": "Then Jesus said to them, \"Don't you understand this parable? How then will you understand any parable?",
+      "de": "Und er sprach zu ihnen: Verstehet ihr dies Gleichnis nicht, wie wollt ihr denn die andern alle verstehen?",
+      "zh": "又对他们说：「你们不明白这比喻吗？这样怎能明白一切的比喻呢？",
+      "ja": "そして彼らにこう言われた。「このたとえがわからないのですか。そんなことで、いったいどうしてたとえの理解ができましょう。"
+    },
+    {
+      "number": 14,
+      "ko": "뿌리는 자는 말씀을 뿌리는 것이라",
+      "en": "The farmer sows the word.",
+      "de": "Der Sämann sät das Wort.",
+      "zh": "撒种之人所撒的就是道。",
+      "ja": "種蒔く人は、みことばを蒔くのです。"
+    },
+    {
+      "number": 15,
+      "ko": "말씀이 길 가에 뿌려졌다는 것은 이들을 가리킴이니 곧 말씀을 들었을 때에 사탄이 즉시 와서 그들에게 뿌려진 말씀을 빼앗는 것이요",
+      "en": "Some people are like seed along the path, where the word is sown. As soon as they hear it, Satan comes and takes away the word that was sown in them.",
+      "de": "Diese sind's aber, die an dem Wege sind: Wo das Wort gesät wird und sie es gehört haben, so kommt alsbald der Satan und nimmt weg das Wort, das in ihr Herz gesät war.",
+      "zh": "那撒在路旁的，就是人听了道，撒但立刻来，把撒在他心里的道夺了去。",
+      "ja": "みことばが道ばたに蒔かれるとは、こういう人たちのことです――みことばを聞くと、すぐサタンが来て、彼らに蒔かれたみことばを持ち去ってしまうのです。"
+    },
+    {
+      "number": 16,
+      "ko": "또 이와 같이 돌밭에 뿌려졌다는 것은 이들을 가리킴이니 곧 말씀을 들을 때에 즉시 기쁨으로 받으나",
+      "en": "Others, like seed sown on rocky places, hear the word and at once receive it with joy.",
+      "de": "Also auch die sind's, bei welchen aufs Steinige gesät ist: wenn sie das Wort gehört haben, nehmen sie es alsbald mit Freuden auf,",
+      "zh": "那撒在石头地上的，就是人听了道，立刻欢喜领受，",
+      "ja": "同じように、岩地に蒔かれるとは、こういう人たちのことです――みことばを聞くと、すぐに喜んで受けるが、"
+    },
+    {
+      "number": 17,
+      "ko": "그 속에 뿌리가 없어 잠깐 견디다가 말씀으로 인하여 환난이나 박해가 일어나는 때에는 곧 넘어지는 자요",
+      "en": "But since they have no root, they last only a short time. When trouble or persecution comes because of the word, they quickly fall away.",
+      "de": "und haben keine Wurzel in sich, sondern sind wetterwendisch; wenn sich Trübsal oder Verfolgung um des Wortes willen erhebt, so ärgern sie sich alsbald.",
+      "zh": "但他心里没有根，不过是暂时的，及至为道遭了患难，或是受了逼迫，立刻就跌倒了。",
+      "ja": "根を張らないで、ただしばらく続くだけです。それで、みことばのために困難や迫害が起こると、すぐにつまずいてしまいます。"
+    },
+    {
+      "number": 18,
+      "ko": "또 어떤 이는 가시떨기에 뿌려진 자니 이들은 말씀을 듣기는 하되",
+      "en": "Still others, like seed sown among thorns, hear the word;",
+      "de": "Und diese sind's, bei welchen unter die Dornen gesät ist: die das Wort hören,",
+      "zh": "还有那撒在荆棘里的，就是人听了道，",
+      "ja": "もう一つの、いばらの中に種を蒔かれるとは、こういう人たちのことです――みことばを聞いてはいるが、"
+    },
+    {
+      "number": 19,
+      "ko": "세상의 염려와 재물의 유혹과 기타 욕심이 들어와 말씀을 막아 결실하지 못하게 되는 자요",
+      "en": "but the worries of this life, the deceitfulness of wealth and the desires for other things come in and choke the word, making it unfruitful.",
+      "de": "und die Sorgen dieser Welt und der betrügerische Reichtum und viele andere Lüste gehen hinein und ersticken das Wort, und es bleibt ohne Frucht.",
+      "zh": "后来有世上的思虑、钱财的迷惑，和别样的私欲进来，把道挤住了，就不能结实。",
+      "ja": "世の心づかいや、富の惑わし、その他いろいろな欲望がはいり込んで、みことばをふさぐので、実を結びません。"
+    },
+    {
+      "number": 20,
+      "ko": "좋은 땅에 뿌려졌다는 것은 곧 말씀을 듣고 받아 삼십 배나 육십 배나 백 배의 결실을 하는 자니라",
+      "en": "Others, like seed sown on good soil, hear the word, accept it, and produce a crop--thirty, sixty or even a hundred times what was sown.\"",
+      "de": "Und diese sind's, bei welchen auf ein gutes Land gesät ist: die das Wort hören und nehmen's an und bringen Frucht, etliche dreißigfältig und etliche sechzigfältig und etliche hundertfältig.",
+      "zh": "那撒在好地上的，就是人听道，又领受，并且结实，有三十倍的，有六十倍的，有一百倍的。」",
+      "ja": "良い地に蒔かれるとは、みことばを聞いて受け入れ、三十倍、六十倍、百倍の実を結ぶ人たちです。」"
+    },
+    {
+      "number": 21,
+      "ko": "또 그들에게 이르시되 사람이 등불을 가져오는 것은 말 아래에나 평상 아래에 두려 함이냐 등경 위에 두려 함이 아니냐",
+      "en": "He said to them, \"Do you bring in a lamp to put it under a bowl or a bed? Instead, don't you put it on its stand?",
+      "de": "Und er sprach zu ihnen: Zündet man auch ein Licht an, daß man es unter einen Scheffel oder unter einen Tisch setze? Mitnichten, sondern daß man's auf einen Leuchter setze.",
+      "zh": "耶稣又对他们说：「人拿灯来，岂是要放在斗底下，床底下，不放在灯台上吗？",
+      "ja": "また言われた。「あかりを持って来るのは枡の下や寝台の下に置くためでしょうか。燭台の上に置くためではありませんか。"
+    },
+    {
+      "number": 22,
+      "ko": "드러내려 하지 않고는 숨긴 것이 없고 나타내려 하지 않고는 감추인 것이 없느니라",
+      "en": "For whatever is hidden is meant to be disclosed, and whatever is concealed is meant to be brought out into the open.",
+      "de": "Denn es ist nichts verborgen, das es nicht offenbar werde, und ist nichts Heimliches, das nicht hervorkomme.",
+      "zh": "因为掩藏的事，没有不显出来的；隐瞒的事，没有不露出来的。",
+      "ja": "隠れているのは、必ず現われるためであり、おおい隠されているのは、明らかにされるためです。"
+    },
+    {
+      "number": 23,
+      "ko": "들을 귀 있는 자는 들으라",
+      "en": "If anyone has ears to hear, let him hear.\"",
+      "de": "Wer Ohren hat, zu hören, der höre!",
+      "zh": "有耳可听的，就应当听！」",
+      "ja": "聞く耳のある者は聞きなさい。」"
+    },
+    {
+      "number": 24,
+      "ko": "또 이르시되 너희가 무엇을 듣는가 스스로 삼가라 너희의 헤아리는 그 헤아림으로 너희가 헤아림을 받을 것이며 더 받으리니",
+      "en": "\"Consider carefully what you hear,\" he continued. \"With the measure you use, it will be measured to you--and even more.",
+      "de": "Und er sprach zu ihnen: Sehet zu, was ihr höret! Mit welcherlei Maß ihr messet, wird man euch wieder messen, und man wird noch zugeben euch, die ihr dies hört.",
+      "zh": "又说：「你们所听的要留心。你们用什么量器量给人，也必用什么量器量给你们，并且要多给你们。",
+      "ja": "また彼らに言われた。「聞いていることによく注意しなさい。あなたがたは、人に量ってあげるその量りで、自分にも量り与えられ、さらにその上に増し加えられます。"
+    },
+    {
+      "number": 25,
+      "ko": "있는 자는 받을 것이요 없는 자는 그 있는 것까지도 빼앗기리라",
+      "en": "Whoever has will be given more; whoever does not have, even what he has will be taken from him.\"",
+      "de": "Denn wer da hat, dem wird gegeben; und wer nicht hat, von dem wird man nehmen, auch was er hat.",
+      "zh": "因为有的，还要给他；没有的，连他所有的也要夺去。」",
+      "ja": "持っている人は、さらに与えられ、持たない人は、持っているものまでも取り上げられてしまいます。」"
+    },
+    {
+      "number": 26,
+      "ko": "또 이르시되 하나님의 나라는 사람이 씨를 땅에 뿌림과 같으니",
+      "en": "He also said, \"This is what the kingdom of God is like. A man scatters seed on the ground.",
+      "de": "Und er sprach: Das Reich Gottes hat sich also, als wenn ein Mensch Samen aufs Land wirft",
+      "zh": "又说：「　神的国如同人把种撒在地上。",
+      "ja": "また言われた。「神の国は、人が地に種を蒔くようなもので、"
+    },
+    {
+      "number": 27,
+      "ko": "그가 밤낮 자고 깨고 하는 중에 씨가 나서 자라되 어떻게 그리 되는지를 알지 못하느니라",
+      "en": "Night and day, whether he sleeps or gets up, the seed sprouts and grows, though he does not know how.",
+      "de": "und schläft und steht auf Nacht und Tag; und der Same geht auf und wächst, daß er's nicht weiß.",
+      "zh": "黑夜睡觉，白日起来，这种就发芽渐长，那人却不晓得如何这样。",
+      "ja": "夜は寝て、朝は起き、そうこうしているうちに、種は芽を出して育ちます。どのようにしてか、人は知りません。"
+    },
+    {
+      "number": 28,
+      "ko": "땅이 스스로 열매를 맺되 처음에는 싹이요 다음에는 이삭이요 그 다음에는 이삭에 충실한 곡식이라",
+      "en": "All by itself the soil produces grain--first the stalk, then the head, then the full kernel in the head.",
+      "de": "Denn die Erde bringt von selbst zum ersten das Gras, darnach die Ähren, darnach den vollen Weizen in den Ähren.",
+      "zh": "地生五谷是出于自然的：先发苗，后长穗，再后穗上结成饱满的子粒；",
+      "ja": "地は人手によらず実をならせるもので、初めに苗、次に穂、次に穂の中に実がはいります。"
+    },
+    {
+      "number": 29,
+      "ko": "열매가 익으면 곧 낫을 대나니 이는 추수 때가 이르렀음이라",
+      "en": "As soon as the grain is ripe, he puts the sickle to it, because the harvest has come.\"",
+      "de": "Wenn sie aber die Frucht gebracht hat, so schickt er bald die Sichel hin; denn die Ernte ist da.",
+      "zh": "谷既熟了，就用镰刀去割，因为收成的时候到了。」",
+      "ja": "実が熟すると、人はすぐにかまを入れます。収穫の時が来たからです。」"
+    },
+    {
+      "number": 30,
+      "ko": "또 이르시되 우리가 하나님의 나라를 어떻게 비교하며 또 무슨 비유로 나타낼까",
+      "en": "Again he said, \"What shall we say the kingdom of God is like, or what parable shall we use to describe it?",
+      "de": "Und er sprach: Wem wollen wir das Reich Gottes vergleichen, und durch welch Gleichnis wollen wir es vorbilden?",
+      "zh": "又说：「　神的国，我们可用什么比较呢？可用什么比喻表明呢？",
+      "ja": "また言われた。「神の国は、どのようなものと言えばよいでしょう。何にたとえたらよいでしょう。"
+    },
+    {
+      "number": 31,
+      "ko": "겨자씨 한 알과 같으니 땅에 심길 때에는 땅 위의 모든 씨보다 작은 것이로되",
+      "en": "It is like a mustard seed, which is the smallest seed you plant in the ground.",
+      "de": "Gleichwie ein Senfkorn, wenn das gesät wird aufs Land, so ist's das kleinste unter allen Samen auf Erden;",
+      "zh": "好像一粒芥菜种，种在地里的时候，虽比地上的百种都小，",
+      "ja": "それはからし種のようなものです。地に蒔かれるときには、地に蒔かれる種の中で、一番小さいのですが、"
+    },
+    {
+      "number": 32,
+      "ko": "심긴 후에는 자라서 모든 풀보다 커지며 큰 가지를 내나니 공중의 새들이 그 그늘에 깃들일 만큼 되느니라",
+      "en": "Yet when planted, it grows and becomes the largest of all garden plants, with such big branches that the birds of the air can perch in its shade.\"",
+      "de": "und wenn es gesät ist, so nimmt es zu und wird größer denn alle Kohlkräuter und gewinnt große Zweige, also daß die Vögel unter dem Himmel unter seinem Schatten wohnen können.",
+      "zh": "但种上以后，就长起来，比各样的菜都大，又长出大枝来，甚至天上的飞鸟可以宿在它的荫下。」",
+      "ja": "それが蒔かれると、生長してどんな野菜よりも大きくなり、大きな枝を張り、その陰に空の鳥が巣を作れるほどになります。」"
+    },
+    {
+      "number": 33,
+      "ko": "예수께서 이러한 많은 비유로 그들이 알아 들을 수 있는 대로 말씀을 가르치시되",
+      "en": "With many similar parables Jesus spoke the word to them, as much as they could understand.",
+      "de": "Und durch viele solche Gleichnisse sagte er ihnen das Wort, nach dem sie es hören konnten.",
+      "zh": "耶稣用许多这样的比喻，照他们所能听的，对他们讲道。",
+      "ja": "イエスは、このように多くのたとえで、彼らの聞く力に応じて、みことばを話された。"
+    },
+    {
+      "number": 34,
+      "ko": "비유가 아니면 말씀하지 아니하시고 다만 혼자 계실 때에 그 제자들에게 모든 것을 해석하시더라",
+      "en": "He did not say anything to them without using a parable. But when he was alone with his own disciples, he explained everything.",
+      "de": "Und ohne Gleichnis redete er nichts zu ihnen; aber insonderheit legte er's seinen Jüngern alles aus.",
+      "zh": "若不用比喻，就不对他们讲；没有人的时候，就把一切的道讲给门徒听。",
+      "ja": "たとえによらないで話されることはなかった。ただ、ご自分の弟子たちにだけは、すべてのことを解き明かされた。"
+    },
+    {
+      "number": 35,
+      "ko": "그 날 저물 때에 제자들에게 이르시되 우리가 저편으로 건너가자 하시니",
+      "en": "That day when evening came, he said to his disciples, \"Let us go over to the other side.\"",
+      "de": "Und an demselben Tage des Abends sprach er zu ihnen: Laßt uns hinüberfahren.",
+      "zh": "当那天晚上，耶稣对门徒说：「我们渡到那边去吧。」",
+      "ja": "さて、その日のこと、夕方になって、イエスは弟子たちに、「さあ、向こう岸へ渡ろう。」と言われた。"
+    },
+    {
+      "number": 36,
+      "ko": "그들이 무리를 떠나 예수를 배에 계신 그대로 모시고 가매 다른 배들도 함께 하더니",
+      "en": "Leaving the crowd behind, they took him along, just as he was, in the boat. There were also other boats with him.",
+      "de": "Und sie ließen das Volk gehen und nahmen ihn, wie er im Schiff war; und es waren mehr Schiffe bei ihm.",
+      "zh": "门徒离开众人，耶稣仍在船上，他们就把他一同带去；也有别的船和他同行。",
+      "ja": "そこで弟子たちは、群衆をあとに残し、舟に乗っておられるままで、イエスをお連れした。他の舟もイエスについて行った。"
+    },
+    {
+      "number": 37,
+      "ko": "큰 광풍이 일어나며 물결이 배에 부딪쳐 들어와 배에 가득하게 되었더라",
+      "en": "A furious squall came up, and the waves broke over the boat, so that it was nearly swamped.",
+      "de": "Und es erhob sich ein großer Windwirbel und warf Wellen in das Schiff, also daß das Schiff voll ward.",
+      "zh": "忽然起了暴风，波浪打入船内，甚至船要满了水。",
+      "ja": "すると、激しい突風が起こり、舟は波をかぶって水でいっぱいになった。"
+    },
+    {
+      "number": 38,
+      "ko": "예수께서는 고물에서 베개를 베고 주무시더니 제자들이 깨우며 이르되 선생님이여 우리가 죽게 된 것을 돌보지 아니하시나이까 하니",
+      "en": "Jesus was in the stern, sleeping on a cushion. The disciples woke him and said to him, \"Teacher, don't you care if we drown?\"",
+      "de": "Und er war hinten auf dem Schiff und schlief auf einem Kissen. Und sie weckten ihn auf und sprachen zu ihm: Meister, fragst du nichts darnach, daß wir verderben?",
+      "zh": "耶稣在船尾上，枕着枕头睡觉。门徒叫醒了他，说：「夫子！我们丧命，你不顾吗？」",
+      "ja": "ところがイエスだけは、とものほうで、枕をして眠っておられた。弟子たちはイエスを起こして言った。「先生。私たちがおぼれて死にそうでも、何とも思われないのですか。」"
+    },
+    {
+      "number": 39,
+      "ko": "예수께서 깨어 바람을 꾸짖으시며 바다더러 이르시되 잠잠하라 고요하라 하시니 바람이 그치고 아주 잔잔하여지더라",
+      "en": "He got up, rebuked the wind and said to the waves, \"Quiet! Be still!\" Then the wind died down and it was completely calm.",
+      "de": "Und er stand auf und bedrohte den Wind und sprach zu dem Meer: Schweig und verstumme! Und der Wind legte sich, und es ward eine große Stille.",
+      "zh": "耶稣醒了，斥责风，向海说：「住了吧！静了吧！」风就止住，大大地平静了。",
+      "ja": "イエスは起き上がって、風をしかりつけ、湖に「黙れ、静まれ。」と言われた。すると風はやみ、大なぎになった。"
+    },
+    {
+      "number": 40,
+      "ko": "이에 제자들에게 이르시되 어찌하여 이렇게 무서워하느냐 너희가 어찌 믿음이 없느냐 하시니",
+      "en": "He said to his disciples, \"Why are you so afraid? Do you still have no faith?\"",
+      "de": "Und er sprach zu ihnen: Wie seid ihr so furchtsam? Wie, daß ihr keinen Glauben habt?",
+      "zh": "耶稣对他们说：「为什么胆怯？你们还没有信心吗？」",
+      "ja": "イエスは彼らに言われた。「どうしてそんなにこわがるのです。信仰がないのは、どうしたことです。」"
+    },
+    {
+      "number": 41,
+      "ko": "그들이 심히 두려워하여 서로 말하되 그가 누구이기에 바람과 바다도 순종하는가 하였더라",
+      "en": "They were terrified and asked each other, \"Who is this? Even the wind and the waves obey him!\"",
+      "de": "Und sie fürchteten sich sehr und sprachen untereinander: Wer ist der? denn Wind und Meer sind ihm gehorsam.",
+      "zh": "他们就大大地惧怕，彼此说：「这到底是谁，连风和海也听从他了。」",
+      "ja": "彼らは大きな恐怖に包まれて、互いに言った。「風や湖までが言うことをきくとは、いったいこの方はどういう方なのだろう。」"
+    }
+  ]
+}

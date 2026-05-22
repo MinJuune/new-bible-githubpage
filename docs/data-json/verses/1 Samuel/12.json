@@ -1,0 +1,206 @@
+{
+  "book": "1 Samuel",
+  "chapter": 12,
+  "verses": [
+    {
+      "number": 1,
+      "ko": "사무엘이 온 이스라엘에게 이르되 보라 너희가 내게 한 말을 내가 다 듣고 너희 위에 왕을 세웠더니",
+      "en": "Samuel said to all Israel, \"I have listened to everything you said to me and have set a king over you.",
+      "de": "Da sprach Samuel zum ganzen Israel: Siehe, ich habe eurer Stimme gehorcht in allem, was ihr mir gesagt habt, und habe einen König über euch gemacht.",
+      "zh": "撒母耳对以色列众人说：「你们向我所求的，我已应允了，为你们立了一个王；",
+      "ja": "サムエル、イスラエルの人々にいひけるは視よ我汝らが我にいひし言をことごとく聽て汝らに王を立たり"
+    },
+    {
+      "number": 2,
+      "ko": "이제 왕이 너희 앞에 출입하느니라 보라 나는 늙어 머리가 희어졌고 내 아들들도 너희와 함께 있느니라 내가 어려서부터 오늘까지 너희 앞에 출입하였거니와",
+      "en": "Now you have a king as your leader. As for me, I am old and gray, and my sons are here with you. I have been your leader from my youth until this day.",
+      "de": "Und nun siehe, da zieht euer König vor euch her. Ich aber bin alt und grau geworden, und meine Söhne sind bei euch, und ich bin vor euch hergegangen von meiner Jugend auf bis auf diesen Tag.",
+      "zh": "现在有这王在你们前面行。我已年老发白，我的儿子都在你们这里。我从幼年直到今日都在你们前面行。",
+      "ja": "見よ今王汝らのまへにあゆむ我は老て髮しろし視よわが子ども汝らと共にあり我幼稚時より今日にいたるまで汝等のまへにあゆめり"
+    },
+    {
+      "number": 3,
+      "ko": "내가 여기 있나니 여호와 앞과 그의 기름 부음을 받은 자 앞에서 내게 대하여 증언하라 내가 누구의 소를 빼앗았느냐 누구의 나귀를 빼앗았느냐 누구를 속였느냐 누구를 압제하였느냐 내 눈을 흐리게 하는 뇌물을 누구의 손에서 받았느냐 그리하였으면 내가 그것을 너희에게 갚으리라 하니",
+      "en": "Here I stand. Testify against me in the presence of the LORD and his anointed. Whose ox have I taken? Whose donkey have I taken? Whom have I cheated? Whom have I oppressed? From whose hand have I accepted a bribe to make me shut my eyes? If I have done any of these, I will make it right.\"",
+      "de": "Siehe, hier bin ich; antwortet wider mich vor dem HERRN und seinem Gesalbten, ob ich jemandes Ochsen oder Esel genommen habe? ob ich jemand habe Gewalt oder Unrecht getan? ob ich von jemandes Hand ein Geschenk genommen habe und mir die Augen blenden lassen? so will ich's euch wiedergeben.",
+      "zh": "我在这里，你们要在耶和华和他的受膏者面前给我作见证。我夺过谁的牛，抢过谁的驴，欺负过谁，虐待过谁，从谁手里受过贿赂因而眼瞎呢？若有，我必偿还。」",
+      "ja": "視よ我ここにありヱホバのまへと其膏そそぎし者のまへに我を訴へよ我誰の牛を取りしや誰の驢馬をとりしや誰を掠めしや誰を虐遇しや誰の手より賄賂をとりてわが目を矇せしや有ば我これを汝らにかへさん"
+    },
+    {
+      "number": 4,
+      "ko": "그들이 이르되 당신이 우리를 속이지 아니하였고 압제하지 아니하였고 누구의 손에서든지 아무것도 빼앗은 것이 없나이다 하니라",
+      "en": "\"You have not cheated or oppressed us,\" they replied. \"You have not taken anything from anyone's hand.\"",
+      "de": "Sie sprachen: Du hast uns keine Gewalt noch Unrecht getan und von niemandes Hand etwas genommen.",
+      "zh": "众人说：「你未曾欺负我们，虐待我们，也未曾从谁手里受过什么。」",
+      "ja": "彼らいひけるは汝は我らをかすめずくるしめず又何をも人の手より取りしことなし"
+    },
+    {
+      "number": 5,
+      "ko": "사무엘이 백성에게 이르되 너희가 내 손에서 아무것도 찾아낸 것이 없음을 여호와께서 너희에게 대하여 증언하시며 그의 기름 부음을 받은 자도 오늘 증언하느니라 하니 그들이 이르되 그가 증언하시나이다 하니라",
+      "en": "Samuel said to them, \"The LORD is witness against you, and also his anointed is witness this day, that you have not found anything in my hand.\" \"He is witness,\" they said.",
+      "de": "Er sprach zu ihnen: Der HERR sei Zeuge wider euch und sein Gesalbter heutigestages, daß ihr nichts in meiner Hand gefunden habt. Sie sprachen: Ja, Zeugen sollen sie sein.",
+      "zh": "撒母耳对他们说：「你们在我手里没有找着什么，有耶和华和他的受膏者今日为证。」他们说：「愿他为证。」",
+      "ja": "サムエルかれらにいひけるは汝らが我手のうちに何をも見いださざるをヱホバ汝らに證したまふ其膏そそぎし者も今日證す彼ら答へけるは證したまふ"
+    },
+    {
+      "number": 6,
+      "ko": "사무엘이 백성에게 이르되 모세와 아론을 세우시며 너희 조상들을 애굽 땅에서 인도하여 내신 이는 여호와이시니",
+      "en": "Then Samuel said to the people, \"It is the LORD who appointed Moses and Aaron and brought your forefathers up out of Egypt.",
+      "de": "Und Samuel sprach zum Volk: Ja, der HERR, der Mose und Aaron gemacht hat und eure Väter aus Ägyptenland geführt hat.",
+      "zh": "撒母耳对百姓说：「从前立摩西、亚伦，又领你们列祖出埃及地的是耶和华。",
+      "ja": "サムエル民にいひけるはヱホバはモーセとアロンをたてし者汝らの先祖をエジプトの地より導きいだせしものなり"
+    },
+    {
+      "number": 7,
+      "ko": "그런즉 가만히 서 있으라 여호와께서 너희와 너희 조상들에게 행하신 모든 공의로운 일에 대하여 내가 여호와 앞에서 너희와 담론하리라",
+      "en": "Now then, stand here, because I am going to confront you with evidence before the LORD as to all the righteous acts performed by the LORD for you and your fathers.",
+      "de": "So tretet nun her, daß ich mit euch rechte vor dem HERRN über alle Wohltat des HERRN, die er an euch und euren Vätern getan hat.",
+      "zh": "现在你们要站住，等我在耶和华面前对你们讲论耶和华向你们和你们列祖所行一切公义的事。",
+      "ja": "立ちあがれヱホバが汝らおよび汝らの先祖になしたまひし諸の義しき行爲につきて我ヱホバのまへに汝らと論ぜん"
+    },
+    {
+      "number": 8,
+      "ko": "야곱이 애굽에 들어간 후 너희 조상들이 여호와께 부르짖으매 여호와께서 모세와 아론을 보내사 그 두 사람으로 너희 조상들을 애굽에서 인도해 내어 이 곳에 살게 하셨으나",
+      "en": "\"After Jacob entered Egypt, they cried to the LORD for help, and the LORD sent Moses and Aaron, who brought your forefathers out of Egypt and settled them in this place.",
+      "de": "Als Jakob nach Ägypten gekommen war, schrieen eure Väter zu dem HERRN, und er sandte Mose und Aaron, daß sie eure Väter aus Ägypten führten und sie an diesem Ort wohnen ließen.",
+      "zh": "从前雅各到了埃及，后来你们列祖呼求耶和华，耶和华就差遣摩西、亚伦领你们列祖出埃及，使他们在这地方居住。",
+      "ja": "ヤコブのエジプトにいたるにおよびて汝らの先祖のヱホバに呼はりし時ヱホバ、モーセとアロンを遣はしたまひて此二人汝らの先祖をエジプトより導きいだして此處にすましめたり"
+    },
+    {
+      "number": 9,
+      "ko": "그들이 그들의 하나님 여호와를 잊은지라 여호와께서 그들을 하솔 군사령관 시스라의 손과 블레셋 사람들의 손과 모압 왕의 손에 넘기셨더니 그들이 저희를 치매",
+      "en": "\"But they forgot the LORD their God; so he sold them into the hand of Sisera, the commander of the army of Hazor, and into the hands of the Philistines and the king of Moab, who fought against them.",
+      "de": "Aber da sie des HERRN, ihres Gottes, vergaßen, verkaufte er sie unter die Gewalt Siseras, des Feldhauptmanns zu Hazor, und unter die Gewalt der Philister und unter die Gewalt des Königs der Moabiter, die stritten wider sie.",
+      "zh": "他们却忘记耶和华—他们的　神，他就把他们付与夏琐将军西西拉的手里，和非利士人并摩押王的手里。于是这些人常来攻击他们。",
+      "ja": "しかるに彼ら其神ヱホバを忘れしかばヱホバこれをハゾルの軍の長シセラの手とペリシテ人の手およびモアブ王の手にわたしたまへり斯て彼らこれを攻ければ"
+    },
+    {
+      "number": 10,
+      "ko": "백성이 여호와께 부르짖어 이르되 우리가 여호와를 버리고 바알들과 아스다롯을 섬김으로 범죄하였나이다 그러하오나 이제 우리를 원수들의 손에서 건져내소서 그리하시면 우리가 주를 섬기겠나이다 하매",
+      "en": "They cried out to the LORD and said, 'We have sinned; we have forsaken the LORD and served the Baals and the Ashtoreths. But now deliver us from the hands of our enemies, and we will serve you.'",
+      "de": "Und sie schrieen zum HERRN und sprachen: Wir haben gesündigt, daß wir den HERRN verlassen und den Baalim und den Astharoth gedient haben; nun aber errette uns von der Hand unserer Feinde, so wollen wir dir dienen.",
+      "zh": "他们就呼求耶和华说：『我们离弃耶和华，事奉巴力和亚斯她录，是有罪了。现在求你救我们脱离仇敌的手，我们必事奉你。』",
+      "ja": "民ヱホバに呼はりていひけるは我らヱホバを棄てバアルとアシタロテに事へてヱホバに罪を犯したりされど今我らを敵の手より救ひいだしたまへ我ら汝につかへんと"
+    },
+    {
+      "number": 11,
+      "ko": "여호와께서 여룹바알과 베단과 입다와 나 사무엘을 보내사 너희를 너희 사방 원수의 손에서 건져내사 너희에게 안전하게 살게 하셨거늘",
+      "en": "Then the LORD sent Jerub-Baal, Barak, Jephthah and Samuel, and he delivered you from the hands of your enemies on every side, so that you lived securely.",
+      "de": "Da sandte der HERR Jerubbaal, Bedan, Jephthah und Samuel und errettete euch von eurer Feinde Händen umher und ließ euch sicher wohnen.",
+      "zh": "耶和华就差遣耶路·巴力、比但、耶弗他、撒母耳救你们脱离四围仇敌的手，你们才安然居住。",
+      "ja": "是においてヱホバ、ヱルバアルとバラクとエフタとサムエルを遣はして汝らを四方の敵の手より救ひいだしたまひて汝ら安らかに住めり"
+    },
+    {
+      "number": 12,
+      "ko": "너희가 암몬 자손의 왕 나하스가 너희를 치러 옴을 보고 너희의 하나님 여호와께서는 너희의 왕이 되심에도 불구하고 너희가 내게 이르기를 아니라 우리를 다스릴 왕이 있어야 하겠다 하였도다",
+      "en": "\"But when you saw that Nahash king of the Ammonites was moving against you, you said to me, 'No, we want a king to rule over us'--even though the LORD your God was your king.",
+      "de": "Da ihr aber saht, das Nahas, der König der Kinder Ammon, wider euch kam, spracht ihr zu mir: Mitnichten, sondern ein König soll über uns herrschen; so doch der HERR, euer Gott, euer König war.",
+      "zh": "你们见亚扪人的王拿辖来攻击你们，就对我说：『我们定要一个王治理我们。』其实耶和华—你们的　神是你们的王。",
+      "ja": "しかるに汝らアンモンの子孫の王ナハシの汝らを攻んとて來るを見て汝らの神ヱホバ汝らの王なるに汝ら我にいふ否我らををさむる王なかるべからずと"
+    },
+    {
+      "number": 13,
+      "ko": "이제 너희가 구한 왕, 너희가 택한 왕을 보라 여호와께서 너희 위에 왕을 세우셨느니라",
+      "en": "Now here is the king you have chosen, the one you asked for; see, the LORD has set a king over you.",
+      "de": "Nun, da habt ihr euren König, den ihr erwählt und erbeten habt; denn siehe, der HERR hat einen König über euch gesetzt.",
+      "zh": "现在，你们所求所选的王在这里。看哪，耶和华已经为你们立王了。",
+      "ja": "今汝らが選みし王汝らがねがひし王を見よ視よヱホバ汝らに王をたてたまへり"
+    },
+    {
+      "number": 14,
+      "ko": "너희가 만일 여호와를 경외하여 그를 섬기며 그의 목소리를 듣고 여호와의 명령을 거역하지 아니하며 또 너희와 너희를 다스리는 왕이 너희의 하나님 여호와를 따르면 좋겠지마는",
+      "en": "If you fear the LORD and serve and obey him and do not rebel against his commands, and if both you and the king who reigns over you follow the LORD your God--good!",
+      "de": "Werdet ihr nun den HERRN fürchten und ihm dienen und seiner Stimme gehorchen und dem Munde des HERRN nicht ungehorsam sein, so werdet ihr und euer König, der über euch herrscht, dem HERRN, eurem Gott, folgen.",
+      "zh": "你们若敬畏耶和华，事奉他，听从他的话，不违背他的命令，你们和治理你们的王也都顺从耶和华—你们的　神就好了。",
+      "ja": "汝らもしヱホバを畏みて之につかへ其言にしたがひてヱホバの命にそむかずまた汝らと汝らををさむる王恒に汝らの神ヱホバに從はば善し"
+    },
+    {
+      "number": 15,
+      "ko": "너희가 만일 여호와의 목소리를 듣지 아니하고 여호와의 명령을 거역하면 여호와의 손이 너희의 조상들을 치신 것 같이 너희를 치실 것이라",
+      "en": "But if you do not obey the LORD, and if you rebel against his commands, his hand will be against you, as it was against your fathers.",
+      "de": "Werdet ihr aber des HERRN Stimme nicht gehorchen, sondern seinem Munde ungehorsam sein, so wird die Hand des HERRN wider euch sein wie wider eure Väter.",
+      "zh": "倘若不听从耶和华的话，违背他的命令，耶和华的手必攻击你们，像从前攻击你们列祖一样。",
+      "ja": "しかれども汝らもしヱホバの言にしたがはずしてヱホバの命にそむかばヱホバの手汝らの先祖をせめしごとく汝らをせむべし"
+    },
+    {
+      "number": 16,
+      "ko": "너희는 이제 가만히 서서 여호와께서 너희 목전에서 행하시는 이 큰 일을 보라",
+      "en": "\"Now then, stand still and see this great thing the LORD is about to do before your eyes!",
+      "de": "Tretet auch nun her und seht das große Ding, das der HERR vor euren Augen tun wird.",
+      "zh": "现在你们要站住，看耶和华在你们眼前要行一件大事。",
+      "ja": "汝ら今たちてヱホバが爾らの目のまへになしたまふ此大なる事を見よ"
+    },
+    {
+      "number": 17,
+      "ko": "오늘은 밀 베는 때가 아니냐 내가 여호와께 아뢰리니 여호와께서 우레와 비를 보내사 너희가 왕을 구한 일 곧 여호와의 목전에서 범한 죄악이 큼을 너희에게 밝히 알게 하시리라",
+      "en": "Is it not wheat harvest now? I will call upon the LORD to send thunder and rain. And you will realize what an evil thing you did in the eyes of the LORD when you asked for a king.\"",
+      "de": "Ist nicht jetzt die Weizenernte? Ich will aber den HERRN anrufen, daß er soll donnern und regnen lassen, daß ihr innewerdet und sehen sollt das große Übel, das ihr vor des HERRN Augen getan habt, daß ihr euch einen König erbeten habt.",
+      "zh": "这不是割麦子的时候吗？我求告耶和华，他必打雷降雨，使你们又知道又看出，你们求立王的事是在耶和华面前犯大罪了。」",
+      "ja": "今日は麥刈時にあらずや我ヱホバを呼んヱホバ雷と雨をくだして汝らが王をもとめてヱホバのまへに爲したる罪の大なるを見しらしめたまはん"
+    },
+    {
+      "number": 18,
+      "ko": "이에 사무엘이 여호와께 아뢰매 여호와께서 그 날에 우레와 비를 보내시니 모든 백성이 여호와와 사무엘을 크게 두려워하니라",
+      "en": "Then Samuel called upon the LORD, and that same day the LORD sent thunder and rain. So all the people stood in awe of the LORD and of Samuel.",
+      "de": "Und da Samuel den HERRN anrief, ließ der HERR donnern und regnen desselben Tages. Da fürchtete das ganze Volk sehr den HERRN und Samuel",
+      "zh": "于是撒母耳求告耶和华，耶和华就在这日打雷降雨，众民便甚惧怕耶和华和撒母耳。",
+      "ja": "かくてサムエル、ヱホバをよびければヱホバ其日雷と雨をくだしたまへり民みな大にヱホバとサムエルを恐る"
+    },
+    {
+      "number": 19,
+      "ko": "모든 백성이 사무엘에게 이르되 당신의 종들을 위하여 당신의 하나님 여호와께 기도하여 우리가 죽지 않게 하소서 우리가 우리의 모든 죄에 왕을 구하는 악을 더하였나이다",
+      "en": "The people all said to Samuel, \"Pray to the LORD your God for your servants so that we will not die, for we have added to all our other sins the evil of asking for a king.\"",
+      "de": "und sprachen alle zu Samuel: Bitte für deine Knechte den HERRN, deinen Gott, daß wir nicht sterben; denn über alle unsre Sünden haben wir auch das Übel getan, daß wir uns einen König erbeten haben.",
+      "zh": "众民对撒母耳说：「求你为仆人们祷告耶和华—你的　神，免得我们死亡，因为我们求立王的事正是罪上加罪了。」",
+      "ja": "民みなサムエルにいひけるは僕らのために汝の神ヱホバにいのりて我らを死なざらしめよ我ら諸の罪にまた王を求むるの惡をくはへたればなり"
+    },
+    {
+      "number": 20,
+      "ko": "사무엘이 백성에게 이르되 두려워하지 말라 너희가 과연 이 모든 악을 행하였으나 여호와를 따르는 데에서 돌아서지 말고 오직 너희의 마음을 다하여 여호와를 섬기라",
+      "en": "\"Do not be afraid,\" Samuel replied. \"You have done all this evil; yet do not turn away from the LORD, but serve the LORD with all your heart.",
+      "de": "Samuel aber sprach zum Volk: Fürchtet euch nicht! Ihr habt zwar das Übel alles getan; doch weicht nicht hinter dem HERRN ab, sondern dient dem HERRN von ganzem Herzen",
+      "zh": "撒母耳对百姓说：「不要惧怕！你们虽然行了这恶，却不要偏离耶和华，只要尽心事奉他。",
+      "ja": "サムエル民にいひけるは懼るなかれ汝らこの總ての惡をなしたりされどヱホバに從ふことを息ず心をつくしてヱホバに事へ"
+    },
+    {
+      "number": 21,
+      "ko": "돌아서서 유익하게도 못하며 구원하지도 못하는 헛된 것을 따르지 말라 그들은 헛되니라",
+      "en": "Do not turn away after useless idols. They can do you no good, nor can they rescue you, because they are useless.",
+      "de": "und folgt nicht dem Eitlen nach; denn es nützt nicht und kann nicht erretten, weil es ein eitel Ding ist.",
+      "zh": "若偏离耶和华去顺从那不能救人的虚神是无益的。",
+      "ja": "虚しき物に迷ひゆくなかれ是は虚しき物なれば汝らを助くることも救ふことも得ざるなり"
+    },
+    {
+      "number": 22,
+      "ko": "여호와께서는 너희를 자기 백성으로 삼으신 것을 기뻐하셨으므로 여호와께서는 그의 크신 이름을 위해서라도 자기 백성을 버리지 아니하실 것이요",
+      "en": "For the sake of his great name the LORD will not reject his people, because the LORD was pleased to make you his own.",
+      "de": "Aber der HERR verläßt sein Volk nicht um seines großen Namens willen; denn es hat dem HERRN gefallen, euch ihm selbst zum Volk zu machen.",
+      "zh": "耶和华既喜悦选你们作他的子民，就必因他的大名不撇弃你们。",
+      "ja": "ヱホバ其大なる名のために此民をすてたまはざるべし其はヱホバ汝らをおのれの民となすことを善としたまへばなり"
+    },
+    {
+      "number": 23,
+      "ko": "나는 너희를 위하여 기도하기를 쉬는 죄를 여호와 앞에 결단코 범하지 아니하고 선하고 의로운 길을 너희에게 가르칠 것인즉",
+      "en": "As for me, far be it from me that I should sin against the LORD by failing to pray for you. And I will teach you the way that is good and right.",
+      "de": "Es sei aber auch ferne von mir, mich also an dem HERRN zu versündigen, daß ich sollte ablassen für euch zu beten und euch zu lehren den guten und richtigen Weg.",
+      "zh": "至于我，断不停止为你们祷告，以致得罪耶和华。我必以善道正路指教你们。",
+      "ja": "また我は汝らのために祈ることをやめてヱホバに罪ををかすことは決てせざるべし且われ善き正しき道をもて汝らををしへん"
+    },
+    {
+      "number": 24,
+      "ko": "너희는 여호와께서 너희를 위하여 행하신 그 큰 일을 생각하여 오직 그를 경외하며 너희의 마음을 다하여 진실히 섬기라",
+      "en": "But be sure to fear the LORD and serve him faithfully with all your heart; consider what great things he has done for you.",
+      "de": "Fürchtet nur den HERRN und dient ihm treulich von ganzem Herzen; denn ihr habt gesehen wie große Dinge er an euch tut.",
+      "zh": "只要你们敬畏耶和华，诚诚实实地尽心事奉他，想念他向你们所行的事何等大。",
+      "ja": "汝ら只ヱホバをかしこみ心をつくして誠にこれにつかへよ而して如何に大なることをヱホバ汝らになしたまひしかを思ふ可し"
+    },
+    {
+      "number": 25,
+      "ko": "만일 너희가 여전히 악을 행하면 너희와 너희 왕이 다 멸망하리라",
+      "en": "Yet if you persist in doing evil, both you and your king will be swept away.\"",
+      "de": "Werdet ihr aber übel handeln, so werdet ihr und euer König verloren sein.",
+      "zh": "你们若仍然作恶，你们和你们的王必一同灭亡。」",
+      "ja": "しかれども汝らもしなほ惡をなさば汝らと汝らの王ともにほろぼさるべし"
+    }
+  ]
+}

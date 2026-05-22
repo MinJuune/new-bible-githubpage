@@ -1,0 +1,254 @@
+{
+  "book": "Proverbs",
+  "chapter": 11,
+  "verses": [
+    {
+      "number": 1,
+      "ko": "속이는 저울은 여호와께서 미워하시나 공평한 추는 그가 기뻐하시느니라",
+      "en": "The LORD abhors dishonest scales, but accurate weights are his delight.",
+      "de": "Falsche Waage ist dem HERRN ein Greuel; aber völliges Gewicht ist sein Wohlgefallen.",
+      "zh": "诡诈的天平为耶和华所憎恶； 公平的法码为他所喜悦。",
+      "ja": "いつはりの權衝はヱホバに惡まれ 義しき法馬は彼に欣ばる"
+    },
+    {
+      "number": 2,
+      "ko": "교만이 오면 욕도 오거니와 겸손한 자에게는 지혜가 있느니라",
+      "en": "When pride comes, then comes disgrace, but with humility comes wisdom.",
+      "de": "Wo Stolz ist, da ist auch Schmach; aber Weisheit ist bei den Demütigen.",
+      "zh": "骄傲来，羞耻也来； 谦逊人却有智慧。",
+      "ja": "驕傲きたれば辱も亦きたる謙だる者には智慧あり"
+    },
+    {
+      "number": 3,
+      "ko": "정직한 자의 성실은 자기를 인도하거니와 사악한 자의 패역은 자기를 망하게 하느니라",
+      "en": "The integrity of the upright guides them, but the unfaithful are destroyed by their duplicity.",
+      "de": "Unschuld wird die Frommen leiten; aber die Bosheit wird die Verächter verstören.",
+      "zh": "正直人的纯正必引导自己； 奸诈人的乖僻必毁灭自己。",
+      "ja": "直者の端荘は己を導き悖逆者の邪曲は己を亡す"
+    },
+    {
+      "number": 4,
+      "ko": "재물은 진노하시는 날에 무익하나 공의는 죽음에서 건지느니라",
+      "en": "Wealth is worthless in the day of wrath, but righteousness delivers from death.",
+      "de": "Gut hilft nicht am Tage des Zorns; aber Gerechtigkeit errettet vom Tod.",
+      "zh": "发怒的日子资财无益； 惟有公义能救人脱离死亡。",
+      "ja": "寳は震怒の日に益なし されど正義は救ふて死をまぬかれしむ"
+    },
+    {
+      "number": 5,
+      "ko": "완전한 자의 공의는 자기의 길을 곧게 하려니와 악한 자는 자기의 악으로 말미암아 넘어지리라",
+      "en": "The righteousness of the blameless makes a straight way for them, but the wicked are brought down by their own wickedness.",
+      "de": "Die Gerechtigkeit des Frommen macht seinen Weg eben; aber der Gottlose wird fallen durch sein gottloses Wesen.",
+      "zh": "完全人的义必指引他的路； 但恶人必因自己的恶跌倒。",
+      "ja": "完全者はその正義によりてその途を直くせられ 惡者はその惡によりて跌るべし"
+    },
+    {
+      "number": 6,
+      "ko": "정직한 자의 공의는 자기를 건지려니와 사악한 자는 자기의 악에 잡히리라",
+      "en": "The righteousness of the upright delivers them, but the unfaithful are trapped by evil desires.",
+      "de": "Die Gerechtigkeit der Frommen wird sie erretten; aber die Verächter werden gefangen in ihrer Bosheit.",
+      "zh": "正直人的义必拯救自己； 奸诈人必陷在自己的罪孽中。",
+      "ja": "直者はその正義によりて救はれ 悖逆者は自己の惡によりて執へらる"
+    },
+    {
+      "number": 7,
+      "ko": "악인은 죽을 때에 그 소망이 끊어지나니 불의의 소망이 없어지느니라",
+      "en": "When a wicked man dies, his hope perishes; all he expected from his power comes to nothing.",
+      "de": "Wenn der gottlose Mensch stirbt, ist seine Hoffnung verloren und das Harren des Ungerechten wird zunichte.",
+      "zh": "恶人一死，他的指望必灭绝； 罪人的盼望也必灭没。",
+      "ja": "惡人は死るときにその望たえ 不義なる者の望もまた絶べし"
+    },
+    {
+      "number": 8,
+      "ko": "의인은 환난에서 구원을 얻으나 악인은 자기의 길로 가느니라",
+      "en": "The righteous man is rescued from trouble, and it comes on the wicked instead.",
+      "de": "Der Gerechte wird aus seiner Not erlöst, und der Gottlose kommt an seine Statt.",
+      "zh": "义人得脱离患难， 有恶人来代替他。",
+      "ja": "義者は艱難より救はれ 惡者はこれに代る"
+    },
+    {
+      "number": 9,
+      "ko": "악인은 입으로 그의 이웃을 망하게 하여도 의인은 그의 지식으로 말미암아 구원을 얻느니라",
+      "en": "With his mouth the godless destroys his neighbor, but through knowledge the righteous escape.",
+      "de": "Durch den Mund des Heuchlers wird sein Nächster verderbt; aber die Gerechten merken's und werden erlöst.",
+      "zh": "不虔敬的人用口败坏邻舍； 义人却因知识得救。",
+      "ja": "邪曲なる者は口をもてその鄰を亡す されど義しき者はその知識によりて救はる"
+    },
+    {
+      "number": 10,
+      "ko": "의인이 형통하면 성읍이 즐거워하고 악인이 패망하면 기뻐 외치느니라",
+      "en": "When the righteous prosper, the city rejoices; when the wicked perish, there are shouts of joy.",
+      "de": "Eine Stadt freut sich, wenn's den Gerechten wohl geht; und wenn die Gottlosen umkommen, wird man froh.",
+      "zh": "义人享福，合城喜乐； 恶人灭亡，人都欢呼。",
+      "ja": "義しきもの幸福を受ればその城邑に歓喜あり 惡きもの亡さるれば歓喜の聲おこる"
+    },
+    {
+      "number": 11,
+      "ko": "성읍은 정직한 자의 축복으로 인하여 진흥하고 악한 자의 입으로 말미암아 무너지느니라",
+      "en": "Through the blessing of the upright a city is exalted, but by the mouth of the wicked it is destroyed.",
+      "de": "Durch den Segen der Frommen wird eine Stadt erhoben; aber durch den Mund der Gottlosen wird sie zerbrochen.",
+      "zh": "城因正直人祝福便高举， 却因邪恶人的口就倾覆。",
+      "ja": "城邑は直者の祝ふに倚て高く擧られ 惡者の口によりて亡さる"
+    },
+    {
+      "number": 12,
+      "ko": "지혜 없는 자는 그의 이웃을 멸시하나 명철한 자는 잠잠하느니라",
+      "en": "A man who lacks judgment derides his neighbor, but a man of understanding holds his tongue.",
+      "de": "Wer seinen Nächsten schändet, ist ein Narr; aber ein verständiger Mann schweigt still.",
+      "zh": "藐视邻舍的，毫无智慧； 明哲人却静默不言。",
+      "ja": "その鄰を侮る者は智慧なし 聰明人はその口を噤む"
+    },
+    {
+      "number": 13,
+      "ko": "두루 다니며 한담하는 자는 남의 비밀을 누설하나 마음이 신실한 자는 그런 것을 숨기느니라",
+      "en": "A gossip betrays a confidence, but a trustworthy man keeps a secret.",
+      "de": "Ein Verleumder verrät, was er heimlich weiß; aber wer eines getreuen Herzens ist, verbirgt es.",
+      "zh": "往来传舌的，泄漏密事； 心中诚实的，遮隐事情。",
+      "ja": "往て人の是非をいふ者は密事を洩し 心の忠信なる者は事を隱す"
+    },
+    {
+      "number": 14,
+      "ko": "지략이 없으면 백성이 망하여도 지략이 많으면 평안을 누리느니라",
+      "en": "For lack of guidance a nation falls, but many advisers make victory sure.",
+      "de": "Wo nicht Rat ist, da geht das Volk unter; wo aber viel Ratgeber sind, da geht es wohl zu.",
+      "zh": "无智谋，民就败落； 谋士多，人便安居。",
+      "ja": "はかりごとなければ民たふれ 議士多ければ平安なり"
+    },
+    {
+      "number": 15,
+      "ko": "타인을 위하여 보증이 되는 자는 손해를 당하여도 보증이 되기를 싫어하는 자는 평안하니라",
+      "en": "He who puts up security for another will surely suffer, but whoever refuses to strike hands in pledge is safe.",
+      "de": "Wer für einen andern Bürge wird, der wird Schaden haben; wer aber sich vor Geloben hütet, ist sicher.",
+      "zh": "为外人作保的，必受亏损； 恨恶击掌的，却得安稳。",
+      "ja": "他人のために保證をなす者は苦難をうけ 保證を嫌ふ者は平安なり"
+    },
+    {
+      "number": 16,
+      "ko": "유덕한 여자는 존영을 얻고 근면한 남자는 재물을 얻느니라",
+      "en": "A kindhearted woman gains respect, but ruthless men gain only wealth.",
+      "de": "Ein holdselig Weib erlangt Ehre; aber die Tyrannen erlangen Reichtum.",
+      "zh": "恩德的妇女得尊荣； 强暴的男子得资财。",
+      "ja": "柔順なる婦は榮譽をえ 強き男子は資財を得"
+    },
+    {
+      "number": 17,
+      "ko": "인자한 자는 자기의 영혼을 이롭게 하고 잔인한 자는 자기의 몸을 해롭게 하느니라",
+      "en": "A kind man benefits himself, but a cruel man brings trouble on himself.",
+      "de": "Ein barmherziger Mann tut sich selber Gutes; aber ein unbarmherziger betrübt auch sein eigen Fleisch.",
+      "zh": "仁慈的人善待自己； 残忍的人扰害己身。",
+      "ja": "慈悲ある者は己の霊魂に益をくはへ 殘忍者はおのれの身を擾はす"
+    },
+    {
+      "number": 18,
+      "ko": "악인의 삯은 허무하되 공의를 뿌린 자의 상은 확실하니라",
+      "en": "The wicked man earns deceptive wages, but he who sows righteousness reaps a sure reward.",
+      "de": "Der Gottlosen Arbeit wird fehlschlagen; aber wer Gerechtigkeit sät, das ist gewisses Gut.",
+      "zh": "恶人经营，得虚浮的工价； 撒义种的，得实在的果效。",
+      "ja": "惡者の獲る報はむなしく 義を播くものの得る報賞は確し"
+    },
+    {
+      "number": 19,
+      "ko": "공의를 굳게 지키는 자는 생명에 이르고 악을 따르는 자는 사망에 이르느니라",
+      "en": "The truly righteous man attains life, but he who pursues evil goes to his death.",
+      "de": "Gerechtigkeit fördert zum Leben; aber dem Übel nachjagen fördert zum Tod.",
+      "zh": "恒心为义的，必得生命； 追求邪恶的，必致死亡。",
+      "ja": "堅く義をたもつ者は生命にいたり 惡を追もとむる者はおのれの死をまねく"
+    },
+    {
+      "number": 20,
+      "ko": "마음이 굽은 자는 여호와께 미움을 받아도 행위가 온전한 자는 그의 기뻐하심을 받느니라",
+      "en": "The LORD detests men of perverse heart but he delights in those whose ways are blameless.",
+      "de": "Der HERR hat Greuel an den verkehrten Herzen, und Wohlgefallen an den Frommen.",
+      "zh": "心中乖僻的，为耶和华所憎恶； 行事完全的，为他所喜悦。",
+      "ja": "心の戻れる者はヱホバに憎まれ 直く道を歩む者は彼に悦ばる"
+    },
+    {
+      "number": 21,
+      "ko": "악인은 피차 손을 잡을지라도 벌을 면하지 못할 것이나 의인의 자손은 구원을 얻으리라",
+      "en": "Be sure of this: The wicked will not go unpunished, but those who are righteous will go free.",
+      "de": "Den Bösen hilft nichts, wenn sie auch alle Hände zusammentäten; aber der Gerechten Same wird errettet werden.",
+      "zh": "恶人虽然连手，必不免受罚； 义人的后裔必得拯救。",
+      "ja": "手に手をあはするとも惡人は罪をまぬかれず 義人の苗裔は救を得"
+    },
+    {
+      "number": 22,
+      "ko": "아름다운 여인이 삼가지 아니하는 것은 마치 돼지 코에 금 고리 같으니라",
+      "en": "Like a gold ring in a pig's snout is a beautiful woman who shows no discretion.",
+      "de": "Ein schönes Weib ohne Zucht ist wie eine Sau mit einem goldenen Haarband.",
+      "zh": "妇女美貌而无见识， 如同金环带在猪鼻上。",
+      "ja": "美しき婦のつつしみなきは金の環の豕の鼻にあるが如し"
+    },
+    {
+      "number": 23,
+      "ko": "의인의 소원은 오직 선하나 악인의 소망은 진노를 이루느니라",
+      "en": "The desire of the righteous ends only in good, but the hope of the wicked only in wrath.",
+      "de": "Der Gerechten Wunsch muß doch wohl geraten, und der Gottlosen Hoffen wird Unglück.",
+      "zh": "义人的心愿尽得好处； 恶人的指望致干忿怒。",
+      "ja": "義人のねがふところは凡て福祉にいたり 惡人ののぞむところは震怒にいたる"
+    },
+    {
+      "number": 24,
+      "ko": "흩어 구제하여도 더욱 부하게 되는 일이 있나니 과도히 아껴도 가난하게 될 뿐이니라",
+      "en": "One man gives freely, yet gains even more; another withholds unduly, but comes to poverty.",
+      "de": "Einer teilt aus und hat immer mehr; ein anderer kargt, da er nicht soll, und wird doch ärmer.",
+      "zh": "有施散的，却更增添； 有吝惜过度的，反致穷乏。",
+      "ja": "ほどこし散して反りて増ものあり 與ふべきを吝みてかへりて貧しきにいたる者あり"
+    },
+    {
+      "number": 25,
+      "ko": "구제를 좋아하는 자는 풍족하여질 것이요 남을 윤택하게 하는 자는 자기도 윤택하여지리라",
+      "en": "A generous man will prosper; he who refreshes others will himself be refreshed.",
+      "de": "Die Seele, die da reichlich segnet, wird gelabt; wer reichlich tränkt, der wird auch getränkt werden.",
+      "zh": "好施舍的，必得丰裕； 滋润人的，必得滋润。",
+      "ja": "施與を好むものは肥え 人を潤ほす者はまた利潤をうく"
+    },
+    {
+      "number": 26,
+      "ko": "곡식을 내놓지 아니하는 자는 백성에게 저주를 받을 것이나 파는 자는 그의 머리에 복이 임하리라",
+      "en": "People curse the man who hoards grain, but blessing crowns him who is willing to sell.",
+      "de": "Wer Korn innehält, dem fluchen die Leute; aber Segen kommt über den, der es verkauft.",
+      "zh": "屯粮不卖的，民必咒诅他； 情愿出卖的，人必为他祝福。",
+      "ja": "穀物を蔵めて糶ざる者は民に詛はる 然れど售る者の首には祝福あり"
+    },
+    {
+      "number": 27,
+      "ko": "선을 간절히 구하는 자는 은총을 얻으려니와 악을 더듬어 찾는 자에게는 악이 임하리라",
+      "en": "He who seeks good finds goodwill, but evil comes to him who searches for it.",
+      "de": "Wer da Gutes sucht, dem widerfährt Gutes; wer aber nach Unglück ringt, dem wird's begegnen.",
+      "zh": "恳切求善的，就求得恩惠； 惟独求恶的，恶必临到他身。",
+      "ja": "善をもとむる者は恩惠をえん 惡をもとむる者には惡き事きたらん"
+    },
+    {
+      "number": 28,
+      "ko": "자기의 재물을 의지하는 자는 패망하려니와 의인은 푸른 잎사귀 같아서 번성하리라",
+      "en": "Whoever trusts in his riches will fall, but the righteous will thrive like a green leaf.",
+      "de": "Wer sich auf seinen Reichtum verläßt, der wird untergehen; aber die Gerechten werden grünen wie ein Blatt.",
+      "zh": "倚仗自己财物的，必跌倒； 义人必发旺，如青叶。",
+      "ja": "おのれの富を恃むものは仆れん されど義者は樹の靑葉のごとくさかえん"
+    },
+    {
+      "number": 29,
+      "ko": "자기 집을 해롭게 하는 자의 소득은 바람이라 미련한 자는 마음이 지혜로운 자의 종이 되리라",
+      "en": "He who brings trouble on his family will inherit only wind, and the fool will be servant to the wise.",
+      "de": "Wer sein eigen Haus betrübt, der wird Wind zum Erbteil haben; und ein Narr muß ein Knecht des Weisen sein.",
+      "zh": "扰害己家的，必承受清风； 愚昧人必作慧心人的仆人。",
+      "ja": "おのれの家をくるしむるものは風をえて所有とせん 愚なる者は心の智きものの僕とならん"
+    },
+    {
+      "number": 30,
+      "ko": "의인의 열매는 생명 나무라 지혜로운 자는 사람을 얻느니라",
+      "en": "The fruit of the righteous is a tree of life, and he who wins souls is wise.",
+      "de": "Die Frucht des Gerechten ist ein Baum des Lebens, und ein Weiser gewinnt die Herzen.",
+      "zh": "义人所结的果子就是生命树； 有智慧的，必能得人。",
+      "ja": "義人の果は生命の樹なり 智慧ある者は人を捕ふ"
+    },
+    {
+      "number": 31,
+      "ko": "보라 의인이라도 이 세상에서 보응을 받겠거든 하물며 악인과 죄인이리요",
+      "en": "If the righteous receive their due on earth, how much more the ungodly and the sinner!",
+      "de": "So der Gerechte auf Erden leiden muß, wie viel mehr der Gottlose und der Sünder!",
+      "zh": "看哪，义人在世尚且受报， 何况恶人和罪人呢？",
+      "ja": "みよ義人すらも世にありて報をうくべし况て惡人と罪人とをや"
+    }
+  ]
+}

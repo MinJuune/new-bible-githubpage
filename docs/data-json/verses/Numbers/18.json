@@ -1,0 +1,262 @@
+{
+  "book": "Numbers",
+  "chapter": 18,
+  "verses": [
+    {
+      "number": 1,
+      "ko": "여호와께서 아론에게 이르시되 너와 네 아들들과 네 조상의 가문은 성소에 대한 죄를 함께 담당할 것이요 너와 네 아들들은 너희의 제사장 직분에 대한 죄를 함께 담당할 것이니라",
+      "en": "The LORD said to Aaron, \"You, your sons and your father's family are to bear the responsibility for offenses against the sanctuary, and you and your sons alone are to bear the responsibility for offenses against the priesthood.",
+      "de": "Und der HERR sprach zu Aaron: Du und deine Söhne und deines Vaters Haus mit dir sollt die Missetat des Heiligtums tragen; und du und deine Söhne mit dir sollt die Missetat eures Priestertums tragen.",
+      "zh": "耶和华对亚伦说：「你和你的儿子，并你本族的人，要一同担当干犯圣所的罪孽。你和你的儿子也要一同担当干犯祭司职任的罪孽。",
+      "ja": "斯てヱホバ、アロンに告て言たまはく汝と汝の子等および汝の父祖の家の者は聖所に關れる罪をその身に擔當べしまた汝と汝の子等は汝らがその祭司の職について獲ところの罪をその身に擔當べし"
+    },
+    {
+      "number": 2,
+      "ko": "너는 네 형제 레위 지파 곧 네 조상의 지파를 데려다가 너와 함께 있게 하여 너와 네 아들들이 증거의 장막 앞에 있을 때 그들이 너를 돕게 하라",
+      "en": "Bring your fellow Levites from your ancestral tribe to join you and assist you when you and your sons minister before the Tent of the Testimony.",
+      "de": "Aber deine Brüder des Stammes Levis, deines Vaters, sollst du zu dir nehmen, daß sie bei dir seien und dir dienen; du aber und deine Söhne mit dir vor der Hütte des Zeugnisses.",
+      "zh": "你要带你弟兄利未人，就是你祖宗支派的人前来，使他们与你联合，服事你，只是你和你的儿子，要一同在法柜的帐幕前供职。",
+      "ja": "汝また汝の兄弟たるレビの支派の者すなはち汝の父祖の支派の者等をも率て汝に合せしめ汝に事しむべし但し汝と汝の子等は律法の幕屋の前に侍るべきなり"
+    },
+    {
+      "number": 3,
+      "ko": "레위인은 네 직무와 장막의 모든 직무를 지키려니와 성소의 기구와 제단에는 가까이 하지 못하리니 두렵건대 그들과 너희가 죽을까 하노라",
+      "en": "They are to be responsible to you and are to perform all the duties of the Tent, but they must not go near the furnishings of the sanctuary or the altar, or both they and you will die.",
+      "de": "Und sie sollen deines Dienstes und des Dienstes der ganzen Hütte warten. Doch zu dem Gerät des Heiligtums und zu dem Altar sollen sie nicht nahen, daß nicht beide, sie und ihr, sterbet;",
+      "zh": "他们要守所吩咐你的，并守全帐幕，只是不可挨近圣所的器具和坛，免得他们和你们都死亡。",
+      "ja": "彼らは汝の職守と聖所の職守とを守るべし只聖所の器具と壇とに近くべからず恐くは彼等も汝等も死るならん"
+    },
+    {
+      "number": 4,
+      "ko": "레위인은 너와 합동하여 장막의 모든 일과 회막의 직무를 다할 것이요 다른 사람은 너희에게 가까이 하지 못할 것이니라",
+      "en": "They are to join you and be responsible for the care of the Tent of Meeting--all the work at the Tent--and no one else may come near where you are.",
+      "de": "sondern sie sollen bei dir sein, daß sie des Dienstes warten an der Hütte des Stifts in allem Amt der Hütte; und kein Fremder soll sich zu euch tun.",
+      "zh": "他们要与你联合，也要看守会幕，办理帐幕一切的事，只是外人不可挨近你们。",
+      "ja": "彼等は汝に合して集合の幕屋の職守を守り幕屋の諸の役事をなすべきなり外人は汝らに近づく可らず"
+    },
+    {
+      "number": 5,
+      "ko": "이와 같이 너희는 성소의 직무와 제단의 직무를 다하라 그리하면 여호와의 진노가 다시는 이스라엘 자손에게 미치지 아니하리라",
+      "en": "\"You are to be responsible for the care of the sanctuary and the altar, so that wrath will not fall on the Israelites again.",
+      "de": "So wartet nun des Dienstes des Heiligtums und des Dienstes des Altars, daß hinfort nicht mehr ein Wüten komme über die Kinder Israel.",
+      "zh": "你们要看守圣所和坛，免得忿怒再临到以色列人。",
+      "ja": "斯なんぢらは聖所の職守と祭壇の職守を守るべし然せばヱホバの震怒かさねてイスラエルの子孫に及ぶこと有じ"
+    },
+    {
+      "number": 6,
+      "ko": "보라 내가 이스라엘 자손 중에서 너희의 형제 레위인을 택하여 내게 돌리고 너희에게 선물로 주어 회막의 일을 하게 하였나니",
+      "en": "I myself have selected your fellow Levites from among the Israelites as a gift to you, dedicated to the LORD to do the work at the Tent of Meeting.",
+      "de": "Denn siehe, ich habe die Leviten, eure Brüder, genommen aus den Kindern Israel, dem HERRN zum Geschenk, und euch gegeben, daß sie des Amts pflegen an der Hütte des Stifts.",
+      "zh": "我已将你们的弟兄利未人从以色列人中拣选出来归耶和华，是给你们为赏赐的，为要办理会幕的事。",
+      "ja": "視よ我なんぢらの兄弟たるレビ人をイスラエルの子孫の中より取りヱホバのために之を賜物として汝らに賜ふて集會の幕屋の役事を爲しむ"
+    },
+    {
+      "number": 7,
+      "ko": "너와 네 아들들은 제단과 휘장 안의 모든 일에 대하여 제사장의 직분을 지켜 섬기라 내가 제사장의 직분을 너희에게 선물로 주었은즉 거기 가까이 하는 외인은 죽임을 당할지니라",
+      "en": "But only you and your sons may serve as priests in connection with everything at the altar and inside the curtain. I am giving you the service of the priesthood as a gift. Anyone else who comes near the sanctuary must be put to death.\"",
+      "de": "Du aber und deine Söhne mit dir sollt eures Priestertums warten, daß ihr dienet in allerlei Geschäft des Altars und inwendig hinter dem Vorhang; denn euer Priestertum gebe ich euch zum Amt, zum Geschenk. Wenn ein Fremder sich herzutut, der soll sterben.",
+      "zh": "你和你的儿子要为一切属坛和幔子内的事一同守祭司的职任。你们要这样供职；我将祭司的职任给你们当作赏赐事奉我。凡挨近的外人必被治死。」",
+      "ja": "汝と汝の子等は祭司の職を守りて祭壇の上と障蔽の幕の内の一切の事を執おこなひ斯ともに勤むべし我祭司の職の勤務と賜物として汝らに賜ふ外人の近く者は殺されん"
+    },
+    {
+      "number": 8,
+      "ko": "여호와께서 또 아론에게 이르시되 보라 내가 내 거제물 곧 이스라엘 자손이 거룩하게 한 모든 헌물을 네가 주관하게 하고 네가 기름 부음을 받았음으로 말미암아 그것을 너와 네 아들들에게 영구한 몫의 음식으로 주노라",
+      "en": "Then the LORD said to Aaron, \"I myself have put you in charge of the offerings presented to me; all the holy offerings the Israelites give me I give to you and your sons as your portion and regular share.",
+      "de": "Und der HERR sagte zu Aaron: Siehe, ich habe dir gegeben meine Hebopfer von allem, was die Kinder Israel heiligen, als Gebühr dir und deinen Söhnen zum ewigen Recht.",
+      "zh": "耶和华晓谕亚伦说：「我已将归我的举祭，就是以色列人一切分别为圣的物，交给你经管；因你受过膏，把这些都赐给你和你的子孙，当作永得的分。",
+      "ja": "ヱホバ又アロンに言たまはく我イスラエルの子孫の諸の聖禮物の中我に擧祭とするところの者をもて汝に賜ひて得さす即ち我これを汝と汝の子等にあたへてその分となさしめ是を永く例となす"
+    },
+    {
+      "number": 9,
+      "ko": "지성물 중에 불사르지 아니한 것은 네 것이라 그들이 내게 드리는 모든 헌물의 모든 소제와 속죄제와 속건제물은 다 지극히 거룩한즉 너와 네 아들들에게 돌리리니",
+      "en": "You are to have the part of the most holy offerings that is kept from the fire. From all the gifts they bring me as most holy offerings, whether grain or sin or guilt offerings, that part belongs to you and your sons.",
+      "de": "Das sollst du haben von dem Hochheiligen: Was nicht angezündet wird von allen ihren Gaben an allen ihren Speisopfern und an allen ihren Sündopfern und an allen ihren Schuldopfern, die sie mir geben, das soll dir und deinen Söhnen ein Hochheiliges sein.",
+      "zh": "以色列人归给我至圣的供物，就是一切的素祭、赎罪祭、赎愆祭，其中所有存留不经火的，都为至圣之物，要归给你和你的子孙。",
+      "ja": "斯のごとく至聖禮物の中火にて燒ざる者は汝に歸すべし即ちその我に献る諸の禮物素祭罪祭愆祭等みな至聖くして汝と汝らの子等に歸すべし"
+    },
+    {
+      "number": 10,
+      "ko": "지극히 거룩하게 여김으로 먹으라 이는 네게 성물인즉 남자들이 다 먹을지니라",
+      "en": "Eat it as something most holy; every male shall eat it. You must regard it as holy.",
+      "de": "An einem heiligen Ort sollst du es essen. Was männlich ist, soll davon essen; denn es soll dir heilig sein.",
+      "zh": "你要拿这些当至圣物吃；凡男丁都可以吃。你当以此物为圣。",
+      "ja": "至聖所にて汝これを食ふべし男子等はみなこれを食ふことを得是は汝に歸すべき聖物たるなり"
+    },
+    {
+      "number": 11,
+      "ko": "네게 돌릴 것은 이것이니 곧 이스라엘 자손이 드리는 거제물과 모든 요제물이라 내가 그것을 너와 네 자녀에게 영구한 몫의 음식으로 주었은즉 네 집의 정결한 자마다 먹을 것이니라",
+      "en": "\"This also is yours: whatever is set aside from the gifts of all the wave offerings of the Israelites. I give this to you and your sons and daughters as your regular share. Everyone in your household who is ceremonially clean may eat it.",
+      "de": "Ich habe auch das Hebopfer ihrer Gabe an allen Webeopfern der Kinder Israel dir gegeben und deinen Söhnen und Töchtern samt dir zum ewigen Recht; wer rein ist in deinem Hause, soll davon essen.",
+      "zh": "以色列人所献的举祭并摇祭都是你的；我已赐给你和你的儿女，当作永得的分；凡在你家中的洁净人都可以吃。",
+      "ja": "汝に歸すべき物は是なり即ちイスラエルの子孫の献る擧祭と搖祭の物我これを汝と汝の男子と女子に與へ是を永く例となす汝の家の者の中潔き者はみな之を食ふことを得るなり"
+    },
+    {
+      "number": 12,
+      "ko": "그들이 여호와께 드리는 첫 소산 곧 제일 좋은 기름과 제일 좋은 포도주와 곡식을 네게 주었은즉",
+      "en": "\"I give you all the finest olive oil and all the finest new wine and grain they give the LORD as the firstfruits of their harvest.",
+      "de": "Alles beste Öl und alles Beste vom Most und Korn, nämlich ihre Erstlinge, die sie dem HERRN geben, habe ich dir gegeben.",
+      "zh": "凡油中、新酒中、五谷中至好的，就是以色列人所献给耶和华初熟之物，我都赐给你。",
+      "ja": "油の嘉者酒の嘉者穀物の嘉者など凡てヱホバに献るその初の物を我なんぢに與ふ"
+    },
+    {
+      "number": 13,
+      "ko": "그들이 여호와께 드리는 그 땅의 처음 익은 모든 열매는 네 것이니 네 집에서 정결한 자마다 먹을 것이라",
+      "en": "All the land's firstfruits that they bring to the LORD will be yours. Everyone in your household who is ceremonially clean may eat it.",
+      "de": "Die erste Frucht, die sie dem HERRN bringen von allem, was in ihrem Lande ist, soll dein sein; wer rein ist in deinem Hause, soll davon essen.",
+      "zh": "凡从他们地上所带来给耶和华初熟之物也都要归与你。你家中的洁净人都可以吃。",
+      "ja": "最初に成る國の產物の中ヱホバに携へたる者は皆なんぢに歸すべし汝の家の者の中潔き者はみな之を食ふことを得るなり"
+    },
+    {
+      "number": 14,
+      "ko": "이스라엘 중에서 특별히 드린 모든 것은 네 것이 되리라",
+      "en": "\"Everything in Israel that is devoted to the LORD is yours.",
+      "de": "Alles Verbannte in Israel soll dein sein.",
+      "zh": "以色列中一切永献的都必归与你。",
+      "ja": "イスラエルの人の献納る物は皆汝に歸すべし"
+    },
+    {
+      "number": 15,
+      "ko": "여호와께 드리는 모든 생물의 처음 나는 것은 사람이나 짐승이나 다 네 것이로되 처음 태어난 사람은 반드시 대속할 것이요 처음 태어난 부정한 짐승도 대속할 것이며",
+      "en": "The first offspring of every womb, both man and animal, that is offered to the LORD is yours. But you must redeem every firstborn son and every firstborn male of unclean animals.",
+      "de": "Alles, was die Mutter bricht unter allem Fleisch, das sie dem HERRN bringen, es sei ein Mensch oder Vieh, soll dein sein; doch daß du die erste Menschenfrucht lösen lassest und die erste Frucht eines unreinen Viehs auch lösen lassest.",
+      "zh": "他们所有奉给耶和华的，连人带牲畜，凡头生的，都要归给你；只是人头生的，总要赎出来；不洁净牲畜头生的，也要赎出来。",
+      "ja": "凡そ血肉ある者の首出子にしてヱホバに献らるる者は人にもあれ畜にもあれ皆なんぢに歸すべし但し人の首出子は必ず贖ふべくまた汚れたる畜獣の首出子も贖ふべきなり"
+    },
+    {
+      "number": 16,
+      "ko": "그 사람을 대속할 때에는 난 지 한 달 이후에 네가 정한 대로 성소의 세겔을 따라 은 다섯 세겔로 대속하라 한 세겔은 이십 게라이니라",
+      "en": "When they are a month old, you must redeem them at the redemption price set at five shekels of silver, according to the sanctuary shekel, which weighs twenty gerahs.",
+      "de": "Sie sollen's aber lösen, wenn's einen Monat alt ist; und sollst es zu lösen geben um Geld, um fünf Silberlinge nach dem Lot des Heiligtums, das hat zwanzig Gera.",
+      "zh": "其中在一月之外所当赎的，要照你所估定的价，按圣所的平，用银子五舍客勒赎出来（一舍客勒是二十季拉）。",
+      "ja": "之を贖ふにはその人の生れて一箇月に至れる後に汝その估價に依り聖所のシケルに循ひて銀五シケルに之を贖ふべし一シケルはすなはち二十ゲラなり"
+    },
+    {
+      "number": 17,
+      "ko": "오직 처음 태어난 소나 처음 태어난 양이나 처음 태어난 염소는 대속하지 말지니 그것들은 거룩한즉 그 피는 제단에 뿌리고 그 기름은 불살라 여호와께 향기로운 화제로 드릴 것이며",
+      "en": "\"But you must not redeem the firstborn of an ox, a sheep or a goat; they are holy. Sprinkle their blood on the altar and burn their fat as an offering made by fire, an aroma pleasing to the LORD.",
+      "de": "Aber die erste Frucht eines Rindes oder Schafes oder einer Ziege sollst du nicht zu lösen geben, denn sie sind heilig; ihr Blut sollst du sprengen auf den Altar, und ihr Fett sollst du anzünden zum Opfer des süßen Geruchs dem HERRN.",
+      "zh": "只是头生的牛，或是头生的绵羊和山羊，必不可赎，都是圣的，要把它的血洒在坛上，把它的脂油焚烧，当作馨香的火祭献给耶和华。",
+      "ja": "然ど牛の首出子羊の首出子山羊の首出子は贖ふべからず是等は聖しその血を壇の上に灑ぎまたその脂を焚て火祭となしてヱホバに馨しき香をたてまつるべし"
+    },
+    {
+      "number": 18,
+      "ko": "그 고기는 네게 돌릴지니 흔든 가슴과 오른쪽 넓적다리 같이 네게 돌릴 것이니라",
+      "en": "Their meat is to be yours, just as the breast of the wave offering and the right thigh are yours.",
+      "de": "Ihr Fleisch soll dein sein, wie auch die Webebrust und die rechte Schulter dein ist.",
+      "zh": "它的肉必归你，像被摇的胸、被举的右腿归你一样。",
+      "ja": "その肉は汝に歸すべし搖る胸と右の腿とおなじく是は汝に歸するなり"
+    },
+    {
+      "number": 19,
+      "ko": "이스라엘 자손이 여호와께 거제로 드리는 모든 성물은 내가 영구한 몫의 음식으로 너와 네 자녀에게 주노니 이는 여호와 앞에 너와 네 후손에게 영원한 소금 언약이니라",
+      "en": "Whatever is set aside from the holy offerings the Israelites present to the LORD I give to you and your sons and daughters as your regular share. It is an everlasting covenant of salt before the LORD for both you and your offspring.\"",
+      "de": "Alle Hebeopfer, die die Kinder Israel heiligen dem HERRN, habe ich dir gegeben und deinen Söhnen und deinen Töchtern samt dir zum ewigen Recht. Das soll ein unverweslicher Bund sein ewig vor dem HERRN, dir und deinem Samen samt dir.",
+      "zh": "凡以色列人所献给耶和华圣物中的举祭，我都赐给你和你的儿女，当作永得的分。这是给你和你的后裔、在耶和华面前作为永远的盐约。」",
+      "ja": "イスラエルの子孫がヱホバに献て擧祭とする所の聖物はみな我これを汝と汝の男子女子に與へこれを永く例となす是はヱホバの前において汝と汝の子孫に對する鹽の契約にして變らざる者なり"
+    },
+    {
+      "number": 20,
+      "ko": "여호와께서 또 아론에게 이르시되 너는 이스라엘 자손의 땅에 기업도 없겠고 그들 중에 아무 분깃도 없을 것이나 내가 이스라엘 자손 중에 네 분깃이요 네 기업이니라",
+      "en": "The LORD said to Aaron, \"You will have no inheritance in their land, nor will you have any share among them; I am your share and your inheritance among the Israelites.",
+      "de": "Und der HERR sprach zu Aaron: Du sollst in ihrem Lande nichts besitzen, auch kein Teil unter ihnen haben; denn ich bin dein Teil und dein Erbgut unter den Kindern Israel.",
+      "zh": "耶和华对亚伦说：「你在以色列人的境内不可有产业，在他们中间也不可有分。我就是你的分，是你的产业。」",
+      "ja": "ヱホバまたアロンに告たまはく汝はイスラエルの子孫の地の中に產業を有べからずまた彼等の中に何の分をも有べからず彼らの中において我は汝の分汝の產業たるなり"
+    },
+    {
+      "number": 21,
+      "ko": "내가 이스라엘의 십일조를 레위 자손에게 기업으로 다 주어서 그들이 하는 일 곧 회막에서 하는 일을 갚나니",
+      "en": "\"I give to the Levites all the tithes in Israel as their inheritance in return for the work they do while serving at the Tent of Meeting.",
+      "de": "Den Kindern Levi aber habe ich alle Zehnten gegeben in Israel zum Erbgut für ihr Amt, das sie mir tun an der Hütte des Stifts.",
+      "zh": "「凡以色列中出产的十分之一，我已赐给利未的子孙为业；因他们所办的是会幕的事，所以赐给他们为酬他们的劳。",
+      "ja": "またレビの子孫たる者には我イスラエルの中において物の十分の一を與へて之が產業となし其なすところの役事すなはち集會の幕屋の役事に報ゆ"
+    },
+    {
+      "number": 22,
+      "ko": "이 후로는 이스라엘 자손이 회막에 가까이 하지 말 것이라 죄값으로 죽을까 하노라",
+      "en": "From now on the Israelites must not go near the Tent of Meeting, or they will bear the consequences of their sin and will die.",
+      "de": "Daß hinfort die Kinder Israel nicht zur Hütte des Stifts sich tun, Sünde auf sich zu laden, und sterben;",
+      "zh": "从今以后，以色列人不可挨近会幕，免得他们担罪而死。",
+      "ja": "イスラエルの子孫はかさねて集會の幕屋に近づくべからず恐くは罪を負て死ん"
+    },
+    {
+      "number": 23,
+      "ko": "그러나 레위인은 회막에서 봉사하며 자기들의 죄를 담당할 것이요 이스라엘 자손 중에는 기업이 없을 것이니 이는 너희 대대에 영원한 율례라",
+      "en": "It is the Levites who are to do the work at the Tent of Meeting and bear the responsibility for offenses against it. This is a lasting ordinance for the generations to come. They will receive no inheritance among the Israelites.",
+      "de": "sondern die Leviten sollen des Amts pflegen an der Hütte des Stifts, und sie sollen jener Missetat tragen zu ewigem Recht bei euren Nachkommen. Und sie sollen unter den Kindern Israel kein Erbgut besitzen;",
+      "zh": "惟独利未人要办会幕的事，担当罪孽；这要作你们世世代代永远的定例。他们在以色列人中不可有产业；",
+      "ja": "第レビ人集會の幕屋の役事をなすべしまた彼らはその罪な自己の身に負べし彼等はイスラエルの子孫の中に產業の地を有ざる事をもてその例となして汝らの世代の子孫の中に永く之を守るべきなり"
+    },
+    {
+      "number": 24,
+      "ko": "이스라엘 자손이 여호와께 거제로 드리는 십일조를 레위인에게 기업으로 주었으므로 내가 그들에 대하여 말하기를 이스라엘 자손 중에 기업이 없을 것이라 하였노라",
+      "en": "Instead, I give to the Levites as their inheritance the tithes that the Israelites present as an offering to the LORD. That is why I said concerning them: 'They will have no inheritance among the Israelites.'\"",
+      "de": "Denn den Zehnten der Kinder Israel, den sie dem HERRN heben, habe ich den Leviten zum Erbgut gegeben. Darum habe ich zu ihnen gesagt, daß sie unter den Kindern Israel kein Erbgut besitzen sollen.",
+      "zh": "因为以色列人中出产的十分之一，就是献给耶和华为举祭的，我已赐给利未人为业。所以我对他们说：『在以色列人中不可有产业。』」",
+      "ja": "イスラエルの子孫が十に一を取り擧祭としてヱホバに献るところの物を我レビ人に與へてその產業となさしむるが故に我かれらにつきて言り彼等はイスラエルの子孫の中に產業の地を得べからずと"
+    },
+    {
+      "number": 25,
+      "ko": "여호와께서 모세에게 말씀하여 이르시되",
+      "en": "The LORD said to Moses,",
+      "de": "Und der HERR redete mit Mose und sprach:",
+      "zh": "耶和华吩咐摩西说：",
+      "ja": "ヱホバ、モーセに告て言たまはく"
+    },
+    {
+      "number": 26,
+      "ko": "너는 레위인에게 말하여 그에게 이르라 내가 이스라엘 자손에게 받아 너희에게 기업으로 준 십일조를 너희가 그들에게서 받을 때에 그 십일조의 십일조를 거제로 여호와께 드릴 것이라",
+      "en": "\"Speak to the Levites and say to them: 'When you receive from the Israelites the tithe I give you as your inheritance, you must present a tenth of that tithe as the LORD'S offering.",
+      "de": "Sage den Leviten und sprich zu ihnen: Wenn ihr den Zehnten nehmt von den Kindern Israel, den ich euch von ihnen gegeben habe zu eurem Erbgut, so sollt ihr davon ein Hebeopfer dem HERRN tun, je den Zehnten von dem Zehnten;",
+      "zh": "「你晓谕利未人说：你们从以色列人中所取的十分之一，就是我给你们为业的，要再从那十分之一中取十分之一作为举祭献给耶和华，",
+      "ja": "汝かくレビ人に告て之に言べし我がイスラエルの子孫より取て汝等に與へて產業となさしむるその什一の物を汝ら之より受る時はその什一の物の十分の一を献てヱホバの擧祭となすべし"
+    },
+    {
+      "number": 27,
+      "ko": "내가 너희의 거제물을 타작 마당에서 드리는 곡물과 포도즙 틀에서 드리는 즙 같이 여기리니",
+      "en": "Your offering will be reckoned to you as grain from the threshing floor or juice from the winepress.",
+      "de": "und sollt solch euer Hebeopfer achten, als gäbet ihr Korn aus der Scheune und Fülle aus der Kelter.",
+      "zh": "这举祭要算为你们场上的谷，又如满酒榨的酒。",
+      "ja": "汝等の擧祭の物品は禾場よりたてまつる穀物の如く酒醡の内よりたてまつる酒のごとくに見做れん"
+    },
+    {
+      "number": 28,
+      "ko": "너희는 이스라엘 자손에게서 받는 모든 것의 십일조 중에서 여호와께 거제로 드리고 여호와께 드린 그 거제물은 제사장 아론에게로 돌리되",
+      "en": "In this way you also will present an offering to the LORD from all the tithes you receive from the Israelites. From these tithes you must give the LORD'S portion to Aaron the priest.",
+      "de": "Also sollt auch ihr das Hebeopfer dem HERRN geben von allen euren Zehnten, die ihr nehmt von den Kindern Israel, daß ihr solches Hebopfer des HERRN dem Priester Aaron gebet.",
+      "zh": "这样，你们从以色列人中所得的十分之一也要作举祭献给耶和华，从这十分之一中，将所献给耶和华的举祭归给祭司亚伦。",
+      "ja": "此のごとく汝等もまたイスラエルの子孫より受る一切の什一の物の中よりヱホバに擧祭を献げそのヱホバの擧祭を祭司アロンに與ふべし"
+    },
+    {
+      "number": 29,
+      "ko": "너희가 받은 모든 헌물 중에서 너희는 그 아름다운 것 곧 거룩하게 한 부분을 가져다가 여호와께 거제로 드릴지니라",
+      "en": "You must present as the LORD'S portion the best and holiest part of everything given to you.'",
+      "de": "Von allem, was euch gegeben wird, sollt ihr dem HERRN allerlei Hebopfer geben, von allem Besten das, was davon geheiligt wird.",
+      "zh": "奉给你们的一切礼物，要从其中将至好的，就是分别为圣的，献给耶和华为举祭。",
+      "ja": "汝らの受る一切の禮物の中より汝らはその嘉ところ即ちその聖き分を取てヱホバの擧祭を献べし"
+    },
+    {
+      "number": 30,
+      "ko": "이러므로 너는 그들에게 이르라 너희가 그 중에서 아름다운 것을 가져다가 드리고 남은 것은 너희 레위인에게는 타작 마당의 소출과 포도즙 틀의 소출 같이 되리니",
+      "en": "\"Say to the Levites: 'When you present the best part, it will be reckoned to you as the product of the threshing floor or the winepress.",
+      "de": "Und sprich zu ihnen: Wenn ihr also das Beste davon hebt, so soll's den Leviten gerechnet werden wie ein Einkommen der Scheune und wie ein Einkommen der Kelter.",
+      "zh": "所以你要对利未人说：你们从其中将至好的举起，这就算为你们场上的粮，又如酒榨的酒。",
+      "ja": "汝かく彼等に言べし汝らその中より嘉ところを取て献るに於てはその殘餘の物は汝等レビ人におけること禾場より取る物のごとく酒醡より取る物のごとくならん"
+    },
+    {
+      "number": 31,
+      "ko": "너희와 너희의 권속이 어디서든지 이것을 먹을 수 있음은 이는 회막에서 일한 너희의 보수임이니라",
+      "en": "You and your households may eat the rest of it anywhere, for it is your wages for your work at the Tent of Meeting.",
+      "de": "Ihr möget's essen an allen Stätten, ihr und eure Kinder; denn es ist euer Lohn für euer Amt in der Hütte des Stifts.",
+      "zh": "你们和你们家属随处可以吃；这原是你们的赏赐，是酬你们在会幕里办事的劳。",
+      "ja": "汝等と汝らの眷屬何處にても之を食ふことを得べし是は汝らが集會の幕屋に於て爲す役事の報酬たればなり"
+    },
+    {
+      "number": 32,
+      "ko": "너희가 그 중 아름다운 것을 받들어 드린즉 이로 말미암아 죄를 담당하지 아니할 것이라 너희는 이스라엘 자손의 성물을 더럽히지 말라 그리하여야 죽지 아니하리라",
+      "en": "By presenting the best part of it you will not be guilty in this matter; then you will not defile the holy offerings of the Israelites, and you will not die.'\"",
+      "de": "So werdet ihr nicht Sünde auf euch laden an demselben, wenn ihr das Beste davon hebt, und nicht entweihen das Geheiligte der Kinder Israel und nicht sterben.",
+      "zh": "你们从其中将至好的举起，就不至因这物担罪。你们不可亵渎以色列人的圣物，免得死亡。」",
+      "ja": "汝らその嘉ところを献るに於ては之がために罪を負こと有じ汝らはイスラエルの子孫の聖別て献る物を汚すべからず恐くは汝ら死ん"
+    }
+  ]
+}

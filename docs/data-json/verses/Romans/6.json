@@ -1,0 +1,190 @@
+{
+  "book": "Romans",
+  "chapter": 6,
+  "verses": [
+    {
+      "number": 1,
+      "ko": "그런즉 우리가 무슨 말을 하리요 은혜를 더하게 하려고 죄에 거하겠느냐",
+      "en": "What shall we say, then? Shall we go on sinning so that grace may increase?",
+      "de": "Was wollen wir hierzu sagen? Sollen wir denn in der Sünde beharren, auf daß die Gnade desto mächtiger werde?",
+      "zh": "这样，怎么说呢？我们可以仍在罪中、叫恩典显多吗？",
+      "ja": "それでは、どういうことになりますか。恵みが増し加わるために、私たちは罪の中にとどまるべきでしょうか。"
+    },
+    {
+      "number": 2,
+      "ko": "그럴 수 없느니라 죄에 대하여 죽은 우리가 어찌 그 가운데 더 살리요",
+      "en": "By no means! We died to sin; how can we live in it any longer?",
+      "de": "Das sei ferne! Wie sollten wir in der Sünde wollen leben, der wir abgestorben sind?",
+      "zh": "断乎不可！我们在罪上死了的人岂可仍在罪中活着呢？",
+      "ja": "絶対にそんなことはありません。罪に対して死んだ私たちが、どうして、なおもその中に生きていられるでしょう。"
+    },
+    {
+      "number": 3,
+      "ko": "무릇 그리스도 예수와 합하여 세례를 받은 우리는 그의 죽으심과 합하여 세례를 받은 줄을 알지 못하느냐",
+      "en": "Or don't you know that all of us who were baptized into Christ Jesus were baptized into his death?",
+      "de": "Wisset ihr nicht, daß alle, die wir in Jesus Christus getauft sind, die sind in seinen Tod getauft?",
+      "zh": "岂不知我们这受洗归入基督耶稣的人是受洗归入他的死吗？",
+      "ja": "それとも、あなたがたは知らないのですか。キリスト・イエスにつくバプテスマを受けた私たちはみな、その死にあずかるバプテスマを受けたのではありませんか。"
+    },
+    {
+      "number": 4,
+      "ko": "그러므로 우리가 그의 죽으심과 합하여 세례를 받음으로 그와 함께 장사되었나니 이는 아버지의 영광으로 말미암아 그리스도를 죽은 자 가운데서 살리심과 같이 우리로 또한 새 생명 가운데서 행하게 하려 함이라",
+      "en": "We were therefore buried with him through baptism into death in order that, just as Christ was raised from the dead through the glory of the Father, we too may live a new life.",
+      "de": "So sind wir ja mit ihm begraben durch die Taufe in den Tod, auf daß, gleichwie Christus ist auferweckt von den Toten durch die Herrlichkeit des Vaters, also sollen auch wir in einem neuen Leben wandeln.",
+      "zh": "所以，我们借着洗礼归入死，和他一同埋葬，原是叫我们一举一动有新生的样式，像基督借着父的荣耀从死里复活一样。",
+      "ja": "私たちは、キリストの死にあずかるバプテスマによって、キリストとともに葬られたのです。それは、キリストが御父の栄光によって死者の中からよみがえられたように、私たちも、いのちにあって新しい歩みをするためです。"
+    },
+    {
+      "number": 5,
+      "ko": "만일 우리가 그의 죽으심과 같은 모양으로 연합한 자가 되었으면 또한 그의 부활과 같은 모양으로 연합한 자도 되리라",
+      "en": "If we have been united with him like this in his death, we will certainly also be united with him in his resurrection.",
+      "de": "So wir aber samt ihm gepflanzt werden zu gleichem Tode, so werden wir auch seiner Auferstehung gleich sein,",
+      "zh": "我们若在他死的形状上与他联合，也要在他复活的形状上与他联合；",
+      "ja": "もし私たちが、キリストにつぎ合わされて、キリストの死と同じようになっているのなら、必ずキリストの復活とも同じようになるからです。"
+    },
+    {
+      "number": 6,
+      "ko": "우리가 알거니와 우리의 옛 사람이 예수와 함께 십자가에 못 박힌 것은 죄의 몸이 죽어 다시는 우리가 죄에게 종 노릇 하지 아니하려 함이니",
+      "en": "For we know that our old self was crucified with him so that the body of sin might be done away with, that we should no longer be slaves to sin--",
+      "de": "dieweil wir wissen, daß unser alter Mensch samt ihm gekreuzigt ist, auf daß der sündliche Leib aufhöre, daß wir hinfort der Sünde nicht mehr dienen.",
+      "zh": "因为知道我们的旧人和他同钉十字架，使罪身灭绝，叫我们不再作罪的奴仆；",
+      "ja": "私たちの古い人がキリストとともに十字架につけられたのは、罪のからだが滅びて、私たちがもはやこれからは罪の奴隷でなくなるためであることを、私たちは知っています。"
+    },
+    {
+      "number": 7,
+      "ko": "이는 죽은 자가 죄에서 벗어나 의롭다 하심을 얻었음이라",
+      "en": "because anyone who has died has been freed from sin.",
+      "de": "Denn wer gestorben ist, der ist gerechtfertigt von der Sünde.",
+      "zh": "因为已死的人是脱离了罪。",
+      "ja": "死んでしまった者は、罪から解放されているのです。"
+    },
+    {
+      "number": 8,
+      "ko": "만일 우리가 그리스도와 함께 죽었으면 또한 그와 함께 살 줄을 믿노니",
+      "en": "Now if we died with Christ, we believe that we will also live with him.",
+      "de": "Sind wir aber mit Christo gestorben, so glauben wir, daß wir auch mit ihm leben werden,",
+      "zh": "我们若是与基督同死，就信必与他同活。",
+      "ja": "もし私たちがキリストとともに死んだのであれば、キリストとともに生きることにもなる、と信じます。"
+    },
+    {
+      "number": 9,
+      "ko": "이는 그리스도께서 죽은 자 가운데서 살아나셨으매 다시 죽지 아니하시고 사망이 다시 그를 주장하지 못할 줄을 앎이로라",
+      "en": "For we know that since Christ was raised from the dead, he cannot die again; death no longer has mastery over him.",
+      "de": "und wissen, daß Christus, von den Toten auferweckt, hinfort nicht stirbt; der Tod wird hinfort nicht mehr über ihn herrschen.",
+      "zh": "因为知道基督既从死里复活，就不再死，死也不再作他的主了。",
+      "ja": "キリストは死者の中からよみがえって、もはや死ぬことはなく、死はもはやキリストを支配しないことを、私たちは知っています。"
+    },
+    {
+      "number": 10,
+      "ko": "그가 죽으심은 죄에 대하여 단번에 죽으심이요 그가 살아 계심은 하나님께 대하여 살아 계심이니",
+      "en": "The death he died, he died to sin once for all; but the life he lives, he lives to God.",
+      "de": "Denn was er gestorben ist, das ist er der Sünde gestorben zu einem Mal; was er aber lebt, das lebt er Gott.",
+      "zh": "他死是向罪死了，只有一次；他活是向　神活着。",
+      "ja": "なぜなら、キリストが死なれたのは、ただ一度罪に対して死なれたのであり、キリストが生きておられるのは、神に対して生きておられるのだからです。"
+    },
+    {
+      "number": 11,
+      "ko": "이와 같이 너희도 너희 자신을 죄에 대하여는 죽은 자요 그리스도 예수 안에서 하나님께 대하여는 살아 있는 자로 여길지어다",
+      "en": "In the same way, count yourselves dead to sin but alive to God in Christ Jesus.",
+      "de": "Also auch ihr, haltet euch dafür, daß ihr der Sünde gestorben seid und lebt Gott in Christo Jesus, unserm HERRN.",
+      "zh": "这样，你们向罪也当看自己是死的；向　神在基督耶稣里，却当看自己是活的。",
+      "ja": "このように、あなたがたも、自分は罪に対しては死んだ者であり、神に対してはキリスト・イエスにあって生きた者だと、思いなさい。"
+    },
+    {
+      "number": 12,
+      "ko": "그러므로 너희는 죄가 너희 죽을 몸을 지배하지 못하게 하여 몸의 사욕에 순종하지 말고",
+      "en": "Therefore do not let sin reign in your mortal body so that you obey its evil desires.",
+      "de": "So lasset nun die Sünde nicht herrschen in eurem sterblichen Leibe, ihr Gehorsam zu leisten in seinen Lüsten.",
+      "zh": "所以，不要容罪在你们必死的身上作王，使你们顺从身子的私欲。",
+      "ja": "ですから、あなたがたの死ぬべきからだを罪の支配にゆだねて、その情欲に従ってはいけません。"
+    },
+    {
+      "number": 13,
+      "ko": "또한 너희 지체를 불의의 무기로 죄에게 내주지 말고 오직 너희 자신을 죽은 자 가운데서 다시 살아난 자 같이 하나님께 드리며 너희 지체를 의의 무기로 하나님께 드리라",
+      "en": "Do not offer the parts of your body to sin, as instruments of wickedness, but rather offer yourselves to God, as those who have been brought from death to life; and offer the parts of your body to him as instruments of righteousness.",
+      "de": "Auch begebet nicht der Sünde eure Glieder zu Waffen der Ungerechtigkeit, sondern begebet euch selbst Gott, als die da aus den Toten lebendig sind, und eure Glieder Gott zu Waffen der Gerechtigkeit.",
+      "zh": "也不要将你们的肢体献给罪作不义的器具；倒要像从死里复活的人，将自己献给　神，并将肢体作义的器具献给　神。",
+      "ja": "また、あなたがたの手足を不義の器として罪にささげてはいけません。むしろ、死者の中から生かされた者として、あなたがた自身とその手足を義の器として神にささげなさい。"
+    },
+    {
+      "number": 14,
+      "ko": "죄가 너희를 주장하지 못하리니 이는 너희가 법 아래에 있지 아니하고 은혜 아래에 있음이라",
+      "en": "For sin shall not be your master, because you are not under law, but under grace.",
+      "de": "Denn die Sünde wird nicht herrschen können über euch, sintemal ihr nicht unter dem Gesetz seid, sondern unter der Gnade.",
+      "zh": "罪必不能作你们的主；因你们不在律法之下，乃在恩典之下。",
+      "ja": "というのは、罪はあなたがたを支配することがないからです。なぜなら、あなたがたは律法の下にはなく、恵みの下にあるからです。"
+    },
+    {
+      "number": 15,
+      "ko": "그런즉 어찌하리요 우리가 법 아래에 있지 아니하고 은혜 아래에 있으니 죄를 지으리요 그럴 수 없느니라",
+      "en": "What then? Shall we sin because we are not under law but under grace? By no means!",
+      "de": "Wie nun? Sollen wir sündigen, dieweil wir nicht unter dem Gesetz, sondern unter der Gnade sind? Das sei ferne!",
+      "zh": "这却怎么样呢？我们在恩典之下，不在律法之下，就可以犯罪吗？断乎不可！",
+      "ja": "それではどうなのでしょう。私たちは、律法の下にではなく、恵みの下にあるのだから罪を犯そう、ということになるのでしょうか。絶対にそんなことはありません。"
+    },
+    {
+      "number": 16,
+      "ko": "너희 자신을 종으로 내주어 누구에게 순종하든지 그 순종함을 받는 자의 종이 되는 줄을 너희가 알지 못하느냐 혹은 죄의 종으로 사망에 이르고 혹은 순종의 종으로 의에 이르느니라",
+      "en": "Don't you know that when you offer yourselves to someone to obey him as slaves, you are slaves to the one whom you obey--whether you are slaves to sin, which leads to death, or to obedience, which leads to righteousness?",
+      "de": "Wisset ihr nicht: welchem ihr euch begebet zu Knechten in Gehorsam, des Knechte seid ihr, dem ihr gehorsam seid, es sei der Sünde zum Tode oder dem Gehorsam zur Gerechtigkeit?",
+      "zh": "岂不晓得你们献上自己作奴仆，顺从谁，就作谁的奴仆吗？或作罪的奴仆，以至于死；或作顺命的奴仆，以至成义。",
+      "ja": "あなたがたはこのことを知らないのですか。あなたがたが自分の身をささげて奴隷として服従すれば、その服従する相手の奴隷であって、あるいは罪の奴隷となって死に至り、あるいは従順の奴隷となって義に至るのです。"
+    },
+    {
+      "number": 17,
+      "ko": "하나님께 감사하리로다 너희가 본래 죄의 종이더니 너희에게 전하여 준 바 교훈의 본을 마음으로 순종하여",
+      "en": "But thanks be to God that, though you used to be slaves to sin, you wholeheartedly obeyed the form of teaching to which you were entrusted.",
+      "de": "Gott sei aber gedankt, daß ihr Knechte der Sünde gewesen seid, aber nun gehorsam geworden von Herzen dem Vorbilde der Lehre, welchem ihr ergeben seid.",
+      "zh": "感谢　神！因为你们从前虽然作罪的奴仆，现今却从心里顺服了所传给你们道理的模范。",
+      "ja": "神に感謝すべきことには、あなたがたは、もとは罪の奴隷でしたが、伝えられた教えの規準に心から服従し、"
+    },
+    {
+      "number": 18,
+      "ko": "죄로부터 해방되어 의에게 종이 되었느니라",
+      "en": "You have been set free from sin and have become slaves to righteousness.",
+      "de": "Denn nun ihr frei geworden seid von der Sünde, seid ihr Knechte der Gerechtigkeit geworden.",
+      "zh": "你们既从罪里得了释放，就作了义的奴仆。",
+      "ja": "罪から解放されて、義の奴隷となったのです。"
+    },
+    {
+      "number": 19,
+      "ko": "너희 육신이 연약하므로 내가 사람의 예대로 말하노니 전에 너희가 너희 지체를 부정과 불법에 내주어 불법에 이른 것 같이 이제는 너희 지체를 의에게 종으로 내주어 거룩함에 이르라",
+      "en": "I put this in human terms because you are weak in your natural selves. Just as you used to offer the parts of your body in slavery to impurity and to ever-increasing wickedness, so now offer them in slavery to righteousness leading to holiness.",
+      "de": "Ich muß menschlich davon reden um der Schwachheit willen eures Fleisches. Gleichwie ihr eure Glieder begeben habet zum Dienst der Unreinigkeit und von einer Ungerechtigkeit zur andern, also begebet auch nun eure Glieder zum Dienst der Gerechtigkeit, daß sie heilig werden.",
+      "zh": "我因你们肉体的软弱，就照人的常话对你们说。你们从前怎样将肢体献给不洁不法作奴仆，以至于不法；现今也要照样将肢体献给义作奴仆，以至于成圣。",
+      "ja": "あなたがたにある肉の弱さのために、私は人間的な言い方をしています。あなたがたは、以前は自分の手足を汚れと不法の奴隷としてささげて、不法に進みましたが、今は、その手足を義の奴隷としてささげて、聖潔に進みなさい。"
+    },
+    {
+      "number": 20,
+      "ko": "너희가 죄의 종이 되었을 때에는 의에 대하여 자유로웠느니라",
+      "en": "When you were slaves to sin, you were free from the control of righteousness.",
+      "de": "Denn da ihr der Sünde Knechte wart, da wart ihr frei von der Gerechtigkeit.",
+      "zh": "因为你们作罪之奴仆的时候，就不被义约束了。",
+      "ja": "罪の奴隷であった時は、あなたがたは義については、自由にふるまっていました。"
+    },
+    {
+      "number": 21,
+      "ko": "너희가 그 때에 무슨 열매를 얻었느냐 이제는 너희가 그 일을 부끄러워하나니 이는 그 마지막이 사망임이라",
+      "en": "What benefit did you reap at that time from the things you are now ashamed of? Those things result in death!",
+      "de": "Was hattet ihr nun zu der Zeit für Frucht? Welcher ihr euch jetzt schämet; denn ihr Ende ist der Tod.",
+      "zh": "你们现今所看为羞耻的事，当日有什么果子呢？那些事的结局就是死。",
+      "ja": "その当時、今ではあなたがたが恥じているそのようなものから、何か良い実を得たでしょうか。それらのものの行き着く所は死です。"
+    },
+    {
+      "number": 22,
+      "ko": "그러나 이제는 너희가 죄로부터 해방되고 하나님께 종이 되어 거룩함에 이르는 열매를 맺었으니 그 마지막은 영생이라",
+      "en": "But now that you have been set free from sin and have become slaves to God, the benefit you reap leads to holiness, and the result is eternal life.",
+      "de": "Nun ihr aber seid von der Sünde frei und Gottes Knechte geworden, habt ihr eure Frucht, daß ihr heilig werdet, das Ende aber ist das ewige Leben.",
+      "zh": "但现今，你们既从罪里得了释放，作了　神的奴仆，就有成圣的果子，那结局就是永生。",
+      "ja": "しかし今は、罪から解放されて神の奴隷となり、聖潔に至る実を得たのです。その行き着く所は永遠のいのちです。"
+    },
+    {
+      "number": 23,
+      "ko": "죄의 삯은 사망이요 하나님의 은사는 그리스도 예수 우리 주 안에 있는 영생이니라",
+      "en": "For the wages of sin is death, but the gift of God is eternal life in Christ Jesus our Lord.",
+      "de": "Denn der Tod ist der Sünde Sold; aber die Gabe Gottes ist das ewige Leben in Christo Jesu, unserm HERRN.",
+      "zh": "因为罪的工价乃是死；惟有　神的恩赐，在我们的主基督耶稣里，乃是永生。",
+      "ja": "罪から来る報酬は死です。しかし、神の下さる賜物は、私たちの主キリスト・イエスにある永遠のいのちです。"
+    }
+  ]
+}

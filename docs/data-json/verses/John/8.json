@@ -1,0 +1,478 @@
+{
+  "book": "John",
+  "chapter": 8,
+  "verses": [
+    {
+      "number": 1,
+      "ko": "예수는 감람 산으로 가시니라",
+      "en": "But Jesus went to the Mount of Olives.",
+      "de": "Jesus aber ging an den Ölberg.",
+      "zh": "于是各人都回家去了；耶稣却往橄榄山去，",
+      "ja": "イエスはオリーブ山に行かれた。"
+    },
+    {
+      "number": 2,
+      "ko": "아침에 다시 성전으로 들어오시니 백성이 다 나아오는지라 앉으사 그들을 가르치시더니",
+      "en": "At dawn he appeared again in the temple courts, where all the people gathered around him, and he sat down to teach them.",
+      "de": "Und frühmorgens kam er wieder in den Tempel, und alles Volk kam zu ihm; und er setzte sich und lehrte sie.",
+      "zh": "清早又回到殿里。众百姓都到他那里去，他就坐下，教训他们。",
+      "ja": "そして、朝早く、イエスはもう一度宮にはいられた。民衆はみな、みもとに寄って来た。イエスはすわって、彼らに教え始められた。"
+    },
+    {
+      "number": 3,
+      "ko": "서기관들과 바리새인들이 음행중에 잡힌 여자를 끌고 와서 가운데 세우고",
+      "en": "The teachers of the law and the Pharisees brought in a woman caught in adultery. They made her stand before the group",
+      "de": "Aber die Schriftgelehrten und Pharisäer brachten ein Weib zu ihm, im Ehebruch ergriffen, und stellten sie in die Mitte dar",
+      "zh": "文士和法利赛人带着一个行淫时被拿的妇人来，叫她站在当中，",
+      "ja": "すると、律法学者とパリサイ人が、姦淫の場で捕えられたひとりの女を連れて来て、真中に置いてから、"
+    },
+    {
+      "number": 4,
+      "ko": "예수께 말하되 선생이여 이 여자가 간음하다가 현장에서 잡혔나이다",
+      "en": "and said to Jesus, \"Teacher, this woman was caught in the act of adultery.",
+      "de": "und sprachen zu ihm: Meister, dies Weib ist ergriffen auf frischer Tat im Ehebruch.",
+      "zh": "就对耶稣说：「夫子，这妇人是正行淫之时被拿的。",
+      "ja": "イエスに言った。「先生。この女は姦淫の現場でつかまえられたのです。"
+    },
+    {
+      "number": 5,
+      "ko": "모세는 율법에 이러한 여자를 돌로 치라 명하였거니와 선생은 어떻게 말하겠나이까",
+      "en": "In the Law Moses commanded us to stone such women. Now what do you say?\"",
+      "de": "Mose aber hat uns im Gesetz geboten, solche zu steinigen; was sagst du?",
+      "zh": "摩西在律法上吩咐我们把这样的妇人用石头打死。你说该把她怎么样呢？」",
+      "ja": "モーセは律法の中で、こういう女を石打ちにするように命じています。ところで、あなたは何と言われますか。」"
+    },
+    {
+      "number": 6,
+      "ko": "그들이 이렇게 말함은 고발할 조건을 얻고자 하여 예수를 시험함이러라 예수께서 몸을 굽히사 손가락으로 땅에 쓰시니",
+      "en": "They were using this question as a trap, in order to have a basis for accusing him. But Jesus bent down and started to write on the ground with his finger.",
+      "de": "Das sprachen sie aber, ihn zu versuchen, auf daß sie eine Sache wider ihn hätten. Aber Jesus bückte sich nieder und schrieb mit dem Finger auf die Erde.",
+      "zh": "他们说这话，乃试探耶稣，要得着告他的把柄。耶稣却弯着腰，用指头在地上画字。",
+      "ja": "彼らはイエスをためしてこう言ったのである。それは、イエスを告発する理由を得るためであった。しかし、イエスは身をかがめて、指で地面に書いておられた。"
+    },
+    {
+      "number": 7,
+      "ko": "그들이 묻기를 마지 아니하는지라 이에 일어나 이르시되 너희 중에 죄 없는 자가 먼저 돌로 치라 하시고",
+      "en": "When they kept on questioning him, he straightened up and said to them, \"If any one of you is without sin, let him be the first to throw a stone at her.\"",
+      "de": "Als sie nun anhielten, ihn zu fragen, richtete er sich auf und sprach zu ihnen: Wer unter euch ohne Sünde ist, der werfe den ersten Stein auf sie.",
+      "zh": "他们还是不住地问他，耶稣就直起腰来，对他们说：「你们中间谁是没有罪的，谁就可以先拿石头打她。」",
+      "ja": "けれども、彼らが問い続けてやめなかったので、イエスは身を起こして言われた。「あなたがたのうちで罪のない者が、最初に彼女に石を投げなさい。」"
+    },
+    {
+      "number": 8,
+      "ko": "다시 몸을 굽혀 손가락으로 땅에 쓰시니",
+      "en": "Again he stooped down and wrote on the ground.",
+      "de": "Und bückte sich wieder nieder und schrieb auf die Erde.",
+      "zh": "于是又弯着腰，用指头在地上画字。",
+      "ja": "そしてイエスは、もう一度身をかがめて、地面に書かれた。"
+    },
+    {
+      "number": 9,
+      "ko": "그들이 이 말씀을 듣고 양심에 가책을 느껴 어른으로 시작하여 젊은이까지 하나씩 하나씩 나가고 오직 예수와 그 가운데 섰는 여자만 남았더라",
+      "en": "At this, those who heard began to go away one at a time, the older ones first, until only Jesus was left, with the woman still standing there.",
+      "de": "Da sie aber das hörten, gingen sie hinaus (von ihrem Gewissen überführt), einer nach dem andern, von den Ältesten bis zu den Geringsten; und Jesus ward gelassen allein und das Weib in der Mitte stehend.",
+      "zh": "他们听见这话，就从老到少，一个一个地都出去了，只剩下耶稣一人，还有那妇人仍然站在当中。",
+      "ja": "彼らはそれを聞くと、年長者たちから始めて、ひとりひとり出て行き、イエスがひとり残された。女はそのままそこにいた。"
+    },
+    {
+      "number": 10,
+      "ko": "예수께서 일어나사 여자 외에 아무도 없는 것을 보시고 이르시되 여자여 너를 고발하던 그들이 어디 있느냐 너를 정죄한 자가 없느냐",
+      "en": "Jesus straightened up and asked her, \"Woman, where are they? Has no one condemned you?\"",
+      "de": "Jesus aber richtete sich auf; und da er niemand sah denn das Weib, sprach er zu ihr: Weib, wo sind sie, deine Verkläger? Hat dich niemand verdammt?",
+      "zh": "耶稣就直起腰来，对她说：「妇人，那些人在哪里呢？没有人定你的罪吗？」",
+      "ja": "イエスは身を起こして、その女に言われた。「婦人よ。あの人たちは今どこにいますか。あなたを罪に定める者はなかったのですか。」"
+    },
+    {
+      "number": 11,
+      "ko": "대답하되 주여 없나이다 예수께서 이르시되 나도 너를 정죄하지 아니하노니 가서 다시는 죄를 범하지 말라 하시니라]",
+      "en": "\"No one, sir,\" she said. \"Then neither do I condemn you,\" Jesus declared. \"Go now and leave your life of sin.\"",
+      "de": "Sie aber sprach: HERR, niemand. Jesus aber sprach: So verdamme ich dich auch nicht; gehe hin und sündige hinfort nicht mehr!",
+      "zh": "她说：「主啊，没有。」耶稣说：「我也不定你的罪。去吧，从此不要再犯罪了！」",
+      "ja": "彼女は言った。「だれもいません。」そこで、イエスは言われた。「わたしもあなたを罪に定めない。行きなさい。今からは決して罪を犯してはなりません。」］"
+    },
+    {
+      "number": 12,
+      "ko": "예수께서 또 말씀하여 이르시되 나는 세상의 빛이니 나를 따르는 자는 어둠에 다니지 아니하고 생명의 빛을 얻으리라",
+      "en": "When Jesus spoke again to the people, he said, \"I am the light of the world. Whoever follows me will never walk in darkness, but will have the light of life.\"",
+      "de": "Da redete Jesus abermals zu ihnen und sprach: Ich bin das Licht der Welt; wer mir nachfolgt, der wird nicht wandeln in der Finsternis, sondern wir das Licht des Lebens haben.",
+      "zh": "耶稣又对众人说：「我是世界的光。跟从我的，就不在黑暗里走，必要得着生命的光。」",
+      "ja": "イエスはまた彼らに語って言われた。「わたしは、世の光です。わたしに従う者は、決してやみの中を歩むことがなく、いのちの光を持つのです。」"
+    },
+    {
+      "number": 13,
+      "ko": "바리새인들이 이르되 네가 너를 위하여 증언하니 네 증언은 참되지 아니하도다",
+      "en": "The Pharisees challenged him, \"Here you are, appearing as your own witness; your testimony is not valid.\"",
+      "de": "Da sprachen die Pharisäer zu ihm: Du zeugst von dir selbst; dein Zeugnis ist nicht wahr.",
+      "zh": "法利赛人对他说：「你是为自己作见证，你的见证不真。」",
+      "ja": "そこでパリサイ人はイエスに言った。「あなたは自分のことを自分で証言しています。だから、あなたの証言は真実ではありません。」"
+    },
+    {
+      "number": 14,
+      "ko": "예수께서 대답하여 이르시되 내가 나를 위하여 증언하여도 내 증언이 참되니 나는 내가 어디서 오며 어디로 가는 것을 알거니와 너희는 내가 어디서 오며 어디로 가는 것을 알지 못하느니라",
+      "en": "Jesus answered, \"Even if I testify on my own behalf, my testimony is valid, for I know where I came from and where I am going. But you have no idea where I come from or where I am going.",
+      "de": "Jesus antwortete und sprach zu ihnen: So ich von mir selbst zeugen würde, so ist mein Zeugnis wahr; denn ich weiß, woher ich gekommen bin und wohin ich gehe; ihr aber wißt nicht, woher ich komme und wohin ich gehe.",
+      "zh": "耶稣说：「我虽然为自己作见证，我的见证还是真的；因我知道我从哪里来，往哪里去；你们却不知道我从哪里来，往哪里去。",
+      "ja": "イエスは答えて、彼らに言われた。「もしこのわたしが自分のことを証言するなら、その証言は真実です。わたしは、わたしがどこから来たか、また、どこへ行くかを知っているからです。しかしあなたがたは、わたしがどこから来たのか、またどこへ行くのか知りません。"
+    },
+    {
+      "number": 15,
+      "ko": "너희는 육체를 따라 판단하나 나는 아무도 판단하지 아니하노라",
+      "en": "You judge by human standards; I pass judgment on no one.",
+      "de": "Ihr richtet nach dem Fleisch; ich richte niemand.",
+      "zh": "你们是以外貌判断人，我却不判断人。",
+      "ja": "あなたがたは肉によってさばきます。わたしはだれをもさばきません。"
+    },
+    {
+      "number": 16,
+      "ko": "만일 내가 판단하여도 내 판단이 참되니 이는 내가 혼자 있는 것이 아니요 나를 보내신 이가 나와 함께 계심이라",
+      "en": "But if I do judge, my decisions are right, because I am not alone. I stand with the Father, who sent me.",
+      "de": "So ich aber richte, so ist mein Gericht recht; denn ich bin nicht allein, sondern ich und der Vater, der mich gesandt hat.",
+      "zh": "就是判断人，我的判断也是真的；因为不是我独自在这里，还有差我来的父与我同在。",
+      "ja": "しかし、もしわたしがさばくなら、そのさばきは正しいのです。なぜなら、わたしひとりではなく、わたしとわたしを遣わした方とがさばくのだからです。"
+    },
+    {
+      "number": 17,
+      "ko": "너희 율법에도 두 사람의 증언이 참되다 기록되었으니",
+      "en": "In your own Law it is written that the testimony of two men is valid.",
+      "de": "Auch steht in eurem Gesetz geschrieben, daß zweier Menschen Zeugnis wahr sei.",
+      "zh": "你们的律法上也记着说：『两个人的见证是真的。』",
+      "ja": "あなたがたの律法にも、ふたりの証言は真実であると書かれています。"
+    },
+    {
+      "number": 18,
+      "ko": "내가 나를 위하여 증언하는 자가 되고 나를 보내신 아버지도 나를 위하여 증언하시느니라",
+      "en": "I am one who testifies for myself; my other witness is the Father, who sent me.\"",
+      "de": "Ich bin's, der ich von mir selbst zeuge; und der Vater, der mich gesandt hat, zeugt auch von mir.",
+      "zh": "我是为自己作见证，还有差我来的父也是为我作见证。」",
+      "ja": "わたしが自分の証人であり、また、わたしを遣わした父が、わたしについてあかしされます。」"
+    },
+    {
+      "number": 19,
+      "ko": "이에 그들이 묻되 네 아버지가 어디 있느냐 예수께서 대답하시되 너희는 나를 알지 못하고 내 아버지도 알지 못하는도다 나를 알았더라면 내 아버지도 알았으리라",
+      "en": "Then they asked him, \"Where is your father?\" \"You do not know me or my Father,\" Jesus replied. \"If you knew me, you would know my Father also.\"",
+      "de": "Da sprachen sie zu ihm: Wo ist dein Vater? Jesus antwortete: Ihr kennt weder mich noch meinen Vater; wenn ihr mich kenntet, so kenntet ihr auch meinen Vater.",
+      "zh": "他们就问他说：「你的父在哪里？」耶稣回答说：「你们不认识我，也不认识我的父；若是认识我，也就认识我的父。」",
+      "ja": "すると、彼らはイエスに言った。「あなたの父はどこにいるのですか。」イエスは答えられた。「あなたがたは、わたしをも、わたしの父をも知りません。もし、あなたがたがわたしを知っていたなら、わたしの父をも知っていたでしょう。」"
+    },
+    {
+      "number": 20,
+      "ko": "이 말씀은 성전에서 가르치실 때에 헌금함 앞에서 하셨으나 잡는 사람이 없으니 이는 그의 때가 아직 이르지 아니하였음이러라",
+      "en": "He spoke these words while teaching in the temple area near the place where the offerings were put. Yet no one seized him, because his time had not yet come.",
+      "de": "Diese Worte redete Jesus an dem Gotteskasten, da er lehrte im Tempel; und niemand griff ihn, denn seine Stunde war noch nicht gekommen.",
+      "zh": "这些话是耶稣在殿里的库房、教训人时所说的，也没有人拿他，因为他的时候还没有到。",
+      "ja": "イエスは宮で教えられたとき、献金箱のある所でこのことを話された。しかし、だれもイエスを捕えなかった。イエスの時がまだ来ていなかったからである。"
+    },
+    {
+      "number": 21,
+      "ko": "다시 이르시되 내가 가리니 너희가 나를 찾다가 너희 죄 가운데서 죽겠고 내가 가는 곳에는 너희가 오지 못하리라",
+      "en": "Once more Jesus said to them, \"I am going away, and you will look for me, and you will die in your sin. Where I go, you cannot come.\"",
+      "de": "Da sprach Jesus abermals zu ihnen: Ich gehe hinweg, und ihr werdet mich suchen und in eurer Sünde sterben. Wo ich hin gehe, da könnet ihr nicht hin kommen.",
+      "zh": "耶稣又对他们说：「我要去了，你们要找我，并且你们要死在罪中。我所去的地方，你们不能到。」",
+      "ja": "イエスはまた彼らに言われた。「わたしは去って行きます。あなたがたはわたしを捜すけれども、自分の罪の中で死にます。わたしが行く所に、あなたがたは来ることができません。」"
+    },
+    {
+      "number": 22,
+      "ko": "유대인들이 이르되 그가 말하기를 내가 가는 곳에는 너희가 오지 못하리라 하니 그가 자결하려는가",
+      "en": "This made the Jews ask, \"Will he kill himself? Is that why he says, 'Where I go, you cannot come'?\"",
+      "de": "Da sprachen die Juden: Will er sich denn selbst töten, daß er spricht: “Wohin ich gehe, da könnet ihr nicht hin kommen”?",
+      "zh": "犹太人说：「他说『我所去的地方，你们不能到』，难道他要自尽吗？」",
+      "ja": "そこで、ユダヤ人たちは言った。「あの人は『わたしが行く所に、あなたがたは来ることができない。』と言うが、自殺するつもりなのか。」"
+    },
+    {
+      "number": 23,
+      "ko": "예수께서 이르시되 너희는 아래에서 났고 나는 위에서 났으며 너희는 이 세상에 속하였고 나는 이 세상에 속하지 아니하였느니라",
+      "en": "But he continued, \"You are from below; I am from above. You are of this world; I am not of this world.",
+      "de": "Und er sprach zu ihnen: Ihr seid von untenher, ich bin von obenher; ihr seid von dieser Welt, ich bin nicht von dieser Welt.",
+      "zh": "耶稣对他们说：「你们是从下头来的，我是从上头来的；你们是属这世界的，我不是属这世界的。",
+      "ja": "それでイエスは彼らに言われた。「あなたがたが来たのは下からであり、わたしが来たのは上からです。あなたがたはこの世の者であり、わたしはこの世の者ではありません。"
+    },
+    {
+      "number": 24,
+      "ko": "그러므로 내가 너희에게 말하기를 너희가 너희 죄 가운데서 죽으리라 하였노라 너희가 만일 내가 그인 줄 믿지 아니하면 너희 죄 가운데서 죽으리라",
+      "en": "I told you that you would die in your sins; if you do not believe that I am the one I claim to be, you will indeed die in your sins.\"",
+      "de": "So habe ich euch gesagt, daß ihr sterben werdet in euren Sünden; denn so ihr nicht glaubt, daß ich es sei, so werdet ihr sterben in euren Sünden.",
+      "zh": "所以我对你们说，你们要死在罪中。你们若不信我是基督，必要死在罪中。」",
+      "ja": "それでわたしは、あなたがたが自分の罪の中で死ぬと、あなたがたに言ったのです。もしあなたがたが、わたしのことを信じなければ、あなたがたは自分の罪の中で死ぬのです。」"
+    },
+    {
+      "number": 25,
+      "ko": "그들이 말하되 네가 누구냐 예수께서 이르시되 나는 처음부터 너희에게 말하여 온 자니라",
+      "en": "\"Who are you?\" they asked. \"Just what I have been claiming all along,\" Jesus replied.",
+      "de": "Da sprachen sie zu ihm: Wer bist du denn? Und Jesus sprach zu ihnen: Erstlich der, der ich mit euch rede.",
+      "zh": "他们就问他说：「你是谁？」耶稣对他们说：「就是我从起初所告诉你们的。",
+      "ja": "そこで、彼らはイエスに言った。「あなたはだれですか。」イエスは言われた。「初めからわたしがあなたがたに話して来たことは何でしたか。"
+    },
+    {
+      "number": 26,
+      "ko": "내가 너희에게 대하여 말하고 판단할 것이 많으나 나를 보내신 이가 참되시매 내가 그에게 들은 그것을 세상에 말하노라 하시되",
+      "en": "\"I have much to say in judgment of you. But he who sent me is reliable, and what I have heard from him I tell the world.\"",
+      "de": "Ich habe viel von euch zu reden und zu richten; aber der mich gesandt hat, ist wahrhaftig, und was ich von ihm gehört habe, das rede ich vor der Welt.",
+      "zh": "我有许多事讲论你们，判断你们；但那差我来的是真的，我在他那里所听见的，我就传给世人。」",
+      "ja": "あなたがたについて言うべきこと、さばくべきことがたくさんあります。しかし、わたしを遣わした方は真実であって、わたしはその方から聞いたことをそのまま世に告げるのです。」"
+    },
+    {
+      "number": 27,
+      "ko": "그들은 아버지를 가리켜 말씀하신 줄을 깨닫지 못하더라",
+      "en": "They did not understand that he was telling them about his Father.",
+      "de": "Sie verstanden aber nicht, daß er ihnen von dem Vater sagte.",
+      "zh": "他们不明白耶稣是指着父说的。",
+      "ja": "彼らは、イエスが父のことを語っておられたことを悟らなかった。"
+    },
+    {
+      "number": 28,
+      "ko": "이에 예수께서 이르시되 너희가 인자를 든 후에 내가 그인 줄을 알고 또 내가 스스로 아무 것도 하지 아니하고 오직 아버지께서 가르치신 대로 이런 것을 말하는 줄도 알리라",
+      "en": "So Jesus said, \"When you have lifted up the Son of Man, then you will know that I am the one I claim to be and that I do nothing on my own but speak just what the Father has taught me.",
+      "de": "Da sprach Jesus zu ihnen: Wenn ihr des Menschen Sohn erhöhen werdet, dann werdet ihr erkennen, daß ich es sei und nichts von mir selber tue, sondern wie mich mein Vater gelehrt hat, so rede ich.",
+      "zh": "所以耶稣说：「你们举起人子以后，必知道我是基督，并且知道我没有一件事是凭着自己做的。我说这些话乃是照着父所教训我的。",
+      "ja": "イエスは言われた。「あなたがたが人の子を上げてしまうと、その時、あなたがたは、わたしが何であるか、また、わたしがわたし自身からは何事もせず、ただ父がわたしに教えられたとおりに、これらのことを話していることを、知るようになります。"
+    },
+    {
+      "number": 29,
+      "ko": "나를 보내신 이가 나와 함께 하시도다 나는 항상 그가 기뻐하시는 일을 행하므로 나를 혼자 두지 아니하셨느니라",
+      "en": "The one who sent me is with me; he has not left me alone, for I always do what pleases him.\"",
+      "de": "Und der mich gesandt hat, ist mit mir. Der Vater läßt mich nicht allein; denn ich tue allezeit, was ihm gefällt.",
+      "zh": "那差我来的是与我同在；他没有撇下我独自在这里，因为我常做他所喜悦的事。」",
+      "ja": "わたしを遣わした方はわたしとともにおられます。わたしをひとり残されることはありません。わたしがいつも、そのみこころにかなうことを行なうからです。」"
+    },
+    {
+      "number": 30,
+      "ko": "이 말씀을 하시매 많은 사람이 믿더라",
+      "en": "Even as he spoke, many put their faith in him.",
+      "de": "Da er solches redete, glaubten viele an ihn.",
+      "zh": "耶稣说这话的时候，就有许多人信他。",
+      "ja": "イエスがこれらのことを話しておられると、多くの者がイエスを信じた。"
+    },
+    {
+      "number": 31,
+      "ko": "그러므로 예수께서 자기를 믿은 유대인들에게 이르시되 너희가 내 말에 거하면 참으로 내 제자가 되고",
+      "en": "To the Jews who had believed him, Jesus said, \"If you hold to my teaching, you are really my disciples.",
+      "de": "Da sprach nun Jesus zu den Juden, die an ihn glaubten: So ihr bleiben werdet an meiner Rede, so seid ihr meine rechten Jünger",
+      "zh": "耶稣对信他的犹太人说：「你们若常常遵守我的道，就真是我的门徒；",
+      "ja": "そこでイエスは、その信じたユダヤ人たちに言われた。「もしあなたがたが、わたしのことばにとどまるなら、あなたがたはほんとうにわたしの弟子です。"
+    },
+    {
+      "number": 32,
+      "ko": "진리를 알지니 진리가 너희를 자유롭게 하리라",
+      "en": "Then you will know the truth, and the truth will set you free.\"",
+      "de": "und werdet die Wahrheit erkennen, und die Wahrheit wird euch frei machen.",
+      "zh": "你们必晓得真理，真理必叫你们得以自由。」",
+      "ja": "そして、あなたがたは真理を知り、真理はあなたがたを自由にします。」"
+    },
+    {
+      "number": 33,
+      "ko": "그들이 대답하되 우리가 아브라함의 자손이라 남의 종이 된 적이 없거늘 어찌하여 우리가 자유롭게 되리라 하느냐",
+      "en": "They answered him, \"We are Abraham's descendants and have never been slaves of anyone. How can you say that we shall be set free?\"",
+      "de": "Da antworteten sie ihm: Wir sind Abrahams Samen, sind niemals jemandes Knecht gewesen; wie sprichst du denn: “Ihr sollt frei werden”?",
+      "zh": "他们回答说：「我们是亚伯拉罕的后裔，从来没有作过谁的奴仆。你怎么说『你们必得以自由』呢？」",
+      "ja": "彼らはイエスに答えた。「私たちはアブラハムの子孫であって、決してだれの奴隷になったこともありません。あなたはどうして、『あなたがたは自由になる。』と言われるのですか。」"
+    },
+    {
+      "number": 34,
+      "ko": "예수께서 대답하시되 진실로 진실로 너희에게 이르노니 죄를 범하는 자마다 죄의 종이라",
+      "en": "Jesus replied, \"I tell you the truth, everyone who sins is a slave to sin.",
+      "de": "Jesus antwortete ihnen und sprach: Wahrlich, wahrlich ich sage euch: Wer Sünde tut, der ist der Sünde Knecht.",
+      "zh": "耶稣回答说：「我实实在在地告诉你们，所有犯罪的就是罪的奴仆。",
+      "ja": "イエスは彼らに答えられた。「まことに、まことに、あなたがたに告げます。罪を行なっている者はみな、罪の奴隷です。"
+    },
+    {
+      "number": 35,
+      "ko": "종은 영원히 집에 거하지 못하되 아들은 영원히 거하나니",
+      "en": "Now a slave has no permanent place in the family, but a son belongs to it forever.",
+      "de": "Der Knecht aber bleibt nicht ewiglich im Hause; der Sohn bleibt ewiglich.",
+      "zh": "奴仆不能永远住在家里；儿子是永远住在家里。",
+      "ja": "奴隷はいつまでも家にいるのではありません。しかし、息子はいつまでもいます。"
+    },
+    {
+      "number": 36,
+      "ko": "그러므로 아들이 너희를 자유롭게 하면 너희가 참으로 자유로우리라",
+      "en": "So if the Son sets you free, you will be free indeed.",
+      "de": "So euch nun der Sohn frei macht, so seid ihr recht frei.",
+      "zh": "所以天父的儿子若叫你们自由，你们就真自由了。",
+      "ja": "ですから、もし子があなたがたを自由にするなら、あなたがたはほんとうに自由なのです。"
+    },
+    {
+      "number": 37,
+      "ko": "나도 너희가 아브라함의 자손인 줄 아노라 그러나 내 말이 너희 안에 있을 곳이 없으므로 나를 죽이려 하는도다",
+      "en": "I know you are Abraham's descendants. Yet you are ready to kill me, because you have no room for my word.",
+      "de": "Ich weiß wohl, daß ihr Abrahams Samen seid; aber ihr sucht mich zu töten, denn meine Rede fängt nicht bei euch.",
+      "zh": "我知道你们是亚伯拉罕的子孙，你们却想要杀我，因为你们心里容不下我的道。",
+      "ja": "わたしは、あなたがたがアブラハムの子孫であることを知っています。しかしあなたがたはわたしを殺そうとしています。わたしのことばが、あなたがたのうちにはいっていないからです。"
+    },
+    {
+      "number": 38,
+      "ko": "나는 내 아버지에게서 본 것을 말하고 너희는 너희 아비에게서 들은 것을 행하느니라",
+      "en": "I am telling you what I have seen in the Father's presence, and you do what you have heard from your father.\"",
+      "de": "Ich rede, was ich von meinem Vater gesehen habe; so tut ihr, was ihr von eurem Vater gesehen habt.",
+      "zh": "我所说的是在我父那里看见的；你们所行的是在你们的父那里听见的。」",
+      "ja": "わたしは父のもとで見たことを話しています。ところが、あなたがたは、あなたがたの父から示されたことを行なうのです。」"
+    },
+    {
+      "number": 39,
+      "ko": "대답하여 이르되 우리 아버지는 아브라함이라 하니 예수께서 이르시되 너희가 아브라함의 자손이면 아브라함이 행한 일들을 할 것이거늘",
+      "en": "\"Abraham is our father,\" they answered. \"If you were Abraham's children,\" said Jesus, \"then you would do the things Abraham did.",
+      "de": "Sie antworteten und sprachen zu ihm: Abraham ist unser Vater. Spricht Jesus zu ihnen: Wenn ihr Abrahams Kinder wärt, so tätet ihr Abrahams Werke.",
+      "zh": "他们说：「我们的父就是亚伯拉罕。」耶稣说：「你们若是亚伯拉罕的儿子，就必行亚伯拉罕所行的事。",
+      "ja": "彼らは答えて言った。「私たちの父はアブラハムです。」イエスは彼らに言われた。「あなたがたがアブラハムの子どもなら、アブラハムのわざを行ないなさい。"
+    },
+    {
+      "number": 40,
+      "ko": "지금 하나님께 들은 진리를 너희에게 말한 사람인 나를 죽이려 하는도다 아브라함은 이렇게 하지 아니하였느니라",
+      "en": "As it is, you are determined to kill me, a man who has told you the truth that I heard from God. Abraham did not do such things.",
+      "de": "Nun aber sucht ihr mich zu töten, einen solchen Menschen, der ich euch die Wahrheit gesagt habe, die ich von Gott gehört habe. Das hat Abraham nicht getan.",
+      "zh": "我将在　神那里所听见的真理告诉了你们，现在你们却想要杀我，这不是亚伯拉罕所行的事。",
+      "ja": "ところが今あなたがたは、神から聞いた真理をあなたがたに話しているこのわたしを、殺そうとしています。アブラハムはそのようなことはしなかったのです。"
+    },
+    {
+      "number": 41,
+      "ko": "너희는 너희 아비가 행한 일들을 하는도다 대답하되 우리가 음란한 데서 나지 아니하였고 아버지는 한 분뿐이시니 곧 하나님이시로다",
+      "en": "You are doing the things your own father does.\" \"We are not illegitimate children,\" they protested. \"The only Father we have is God himself.\"",
+      "de": "Ihr tut eures Vaters Werke. Da sprachen sie zu ihm: Wir sind nicht unehelich geboren, wir haben einen Vater, Gott.",
+      "zh": "你们是行你们父所行的事。」他们说：「我们不是从淫乱生的；我们只有一位父，就是　神。」",
+      "ja": "あなたがたは、あなたがたの父のわざを行なっています。」彼らは言った。「私たちは不品行によって生まれた者ではありません。私たちにはひとりの父、神があります。」"
+    },
+    {
+      "number": 42,
+      "ko": "예수께서 이르시되 하나님이 너희 아버지였으면 너희가 나를 사랑하였으리니 이는 내가 하나님께로부터 나와서 왔음이라 나는 스스로 온 것이 아니요 아버지께서 나를 보내신 것이니라",
+      "en": "Jesus said to them, \"If God were your Father, you would love me, for I came from God and now am here. I have not come on my own; but he sent me.",
+      "de": "Jesus sprach zu ihnen: Wäre Gott euer Vater, so liebtet ihr mich; denn ich bin ausgegangen und komme von Gott; denn ich bin nicht von mir selber gekommen, sondern er hat mich gesandt.",
+      "zh": "耶稣说：「倘若　神是你们的父，你们就必爱我；因为我本是出于　神，也是从　神而来，并不是由着自己来，乃是他差我来。",
+      "ja": "イエスは言われた。「神がもしあなたがたの父であるなら、あなたがたはわたしを愛するはずです。なぜなら、わたしは神から出て来てここにいるからです。わたしは自分で来たのではなく、神がわたしを遣わしたのです。"
+    },
+    {
+      "number": 43,
+      "ko": "어찌하여 내 말을 깨닫지 못하느냐 이는 내 말을 들을 줄 알지 못함이로다",
+      "en": "Why is my language not clear to you? Because you are unable to hear what I say.",
+      "de": "Warum kennet ihr denn meine Sprache nicht? Denn ihr könnt ja mein Wort nicht hören.",
+      "zh": "你们为什么不明白我的话呢？无非是因你们不能听我的道。",
+      "ja": "あなたがたは、なぜわたしの話していることがわからないのでしょう。それは、あなたがたがわたしのことばに耳を傾けることができないからです。"
+    },
+    {
+      "number": 44,
+      "ko": "너희는 너희 아비 마귀에게서 났으니 너희 아비의 욕심대로 너희도 행하고자 하느니라 그는 처음부터 살인한 자요 진리가 그 속에 없으므로 진리에 서지 못하고 거짓을 말할 때마다 제 것으로 말하나니 이는 그가 거짓말쟁이요 거짓의 아비가 되었음이라",
+      "en": "You belong to your father, the devil, and you want to carry out your father's desire. He was a murderer from the beginning, not holding to the truth, for there is no truth in him. When he lies, he speaks his native language, for he is a liar and the father of lies.",
+      "de": "Ihr seid von dem Vater, dem Teufel, und nach eures Vaters Lust wollt ihr tun. Der ist ein Mörder von Anfang und ist nicht bestanden in der Wahrheit; denn die Wahrheit ist nicht in ihm. Wenn er die Lüge redet, so redet er von seinem Eigenen; denn er ist ein Lügner und ein Vater derselben.",
+      "zh": "你们是出于你们的父魔鬼，你们父的私欲你们偏要行。他从起初是杀人的，不守真理，因他心里没有真理。他说谎是出于自己；因他本来是说谎的，也是说谎之人的父。",
+      "ja": "あなたがたは、あなたがたの父である悪魔から出た者であって、あなたがたの父の欲望を成し遂げたいと願っているのです。悪魔は初めから人殺しであり、真理に立ってはいません。彼のうちには真理がないからです。彼が偽りを言うときは、自分にふさわしい話し方をしているのです。なぜなら彼は偽り者であり、また偽りの父であるからです。"
+    },
+    {
+      "number": 45,
+      "ko": "내가 진리를 말하므로 너희가 나를 믿지 아니하는도다",
+      "en": "Yet because I tell the truth, you do not believe me!",
+      "de": "Ich aber, weil ich die Wahrheit sage, so glaubet ihr mir nicht.",
+      "zh": "我将真理告诉你们，你们就因此不信我。",
+      "ja": "しかし、このわたしは真理を話しているために、あなたがたはわたしを信じません。"
+    },
+    {
+      "number": 46,
+      "ko": "너희 중에 누가 나를 죄로 책잡겠느냐 내가 진리를 말하는데도 어찌하여 나를 믿지 아니하느냐",
+      "en": "Can any of you prove me guilty of sin? If I am telling the truth, why don't you believe me?",
+      "de": "Welcher unter euch kann mich einer Sünde zeihen? So ich aber die Wahrheit sage, warum glaubet ihr mir nicht?",
+      "zh": "你们中间谁能指证我有罪呢？我既然将真理告诉你们，为什么不信我呢？",
+      "ja": "あなたがたのうちだれか、わたしに罪があると責める者がいますか。わたしが真理を話しているなら、なぜわたしを信じないのですか。"
+    },
+    {
+      "number": 47,
+      "ko": "하나님께 속한 자는 하나님의 말씀을 듣나니 너희가 듣지 아니함은 하나님께 속하지 아니하였음이로다",
+      "en": "He who belongs to God hears what God says. The reason you do not hear is that you do not belong to God.\"",
+      "de": "Wer von Gott ist, der hört Gottes Worte; darum hört ihr nicht, denn ihr seid nicht von Gott.",
+      "zh": "出于　神的，必听　神的话；你们不听，因为你们不是出于　神。」",
+      "ja": "神から出た者は、神のことばに聞き従います。ですから、あなたがたが聞き従わないのは、あなたがたが神から出た者でないからです。」"
+    },
+    {
+      "number": 48,
+      "ko": "유대인들이 대답하여 이르되 우리가 너를 사마리아 사람이라 또는 귀신이 들렸다 하는 말이 옳지 아니하냐",
+      "en": "The Jews answered him, \"Aren't we right in saying that you are a Samaritan and demon-possessed?\"",
+      "de": "Da antworteten die Juden und sprachen zu ihm: Sagen wir nicht recht, daß du ein Samariter bist und hast den Teufel?",
+      "zh": "犹太人回答说：「我们说你是撒马利亚人，并且是鬼附着的，这话岂不正对吗？」",
+      "ja": "ユダヤ人たちは答えて、イエスに言った。「私たちが、あなたはサマリヤ人で、悪霊につかれていると言うのは当然ではありませんか。」"
+    },
+    {
+      "number": 49,
+      "ko": "예수께서 대답하시되 나는 귀신 들린 것이 아니라 오직 내 아버지를 공경함이거늘 너희가 나를 무시하는도다",
+      "en": "\"I am not possessed by a demon,\" said Jesus, \"but I honor my Father and you dishonor me.",
+      "de": "Jesus antwortete: Ich habe keinen Teufel, sondern ich ehre meinen Vater, und ihr unehret mich.",
+      "zh": "耶稣说：「我不是鬼附着的；我尊敬我的父，你们倒轻慢我。",
+      "ja": "イエスは答えられた。「わたしは悪霊につかれてはいません。わたしは父を敬っています。しかしあなたがたは、わたしを卑しめています。"
+    },
+    {
+      "number": 50,
+      "ko": "나는 내 영광을 구하지 아니하나 구하고 판단하시는 이가 계시니라",
+      "en": "I am not seeking glory for myself; but there is one who seeks it, and he is the judge.",
+      "de": "Ich suche nicht meine Ehre; es ist aber einer, der sie sucht, und richtet.",
+      "zh": "我不求自己的荣耀，有一位为我求荣耀、定是非的。",
+      "ja": "しかし、わたしはわたしの栄誉を求めません。それをお求めになり、さばきをなさる方がおられます。"
+    },
+    {
+      "number": 51,
+      "ko": "진실로 진실로 너희에게 이르노니 사람이 내 말을 지키면 영원히 죽음을 보지 아니하리라",
+      "en": "I tell you the truth, if anyone keeps my word, he will never see death.\"",
+      "de": "Wahrlich, wahrlich ich sage euch: So jemand mein Wort wird halten, der wird den Tod nicht sehen ewiglich.",
+      "zh": "我实实在在地告诉你们，人若遵守我的道，就永远不见死。」",
+      "ja": "まことに、まことに、あなたがたに告げます。だれでもわたしのことばを守るならば、その人は決して死を見ることがありません。」"
+    },
+    {
+      "number": 52,
+      "ko": "유대인들이 이르되 지금 네가 귀신 들린 줄을 아노라 아브라함과 선지자들도 죽었거늘 네 말은 사람이 내 말을 지키면 영원히 죽음을 맛보지 아니하리라 하니",
+      "en": "At this the Jews exclaimed, \"Now we know that you are demon-possessed! Abraham died and so did the prophets, yet you say that if anyone keeps your word, he will never taste death.",
+      "de": "Da sprachen die Juden zu ihm: Nun erkennen wir, daß du den Teufel hast. Abraham ist gestorben und die Propheten, und du sprichst: “So jemand mein Wort hält, der wird den Tod nicht schmecken ewiglich.”",
+      "zh": "犹太人对他说：「现在我们知道你是鬼附着的。亚伯拉罕死了，众先知也死了，你还说：『人若遵守我的道，就永远不尝死味。』",
+      "ja": "ユダヤ人たちはイエスに言った。「あなたが悪霊につかれていることが、今こそわかりました。アブラハムは死に、預言者たちも死にました。しかし、あなたは、『だれでもわたしのことばを守るならば、その人は決して死を味わうことがない。』と言うのです。"
+    },
+    {
+      "number": 53,
+      "ko": "너는 이미 죽은 우리 조상 아브라함보다 크냐 또 선지자들도 죽었거늘 너는 너를 누구라 하느냐",
+      "en": "Are you greater than our father Abraham? He died, and so did the prophets. Who do you think you are?\"",
+      "de": "Bist du denn mehr als unser Vater Abraham, welcher gestorben ist? Und die Propheten sind gestorben. Was machst du aus dir selbst?",
+      "zh": "难道你比我们的祖宗亚伯拉罕还大吗？他死了，众先知也死了，你将自己当作什么人呢？」",
+      "ja": "あなたは、私たちの父アブラハムよりも偉大なのですか。そのアブラハムは死んだのです。預言者たちもまた死にました。あなたは、自分自身をだれだと言うのですか。」"
+    },
+    {
+      "number": 54,
+      "ko": "예수께서 대답하시되 내가 내게 영광을 돌리면 내 영광이 아무 것도 아니거니와 내게 영광을 돌리시는 이는 내 아버지시니 곧 너희가 너희 하나님이라 칭하는 그이시라",
+      "en": "Jesus replied, \"If I glorify myself, my glory means nothing. My Father, whom you claim as your God, is the one who glorifies me.",
+      "de": "Jesus antwortete: So ich mich selber ehre, so ist meine Ehre nichts. Es ist aber mein Vater, der mich ehrt, von welchem ihr sprecht, er sei euer Gott;",
+      "zh": "耶稣回答说：「我若荣耀自己，我的荣耀就算不得什么；荣耀我的乃是我的父，就是你们所说是你们的　神。",
+      "ja": "イエスは答えられた。「わたしがもし自分自身に栄光を帰するなら、わたしの栄光はむなしいものです。わたしに栄光を与える方は、わたしの父です。この方のことを、あなたがたは『私たちの神である。』と言っています。"
+    },
+    {
+      "number": 55,
+      "ko": "너희는 그를 알지 못하되 나는 아노니 만일 내가 알지 못한다 하면 나도 너희 같이 거짓말쟁이가 되리라 나는 그를 알고 또 그의 말씀을 지키노라",
+      "en": "Though you do not know him, I know him. If I said I did not, I would be a liar like you, but I do know him and keep his word.",
+      "de": "und kennet ihn nicht, ich aber kenne ihn. Und so ich würde sagen: Ich kenne ihn nicht, so würde ich ein Lügner, gleichwie ihr seid. Aber ich kenne ihn und halte sein Wort.",
+      "zh": "你们未曾认识他；我却认识他。我若说不认识他，我就是说谎的，像你们一样；但我认识他，也遵守他的道。",
+      "ja": "けれどもあなたがたはこの方を知ってはいません。しかし、わたしは知っています。もしわたしがこの方を知らないと言うなら、わたしはあなたがたと同様に偽り者となるでしょう。しかし、わたしはこの方を知っており、そのみことばを守っています。"
+    },
+    {
+      "number": 56,
+      "ko": "너희 조상 아브라함은 나의 때 볼 것을 즐거워하다가 보고 기뻐하였느니라",
+      "en": "Your father Abraham rejoiced at the thought of seeing my day; he saw it and was glad.\"",
+      "de": "Abraham, euer Vater, ward froh, daß er meinen Tag sehen sollte; und er sah ihn und freute sich.",
+      "zh": "你们的祖宗亚伯拉罕欢欢喜喜地仰望我的日子，既看见了就快乐。」",
+      "ja": "あなたがたの父アブラハムは、わたしの日を見ることを思って大いに喜びました。彼はそれを見て、喜んだのです。」"
+    },
+    {
+      "number": 57,
+      "ko": "유대인들이 이르되 네가 아직 오십 세도 못되었는데 아브라함을 보았느냐",
+      "en": "\"You are not yet fifty years old,\" the Jews said to him, \"and you have seen Abraham!\"",
+      "de": "Da sprachen die Juden zu ihm: Du bist noch nicht fünfzig Jahre alt und hast Abraham gesehen?",
+      "zh": "犹太人说：「你还没有五十岁，岂见过亚伯拉罕呢？」",
+      "ja": "そこで、ユダヤ人たちはイエスに向かって言った。「あなたはまだ五十歳になっていないのにアブラハムを見たのですか。」"
+    },
+    {
+      "number": 58,
+      "ko": "예수께서 이르시되 진실로 진실로 너희에게 이르노니 아브라함이 나기 전부터 내가 있느니라 하시니",
+      "en": "\"I tell you the truth,\" Jesus answered, \"before Abraham was born, I am!\"",
+      "de": "Jesus sprach zu ihnen: Wahrlich, wahrlich ich sage euch: Ehe denn Abraham ward, bin ich.",
+      "zh": "耶稣说：「我实实在在地告诉你们，还没有亚伯拉罕就有了我。」",
+      "ja": "イエスは彼らに言われた。「まことに、まことに、あなたがたに告げます。アブラハムが生まれる前から、わたしはいるのです。」"
+    },
+    {
+      "number": 59,
+      "ko": "그들이 돌을 들어 치려 하거늘 예수께서 숨어 성전에서 나가시니라",
+      "en": "At this, they picked up stones to stone him, but Jesus hid himself, slipping away from the temple grounds.",
+      "de": "Da hoben sie Steine auf, daß sie auf ihn würfen. Aber Jesus verbarg sich und ging zum Tempel hinaus.",
+      "zh": "于是他们拿石头要打他；耶稣却躲藏，从殿里出去了。",
+      "ja": "すると彼らは石を取ってイエスに投げつけようとした。しかし、イエスは身を隠して、宮から出て行かれた。"
+    }
+  ]
+}

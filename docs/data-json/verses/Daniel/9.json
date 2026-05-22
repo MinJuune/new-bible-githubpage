@@ -1,0 +1,222 @@
+{
+  "book": "Daniel",
+  "chapter": 9,
+  "verses": [
+    {
+      "number": 1,
+      "ko": "메대 족속 아하수에로의 아들 다리오가 갈대아 나라 왕으로 세움을 받던 첫 해",
+      "en": "In the first year of Darius son of Xerxes (a Mede by descent), who was made ruler over the Babylonian kingdom--",
+      "de": "Im ersten Jahr des Darius, des Sohnes Ahasveros, aus der Meder Stamm, der über das Königreich der Chaldäer König ward,",
+      "zh": "米底亚族亚哈随鲁的儿子大流士立为迦勒底国的王元年，",
+      "ja": "メデア人アハシユエロスの子ダリヨスがカルデヤ人の王とせられしその元年"
+    },
+    {
+      "number": 2,
+      "ko": "곧 그 통치 원년에 나 다니엘이 책을 통해 여호와께서 말씀으로 선지자 예레미야에게 알려 주신 그 연수를 깨달았나니 곧 예루살렘의 황폐함이 칠십 년만에 그치리라 하신 것이니라",
+      "en": "in the first year of his reign, I, Daniel, understood from the Scriptures, according to the word of the LORD given to Jeremiah the prophet, that the desolation of Jerusalem would last seventy years.",
+      "de": "in diesem ersten Jahr seines Königreiches merkte ich, Daniel, in den Büchern auf die Zahl der Jahre, davon der HERR geredet hatte zum Propheten Jeremia, daß Jerusalem sollte siebzig Jahre wüst liegen.",
+      "zh": "就是他在位第一年，我—但以理从书上得知耶和华的话临到先知耶利米，论耶路撒冷荒凉的年数，七十年为满。",
+      "ja": "すなはちその世の元年に我ダニエル、ヱホバの言の預言者ヱレミヤにのぞみて告たるその年の數を書によりて暁れり即ちその言にヱルサレムは荒て七十年を經んとあり"
+    },
+    {
+      "number": 3,
+      "ko": "내가 금식하며 베옷을 입고 재를 덮어쓰고 주 하나님께 기도하며 간구하기를 결심하고",
+      "en": "So I turned to the Lord God and pleaded with him in prayer and petition, in fasting, and in sackcloth and ashes.",
+      "de": "Und ich kehrte mich zu Gott dem HERRN, zu beten und zu flehen mit Fasten im Sack und in der Asche.",
+      "zh": "我便禁食，披麻蒙灰，定意向主　神祈祷恳求。",
+      "ja": "是にかいて我面を主ヱホバに向け斷食をなし麻の衣を着灰を蒙り祈りかつ願ひて求むることをせり"
+    },
+    {
+      "number": 4,
+      "ko": "내 하나님 여호와께 기도하며 자복하여 이르기를 크시고 두려워할 주 하나님, 주를 사랑하고 주의 계명을 지키는 자를 위하여 언약을 지키시고 그에게 인자를 베푸시는 이시여",
+      "en": "I prayed to the LORD my God and confessed: \"O Lord, the great and awesome God, who keeps his covenant of love with all who love him and obey his commands,",
+      "de": "Ich betete aber zu dem HERRN, meinem Gott, bekannte und sprach: Ach lieber Herr, du großer und schrecklicher Gott, der du Bund und Gnade hältst denen, die dich lieben und deine Gebote halten:",
+      "zh": "我向耶和华—我的　神祈祷、认罪，说：「主啊，大而可畏的　神，向爱主、守主诫命的人守约施慈爱。",
+      "ja": "即ち我わが神ヱホバに祷り懺悔して言り嗚呼大にして畏るべき神なる主自己を愛し自己の誡命を守る者のために契約を保ち之に恩惠を施したまふ者よ"
+    },
+    {
+      "number": 5,
+      "ko": "우리는 이미 범죄하여 패역하며 행악하며 반역하여 주의 법도와 규례를 떠났사오며",
+      "en": "we have sinned and done wrong. We have been wicked and have rebelled; we have turned away from your commands and laws.",
+      "de": "wir haben gesündigt, unrecht getan, sind gottlos gewesen und abtrünnig geworden; wir sind von deinen Geboten und Rechten gewichen.",
+      "zh": "我们犯罪作孽，行恶叛逆，偏离你的诫命典章，",
+      "ja": "我等は罪を犯し悖れる事を爲し惡を行ひ叛逆を爲して汝の誡命と律法を離れたり"
+    },
+    {
+      "number": 6,
+      "ko": "우리가 또 주의 종 선지자들이 주의 이름으로 우리의 왕들과 우리의 고관과 조상들과 온 국민에게 말씀한 것을 듣지 아니하였나이다",
+      "en": "We have not listened to your servants the prophets, who spoke in your name to our kings, our princes and our fathers, and to all the people of the land.",
+      "de": "Wir gehorchten nicht deinen Knechten, den Propheten, die in deinem Namen unsern Königen, Fürsten, Vätern und allem Volk im Lande predigten.",
+      "zh": "没有听从你仆人众先知奉你名向我们君王、首领、列祖，和国中一切百姓所说的话。",
+      "ja": "我等はまた汝の僕なる預言者等が汝の名をもて我らの王等君等先祖等および全國の民に告たる所に聽したがはざりしなり"
+    },
+    {
+      "number": 7,
+      "ko": "주여 공의는 주께로 돌아가고 수치는 우리 얼굴로 돌아옴이 오늘과 같아서 유다 사람들과 예루살렘 거민들과 이스라엘이 가까운 곳에 있는 자들이나 먼 곳에 있는 자들이 다 주께서 쫓아내신 각국에서 수치를 당하였사오니 이는 그들이 주께 죄를 범하였음이니이다",
+      "en": "\"Lord, you are righteous, but this day we are covered with shame--the men of Judah and people of Jerusalem and all Israel, both near and far, in all the countries where you have scattered us because of our unfaithfulness to you.",
+      "de": "Du, Herr, bist gerecht, wir aber müssen uns schämen; wie es denn jetzt geht denen von Juda und denen von Jerusalem und dem ganzen Israel, denen, die nahe und fern sind in allen Landen, dahin du sie verstoßen hast um ihrer Missetat willen, die sie an dir begangen haben.",
+      "zh": "主啊，你是公义的，我们是脸上蒙羞的；因我们犹大人和耶路撒冷的居民，并以色列众人，或在近处，或在远处，被你赶到各国的人，都得罪了你，正如今日一样。",
+      "ja": "主よ公義は汝に歸し羞辱は我らに歸せりその状今日のごとし即ちユダの人々ヱルサレムの居民およびイスラエルの全家の者は近き者も遠き者も皆汝の逐やりたまひし諸の國々にて羞辱を蒙れり是は彼らが汝に背きて獲たる罪によりて然るなり"
+    },
+    {
+      "number": 8,
+      "ko": "주여 수치가 우리에게 돌아오고 우리의 왕들과 우리의 고관과 조상들에게 돌아온 것은 우리가 주께 범죄하였음이니이다 마는",
+      "en": "O LORD, we and our kings, our princes and our fathers are covered with shame because we have sinned against you.",
+      "de": "Ja, Herr, wir, unsre Könige, unsre Fürsten und unsre Väter müssen uns schämen, daß wir uns an dir versündigt haben.",
+      "zh": "主啊，我们和我们的君王、首领、列祖因得罪了你，就都脸上蒙羞。",
+      "ja": "主よ羞辱は我儕に歸し我らの王等君等および先祖等に歸す是は我儕なんぢに向ひて罪を犯したればなり"
+    },
+    {
+      "number": 9,
+      "ko": "주 우리 하나님께는 긍휼과 용서하심이 있사오니 이는 우리가 주께 패역하였음이오며",
+      "en": "The Lord our God is merciful and forgiving, even though we have rebelled against him;",
+      "de": "Dein aber, Herr, unser Gott, ist die Barmherzigkeit und Vergebung. Denn wir sind abtrünnig geworden",
+      "zh": "主—我们的　神是怜悯饶恕人的，我们却违背了他，",
+      "ja": "憐憫と赦宥は主たる我らの神の裏にあり其は我らこれに叛きたればなり"
+    },
+    {
+      "number": 10,
+      "ko": "우리 하나님 여호와의 목소리를 듣지 아니하며 여호와께서 그의 종 선지자들에게 부탁하여 우리 앞에 세우신 율법을 행하지 아니하였음이니이다",
+      "en": "we have not obeyed the LORD our God or kept the laws he gave us through his servants the prophets.",
+      "de": "und gehorchten nicht der Stimme des HERRN, unsers Gottes, daß wir gewandelt hätten in seinem Gesetz, welches er uns vorlegte durch seine Knechte, die Propheten;",
+      "zh": "也没有听从耶和华—我们　神的话，没有遵行他借仆人众先知向我们所陈明的律法。",
+      "ja": "我らはまた我らの神ヱホバの言に遵はずヱホバがその僕なる預言者等によりて我らの前に設けたまひし律法を行はざりしなり"
+    },
+    {
+      "number": 11,
+      "ko": "온 이스라엘이 주의 율법을 범하고 치우쳐 가서 주의 목소리를 듣지 아니하였으므로 이 저주가 우리에게 내렸으되 곧 하나님의 종 모세의 율법에 기록된 맹세대로 되었사오니 이는 우리가 주께 범죄하였음이니이다",
+      "en": "All Israel has transgressed your law and turned away, refusing to obey you. \"Therefore the curses and sworn judgments written in the Law of Moses, the servant of God, have been poured out on us, because we have sinned against you.",
+      "de": "sondern das ganze Israel übertrat dein Gesetz, und sie wichen ab, daß sie deiner Stimme nicht gehorchten. Darum trifft uns auch der Fluch und Schwur, der geschrieben steht im Gesetz Moses, des Knechtes Gottes, weil wir an ihm gesündigt haben.",
+      "zh": "以色列众人都犯了你的律法，偏行，不听从你的话；因此，在你仆人摩西律法上所写的咒诅和誓言都倾在我们身上，因我们得罪了　神。",
+      "ja": "抑イスラエルの人は皆汝の律法を犯し離れさりて汝の言に遵はざりき是をもて神の僕モーセの律法に記したる呪詛と誓詞我らの上に斟ぎかかれり是は我らこれに罪を獲たればなり"
+    },
+    {
+      "number": 12,
+      "ko": "주께서 큰 재앙을 우리에게 내리사 우리와 및 우리를 재판하던 재판관을 쳐서 하신 말씀을 이루셨사오니 온 천하에 예루살렘에서 일어난 일 같은 것이 없나이다",
+      "en": "You have fulfilled the words spoken against us and against our rulers by bringing upon us great disaster. Under the whole heaven nothing has ever been done like what has been done to Jerusalem.",
+      "de": "Und er hat seine Worte gehalten, die er geredet hat wider uns und unsre Richter, die uns richten sollten, daß er so großes Unglück über uns hat gehen lassen, daß desgleichen unter dem ganzen Himmel nicht geschehen ist, wie über Jerusalem geschehen ist.",
+      "zh": "他使大灾祸临到我们，成就了警戒我们和审判我们官长的话；原来在普天之下未曾行过像在耶路撒冷所行的。",
+      "ja": "即ち神は大なる災害を我らに蒙らせたまひてその前に我らと我らを鞫ける士師とにむかひて宣ひし言を行ひとげたまへりかのエルサレムに臨みたる事の如きは普天の下に未だ曾て有ざりしなり"
+    },
+    {
+      "number": 13,
+      "ko": "모세의 율법에 기록된 대로 이 모든 재앙이 이미 우리에게 내렸사오나 우리는 우리의 죄악을 떠나고 주의 진리를 깨달아 우리 하나님 여호와의 얼굴을 기쁘게 하지 아니하였나이다",
+      "en": "Just as it is written in the Law of Moses, all this disaster has come upon us, yet we have not sought the favor of the LORD our God by turning from our sins and giving attention to your truth.",
+      "de": "Gleichwie es geschrieben steht im Gesetz Mose's, so ist all dies große Unglück über uns gegangen. So beteten wir auch nicht vor dem HERRN, unserm Gott, daß wir uns von den Sünden bekehrten und auf deine Wahrheit achteten.",
+      "zh": "这一切灾祸临到我们身上是照摩西律法上所写的，我们却没有求耶和华—我们　神的恩典，使我们回头离开罪孽，明白你的真理。",
+      "ja": "モーセの律法に記したる如くにこの災害すべて我らに臨みしかども我らはその神ヱホバの面を和めんとも爲ずその惡を離れて汝の眞理を暁らんとも爲ざりき"
+    },
+    {
+      "number": 14,
+      "ko": "그러므로 여호와께서 이 재앙을 간직하여 두셨다가 우리에게 내리게 하셨사오니 우리의 하나님 여호와께서 행하시는 모든 일이 공의로우시나 우리가 그 목소리를 듣지 아니하였음이니이다",
+      "en": "The LORD did not hesitate to bring the disaster upon us, for the LORD our God is righteous in everything he does; yet we have not obeyed him.",
+      "de": "Darum ist der HERR auch wach gewesen mit diesem Unglück und hat's über uns gehen lassen. Denn der HERR, unser Gott, ist gerecht in allen seinen Werken, die er tut; denn wir gehorchten seiner Stimme nicht.",
+      "zh": "所以耶和华留意使这灾祸临到我们身上，因为耶和华—我们的　神在他所行的事上都是公义；我们并没有听从他的话。",
+      "ja": "是をもてヱホバ心にかけて災害を我らに降したまへり我らの神ヱホバは何事をなしたまふも凡て公義いますなり然るに我らはその言に遵はざりき"
+    },
+    {
+      "number": 15,
+      "ko": "강한 손으로 주의 백성을 애굽 땅에서 인도하여 내시고 오늘과 같이 명성을 얻으신 우리 주 하나님이여 우리는 범죄하였고 악을 행하였나이다",
+      "en": "\"Now, O Lord our God, who brought your people out of Egypt with a mighty hand and who made for yourself a name that endures to this day, we have sinned, we have done wrong.",
+      "de": "Und nun, Herr, unser Gott, der du dein Volk aus Ägyptenland geführt hast mit starker Hand und hast dir einen Namen gemacht, wie er jetzt ist: wir haben ja gesündigt und sind leider gottlos gewesen.",
+      "zh": "主—我们的　神啊，你曾用大能的手领你的子民出埃及地，使自己得了名，正如今日一样。我们犯了罪，作了恶。",
+      "ja": "主たる我らの神よ汝は強き手をもて汝の民をエジプトの地より導き出して今日のごとく汝の名を揚たまふ我らは罪を犯し惡き事を行へり"
+    },
+    {
+      "number": 16,
+      "ko": "주여 구하옵나니 주는 주의 공의를 따라 주의 분노를 주의 성 예루살렘, 주의 거룩한 산에서 떠나게 하옵소서 이는 우리의 죄와 우리 조상들의 죄악으로 말미암아 예루살렘과 주의 백성이 사면에 있는 자들에게 수치를 당함이니이다",
+      "en": "O Lord, in keeping with all your righteous acts, turn away your anger and your wrath from Jerusalem, your city, your holy hill. Our sins and the iniquities of our fathers have made Jerusalem and your people an object of scorn to all those around us.",
+      "de": "Ach Herr, um aller deiner Gerechtigkeit willen wende ab deinen Zorn und Grimm von deiner Stadt Jerusalem und deinem heiligen Berge. Denn um unsrer Sünden willen und um unsrer Väter Missetat willen trägt Jerusalem und dein Volk Schmach bei allen, die um uns her sind.",
+      "zh": "主啊，求你按你的大仁大义，使你的怒气和忿怒转离你的城耶路撒冷，就是你的圣山。耶路撒冷和你的子民，因我们的罪恶和我们列祖的罪孽被四围的人羞辱。",
+      "ja": "主よ願くは汝が是まで公義き御行爲を爲たまひし如く汝の邑ヱルサレム汝の聖山より汝の忿怒と憤恨を取離し給へ其は我らの罪と我らの先祖の惡のためにヱルサレムと汝の民は我らの周圍の者の笑柄となりたればなり"
+    },
+    {
+      "number": 17,
+      "ko": "그러하온즉 우리 하나님이여 지금 주의 종의 기도와 간구를 들으시고 주를 위하여 주의 얼굴 빛을 주의 황폐한 성소에 비추시옵소서",
+      "en": "\"Now, our God, hear the prayers and petitions of your servant. For your sake, O Lord, look with favor on your desolate sanctuary.",
+      "de": "Und nun, unser Gott, höre das Gebet deines Knechtes und sein Flehen, und siehe gnädig an dein Heiligtum, das verstört ist, um des Herrn willen.",
+      "zh": "我们的　神啊，现在求你垂听仆人的祈祷恳求，为自己使脸光照你荒凉的圣所。",
+      "ja": "然ば我らの神よ僕の祷と願を聽たまへ汝は主にいませばかの荒をる汝の聖所に汝の面を耀かせたまへ"
+    },
+    {
+      "number": 18,
+      "ko": "나의 하나님이여 귀를 기울여 들으시며 눈을 떠서 우리의 황폐한 상황과 주의 이름으로 일컫는 성을 보옵소서 우리가 주 앞에 간구하옵는 것은 우리의 공의를 의지하여 하는 것이 아니요 주의 큰 긍휼을 의지하여 함이니이다",
+      "en": "Give ear, O God, and hear; open your eyes and see the desolation of the city that bears your Name. We do not make requests of you because we are righteous, but because of your great mercy.",
+      "de": "Neige dein Ohr, mein Gott, und höre, tue deine Augen auf und sieh, wie wir verstört sind und die ganze Stadt, die nach deinem Namen genannt ist. Denn wir liegen vor dir mit unserm Gebet, nicht auf unsre Gerechtigkeit, sondern auf deine große Barmherzigkeit.",
+      "zh": "我的　神啊，求你侧耳而听，睁眼而看，眷顾我们荒凉之地和称为你名下的城。我们在你面前恳求，原不是因自己的义，乃因你的大怜悯。",
+      "ja": "我神よ耳を傾けて聽たまへ目を啓きて我らの荒蕪たる状を觀汝の名をもて稱へらるる邑を觀たまへ我らが汝の前に祈祷をたてまつるは自己の公義によるに非ず唯なんぢの大なる憐憫によるなり"
+    },
+    {
+      "number": 19,
+      "ko": "주여 들으소서 주여 용서하소서 주여 귀를 기울이시고 행하소서 지체하지 마옵소서 나의 하나님이여 주 자신을 위하여 하시옵소서 이는 주의 성과 주의 백성이 주의 이름으로 일컫는 바 됨이니이다",
+      "en": "O Lord, listen! O Lord, forgive! O Lord, hear and act! For your sake, O my God, do not delay, because your city and your people bear your Name.\"",
+      "de": "Ach Herr, höre, ach Herr, sei gnädig, ach Herr, merke auf und tue es, und verzieh nicht um deiner selbst willen, mein Gott! denn deine Stadt und dein Volk ist nach deinem Namen genannt.",
+      "zh": "求主垂听，求主赦免，求主应允而行，为你自己不要迟延。我的　神啊，因这城和这民都是称为你名下的。」",
+      "ja": "主よ聽いれたまへ主よ赦したまへ主よ聽いれて行ひたまへこの事を遅くしたまふなかれわが神よ汝みづからのために之をなしたまへ其は汝の邑と汝の民は汝の名をもて稱へらるればなり"
+    },
+    {
+      "number": 20,
+      "ko": "내가 이같이 말하여 기도하며 내 죄와 내 백성 이스라엘의 죄를 자복하고 내 하나님의 거룩한 산을 위하여 내 하나님 여호와 앞에 간구할 때",
+      "en": "While I was speaking and praying, confessing my sin and the sin of my people Israel and making my request to the LORD my God for his holy hill--",
+      "de": "Als ich noch so redete und betete und meine und meines Volks Israel Sünde bekannte und lag mit meinem Gebet vor dem HERRN, meinem Gott, um den heiligen Berg meines Gottes,",
+      "zh": "我说话，祷告，承认我的罪和本国之民以色列的罪，为我　神的圣山，在耶和华—我　神面前恳求。",
+      "ja": "我かく言て祈りかつわが罪とわが民イスラエルの罪を懺悔し我神の聖山の事につきてわが神ヱホバのまへに願をたてまつりをる時"
+    },
+    {
+      "number": 21,
+      "ko": "곧 내가 기도할 때에 이전에 환상 중에 본 그 사람 가브리엘이 빨리 날아서 저녁 제사를 드릴 때 즈음에 내게 이르더니",
+      "en": "while I was still in prayer, Gabriel, the man I had seen in the earlier vision, came to me in swift flight about the time of the evening sacrifice.",
+      "de": "eben da ich so redete in meinem Gebet, flog daher der Mann Gabriel, den ich zuvor gesehen hatte im Gesicht, und rührte mich an um die Zeit des Abendopfers.",
+      "zh": "我正祷告的时候，先前在异象中所见的那位加百列，奉命迅速飞来，约在献晚祭的时候，按手在我身上。",
+      "ja": "即ち我祈祷の言をのべをる時我が初に異象の中に見たるかの人ガブリエル迅速に飛て晩の祭物を献ぐる頃我許に達し"
+    },
+    {
+      "number": 22,
+      "ko": "내게 가르치며 내게 말하여 이르되 다니엘아 내가 이제 네게 지혜와 총명을 주려고 왔느니라 하니라",
+      "en": "He instructed me and said to me, \"Daniel, I have now come to give you insight and understanding.",
+      "de": "Und er unterrichtete mich und redete mit mir und sprach: Daniel, jetzt bin ich ausgegangen, dich zu unterrichten.",
+      "zh": "他指教我说：「但以理啊，现在我出来要使你有智慧，有聪明。",
+      "ja": "我に告げ我に語りて言けるはダニエルよ今我なんぢを敎へて了解を得せしめんとて出きたれり"
+    },
+    {
+      "number": 23,
+      "ko": "곧 네가 기도를 시작할 즈음에 명령이 내렸으므로 이제 네게 알리러 왔느니라 너는 크게 은총을 입은 자라 그런즉 너는 이 일을 생각하고 그 환상을 깨달을지니라",
+      "en": "As soon as you began to pray, an answer was given, which I have come to tell you, for you are highly esteemed. Therefore, consider the message and understand the vision:",
+      "de": "Den da du anfingst zu beten, ging dieser Befehl aus, und ich komme darum, daß ich dir's anzeige; denn du bist lieb und wert. So merke nun darauf, daß du das Gesicht verstehest.",
+      "zh": "你初恳求的时候，就发出命令，我来告诉你，因你大蒙眷爱；所以你要思想明白这以下的事和异象。",
+      "ja": "汝が祈祷を始むるに方りて我言を受たれば之を汝に示さんとて來れり汝は大に愛せらるる者なり此言を了りその現れたる事の義を暁れ"
+    },
+    {
+      "number": 24,
+      "ko": "네 백성과 네 거룩한 성을 위하여 일흔 이레를 기한으로 정하였나니 허물이 그치며 죄가 끝나며 죄악이 용서되며 영원한 의가 드러나며 환상과 예언이 응하며 또 지극히 거룩한 이가 기름 부음을 받으리라",
+      "en": "\"Seventy 'sevens' are decreed for your people and your holy city to finish transgression, to put an end to sin, to atone for wickedness, to bring in everlasting righteousness, to seal up vision and prophecy and to anoint the most holy.",
+      "de": "Siebzig Wochen sind bestimmt über dein Volk und über die heilige Stadt, so wird dem Übertreten gewehrt und die Sünde abgetan und die Missetat versöhnt und die ewige Gerechtigkeit gebracht und die Gesichte und Weissagung versiegelt und ein Hochheiliges gesalbt werden.",
+      "zh": "「为你本国之民和你圣城，已经定了七十个七。要止住罪过，除净罪恶，赎尽罪孽，引进永义，封住异象和预言，并膏至圣者。",
+      "ja": "汝の民と汝の聖邑のために七十週を定めおかる而して惡を抑へ罪を封じ愆を贖ひ永遠の義を携へ入り異象と預言を封じ至聖者に膏を灌がん"
+    },
+    {
+      "number": 25,
+      "ko": "그러므로 너는 깨달아 알지니라 예루살렘을 중건하라는 영이 날 때부터 기름 부음을 받은 자 곧 왕이 일어나기까지 일곱 이레와 예순두 이레가 지날 것이요 그 곤란한 동안에 성이 중건되어 광장과 거리가 세워질 것이며",
+      "en": "\"Know and understand this: From the issuing of the decree to restore and rebuild Jerusalem until the Anointed One, the ruler, comes, there will be seven 'sevens,' and sixty-two 'sevens.' It will be rebuilt with streets and a trench, but in times of trouble.",
+      "de": "So wisse nun und merke: von der Zeit an, da ausgeht der Befehl, daß Jerusalem soll wieder gebaut werden, bis auf den Gesalbten, den Fürsten, sind sieben Wochen; und zweiundsechzig Wochen, so werden die Gassen und Mauern wieder gebaut werden, wiewohl in kümmerlicher Zeit.",
+      "zh": "你当知道，当明白，从出令重新建造耶路撒冷，直到有受膏君的时候，必有七个七和六十二个七。正在艰难的时候，耶路撒冷城连街带濠都必重新建造。",
+      "ja": "汝暁り知べしヱルサレムを建なほせといふ命令の出づるよりメッシヤたる君の起るまでに七週と六十二週ありその街と石垣とは擾亂の間に建なほされん"
+    },
+    {
+      "number": 26,
+      "ko": "예순두 이레 후에 기름 부음을 받은 자가 끊어져 없어질 것이며 장차 한 왕의 백성이 와서 그 성읍과 성소를 무너뜨리려니와 그의 마지막은 홍수에 휩쓸림 같을 것이며 또 끝까지 전쟁이 있으리니 황폐할 것이 작정되었느니라",
+      "en": "After the sixty-two 'sevens,' the Anointed One will be cut off and will have nothing. The people of the ruler who will come will destroy the city and the sanctuary. The end will come like a flood: War will continue until the end, and desolations have been decreed.",
+      "de": "Und nach den zweiundsechzig Wochen wird der Gesalbte ausgerottet werden und nichts mehr sein. Und das Volk eines Fürsten wird kommen und die Stadt und das Heiligtum verstören, daß es ein Ende nehmen wird wie durch eine Flut; und bis zum Ende des Streits wird's wüst bleiben.",
+      "zh": "过了六十二个七，那受膏者必被剪除，一无所有；必有一王的民来毁灭这城和圣所，至终必如洪水冲没。必有争战，一直到底，荒凉的事已经定了。",
+      "ja": "その六十二週の後にメッシャ絶れん但し是は自己のために非ざるなりまた一人の君の民きたりて邑と聖所とを毀たんその終は洪水に由れる如くなるべし戰爭の終るまでに荒蕪すでに極る"
+    },
+    {
+      "number": 27,
+      "ko": "그가 장차 많은 사람들과 더불어 한 이레 동안의 언약을 굳게 맺고 그가 그 이레의 절반에 제사와 예물을 금지할 것이며 또 포악하여 가증한 것이 날개를 의지하여 설 것이며 또 이미 정한 종말까지 진노가 황폐하게 하는 자에게 쏟아지리라 하였느니라 하니라",
+      "en": "He will confirm a covenant with many for one 'seven.' In the middle of the 'seven' he will put an end to sacrifice and offering. And on a wing of the temple he will set up an abomination that causes desolation, until the end that is decreed is poured out on him.\"",
+      "de": "Er wird aber vielen den Bund stärken eine Woche lang. Und mitten in der Woche wird das Opfer und Speisopfer aufhören. Und bei den Flügeln werden stehen Greuel der Verwüstung, bis das Verderben, welches beschlossen ist, sich über die Verwüstung ergießen wird.",
+      "zh": "一七之内，他必与许多人坚定盟约；一七之半，他必使祭祀与供献止息。那行毁坏可憎的如飞而来，并且有忿怒倾在那行毁坏的身上，直到所定的结局。」",
+      "ja": "彼一週の間衆多の者と固く契約を結ばん而して彼その週の半に犠牲と供物を廢せんまた殘暴可惡者羽翼の上に立たん斯てつひにその定まれる災害殘暴るる者の上に斟ぎくだらん"
+    }
+  ]
+}

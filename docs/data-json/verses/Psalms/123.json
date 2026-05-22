@@ -1,0 +1,38 @@
+{
+  "book": "Psalms",
+  "chapter": 123,
+  "verses": [
+    {
+      "number": 1,
+      "ko": "하늘에 계시는 주여 내가 눈을 들어 주께 향하나이다",
+      "en": "A song of ascents. I lift up my eyes to you, to you whose throne is in heaven.",
+      "de": "Ein Lied im höhern Chor. Ich hebe meine Augen auf zu dir, der du im Himmel sitzest.",
+      "zh": "上行之诗。 坐在天上的主啊， 我向你举目。",
+      "ja": "天にいますものよ我なんぢにむかひて目をあぐ"
+    },
+    {
+      "number": 2,
+      "ko": "상전의 손을 바라보는 종들의 눈 같이, 여주인의 손을 바라보는 여종의 눈 같이 우리의 눈이 여호와 우리 하나님을 바라보며 우리에게 은혜 베풀어 주시기를 기다리나이다",
+      "en": "As the eyes of slaves look to the hand of their master, as the eyes of a maid look to the hand of her mistress, so our eyes look to the LORD our God, till he shows us his mercy.",
+      "de": "Siehe! wie die Augen der Knechte auf die Hände ihrer Herren sehen, wie die Augen der Magd auf die Hände ihrer Frau, also sehen unsre Augen auf den HERRN, unsern Gott, bis er uns gnädig werde.",
+      "zh": "看哪，仆人的眼睛怎样望主人的手， 使女的眼睛怎样望主母的手， 我们的眼睛也照样望耶和华—我们的　神， 直到他怜悯我们。",
+      "ja": "みよ僕その主の手に目をそそぎ 婢女その主母の手に目をそそぐがごとく われらはわが神ヱホバに目をそそぎて そのわれを憐みたまはんことをまつ"
+    },
+    {
+      "number": 3,
+      "ko": "여호와여 우리에게 은혜를 베푸시고 또 은혜를 베푸소서 심한 멸시가 우리에게 넘치나이다",
+      "en": "Have mercy on us, O LORD, have mercy on us, for we have endured much contempt.",
+      "de": "Sei uns gnädig, HERR, sei uns gnädig! denn wir sind sehr voll Verachtung.",
+      "zh": "耶和华啊，求你怜悯我们，怜悯我们！ 因为我们被藐视，已到极处。",
+      "ja": "ねがはくはわれらを憐みたまヘ ヱホバよわれらを憐みたまへ そはわれらに軽侮はみちあふれぬ"
+    },
+    {
+      "number": 4,
+      "ko": "안일한 자의 조소와 교만한 자의 멸시가 우리 영혼에 넘치나이다",
+      "en": "We have endured much ridicule from the proud, much contempt from the arrogant.",
+      "de": "Sehr voll ist unsre Seele von der Stolzen Spott und der Hoffärtigen Verachtung.",
+      "zh": "我们被那些安逸人的讥诮 和骄傲人的藐视，已到极处。",
+      "ja": "おもひわづらひなきものの凌辱と たかぶるものの軽侮とはわれらの霊魂にみちあふれぬ"
+    }
+  ]
+}

@@ -1,0 +1,414 @@
+{
+  "book": "1 Kings",
+  "chapter": 7,
+  "verses": [
+    {
+      "number": 1,
+      "ko": "솔로몬이 자기의 왕궁을 십삼 년 동안 건축하여 그 전부를 준공하니라",
+      "en": "It took Solomon thirteen years, however, to complete the construction of his palace.",
+      "de": "Aber an seinem Hause baute Salomo dreizehn Jahre, daß er's ganz ausbaute.",
+      "zh": "所罗门为自己建造宫室，十三年方才造成；",
+      "ja": "ソロモン己の家を建しが十三年を經て全く其家を建終たり"
+    },
+    {
+      "number": 2,
+      "ko": "그가 레바논 나무로 왕궁을 지었으니 길이가 백 규빗이요 너비가 오십 규빗이요 높이가 삼십 규빗이라 백향목 기둥이 네 줄이요 기둥 위에 백향목 들보가 있으며",
+      "en": "He built the Palace of the Forest of Lebanon a hundred cubits long, fifty wide and thirty high, with four rows of cedar columns supporting trimmed cedar beams.",
+      "de": "Nämlich er baute das Haus vom Wald Libanon, hundert Ellen lang, fünfzig Ellen weit und dreißig Ellen hoch. Auf vier Reihen von zedernen Säulen legte er den Boden von zedernen Balken,",
+      "zh": "又建造黎巴嫩林宫，长一百肘，宽五十肘，高三十肘，有香柏木柱三行，柱上有香柏木柁梁。",
+      "ja": "彼レバノン森の家を建たり其長は百キユビト其濶は五十キユビト其高は三十キユビトなり香柏の柱四行ありて柱の上に香柏の梁あり"
+    },
+    {
+      "number": 3,
+      "ko": "기둥 위에 있는 들보 사십오 개를 백향목으로 덮었는데 들보는 한 줄에 열 다섯이요",
+      "en": "It was roofed with cedar above the beams that rested on the columns--forty-five beams, fifteen to a row.",
+      "de": "und deckte mit Zedern die Gemächer auf den Säulen, und der Gemächer waren fünfundvierzig, je fünfzehn in einer Reihe.",
+      "zh": "其上以香柏木为盖，每行柱子十五根，共有四十五根。",
+      "ja": "四十五本の柱の上なる梁の上は香柏にて蓋へり柱は一行に十五本あり"
+    },
+    {
+      "number": 4,
+      "ko": "또 창틀이 세 줄로 있는데 창과 창이 세 층으로 서로 마주 대하였고",
+      "en": "Its windows were placed high in sets of three, facing each other.",
+      "de": "Und Gebälk lag in drei Reihen, und waren Fenster einander gegenüber dreimal.",
+      "zh": "有窗户三层，窗与窗相对。",
+      "ja": "また窻三行ありて牖と牖と三段に相對ふ"
+    },
+    {
+      "number": 5,
+      "ko": "모든 문과 문설주를 다 큰 나무로 네모지게 만들었는데 창과 창이 세 층으로 서로 마주 대하였으며",
+      "en": "All the doorways had rectangular frames; they were in the front part in sets of three, facing each other.",
+      "de": "Und alle Türen waren in ihren Pfosten viereckig, und die Fenster waren einander gegenüber dreimal.",
+      "zh": "所有的门框都是厚木见方的，有窗户三层，窗与窗相对。",
+      "ja": "戸と戸柱は皆大木をもて角に造り牖と牖と三段に相對へり"
+    },
+    {
+      "number": 6,
+      "ko": "또 기둥을 세워 주랑을 지었으니 길이가 오십 규빗이요 너비가 삼십 규빗이며 또 기둥 앞에 한 주랑이 있고 또 그 앞에 기둥과 섬돌이 있으며",
+      "en": "He made a colonnade fifty cubits long and thirty wide. In front of it was a portico, and in front of that were pillars and an overhanging roof.",
+      "de": "Er baute auch eine Halle von Säulen, fünfzig Ellen lang und dreißig Ellen breit, und noch eine Halle vor diese mit Säulen und einem Aufgang davor,",
+      "zh": "并建造有柱子的廊子，长五十肘，宽三十肘；在这廊前又有廊子，廊外有柱子和台阶。",
+      "ja": "又柱の廊を造れり其長五十キユビト其濶三十キユビトなり柱のまへに一の廊ありまた其柱のまへに柱と階あり"
+    },
+    {
+      "number": 7,
+      "ko": "또 심판하기 위하여 보좌의 주랑 곧 재판하는 주랑을 짓고 온 마루를 백향목으로 덮었고",
+      "en": "He built the throne hall, the Hall of Justice, where he was to judge, and he covered it with cedar from floor to ceiling.",
+      "de": "Und baute eine Halle zum Richtstuhl, darin man Gericht hielt, und täfelte sie vom Boden bis zur Decke mit Zedern.",
+      "zh": "又建造一廊，其中设立审判的座位，这廊从地到顶都用香柏木遮蔽。",
+      "ja": "又ソロモン審判を爲すために位の廊即ち審判の廊を造り牀板より牀板まで香柏をもて蔽へり"
+    },
+    {
+      "number": 8,
+      "ko": "솔로몬이 거처할 왕궁은 그 주랑 뒤 다른 뜰에 있으니 그 양식이 동일하며 솔로몬이 또 그가 장가 든 바로의 딸을 위하여 집을 지었는데 이 주랑과 같더라",
+      "en": "And the palace in which he was to live, set farther back, was similar in design. Solomon also made a palace like this hall for Pharaoh's daughter, whom he had married.",
+      "de": "Dazu sein Haus, darin er wohnte, im Hinterhof, hinten an der Halle, gemacht wie die andern. Und machte auch ein Haus wie die Halle der Tochter Pharaos, die Salomo zum Weibe genommen hatte.",
+      "zh": "廊后院内有所罗门住的宫室；工作与这工作相同。所罗门又为所娶法老的女儿建造一宫，做法与这廊子一样。",
+      "ja": "ソロモンの居住る家は其廊の後の他の庭にありて其工作同じかりきソロモン亦其娶りたるパロの女のために家を建しが此廊に同じかりき"
+    },
+    {
+      "number": 9,
+      "ko": "이 집들은 안팎을 모두 귀하고 다듬은 돌로 지었으니 크기대로 톱으로 켠 것이라 그 초석에서 처마까지와 외면에서 큰 뜰에 이르기까지 다 그러하니",
+      "en": "All these structures, from the outside to the great courtyard and from foundation to eaves, were made of blocks of high-grade stone cut to size and trimmed with a saw on their inner and outer faces.",
+      "de": "Solches alles waren köstliche Steine, nach dem Winkeleisen gehauen, mit Sägen geschnitten auf allen Seiten, vom Grund an bis an das Dach und von außen bis zum großen Hof.",
+      "zh": "建造这一切所用的石头都是宝贵的，是按着尺寸凿成的，是用锯里外锯齐的；从根基直到檐石，从外头直到大院，都是如此。",
+      "ja": "是等は内外とも基礎より檐にいたるまで又外面にては大庭にいたるまで皆鑿石の量にしたがひて鋸にて剖たる貴き石をもて造れるものなり"
+    },
+    {
+      "number": 10,
+      "ko": "그 초석은 귀하고 큰 돌 곧 십 규빗 되는 돌과 여덟 규빗 되는 돌이라",
+      "en": "The foundations were laid with large stones of good quality, some measuring ten cubits and some eight.",
+      "de": "Die Grundfeste aber waren auch köstliche und große Steine, zehn und acht Ellen groß,",
+      "zh": "根基是宝贵的大石头，有长十肘的，有长八肘的；",
+      "ja": "又基礎は貴き石大なる石即ち十キユビトの石八キユビトの石なり"
+    },
+    {
+      "number": 11,
+      "ko": "그 위에는 크기대로 다듬은 귀한 돌도 있고 백향목도 있으며",
+      "en": "Above were high-grade stones, cut to size, and cedar beams.",
+      "de": "und darauf köstliche Steine, nach dem Winkeleisen gehauen, und Zedern.",
+      "zh": "上面有香柏木和按着尺寸凿成宝贵的石头。",
+      "ja": "其上には鑿石の量に循ひて貴き石と香柏あり"
+    },
+    {
+      "number": 12,
+      "ko": "또 큰 뜰 주위에는 다듬은 돌 세 켜와 백향목 두꺼운 판자 한 켜를 놓았으니 마치 여호와의 성전 안뜰과 주랑에 놓은 것 같더라",
+      "en": "The great courtyard was surrounded by a wall of three courses of dressed stone and one course of trimmed cedar beams, as was the inner courtyard of the temple of the LORD with its portico.",
+      "de": "Aber der große Hof umher hatte drei Reihen behauene Steine und eine Reihe von zedernen Balken wie auch der innere Hof am Hause des HERRN und die Halle am Hause.",
+      "zh": "大院周围有凿成的石头三层、香柏木一层，都照耶和华殿的内院和殿廊的样式。",
+      "ja": "又大庭の周圍にに三層の鑿石と一層の香柏の厚板ありヱホバの家の内庭と家の廊におけるが如し"
+    },
+    {
+      "number": 13,
+      "ko": "솔로몬 왕이 사람을 보내어 히람을 두로에서 데려오니",
+      "en": "King Solomon sent to Tyre and brought Huram,",
+      "de": "Und der König Salomo sandte hin und ließ holen Hiram von Tyrus,",
+      "zh": "所罗门王差遣人往泰尔去，将户兰召了来。",
+      "ja": "爰にソロモン人を遣はしてヒラムをツロより召び來れり"
+    },
+    {
+      "number": 14,
+      "ko": "그는 납달리 지파 과부의 아들이요 그의 아버지는 두로 사람이니 놋쇠 대장장이라 이 히람은 모든 놋 일에 지혜와 총명과 재능을 구비한 자이더니 솔로몬 왕에게 와서 그 모든 공사를 하니라",
+      "en": "whose mother was a widow from the tribe of Naphtali and whose father was a man of Tyre and a craftsman in bronze. Huram was highly skilled and experienced in all kinds of bronze work. He came to King Solomon and did all the work assigned to him.",
+      "de": "einer Witwe Sohn aus dem Stamm Naphthali, und sein Vater war ein Mann von Tyrus gewesen; der war ein Meister im Erz, voll Weisheit, Verstand und Kunst, zu arbeiten allerlei Erzwerk. Da er zum König Salomo kam, machte er alle seine Werke.",
+      "zh": "他是拿弗他利支派中一个寡妇的儿子，他父亲是泰尔人，作铜匠的。户兰满有智慧、聪明、技能，善于各样铜作。他来到所罗门王那里，做王一切所要做的。",
+      "ja": "彼はナフタリの支派なる嫠婦の子にして其父はツロの人にて銅の細工人なりヒラムは銅の諸の細工を爲すの智慧と慧悟と知識の充ちたる者なりしがソロモン王の所に來りて其諸の細工を爲り"
+    },
+    {
+      "number": 15,
+      "ko": "그가 놋기둥 둘을 만들었으니 그 높이는 각각 십팔 규빗이라 각각 십이 규빗 되는 줄을 두를 만하며",
+      "en": "He cast two bronze pillars, each eighteen cubits high and twelve cubits around, by line.",
+      "de": "Und machte zwei eherne Säulen, eine jegliche achtzehn Ellen hoch, und ein Faden von zwölf Ellen war das Maß um jegliche Säule her.",
+      "zh": "他制造两根铜柱，每根高十八肘，围十二肘；",
+      "ja": "彼銅の柱二を鋳たり其高各十八キユビトにして各十二キユビトの繩を環らすべし"
+    },
+    {
+      "number": 16,
+      "ko": "또 놋을 녹여 부어서 기둥 머리를 만들어 기둥 꼭대기에 두었으니 한쪽 머리의 높이도 다섯 규빗이요 다른쪽 머리의 높이도 다섯 규빗이며",
+      "en": "He also made two capitals of cast bronze to set on the tops of the pillars; each capital was five cubits high.",
+      "de": "Und machte zwei Knäufe, von Erz gegossen, oben auf die Säulen zu setzen und ein jeglicher Knauf war fünf Ellen hoch.",
+      "zh": "又用铜铸了两个柱顶安在柱上，各高五肘。",
+      "ja": "又銅を鎔して柱頭を鋳て柱の顛に置ゆ此の頭の高も五キユビト彼の頭の高も五キユビトなり"
+    },
+    {
+      "number": 17,
+      "ko": "기둥 꼭대기에 있는 머리를 위하여 바둑판 모양으로 얽은 그물과 사슬 모양으로 땋은 것을 만들었으니 이 머리에 일곱이요 저 머리에 일곱이라",
+      "en": "A network of interwoven chains festooned the capitals on top of the pillars, seven for each capital.",
+      "de": "Und es war an jeglichem Knauf oben auf den Säulen Gitterwerk, sieben geflochtenen Reife wie Ketten.",
+      "zh": "柱顶上有装修的网子和拧成的链索，每顶七个。",
+      "ja": "柱の上にある頭の爲に組物の網と鏈樣の槎物を造れり此頭に七つ彼頭に七つあり"
+    },
+    {
+      "number": 18,
+      "ko": "기둥을 이렇게 만들었고 또 두 줄 석류를 한 그물 위에 둘러 만들어서 기둥 꼭대기에 있는 머리에 두르게 하였고 다른 기둥 머리에도 그렇게 하였으며",
+      "en": "He made pomegranates in two rows encircling each network to decorate the capitals on top of the pillars. He did the same for each capital.",
+      "de": "Und machte an jeglichem Knauf zwei Reihen Granatäpfel umher an dem Gitterwerk, womit der Knauf bedeckt ward.",
+      "zh": "网子周围有两行石榴遮盖柱顶，两个柱顶都是如此。",
+      "ja": "又二行の石榴を一の網工の上の四周に造りて柱の上にある頭を蓋ふ他の頭をも亦然せり"
+    },
+    {
+      "number": 19,
+      "ko": "주랑 기둥 꼭대기에 있는 머리의 네 규빗은 백합화 모양으로 만들었으며",
+      "en": "The capitals on top of the pillars in the portico were in the shape of lilies, four cubits high.",
+      "de": "Und die Knäufe waren wie die Lilien, vor der Halle, vier Ellen groß.",
+      "zh": "廊子的柱顶径四肘，刻着百合花。",
+      "ja": "柱の上にある頭は四キユビトの百合花の形にして廊におけるがごとし"
+    },
+    {
+      "number": 20,
+      "ko": "이 두 기둥 머리에 있는 그물 곁 곧 그 머리의 공 같이 둥근 곳으로 돌아가며 각기 석류 이백 개가 줄을 지었더라",
+      "en": "On the capitals of both pillars, above the bowl-shaped part next to the network, were the two hundred pomegranates in rows all around.",
+      "de": "Und der Granatäpfel in den Reihen umher waren zweihundert, oben und unten an dem Gitterwerk, das um den Bauch des Knaufs her ging, an jeglichem Knauf auf beiden Säulen.",
+      "zh": "两柱顶的鼓肚上挨着网子，各有两行石榴环绕，两行共有二百。",
+      "ja": "二の柱の頭の上には亦網工の外なる腹の所に接きて石榴あり他の柱の四周にも石榴二百ありて相列べり"
+    },
+    {
+      "number": 21,
+      "ko": "이 두 기둥을 성전의 주랑 앞에 세우되 오른쪽 기둥을 세우고 그 이름을 야긴이라 하고 왼쪽의 기둥을 세우고 그 이름을 보아스라 하였으며",
+      "en": "He erected the pillars at the portico of the temple. The pillar to the south he named Jakin and the one to the north Boaz.",
+      "de": "Und er richtete die Säulen auf vor der Halle des Tempels. Und die er zur rechten Hand setzte, hieß er Jachin, und die er zur linken Hand setzte, hieß er Boas.",
+      "zh": "他将两根柱子立在殿廊前头：右边立一根，起名叫雅斤；左边立一根，起名叫波阿斯。",
+      "ja": "此柱を拝殿の廊に竪つ即ち右の柱を立て其名をヤキンと名け左の柱を竪て其名をボアズと名く"
+    },
+    {
+      "number": 22,
+      "ko": "그 두 기둥 꼭대기에는 백합화 형상이 있더라 두 기둥의 공사가 끝나니라",
+      "en": "The capitals on top were in the shape of lilies. And so the work on the pillars was completed.",
+      "de": "Und es stand also oben auf den Säulen wie Lilien. Also ward vollendet das Werk der Säulen.",
+      "zh": "在柱顶上刻着百合花。这样，造柱子的工就完毕了。",
+      "ja": "其柱の上に百合花の形あり斯其柱の作成り"
+    },
+    {
+      "number": 23,
+      "ko": "또 바다를 부어 만들었으니 그 직경이 십 규빗이요 그 모양이 둥글며 그 높이는 다섯 규빗이요 주위는 삼십 규빗 줄을 두를 만하며",
+      "en": "He made the Sea of cast metal, circular in shape, measuring ten cubits from rim to rim and five cubits high. It took a line of thirty cubits to measure around it.",
+      "de": "Und er machte ein Meer, gegossen von einem Rand zum andern zehn Ellen weit, rundumher, und fünf Ellen hoch, und eine Schnur dreißig Ellen lang war das Maß ringsum.",
+      "zh": "他又铸一个铜海，样式是圆的，高五肘，径十肘，围三十肘。",
+      "ja": "又海を鋳なせり此邊より彼邊まで十キユビトにして其四周圓く其高五キユビトなり其四周は三十キユビトの繩を環らすべし"
+    },
+    {
+      "number": 24,
+      "ko": "그 가장자리 아래에는 돌아가며 박이 있는데 매 규빗에 열 개씩 있어서 바다 주위에 둘렸으니 그 박은 바다를 부어 만들 때에 두 줄로 부어 만들었으며",
+      "en": "Below the rim, gourds encircled it--ten to a cubit. The gourds were cast in two rows in one piece with the Sea.",
+      "de": "Und um das Meer gingen Knoten an seinem Rande rings ums Meer her, je zehn auf eine Elle; der Knoten aber waren zwei Reihen gegossen.",
+      "zh": "在海边之下，周围有野瓜的样式；每肘十瓜，共有两行，是铸海的时候铸上的。",
+      "ja": "其邊の下には四周に匏瓜ありて之を環れり即ち一キユビトに十づつありて海の周圍を圍り其匏瓜は海を鋳たる時に二行に鋳たるなり"
+    },
+    {
+      "number": 25,
+      "ko": "그 바다를 소 열두 마리가 받쳤으니 셋은 북쪽을 향하였고 셋은 서쪽을 향하였고 셋은 남쪽을 향하였고 셋은 동쪽을 향하였으며 바다를 그 위에 놓았고 소의 뒤는 다 안으로 두었으며",
+      "en": "The Sea stood on twelve bulls, three facing north, three facing west, three facing south and three facing east. The Sea rested on top of them, and their hindquarters were toward the center.",
+      "de": "Und es stand auf zwölf Rindern, deren drei gegen Mitternacht gewandt waren, drei gegen Abend, drei gegen Mittag und drei gegen Morgen, und das Meer obendrauf, daß alle ihre Hinterteile inwendig waren.",
+      "zh": "有十二只铜牛驮海：三只向北，三只向西，三只向南，三只向东；海在牛上，牛尾都向内。",
+      "ja": "其海は十二の牛の上に立り其三は北に向ひ三は西に向ひ三は南に向ひ三は東に向ふ海其上にありて牛の後は皆内に向ふ"
+    },
+    {
+      "number": 26,
+      "ko": "바다의 두께는 한 손 너비만 하고 그것의 가는 백합화의 양식으로 잔 가와 같이 만들었으니 그 바다에는 이천 밧을 담겠더라",
+      "en": "It was a handbreadth in thickness, and its rim was like the rim of a cup, like a lily blossom. It held two thousand baths.",
+      "de": "Seine Dicke aber ward eine Hand breit, und sein Rand war wie eines Bechers Rand, wie eine aufgegangene Lilie, und gingen darein zweitausend Bath.",
+      "zh": "海厚一掌，边如杯边，又如百合花，可容二千罢特。",
+      "ja": "海の厚は手寛にして其邊は百合花にて杯の邊の如くに作れり海は二千斗を容たり"
+    },
+    {
+      "number": 27,
+      "ko": "또 놋으로 받침 수레 열을 만들었으니 매 받침 수레의 길이가 네 규빗이요 너비가 네 규빗이요 높이가 세 규빗이라",
+      "en": "He also made ten movable stands of bronze; each was four cubits long, four wide and three high.",
+      "de": "Er machte auch zehn eherne Gestühle, ein jegliches vier Ellen lang und breit und drei Ellen hoch.",
+      "zh": "他用铜制造十个盆座，每座长四肘，宽四肘，高三肘。",
+      "ja": "又銅の臺十を造れり一の臺の長四キユビト其濶四キユビト其高三キユビトなり"
+    },
+    {
+      "number": 28,
+      "ko": "그 받침 수레의 구조는 이러하니 사면 옆 가장자리 가운데에는 판이 있고",
+      "en": "This is how the stands were made: They had side panels attached to uprights.",
+      "de": "Es war aber das Gestühl also gemacht, daß es Seiten hatte zwischen den Leisten.",
+      "zh": "座的造法是这样：四面都有心子，心子在边子当中，",
+      "ja": "其臺の製作は左のごとし臺には嵌板あり嵌板は邊の中にあり"
+    },
+    {
+      "number": 29,
+      "ko": "가장자리 가운데 판에는 사자와 소와 그룹들이 있고 또 가장자리 위에는 놓는 자리가 있고 사자와 소 아래에는 화환 모양이 있으며",
+      "en": "On the panels between the uprights were lions, bulls and cherubim--and on the uprights as well. Above and below the lions and bulls were wreaths of hammered work.",
+      "de": "Und an den Seiten zwischen den Leisten waren Löwen, Ochsen und Cherubim. Und die Seiten, daran die Löwen und Ochsen waren, hatten Leisten oben und unten, dazu herabhängende Kränze.",
+      "zh": "心子上有狮子和牛，并基路伯；边上有小座，狮子和牛以下有垂下的璎珞。",
+      "ja": "邊の中にある嵌板の上に獅子と牛とケルビムあり又邊の上に座あり獅子と牛の下に花飾の垂下物あり"
+    },
+    {
+      "number": 30,
+      "ko": "그 받침 수레에 각각 네 놋바퀴와 놋축이 있고 받침 수레 네 발 밑에는 어깨 같은 것이 있으며 그 어깨 같은 것은 물두멍 아래쪽에 부어 만들었고 화환은 각각 그 옆에 있으며",
+      "en": "Each stand had four bronze wheels with bronze axles, and each had a basin resting on four supports, cast with wreaths on each side.",
+      "de": "Und ein jegliches Gestühl hatte vier eherne Räder mit ehernem Gestell. Und auf vier Ecken waren Achseln gegossen, eine jegliche der andern gegenüber, unten an den Kessel gelehnt.",
+      "zh": "每盆座有四个铜轮和铜轴。小座的四角上在盆以下，有铸成的盆架，其旁都有璎珞。",
+      "ja": "其臺には各四の銅の輪と銅の軸あり其四の足には肩のごとき者あり其肩のごとき者は洗盤の下にありて凡の花飾の旁に鋳つけたり"
+    },
+    {
+      "number": 31,
+      "ko": "그 받침 수레 위로 들이켜 높이가 한 규빗 되게 내민 것이 있고 그 면은 직경 한 규빗 반 되게 반원형으로 우묵하며 그 나머지 면에는 아로새긴 것이 있으며 그 내민 판들은 네모지고 둥글지 아니하며",
+      "en": "On the inside of the stand there was an opening that had a circular frame one cubit deep. This opening was round, and with its basework it measured a cubit and a half. Around its opening there was engraving. The panels of the stands were square, not round.",
+      "de": "Aber der Hals mitten auf dem Gestühl war eine Elle hoch und rund, anderthalb Ellen weit, und waren Buckeln an dem Hals, in Feldern, die viereckig waren und nicht rund.",
+      "zh": "小座高一肘，口是圆的，仿佛座的样式，径一肘半，在口上有雕工，心子是方的，不是圆的。",
+      "ja": "其口は頭の内より上は一キユビトなり其口は圓く一キユビト半にして座の作の如し又其口には雕工あり其鏡板は四角にして圓からず"
+    },
+    {
+      "number": 32,
+      "ko": "네 바퀴는 옆판 밑에 있고 바퀴 축은 받침 수레에 연결되었는데 바퀴의 높이는 각각 한 규빗 반이며",
+      "en": "The four wheels were under the panels, and the axles of the wheels were attached to the stand. The diameter of each wheel was a cubit and a half.",
+      "de": "Die vier Räder aber standen unten an den Seiten, und die Achsen der Räder waren am Gestühl. Ein jegliches Rad war anderthalb Ellen hoch.",
+      "zh": "四个轮子在心子以下，轮轴与座相连，每轮高一肘半。",
+      "ja": "四の輪は鏡板の下にあり輪の手は臺の中にあり輪は各高一キュビト半"
+    },
+    {
+      "number": 33,
+      "ko": "그 바퀴의 구조는 병거 바퀴의 구조 같은데 그 축과 테와 살과 통이 다 부어 만든 것이며",
+      "en": "The wheels were made like chariot wheels; the axles, rims, spokes and hubs were all of cast metal.",
+      "de": "Und es waren Räder wie Wagenräder. Und ihre Achsen, Naben, Speichen und Felgen waren alle gegossen.",
+      "zh": "轮的样式如同车轮；轴、辋、辐、毂都是铸的。",
+      "ja": "輪の工作は戰車の輪の工作の如し其手と縁と輻と轂とは皆鋳物なり"
+    },
+    {
+      "number": 34,
+      "ko": "받침 수레 네 모퉁이에 어깨 같은 것 넷이 있는데 그 어깨는 받침 수레와 연결되었고",
+      "en": "Each stand had four handles, one on each corner, projecting from the stand.",
+      "de": "Und die vier Achseln auf den vier Ecken eines jeglichen Gestühls waren auch am Gestühl.",
+      "zh": "每座四角上都有盆架，是与座一同铸成的。",
+      "ja": "臺の四隅に四の肩の如き者あり其肩のごとき者は臺より出づ"
+    },
+    {
+      "number": 35,
+      "ko": "받침 수레 위에 둥근 테두리가 있는데 높이가 반 규빗이요 또 받침 수레 위의 버팀대와 옆판들이 받침 수레와 연결되었고",
+      "en": "At the top of the stand there was a circular band half a cubit deep. The supports and panels were attached to the top of the stand.",
+      "de": "Und am Hals oben auf dem Gestühl, eine halbe Elle hoch, rundumher, waren Leisten und Seiten am Gestühl.",
+      "zh": "座上有圆架，高半肘；座上有撑子和心子，是与座一同铸的。",
+      "ja": "臺の上の所の高半キユビトは其周圍圓し又臺の上の所の手と鏡板も臺より出づ"
+    },
+    {
+      "number": 36,
+      "ko": "버팀대 판과 옆판에는 각각 빈 곳을 따라 그룹들과 사자와 종려나무를 아로새겼고 또 그 둘레에 화환 모양이 있더라",
+      "en": "He engraved cherubim, lions and palm trees on the surfaces of the supports and on the panels, in every available space, with wreaths all around.",
+      "de": "Und er ließ auf die Fläche der Seiten und Leisten graben Cherubim, Löwen und Palmenbäume, nach dem auf jeglichem Raum war, und Kränze ringsumher daran.",
+      "zh": "在撑子和心子上刻着基路伯、狮子，和棕树，周围有璎珞。",
+      "ja": "其手の板と鏡板には其各の隙處に循ひてケルビムと獅子と棕櫚を雕刻み又其四周に花飾を造れり"
+    },
+    {
+      "number": 37,
+      "ko": "이와 같이 받침 수레 열 개를 만들었는데 그 부어 만든 법과 크기와 양식을 다 동일하게 만들었더라",
+      "en": "This is the way he made the ten stands. They were all cast in the same molds and were identical in size and shape.",
+      "de": "Auf diese Weise machte er zehn Gestühle, gegossen; einerlei Maß und Gestalt war an allen.",
+      "zh": "十个盆座都是这样，铸法、尺寸、样式相同。",
+      "ja": "是のごとく十の臺を造れり其鋳法と量と形は皆同じ"
+    },
+    {
+      "number": 38,
+      "ko": "또 물두멍 열 개를 놋으로 만들었는데 물두멍마다 각각 사십 밧을 담게 하였으며 매 물두멍의 직경은 네 규빗이라 열 받침 수레 위에 각각 물두멍이 하나씩이더라",
+      "en": "He then made ten bronze basins, each holding forty baths and measuring four cubits across, one basin to go on each of the ten stands.",
+      "de": "Und er machte zehn eherne Kessel, daß vierzig Bath in einen Kessel ging, und jeder war vier Ellen groß; und auf jeglichem Gestühl war ein Kessel.",
+      "zh": "又用铜制造十个盆，每盆可容四十罢特。盆径四肘，在那十座上，每座安设一盆。",
+      "ja": "又銅の洗盤十を造れり洗盤は各四十斗を容れ洗盤は各四キユビトなり十の臺の上には各一の洗盤あり"
+    },
+    {
+      "number": 39,
+      "ko": "그 받침 수레 다섯은 성전 오른쪽에 두었고 다섯은 성전 왼쪽에 두었고 성전 오른쪽 동남쪽에는 그 바다를 두었더라",
+      "en": "He placed five of the stands on the south side of the temple and five on the north. He placed the Sea on the south side, at the southeast corner of the temple.",
+      "de": "Und setzte fünf Gestühle an die rechte Ecke des Hauses und die andern fünf an die linke Ecke; aber das Meer setzte er zur Rechten vornan gegen Mittag.",
+      "zh": "五个安在殿门的右边，五个放在殿门的左边；又将海放在殿门的右旁，就是南边。",
+      "ja": "其臺五を家の右の旁に五を家の左の旁に置ゑ家の右の東南に其海を置り"
+    },
+    {
+      "number": 40,
+      "ko": "히람이 또 물두멍과 부삽과 대접들을 만들었더라 이와 같이 히람이 솔로몬 왕을 위하여 여호와의 전의 모든 일을 마쳤으니",
+      "en": "He also made the basins and shovels and sprinkling bowls. So Huram finished all the work he had undertaken for King Solomon in the temple of the LORD:",
+      "de": "Und Hiram machte auch Töpfe, Schaufeln, Becken und vollendete also alle Werke, die der König Salomo am Hause des HERRN machen ließ:",
+      "zh": "户兰又造了盆、铲子，和盘子。这样，他为所罗门王做完了耶和华殿的一切工。",
+      "ja": "ヒラム又鍋と火鏟と鉢とを造れり斯ヒラム、ヱホバの家の爲にソロモン王に爲る諸の細工を成終たり"
+    },
+    {
+      "number": 41,
+      "ko": "곧 기둥 둘과 그 기둥 꼭대기의 공 같은 머리 둘과 또 기둥 꼭대기의 공 같은 머리를 가리는 그물 둘과",
+      "en": "the two pillars; the two bowl-shaped capitals on top of the pillars; the two sets of network decorating the two bowl-shaped capitals on top of the pillars;",
+      "de": "die zwei Säulen und die kugeligen Knäufe oben auf den zwei Säulen; die zwei Gitterwerke, zu bedecken die zwei kugeligen Knäufe auf den Säulen;",
+      "zh": "所造的就是：两根柱子和柱上两个如球的顶；并两个盖柱顶的网子；",
+      "ja": "即ち二の往と其柱の上なる頭の二の毬と柱の上なる其頭の二の毬を蓋ふ二の網工と"
+    },
+    {
+      "number": 42,
+      "ko": "또 그 그물들을 위하여 만든 바 매 그물에 두 줄씩으로 기둥 위의 공 같은 두 머리를 가리게 한 석류 사백 개와",
+      "en": "the four hundred pomegranates for the two sets of network (two rows of pomegranates for each network, decorating the bowl-shaped capitals on top of the pillars);",
+      "de": "und die vierhundert Granatäpfel an den zwei Gitterwerken, je zwei Reihen Granatäpfel an einem Gitterwerk, zu bedecken die zwei kugeligen Knäufe auf den Säulen;",
+      "zh": "和四百石榴，安在两个网子上，每网两行，盖着两个柱上如球的顶；",
+      "ja": "其二の網工の爲の石榴四百是は一の網工に石榴二行ありて柱の上なる二の毬を蓋ふ"
+    },
+    {
+      "number": 43,
+      "ko": "또 열 개의 받침 수레와 받침 수레 위의 열 개의 물두멍과",
+      "en": "the ten stands with their ten basins;",
+      "de": "dazu die zehn Gestühle und zehn Kessel obendrauf;",
+      "zh": "十个座和其上的十个盆；",
+      "ja": "又十の臺と其臺の上の十の洗盤と"
+    },
+    {
+      "number": 44,
+      "ko": "한 바다와 그 바다 아래의 소 열두 마리와",
+      "en": "the Sea and the twelve bulls under it;",
+      "de": "und das Meer und zwölf Rinder unter dem Meer;",
+      "zh": "海和海下的十二只牛；",
+      "ja": "一の海と其海の下の十二の牛"
+    },
+    {
+      "number": 45,
+      "ko": "솥과 부삽과 대접들이라 히람이 솔로몬 왕을 위하여 여호와의 성전에 이 모든 그릇을 빛난 놋으로 만드니라",
+      "en": "the pots, shovels and sprinkling bowls. All these objects that Huram made for King Solomon for the temple of the LORD were of burnished bronze.",
+      "de": "und die Töpfe, Schaufeln und Becken. Und alle diese Gefäße, die Hiram dem König Salomo machte zum Hause des HERRN, waren von geglättetem Erz.",
+      "zh": "盆、铲子、盘子。这一切都是户兰给所罗门王用光亮的铜为耶和华的殿造成的，",
+      "ja": "及び鍋と火鏟と鉢是也ヒラムがソロモン王にヱホバの家のために造りし此等の器は皆光明ある銅なりき"
+    },
+    {
+      "number": 46,
+      "ko": "왕이 요단 평지에서 숙곳과 사르단 사이의 차진 흙에 그것들을 부어 내었더라",
+      "en": "The king had them cast in clay molds in the plain of the Jordan between Succoth and Zarethan.",
+      "de": "In der Gegend am Jordan ließ sie der König gießen in dicker Erde, zwischen Sukkoth und Zarthan.",
+      "zh": "是遵王命在约旦平原、疏割和撒拉但中间借胶泥铸成的。",
+      "ja": "王ヨルダンの低地に於てスコテとザレタンの間の粘土の地にて之を鋳たり"
+    },
+    {
+      "number": 47,
+      "ko": "기구가 심히 많으므로 솔로몬이 다 달아보지 아니하고 두었으니 그 놋 무게를 능히 측량할 수 없었더라",
+      "en": "Solomon left all these things unweighed, because there were so many; the weight of the bronze was not determined.",
+      "de": "Und Salomo ließ alle Gefäße ungewogen vor der sehr großen Menge des Erzes.",
+      "zh": "这一切所罗门都没有过秤；因为甚多，铜的轻重也无法可查。",
+      "ja": "ソロモン其器甚だしく多かりければ皆權ずに措り其銅の重しれざりき"
+    },
+    {
+      "number": 48,
+      "ko": "솔로몬이 또 여호와의 성전의 모든 기구를 만들었으니 곧 금 단과 진설병의 금 상과",
+      "en": "Solomon also made all the furnishings that were in the LORD'S temple: the golden altar; the golden table on which was the bread of the Presence;",
+      "de": "Auch machte Salomo alles Gerät, das zum Hause des HERRN gehörte: einen goldenen Altar, einen goldenen Tisch, darauf die Schaubrote liegen;",
+      "zh": "所罗门又造耶和华殿里的金坛和陈设饼的金桌子；",
+      "ja": "又ソロモン、ヱホバの家の諸の器を造れり即ち金の壇と供前のパンを載る金の案"
+    },
+    {
+      "number": 49,
+      "ko": "내소 앞에 좌우로 다섯씩 둘 정금 등잔대며 또 금 꽃과 등잔과 불집게며",
+      "en": "the lampstands of pure gold (five on the right and five on the left, in front of the inner sanctuary); the gold floral work and lamps and tongs;",
+      "de": "fünf Leuchter zur rechten Hand und fünf Leuchter zur Linken vor dem Chor, von lauterem Gold, mit goldenen Blumen, Lampen und Schneuzen;",
+      "zh": "内殿前的精金灯台：右边五个，左边五个，并其上的金花、灯盏、蜡剪，",
+      "ja": "および純金の燈臺是は神殿のまへに五は右に五は左にあり又金の花と燈盞と燈鉗と"
+    },
+    {
+      "number": 50,
+      "ko": "또 정금 대접과 불집게와 주발과 숟가락과 불을 옮기는 그릇이며 또 내소 곧 지성소 문의 금 돌쩌귀와 성전 곧 외소 문의 금 돌쩌귀더라",
+      "en": "the pure gold basins, wick trimmers, sprinkling bowls, dishes and censers; and the gold sockets for the doors of the innermost room, the Most Holy Place, and also for the doors of the main hall of the temple.",
+      "de": "dazu Schalen, Messer, Becken, Löffel und Pfannen von lauterem Gold. Auch waren die Angeln an der Tür am Hause inwendig, im Allerheiligsten, und an der Tür des Hauses des Tempels golden.",
+      "zh": "与精金的杯、盘、镊子、调羹、火鼎，以及至圣所、内殿的门枢，和外殿的门枢。",
+      "ja": "純金の盆と剪刀と鉢と皿と滅燈器と至聖所なる内の家の戸のため及び拝殿なる家の戸のためなる金の肘鈕是なり"
+    },
+    {
+      "number": 51,
+      "ko": "솔로몬 왕이 여호와의 성전을 위하여 만드는 모든 일을 마친지라 이에 솔로몬이 그의 아버지 다윗이 드린 물건 곧 은과 금과 기구들을 가져다가 여호와의 성전 곳간에 두었더라",
+      "en": "When all the work King Solomon had done for the temple of the LORD was finished, he brought in the things his father David had dedicated--the silver and gold and the furnishings--and he placed them in the treasuries of the LORD'S temple.",
+      "de": "Also ward vollendet alles Werk, das der König Salomo machte am Hause des HERRN. Und Salomo brachte hinein, was sein Vater David geheiligt hatte von Silber und Gold und Gefäßen, und legte es in den Schatz des Hauses des HERRN.",
+      "zh": "所罗门王做完了耶和华殿的一切工，就把他父大卫分别为圣的金银和器皿都带来放在耶和华殿的府库里。",
+      "ja": "斯ソロモン王のヱホバの家のために爲る諸の細工終れり是においてソロモン其父ダビデが奉納めたる物即ち金銀および器を携へいりてヱホバの家の寳物の中に置り"
+    }
+  ]
+}

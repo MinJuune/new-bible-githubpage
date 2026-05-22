@@ -1,0 +1,326 @@
+{
+  "book": "John",
+  "chapter": 18,
+  "verses": [
+    {
+      "number": 1,
+      "ko": "예수께서 이 말씀을 하시고 제자들과 함께 기드론 시내 건너편으로 나가시니 그 곳에 동산이 있는데 제자들과 함께 들어가시니라",
+      "en": "When he had finished praying, Jesus left with his disciples and crossed the Kidron Valley. On the other side there was an olive grove, and he and his disciples went into it.",
+      "de": "Da Jesus solches geredet hatte, ging er hinaus mit seinen Jüngern über den Bach Kidron; da war ein Garten, darein ging Jesus und seine Jünger.",
+      "zh": "耶稣说了这话，就同门徒出去，过了汲沦溪。在那里有一个园子，他和门徒进去了。",
+      "ja": "イエスはこれらのことを話し終えられると、弟子たちとともに、ケデロンの川筋の向こう側に出て行かれた。そこに園があって、イエスは弟子たちといっしょに、そこにはいられた。"
+    },
+    {
+      "number": 2,
+      "ko": "그 곳은 가끔 예수께서 제자들과 모이시는 곳이므로 예수를 파는 유다도 그 곳을 알더라",
+      "en": "Now Judas, who betrayed him, knew the place, because Jesus had often met there with his disciples.",
+      "de": "Judas aber, der ihn verriet, wußte den Ort auch; denn Jesus versammelte sich oft daselbst mit seinen Jüngern.",
+      "zh": "卖耶稣的犹大也知道那地方，因为耶稣和门徒屡次上那里去聚集。",
+      "ja": "ところで、イエスを裏切ろうとしていたユダもその場所を知っていた。イエスがたびたび弟子たちとそこで会合されたからである。"
+    },
+    {
+      "number": 3,
+      "ko": "유다가 군대와 대제사장들과 바리새인들에게서 얻은 아랫사람들을 데리고 등과 횃불과 무기를 가지고 그리로 오는지라",
+      "en": "So Judas came to the grove, guiding a detachment of soldiers and some officials from the chief priests and Pharisees. They were carrying torches, lanterns and weapons.",
+      "de": "Da nun Judas zu sich hatte genommen die Schar und der Hohenpriester und Pharisäer Diener, kommt er dahin mit Fackeln, Lampen und mit Waffen.",
+      "zh": "犹大领了一队兵，和祭司长并法利赛人的差役，拿着灯笼、火把、兵器，就来到园里。",
+      "ja": "そこで、ユダは一隊の兵士と、祭司長、パリサイ人たちから送られた役人たちを引き連れて、ともしびとたいまつと武器を持って、そこに来た。"
+    },
+    {
+      "number": 4,
+      "ko": "예수께서 그 당할 일을 다 아시고 나아가 이르시되 너희가 누구를 찾느냐",
+      "en": "Jesus, knowing all that was going to happen to him, went out and asked them, \"Who is it you want?\"",
+      "de": "Wie nun Jesus wußte alles, was ihm begegnen sollte, ging er hinaus und sprach zu ihnen: Wen suchet ihr?",
+      "zh": "耶稣知道将要临到自己的一切事，就出来对他们说：「你们找谁？」",
+      "ja": "イエスは自分の身に起ころうとするすべてのことを知っておられたので、出て来て、「だれを捜すのか。」と彼らに言われた。"
+    },
+    {
+      "number": 5,
+      "ko": "대답하되 나사렛 예수라 하거늘 이르시되 내가 그니라 하시니라 그를 파는 유다도 그들과 함께 섰더라",
+      "en": "\"Jesus of Nazareth,\" they replied. \"I am he,\" Jesus said. (And Judas the traitor was standing there with them.)",
+      "de": "Sie antworteten ihm: Jesum von Nazareth. Jesus spricht zu ihnen: Ich bin's! Judas aber, der ihn verriet, stand auch bei ihnen.",
+      "zh": "他们回答说：「找拿撒勒人耶稣。」耶稣说：「我就是！」卖他的犹大也同他们站在那里。",
+      "ja": "彼らは、「ナザレ人イエスを。」と答えた。イエスは彼らに「それはわたしです。」と言われた。イエスを裏切ろうとしていたユダも彼らといっしょに立っていた。"
+    },
+    {
+      "number": 6,
+      "ko": "예수께서 그들에게 내가 그니라 하실 때에 그들이 물러가서 땅에 엎드러지는지라",
+      "en": "When Jesus said, \"I am he,\" they drew back and fell to the ground.",
+      "de": "Als nun Jesus zu ihnen sprach: Ich bin's! wichen sie zurück und fielen zu Boden.",
+      "zh": "耶稣一说「我就是」，他们就退后倒在地上。",
+      "ja": "イエスが彼らに、「それはわたしです。」と言われたとき、彼らはあとずさりし、そして地に倒れた。"
+    },
+    {
+      "number": 7,
+      "ko": "이에 다시 누구를 찾느냐고 물으신대 그들이 말하되 나사렛 예수라 하거늘",
+      "en": "Again he asked them, \"Who is it you want?\" And they said, \"Jesus of Nazareth.\"",
+      "de": "Da fragte er sie abermals: Wen suchet ihr? Sie sprachen: Jesum von Nazareth.",
+      "zh": "他又问他们说：「你们找谁？」他们说：「找拿撒勒人耶稣。」",
+      "ja": "そこで、イエスがもう一度、「だれを捜すのか。」と問われると、彼らは「ナザレ人イエスを。」と言った。"
+    },
+    {
+      "number": 8,
+      "ko": "예수께서 대답하시되 너희에게 내가 그니라 하였으니 나를 찾거든 이 사람들이 가는 것은 용납하라 하시니",
+      "en": "\"I told you that I am he,\" Jesus answered. \"If you are looking for me, then let these men go.\"",
+      "de": "Jesus antwortete: Ich habe euch gesagt, daß ich es sei. Suchet ihr denn mich, so lasset diese gehen!",
+      "zh": "耶稣说：「我已经告诉你们，我就是。你们若找我，就让这些人去吧。」",
+      "ja": "イエスは答えられた。「それはわたしだと、あなたがたに言ったでしょう。もしわたしを捜しているのなら、この人たちはこのままで去らせなさい。」"
+    },
+    {
+      "number": 9,
+      "ko": "이는 아버지께서 내게 주신 자 중에서 하나도 잃지 아니하였사옵나이다 하신 말씀을 응하게 하려 함이러라",
+      "en": "This happened so that the words he had spoken would be fulfilled: \"I have not lost one of those you gave me.\"",
+      "de": "(Auf daß das Wort erfüllet würde, welches er sagte: Ich habe der keinen verloren, die du mir gegeben hast.)",
+      "zh": "这要应验耶稣从前的话，说：「你所赐给我的人，我没有失落一个。」",
+      "ja": "それは、「あなたがわたしに下さった者のうち、ただのひとりをも失いませんでした。」とイエスが言われたことばが実現するためであった。"
+    },
+    {
+      "number": 10,
+      "ko": "이에 시몬 베드로가 칼을 가졌는데 그것을 빼어 대제사장의 종을 쳐서 오른편 귀를 베어버리니 그 종의 이름은 말고라",
+      "en": "Then Simon Peter, who had a sword, drew it and struck the high priest's servant, cutting off his right ear. (The servant's name was Malchus.)",
+      "de": "Da hatte Simon Petrus ein Schwert und zog es aus und schlug nach des Hohenpriesters Knecht und hieb ihm sein rechtes Ohr ab. Und der Knecht hieß Malchus.",
+      "zh": "西门·彼得带着一把刀，就拔出来，将大祭司的仆人砍了一刀，削掉他的右耳；那仆人名叫马勒古。",
+      "ja": "シモン・ペテロは、剣を持っていたが、それを抜き、大祭司のしもべを撃ち、右の耳を切り落とした。そのしもべの名はマルコスであった。"
+    },
+    {
+      "number": 11,
+      "ko": "예수께서 베드로더러 이르시되 칼을 칼집에 꽂으라 아버지께서 주신 잔을 내가 마시지 아니하겠느냐 하시니라",
+      "en": "Jesus commanded Peter, \"Put your sword away! Shall I not drink the cup the Father has given me?\"",
+      "de": "Da sprach Jesus zu Petrus: Stecke dein Schwert in die Scheide! Soll ich den Kelch nicht trinken, den mir mein Vater gegeben hat?",
+      "zh": "耶稣就对彼得说：「收刀入鞘吧，我父所给我的那杯，我岂可不喝呢？」",
+      "ja": "そこで、イエスはペテロに言われた。「剣をさやに収めなさい。父がわたしに下さった杯を、どうして飲まずにいられよう。」"
+    },
+    {
+      "number": 12,
+      "ko": "이에 군대와 천부장과 유대인의 아랫사람들이 예수를 잡아 결박하여",
+      "en": "Then the detachment of soldiers with its commander and the Jewish officials arrested Jesus. They bound him",
+      "de": "Die Schar aber und der Oberhauptmann und die Diener der Juden nahmen Jesum und banden ihn",
+      "zh": "那队兵和千夫长，并犹太人的差役就拿住耶稣，把他捆绑了，",
+      "ja": "そこで、一隊の兵士と千人隊長、それにユダヤ人から送られた役人たちは、イエスを捕えて縛り、"
+    },
+    {
+      "number": 13,
+      "ko": "먼저 안나스에게로 끌고 가니 안나스는 그 해의 대제사장인 가야바의 장인이라",
+      "en": "and brought him first to Annas, who was the father-in-law of Caiaphas, the high priest that year.",
+      "de": "und führten ihn zuerst zu Hannas; der war des Kaiphas Schwiegervater, welcher des Jahres Hoherpriester war.",
+      "zh": "先带到亚那面前，因为亚那是本年作大祭司该亚法的岳父。",
+      "ja": "まずアンナスのところに連れて行った。彼がその年の大祭司カヤパのしゅうとだったからである。"
+    },
+    {
+      "number": 14,
+      "ko": "가야바는 유대인들에게 한 사람이 백성을 위하여 죽는 것이 유익하다고 권고하던 자러라",
+      "en": "Caiaphas was the one who had advised the Jews that it would be good if one man died for the people.",
+      "de": "Es war aber Kaiphas, der den Juden riet, es wäre gut, daß EIN Mensch würde umgebracht für das Volk.",
+      "zh": "这该亚法就是从前向犹太人发议论说「一个人替百姓死是有益的」那位。",
+      "ja": "カヤパは、ひとりの人が民に代わって死ぬことが得策である、とユダヤ人に助言した人である。"
+    },
+    {
+      "number": 15,
+      "ko": "시몬 베드로와 또 다른 제자 한 사람이 예수를 따르니 이 제자는 대제사장과 아는 사람이라 예수와 함께 대제사장의 집 뜰에 들어가고",
+      "en": "Simon Peter and another disciple were following Jesus. Because this disciple was known to the high priest, he went with Jesus into the high priest's courtyard,",
+      "de": "Simon Petrus aber folgte Jesu nach und ein anderer Jünger. Dieser Jünger war den Hohenpriestern bekannt und ging mit Jesu hinein in des Hohenpriesters Palast.",
+      "zh": "西门·彼得跟着耶稣，还有一个门徒跟着。那门徒是大祭司所认识的，他就同耶稣进了大祭司的院子。",
+      "ja": "シモン・ペテロともうひとりの弟子は、イエスについて行った。この弟子は大祭司の知り合いで、イエスといっしょに大祭司の中庭にはいった。"
+    },
+    {
+      "number": 16,
+      "ko": "베드로는 문 밖에 서 있는지라 대제사장을 아는 그 다른 제자가 나가서 문 지키는 여자에게 말하여 베드로를 데리고 들어오니",
+      "en": "but Peter had to wait outside at the door. The other disciple, who was known to the high priest, came back, spoke to the girl on duty there and brought Peter in.",
+      "de": "Petrus aber stand draußen vor der Tür. Da ging der andere Jünger, der dem Hohenpriester bekannt war, hinaus und redete mit der Türhüterin und führte Petrus hinein.",
+      "zh": "彼得却站在门外。大祭司所认识的那个门徒出来，和看门的使女说了一声，就领彼得进去。",
+      "ja": "しかし、ペテロは外で門のところに立っていた。それで、大祭司の知り合いである、もうひとりの弟子が出て来て、門番の女に話して、ペテロを連れてはいった。"
+    },
+    {
+      "number": 17,
+      "ko": "문 지키는 여종이 베드로에게 말하되 너도 이 사람의 제자 중 하나가 아니냐 하니 그가 말하되 나는 아니라 하고",
+      "en": "\"You are not one of his disciples, are you?\" the girl at the door asked Peter. He replied, \"I am not.\"",
+      "de": "Da sprach die Magd, die Türhüterin, zu Petrus: Bist du nicht auch dieses Menschen Jünger einer? Er sprach: Ich bin's nicht.",
+      "zh": "那看门的使女对彼得说：「你不也是这人的门徒吗？」他说：「我不是。」",
+      "ja": "すると、門番のはしためがペテロに、「あなたもあの人の弟子ではないでしょうね。」と言った。ペテロは、「そんな者ではない。」と言った。"
+    },
+    {
+      "number": 18,
+      "ko": "그 때가 추운 고로 종과 아랫사람들이 불을 피우고 서서 쬐니 베드로도 함께 서서 쬐더라",
+      "en": "It was cold, and the servants and officials stood around a fire they had made to keep warm. Peter also was standing with them, warming himself.",
+      "de": "Es standen aber die Knechte und Diener und hatten ein Kohlenfeuer gemacht, denn es war kalt, und wärmten sich. Petrus aber stand bei ihnen und wärmte sich.",
+      "zh": "仆人和差役因为天冷，就生了炭火，站在那里烤火；彼得也同他们站着烤火。",
+      "ja": "寒かったので、しもべたちや役人たちは、炭火をおこし、そこに立って暖まっていた。ペテロも彼らといっしょに、立って暖まっていた。"
+    },
+    {
+      "number": 19,
+      "ko": "대제사장이 예수에게 그의 제자들과 그의 교훈에 대하여 물으니",
+      "en": "Meanwhile, the high priest questioned Jesus about his disciples and his teaching.",
+      "de": "Aber der Hohepriester fragte Jesum um seine Jünger und um seine Lehre.",
+      "zh": "大祭司就以耶稣的门徒和他的教训盘问他。",
+      "ja": "そこで、大祭司はイエスに、弟子たちのこと、また、教えのことについて尋問した。"
+    },
+    {
+      "number": 20,
+      "ko": "예수께서 대답하시되 내가 드러내 놓고 세상에 말하였노라 모든 유대인들이 모이는 회당과 성전에서 항상 가르쳤고 은밀하게는 아무 것도 말하지 아니하였거늘",
+      "en": "\"I have spoken openly to the world,\" Jesus replied. \"I always taught in synagogues or at the temple, where all the Jews come together. I said nothing in secret.",
+      "de": "Jesus antwortete ihm: Ich habe frei öffentlich geredet vor der Welt; ich habe allezeit gelehrt in der Schule und in dem Tempel, da alle Juden zusammenkommen, und habe nichts im Verborgenen geredet.",
+      "zh": "耶稣回答说：「我从来是明明地对世人说话。我常在会堂和殿里，就是犹太人聚集的地方教训人；我在暗地里并没有说什么。",
+      "ja": "イエスは彼に答えられた。「わたしは世に向かって公然と話しました。わたしはユダヤ人がみな集まって来る会堂や宮で、いつも教えたのです。隠れて話したことは何もありません。"
+    },
+    {
+      "number": 21,
+      "ko": "어찌하여 내게 묻느냐 내가 무슨 말을 하였는지 들은 자들에게 물어 보라 그들이 내가 하던 말을 아느니라",
+      "en": "Why question me? Ask those who heard me. Surely they know what I said.\"",
+      "de": "Was fragst du mich darum? Frage die darum, die gehört haben, was ich zu ihnen geredet habe; siehe, diese wissen, was ich gesagt habe.",
+      "zh": "你为什么问我呢？可以问那听见的人，我对他们说的是什么；我所说的，他们都知道。」",
+      "ja": "なぜ、あなたはわたしに尋ねるのですか。わたしが人々に何を話したかは、わたしから聞いた人たちに尋ねなさい。彼らならわたしが話した事がらを知っています。」"
+    },
+    {
+      "number": 22,
+      "ko": "이 말씀을 하시매 곁에 섰던 아랫사람 하나가 손으로 예수를 쳐 이르되 네가 대제사장에게 이같이 대답하느냐 하니",
+      "en": "When Jesus said this, one of the officials nearby struck him in the face. \"Is this the way you answer the high priest?\" he demanded.",
+      "de": "Als er aber solches redete, gab der Diener einer, die dabeistanden, Jesu einen Backenstreich und sprach: Sollst du dem Hohenpriester also antworten?",
+      "zh": "耶稣说了这话，旁边站着的一个差役用手掌打他，说：「你这样回答大祭司吗？」",
+      "ja": "イエスがこう言われたとき、そばに立っていた役人のひとりが、「大祭司にそのような答え方をするのか。」と言って、平手でイエスを打った。"
+    },
+    {
+      "number": 23,
+      "ko": "예수께서 대답하시되 내가 말을 잘못하였으면 그 잘못한 것을 증언하라 바른 말을 하였으면 네가 어찌하여 나를 치느냐 하시더라",
+      "en": "\"If I said something wrong,\" Jesus replied, \"testify as to what is wrong. But if I spoke the truth, why did you strike me?\"",
+      "de": "Jesus antwortete: Habe ich übel geredet, so beweise es, daß es böse sei; habe ich aber recht geredet, was schlägst du mich?",
+      "zh": "耶稣说：「我若说的不是，你可以指证那不是；我若说的是，你为什么打我呢？」",
+      "ja": "イエスは彼に答えられた。「もしわたしの言ったことが悪いなら、その悪い証拠を示しなさい。しかし、もし正しいなら、なぜ、わたしを打つのか。」"
+    },
+    {
+      "number": 24,
+      "ko": "안나스가 예수를 결박한 그대로 대제사장 가야바에게 보내니라",
+      "en": "Then Annas sent him, still bound, to Caiaphas the high priest.",
+      "de": "Und Hannas sandte ihn gebunden zu dem Hohenpriester Kaiphas.",
+      "zh": "亚那就把耶稣解到大祭司该亚法那里，仍是捆着解去的。",
+      "ja": "アンナスはイエスを、縛ったままで大祭司カヤパのところに送った。"
+    },
+    {
+      "number": 25,
+      "ko": "시몬 베드로가 서서 불을 쬐더니 사람들이 묻되 너도 그 제자 중 하나가 아니냐 베드로가 부인하여 이르되 나는 아니라 하니",
+      "en": "As Simon Peter stood warming himself, he was asked, \"You are not one of his disciples, are you?\" He denied it, saying, \"I am not.\"",
+      "de": "Simon Petrus aber stand und wärmte sich. Da sprachen sie zu ihm: Bist du nicht seiner Jünger einer? Er leugnete aber und sprach: Ich bin's nicht!",
+      "zh": "西门·彼得正站着烤火，有人对他说：「你不也是他的门徒吗？」彼得不承认，说：「我不是。」",
+      "ja": "一方、シモン・ペテロは立って、暖まっていた。すると、人々は彼に言った。「あなたもあの人の弟子ではないでしょうね。」ペテロは否定して、「そんな者ではない。」と言った。"
+    },
+    {
+      "number": 26,
+      "ko": "대제사장의 종 하나는 베드로에게 귀를 잘린 사람의 친척이라 이르되 네가 그 사람과 함께 동산에 있는 것을 내가 보지 아니하였느냐",
+      "en": "One of the high priest's servants, a relative of the man whose ear Peter had cut off, challenged him, \"Didn't I see you with him in the olive grove?\"",
+      "de": "Spricht einer von des Hohenpriesters Knechten, ein Gefreunder des, dem Petrus ein Ohr abgehauen hatte: Sah ich dich nicht im Garten bei Ihm?",
+      "zh": "有大祭司的一个仆人，是彼得削掉耳朵那人的亲属，说：「我不是看见你同他在园子里吗？」",
+      "ja": "大祭司のしもべのひとりで、ペテロに耳を切り落とされた人の親類に当たる者が言った。「私が見なかったとでもいうのですか。あなたは園であの人といっしょにいました。」"
+    },
+    {
+      "number": 27,
+      "ko": "이에 베드로가 또 부인하니 곧 닭이 울더라",
+      "en": "Again Peter denied it, and at that moment a rooster began to crow.",
+      "de": "Da leugnete Petrus abermals, und alsbald krähte der Hahn.",
+      "zh": "彼得又不承认。立时鸡就叫了。",
+      "ja": "それで、ペテロはもう一度否定した。するとすぐ鶏が鳴いた。"
+    },
+    {
+      "number": 28,
+      "ko": "그들이 예수를 가야바에게서 관정으로 끌고 가니 새벽이라 그들은 더럽힘을 받지 아니하고 유월절 잔치를 먹고자 하여 관정에 들어가지 아니하더라",
+      "en": "Then the Jews led Jesus from Caiaphas to the palace of the Roman governor. By now it was early morning, and to avoid ceremonial uncleanness the Jews did not enter the palace; they wanted to be able to eat the Passover.",
+      "de": "Da führten sie Jesum von Kaiphas vor das Richthaus. Und es war früh; und sie gingen nicht in das Richthaus, auf das sie nicht unrein würden, sondern Ostern essen möchten.",
+      "zh": "众人将耶稣从该亚法那里往衙门内解去，那时天还早。他们自己却不进衙门，恐怕染了污秽，不能吃逾越节的筵席。",
+      "ja": "さて、彼らはイエスを、カヤパのところから総督官邸に連れて行った。時は明け方であった。彼らは、過越の食事が食べられなくなることのないように、汚れを受けまいとして、官邸にはいらなかった。"
+    },
+    {
+      "number": 29,
+      "ko": "그러므로 빌라도가 밖으로 나가서 그들에게 말하되 너희가 무슨 일로 이 사람을 고발하느냐",
+      "en": "So Pilate came out to them and asked, \"What charges are you bringing against this man?\"",
+      "de": "Da ging Pilatus zu ihnen heraus und sprach: Was bringet ihr für Klage wider diesen Menschen?",
+      "zh": "彼拉多就出来，到他们那里，说：「你们告这人是为什么事呢？」",
+      "ja": "そこで、ピラトは彼らのところに出て来て言った。「あなたがたは、この人に対して何を告発するのですか。」"
+    },
+    {
+      "number": 30,
+      "ko": "대답하여 이르되 이 사람이 행악자가 아니었더라면 우리가 당신에게 넘기지 아니하였겠나이다",
+      "en": "\"If he were not a criminal,\" they replied, \"we would not have handed him over to you.\"",
+      "de": "Sie antworteten und sprachen zu ihm: Wäre dieser nicht ein Übeltäter, wir hätten dir ihn nicht überantwortet.",
+      "zh": "他们回答说：「这人若不是作恶的，我们就不把他交给你。」",
+      "ja": "彼らはピラトに答えた。「もしこの人が悪いことをしていなかったら、私たちはこの人をあなたに引き渡しはしなかったでしょう。」"
+    },
+    {
+      "number": 31,
+      "ko": "빌라도가 이르되 너희가 그를 데려다가 너희 법대로 재판하라 유대인들이 이르되 우리에게는 사람을 죽이는 권한이 없나이다 하니",
+      "en": "Pilate said, \"Take him yourselves and judge him by your own law.\" \"But we have no right to execute anyone,\" the Jews objected.",
+      "de": "Da sprach Pilatus zu ihnen: So nehmet ihr ihn hin und richtet ihn nach eurem Gesetz. Da sprachen die Juden zu ihm: Wir dürfen niemand töten.",
+      "zh": "彼拉多说：「你们自己带他去，按着你们的律法审问他吧。」犹太人说：「我们没有杀人的权柄。」",
+      "ja": "そこでピラトは彼らに言った。「あなたがたがこの人を引き取り、自分たちの律法に従ってさばきなさい。」ユダヤ人たちは彼に言った。「私たちには、だれを死刑にすることも許されてはいません。」"
+    },
+    {
+      "number": 32,
+      "ko": "이는 예수께서 자기가 어떠한 죽음으로 죽을 것을 가리켜 하신 말씀을 응하게 하려 함이러라",
+      "en": "This happened so that the words Jesus had spoken indicating the kind of death he was going to die would be fulfilled.",
+      "de": "(Auf das erfüllet würde das Wort Jesu, welches er sagte, da er deutete, welches Todes er sterben würde.)",
+      "zh": "这要应验耶稣所说自己将要怎样死的话了。",
+      "ja": "これは、ご自分がどのような死に方をされるのかを示して話されたイエスのことばが成就するためであった。"
+    },
+    {
+      "number": 33,
+      "ko": "이에 빌라도가 다시 관정에 들어가 예수를 불러 이르되 네가 유대인의 왕이냐",
+      "en": "Pilate then went back inside the palace, summoned Jesus and asked him, \"Are you the king of the Jews?\"",
+      "de": "Da ging Pilatus wieder hinein ins Richthaus und rief Jesus und sprach zu ihm: Bist du der Juden König?",
+      "zh": "彼拉多又进了衙门，叫耶稣来，对他说：「你是犹太人的王吗？」",
+      "ja": "そこで、ピラトはもう一度官邸にはいって、イエスを呼んで言った。「あなたは、ユダヤ人の王ですか。」"
+    },
+    {
+      "number": 34,
+      "ko": "예수께서 대답하시되 이는 네가 스스로 하는 말이냐 다른 사람들이 나에 대하여 네게 한 말이냐",
+      "en": "\"Is that your own idea,\" Jesus asked, \"or did others talk to you about me?\"",
+      "de": "Jesus antwortete: Redest du das von dir selbst, oder haben's dir andere von mir gesagt?",
+      "zh": "耶稣回答说：「这话是你自己说的，还是别人论我对你说的呢？」",
+      "ja": "イエスは答えられた。「あなたは、自分でそのことを言っているのですか。それともほかの人が、あなたにわたしのことを話したのですか。」"
+    },
+    {
+      "number": 35,
+      "ko": "빌라도가 대답하되 내가 유대인이냐 네 나라 사람과 대제사장들이 너를 내게 넘겼으니 네가 무엇을 하였느냐",
+      "en": "\"Am I a Jew?\" Pilate replied. \"It was your people and your chief priests who handed you over to me. What is it you have done?\"",
+      "de": "Pilatus antwortete: Bin ich ein Jude? Dein Volk und die Hohenpriester haben dich mir überantwortet. Was hast du getan?",
+      "zh": "彼拉多说：「我岂是犹太人呢？你本国的人和祭司长把你交给我。你做了什么事呢？」",
+      "ja": "ピラトは答えた。「私はユダヤ人ではないでしょう。あなたの同国人と祭司長たちが、あなたを私に引き渡したのです。あなたは何をしたのですか。」"
+    },
+    {
+      "number": 36,
+      "ko": "예수께서 대답하시되 내 나라는 이 세상에 속한 것이 아니니라 만일 내 나라가 이 세상에 속한 것이었더라면 내 종들이 싸워 나로 유대인들에게 넘겨지지 않게 하였으리라 이제 내 나라는 여기에 속한 것이 아니니라",
+      "en": "Jesus said, \"My kingdom is not of this world. If it were, my servants would fight to prevent my arrest by the Jews. But now my kingdom is from another place.\"",
+      "de": "Jesus antwortete: Mein Reich ist nicht von dieser Welt. Wäre mein Reich von dieser Welt, meine Diener würden kämpfen, daß ich den Juden nicht überantwortet würde; aber nun ist mein Reich nicht von dannen.",
+      "zh": "耶稣回答说：「我的国不属这世界；我的国若属这世界，我的臣仆必要争战，使我不至于被交给犹太人。只是我的国不属这世界。」",
+      "ja": "イエスは答えられた。「わたしの国はこの世のものではありません。もしこの世のものであったなら、わたしのしもべたちが、わたしをユダヤ人に渡さないように、戦ったことでしょう。しかし、事実、わたしの国はこの世のものではありません。」"
+    },
+    {
+      "number": 37,
+      "ko": "빌라도가 이르되 그러면 네가 왕이 아니냐 예수께서 대답하시되 네 말과 같이 내가 왕이니라 내가 이를 위하여 태어났으며 이를 위하여 세상에 왔나니 곧 진리에 대하여 증언하려 함이로라 무릇 진리에 속한 자는 내 음성을 듣느니라 하신대",
+      "en": "\"You are a king, then!\" said Pilate. Jesus answered, \"You are right in saying I am a king. In fact, for this reason I was born, and for this I came into the world, to testify to the truth. Everyone on the side of truth listens to me.\"",
+      "de": "Da sprach Pilatus zu ihm: So bist du dennoch ein König? Jesus antwortete: Du sagst es, ich bin ein König. Ich bin dazu geboren und in die Welt gekommen, daß ich für die Wahrheit zeugen soll. Wer aus der Wahrheit ist, der höret meine Stimme.",
+      "zh": "彼拉多就对他说：「这样，你是王吗？」耶稣回答说：「你说我是王。我为此而生，也为此来到世间，特为给真理作见证。凡属真理的人就听我的话。」",
+      "ja": "そこでピラトはイエスに言った。「それでは、あなたは王なのですか。」イエスは答えられた。「わたしが王であることは、あなたが言うとおりです。わたしは、真理のあかしをするために生まれ、このことのために世に来たのです。真理に属する者はみな、わたしの声に聞き従います。」"
+    },
+    {
+      "number": 38,
+      "ko": "빌라도가 이르되 진리가 무엇이냐 하더라",
+      "en": "\"What is truth?\" Pilate asked. With this he went out again to the Jews and said, \"I find no basis for a charge against him.",
+      "de": "Spricht Pilatus zu ihm: Was ist Wahrheit? Und da er das gesagt, ging er wieder hinaus zu den Juden und spricht zu ihnen: Ich finde keine Schuld an ihm.",
+      "zh": "彼拉多说：「真理是什么呢？」 说了这话，又出来到犹太人那里，对他们说：「我查不出他有什么罪来。",
+      "ja": "ピラトはイエスに言った。「真理とは何ですか。」 彼はこう言ってから、またユダヤ人たちのところに出て行って、彼らに言った。「私は、あの人には罪を認めません。"
+    },
+    {
+      "number": 39,
+      "ko": "유월절이면 내가 너희에게 한 사람을 놓아 주는 전례가 있으니 그러면 너희는 내가 유대인의 왕을 너희에게 놓아 주기를 원하느냐 하니",
+      "en": "But it is your custom for me to release to you one prisoner at the time of the Passover. Do you want me to release 'the king of the Jews'?\"",
+      "de": "Ihr habt aber eine Gewohnheit, daß ich euch einen auf Ostern losgebe; wollt ihr nun, daß ich euch der Juden König losgebe?",
+      "zh": "但你们有个规矩，在逾越节要我给你们释放一个人，你们要我给你们释放犹太人的王吗？」",
+      "ja": "しかし、過越の祭りに、私があなたがたのためにひとりの者を釈放するのがならわしになっています。それで、あなたがたのために、ユダヤ人の王を釈放することにしましょうか。」"
+    },
+    {
+      "number": 40,
+      "ko": "그들이 또 소리 질러 이르되 이 사람이 아니라 바라바라 하니 바라바는 강도였더라",
+      "en": "They shouted back, \"No, not him! Give us Barabbas!\" Now Barabbas had taken part in a rebellion.",
+      "de": "Da schrieen sie wieder allesamt und sprachen: Nicht diesen, sondern Barabbas! Barabbas aber war ein Mörder.",
+      "zh": "他们又喊着说：「不要这人，要巴拉巴！」这巴拉巴是个强盗。",
+      "ja": "すると彼らはみな、また大声をあげて、「この人ではない。バラバだ。」と言った。このバラバは強盗であった。"
+    }
+  ]
+}

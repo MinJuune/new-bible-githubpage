@@ -1,0 +1,230 @@
+{
+  "book": "Proverbs",
+  "chapter": 17,
+  "verses": [
+    {
+      "number": 1,
+      "ko": "마른 떡 한 조각만 있고도 화목하는 것이 제육이 집에 가득하고도 다투는 것보다 나으니라",
+      "en": "Better a dry crust with peace and quiet than a house full of feasting, with strife.",
+      "de": "Es ist ein trockner Bissen, daran man sich genügen läßt, besser denn ein Haus voll Geschlachtetes mit Hader.",
+      "zh": "设筵满屋，大家相争， 不如有块干饼，大家相安。",
+      "ja": "睦じうして一塊の乾けるパンあるは あらそひありて宰れる畜の盈たる家に愈る"
+    },
+    {
+      "number": 2,
+      "ko": "슬기로운 종은 부끄러운 짓을 하는 주인의 아들을 다스리겠고 또 형제들 중에서 유업을 나누어 얻으리라",
+      "en": "A wise servant will rule over a disgraceful son, and will share the inheritance as one of the brothers.",
+      "de": "Ein kluger Knecht wird herrschen über unfleißige Erben und wird unter den Brüdern das Erbe austeilen.",
+      "zh": "仆人办事聪明，必管辖贻羞之子， 又在众子中同分产业。",
+      "ja": "かしこき僕は恥をきたらする子ををさめ 且その子の兄弟の中にありて產業を分ち取る"
+    },
+    {
+      "number": 3,
+      "ko": "도가니는 은을, 풀무는 금을 연단하거니와 여호와는 마음을 연단하시느니라",
+      "en": "The crucible for silver and the furnace for gold, but the LORD tests the heart.",
+      "de": "Wie das Feuer Silber und der Ofen Gold, also prüft der HERR die Herzen.",
+      "zh": "鼎为炼银，炉为炼金； 惟有耶和华熬炼人心。",
+      "ja": "銀を試むる者は坩堝 金を試むる者は鑢 人の心を試むる者はヱホバなり"
+    },
+    {
+      "number": 4,
+      "ko": "악을 행하는 자는 사악한 입술이 하는 말을 잘 듣고 거짓말을 하는 자는 악한 혀가 하는 말에 귀를 기울이느니라",
+      "en": "A wicked man listens to evil lips; a liar pays attention to a malicious tongue.",
+      "de": "Ein Böser achtet auf böse Mäuler, und ein Falscher gehorcht den schädlichen Zungen.",
+      "zh": "行恶的，留心听奸诈之言； 说谎的，侧耳听邪恶之语。",
+      "ja": "惡を行ふものは虚偽のくちびるにきき 虚偽をいふ者はあしき舌に耳を傾ぶく"
+    },
+    {
+      "number": 5,
+      "ko": "가난한 자를 조롱하는 자는 그를 지으신 주를 멸시하는 자요 사람의 재앙을 기뻐하는 자는 형벌을 면하지 못할 자니라",
+      "en": "He who mocks the poor shows contempt for their Maker; whoever gloats over disaster will not go unpunished.",
+      "de": "Wer des Dürftigen spottet, der höhnt desselben Schöpfer; und wer sich über eines andern Unglück freut, der wird nicht ungestraft bleiben.",
+      "zh": "戏笑穷人的，是辱没造他的主； 幸灾乐祸的，必不免受罚。",
+      "ja": "貧人を嘲るものはその造主をあなどるなり 人の災禍を喜ぶものは罪をまぬかれず"
+    },
+    {
+      "number": 6,
+      "ko": "손자는 노인의 면류관이요 아비는 자식의 영화니라",
+      "en": "Children's children are a crown to the aged, and parents are the pride of their children.",
+      "de": "Der Alten Krone sind Kindeskinder, und der Kinder Ehre sind ihre Väter.",
+      "zh": "子孙为老人的冠冕； 父亲是儿女的荣耀。",
+      "ja": "孫は老人の冠弁なり 父は子の榮なり"
+    },
+    {
+      "number": 7,
+      "ko": "지나친 말을 하는 것도 미련한 자에게 합당하지 아니하거든 하물며 거짓말을 하는 것이 존귀한 자에게 합당하겠느냐",
+      "en": "Arrogant lips are unsuited to a fool--how much worse lying lips to a ruler!",
+      "de": "Es steht einem Narren nicht wohl an, von hohen Dingen reden, viel weniger einem Fürsten, daß er gern lügt.",
+      "zh": "愚顽人说美言本不相宜， 何况君王说谎话呢？",
+      "ja": "勝れたる事をいふは愚なる人に適はず 况て虚偽をいふ口唇は君たる者に適はんや"
+    },
+    {
+      "number": 8,
+      "ko": "뇌물은 그 임자가 보기에 보석 같은즉 그가 어디로 향하든지 형통하게 하느니라",
+      "en": "A bribe is a charm to the one who gives it; wherever he turns, he succeeds.",
+      "de": "Wer zu schenken hat, dem ist's ein Edelstein; wo er sich hin kehrt, ist er klug geachtet.",
+      "zh": "贿赂在馈送的人眼中看为宝玉， 随处运动都得顺利。",
+      "ja": "贈物はこれを受る者の目には貴き珠のごとし その向ふところにて凡て幸福を買ふ"
+    },
+    {
+      "number": 9,
+      "ko": "허물을 덮어 주는 자는 사랑을 구하는 자요 그것을 거듭 말하는 자는 친한 벗을 이간하는 자니라",
+      "en": "He who covers over an offense promotes love, but whoever repeats the matter separates close friends.",
+      "de": "Wer Sünde zudeckt, der macht Freundschaft; wer aber die Sache aufrührt, der macht Freunde uneins.",
+      "zh": "遮掩人过的，寻求人爱； 屡次挑错的，离间密友。",
+      "ja": "愛を追求むる者は人の過失をおほふ 人の事を言ひふるる者は朋友をあひ離れしむ"
+    },
+    {
+      "number": 10,
+      "ko": "한 마디 말로 총명한 자에게 충고하는 것이 매 백 대로 미련한 자를 때리는 것보다 더욱 깊이 박히느니라",
+      "en": "A rebuke impresses a man of discernment more than a hundred lashes a fool.",
+      "de": "Schelten bringt mehr ein an dem Verständigen denn hundert Schläge an dem Narren.",
+      "zh": "一句责备话深入聪明人的心， 强如责打愚昧人一百下。",
+      "ja": "一句の誡命の智人に徹るは百囘扑つことの愚なる人に徹るよりも深し"
+    },
+    {
+      "number": 11,
+      "ko": "악한 자는 반역만 힘쓰나니 그러므로 그에게 잔인한 사자가 보냄을 받으리라",
+      "en": "An evil man is bent only on rebellion; a merciless official will be sent against him.",
+      "de": "Ein bitterer Mensch trachtet, eitel Schaden zu tun; aber es wird ein grimmiger Engel über ihn kommen.",
+      "zh": "恶人只寻背叛， 所以必有严厉的使者奉差攻击他。",
+      "ja": "叛きもとる者はただ惡きことのみをもとむ 比故に彼にむかひて殘忍なる使者遣はさる"
+    },
+    {
+      "number": 12,
+      "ko": "차라리 새끼 빼앗긴 암곰을 만날지언정 미련한 일을 행하는 미련한 자를 만나지 말 것이니라",
+      "en": "Better to meet a bear robbed of her cubs than a fool in his folly.",
+      "de": "Es ist besser, einem Bären begegnen, dem die Jungen geraubt sind, denn einem Narren in seiner Narrheit.",
+      "zh": "宁可遇见丢崽子的母熊， 不可遇见正行愚妄的愚昧人。",
+      "ja": "愚なる者の愚妄をなすにあはんよりは寧ろ子をとられたる牝熊にあへ"
+    },
+    {
+      "number": 13,
+      "ko": "누구든지 악으로 선을 갚으면 악이 그 집을 떠나지 아니하리라",
+      "en": "If a man pays back evil for good, evil will never leave his house.",
+      "de": "Wer Gutes mit Bösem vergilt, von dessen Haus wird Böses nicht lassen.",
+      "zh": "以恶报善的， 祸患必不离他的家。",
+      "ja": "惡をもて善に報ゆる者は惡その家を離れじ"
+    },
+    {
+      "number": 14,
+      "ko": "다투는 시작은 둑에서 물이 새는 것 같은즉 싸움이 일어나기 전에 시비를 그칠 것이니라",
+      "en": "Starting a quarrel is like breaching a dam; so drop the matter before a dispute breaks out.",
+      "de": "Wer Hader anfängt, ist gleich dem, der dem Wasser den Damm aufreißt. Laß du vom Hader, ehe du drein gemengt wirst.",
+      "zh": "纷争的起头如水放开， 所以，在争闹之先必当止息争竞。",
+      "ja": "爭端の起源は堤より水をもらすに似たり この故にあらそひの起らざる先にこれを止むべし"
+    },
+    {
+      "number": 15,
+      "ko": "악인을 의롭다 하고 의인을 악하다 하는 이 두 사람은 다 여호와께 미움을 받느니라",
+      "en": "Acquitting the guilty and condemning the innocent--the LORD detests them both.",
+      "de": "Wer den Gottlosen gerechtspricht und den Gerechten verdammt, die sind beide dem HERRN ein Greuel.",
+      "zh": "定恶人为义的，定义人为恶的， 这都为耶和华所憎恶。",
+      "ja": "惡者を義とし義者を惡しとするこの二の者はヱホバに憎まる"
+    },
+    {
+      "number": 16,
+      "ko": "미련한 자는 무지하거늘 손에 값을 가지고 지혜를 사려 함은 어찜인고",
+      "en": "Of what use is money in the hand of a fool, since he has no desire to get wisdom?",
+      "de": "Was soll dem Narren Geld in der Hand, Weisheit zu kaufen, so er doch ein Narr ist?",
+      "zh": "愚昧人既无聪明， 为何手拿价银买智慧呢？",
+      "ja": "愚なる者はすでに心なし何ぞ智慧をかはんとて手にその價の金をもつや"
+    },
+    {
+      "number": 17,
+      "ko": "친구는 사랑이 끊어지지 아니하고 형제는 위급한 때를 위하여 났느니라",
+      "en": "A friend loves at all times, and a brother is born for adversity.",
+      "de": "Ein Freund liebt allezeit, und als ein Bruder wird er in Not erfunden.",
+      "zh": "朋友乃时常亲爱， 弟兄为患难而生。",
+      "ja": "朋友はいづれの時にも愛す 兄弟は危難の時のために生る"
+    },
+    {
+      "number": 18,
+      "ko": "지혜 없는 자는 남의 손을 잡고 그의 이웃 앞에서 보증이 되느니라",
+      "en": "A man lacking in judgment strikes hands in pledge and puts up security for his neighbor.",
+      "de": "Es ist ein Narr, der in die Hand gelobt und Bürge wird für seinen Nächsten.",
+      "zh": "在邻舍面前击掌作保 乃是无知的人。",
+      "ja": "智慧なき人は手を拍てその友の前にて保證をなす"
+    },
+    {
+      "number": 19,
+      "ko": "다툼을 좋아하는 자는 죄과를 좋아하는 자요 자기 문을 높이는 자는 파괴를 구하는 자니라",
+      "en": "He who loves a quarrel loves sin; he who builds a high gate invites destruction.",
+      "de": "Wer Zank liebt, der liebt Sünde; und wer seine Türe hoch macht, ringt nach Einsturz.",
+      "zh": "喜爱争竞的，是喜爱过犯； 高立家门的，乃自取败坏。",
+      "ja": "爭端をこのむ者は罪を好み その門を高くする者は敗壞を求む"
+    },
+    {
+      "number": 20,
+      "ko": "마음이 굽은 자는 복을 얻지 못하고 혀가 패역한 자는 재앙에 빠지느니라",
+      "en": "A man of perverse heart does not prosper; he whose tongue is deceitful falls into trouble.",
+      "de": "Ein verkehrtes Herz findet nichts Gutes; und der verkehrter Zunge ist, wird in Unglück fallen.",
+      "zh": "心存邪僻的，寻不着好处； 舌弄是非的，陷在祸患中。",
+      "ja": "邪曲なる心ある者はさいはひを得ず その舌をみだりにする者はわざはひに陷る"
+    },
+    {
+      "number": 21,
+      "ko": "미련한 자를 낳는 자는 근심을 당하나니 미련한 자의 아비는 낙이 없느니라",
+      "en": "To have a fool for a son brings grief; there is no joy for the father of a fool.",
+      "de": "Wer einen Narren zeugt, der hat Grämen; und eines Narren Vater hat keine Freude.",
+      "zh": "生愚昧子的，必自愁苦； 愚顽人的父毫无喜乐。",
+      "ja": "愚なる者を產むものは自己の憂を生じ 愚なる者の父は喜樂を得ず"
+    },
+    {
+      "number": 22,
+      "ko": "마음의 즐거움은 양약이라도 심령의 근심은 뼈를 마르게 하느니라",
+      "en": "A cheerful heart is good medicine, but a crushed spirit dries up the bones.",
+      "de": "Ein fröhlich Herz macht das Leben lustig; aber ein betrübter Mut vertrocknet das Gebein.",
+      "zh": "喜乐的心乃是良药； 忧伤的灵使骨枯干。",
+      "ja": "心のたのしみは良薬なり 霊魂のうれひは骨を枯す"
+    },
+    {
+      "number": 23,
+      "ko": "악인은 사람의 품에서 뇌물을 받고 재판을 굽게 하느니라",
+      "en": "A wicked man accepts a bribe in secret to pervert the course of justice.",
+      "de": "Der Gottlose nimmt heimlich gern Geschenke, zu beugen den Weg des Rechts.",
+      "zh": "恶人暗中受贿赂， 为要颠倒判断。",
+      "ja": "惡者は人の懐より賄賂をうけて審判の道をまぐ"
+    },
+    {
+      "number": 24,
+      "ko": "지혜는 명철한 자 앞에 있거늘 미련한 자는 눈을 땅 끝에 두느니라",
+      "en": "A discerning man keeps wisdom in view, but a fool's eyes wander to the ends of the earth.",
+      "de": "Ein Verständiger gebärdet sich weise; ein Narr wirft die Augen hin und her.",
+      "zh": "明哲人眼前有智慧； 愚昧人眼望地极。",
+      "ja": "智慧は哲者の面のまへにあり されど愚なる者は目を地の極にそそぐ"
+    },
+    {
+      "number": 25,
+      "ko": "미련한 아들은 그 아비의 근심이 되고 그 어미의 고통이 되느니라",
+      "en": "A foolish son brings grief to his father and bitterness to the one who bore him.",
+      "de": "Ein törichter Sohn ist seines Vaters Trauern und Betrübnis der Mutter, die ihn geboren hat.",
+      "zh": "愚昧子使父亲愁烦， 使母亲忧苦。",
+      "ja": "愚なる子は其父の憂となり 亦これを生る母の煩勞となる"
+    },
+    {
+      "number": 26,
+      "ko": "의인을 벌하는 것과 귀인을 정직하다고 때리는 것은 선하지 못하니라",
+      "en": "It is not good to punish an innocent man, or to flog officials for their integrity.",
+      "de": "Es ist nicht gut, daß man den Gerechten schindet, noch den Edlen zu schlagen, der recht handelt.",
+      "zh": "刑罚义人为不善； 责打君子为不义。",
+      "ja": "義者を罰するは善らず 貴き者をその義きがために扑は善らず"
+    },
+    {
+      "number": 27,
+      "ko": "말을 아끼는 자는 지식이 있고 성품이 냉철한 자는 명철하니라",
+      "en": "A man of knowledge uses words with restraint, and a man of understanding is even-tempered.",
+      "de": "Ein Vernünftiger mäßigt seine Rede; und ein verständiger Mann ist kaltes Muts.",
+      "zh": "寡少言语的，有知识； 性情温良的，有聪明。",
+      "ja": "言を寡くする者は知識あり 心の靜なる者は哲人なり"
+    },
+    {
+      "number": 28,
+      "ko": "미련한 자라도 잠잠하면 지혜로운 자로 여겨지고 그의 입술을 닫으면 슬기로운 자로 여겨지느니라",
+      "en": "Even a fool is thought wise if he keeps silent, and discerning if he holds his tongue.",
+      "de": "Ein Narr, wenn er schwiege, wurde auch für weise gerechnet, und für verständig, wenn er das Maul hielte.",
+      "zh": "愚昧人若静默不言也可算为智慧； 闭口不说也可算为聪明。",
+      "ja": "愚なる者も默するときは智慧ある者と思はれ その口唇を閉るときは哲者とおもはるべし"
+    }
+  ]
+}

@@ -1,0 +1,246 @@
+{
+  "book": "Proverbs",
+  "chapter": 20,
+  "verses": [
+    {
+      "number": 1,
+      "ko": "포도주는 거만하게 하는 것이요 독주는 떠들게 하는 것이라 이에 미혹되는 자마다 지혜가 없느니라",
+      "en": "Wine is a mocker and beer a brawler; whoever is led astray by them is not wise.",
+      "de": "Der Wein macht lose Leute, und starkes Getränk macht wild; wer dazu Lust hat, wird nimmer weise.",
+      "zh": "酒能使人亵慢，浓酒使人喧嚷； 凡因酒错误的，就无智慧。",
+      "ja": "酒は人をして嘲らせ 濃酒は人をして騒がしむ 之に迷はさるる者は無智なり"
+    },
+    {
+      "number": 2,
+      "ko": "왕의 진노는 사자의 부르짖음 같으니 그를 노하게 하는 것은 자기의 생명을 해하는 것이니라",
+      "en": "A king's wrath is like the roar of a lion; he who angers him forfeits his life.",
+      "de": "Das Schrecken des Königs ist wie das Brüllen eines jungen Löwen; wer ihn erzürnt, der sündigt wider sein Leben.",
+      "zh": "王的威吓如同狮子吼叫； 惹动他怒的，是自害己命。",
+      "ja": "王の震怒は獅の吼るがごとし 彼を怒らする者は自己のいのちを害ふ"
+    },
+    {
+      "number": 3,
+      "ko": "다툼을 멀리 하는 것이 사람에게 영광이거늘 미련한 자마다 다툼을 일으키느니라",
+      "en": "It is to a man's honor to avoid strife, but every fool is quick to quarrel.",
+      "de": "Es ist dem Mann eine Ehre, vom Hader bleiben; aber die gern Hadern, sind allzumal Narren.",
+      "zh": "远离纷争是人的尊荣； 愚妄人都爱争闹。",
+      "ja": "穩かに居りて爭はざるは人の榮譽なりすべて愚なる者は怒り爭ふ"
+    },
+    {
+      "number": 4,
+      "ko": "게으른 자는 가을에 밭 갈지 아니하나니 그러므로 거둘 때에는 구걸할지라도 얻지 못하리라",
+      "en": "A sluggard does not plow in season; so at harvest time he looks but finds nothing.",
+      "de": "Um der Kälte willen will der Faule nicht pflügen; so muß er in der Ernte betteln und nichts kriegen.",
+      "zh": "懒惰人因冬寒不肯耕种， 到收割的时候，他必讨饭而无所得。",
+      "ja": "惰者は寒ければとて耕さず この故に収穫のときにおよびて求るとも得るところなし"
+    },
+    {
+      "number": 5,
+      "ko": "사람의 마음에 있는 모략은 깊은 물 같으니라 그럴지라도 명철한 사람은 그것을 길어 내느니라",
+      "en": "The purposes of a man's heart are deep waters, but a man of understanding draws them out.",
+      "de": "Der Rat im Herzen eines Mannes ist wie tiefe Wasser; aber ein Verständiger kann's merken, was er meint.",
+      "zh": "人心怀藏谋略，好像深水， 惟明哲人才能汲引出来。",
+      "ja": "人の心にある謀計は深き井の水のごとし 然れど哲人はこれを汲出す"
+    },
+    {
+      "number": 6,
+      "ko": "많은 사람이 각기 자기의 인자함을 자랑하나니 충성된 자를 누가 만날 수 있으랴",
+      "en": "Many a man claims to have unfailing love, but a faithful man who can find?",
+      "de": "Viele Menschen werden fromm gerühmt; aber wer will finden einen, der rechtschaffen fromm sei?",
+      "zh": "人多述说自己的仁慈， 但忠信人谁能遇着呢？",
+      "ja": "凡そ人は各自おのれの善を誇る されど誰か忠信なる者に遇しぞ"
+    },
+    {
+      "number": 7,
+      "ko": "온전하게 행하는 자가 의인이라 그의 후손에게 복이 있느니라",
+      "en": "The righteous man leads a blameless life; blessed are his children after him.",
+      "de": "Ein Gerechter, der in seiner Frömmigkeit wandelt, des Kindern wird's wohl gehen nach ihm.",
+      "zh": "行为纯正的义人， 他的子孙是有福的！",
+      "ja": "身を正しくして歩履む義人はその後の子孫に福祉あるべし"
+    },
+    {
+      "number": 8,
+      "ko": "심판 자리에 앉은 왕은 그의 눈으로 모든 악을 흩어지게 하느니라",
+      "en": "When a king sits on his throne to judge, he winnows out all evil with his eyes.",
+      "de": "Ein König, der auf seinem Stuhl sitzt, zu richten, zerstreut alles Arge mit seinen Augen.",
+      "zh": "王坐在审判的位上， 以眼目驱散诸恶。",
+      "ja": "審判の位に坐する王はその目をもてすべての惡を散す"
+    },
+    {
+      "number": 9,
+      "ko": "내가 내 마음을 정하게 하였다 내 죄를 깨끗하게 하였다 할 자가 누구냐",
+      "en": "Who can say, \"I have kept my heart pure; I am clean and without sin\"?",
+      "de": "Wer kann sagen: Ich bin rein in meinem Herzen und lauter von meiner Sünde?",
+      "zh": "谁能说，我洁净了我的心， 我脱净了我的罪？",
+      "ja": "たれか我わが心をきよめ わが罪を潔められたりといひ得るや"
+    },
+    {
+      "number": 10,
+      "ko": "한결같지 않은 저울 추와 한결같지 않은 되는 다 여호와께서 미워하시느니라",
+      "en": "Differing weights and differing measures--the LORD detests them both.",
+      "de": "Mancherlei Gewicht und Maß ist beides Greuel dem HERRN.",
+      "zh": "两样的法码，两样的升斗， 都为耶和华所憎恶。",
+      "ja": "二種の權衡二種の斗量は等しくヱホバに憎まる"
+    },
+    {
+      "number": 11,
+      "ko": "비록 아이라도 자기의 동작으로 자기 품행이 청결한 여부와 정직한 여부를 나타내느니라",
+      "en": "Even a child is known by his actions, by whether his conduct is pure and right.",
+      "de": "Auch einen Knaben kennt man an seinem Wesen, ob er fromm und redlich werden will.",
+      "zh": "孩童的动作是清洁，是正直， 都显明他的本性。",
+      "ja": "幼子といへどもその動作によりておのれの根性の清きか或は正しきかをあらはす"
+    },
+    {
+      "number": 12,
+      "ko": "듣는 귀와 보는 눈은 다 여호와께서 지으신 것이니라",
+      "en": "Ears that hear and eyes that see--the LORD has made them both.",
+      "de": "Ein hörend Ohr und sehend Auge, die macht beide der HERR.",
+      "zh": "能听的耳，能看的眼， 都是耶和华所造的。",
+      "ja": "聽くところの耳と視るところの眼とはともにヱホバの造り給へるものなり"
+    },
+    {
+      "number": 13,
+      "ko": "너는 잠자기를 좋아하지 말라 네가 빈궁하게 될까 두려우니라 네 눈을 뜨라 그리하면 양식이 족하리라",
+      "en": "Do not love sleep or you will grow poor; stay awake and you will have food to spare.",
+      "de": "Liebe den Schlaf nicht, daß du nicht arm werdest; laß deine Augen wacker sein, so wirst du Brot genug haben.",
+      "zh": "不要贪睡，免致贫穷； 眼要睁开，你就吃饱。",
+      "ja": "なんぢ睡眠を愛すること勿れ 恐くは貧窮にいたらん 汝の眼をひらけ 然らば糧に飽べし"
+    },
+    {
+      "number": 14,
+      "ko": "물건을 사는 자가 좋지 못하다 좋지 못하다 하다가 돌아간 후에는 자랑하느니라",
+      "en": "\"It's no good, it's no good!\" says the buyer; then off he goes and boasts about his purchase.",
+      "de": "“Böse, böse!” spricht man, wenn man's hat; aber wenn's weg ist, so rühmt man es dann.",
+      "zh": "买物的说：不好，不好； 及至买去，他便自夸。",
+      "ja": "買者はいふ惡し惡しと 然れど去りて後はみづから誇る"
+    },
+    {
+      "number": 15,
+      "ko": "세상에 금도 있고 진주도 많거니와 지혜로운 입술이 더욱 귀한 보배니라",
+      "en": "Gold there is, and rubies in abundance, but lips that speak knowledge are a rare jewel.",
+      "de": "Es gibt Gold und viele Perlen; aber ein vernünftiger Mund ist ein edles Kleinod.",
+      "zh": "有金子和许多珍珠， 惟有知识的嘴乃为贵重的珍宝。",
+      "ja": "金もあり眞珠も多くあれど貴き器は知識のくちびるなり"
+    },
+    {
+      "number": 16,
+      "ko": "타인을 위하여 보증 선 자의 옷을 취하라 외인들을 위하여 보증 선 자는 그의 몸을 볼모 잡을지니라",
+      "en": "Take the garment of one who puts up security for a stranger; hold it in pledge if he does it for a wayward woman.",
+      "de": "Nimm dem sein Kleid, der für einen andern Bürge wird, und pfände ihn um des Fremden willen.",
+      "zh": "谁为生人作保，就拿谁的衣服； 谁为外人作保，谁就要承当。",
+      "ja": "人の保證をなす者よりは先その衣をとれ 他人の保證をなす者をばかたくとらへよ"
+    },
+    {
+      "number": 17,
+      "ko": "속이고 취한 음식물은 사람에게 맛이 좋은 듯하나 후에는 그의 입에 모래가 가득하게 되리라",
+      "en": "Food gained by fraud tastes sweet to a man, but he ends up with a mouth full of gravel.",
+      "de": "Das gestohlene Brot schmeckt dem Manne wohl; aber hernach wird ihm der Mund voll Kieselsteine werden.",
+      "zh": "以虚谎而得的食物，人觉甘甜； 但后来，他的口必充满尘沙。",
+      "ja": "欺きとりし糧は人に甜し されど後にはその口に沙を充されん"
+    },
+    {
+      "number": 18,
+      "ko": "경영은 의논함으로 성취하나니 지략을 베풀고 전쟁할지니라",
+      "en": "Make plans by seeking advice; if you wage war, obtain guidance.",
+      "de": "Anschläge bestehen, wenn man sie mit Rat führt; und Krieg soll man mit Vernunft führen.",
+      "zh": "计谋都凭筹算立定； 打仗要凭智谋。",
+      "ja": "謀計は相議るによりて成る 戰はんとせば先よく議るべし"
+    },
+    {
+      "number": 19,
+      "ko": "두루 다니며 한담하는 자는 남의 비밀을 누설하나니 입술을 벌린 자를 사귀지 말지니라",
+      "en": "A gossip betrays a confidence; so avoid a man who talks too much.",
+      "de": "Sei unverworren mit dem, der Heimlichkeit offenbart, und mit dem Verleumder und mit dem falschen Maul.",
+      "zh": "往来传舌的，泄漏密事； 大张嘴的，不可与他结交。",
+      "ja": "あるきめぐりて人の是非をいふ者は密事をもらす 口唇をひらきてあるくものと交ること勿れ"
+    },
+    {
+      "number": 20,
+      "ko": "자기의 아비나 어미를 저주하는 자는 그의 등불이 흑암 중에 꺼짐을 당하리라",
+      "en": "If a man curses his father or mother, his lamp will be snuffed out in pitch darkness.",
+      "de": "Wer seinem Vater und seiner Mutter flucht, des Leuchte wird verlöschen mitten in der Finsternis.",
+      "zh": "咒骂父母的，他的灯必灭， 变为漆黑的黑暗。",
+      "ja": "おのれの父母を罵るものはその燈火くらやみの中に消ゆべし"
+    },
+    {
+      "number": 21,
+      "ko": "처음에 속히 잡은 산업은 마침내 복이 되지 아니하느니라",
+      "en": "An inheritance quickly gained at the beginning will not be blessed at the end.",
+      "de": "Das Erbe, darnach man zuerst sehr eilt wird zuletzt nicht gesegnet sein.",
+      "zh": "起初速得的产业， 终久却不为福。",
+      "ja": "初に俄に得たる產業はその終さいはひならず"
+    },
+    {
+      "number": 22,
+      "ko": "너는 악을 갚겠다 말하지 말고 여호와를 기다리라 그가 너를 구원하시리라",
+      "en": "Do not say, \"I'll pay you back for this wrong!\" Wait for the LORD, and he will deliver you.",
+      "de": "Sprich nicht: Ich will Böses vergelten! Harre des HERRN, der wird dir helfen.",
+      "zh": "你不要说，我要以恶报恶； 要等候耶和华，他必拯救你。",
+      "ja": "われ惡に報いんと言ふこと勿れ ヱホバを待て 彼なんぢを救はん"
+    },
+    {
+      "number": 23,
+      "ko": "한결같지 않은 저울 추는 여호와께서 미워하시는 것이요 속이는 저울은 좋지 못한 것이니라",
+      "en": "The LORD detests differing weights, and dishonest scales do not please him.",
+      "de": "Mancherlei Gewicht ist ein Greuel dem HERRN, und eine falsche Waage ist nicht gut.",
+      "zh": "两样的法码为耶和华所憎恶； 诡诈的天平也为不善。",
+      "ja": "二種の法馬はヱホバに憎まる 虚偽の權衡は善らず"
+    },
+    {
+      "number": 24,
+      "ko": "사람의 걸음은 여호와로 말미암나니 사람이 어찌 자기의 길을 알 수 있으랴",
+      "en": "A man's steps are directed by the LORD. How then can anyone understand his own way?",
+      "de": "Jedermanns Gänge kommen vom HERRN. Welcher Mensch versteht seinen Weg?",
+      "zh": "人的脚步为耶和华所定； 人岂能明白自己的路呢？",
+      "ja": "人の歩履はヱホバによる 人いかで自らその道を明かにせんや"
+    },
+    {
+      "number": 25,
+      "ko": "함부로 이 물건은 거룩하다 하여 서원하고 그 후에 살피면 그것이 그 사람에게 덫이 되느니라",
+      "en": "It is a trap for a man to dedicate something rashly and only later to consider his vows.",
+      "de": "Es ist dem Menschen ein Strick, sich mit Heiligem übereilen und erst nach den Geloben überlegen.",
+      "zh": "人冒失说，这是圣物， 许愿之后才查问，就是自陷网罗。",
+      "ja": "漫に誓願をたつることは其人の罟となる誓願をたててのちに考ふることも亦然り"
+    },
+    {
+      "number": 26,
+      "ko": "지혜로운 왕은 악인들을 키질하며 타작하는 바퀴를 그들 위에 굴리느니라",
+      "en": "A wise king winnows out the wicked; he drives the threshing wheel over them.",
+      "de": "Ein weiser König zerstreut die Gottlosen und bringt das Rad über sie.",
+      "zh": "智慧的王簸散恶人， 用碌碡滚轧他们。",
+      "ja": "賢き王は箕をもて簸るごとく惡人を散し 車輪をもて碾すごとく之を罰す"
+    },
+    {
+      "number": 27,
+      "ko": "사람의 영혼은 여호와의 등불이라 사람의 깊은 속을 살피느니라",
+      "en": "The lamp of the LORD searches the spirit of a man; it searches out his inmost being.",
+      "de": "Eine Leuchte des HERRN ist des Menschen Geist; die geht durch alle Kammern des Leibes.",
+      "zh": "人的灵是耶和华的灯， 鉴察人的心腹。",
+      "ja": "人の霊魂はヱホバの燈火にして人の心の奧を窺ふ"
+    },
+    {
+      "number": 28,
+      "ko": "왕은 인자와 진리로 스스로 보호하고 그의 왕위도 인자함으로 말미암아 견고하니라",
+      "en": "Love and faithfulness keep a king safe; through love his throne is made secure.",
+      "de": "Fromm und wahrhaftig sein behütet den König, und sein Thron besteht durch Frömmigkeit.",
+      "zh": "王因仁慈和诚实得以保全他的国位， 也因仁慈立稳。",
+      "ja": "王は仁慈と眞實をもて自らたもつ その位もまた恩惠のおこなひによりて堅くなる"
+    },
+    {
+      "number": 29,
+      "ko": "젊은 자의 영화는 그의 힘이요 늙은 자의 아름다움은 백발이니라",
+      "en": "The glory of young men is their strength, gray hair the splendor of the old.",
+      "de": "Der Jünglinge Stärke ist ihr Preis; und graues Haar ist der Alten Schmuck.",
+      "zh": "强壮乃少年人的荣耀； 白发为老年人的尊荣。",
+      "ja": "少者の榮はその力 おいたる者の美しきは白髮なり"
+    },
+    {
+      "number": 30,
+      "ko": "상하게 때리는 것이 악을 없이하나니 매는 사람 속에 깊이 들어가느니라",
+      "en": "Blows and wounds cleanse away evil, and beatings purge the inmost being.",
+      "de": "Man muß dem Bösen wehren mit harter Strafe und mit ernsten Schlägen, die man fühlt.",
+      "zh": "鞭伤除净人的罪恶； 责打能入人的心腹。",
+      "ja": "傷つくまでに打たば惡きところきよまり 打てる鞭は腹の底までもとほる"
+    }
+  ]
+}

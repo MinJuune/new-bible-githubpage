@@ -1,0 +1,350 @@
+{
+  "book": "Exodus",
+  "chapter": 28,
+  "verses": [
+    {
+      "number": 1,
+      "ko": "너는 이스라엘 자손 중 네 형 아론과 그의 아들들 곧 아론과 아론의 아들들 나답과 아비후와 엘르아살과 이다말을 그와 함께 네게로 나아오게 하여 나를 섬기는 제사장 직분을 행하게 하되",
+      "en": "\"Have Aaron your brother brought to you from among the Israelites, along with his sons Nadab and Abihu, Eleazar and Ithamar, so they may serve me as priests.",
+      "de": "Du sollst Aaron, deinen Bruder, und seine Söhne zu dir nehmen aus den Kindern Israel, daß er mein Priester sei, nämlich Aaron und seine Söhne Nadab, Abihu, Eleasar und Ithamar.",
+      "zh": "「你要从以色列人中，使你的哥哥亚伦和他的儿子拿答、亚比户、以利亚撒、以他玛一同就近你，给我供祭司的职分。",
+      "ja": "汝イスラエルの子孫の中より汝の兄弟アロンとその子等すなはちアロンとその子ナダブ、アビウ、エレアザル、イタマルを汝に至らしめて彼をして我にむかひて祭司の職をなさしむべし"
+    },
+    {
+      "number": 2,
+      "ko": "네 형 아론을 위하여 거룩한 옷을 지어 영화롭고 아름답게 할지니",
+      "en": "Make sacred garments for your brother Aaron, to give him dignity and honor.",
+      "de": "Und sollst Aaron, deinen Bruder, heilige Kleider machen, die herrlich und schön seien.",
+      "zh": "你要给你哥哥亚伦做圣衣为荣耀，为华美。",
+      "ja": "汝また汝の兄弟アロンのために聖衣を製りて彼の身に顯榮と榮光あらしむべし"
+    },
+    {
+      "number": 3,
+      "ko": "너는 무릇 마음에 지혜 있는 모든 자 곧 내가 지혜로운 영으로 채운 자들에게 말하여 아론의 옷을 지어 그를 거룩하게 하여 내게 제사장 직분을 행하게 하라",
+      "en": "Tell all the skilled men to whom I have given wisdom in such matters that they are to make garments for Aaron, for his consecration, so he may serve me as priest.",
+      "de": "Und du sollst reden mit allen, die eines weisen Herzens sind, die ich mit dem Geist der Weisheit erfüllt habe, daß sie Aaron Kleider machen zu seiner Weihe, daß er mein Priester sei.",
+      "zh": "又要吩咐一切心中有智慧的，就是我用智慧的灵所充满的，给亚伦做衣服，使他分别为圣，可以给我供祭司的职分。",
+      "ja": "汝凡て心に智慧ある者すなはち我が智慧の霊を充しおきたる者等に語りてアロンの衣服を製しめ之を用てアロンを聖別て我に祭司の職をなさしむべし"
+    },
+    {
+      "number": 4,
+      "ko": "그들이 지을 옷은 이러하니 곧 흉패와 에봇과 겉옷과 반포 속옷과 관과 띠라 그들이 네 형 아론과 그 아들들을 위하여 거룩한 옷을 지어 아론이 내게 제사장 직분을 행하게 하라",
+      "en": "These are the garments they are to make: a breastpiece, an ephod, a robe, a woven tunic, a turban and a sash. They are to make these sacred garments for your brother Aaron and his sons, so they may serve me as priests.",
+      "de": "Das sind aber die Kleider, die sie machen sollen: das Amtschild, den Leibrock, Purpurrock, engen Rock, Hut und Gürtel. Also sollen sie heilige Kleider machen deinem Bruder Aaron und seinen Söhnen, daß er mein Priester sei.",
+      "zh": "所要做的就是胸牌、以弗得、外袍、杂色的内袍、冠冕、腰带，使你哥哥亚伦和他儿子穿这圣服，可以给我供祭司的职分。",
+      "ja": "彼等が製るべき衣服は是なり即ち胸牌エポデ明衣間格の裏衣頭帽および帶彼等汝の兄弟アロンとその子等のために聖衣をつくりて彼をして祭司の職を我にむかひてなすことをえせしむべし"
+    },
+    {
+      "number": 5,
+      "ko": "그들이 쓸 것은 금 실과 청색 자색 홍색 실과 가늘게 꼰 베 실이니라",
+      "en": "Have them use gold, and blue, purple and scarlet yarn, and fine linen.",
+      "de": "Dazu sollen sie nehmen Gold, blauen und roten Purpur, Scharlach und weiße Leinwand.",
+      "zh": "要用金线和蓝色、紫色、朱红色线，并细麻去做。",
+      "ja": "即ち彼等金靑紫紅の糸および麻糸をとりて用ふべし"
+    },
+    {
+      "number": 6,
+      "ko": "그들이 금 실과 청색 자색 홍색 실과 가늘게 꼰 베 실로 정교하게 짜서 에봇을 짓되",
+      "en": "\"Make the ephod of gold, and of blue, purple and scarlet yarn, and of finely twisted linen--the work of a skilled craftsman.",
+      "de": "Den Leibrock sollen sie machen von Gold, blauem und rotem Purpur, Scharlach und gezwirnter weißer Leinwand, kunstreich;",
+      "zh": "「他们要拿金线和蓝色、紫色、朱红色线，并捻的细麻，用巧匠的手工做以弗得。",
+      "ja": "又金靑紫紅の線および麻の撚糸をもて巧にエポデを織なすべし"
+    },
+    {
+      "number": 7,
+      "ko": "그것에 어깨받이 둘을 달아 그 두 끝을 이어지게 하고",
+      "en": "It is to have two shoulder pieces attached to two of its corners, so it can be fastened.",
+      "de": "zwei Schulterstücke soll er haben, die zusammengehen an beiden Enden, und soll zusammengebunden werden.",
+      "zh": "以弗得当有两条肩带，接上两头，使它相连。",
+      "ja": "エポデには二の肩帶をほどこしその兩の端を連ねて之を合すべし"
+    },
+    {
+      "number": 8,
+      "ko": "에봇 위에 매는 띠는 에봇 짜는 법으로 금 실과 청색 자색 홍색 실과 가늘게 꼰 베 실로 에봇에 정교하게 붙여 짤지며",
+      "en": "Its skillfully woven waistband is to be like it--of one piece with the ephod and made with gold, and with blue, purple and scarlet yarn, and with finely twisted linen.",
+      "de": "Und sein Gurt darauf soll derselben Kunst und Arbeit sein, von Gold, blauem und rotem Purpur, Scharlach und gezwirnter weißer Leinwand.",
+      "zh": "其上巧工织的带子，要和以弗得一样的做法，用以束上，与以弗得接连一块，要用金线和蓝色、紫色、朱红色线，并捻的细麻做成。",
+      "ja": "エポデの上にありてこれを束ぬるところの帶はその物同うしてエポデの製のごとくにすべし即ち金靑紫紅の糸および麻の撚糸をもてこれを作るべし"
+    },
+    {
+      "number": 9,
+      "ko": "호마노 두 개를 가져다가 그 위에 이스라엘 아들들의 이름을 새기되",
+      "en": "\"Take two onyx stones and engrave on them the names of the sons of Israel",
+      "de": "Und sollst zwei Onyxsteine nehmen und darauf graben die Namen der Kinder Israel,",
+      "zh": "要取两块红玛瑙，在上面刻以色列儿子的名字：",
+      "ja": "汝二箇の葱珩をとりてその上にイスラエルの子等の名を鐫つくべし"
+    },
+    {
+      "number": 10,
+      "ko": "그들의 나이대로 여섯 이름을 한 보석에, 나머지 여섯 이름은 다른 보석에 새기라",
+      "en": "in the order of their birth--six names on one stone and the remaining six on the other.",
+      "de": "Auf jeglichen sechs Namen, nach der Ordnung ihres Alters.",
+      "zh": "六个名字在这块宝石上，六个名字在那块宝石上，都照他们生来的次序。",
+      "ja": "即ち彼等の誕生にしたがひてその名六を一の玉に鐫りその遺餘の名六を外の玉に鐫べし"
+    },
+    {
+      "number": 11,
+      "ko": "보석을 새기는 자가 도장에 새김 같이 너는 이스라엘 아들들의 이름을 그 두 보석에 새겨 금 테에 물리고",
+      "en": "Engrave the names of the sons of Israel on the two stones the way a gem cutter engraves a seal. Then mount the stones in gold filigree settings",
+      "de": "Das sollst du tun durch die Steinschneider, die da Siegel graben, also daß sie mit Gold umher gefaßt werden.",
+      "zh": "要用刻宝石的手工，仿佛刻图书，按着以色列儿子的名字，刻这两块宝石，要镶在金槽上。",
+      "ja": "玉に雕刻する人の印を刻が如くに汝イスラエルの子等の名をその二の玉に鐫つけその玉を金の槽に嵌べし"
+    },
+    {
+      "number": 12,
+      "ko": "그 두 보석을 에봇의 두 어깨받이에 붙여 이스라엘 아들들의 기념 보석을 삼되 아론이 여호와 앞에서 그들의 이름을 그 두 어깨에 메워서 기념이 되게 할지며",
+      "en": "and fasten them on the shoulder pieces of the ephod as memorial stones for the sons of Israel. Aaron is to bear the names on his shoulders as a memorial before the LORD.",
+      "de": "Und sollst sie auf die Schulterstücke des Leibrocks heften, daß es Steine seien zum Gedächtnis für die Kinder Israel, daß Aaron ihre Namen auf seinen beiden Schultern trage vor dem HERRN zum Gedächtnis.",
+      "zh": "要将这两块宝石安在以弗得的两条肩带上，为以色列人做纪念石。亚伦要在两肩上担他们的名字，在耶和华面前作为纪念。",
+      "ja": "この二の玉をエポデの肩帶の上につけてイスラエルの子等の記念の玉とならしむべし即ちアロン、ヱホバの前において彼等の名をその兩の肩に負て記念とならしむべし"
+    },
+    {
+      "number": 13,
+      "ko": "너는 금으로 테를 만들고",
+      "en": "Make gold filigree settings",
+      "de": "Und sollst goldene Fassungen machen",
+      "zh": "要用金子做二槽，",
+      "ja": "汝金の槽を作るべし"
+    },
+    {
+      "number": 14,
+      "ko": "순금으로 노끈처럼 두 사슬을 땋고 그 땋은 사슬을 그 테에 달지니라",
+      "en": "and two braided chains of pure gold, like a rope, and attach the chains to the settings.",
+      "de": "und zwei Ketten von feinem Golde, mit zwei Enden, aber die Glieder ineinander hangend; und sollst sie an die Fassungen tun.",
+      "zh": "又拿精金，用拧工仿佛拧绳子，做两条链子，把这拧成的链子搭在二槽上。」",
+      "ja": "而して純金を組て紐の如き二箇の鏈を作りその組る鏈をかの槽につくべし"
+    },
+    {
+      "number": 15,
+      "ko": "너는 판결 흉패를 에봇 짜는 방법으로 금 실과 청색 자색 홍색 실과 가늘게 꼰 베 실로 정교하게 짜서 만들되",
+      "en": "\"Fashion a breastpiece for making decisions--the work of a skilled craftsman. Make it like the ephod: of gold, and of blue, purple and scarlet yarn, and of finely twisted linen.",
+      "de": "Das Amtschild sollst du machen nach der Kunst, wie den Leibrock, von Gold, blauem und rotem Purpur, Scharlach und gezwirnter weißer Leinwand.",
+      "zh": "「你要用巧匠的手工做一个决断的胸牌。要和以弗得一样的做法：用金线和蓝色、紫色、朱红色线，并捻的细麻做成。",
+      "ja": "汝また審判の胸牌を巧に織なしエポデの製のごとくに之をつくるべし即ち金靑紫紅の線および麻の撚糸をもてこれを製るべし"
+    },
+    {
+      "number": 16,
+      "ko": "길이와 너비가 한 뼘씩 두 겹으로 네모 반듯하게 하고",
+      "en": "It is to be square--a span long and a span wide--and folded double.",
+      "de": "Viereckig soll es sein und zwiefach; eine Spanne breit soll seine Länge sein und eine Spanne breit seine Breite.",
+      "zh": "这胸牌要四方的，叠为两层，长一虎口，宽一虎口。",
+      "ja": "是は四角にして二重なるべく其長は半キユビトその濶も半キユビトなるべし"
+    },
+    {
+      "number": 17,
+      "ko": "그것에 네 줄로 보석을 물리되 첫 줄은 홍보석 황옥 녹주옥이요",
+      "en": "Then mount four rows of precious stones on it. In the first row there shall be a ruby, a topaz and a beryl;",
+      "de": "Und sollst's füllen die vier Reihen voll Steine. Die erste Reihe sei ein Sarder, Topas, Smaragd;",
+      "zh": "要在上面镶宝石四行：第一行是红宝石、红璧玺、红玉；",
+      "ja": "汝またその中に玉を嵌て玉を四行にすべし即ち赤玉黄玉瑪瑙の一行を第一行とすべし"
+    },
+    {
+      "number": 18,
+      "ko": "둘째 줄은 석류석 남보석 홍마노요",
+      "en": "in the second row a turquoise, a sapphire and an emerald;",
+      "de": "die andere ein Rubin, Saphir, Demant;",
+      "zh": "第二行是绿宝石、蓝宝石、金钢石；",
+      "ja": "第二行は紅玉靑玉金剛石"
+    },
+    {
+      "number": 19,
+      "ko": "셋째 줄은 호박 백마노 자수정이요",
+      "en": "in the third row a jacinth, an agate and an amethyst;",
+      "de": "die dritte ein Lynkurer, Achat, Amethyst;",
+      "zh": "第三行是紫玛瑙、白玛瑙、紫晶；",
+      "ja": "第三行は深紅玉 白瑪瑙 紫玉"
+    },
+    {
+      "number": 20,
+      "ko": "넷째 줄은 녹보석 호마노 벽옥으로 다 금 테에 물릴지니",
+      "en": "in the fourth row a chrysolite, an onyx and a jasper. Mount them in gold filigree settings.",
+      "de": "die vierte ein Türkis, Onyx, Jaspis. In Gold sollen sie gefaßt sein in allen Reihen",
+      "zh": "第四行是水苍玉、红玛瑙、碧玉。这都要镶在金槽中。",
+      "ja": "第四行は黄緑玉 葱珩 碧玉 凡て金の槽の中にこれを嵌べし"
+    },
+    {
+      "number": 21,
+      "ko": "이 보석들은 이스라엘 아들들의 이름대로 열둘이라 보석마다 열두 지파의 한 이름씩 도장을 새기는 법으로 새기고",
+      "en": "There are to be twelve stones, one for each of the names of the sons of Israel, each engraved like a seal with the name of one of the twelve tribes.",
+      "de": "und sollen nach den zwölf Namen der Kinder Israel stehen, gegraben vom Steinschneider, daß auf einem jeglichen ein Namen stehe nach den zwölf Stämmen.",
+      "zh": "这些宝石都要按着以色列十二个儿子的名字，仿佛刻图书，刻十二个支派的名字。",
+      "ja": "その玉はイスラエルの子等の名に循ひその名のごとくにこれを十二にすべし而してその十二の支派の各々の名は印を刻ごとくにこれを鐫つくべし"
+    },
+    {
+      "number": 22,
+      "ko": "순금으로 노끈처럼 땋은 사슬을 흉패 위에 붙이고",
+      "en": "\"For the breastpiece make braided chains of pure gold, like a rope.",
+      "de": "Und sollst Ketten zu dem Schild machen mit zwei Enden, aber die Glieder ineinander hangend, von feinem Golde,",
+      "zh": "要在胸牌上用精金拧成如绳的链子。",
+      "ja": "汝純金を紐のごとくに組たる鏈を胸牌の上につくべし"
+    },
+    {
+      "number": 23,
+      "ko": "또 금 고리 둘을 만들어 흉패 위 곧 흉패 두 끝에 그 두 고리를 달고",
+      "en": "Make two gold rings for it and fasten them to two corners of the breastpiece.",
+      "de": "und zwei goldene Ringe an das Schild, also daß du die zwei Ringe heftest an zwei Ecken des Schildes,",
+      "zh": "在胸牌上也要做两个金环，安在胸牌的两头。",
+      "ja": "また胸牌の上に金の環二箇を作り胸牌の兩の端にその二箇の環をつけ"
+    },
+    {
+      "number": 24,
+      "ko": "땋은 두 금 사슬로 흉패 두 끝 두 고리에 꿰어 매고",
+      "en": "Fasten the two gold chains to the rings at the corners of the breastpiece,",
+      "de": "und die zwei goldenen Ketten in die zwei Ringe an den beiden Ecken des Schildes tust.",
+      "zh": "要把那两条拧成的金链子，穿过胸牌两头的环子。",
+      "ja": "かの金の紐二條を胸牌の端の二箇の環につくべし"
+    },
+    {
+      "number": 25,
+      "ko": "두 땋은 사슬의 다른 두 끝을 에봇 앞 두 어깨받이의 금 테에 매고",
+      "en": "and the other ends of the chains to the two settings, attaching them to the shoulder pieces of the ephod at the front.",
+      "de": "Aber die zwei Enden der zwei Ketten sollst du an die zwei Fassungen tun und sie heften auf die Schulterstücke am Leibrock vornehin.",
+      "zh": "又要把链子的那两头接在两槽上，安在以弗得前面肩带上。",
+      "ja": "而してその二條の紐の兩の端を二箇の槽に結ひエポデの肩帶の上につけてその前にあらしむべし"
+    },
+    {
+      "number": 26,
+      "ko": "또 금 고리 둘을 만들어 흉패 아래 양쪽 가 안쪽 곧 에봇에 닿은 곳에 달고",
+      "en": "Make two gold rings and attach them to the other two corners of the breastpiece on the inside edge next to the ephod.",
+      "de": "Und sollst zwei andere goldene Ringe machen und an die zwei Ecken des Schildes heften an seinem Rand, inwendig gegen den Leibrock.",
+      "zh": "要做两个金环，安在胸牌的两头，在以弗得里面的边上。",
+      "ja": "又二箇の金の環をつくりて之を胸牌の兩の端につくべし即ちそのエポデに對ふところの内の邊に之をつくべし"
+    },
+    {
+      "number": 27,
+      "ko": "또 금 고리 둘을 만들어 에봇 앞 두 어깨받이 아래 매는 자리 가까운 쪽 곧 정교하게 짠 띠 위쪽에 달고",
+      "en": "Make two more gold rings and attach them to the bottom of the shoulder pieces on the front of the ephod, close to the seam just above the waistband of the ephod.",
+      "de": "Und sollst abermals zwei goldene Ringe machen und sie unten an die zwei Schulterstücke vorn am Leibrock heften, wo der Leibrock zusammengeht, oben über dem Gurt des Leibrocks.",
+      "zh": "又要做两个金环，安在以弗得前面两条肩带的下边，挨近相接之处，在以弗得巧工织的带子以上。",
+      "ja": "汝また金の環二箇を造りてこれをエポデの兩旁の下の方につけその前の方にてその聯接る處に對ひてエポデの帶の上にあらしむべし"
+    },
+    {
+      "number": 28,
+      "ko": "청색 끈으로 흉패 고리와 에봇 고리에 꿰어 흉패로 정교하게 짠 에봇 띠 위에 붙여 떨어지지 않게 하라",
+      "en": "The rings of the breastpiece are to be tied to the rings of the ephod with blue cord, connecting it to the waistband, so that the breastpiece will not swing out from the ephod.",
+      "de": "Und man soll das Schild mit seinen Ringen mit einer blauen Schnur an die Ringe des Leibrocks knüpfen, daß es über dem Gurt des Leibrocks hart anliege und das Schild sich nicht vom Leibrock losmache.",
+      "zh": "要用蓝细带子把胸牌的环子与以弗得的环子系住，使胸牌贴在以弗得巧工织的带子上，不可与以弗得离缝。",
+      "ja": "胸牌は靑紐をもてその環によりて之をエポデの環に結ひつけエポデの帶の上にあらしむべし然せば胸牌エポデを離るること無るべし"
+    },
+    {
+      "number": 29,
+      "ko": "아론이 성소에 들어갈 때에는 이스라엘 아들들의 이름을 기록한 이 판결 흉패를 가슴에 붙여 여호와 앞에 영원한 기념을 삼을 것이니라",
+      "en": "\"Whenever Aaron enters the Holy Place, he will bear the names of the sons of Israel over his heart on the breastpiece of decision as a continuing memorial before the LORD.",
+      "de": "Also soll Aaron die Namen der Kinder Israel tragen in dem Amtschild auf seinem Herzen, wenn er in das Heilige geht, zum Gedächtnis vor dem HERRN allezeit.",
+      "zh": "亚伦进圣所的时候，要将决断胸牌，就是刻着以色列儿子名字的，带在胸前，在耶和华面前常作纪念。",
+      "ja": "アロン聖所に入る時はその胸にある審判の胸牌にイスラエルの子等の名を帶てこれをその心の上に置きヱホバの前に恒に記念とならしむべし"
+    },
+    {
+      "number": 30,
+      "ko": "너는 우림과 둠밈을 판결 흉패 안에 넣어 아론이 여호와 앞에 들어갈 때에 그의 가슴에 붙이게 하라 아론은 여호와 앞에서 이스라엘 자손의 흉패를 항상 그의 가슴에 붙일지니라",
+      "en": "Also put the Urim and the Thummim in the breastpiece, so they may be over Aaron's heart whenever he enters the presence of the LORD. Thus Aaron will always bear the means of making decisions for the Israelites over his heart before the LORD.",
+      "de": "Und sollst in das Amtschild tun Licht und Recht, daß sie auf dem Herzen Aarons seien, wenn er eingeht vor den HERRN, daß er trage das Amt der Kinder Israel auf seinem Herzen vor dem HERRN allewege.",
+      "zh": "又要将乌陵和土明放在决断的胸牌里；亚伦进到耶和华面前的时候，要带在胸前，在耶和华面前常将以色列人的决断牌带在胸前。」",
+      "ja": "汝審判の胸牌にウリムとトンミムをいれアロンをしてそのヱホバの前に入る時にこれをその心の上に置しむべしアロンはヱホバの前に常にイスラエルの子孫の審判を帶てその心の上に置べし"
+    },
+    {
+      "number": 31,
+      "ko": "너는 에봇 받침 겉옷을 전부 청색으로 하되",
+      "en": "\"Make the robe of the ephod entirely of blue cloth,",
+      "de": "Du sollst auch einen Purpurrock unter dem Leibrock machen ganz von blauem Purpur.",
+      "zh": "「你要做以弗得的外袍，颜色全是蓝的。",
+      "ja": "エポデに屬する明衣は凡てこれを靑く作るべし"
+    },
+    {
+      "number": 32,
+      "ko": "두 어깨 사이에 머리 들어갈 구멍을 내고 그 주위에 갑옷 깃 같이 깃을 짜서 찢어지지 않게 하고",
+      "en": "with an opening for the head in its center. There shall be a woven edge like a collar around this opening, so that it will not tear.",
+      "de": "Und oben mitteninne soll ein Loch sein und eine Borte um das Loch her zusammengefaltet, daß er nicht zerreiße.",
+      "zh": "袍上要为头留一领口，口的周围织出领边来，仿佛铠甲的领口，免得破裂。",
+      "ja": "頭をいるる孔はその眞中に設くべし又その孔の周圍には織物の縁をつけて鎧の領盤のごとくになして之を綻びざらしむべし"
+    },
+    {
+      "number": 33,
+      "ko": "그 옷 가장자리로 돌아가며 청색 자색 홍색 실로 석류를 수 놓고 금 방울을 간격을 두어 달되",
+      "en": "Make pomegranates of blue, purple and scarlet yarn around the hem of the robe, with gold bells between them.",
+      "de": "Und unten an seinen Saum sollst du Granatäpfel machen von blauem und rotem Purpur und Scharlach um und um und zwischen dieselben goldene Schellen auch um und um,",
+      "zh": "袍子周围底边上要用蓝色、紫色、朱红色线做石榴。在袍子周围的石榴中间要有金铃铛：",
+      "ja": "その裾には靑紫紅の糸をもて石榴をつくりてその裾の周圍につけ又四周に金の鈴をその間々につくべし"
+    },
+    {
+      "number": 34,
+      "ko": "그 옷 가장자리로 돌아가며 한 금 방울, 한 석류, 한 금 방울, 한 석류가 있게 하라",
+      "en": "The gold bells and the pomegranates are to alternate around the hem of the robe.",
+      "de": "daß eine goldene Schelle sei, darnach ein Granatapfel und wieder eine goldene Schelle und wieder ein Granatapfel, um und um an dem Saum des Purpurrocks.",
+      "zh": "一个金铃铛一个石榴，一个金铃铛一个石榴，在袍子周围的底边上。",
+      "ja": "即ち明衣の据には金の鈴に石榴又金の鈴に石榴とその周圍につくべし"
+    },
+    {
+      "number": 35,
+      "ko": "아론이 입고 여호와를 섬기러 성소에 들어갈 때와 성소에서 나올 때에 그 소리가 들릴 것이라 그리하면 그가 죽지 아니하리라",
+      "en": "Aaron must wear it when he ministers. The sound of the bells will be heard when he enters the Holy Place before the LORD and when he comes out, so that he will not die.",
+      "de": "Und Aaron soll ihn anhaben, wenn er dient, daß man seinen Klang höre, wenn er aus und eingeht in das Heilige vor dem HERRN, auf daß er nicht sterbe.",
+      "zh": "亚伦供职的时候要穿这袍子。他进圣所到耶和华面前，以及出来的时候，袍上的响声必被听见，使他不至于死亡。",
+      "ja": "アロン奉事をなす時にこれを著べし彼が聖所にいりてヱホバの前に至る時また出きたる時にはその鈴の音聞ゆべし斯せば彼死ることあらじ"
+    },
+    {
+      "number": 36,
+      "ko": "너는 또 순금으로 패를 만들어 도장을 새기는 법으로 그 위에 새기되 '여호와께 성결'이라 하고",
+      "en": "\"Make a plate of pure gold and engrave on it as on a seal: HOLY TO THE LORD.",
+      "de": "Du sollst auch ein Stirnblatt machen von feinem Golde und darauf ausgraben, wie man die Siegel ausgräbt: Heilig dem HERRN.",
+      "zh": "「你要用精金做一面牌，在上面按刻图书之法刻着『归耶和华为圣』。",
+      "ja": "汝純金をもて一枚の前板を作り印を刻がごとくにその上にヱホバに聖と鐫つけ"
+    },
+    {
+      "number": 37,
+      "ko": "그 패를 청색 끈으로 관 위에 매되 곧 관 전면에 있게 하라",
+      "en": "Fasten a blue cord to it to attach it to the turban; it is to be on the front of the turban.",
+      "de": "Und sollst's heften an eine blaue Schnur vorn an den Hut,",
+      "zh": "要用一条蓝细带子将牌系在冠冕的前面。",
+      "ja": "之を靑紐につけて頭帽の上にあらしむべし即ち頭帽の前の方にこれをつくべし"
+    },
+    {
+      "number": 38,
+      "ko": "이 패를 아론의 이마에 두어 그가 이스라엘 자손이 거룩하게 드리는 성물과 관련된 죄책을 담당하게 하라 그 패가 아론의 이마에 늘 있으므로 그 성물을 여호와께서 받으시게 되리라",
+      "en": "It will be on Aaron's forehead, and he will bear the guilt involved in the sacred gifts the Israelites consecrate, whatever their gifts may be. It will be on Aaron's forehead continually so that they will be acceptable to the LORD.",
+      "de": "auf der Stirn Aarons, daß also Aaron trage die Missetat des Heiligen, das die Kinder Israel heiligen in allen Gaben ihrer Heiligung; und es soll allewege an seiner Stirn sein, daß er sie versöhne vor dem HERRN.",
+      "zh": "这牌必在亚伦的额上，亚伦要担当干犯圣物条例的罪孽；这圣物是以色列人在一切的圣礼物上所分别为圣的。这牌要常在他的额上，使他们可以在耶和华面前蒙悦纳。",
+      "ja": "是はアロンの額にあるべしアロンはイスラエルの子孫が献ぐるところの聖物すなはちその献ぐる諸の聖き供物の上にあるとこるの罪を負べしこの板をば常にアロンの額にあらしむべし是ヱホバの前に其等の受納られんためなり"
+    },
+    {
+      "number": 39,
+      "ko": "너는 가는 베 실로 반포 속옷을 짜고 가는 베 실로 관을 만들고 띠를 수 놓아 만들지니라",
+      "en": "\"Weave the tunic of fine linen and make the turban of fine linen. The sash is to be the work of an embroiderer.",
+      "de": "Du sollst auch einen engen Rock machen von weißer Leinwand und einen Hut von weißer Leinwand machen und einen gestickten Gürtel.",
+      "zh": "要用杂色细麻线织内袍，用细麻布做冠冕，又用绣花的手工做腰带。",
+      "ja": "汝麻糸をもて裏衣を間格に織り麻糸をもて頭帽を製りまた帶を繍工に織なすべし"
+    },
+    {
+      "number": 40,
+      "ko": "너는 아론의 아들들을 위하여 속옷을 만들며 그들을 위하여 띠를 만들며 그들을 위하여 관을 만들어 영화롭고 아름답게 하되",
+      "en": "Make tunics, sashes and headbands for Aaron's sons, to give them dignity and honor.",
+      "de": "Und den Söhnen Aarons sollst du Röcke, Gürtel und Hauben machen, die herrlich und schön seien.",
+      "zh": "「你要为亚伦的儿子做内袍、腰带、裹头巾，为荣耀，为华美。",
+      "ja": "汝またアロンの子等のために裏衣を製り彼らのために帶を製り彼らのために頭巾を製りてその身に顯榮と榮光あらしむべし"
+    },
+    {
+      "number": 41,
+      "ko": "너는 그것들로 네 형 아론과 그와 함께 한 그의 아들들에게 입히고 그들에게 기름을 부어 위임하고 거룩하게 하여 그들이 제사장 직분을 내게 행하게 할지며",
+      "en": "After you put these clothes on your brother Aaron and his sons, anoint and ordain them. Consecrate them so they may serve me as priests.",
+      "de": "Und sollst sie deinem Bruder Aaron samt seinen Söhnen anziehen; und sollst sie salben und ihre Hände füllen und sie weihen, daß sie meine Priester seien.",
+      "zh": "要把这些给你的哥哥亚伦和他的儿子穿戴，又要膏他们，将他们分别为圣，好给我供祭司的职分。",
+      "ja": "而して汝これを汝の兄弟アロンおよび彼とともなるその子等に着せ膏を彼等に灌ぎこれを立てこれを聖別てこれをして祭司の職を我になさしむべし"
+    },
+    {
+      "number": 42,
+      "ko": "또 그들을 위하여 베로 속바지를 만들어 허리에서부터 두 넓적다리까지 이르게 하여 하체를 가리게 하라",
+      "en": "\"Make linen undergarments as a covering for the body, reaching from the waist to the thigh.",
+      "de": "Und sollst ihnen leinene Beinkleider machen, zu bedecken die Blöße des Fleisches von den Lenden bis an die Hüften.",
+      "zh": "要给他们做细麻布裤子，遮掩下体；裤子当从腰达到大腿。",
+      "ja": "又かれらのためにその陰所を蔽ふ麻の褌を製り腰より髀に達らしむべし"
+    },
+    {
+      "number": 43,
+      "ko": "아론과 그의 아들들이 회막에 들어갈 때에나 제단에 가까이 하여 거룩한 곳에서 섬길 때에 그것들을 입어야 죄를 짊어진 채 죽지 아니하리니 그와 그의 후손이 영원히 지킬 규례니라",
+      "en": "Aaron and his sons must wear them whenever they enter the Tent of Meeting or approach the altar to minister in the Holy Place, so that they will not incur guilt and die. \"This is to be a lasting ordinance for Aaron and his descendants.",
+      "de": "Und Aaron und seine Söhne sollen sie anhaben, wenn sie in die Hütte des Stifts gehen oder hinzutreten zum Altar, daß sie dienen in dem Heiligtum, daß sie nicht ihre Missetat tragen und sterben müssen. Das soll ihm und seinem Stamm nach ihm eine ewige Weise sein.",
+      "zh": "亚伦和他儿子进入会幕，或就近坛，在圣所供职的时候必穿上，免得担罪而死。这要为亚伦和他的后裔作永远的定例。」",
+      "ja": "アロンとその子等は集會の幕屋に入る時又は祭壇に近づきて聖所に職事をなす時はこれを著べし斯せば愆をかうむりて死ることなからん是は彼および彼の後の子孫の永く守るべき例なり"
+    }
+  ]
+}

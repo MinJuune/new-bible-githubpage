@@ -1,0 +1,278 @@
+{
+  "book": "Leviticus",
+  "chapter": 27,
+  "verses": [
+    {
+      "number": 1,
+      "ko": "여호와께서 모세에게 말씀하여 이르시되",
+      "en": "The LORD said to Moses,",
+      "de": "Und der HERR redete mit Mose und sprach:",
+      "zh": "耶和华对摩西说：",
+      "ja": "ヱホバ、モーセに告て言たまはく"
+    },
+    {
+      "number": 2,
+      "ko": "이스라엘 자손에게 말하여 이르라 만일 어떤 사람이 사람의 값을 여호와께 드리기로 분명히 서원하였으면 너는 그 값을 정할지니",
+      "en": "\"Speak to the Israelites and say to them: 'If anyone makes a special vow to dedicate persons to the LORD by giving equivalent values,",
+      "de": "Rede mit den Kindern Israel und sprich zu ihnen: Wenn jemand ein besonderes Gelübde tut, also daß du seinen Leib schätzen mußt,",
+      "zh": "「你晓谕以色列人说：人还特许的愿，被许的人要按你所估的价值归给耶和华。",
+      "ja": "イスラエルの子孫につげてこれに言へ人もし誓願をかけなばなんぢの估價にしたがひてヱホバに献納物をなすべし"
+    },
+    {
+      "number": 3,
+      "ko": "네가 정한 값은 스무 살로부터 예순 살까지는 남자면 성소의 세겔로 은 오십 세겔로 하고",
+      "en": "set the value of a male between the ages of twenty and sixty at fifty shekels of silver, according to the sanctuary shekel;",
+      "de": "so soll dies eine Schätzung sein: ein Mannsbild, zwanzig Jahre alt bis ins sechzigste Jahr, sollst du schätzen auf fünfzig Silberlinge nach dem Lot des Heiligtums,",
+      "zh": "你估定的，从二十岁到六十岁的男人，要按圣所的平，估定价银五十舍客勒。",
+      "ja": "なんぢの估價はかくすべしすなはち二十歳より六十歳までは男には其價を聖所のシケルに循ひて五十シケルに估り"
+    },
+    {
+      "number": 4,
+      "ko": "여자면 그 값을 삼십 세겔로 하며",
+      "en": "and if it is a female, set her value at thirty shekels.",
+      "de": "ein Weibsbild auf dreißig Silberlinge.",
+      "zh": "若是女人，你要估定三十舍客勒。",
+      "ja": "女にはその價を三十シケルに估るべし"
+    },
+    {
+      "number": 5,
+      "ko": "다섯 살로부터 스무 살까지는 남자면 그 값을 이십 세겔로 하고 여자면 열 세겔로 하며",
+      "en": "If it is a person between the ages of five and twenty, set the value of a male at twenty shekels and of a female at ten shekels.",
+      "de": "Von fünf Jahren an bis auf zwanzig Jahre sollst du ihn schätzen auf zwanzig Silberlinge, wenn's ein Mannsbild ist, ein Weibsbild aber auf zehn Silberlinge.",
+      "zh": "若是从五岁到二十岁，男子你要估定二十舍客勒，女子估定十舍客勒。",
+      "ja": "また五歳より二十歳までは男にはその價を二十シケルに估り女には十シケルに估るべし"
+    },
+    {
+      "number": 6,
+      "ko": "일 개월로부터 다섯 살까지는 남자면 그 값을 은 다섯 세겔로 하고 여자면 그 값을 은 삼 세겔로 하며",
+      "en": "If it is a person between one month and five years, set the value of a male at five shekels of silver and that of a female at three shekels of silver.",
+      "de": "Von einem Monat an bis auf fünf Jahre sollst du ihn schätzen auf fünf Silberlinge, wenn's ein Mannsbild ist, ein Weibsbild aber auf drei Silberlinge.",
+      "zh": "若是从一月到五岁，男子你要估定五舍客勒，女子估定三舍客勒。",
+      "ja": "また一箇月より五歳までは男にはその價を銀五シケルに估り女にはその價を銀三シケルに估るべし"
+    },
+    {
+      "number": 7,
+      "ko": "예순 살 이상은 남자면 그 값을 십오 세겔로 하고 여자는 열 세겔로 하라",
+      "en": "If it is a person sixty years old or more, set the value of a male at fifteen shekels and of a female at ten shekels.",
+      "de": "Ist er aber sechzig Jahre alt und darüber, so sollst du ihn schätzen auf fünfzehn Silberlinge, wenn's ein Mannsbild ist, ein Weibsbild aber auf zehn Silberlinge.",
+      "zh": "若是从六十岁以上，男人你要估定十五舍客勒，女人估定十舍客勒。",
+      "ja": "また六十歳より上は男にはその價を十五シケルに估り女には十シケルに估るべし"
+    },
+    {
+      "number": 8,
+      "ko": "그러나 서원자가 가난하여 네가 정한 값을 감당하지 못하겠으면 그를 제사장 앞으로 데리고 갈 것이요 제사장은 그 값을 정하되 그 서원자의 형편대로 값을 정할지니라",
+      "en": "If anyone making the vow is too poor to pay the specified amount, he is to present the person to the priest, who will set the value for him according to what the man making the vow can afford.",
+      "de": "Ist er aber zu arm zu solcher Schätzung, so soll er sich vor den Priester stellen, und der Priester soll ihn schätzen; er soll ihn aber schätzen, nach dem die Hand des, der gelobt hat, erwerben kann.",
+      "zh": "他若贫穷，不能照你所估定的价，就要把他带到祭司面前，祭司要按许愿人的力量估定他的价。",
+      "ja": "その人もし貧くして汝の估價に勝ざる時は祭司の前にいたり祭司の估價をうくべきなり祭司はその誓願者の力にしたがひて估價をなすべし"
+    },
+    {
+      "number": 9,
+      "ko": "사람이 서원하는 예물로 여호와께 드리는 것이 가축이면 여호와께 드릴 때는 다 거룩하니",
+      "en": "\"'If what he vowed is an animal that is acceptable as an offering to the LORD, such an animal given to the LORD becomes holy.",
+      "de": "Ist's aber ein Vieh, das man dem HERRN opfern kann: alles, was man davon dem HERRN gibt ist heilig.",
+      "zh": "「所许的若是牲畜，就是人献给耶和华为供物的，凡这一类献给耶和华的，都要成为圣。",
+      "ja": "人もしそのヱホバに禮物として献ることを爲すとこるの牲畜の中を取り誓願の物となしてヱホバに献る時は其物は都て聖し"
+    },
+    {
+      "number": 10,
+      "ko": "그것을 변경하여 우열간 바꾸지 못할 것이요 혹 가축으로 가축을 바꾸면 둘 다 거룩할 것이며",
+      "en": "He must not exchange it or substitute a good one for a bad one, or a bad one for a good one; if he should substitute one animal for another, both it and the substitute become holy.",
+      "de": "Man soll's nicht wechseln noch wandeln, ein gutes um ein böses, oder ein böses um ein gutes. Wird's aber jemand wechseln, ein Vieh um das andere, so sollen sie beide dem HERRN heilig sein.",
+      "zh": "人不可改换，也不可更换，或是好的换坏的，或是坏的换好的。若以牲畜更换牲畜，所许的与所换的都要成为圣。",
+      "ja": "之を更むべからずまた佳を惡に惡を佳に易べからず若し牲畜をもて牲畜に易ることをせば其と其に易たる者ともに聖なるべし"
+    },
+    {
+      "number": 11,
+      "ko": "부정하여 여호와께 예물로 드리지 못할 가축이면 그 가축을 제사장 앞으로 끌어갈 것이요",
+      "en": "If what he vowed is a ceremonially unclean animal--one that is not acceptable as an offering to the LORD--the animal must be presented to the priest,",
+      "de": "Ist aber das Tier unrein, daß man's dem HERRN nicht opfern darf, so soll man's vor den Priester stellen,",
+      "zh": "若牲畜不洁净，是不可献给耶和华为供物的，就要把牲畜安置在祭司面前。",
+      "ja": "もし人のヱホバに禮物として献ることを爲ざるとこるの汚たる畜の中ならばその畜を祭司の前に牽いたるべし"
+    },
+    {
+      "number": 12,
+      "ko": "제사장은 우열간에 값을 정할지니 그 값이 제사장의 정한 대로 될 것이며",
+      "en": "who will judge its quality as good or bad. Whatever value the priest then sets, that is what it will be.",
+      "de": "und der Priester soll's schätzen, ob es gut oder böse sei; und es soll bei des Priesters Schätzung bleiben.",
+      "zh": "祭司就要估定价值；牲畜是好是坏，祭司怎样估定，就要以怎样为是。",
+      "ja": "祭司はまたその佳惡にしたがひてこれが估價をなすべし即ちその價は祭司の估るところによりて定むべきなり"
+    },
+    {
+      "number": 13,
+      "ko": "만일 그가 그것을 무르려면 네가 정한 값에 그 오분의 일을 더할지니라",
+      "en": "If the owner wishes to redeem the animal, he must add a fifth to its value.",
+      "de": "Will's aber jemand lösen, der soll den Fünften über die Schätzung geben.",
+      "zh": "他若一定要赎回，就要在你所估定的价值以外加上五分之一。",
+      "ja": "その人若これを贖はんとせばその估る價にまた之が五分の一を加ふべし"
+    },
+    {
+      "number": 14,
+      "ko": "만일 어떤 사람이 자기 집을 성별하여 여호와께 드리려하면 제사장이 그 우열간에 값을 정할지니 그 값은 제사장이 정한 대로 될 것이며",
+      "en": "\"'If a man dedicates his house as something holy to the LORD, the priest will judge its quality as good or bad. Whatever value the priest then sets, so it will remain.",
+      "de": "Wenn jemand sein Haus heiligt, daß es dem HERRN heilig sei, das soll der Priester schätzen, ob's gut oder böse sei; und darnach es der Priester schätzt, so soll's bleiben.",
+      "zh": "「人将房屋分别为圣，归给耶和华，祭司就要估定价值。房屋是好是坏，祭司怎样估定，就要以怎样为定。",
+      "ja": "また人もしその家をヱホバに聖別ささげたる時は祭司その佳惡にしたがひて之が估價を爲べし即ちその價は祭司の估るところによりて定むべきなり"
+    },
+    {
+      "number": 15,
+      "ko": "만일 그 사람이 자기 집을 무르려면 네가 값을 정한 돈에 그 오분의 일을 더할지니 그리하면 자기 소유가 되리라",
+      "en": "If the man who dedicates his house redeems it, he must add a fifth to its value, and the house will again become his.",
+      "de": "So es aber der, so es geheiligt hat, will lösen, so soll er den fünften Teil des Geldes, zu dem es geschätzt ist, draufgeben, so soll's sein werden.",
+      "zh": "将房屋分别为圣的人，若要赎回房屋，就必在你所估定的价值以外加上五分之一，房屋仍旧归他。",
+      "ja": "その人もし家を贖はんとせばその估價の金にまた之が五分の一を加ふべし然せば是は自分の有とならん"
+    },
+    {
+      "number": 16,
+      "ko": "만일 어떤 사람이 자기 기업된 밭 얼마를 성별하여 여호와께 드리려하면 마지기 수대로 네가 값을 정하되 보리 한 호멜지기에는 은 오십 세겔로 계산할지며",
+      "en": "\"'If a man dedicates to the LORD part of his family land, its value is to be set according to the amount of seed required for it--fifty shekels of silver to a homer of barley seed.",
+      "de": "Wenn jemand ein Stück Acker von seinem Erbgut dem HERRN heiligt, so soll es geschätzt werden nach der Aussaat. Ist die Aussaat ein Homer Gerste, so soll es fünfzig Silberlinge gelten.",
+      "zh": "「人若将承受为业的几分地分别为圣，归给耶和华，你要按这地撒种多少估定价值，若撒大麦一贺梅珥，要估价五十舍客勒。",
+      "ja": "人もしその遺業の田野の中をヱホバに献る時は其處に撒るる種の多少にしたがひてこれが估價をなすべし即ち大麥の種一ホメルを五十シケルに算べきなり"
+    },
+    {
+      "number": 17,
+      "ko": "만일 그가 그 밭을 희년부터 성별하여 드렸으면 그 값을 네가 정한 대로 할 것이요",
+      "en": "If he dedicates his field during the Year of Jubilee, the value that has been set remains.",
+      "de": "Heiligt er seinen Acker vom Halljahr an, so soll er nach seinem Wert gelten.",
+      "zh": "他若从禧年将地分别为圣，就要以你所估定的价为定。",
+      "ja": "もしその田野をヨベルの年より献たる時はその價は汝の估れる所によりて定むべし"
+    },
+    {
+      "number": 18,
+      "ko": "만일 그 밭을 희년 후에 성별하여 드렸으면 제사장이 다음 희년까지 남은 연수를 따라 그 값을 계산하고 정한 값에서 그 값에 상당하게 감할 것이며",
+      "en": "But if he dedicates his field after the Jubilee, the priest will determine the value according to the number of years that remain until the next Year of Jubilee, and its set value will be reduced.",
+      "de": "Hat er ihn aber nach dem Halljahr geheiligt, so soll der Priester das Geld berechnen nach den übrigen Jahren zum Halljahr und ihn darnach geringer schätzen.",
+      "zh": "倘若他在禧年以后将地分别为圣，祭司就要按着未到禧年所剩的年数推算价值，也要从你所估的减去价值。",
+      "ja": "もし又その田野をヨベルの後に献たる時は祭司そのヨベルの年までに遺れる年の數にしたがひてその金を算へこれに準じてその估價を減すべし"
+    },
+    {
+      "number": 19,
+      "ko": "만일 밭을 성별하여 드린 자가 그것을 무르려면 네가 값을 정한 돈에 그 오분의 일을 더할지니 그리하면 그것이 자기 소유가 될 것이요",
+      "en": "If the man who dedicates the field wishes to redeem it, he must add a fifth to its value, and the field will again become his.",
+      "de": "Will aber der, so ihn geheiligt hat, den Acker lösen, so soll er den fünften Teil des Geldes, zu dem er geschätzt ist, draufgeben, so soll er sein werden.",
+      "zh": "将地分别为圣的人若定要把地赎回，他便要在你所估的价值以外加上五分之一，地就准定归他。",
+      "ja": "その田野を献たる者若これを贖はんとせばその估價の金の五分の一をこれに加ふべし然せば是はその人に歸せん"
+    },
+    {
+      "number": 20,
+      "ko": "만일 그가 그 밭을 무르지 아니하려거나 타인에게 팔았으면 다시는 무르지 못하고",
+      "en": "If, however, he does not redeem the field, or if he has sold it to someone else, it can never be redeemed.",
+      "de": "Will er ihn aber nicht lösen, sondern verkauft ihn einem andern, so soll er ihn nicht mehr lösen können;",
+      "zh": "他若不赎回那地，或是将地卖给别人，就再不能赎了。",
+      "ja": "然ど若その田野を贖ふことをせず又はこれを他の人に賣ことをなさば再び贖ふことを得じ"
+    },
+    {
+      "number": 21,
+      "ko": "희년이 되어서 그 밭이 돌아오게 될 때에는 여호와께 바친 성물이 되어 영영히 드린 땅과 같이 제사장의 기업이 될 것이며",
+      "en": "When the field is released in the Jubilee, it will become holy, like a field devoted to the LORD; it will become the property of the priests.",
+      "de": "sondern derselbe Acker, wenn er im Halljahr frei wird, soll dem HERRN heilig sein wie ein verbannter Acker und soll des Priesters Erbgut sein.",
+      "zh": "但到了禧年，那地从买主手下出来的时候，就要归耶和华为圣，和永献的地一样，要归祭司为业。",
+      "ja": "その田野はヨベルにおよびて出きたる時は永く奉納たる田野のごとくヱホバに歸して聖き者となり祭司の產業とならん"
+    },
+    {
+      "number": 22,
+      "ko": "만일 사람에게 샀고 자기 기업이 아닌 밭을 여호와께 성별하여 드렸으면",
+      "en": "\"'If a man dedicates to the LORD a field he has bought, which is not part of his family land,",
+      "de": "Wenn aber jemand dem HERRN einen Acker heiligt, den er gekauft hat und der nicht sein Erbgut ist,",
+      "zh": "他若将所买的一块地，不是承受为业的，分别为圣归给耶和华，",
+      "ja": "若また自己が買たる田野にしてその遺業にあらざる者をヱホバに献たる時は"
+    },
+    {
+      "number": 23,
+      "ko": "너는 값을 정하고 제사장은 그를 위하여 희년까지 계산하고 그는 네가 값을 정한 돈을 그 날에 여호와께 드려 성물로 삼을지며",
+      "en": "the priest will determine its value up to the Year of Jubilee, and the man must pay its value on that day as something holy to the LORD.",
+      "de": "so soll der Priester berechnen, was er gilt bis an das Halljahr; und soll desselben Tages solche Schätzung geben, daß sie dem HERRN heilig sei.",
+      "zh": "祭司就要将你所估的价值给他推算到禧年。当日，他要以你所估的价银为圣，归给耶和华。",
+      "ja": "祭司その人のために估價してヨベルの年までの金を推算べし彼は汝の估れる金高をその日ヱホバにたてまつりて聖物となすべし"
+    },
+    {
+      "number": 24,
+      "ko": "그가 판 밭은 희년에 그 판 사람 곧 그 땅의 원주인에게로 되돌아갈지니라",
+      "en": "In the Year of Jubilee the field will revert to the person from whom he bought it, the one whose land it was.",
+      "de": "Aber im Halljahr soll er wieder gelangen an den, von dem er ihn gekauft hat, daß sein Erbgut im Lande sei.",
+      "zh": "到了禧年，那地要归卖主，就是那承受为业的原主。",
+      "ja": "ヨベルの年にいたればその田野は賣主なるその本來の所有主に歸るべし"
+    },
+    {
+      "number": 25,
+      "ko": "또 네가 정한 모든 값은 성소의 세겔로 하되 이십 게라를 한 세겔로 할지니라",
+      "en": "Every value is to be set according to the sanctuary shekel, twenty gerahs to the shekel.",
+      "de": "Alle Schätzung soll geschehen nach dem Lot des Heiligtums; ein Lot aber hat zwanzig Gera.",
+      "zh": "凡你所估定的价银都要按着圣所的平：二十季拉为一舍客勒。",
+      "ja": "汝の估價はみな聖所のシケルにしたがびて爲べし二十ゲラを一シケルとなす"
+    },
+    {
+      "number": 26,
+      "ko": "오직 가축 중의 처음 난 것은 여호와께 드릴 첫 것이라 소나 양은 여호와의 것이니 누구든지 그것으로는 성별하여 드리지 못할 것이며",
+      "en": "\"'No one, however, may dedicate the firstborn of an animal, since the firstborn already belongs to the LORD; whether an ox or a sheep, it is the LORD'S.",
+      "de": "Die Erstgeburt unter dem Vieh, die dem HERRN sonst gebührt, soll niemand dem HERRN heiligen, es sei ein Ochs oder Schaf; denn es ist des HERRN.",
+      "zh": "「惟独牲畜中头生的，无论是牛是羊，既归耶和华，谁也不可再分别为圣，因为这是耶和华的。",
+      "ja": "但し牲畜の初子はヱホバに歸すべき初子なれば何人もこれを献べからず牛にもあれ羊にもあれ是はヱホバの所屬なり"
+    },
+    {
+      "number": 27,
+      "ko": "만일 부정한 짐승이면 네가 정한 값에 그 오분의 일을 더하여 무를 것이요 만일 무르지 아니하려면 네가 정한 값대로 팔지니라",
+      "en": "If it is one of the unclean animals, he may buy it back at its set value, adding a fifth of the value to it. If he does not redeem it, it is to be sold at its set value.",
+      "de": "Ist es aber unreines Vieh, so soll man's lösen nach seinem Werte, und darübergeben den Fünften. Will er's aber nicht lösen, so verkaufe man's nach seinem Werte.",
+      "zh": "若是不洁净的牲畜生的，就要按你所估定的价值加上五分之一赎回；若不赎回，就要按你所估定的价值卖了。",
+      "ja": "若し汚たる畜ならば汝の估價にしたがひこれにその五分の一を加へてその人これを贖ふべし若これを贖ふことをせずば汝の估價にしたがひて之を賣べし"
+    },
+    {
+      "number": 28,
+      "ko": "어떤 사람이 자기 소유 중에서 오직 여호와께 온전히 바친 모든 것은 사람이든지 가축이든지 기업의 밭이든지 팔지도 못하고 무르지도 못하나니 바친 것은 다 여호와께 지극히 거룩함이며",
+      "en": "\"'But nothing that a man owns and devotes to the LORD--whether man or animal or family land--may be sold or redeemed; everything so devoted is most holy to the LORD.",
+      "de": "Man soll kein Verbanntes verkaufen noch lösen, das jemand dem HERRN verbannt von allem, was sein ist, es seien Menschen, Vieh oder Erbacker; denn alles verbannte ist ein Hochheiliges dem HERRN.",
+      "zh": "「但一切永献的，就是人从他所有永献给耶和华的，无论是人，是牲畜，是他承受为业的地，都不可卖，也不可赎。凡永献的是归给耶和华为至圣。",
+      "ja": "但し人がその凡て有る物の中より取て永くヱホバに納めたる奉納物は人にもあれ畜にもあれその遺業の田野にもあれ一切賣べからずまた贖ふべからず奉納物はみなヱホバに至聖物たるなり"
+    },
+    {
+      "number": 29,
+      "ko": "온전히 바쳐진 그 사람은 다시 무르지 못하나니 반드시 죽일지니라",
+      "en": "\"'No person devoted to destruction may be ransomed; he must be put to death.",
+      "de": "Man soll auch keinen verbannten Menschen lösen, sondern er soll des Todes sterben.",
+      "zh": "凡从人中当灭的都不可赎，必被治死。」",
+      "ja": "また人の中永く奉納られて奉納物となれる者も贖ふべからず必ず殺すべし"
+    },
+    {
+      "number": 30,
+      "ko": "그리고 그 땅의 십분의 일 곧 그 땅의 곡식이나 나무의 열매는 그 십분의 일은 여호와의 것이니 여호와의 성물이라",
+      "en": "\"'A tithe of everything from the land, whether grain from the soil or fruit from the trees, belongs to the LORD; it is holy to the LORD.",
+      "de": "Alle Zehnten im Lande von Samen des Landes und von Früchten der Bäume sind des HERRN und sollen dem HERRN heilig sein.",
+      "zh": "「地上所有的，无论是地上的种子是树上的果子，十分之一是耶和华的，是归给耶和华为圣的。",
+      "ja": "地の十分の一は地の產物にもあれ樹の果にもあれ皆ヱホバの所屬にしてヱホバに聖きなり"
+    },
+    {
+      "number": 31,
+      "ko": "또 만일 어떤 사람이 그의 십일조를 무르려면 그것에 오분의 일을 더할 것이요",
+      "en": "If a man redeems any of his tithe, he must add a fifth of the value to it.",
+      "de": "Will aber jemand seinen Zehnten lösen, der soll den Fünften darübergeben.",
+      "zh": "人若要赎这十分之一的什么物，就要加上五分之一。",
+      "ja": "人もしその献る十分の一を贖はんとせば之にまたその五分の一を加ふべし"
+    },
+    {
+      "number": 32,
+      "ko": "모든 소나 양의 십일조는 목자의 지팡이 아래로 통과하는 것의 열 번째의 것마다 여호와의 성물이 되리라",
+      "en": "The entire tithe of the herd and flock--every tenth animal that passes under the shepherd's rod--will be holy to the LORD.",
+      "de": "Und alle Zehnten von Rindern und Schafen, von allem, was unter dem Hirtenstabe geht, das ist ein heiliger Zehnt dem HERRN.",
+      "zh": "凡牛群羊群中，一切从杖下经过的，每第十只要归给耶和华为圣。",
+      "ja": "牛または羊の十分の一については凡て杖の下を通る者の第十番にあたる者はヱホバに聖き者なるべし"
+    },
+    {
+      "number": 33,
+      "ko": "그 우열을 가리거나 바꾸거나 하지 말라 바꾸면 둘 다 거룩하리니 무르지 못하리라",
+      "en": "He must not pick out the good from the bad or make any substitution. If he does make a substitution, both the animal and its substitute become holy and cannot be redeemed.'\"",
+      "de": "Man soll nicht fragen, ob's gut oder böse sei; man soll's auch nicht wechseln. Wird's aber jemand wechseln, so soll's beides heilig sein und nicht gelöst werden.",
+      "zh": "不可问是好是坏，也不可更换；若定要更换，所更换的与本来的牲畜都要成为圣，不可赎回。」",
+      "ja": "その佳惡をたづぬべからずまた之を易べからず若これを易る時は其とその易たる者ともに聖き者となるべしこれを贖ふことを得ず"
+    },
+    {
+      "number": 34,
+      "ko": "이것은 여호와께서 시내 산에서 이스라엘 자손을 위하여 모세에게 명령하신 계명이니라",
+      "en": "These are the commands the LORD gave Moses on Mount Sinai for the Israelites.",
+      "de": "Dies sind die Gebote, die der HERR dem Mose gebot an die Kinder Israel auf dem Berge Sinai.",
+      "zh": "这就是耶和华在西奈山为以色列人所吩咐摩西的命令。",
+      "ja": "是等はヱホバがシナイ山においてイスラエルの子孫のためにモーセに命じたまひし誡命なり"
+    }
+  ]
+}

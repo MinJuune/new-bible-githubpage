@@ -1,0 +1,302 @@
+{
+  "book": "Luke",
+  "chapter": 17,
+  "verses": [
+    {
+      "number": 1,
+      "ko": "예수께서 제자들에게 이르시되 실족하게 하는 것이 없을 수는 없으나 그렇게 하게 하는 자에게는 화로다",
+      "en": "Jesus said to his disciples: \"Things that cause people to sin are bound to come, but woe to that person through whom they come.",
+      "de": "Er sprach aber zu seinen Jüngern: Es ist unmöglich, daß nicht Ärgernisse kommen; weh aber dem, durch welchen sie kommen!",
+      "zh": "耶稣又对门徒说：「绊倒人的事是免不了的；但那绊倒人的有祸了。",
+      "ja": "イエスは弟子たちにこう言われた。「つまずきが起こるのは避けられない。だが、つまずきを起こさせる者は、忌まわしいものです。"
+    },
+    {
+      "number": 2,
+      "ko": "그가 이 작은 자 중의 하나를 실족하게 할진대 차라리 연자맷돌이 그 목에 매여 바다에 던져지는 것이 나으리라",
+      "en": "It would be better for him to be thrown into the sea with a millstone tied around his neck than for him to cause one of these little ones to sin.",
+      "de": "Es wäre ihm besser, daß man einen Mühlstein an seinen Hals hängte und würfe ihm ins Meer, denn daß er dieser Kleinen einen ärgert.",
+      "zh": "就是把磨石拴在这人的颈项上，丢在海里，还强如他把这小子里的一个绊倒了。",
+      "ja": "この小さい者たちのひとりに、つまずきを与えるようであったら、そんな者は石臼を首にゆわえつけられて、海に投げ込まれたほうがましです。"
+    },
+    {
+      "number": 3,
+      "ko": "너희는 스스로 조심하라 만일 네 형제가 죄를 범하거든 경고하고 회개하거든 용서하라",
+      "en": "So watch yourselves. \"If your brother sins, rebuke him, and if he repents, forgive him.",
+      "de": "Hütet euch! So dein Bruder an dir sündigt, so strafe ihn; und so es ihn reut, vergib ihm.",
+      "zh": "你们要谨慎！若是你的弟兄得罪你，就劝戒他；他若懊悔，就饶恕他。",
+      "ja": "気をつけていなさい。もし兄弟が罪を犯したなら、彼を戒めなさい。そして悔い改めれば、赦しなさい。"
+    },
+    {
+      "number": 4,
+      "ko": "만일 하루에 일곱 번이라도 네게 죄를 짓고 일곱 번 네게 돌아와 내가 회개하노라 하거든 너는 용서하라 하시더라",
+      "en": "If he sins against you seven times in a day, and seven times comes back to you and says, 'I repent,' forgive him.\"",
+      "de": "Und wenn er siebenmal des Tages an dir sündigen würde und siebenmal des Tages wiederkäme zu dir und spräche: Es reut mich! so sollst du ihm vergeben.",
+      "zh": "倘若他一天七次得罪你，又七次回转，说：『我懊悔了』，你总要饶恕他。」",
+      "ja": "かりに、あなたに対して一日に七度罪を犯しても、『悔い改めます。』と言って七度あなたのところに来るなら、赦してやりなさい。」"
+    },
+    {
+      "number": 5,
+      "ko": "사도들이 주께 여짜오되 우리에게 믿음을 더하소서 하니",
+      "en": "The apostles said to the Lord, \"Increase our faith!\"",
+      "de": "Und die Apostel sprachen zum HERRN: Stärke uns den Glauben!",
+      "zh": "使徒对主说：「求主加增我们的信心。」",
+      "ja": "使徒たちは主に言った。「私たちの信仰を増してください。」"
+    },
+    {
+      "number": 6,
+      "ko": "주께서 이르시되 너희에게 겨자씨 한 알만한 믿음이 있었더라면 이 뽕나무더러 뿌리가 뽑혀 바다에 심기어라 하였을 것이요 그것이 너희에게 순종하였으리라",
+      "en": "He replied, \"If you have faith as small as a mustard seed, you can say to this mulberry tree, 'Be uprooted and planted in the sea,' and it will obey you.",
+      "de": "Der HERR aber sprach: Wenn ihr Glauben habt wie ein Senfkorn und sagt zu diesem Maulbeerbaum: Reiß dich aus und versetze dich ins Meer! so wird er euch gehorsam sein.",
+      "zh": "主说：「你们若有信心像一粒芥菜种，就是对这棵桑树说：『你要拔起根来，栽在海里』，它也必听从你们。",
+      "ja": "しかし主は言われた。「もしあなたがたに、からし種ほどの信仰があったなら、この桑の木に、『根こそぎ海の中に植われ。』と言えば、言いつけどおりになるのです。"
+    },
+    {
+      "number": 7,
+      "ko": "너희 중 누구에게 밭을 갈거나 양을 치거나 하는 종이 있어 밭에서 돌아오면 그더러 곧 와 앉아서 먹으라 말할 자가 있느냐",
+      "en": "\"Suppose one of you had a servant plowing or looking after the sheep. Would he say to the servant when he comes in from the field, 'Come along now and sit down to eat'?",
+      "de": "Welcher ist unter euch, der einen Knecht hat, der ihm pflügt oder das Vieh weidet, wenn er heimkommt vom Felde, daß er ihm alsbald sage: Gehe alsbald hin und setze dich zu Tische?",
+      "zh": "你们谁有仆人耕地或是放羊，从田里回来，就对他说：『你快来坐下吃饭』呢？",
+      "ja": "ところで、あなたがたのだれかに、耕作か羊飼いをするしもべがいるとして、そのしもべが野らから帰って来たとき、『さあ、さあ、ここに来て、食事をしなさい。』としもべに言うでしょうか。"
+    },
+    {
+      "number": 8,
+      "ko": "도리어 그더러 내 먹을 것을 준비하고 띠를 띠고 내가 먹고 마시는 동안에 수종들고 너는 그 후에 먹고 마시라 하지 않겠느냐",
+      "en": "Would he not rather say, 'Prepare my supper, get yourself ready and wait on me while I eat and drink; after that you may eat and drink'?",
+      "de": "Ist's nicht also, daß er zu ihm sagt: Richte zu, was ich zum Abend esse, schürze dich und diene mir, bis ich esse und trinke; darnach sollst du auch essen und trinken?",
+      "zh": "岂不对他说：『你给我预备晚饭，束上带子伺候我，等我吃喝完了，你才可以吃喝』吗？",
+      "ja": "かえって、『私の食事の用意をし、帯を締めて私の食事が済むまで給仕しなさい。あとで、自分の食事をしなさい。』と言わないでしょうか。"
+    },
+    {
+      "number": 9,
+      "ko": "명한 대로 하였다고 종에게 감사하겠느냐",
+      "en": "Would he thank the servant because he did what he was told to do?",
+      "de": "Dankt er auch dem Knechte, daß er getan hat, was ihm befohlen war? Ich meine es nicht.",
+      "zh": "仆人照所吩咐的去做，主人还谢谢他吗？",
+      "ja": "しもべが言いつけられたことをしたからといって、そのしもべに感謝するでしょうか。"
+    },
+    {
+      "number": 10,
+      "ko": "이와 같이 너희도 명령 받은 것을 다 행한 후에 이르기를 우리는 무익한 종이라 우리가 하여야 할 일을 한 것뿐이라 할지니라",
+      "en": "So you also, when you have done everything you were told to do, should say, 'We are unworthy servants; we have only done our duty.'\"",
+      "de": "Also auch ihr; wenn ihr alles getan habt, was euch befohlen ist, so sprechet: Wir sind unnütze Knechte; wir haben getan, was wir zu tun schuldig waren.",
+      "zh": "这样，你们做完了一切所吩咐的，只当说：『我们是无用的仆人，所做的本是我们应分做的。』」",
+      "ja": "あなたがたもそのとおりです。自分に言いつけられたことをみな、してしまったら、『私たちは役に立たないしもべです。なすべきことをしただけです。』と言いなさい。」"
+    },
+    {
+      "number": 11,
+      "ko": "예수께서 예루살렘으로 가실 때에 사마리아와 갈릴리 사이로 지나가시다가",
+      "en": "Now on his way to Jerusalem, Jesus traveled along the border between Samaria and Galilee.",
+      "de": "Und es begab sich, da er reiste gen Jerusalem, zog er mitten durch Samarien und Galiläa.",
+      "zh": "耶稣往耶路撒冷去，经过撒马利亚和加利利。",
+      "ja": "そのころイエスはエルサレムに上られる途中、サマリヤとガリラヤの境を通られた。"
+    },
+    {
+      "number": 12,
+      "ko": "한 마을에 들어가시니 나병환자 열 명이 예수를 만나 멀리 서서",
+      "en": "As he was going into a village, ten men who had leprosy met him. They stood at a distance",
+      "de": "Und als er in einen Markt kam, begegneten ihm zehn aussätzige Männer, die standen von ferne",
+      "zh": "进入一个村子，有十个长大麻风的，迎面而来，远远地站着，",
+      "ja": "ある村にはいると、十人のらい病人がイエスに出会った。彼らは遠く離れた所に立って、"
+    },
+    {
+      "number": 13,
+      "ko": "소리를 높여 이르되 예수 선생님이여 우리를 불쌍히 여기소서 하거늘",
+      "en": "and called out in a loud voice, \"Jesus, Master, have pity on us!\"",
+      "de": "und erhoben ihre Stimme und sprachen: Jesu, lieber Meister, erbarme dich unser!",
+      "zh": "高声说：「耶稣，夫子，可怜我们吧！」",
+      "ja": "声を張り上げて、「イエスさま、先生。どうぞあわれんでください。」と言った。"
+    },
+    {
+      "number": 14,
+      "ko": "보시고 이르시되 가서 제사장들에게 너희 몸을 보이라 하셨더니 그들이 가다가 깨끗함을 받은지라",
+      "en": "When he saw them, he said, \"Go, show yourselves to the priests.\" And as they went, they were cleansed.",
+      "de": "Und da er sie sah, sprach er zu ihnen: Gehet hin und zeiget euch den Priestern! Und es geschah, da sie hingingen, wurden sie rein.",
+      "zh": "耶稣看见，就对他们说：「你们去把身体给祭司察看。」他们去的时候就洁净了。",
+      "ja": "イエスはこれを見て、言われた。「行きなさい。そして自分を祭司に見せなさい。」彼らは行く途中でいやされた。"
+    },
+    {
+      "number": 15,
+      "ko": "그 중의 한 사람이 자기가 나은 것을 보고 큰 소리로 하나님께 영광을 돌리며 돌아와",
+      "en": "One of them, when he saw he was healed, came back, praising God in a loud voice.",
+      "de": "Einer aber unter ihnen, da er sah, daß er geheilt war, kehrte um und pries Gott mit lauter Stimme",
+      "zh": "内中有一个见自己已经好了，就回来大声归荣耀与　神，",
+      "ja": "そのうちのひとりは、自分のいやされたことがわかると、大声で神をほめたたえながら引き返して来て、"
+    },
+    {
+      "number": 16,
+      "ko": "예수의 발 아래에 엎드리어 감사하니 그는 사마리아 사람이라",
+      "en": "He threw himself at Jesus' feet and thanked him--and he was a Samaritan.",
+      "de": "und fiel auf sein Angesicht zu seinen Füßen und dankte ihm. Und das war ein Samariter.",
+      "zh": "又俯伏在耶稣脚前感谢他；这人是撒马利亚人。",
+      "ja": "イエスの足もとにひれ伏して感謝した。彼はサマリヤ人であった。"
+    },
+    {
+      "number": 17,
+      "ko": "예수께서 대답하여 이르시되 열 사람이 다 깨끗함을 받지 아니하였느냐 그 아홉은 어디 있느냐",
+      "en": "Jesus asked, \"Were not all ten cleansed? Where are the other nine?",
+      "de": "Jesus aber antwortete und sprach: Sind ihrer nicht zehn rein geworden? Wo sind aber die neun?",
+      "zh": "耶稣说：「洁净了的不是十个人吗？那九个在哪里呢？",
+      "ja": "そこでイエスは言われた。「十人いやされたのではないか。九人はどこにいるのか。"
+    },
+    {
+      "number": 18,
+      "ko": "이 이방인 외에는 하나님께 영광을 돌리러 돌아온 자가 없느냐 하시고",
+      "en": "Was no one found to return and give praise to God except this foreigner?\"",
+      "de": "Hat sich sonst keiner gefunden, der wieder umkehrte und gäbe Gott die Ehre, denn dieser Fremdling?",
+      "zh": "除了这外族人，再没有别人回来归荣耀与　神吗？」",
+      "ja": "神をあがめるために戻って来た者は、この外国人のほかには、だれもいないのか。」"
+    },
+    {
+      "number": 19,
+      "ko": "그에게 이르시되 일어나 가라 네 믿음이 너를 구원하였느니라 하시더라",
+      "en": "Then he said to him, \"Rise and go; your faith has made you well.\"",
+      "de": "Und er sprach zu ihm: Stehe auf, gehe hin; dein Glaube hat dir geholfen.",
+      "zh": "就对那人说：「起来，走吧！你的信救了你了。」",
+      "ja": "それからその人に言われた。「立ち上がって、行きなさい。あなたの信仰が、あなたを直したのです。」"
+    },
+    {
+      "number": 20,
+      "ko": "바리새인들이 하나님의 나라가 어느 때에 임하나이까 묻거늘 예수께서 대답하여 이르시되 하나님의 나라는 볼 수 있게 임하는 것이 아니요",
+      "en": "Once, having been asked by the Pharisees when the kingdom of God would come, Jesus replied, \"The kingdom of God does not come with your careful observation,",
+      "de": "Da er aber gefragt ward von den Pharisäern: Wann kommt das Reich Gottes? antwortete er ihnen und sprach: Das Reich Gottes kommt nicht mit äußerlichen Gebärden;",
+      "zh": "法利赛人问：「　神的国几时来到？」耶稣回答说：「　神的国来到不是眼所能见的。",
+      "ja": "さて、神の国はいつ来るのか、とパリサイ人たちに尋ねられたとき、イエスは答えて言われた。「神の国は、人の目で認められるようにして来るものではありません。"
+    },
+    {
+      "number": 21,
+      "ko": "또 여기 있다 저기 있다고도 못하리니 하나님의 나라는 너희 안에 있느니라",
+      "en": "nor will people say, 'Here it is,' or 'There it is,' because the kingdom of God is within you.\"",
+      "de": "man wird auch nicht sagen: Siehe hier! oder: da ist es! Denn sehet, das Reich Gottes ist inwendig in euch.",
+      "zh": "人也不得说：『看哪，在这里！看哪，在那里！』因为　神的国就在你们心里。」",
+      "ja": "『そら、ここにある。』とか、『あそこにある。』とか言えるようなものではありません。いいですか。神の国は、あなたがたのただ中にあるのです。」"
+    },
+    {
+      "number": 22,
+      "ko": "또 제자들에게 이르시되 때가 이르리니 너희가 인자의 날 하루를 보고자 하되 보지 못하리라",
+      "en": "Then he said to his disciples, \"The time is coming when you will long to see one of the days of the Son of Man, but you will not see it.",
+      "de": "Er sprach aber zu den Jüngern: Es wird die Zeit kommen, daß ihr werdet begehren zu sehen einen Tag des Menschensohnes, und werdet ihn nicht sehen.",
+      "zh": "他又对门徒说：「日子将到，你们巴不得看见人子的一个日子，却不得看见。",
+      "ja": "イエスは弟子たちに言われた。「人の子の日を一日でも見たいと願っても、見られない時が来ます。"
+    },
+    {
+      "number": 23,
+      "ko": "사람이 너희에게 말하되 보라 저기 있다 보라 여기 있다 하리라 그러나 너희는 가지도 말고 따르지도 말라",
+      "en": "Men will tell you, 'There he is!' or 'Here he is!' Do not go running off after them.",
+      "de": "Und sie werden zu euch sagen: Siehe hier! siehe da! Gehet nicht hin und folget auch nicht.",
+      "zh": "人将要对你们说：『看哪，在那里！看哪，在这里！』你们不要出去，也不要跟随他们！",
+      "ja": "人々が『こちらだ。』とか、『あちらだ。』とか言っても行ってはなりません。あとを追いかけてはなりません。"
+    },
+    {
+      "number": 24,
+      "ko": "번개가 하늘 아래 이쪽에서 번쩍이어 하늘 아래 저쪽까지 비침같이 인자도 자기 날에 그러하리라",
+      "en": "For the Son of Man in his day will be like the lightning, which flashes and lights up the sky from one end to the other.",
+      "de": "Denn wie der Blitz oben vom Himmel blitzt und leuchtet über alles, was unter dem Himmel ist, also wird des Menschen Sohn an seinem Tage sein.",
+      "zh": "因为人子在他降临的日子，好像闪电从天这边一闪直照到天那边。",
+      "ja": "いなずまが、ひらめいて、天の端から天の端へと輝くように、人の子は、人の子の日には、ちょうどそのようであるからです。"
+    },
+    {
+      "number": 25,
+      "ko": "그러나 그가 먼저 많은 고난을 받으며 이 세대에게 버린 바 되어야 할지니라",
+      "en": "But first he must suffer many things and be rejected by this generation.",
+      "de": "Zuvor aber muß er viel leiden und verworfen werden von diesem Geschlecht.",
+      "zh": "只是他必须先受许多苦，又被这世代弃绝。",
+      "ja": "しかし、人の子はまず、多くの苦しみを受け、この時代に捨てられなければなりません。"
+    },
+    {
+      "number": 26,
+      "ko": "노아의 때에 된 것과 같이 인자의 때에도 그러하리라",
+      "en": "\"Just as it was in the days of Noah, so also will it be in the days of the Son of Man.",
+      "de": "Und wie es geschah zu den Zeiten Noahs, so wird's auch geschehen in den Tagen des Menschensohnes:",
+      "zh": "挪亚的日子怎样，人子的日子也要怎样。",
+      "ja": "人の子の日に起こることは、ちょうど、ノアの日に起こったことと同様です。"
+    },
+    {
+      "number": 27,
+      "ko": "노아가 방주에 들어가던 날까지 사람들이 먹고 마시고 장가 들고 시집 가더니 홍수가 나서 그들을 다 멸망시켰으며",
+      "en": "People were eating, drinking, marrying and being given in marriage up to the day Noah entered the ark. Then the flood came and destroyed them all.",
+      "de": "sie aßen, sie tranken, sie freiten, sie ließen freien bis auf den Tag, da Noah in die Arche ging und die Sintflut kam und brachte sie alle um.",
+      "zh": "那时候的人又吃又喝，又娶又嫁，到挪亚进方舟的那日，洪水就来，把他们全都灭了。",
+      "ja": "ノアが箱舟にはいるその日まで、人々は、食べたり、飲んだり、めとったり、とついだりしていたが、洪水が来て、すべての人を滅ぼしてしまいました。"
+    },
+    {
+      "number": 28,
+      "ko": "또 롯의 때와 같으리니 사람들이 먹고 마시고 사고 팔고 심고 집을 짓더니",
+      "en": "\"It was the same in the days of Lot. People were eating and drinking, buying and selling, planting and building.",
+      "de": "Desgleichen wie es geschah zu den Zeiten Lots: sie aßen, sie tranken, sie kauften, sie verkauften, sie pflanzten, sie bauten;",
+      "zh": "又好像罗得的日子；人又吃又喝，又买又卖，又耕种又盖造。",
+      "ja": "また、ロトの時代にあったことと同様です。人々は食べたり、飲んだり、売ったり、買ったり、植えたり、建てたりしていたが、"
+    },
+    {
+      "number": 29,
+      "ko": "롯이 소돔에서 나가던 날에 하늘로부터 불과 유황이 비오듯 하여 그들을 멸망시켰느니라",
+      "en": "But the day Lot left Sodom, fire and sulfur rained down from heaven and destroyed them all.",
+      "de": "an dem Tage aber, da Lot aus Sodom ging, da regnete es Feuer und Schwefel vom Himmel und brachte sie alle um.",
+      "zh": "到罗得出所多玛的那日，就有火与硫磺从天上降下来，把他们全都灭了。",
+      "ja": "ロトがソドムから出て行くと、その日に、火と硫黄が天から降って、すべての人を滅ぼしてしまいました。"
+    },
+    {
+      "number": 30,
+      "ko": "인자가 나타나는 날에도 이러하리라",
+      "en": "\"It will be just like this on the day the Son of Man is revealed.",
+      "de": "Auf diese Weise wird's auch gehen an dem Tage, wenn des Menschen Sohn soll offenbart werden.",
+      "zh": "人子显现的日子也要这样。",
+      "ja": "人の子の現われる日にも、全くそのとおりです。"
+    },
+    {
+      "number": 31,
+      "ko": "그 날에 만일 사람이 지붕 위에 있고 그의 세간이 그 집 안에 있으면 그것을 가지러 내려가지 말 것이요 밭에 있는 자도 그와 같이 뒤로 돌이키지 말 것이니라",
+      "en": "On that day no one who is on the roof of his house, with his goods inside, should go down to get them. Likewise, no one in the field should go back for anything.",
+      "de": "An dem Tage, wer auf dem Dach ist und sein Hausrat in dem Hause, der steige nicht hernieder, ihn zu holen. Desgleichen wer auf dem Felde ist, der wende nicht um nach dem was hinter ihm ist.",
+      "zh": "当那日，人在房上，器具在屋里，不要下来拿；人在田里，也不要回家。",
+      "ja": "その日には、屋上にいる者は家に家財があっても、取り出しに降りてはいけません。同じように、畑にいる者も家に帰ってはいけません。"
+    },
+    {
+      "number": 32,
+      "ko": "롯의 처를 기억하라",
+      "en": "Remember Lot's wife!",
+      "de": "Gedenket an des Lot Weib!",
+      "zh": "你们要回想罗得的妻子。",
+      "ja": "ロトの妻を思い出しなさい。"
+    },
+    {
+      "number": 33,
+      "ko": "무릇 자기 목숨을 보전하고자 하는 자는 잃을 것이요 잃는 자는 살리리라",
+      "en": "Whoever tries to keep his life will lose it, and whoever loses his life will preserve it.",
+      "de": "Wer da sucht, seine Seele zu erhalten, der wird sie verlieren; und wer sie verlieren wird, der wird ihr zum Leben helfen.",
+      "zh": "凡想要保全生命的，必丧掉生命；凡丧掉生命的，必救活生命。",
+      "ja": "自分のいのちを救おうと努める者はそれを失い、それを失う者はいのちを保ちます。"
+    },
+    {
+      "number": 34,
+      "ko": "내가 너희에게 이르노니 그 밤에 둘이 한 자리에 누워 있으매 하나는 데려감을 얻고 하나는 버려둠을 당할 것이요",
+      "en": "I tell you, on that night two people will be in one bed; one will be taken and the other left.",
+      "de": "Ich sage euch: In derselben Nacht werden zwei auf einem Bette liegen; einer wird angenommen, der andere wird verlassen werden.",
+      "zh": "我对你们说，当那一夜，两个人在一个床上，要取去一个，撇下一个。",
+      "ja": "あなたがたに言いますが、その夜、同じ寝台で男がふたり寝ていると、ひとりは取られ、他のひとりは残されます。"
+    },
+    {
+      "number": 35,
+      "ko": "두 여자가 함께 맷돌을 갈고 있으매 하나는 데려감을 얻고 하나는 버려둠을 당할 것이니라",
+      "en": "Two women will be grinding grain together; one will be taken and the other left.\"",
+      "de": "Zwei werden mahlen miteinander; eine wird angenommen, die andere wird verlassen werden.",
+      "zh": "两个女人一同推磨，要取去一个，撇下一个。」",
+      "ja": "女がふたりいっしょに臼をひいていると、ひとりは取られ、他のひとりは残されます。」"
+    },
+    {
+      "number": 36,
+      "ko": "(없음)",
+      "en": "",
+      "de": "Zwei werden auf dem Felde sein; einer wird angenommen, der andere wird verlassen werden.",
+      "zh": "门徒说：「主啊，在哪里有这事呢？」耶稣说：「尸首在哪里，鹰也必聚在那里。」",
+      "ja": "弟子たちは答えて言った。「主よ。どこでですか。」主は言われた。「死体のある所、そこに、はげたかも集まります。」"
+    },
+    {
+      "number": 37,
+      "ko": "그들이 대답하여 이르되 주여 어디오니이까 이르시되 주검 있는 곳에는 독수리가 모이느니라 하시니라",
+      "en": "\"Where, Lord?\" they asked. He replied, \"Where there is a dead body, there the vultures will gather.\"",
+      "de": "Und sie antworteten und sprachen zu ihm: HERR wo? Er aber sprach zu ihnen: Wo das Aas ist, da sammeln sich auch die Adler.",
+      "zh": "",
+      "ja": ""
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "book": "Psalms",
+  "chapter": 83,
+  "verses": [
+    {
+      "number": 1,
+      "ko": "하나님이여 침묵하지 마소서 하나님이여 잠잠하지 마시고 조용하지 마소서",
+      "en": "A song. A psalm of Asaph. O God, do not keep silent; be not quiet, O God, be not still.",
+      "de": "Ein Psalmlied Asaphs. Gott, schweige doch nicht also und sei doch nicht so still; Gott, halt doch nicht so inne!",
+      "zh": "亚萨的诗歌。 　神啊，求你不要静默！ 　神啊，求你不要闭口，也不要不作声！",
+      "ja": "神よもだしたまふなかれ神よものいはで寂靜たまふなかれ"
+    },
+    {
+      "number": 2,
+      "ko": "무릇 주의 원수들이 떠들며 주를 미워하는 자들이 머리를 들었나이다",
+      "en": "See how your enemies are astir, how your foes rear their heads.",
+      "de": "Denn siehe, deine Feinde toben, und die dich hassen, richten den Kopf auf.",
+      "zh": "因为你的仇敌喧嚷， 恨你的抬起头来。",
+      "ja": "視よなんぢの仇はかしがきしき聲をあげ汝をにくむものは首をあげたり"
+    },
+    {
+      "number": 3,
+      "ko": "그들이 주의 백성을 치려 하여 간계를 꾀하며 주께서 숨기신 자를 치려고 서로 의논하여",
+      "en": "With cunning they conspire against your people; they plot against those you cherish.",
+      "de": "Sie machen listige Anschläge gegen dein Volk und ratschlagen wider deine Verborgenen.",
+      "zh": "他们同谋奸诈要害你的百姓， 彼此商议要害你所隐藏的人。",
+      "ja": "かれらはたくみなる謀略をもてなんぢの民にむかひ相共にはかりて汝のかくれたる者にむかふ"
+    },
+    {
+      "number": 4,
+      "ko": "말하기를 가서 그들을 멸하여 다시 나라가 되지 못하게 하여 이스라엘의 이름으로 다시는 기억되지 못하게 하자 하나이다",
+      "en": "\"Come,\" they say, \"let us destroy them as a nation, that the name of Israel be remembered no more.\"",
+      "de": "“Wohl her!” sprechen sie; “laßt uns sie ausrotten, daß sie kein Volk seien, daß des Namens Israel nicht mehr gedacht werde!”",
+      "zh": "他们说：来吧，我们将他们剪灭， 使他们不再成国！ 使以色列的名不再被人记念！",
+      "ja": "かれらいひたりき 來かれらを斷滅してふたたび國をたつることを得ざらしめイスラエルの名をふたたび人にしられざらしめんと"
+    },
+    {
+      "number": 5,
+      "ko": "그들이 한마음으로 의논하고 주를 대적하여 서로 동맹하니",
+      "en": "With one mind they plot together; they form an alliance against you--",
+      "de": "Denn sie haben sich miteinander vereinigt und einen Bund wider dich gemacht,",
+      "zh": "他们同心商议， 彼此结盟，要抵挡你，",
+      "ja": "かれらは心を一つにしてともにはかり互にちかひをなしてなんぢに逆ふ"
+    },
+    {
+      "number": 6,
+      "ko": "곧 에돔의 장막과 이스마엘인과 모압과 하갈인이며",
+      "en": "the tents of Edom and the Ishmaelites, of Moab and the Hagrites,",
+      "de": "die Hütten der Edomiter und Ismaeliter, der Moabiter und Hagariter,",
+      "zh": "就是住帐棚的以东人和以实玛利人， 摩押和夏甲人，",
+      "ja": "こはエドムの幕屋にすめる人イシマエル人モアブ、ハガル人"
+    },
+    {
+      "number": 7,
+      "ko": "그발과 암몬과 아말렉이며 블레셋과 두로 사람이요",
+      "en": "Gebal, Ammon and Amalek, Philistia, with the people of Tyre.",
+      "de": "der Gebaliter, Ammoniter und Amalekiter, die Philister samt denen zu Tyrus;",
+      "zh": "迦巴勒、亚扪， 和亚玛力、非利士并泰尔的居民。",
+      "ja": "ゲバル、アンモン、アマレク、ペリシテおよびツロの民などなり"
+    },
+    {
+      "number": 8,
+      "ko": "앗수르도 그들과 연합하여 롯 자손의 도움이 되었나이다 (셀라)",
+      "en": "Even Assyria has joined them to lend strength to the descendants of Lot. Selah",
+      "de": "Assur hat sich auch zu ihnen geschlagen; sie helfen den Kindern Lot. (Sela.)",
+      "zh": "亚述也与他们连合； 他们作罗得子孙的帮手。 （细拉）",
+      "ja": "アッスリヤも亦かれらにくみせり 斯てロトの子輩のたすけをなせり セラ"
+    },
+    {
+      "number": 9,
+      "ko": "주는 미디안인에게 행하신 것 같이, 기손 시내에서 시스라와 야빈에게 행하신 것 같이 그들에게도 행하소서",
+      "en": "Do to them as you did to Midian, as you did to Sisera and Jabin at the river Kishon,",
+      "de": "Tue ihnen, wie den Midianitern, wie Sisera, wie Jabin am Bach Kison,",
+      "zh": "求你待他们，如待米甸， 如在基顺河待西西拉和耶宾一样。",
+      "ja": "なんぢ曩にミデアンになしたまへる如くキションの河にてシセラとヤビンとに作たまへるごとく彼等にもなしたまへ"
+    },
+    {
+      "number": 10,
+      "ko": "그들은 엔돌에서 패망하여 땅에 거름이 되었나이다",
+      "en": "who perished at Endor and became like refuse on the ground.",
+      "de": "die vertilgt wurden bei Endor und wurden zu Kot auf der Erde.",
+      "zh": "他们在隐·多珥灭亡， 成了地上的粪土。",
+      "ja": "かれらはエンドルにてほろび地のために肥料となれり"
+    },
+    {
+      "number": 11,
+      "ko": "그들의 귀인들이 오렙과 스엡 같게 하시며 그들의 모든 고관들은 세바와 살문나와 같게 하소서",
+      "en": "Make their nobles like Oreb and Zeeb, all their princes like Zebah and Zalmunna,",
+      "de": "Mache ihre Fürsten wie Oreb und Seeb, alle ihre Obersten wie Sebah und Zalmuna,",
+      "zh": "求你叫他们的首领像俄立和西伊伯， 叫他们的王子都像西巴和撒慕拿。",
+      "ja": "かれらの貴人をオレブ、ゼエブのごとくそのもろもろの侯をゼバ、ザルムンナのごとくなしたまへ"
+    },
+    {
+      "number": 12,
+      "ko": "그들이 말하기를 우리가 하나님의 목장을 우리의 소유로 취하자 하였나이다",
+      "en": "who said, \"Let us take possession of the pasturelands of God.\"",
+      "de": "die da sagen: Wir wollen Häuser Gottes einnehmen.",
+      "zh": "他们说：我们要得　神的住处， 作为自己的产业。",
+      "ja": "かれらはいへり われら神の草苑をえてわが有とすべしと"
+    },
+    {
+      "number": 13,
+      "ko": "나의 하나님이여 그들이 굴러가는 검불 같게 하시며 바람에 날리는 지푸라기 같게 하소서",
+      "en": "Make them like tumbleweed, O my God, like chaff before the wind.",
+      "de": "Gott, mache sie wie einen Wirbel, wie Stoppeln vor dem Winde.",
+      "zh": "我的　神啊，求你叫他们像旋风的尘土， 像风前的碎秸。",
+      "ja": "わが神よかれらをまきあげらるる塵のごとく風のまへの藁のごとくならしめたまへ"
+    },
+    {
+      "number": 14,
+      "ko": "삼림을 사르는 불과 산에 붙는 불길 같이",
+      "en": "As fire consumes the forest or a flame sets the mountains ablaze,",
+      "de": "Wie ein Feuer den Wald verbrennt und wie eine Flamme die Berge anzündet:",
+      "zh": "火怎样焚烧树林， 火焰怎样烧着山岭，",
+      "ja": "林をやく火のごとく山をもやす熖のごとく"
+    },
+    {
+      "number": 15,
+      "ko": "주의 광풍으로 그들을 쫓으시며 주의 폭풍으로 그들을 두렵게 하소서",
+      "en": "so pursue them with your tempest and terrify them with your storm.",
+      "de": "also verfolge sie mit deinem Wetter und erschrecke sie mit deinem Ungewitter.",
+      "zh": "求你也照样用狂风追赶他们， 用暴雨恐吓他们。",
+      "ja": "なんぢの暴風をもてかれらを追ひなんぢの旋風をもてかれらを怖れしめたまへ"
+    },
+    {
+      "number": 16,
+      "ko": "여호와여 그들의 얼굴에 수치가 가득하게 하사 그들이 주의 이름을 찾게 하소서",
+      "en": "Cover their faces with shame so that men will seek your name, O LORD.",
+      "de": "Mache ihr Angesicht voll Schande, daß sie nach deinem Namen fragen müssen, o HERR.",
+      "zh": "愿你使他们满面羞耻， 好叫他们寻求你—耶和华的名！",
+      "ja": "かれらの面に恥をみたしめたまへ ヱホバよ然ばかれらなんぢの名をもとめん"
+    },
+    {
+      "number": 17,
+      "ko": "그들로 수치를 당하여 영원히 놀라게 하시며 낭패와 멸망을 당하게 하사",
+      "en": "May they ever be ashamed and dismayed; may they perish in disgrace.",
+      "de": "Schämen müssen sie sich und erschrecken auf immer und zu Schanden werden und umkommen;",
+      "zh": "愿他们永远羞愧惊惶！ 愿他们惭愧灭亡！",
+      "ja": "かれらをとこしへに恥おそれしめ惶てまどひて亡びうせしめたまへ"
+    },
+    {
+      "number": 18,
+      "ko": "여호와라 이름하신 주만 온 세계의 지존자로 알게 하소서",
+      "en": "Let them know that you, whose name is the LORD--that you alone are the Most High over all the earth.",
+      "de": "so werden sie erkennen, daß du mit deinem Namen heißest HERR allein und der Höchste in aller Welt.",
+      "zh": "使他们知道：惟独你— 名为耶和华的—是全地以上的至高者！",
+      "ja": "然ばかれらはヱホバてふ名をもちたまふ汝のみ全地をしろしめす至上者なることを知るべし"
+    }
+  ]
+}

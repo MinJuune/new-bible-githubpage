@@ -1,0 +1,286 @@
+{
+  "book": "Proverbs",
+  "chapter": 6,
+  "verses": [
+    {
+      "number": 1,
+      "ko": "내 아들아 네가 만일 이웃을 위하여 담보하며 타인을 위하여 보증하였으면",
+      "en": "My son, if you have put up security for your neighbor, if you have struck hands in pledge for another,",
+      "de": "Mein Kind, wirst du Bürge für deinen Nächsten und hast deine Hand bei einem Fremden verhaftet,",
+      "zh": "我儿，你若为朋友作保， 替外人击掌，",
+      "ja": "我子よ汝もし朋友のために保證をなし 他人のために汝の手を拍ば"
+    },
+    {
+      "number": 2,
+      "ko": "네 입의 말로 네가 얽혔으며 네 입의 말로 인하여 잡히게 되었느니라",
+      "en": "if you have been trapped by what you said, ensnared by the words of your mouth,",
+      "de": "so bist du verknüpft durch die Rede deines Mundes und gefangen mit den Reden deines Mundes.",
+      "zh": "你就被口中的话语缠住， 被嘴里的言语捉住。",
+      "ja": "汝その口の言によりてわなにかかり その口の言によりてとらへらるるなり"
+    },
+    {
+      "number": 3,
+      "ko": "내 아들아 네가 네 이웃의 손에 빠졌은즉 이같이 하라 너는 곧 가서 겸손히 네 이웃에게 간구하여 스스로 구원하되",
+      "en": "then do this, my son, to free yourself, since you have fallen into your neighbor's hands: Go and humble yourself; press your plea with your neighbor!",
+      "de": "So tue doch, mein Kind, also und errette dich, denn du bist deinem Nächsten in die Hände gekommen: eile, dränge und treibe deinen Nächsten.",
+      "zh": "我儿，你既落在朋友手中， 就当这样行才可救自己： 你要自卑，去恳求你的朋友。",
+      "ja": "我子よ汝友の手に陷りしならば斯して自ら救へ すなはち往て自ら謙だり只管なんぢの友に求め"
+    },
+    {
+      "number": 4,
+      "ko": "네 눈을 잠들게 하지 말며 눈꺼풀을 감기게 하지 말고",
+      "en": "Allow no sleep to your eyes, no slumber to your eyelids.",
+      "de": "Laß deine Augen nicht schlafen, noch deinen Augenlider schlummern.",
+      "zh": "不要容你的眼睛睡觉； 不要容你的眼皮打盹。",
+      "ja": "汝の目をして睡らしむることなく 汝の眼瞼をして閉しむること勿れ"
+    },
+    {
+      "number": 5,
+      "ko": "노루가 사냥꾼의 손에서 벗어나는 것 같이, 새가 그물 치는 자의 손에서 벗어나는 것 같이 스스로 구원하라",
+      "en": "Free yourself, like a gazelle from the hand of the hunter, like a bird from the snare of the fowler.",
+      "de": "Errette dich wie ein Reh von der Hand und wie eine Vogel aus der Hand des Voglers.",
+      "zh": "要救自己，如鹿脱离猎户的手， 如鸟脱离捕鸟人的手。",
+      "ja": "かりうどの手より鹿ののがるるごとく 鳥とる者の手より鳥ののがるる如くして みづからを救へ"
+    },
+    {
+      "number": 6,
+      "ko": "게으른 자여 개미에게 가서 그가 하는 것을 보고 지혜를 얻으라",
+      "en": "Go to the ant, you sluggard; consider its ways and be wise!",
+      "de": "Gehe hin zur Ameise, du Fauler; siehe ihre Weise an und lerne!",
+      "zh": "懒惰人哪， 你去察看蚂蚁的动作就可得智慧。",
+      "ja": "惰者よ蟻にゆき其爲すところを觀て智慧をえよ"
+    },
+    {
+      "number": 7,
+      "ko": "개미는 두령도 없고 감독자도 없고 통치자도 없으되",
+      "en": "It has no commander, no overseer or ruler,",
+      "de": "Ob sie wohl keinen Fürsten noch Hauptmann noch Herrn hat,",
+      "zh": "蚂蚁没有元帅， 没有官长，没有君王，",
+      "ja": "蟻は首領なく有司なく君主なけれども"
+    },
+    {
+      "number": 8,
+      "ko": "먹을 것을 여름 동안에 예비하며 추수 때에 양식을 모으느니라",
+      "en": "yet it stores its provisions in summer and gathers its food at harvest.",
+      "de": "bereitet sie doch ihr Brot im Sommer und sammelt ihre Speise in der Ernte.",
+      "zh": "尚且在夏天预备食物， 在收割时聚敛粮食。",
+      "ja": "夏のうちに食をそなへ 収穫のときに糧を斂む"
+    },
+    {
+      "number": 9,
+      "ko": "게으른 자여 네가 어느 때까지 누워 있겠느냐 네가 어느 때에 잠이 깨어 일어나겠느냐",
+      "en": "How long will you lie there, you sluggard? When will you get up from your sleep?",
+      "de": "Wie lange liegst du, Fauler? Wann willst du aufstehen von deinem Schlaf?",
+      "zh": "懒惰人哪，你要睡到几时呢？ 你何时睡醒呢？",
+      "ja": "惰者よ汝いづれの時まで臥息むや いづれの時まで睡りて起ざるや"
+    },
+    {
+      "number": 10,
+      "ko": "좀더 자자, 좀더 졸자, 손을 모으고 좀더 누워 있자 하면",
+      "en": "A little sleep, a little slumber, a little folding of the hands to rest--",
+      "de": "Ja, schlafe noch ein wenig, schlummere ein wenig, schlage die Hände ineinander ein wenig, daß du schlafest,",
+      "zh": "再睡片时，打盹片时， 抱着手躺卧片时，",
+      "ja": "しばらく臥ししばらく睡り 手を叉きてまた片時やすむ"
+    },
+    {
+      "number": 11,
+      "ko": "네 빈궁이 강도 같이 오며 네 곤핍이 군사 같이 이르리라",
+      "en": "and poverty will come on you like a bandit and scarcity like an armed man.",
+      "de": "so wird dich die Armut übereilen wie ein Fußgänger und der Mangel wie ein gewappneter Mann.",
+      "zh": "你的贫穷就必如强盗速来， 你的缺乏仿佛拿兵器的人来到。",
+      "ja": "さらば汝の貧窮は盗人の如くきたり汝の缺乏は兵士の如くきたるべし"
+    },
+    {
+      "number": 12,
+      "ko": "불량하고 악한 자는 구부러진 말을 하고 다니며",
+      "en": "A scoundrel and villain, who goes about with a corrupt mouth,",
+      "de": "Ein heilloser Mensch, ein schädlicher Mann geht mit verstelltem Munde,",
+      "zh": "无赖的恶徒， 行动就用乖僻的口，",
+      "ja": "邪曲なる人あしき人は虚偽の言をもて事を行ふ"
+    },
+    {
+      "number": 13,
+      "ko": "눈짓을 하며 발로 뜻을 보이며 손가락질을 하며",
+      "en": "who winks with his eye, signals with his feet and motions with his fingers,",
+      "de": "winkt mit Augen, deutet mit Füßen, zeigt mit Fingern,",
+      "zh": "用眼传神， 用脚示意， 用指点划，",
+      "ja": "彼は眼をもて眴せし 脚をもてしらせ 指をもて示す"
+    },
+    {
+      "number": 14,
+      "ko": "그의 마음에 패역을 품으며 항상 악을 꾀하여 다툼을 일으키는 자라",
+      "en": "who plots evil with deceit in his heart--he always stirs up dissension.",
+      "de": "trachtet allezeit Böses und Verkehrtes in seinem Herzen und richtet Hader an.",
+      "zh": "心中乖僻， 常设恶谋， 布散纷争。",
+      "ja": "その心に虚偽をたもち 常に惡をはかり 爭端を起す"
+    },
+    {
+      "number": 15,
+      "ko": "그러므로 그의 재앙이 갑자기 내려 당장에 멸망하여 살릴 길이 없으리라",
+      "en": "Therefore disaster will overtake him in an instant; he will suddenly be destroyed--without remedy.",
+      "de": "Darum wird ihm plötzlich sein Verderben kommen, und er wird schnell zerbrochen werden, da keine Hilfe dasein wird.",
+      "zh": "所以，灾难必忽然临到他身； 他必顷刻败坏，无法可治。",
+      "ja": "この故にその禍害にはかに來り 援助なくして立刻に敗らるべし"
+    },
+    {
+      "number": 16,
+      "ko": "여호와께서 미워하시는 것 곧 그의 마음에 싫어하시는 것이 예닐곱 가지이니",
+      "en": "There are six things the LORD hates, seven that are detestable to him:",
+      "de": "Diese sechs Stücke haßt der HERR, und am siebenten hat er einen Greuel:",
+      "zh": "耶和华所恨恶的有六样， 连他心所憎恶的共有七样：",
+      "ja": "ヱホバの憎みたまふもの六あり 否その心に嫌ひたまふもの七あり"
+    },
+    {
+      "number": 17,
+      "ko": "곧 교만한 눈과 거짓된 혀와 무죄한 자의 피를 흘리는 손과",
+      "en": "haughty eyes, a lying tongue, hands that shed innocent blood,",
+      "de": "hohe Augen, falsche Zunge, Hände, die unschuldig Blut vergießen,",
+      "zh": "就是高傲的眼， 撒谎的舌， 流无辜人血的手，",
+      "ja": "即ち驕る目いつはりをいふ舌 つみなき人の血を流す手"
+    },
+    {
+      "number": 18,
+      "ko": "악한 계교를 꾀하는 마음과 빨리 악으로 달려가는 발과",
+      "en": "a heart that devises wicked schemes, feet that are quick to rush into evil,",
+      "de": "Herz, das mit böser Tücke umgeht, Füße, die behend sind, Schaden zu tun,",
+      "zh": "图谋恶计的心， 飞跑行恶的脚，",
+      "ja": "惡き謀計をめぐらす心 すみやかに惡に趨る足"
+    },
+    {
+      "number": 19,
+      "ko": "거짓을 말하는 망령된 증인과 및 형제 사이를 이간하는 자이니라",
+      "en": "a false witness who pours out lies and a man who stirs up dissension among brothers.",
+      "de": "falscher Zeuge, der frech Lügen redet und wer Hader zwischen Brüdern anrichtet.",
+      "zh": "吐谎言的假见证， 并弟兄中布散纷争的人。",
+      "ja": "詐僞をのぶる證人 および兄弟のうちに爭端をおこす者なり"
+    },
+    {
+      "number": 20,
+      "ko": "내 아들아 네 아비의 명령을 지키며 네 어미의 법을 떠나지 말고",
+      "en": "My son, keep your father's commands and do not forsake your mother's teaching.",
+      "de": "Mein Kind, bewahre die Gebote deines Vaters und laß nicht fahren das Gesetz deiner Mutter.",
+      "zh": "我儿，要谨守你父亲的诫命； 不可离弃你母亲的法则，",
+      "ja": "我子よ汝の父の誡命を守り 汝の母の法を棄る勿れ"
+    },
+    {
+      "number": 21,
+      "ko": "그것을 항상 네 마음에 새기며 네 목에 매라",
+      "en": "Bind them upon your heart forever; fasten them around your neck.",
+      "de": "Binde sie zusammen auf dein Herz allewege und hänge sie an deinen Hals,",
+      "zh": "要常系在你心上， 挂在你项上。",
+      "ja": "常にこれを汝の心にむす び之をなんぢの頸に佩よ"
+    },
+    {
+      "number": 22,
+      "ko": "그것이 네가 다닐 때에 너를 인도하며 네가 잘 때에 너를 보호하며 네가 깰 때에 너와 더불어 말하리니",
+      "en": "When you walk, they will guide you; when you sleep, they will watch over you; when you awake, they will speak to you.",
+      "de": "wenn du gehst, daß sie dich geleiten; wenn du dich legst, daß sie dich bewahren; wenn du aufwachst, daß sie zu dir sprechen.",
+      "zh": "你行走，它必引导你； 你躺卧，它必保守你； 你睡醒，它必与你谈论。",
+      "ja": "これは汝のゆくとき汝をみちびき 汝の寝るとき汝をまもり 汝の寤るとき汝とかたらん"
+    },
+    {
+      "number": 23,
+      "ko": "대저 명령은 등불이요 법은 빛이요 훈계의 책망은 곧 생명의 길이라",
+      "en": "For these commands are a lamp, this teaching is a light, and the corrections of discipline are the way to life,",
+      "de": "Denn das Gebot ist eine Leuchte und das Gesetz ein Licht, und die Strafe der Zucht ist ein Weg des Lebens,",
+      "zh": "因为诫命是灯，法则是光， 训诲的责备是生命的道，",
+      "ja": "それ誡命は燈火なり 法は光なり 敎訓の懲治は生命の道なり"
+    },
+    {
+      "number": 24,
+      "ko": "이것이 너를 지켜 악한 여인에게, 이방 여인의 혀로 호리는 말에 빠지지 않게 하리라",
+      "en": "keeping you from the immoral woman, from the smooth tongue of the wayward wife.",
+      "de": "auf daß du bewahrt werdest vor dem bösen Weibe, vor der glatten Zunge der Fremden.",
+      "zh": "能保你远离恶妇， 远离外女谄媚的舌头。",
+      "ja": "これは汝をまもりて惡き婦よりまぬかれしめ 汝をたもちて淫婦の舌の諂媚にまどはされざらしめん"
+    },
+    {
+      "number": 25,
+      "ko": "네 마음에 그의 아름다움을 탐하지 말며 그 눈꺼풀에 홀리지 말라",
+      "en": "Do not lust in your heart after her beauty or let her captivate you with her eyes,",
+      "de": "Laß dich ihre Schöne nicht gelüsten in deinem Herzen und verfange dich nicht an ihren Augenlidern.",
+      "zh": "你心中不要恋慕她的美色， 也不要被她眼皮勾引。",
+      "ja": "その艶美を心に戀ふことなかれ その眼瞼に捕へらるること勿れ"
+    },
+    {
+      "number": 26,
+      "ko": "음녀로 말미암아 사람이 한 조각 떡만 남게 됨이며 음란한 여인은 귀한 생명을 사냥함이니라",
+      "en": "for the prostitute reduces you to a loaf of bread, and the adulteress preys upon your very life.",
+      "de": "Denn eine Hure bringt einen ums Brot; aber eines andern Weib fängt das edle Leben.",
+      "zh": "因为，妓女能使人只剩一块饼； 淫妇猎取人宝贵的生命。",
+      "ja": "それ娼妓のために人はただ僅に一撮の糧をのこすのみにいたる 又淫婦は人の尊き生命を求むるなり"
+    },
+    {
+      "number": 27,
+      "ko": "사람이 불을 품에 품고서야 어찌 그의 옷이 타지 아니하겠으며",
+      "en": "Can a man scoop fire into his lap without his clothes being burned?",
+      "de": "Kann auch jemand ein Feuer im Busen behalten, daß seine Kleider nicht brennen?",
+      "zh": "人若怀里搋火， 衣服岂能不烧呢？",
+      "ja": "人は火を懐に抱きてその衣を焚れざらんや"
+    },
+    {
+      "number": 28,
+      "ko": "사람이 숯불을 밟고서야 어찌 그의 발이 데지 아니하겠느냐",
+      "en": "Can a man walk on hot coals without his feet being scorched?",
+      "de": "Wie sollte jemand auf Kohlen gehen, daß seine Füße nicht verbrannt würden?",
+      "zh": "人若在火炭上走， 脚岂能不烫呢？",
+      "ja": "人は熱火を踏て其足を焚れざらんや"
+    },
+    {
+      "number": 29,
+      "ko": "남의 아내와 통간하는 자도 이와 같을 것이라 그를 만지는 자마다 벌을 면하지 못하리라",
+      "en": "So is he who sleeps with another man's wife; no one who touches her will go unpunished.",
+      "de": "Also gehet's dem, der zu seines Nächsten Weib geht; es bleibt keiner ungestraft, der sie berührt.",
+      "zh": "亲近邻舍之妻的，也是如此； 凡挨近她的，不免受罚。",
+      "ja": "その隣の妻と姦淫をおこなふ者もかくあるべし 凡て之に捫る者は罪なしとせられず"
+    },
+    {
+      "number": 30,
+      "ko": "도둑이 만일 주릴 때에 배를 채우려고 도둑질하면 사람이 그를 멸시하지는 아니하려니와",
+      "en": "Men do not despise a thief if he steals to satisfy his hunger when he is starving.",
+      "de": "Es ist einem Diebe nicht so große Schmach, ob er stiehlt, seine Seele zu sättigen, weil ihn hungert;",
+      "zh": "贼因饥饿偷窃充饥， 人不藐视他，",
+      "ja": "竊む者もし饑しときに其饑を充さん爲にぬすめるならば人これを藐ぜじ"
+    },
+    {
+      "number": 31,
+      "ko": "들키면 칠 배를 갚아야 하리니 심지어 자기 집에 있는 것을 다 내주게 되리라",
+      "en": "Yet if he is caught, he must pay sevenfold, though it costs him all the wealth of his house.",
+      "de": "und ob er ergriffen wird, gibt er's siebenfältig wieder und legt dar alles Gut in seinem Hause.",
+      "zh": "若被找着，他必赔还七倍， 必将家中所有的尽都偿还。",
+      "ja": "もし捕へられなばその七倍を償ひ其家の所有をことごとく出さざるべからず"
+    },
+    {
+      "number": 32,
+      "ko": "여인과 간음하는 자는 무지한 자라 이것을 행하는 자는 자기의 영혼을 망하게 하며",
+      "en": "But a man who commits adultery lacks judgment; whoever does so destroys himself.",
+      "de": "Aber wer mit einem Weibe die Ehe bricht, der ist ein Narr; der bringt sein Leben ins Verderben.",
+      "zh": "与妇人行淫的，便是无知； 行这事的，必丧掉生命。",
+      "ja": "婦と姦淫をおこなふ者は智慧なきなり 之を行ふ者はおのれの霊魂を亡し"
+    },
+    {
+      "number": 33,
+      "ko": "상함과 능욕을 받고 부끄러움을 씻을 수 없게 되나니",
+      "en": "Blows and disgrace are his lot, and his shame will never be wiped away;",
+      "de": "Dazu trifft ihn Plage und Schande, und seine Schande wird nicht ausgetilgt.",
+      "zh": "他必受伤损，必被凌辱； 他的羞耻不得涂抹。",
+      "ja": "傷と陵辱とをうけて其恥を雪ぐこと能はず"
+    },
+    {
+      "number": 34,
+      "ko": "남편이 투기로 분노하여 원수 갚는 날에 용서하지 아니하고",
+      "en": "for jealousy arouses a husband's fury, and he will show no mercy when he takes revenge.",
+      "de": "Denn der Grimm des Mannes eifert, und schont nicht zur Zeit der Rache",
+      "zh": "因为人的嫉恨成了烈怒， 报仇的时候决不留情。",
+      "ja": "妒忌その夫をして忿怒をもやさしむればその怨を報ゆるときかならず寛さじ"
+    },
+    {
+      "number": 35,
+      "ko": "어떤 보상도 받지 아니하며 많은 선물을 줄지라도 듣지 아니하리라",
+      "en": "He will not accept any compensation; he will refuse the bribe, however great it is.",
+      "de": "und sieht keine Person an, die da versöhne, und nimmt's nicht an, ob du viel schenken wolltest.",
+      "zh": "什么赎价，他都不顾； 你虽送许多礼物，他也不肯干休。",
+      "ja": "いかなる贖物をも顧みず 衆多の饋物をなすともやはらがざるべし"
+    }
+  ]
+}

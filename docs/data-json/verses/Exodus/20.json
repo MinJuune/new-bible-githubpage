@@ -1,0 +1,214 @@
+{
+  "book": "Exodus",
+  "chapter": 20,
+  "verses": [
+    {
+      "number": 1,
+      "ko": "하나님이 이 모든 말씀으로 말씀하여 이르시되",
+      "en": "And God spoke all these words:",
+      "de": "Und Gott redete alle diese Worte:",
+      "zh": "神吩咐这一切的话说：",
+      "ja": "神この一切の言を宣て言たまはく"
+    },
+    {
+      "number": 2,
+      "ko": "나는 너를 애굽 땅, 종 되었던 집에서 인도하여 낸 네 하나님 여호와니라",
+      "en": "\"I am the LORD your God, who brought you out of Egypt, out of the land of slavery.",
+      "de": "Ich bin der HERR, dein Gott, der ich dich aus Ägyptenland, aus dem Diensthause, geführt habe.",
+      "zh": "「我是耶和华—你的　神，曾将你从埃及地为奴之家领出来。",
+      "ja": "我は汝の神ヱホバ汝をエジプトの地その奴隸たる家より導き出せし者なり"
+    },
+    {
+      "number": 3,
+      "ko": "너는 나 외에는 다른 신들을 네게 두지 말라",
+      "en": "\"You shall have no other gods before me.",
+      "de": "Du sollst keine anderen Götter neben mir haben.",
+      "zh": "「除了我以外，你不可有别的神。",
+      "ja": "汝我面の前に我の外何物をも神とすべからず"
+    },
+    {
+      "number": 4,
+      "ko": "너를 위하여 새긴 우상을 만들지 말고 또 위로 하늘에 있는 것이나 아래로 땅에 있는 것이나 땅 아래 물 속에 있는 것의 어떤 형상도 만들지 말며",
+      "en": "\"You shall not make for yourself an idol in the form of anything in heaven above or on the earth beneath or in the waters below.",
+      "de": "Du sollst dir kein Bildnis noch irgend ein Gleichnis machen, weder des, das oben im Himmel, noch des, das unten auf Erden, oder des, das im Wasser unter der Erde ist.",
+      "zh": "「不可为自己雕刻偶像，也不可做什么形象仿佛上天、下地，和地底下、水中的百物。",
+      "ja": "汝自己のために何の偶像をも彫むべからず又上は天にある者下は地にある者ならびに地の下の水の中にある者の何の形状をも作るべからず"
+    },
+    {
+      "number": 5,
+      "ko": "그것들에게 절하지 말며 그것들을 섬기지 말라 나 네 하나님 여호와는 질투하는 하나님인즉 나를 미워하는 자의 죄를 갚되 아버지로부터 아들에게로 삼사 대까지 이르게 하거니와",
+      "en": "You shall not bow down to them or worship them; for I, the LORD your God, am a jealous God, punishing the children for the sin of the fathers to the third and fourth generation of those who hate me,",
+      "de": "Bete sie nicht an und diene ihnen nicht. Denn ich, der HERR, dein Gott, bin ein eifriger Gott, der da heimsucht der Väter Missetat an den Kindern bis in das dritte und vierte Glied, die mich hassen;",
+      "zh": "不可跪拜那些像，也不可事奉它，因为我耶和华—你的　神是忌邪的　神。恨我的，我必追讨他的罪，自父及子，直到三四代；",
+      "ja": "之を拝むべからずこれに事ふべからず我ヱホバ汝の神は嫉む神なれば我を惡む者にむかひては父の罪を子にむくいて三四代におよぼし"
+    },
+    {
+      "number": 6,
+      "ko": "나를 사랑하고 내 계명을 지키는 자에게는 천 대까지 은혜를 베푸느니라",
+      "en": "but showing love to a thousand generations of those who love me and keep my commandments.",
+      "de": "und tue Barmherzigkeit an vielen Tausenden, die mich liebhaben und meine Gebote halten.",
+      "zh": "爱我、守我诫命的，我必向他们发慈爱，直到千代。",
+      "ja": "我を愛しわが誡命を守る者には恩惠をほどこして千代にいたるなり"
+    },
+    {
+      "number": 7,
+      "ko": "너는 네 하나님 여호와의 이름을 망령되게 부르지 말라 여호와는 그의 이름을 망령되게 부르는 자를 죄 없다 하지 아니하리라",
+      "en": "\"You shall not misuse the name of the LORD your God, for the LORD will not hold anyone guiltless who misuses his name.",
+      "de": "Du sollst den Namen des HERRN, deines Gottes, nicht mißbrauchen; denn der HERR wird den nicht ungestraft lassen, der seinen Namen mißbraucht.",
+      "zh": "「不可妄称耶和华—你　神的名；因为妄称耶和华名的，耶和华必不以他为无罪。",
+      "ja": "汝の神ヱホバの名を妄に口にあぐべからずヱホバはおのれの名を妄に口にあぐる者を罰せではおかざるべし"
+    },
+    {
+      "number": 8,
+      "ko": "안식일을 기억하여 거룩하게 지키라",
+      "en": "\"Remember the Sabbath day by keeping it holy.",
+      "de": "Gedenke des Sabbattags, daß Du ihn heiligest.",
+      "zh": "「当记念安息日，守为圣日。",
+      "ja": "安息日を憶えてこれを聖潔すべし"
+    },
+    {
+      "number": 9,
+      "ko": "엿새 동안은 힘써 네 모든 일을 행할 것이나",
+      "en": "Six days you shall labor and do all your work,",
+      "de": "Sechs Tage sollst du arbeiten und alle dein Dinge beschicken;",
+      "zh": "六日要劳碌做你一切的工，",
+      "ja": "六日の間勞きて汝の一切の業を爲べし"
+    },
+    {
+      "number": 10,
+      "ko": "일곱째 날은 네 하나님 여호와의 안식일인즉 너나 네 아들이나 네 딸이나 네 남종이나 네 여종이나 네 가축이나 네 문안에 머무는 객이라도 아무 일도 하지 말라",
+      "en": "but the seventh day is a Sabbath to the LORD your God. On it you shall not do any work, neither you, nor your son or daughter, nor your manservant or maidservant, nor your animals, nor the alien within your gates.",
+      "de": "aber am siebenten Tage ist der Sabbat des HERRN, deines Gottes; da sollst du kein Werk tun noch dein Sohn noch deine Tochter noch dein Knecht noch deine Magd noch dein Vieh noch dein Fremdling, der in deinen Toren ist.",
+      "zh": "但第七日是向耶和华—你　神当守的安息日。这一日你和你的儿女、仆婢、牲畜，并你城里寄居的客旅，无论何工都不可做；",
+      "ja": "七日は汝の神ヱホバの安息なれば何の業務をも爲べからず汝も汝の息子息女も汝の僕婢も汝の家畜も汝の門の中にをる他國の人も然り"
+    },
+    {
+      "number": 11,
+      "ko": "이는 엿새 동안에 나 여호와가 하늘과 땅과 바다와 그 가운데 모든 것을 만들고 일곱째 날에 쉬었음이라 그러므로 나 여호와가 안식일을 복되게 하여 그 날을 거룩하게 하였느니라",
+      "en": "For in six days the LORD made the heavens and the earth, the sea, and all that is in them, but he rested on the seventh day. Therefore the LORD blessed the Sabbath day and made it holy.",
+      "de": "Denn in sechs Tagen hat der HERR Himmel und Erde gemacht und das Meer und alles, was darinnen ist, und ruhte am siebenten Tage. Darum segnete der HERR den Sabbattag und heiligte ihn.",
+      "zh": "因为六日之内，耶和华造天、地、海，和其中的万物，第七日便安息，所以耶和华赐福与安息日，定为圣日。",
+      "ja": "其はヱホバ六日の中に天と地と海と其等の中の一切の物を作りて第七日に息みたればなり是をもてヱホバ安息日を祝ひて聖日としたまふ"
+    },
+    {
+      "number": 12,
+      "ko": "네 부모를 공경하라 그리하면 네 하나님 여호와가 네게 준 땅에서 네 생명이 길리라",
+      "en": "\"Honor your father and your mother, so that you may live long in the land the LORD your God is giving you.",
+      "de": "Du sollst deinen Vater und deine Mutter ehren, auf daß du lange lebest in dem Lande, daß dir der HERR, dein Gott, gibt.",
+      "zh": "「当孝敬父母，使你的日子在耶和华—你　神所赐你的地上得以长久。",
+      "ja": "汝の父母を敬へ是は汝の神ヱホバの汝にたまふ所の地に汝の生命の長からんためなり"
+    },
+    {
+      "number": 13,
+      "ko": "살인하지 말라",
+      "en": "\"You shall not murder.",
+      "de": "Du sollst nicht töten.",
+      "zh": "「不可杀人。",
+      "ja": "汝殺すなかれ"
+    },
+    {
+      "number": 14,
+      "ko": "간음하지 말라",
+      "en": "\"You shall not commit adultery.",
+      "de": "Du sollst nicht ehebrechen.",
+      "zh": "「不可奸淫。",
+      "ja": "汝姦淫するなかれ"
+    },
+    {
+      "number": 15,
+      "ko": "도둑질하지 말라",
+      "en": "\"You shall not steal.",
+      "de": "Du sollst nicht stehlen.",
+      "zh": "「不可偷盗。",
+      "ja": "汝盗むなかれ"
+    },
+    {
+      "number": 16,
+      "ko": "네 이웃에 대하여 거짓 증거하지 말라",
+      "en": "\"You shall not give false testimony against your neighbor.",
+      "de": "Du sollst kein falsch Zeugnis reden wider deinen Nächsten.",
+      "zh": "「不可作假见证陷害人。",
+      "ja": "汝その隣人に對して虚妄の證據をたつるなかれ"
+    },
+    {
+      "number": 17,
+      "ko": "네 이웃의 집을 탐내지 말라 네 이웃의 아내나 그의 남종이나 그의 여종이나 그의 소나 그의 나귀나 무릇 네 이웃의 소유를 탐내지 말라",
+      "en": "\"You shall not covet your neighbor's house. You shall not covet your neighbor's wife, or his manservant or maidservant, his ox or donkey, or anything that belongs to your neighbor.\"",
+      "de": "Laß dich nicht gelüsten deines Nächsten Hauses. Laß dich nicht gelüsten deines Nächsten Weibes, noch seines Knechtes noch seiner Magd, noch seines Ochsen noch seines Esels, noch alles, was dein Nächster hat.",
+      "zh": "「不可贪恋人的房屋；也不可贪恋人的妻子、仆婢、牛驴，并他一切所有的。」",
+      "ja": "汝その隣人の家を貧るなかれ又汝の鄰人の妻およびその僕婢牛驢馬ならびに凡て汝の隣人の所有を貧るなかれ"
+    },
+    {
+      "number": 18,
+      "ko": "뭇 백성이 우레와 번개와 나팔 소리와 산의 연기를 본지라 그들이 볼 때에 떨며 멀리 서서",
+      "en": "When the people saw the thunder and lightning and heard the trumpet and saw the mountain in smoke, they trembled with fear. They stayed at a distance",
+      "de": "Und alles Volk sah den Donner und Blitz und den Ton der Posaune und den Berg rauchen. Da sie aber solches sahen, flohen sie und traten von ferne",
+      "zh": "众百姓见雷轰、闪电、角声、山上冒烟，就都发颤，远远地站立，",
+      "ja": "民みな雷と電と喇叭の音と山の煙るとを見たり民これを見て懼れをののきて遠く立ち"
+    },
+    {
+      "number": 19,
+      "ko": "모세에게 이르되 당신이 우리에게 말씀하소서 우리가 들으리이다 하나님이 우리에게 말씀하시지 말게 하소서 우리가 죽을까 하나이다",
+      "en": "and said to Moses, \"Speak to us yourself and we will listen. But do not have God speak to us or we will die.\"",
+      "de": "und sprachen zu Mose: Rede du mit uns, wir wollen gehorchen; und laß Gott nicht mit uns reden, wir möchten sonst sterben.",
+      "zh": "对摩西说：「求你和我们说话，我们必听；不要　神和我们说话，恐怕我们死亡。」",
+      "ja": "モーセにいひけるは汝われらに語れ我等聽ん唯神の我らに語りたまふことあらざらしめよ恐くは我等死ん"
+    },
+    {
+      "number": 20,
+      "ko": "모세가 백성에게 이르되 두려워하지 말라 하나님이 임하심은 너희를 시험하고 너희로 경외하여 범죄하지 않게 하려 하심이니라",
+      "en": "Moses said to the people, \"Do not be afraid. God has come to test you, so that the fear of God will be with you to keep you from sinning.\"",
+      "de": "Mose aber sprach zum Volk: Fürchtet euch nicht; denn Gott ist gekommen, daß er euch versuchte und daß seine Furcht euch vor Augen wäre, daß ihr nicht sündigt.",
+      "zh": "摩西对百姓说：「不要惧怕；因为　神降临是要试验你们，叫你们时常敬畏他，不致犯罪。」",
+      "ja": "モーセ民に言けるは畏るるなかれ神汝らを試みんため又その畏怖を汝らの面の前におきて汝らに罪を犯さざらしめんために臨みたまへるなり"
+    },
+    {
+      "number": 21,
+      "ko": "백성은 멀리 서 있고 모세는 하나님이 계신 흑암으로 가까이 가니라",
+      "en": "The people remained at a distance, while Moses approached the thick darkness where God was.",
+      "de": "Also trat das Volk von ferne; aber Mose machte sich hinzu in das Dunkel, darin Gott war.",
+      "zh": "于是百姓远远地站立；摩西就挨近　神所在的幽暗之中。",
+      "ja": "是において民は遠くに立ちしがモーセは神の在すところの濃雲に進みいたる"
+    },
+    {
+      "number": 22,
+      "ko": "여호와께서 모세에게 이르시되 너는 이스라엘 자손에게 이같이 이르라 내가 하늘로부터 너희에게 말하는 것을 너희 스스로 보았으니",
+      "en": "Then the LORD said to Moses, \"Tell the Israelites this: 'You have seen for yourselves that I have spoken to you from heaven:",
+      "de": "Und der HERR sprach zu ihm: Also sollst du den Kindern Israel sagen: Ihr habt gesehen, daß ich mit euch vom Himmel geredet habe.",
+      "zh": "耶和华对摩西说：「你要向以色列人这样说：『你们自己看见我从天上和你们说话了。",
+      "ja": "ヱホバ、モーセに言たまひけるは汝イスラエルの子孫に斯いふべし汝等は天よりわが汝等に語ふを見たり"
+    },
+    {
+      "number": 23,
+      "ko": "너희는 나를 비겨서 은으로나 금으로나 너희를 위하여 신상을 만들지 말고",
+      "en": "Do not make any gods to be alongside me; do not make for yourselves gods of silver or gods of gold.",
+      "de": "Darum sollt ihr nichts neben mir machen; silberne und goldene Götter sollt ihr nicht machen.",
+      "zh": "你们不可做什么神像与我相配，不可为自己做金银的神像。",
+      "ja": "汝等何をも我にならべて造るべからず銀の神をも金の神をも汝等のために造るべからず"
+    },
+    {
+      "number": 24,
+      "ko": "내게 토단을 쌓고 그 위에 네 양과 소로 네 번제와 화목제를 드리라 내가 내 이름을 기념하게 하는 모든 곳에서 네게 임하여 복을 주리라",
+      "en": "\"'Make an altar of earth for me and sacrifice on it your burnt offerings and fellowship offerings, your sheep and goats and your cattle. Wherever I cause my name to be honored, I will come to you and bless you.",
+      "de": "Einen Altar von Erde mache mir, darauf du dein Brandopfer und Dankopfer, deine Schafe und Rinder opferst. Denn an welchem Ort ich meines Namens Gedächtnis stiften werde, da will ich zu dir kommen und dich segnen.",
+      "zh": "你要为我筑土坛，在上面以牛羊献为燔祭和平安祭。凡记下我名的地方，我必到那里赐福给你。",
+      "ja": "汝土の壇を我に築きてその上に汝の燔祭と酬恩祭汝の羊と牛をそなふべし我は凡てわが名を憶えしむる處にて汝に臨みて汝を祝まん"
+    },
+    {
+      "number": 25,
+      "ko": "네가 내게 돌로 제단을 쌓거든 다듬은 돌로 쌓지 말라 네가 정으로 그것을 쪼면 부정하게 함이니라",
+      "en": "If you make an altar of stones for me, do not build it with dressed stones, for you will defile it if you use a tool on it.",
+      "de": "Und so du mir einen steinernen Altar machen willst, sollst du ihn nicht von gehauenen Steinen bauen; denn wo du mit deinem Messer darüber fährst, so wirst du ihn entweihen.",
+      "zh": "你若为我筑一座石坛，不可用凿成的石头，因你在上头一动家具，就把坛污秽了。",
+      "ja": "汝もし石の壇を我につくるならば琢石をもてこれを築くべからず其は汝もし鑿をこれに當なば之を汚すべければなり"
+    },
+    {
+      "number": 26,
+      "ko": "너는 층계로 내 제단에 오르지 말라 네 하체가 그 위에서 드러날까 함이니라",
+      "en": "And do not go up to my altar on steps, lest your nakedness be exposed on it.'",
+      "de": "Du sollst auch nicht auf Stufen zu meinem Altar steigen, daß nicht deine Blöße aufgedeckt werde vor ihm.",
+      "zh": "你上我的坛，不可用台阶，免得露出你的下体来。』」",
+      "ja": "汝階よりわが壇に升るべからず是汝の恥る處のその上に露るることなからんためなり"
+    }
+  ]
+}

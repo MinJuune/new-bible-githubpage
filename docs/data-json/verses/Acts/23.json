@@ -1,0 +1,286 @@
+{
+  "book": "Acts",
+  "chapter": 23,
+  "verses": [
+    {
+      "number": 1,
+      "ko": "바울이 공회를 주목하여 이르되 여러분 형제들아 오늘까지 나는 범사에 양심을 따라 하나님을 섬겼노라 하거늘",
+      "en": "Paul looked straight at the Sanhedrin and said, \"My brothers, I have fulfilled my duty to God in all good conscience to this day.\"",
+      "de": "Paulus aber sah den Rat an und sprach: Ihr Männer, liebe Brüder, ich habe mit allem guten Gewissen gewandelt vor Gott bis auf diesen Tag.",
+      "zh": "保罗定睛看着公会的人，说：「弟兄们，我在　神面前行事为人都是凭着良心，直到今日。」",
+      "ja": "パウロは議会を見つめて、こう言った。「兄弟たちよ。私は今日まで、全くきよい良心をもって、神の前に生活して来ました。」"
+    },
+    {
+      "number": 2,
+      "ko": "대제사장 아나니아가 바울 곁에 서 있는 사람들에게 그 입을 치라 명하니",
+      "en": "At this the high priest Ananias ordered those standing near Paul to strike him on the mouth.",
+      "de": "Der Hohepriester aber, Ananias, befahl denen, die um ihn standen, daß sie ihm aufs Maul schlügen.",
+      "zh": "大祭司亚拿尼亚就吩咐旁边站着的人打他的嘴。",
+      "ja": "すると大祭司アナニヤは、パウロのそばに立っている者たちに、彼の口を打てと命じた。"
+    },
+    {
+      "number": 3,
+      "ko": "바울이 이르되 회칠한 담이여 하나님이 너를 치시리로다 네가 나를 율법대로 심판한다고 앉아서 율법을 어기고 나를 치라 하느냐 하니",
+      "en": "Then Paul said to him, \"God will strike you, you whitewashed wall! You sit there to judge me according to the law, yet you yourself violate the law by commanding that I be struck!\"",
+      "de": "Da sprach Paulus zu ihm: Gott wird dich schlagen, du getünchte Wand! Sitzt du, mich zu richten nach dem Gesetz, und heißt mich schlagen wider das Gesetz?",
+      "zh": "保罗对他说：「你这粉饰的墙，　神要打你！你坐堂为的是按律法审问我，你竟违背律法，吩咐人打我吗？」",
+      "ja": "そのとき、パウロはアナニヤに向かってこう言った。「ああ、白く塗った壁。神があなたを打たれる。あなたは、律法に従って私をさばく座に着きながら、律法にそむいて、私を打てと命じるのですか。」"
+    },
+    {
+      "number": 4,
+      "ko": "곁에 선 사람들이 말하되 하나님의 대제사장을 네가 욕하느냐",
+      "en": "Those who were standing near Paul said, \"You dare to insult God's high priest?\"",
+      "de": "Die aber umherstanden sprachen: Schiltst du den Hohenpriester Gottes?",
+      "zh": "站在旁边的人说：「你辱骂　神的大祭司吗？」",
+      "ja": "するとそばに立っている者たちが、「あなたは神の大祭司をののしるのか。」と言ったので、"
+    },
+    {
+      "number": 5,
+      "ko": "바울이 이르되 형제들아 나는 그가 대제사장인 줄 알지 못하였노라 기록하였으되 너의 백성의 관리를 비방하지 말라 하였느니라 하더라",
+      "en": "Paul replied, \"Brothers, I did not realize that he was the high priest; for it is written: 'Do not speak evil about the ruler of your people.'\"",
+      "de": "Und Paulus sprach: Liebe Brüder, ich wußte nicht, daß er der Hohepriester ist. Denn es steht geschrieben: “Dem Obersten deines Volkes sollst du nicht fluchen.”",
+      "zh": "保罗说：「弟兄们，我不晓得他是大祭司；经上记着说：『不可毁谤你百姓的官长。』」",
+      "ja": "パウロが言った。「兄弟たち。私は彼が大祭司だとは知らなかった。確かに、『あなたの民の指導者を悪く言ってはいけない。』と書いてあります。」"
+    },
+    {
+      "number": 6,
+      "ko": "바울이 그 중 일부는 사두개인이요 다른 일부는 바리새인인 줄 알고 공회에서 외쳐 이르되 여러분 형제들아 나는 바리새인이요 또 바리새인의 아들이라 죽은 자의 소망 곧 부활로 말미암아 내가 심문을 받노라",
+      "en": "Then Paul, knowing that some of them were Sadducees and the others Pharisees, called out in the Sanhedrin, \"My brothers, I am a Pharisee, the son of a Pharisee. I stand on trial because of my hope in the resurrection of the dead.\"",
+      "de": "Da aber Paulus wußte, daß ein Teil Sadduzäer war und der andere Teil Pharisäer, rief er im Rat: Ihr Männer, liebe Brüder, ich bin ein Pharisäer und eines Pharisäers Sohn; ich werde angeklagt um der Hoffnung und Auferstehung willen der Toten.",
+      "zh": "保罗看出大众一半是撒都该人，一半是法利赛人，就在公会中大声说：「弟兄们，我是法利赛人，也是法利赛人的子孙。我现在受审问，是为盼望死人复活。」",
+      "ja": "しかし、パウロは、彼らの一部がサドカイ人で、一部がパリサイ人であるのを見て取って、議会の中でこう叫んだ。「兄弟たち。私はパリサイ人であり、パリサイ人の子です。私は死者の復活という望みのことで、さばきを受けているのです。」"
+    },
+    {
+      "number": 7,
+      "ko": "그 말을 한즉 바리새인과 사두개인 사이에 다툼이 생겨 무리가 나누어지니",
+      "en": "When he said this, a dispute broke out between the Pharisees and the Sadducees, and the assembly was divided.",
+      "de": "Da er aber das sagte, ward ein Aufruhr unter den Pharisäern und Sadduzäern, und die Menge zerspaltete sich.",
+      "zh": "说了这话，法利赛人和撒都该人就争论起来，会众分为两党。",
+      "ja": "彼がこう言うと、パリサイ人とサドカイ人との間に意見の衝突が起こり、議会は二つに割れた。"
+    },
+    {
+      "number": 8,
+      "ko": "이는 사두개인은 부활도 없고 천사도 없고 영도 없다 하고 바리새인은 다 있다 함이라",
+      "en": "(The Sadducees say that there is no resurrection, and that there are neither angels nor spirits, but the Pharisees acknowledge them all.)",
+      "de": "(Denn die Sadduzäer sagen: Es sei keine Auferstehung noch Engel noch Geist; die Pharisäer aber bekennen beides.)",
+      "zh": "因为撒都该人说，没有复活，也没有天使和鬼魂；法利赛人却说，两样都有。",
+      "ja": "サドカイ人は、復活はなく、御使いも霊もないと言い、パリサイ人は、どちらもあると言っていたからである。"
+    },
+    {
+      "number": 9,
+      "ko": "크게 떠들새 바리새인 편에서 몇 서기관이 일어나 다투어 이르되 우리가 이 사람을 보니 악한 것이 없도다 혹 영이나 혹 천사가 그에게 말하였으면 어찌 하겠느냐 하여",
+      "en": "There was a great uproar, and some of the teachers of the law who were Pharisees stood up and argued vigorously. \"We find nothing wrong with this man,\" they said. \"What if a spirit or an angel has spoken to him?\"",
+      "de": "Es ward aber ein großes Geschrei; und die Schriftgelehrten von der Pharisäer Teil standen auf, stritten und sprachen: Wir finden nichts Arges an diesem Menschen; hat aber ein Geist oder ein Engel mit ihm geredet, so können wir mit Gott nicht streiten.",
+      "zh": "于是大大地喧嚷起来。有几个法利赛党的文士站起来争辩说：「我们看不出这人有什么恶处，倘若有鬼魂或是天使对他说过话，怎么样呢？」",
+      "ja": "騒ぎがいよいよ大きくなり、パリサイ派のある律法学者たちが立ち上がって激しく論じて、「私たちは、この人に何の悪い点も見いださない。もしかしたら、霊か御使いかが、彼に語りかけたのかもしれない。」と言った。"
+    },
+    {
+      "number": 10,
+      "ko": "큰 분쟁이 생기니 천부장은 바울이 그들에게 찢겨질까 하여 군인을 명하여 내려가 무리 가운데서 빼앗아 가지고 영내로 들어가라 하니라",
+      "en": "The dispute became so violent that the commander was afraid Paul would be torn to pieces by them. He ordered the troops to go down and take him away from them by force and bring him into the barracks.",
+      "de": "Da aber der Aufruhr groß ward, besorgte sich der oberste Hauptmann, sie möchten Paulus zerreißen, und hieß das Kriegsvolk hinabgehen und ihn von ihnen reißen und in das Lager führen.",
+      "zh": "那时大起争吵，千夫长恐怕保罗被他们扯碎了，就吩咐兵丁下去，把他从众人当中抢出来，带进营楼去。",
+      "ja": "論争がますます激しくなったので、千人隊長は、パウロが彼らに引き裂かれてしまうのではないかと心配し、兵隊に、下に降りて行って、パウロを彼らの中から力ずくで引き出し、兵営に連れて来るように命じた。"
+    },
+    {
+      "number": 11,
+      "ko": "그 날 밤에 주께서 바울 곁에 서서 이르시되 담대하라 네가 예루살렘에서 나의 일을 증언한 것 같이 로마에서도 증언하여야 하리라 하시니라",
+      "en": "The following night the Lord stood near Paul and said, \"Take courage! As you have testified about me in Jerusalem, so you must also testify in Rome.\"",
+      "de": "Des andern Tages aber in der Nacht stand der HERR bei ihm und sprach: Sei getrost, Paulus! denn wie du von mir zu Jerusalem gezeugt hast, also mußt du auch zu Rom zeugen.",
+      "zh": "当夜，主站在保罗旁边，说：「放心吧！你怎样在耶路撒冷为我作见证，也必怎样在罗马为我作见证。」",
+      "ja": "その夜、主がパウロのそばに立って、「勇気を出しなさい。あなたは、エルサレムでわたしのことをあかししたように、ローマでもあかしをしなければならない。」と言われた。"
+    },
+    {
+      "number": 12,
+      "ko": "날이 새매 유대인들이 당을 지어 맹세하되 바울을 죽이기 전에는 먹지도 아니하고 마시지도 아니하겠다 하고",
+      "en": "The next morning the Jews formed a conspiracy and bound themselves with an oath not to eat or drink until they had killed Paul.",
+      "de": "Da es aber Tag ward, schlugen sich etliche Juden zusammen und verschworen sich, weder zu essen noch zu trinken, bis daß sie Paulus getötet hätten.",
+      "zh": "到了天亮，犹太人同谋起誓，说：「若不先杀保罗就不吃不喝。」",
+      "ja": "夜が明けると、ユダヤ人たちは徒党を組み、パウロを殺してしまうまでは飲み食いしないと誓い合った。"
+    },
+    {
+      "number": 13,
+      "ko": "이같이 동맹한 자가 사십여 명이더라",
+      "en": "More than forty men were involved in this plot.",
+      "de": "Ihrer aber waren mehr denn vierzig, die solchen Bund machten.",
+      "zh": "这样同心起誓的有四十多人。",
+      "ja": "この陰謀に加わった者は、四十人以上であった。"
+    },
+    {
+      "number": 14,
+      "ko": "대제사장들과 장로들에게 가서 말하되 우리가 바울을 죽이기 전에는 아무 것도 먹지 않기로 굳게 맹세하였으니",
+      "en": "They went to the chief priests and elders and said, \"We have taken a solemn oath not to eat anything until we have killed Paul.",
+      "de": "Die traten zu den Hohenpriestern und Ältesten und sprachen: Wir haben uns hart verschworen, nichts zu essen, bis wir Paulus getötet haben.",
+      "zh": "他们来见祭司长和长老，说：「我们已经起了一个大誓，若不先杀保罗就不吃什么。",
+      "ja": "彼らは、祭司長たち、長老たちのところに行って、こう言った。「私たちは、パウロを殺すまでは何も食べない、と堅く誓い合いました。"
+    },
+    {
+      "number": 15,
+      "ko": "이제 너희는 그의 사실을 더 자세히 물어보려는 척하면서 공회와 함께 천부장에게 청하여 바울을 너희에게로 데리고 내려오게 하라 우리는 그가 가까이 오기 전에 죽이기로 준비하였노라 하더니",
+      "en": "Now then, you and the Sanhedrin petition the commander to bring him before you on the pretext of wanting more accurate information about his case. We are ready to kill him before he gets here.\"",
+      "de": "So tut nun kund dem Oberhauptmann und dem Rat, daß er ihn morgen zu euch führe, als wolltet ihr ihn besser verhören; wir aber sind bereit, ihn zu töten, ehe er denn vor euch kommt.",
+      "zh": "现在你们和公会要知会千夫长，叫他带下保罗到你们这里来，假作要详细察考他的事；我们已经预备好了，不等他来到跟前就杀他。」",
+      "ja": "そこで、今あなたがたは議会と組んで、パウロのことをもっと詳しく調べるふりをして、彼をあなたがたのところに連れて来るように千人隊長に願い出てください。私たちのほうでは、彼がそこに近づく前に殺す手はずにしています。」"
+    },
+    {
+      "number": 16,
+      "ko": "바울의 생질이 그들이 매복하여 있다 함을 듣고 와서 영내에 들어가 바울에게 알린지라",
+      "en": "But when the son of Paul's sister heard of this plot, he went into the barracks and told Paul.",
+      "de": "Da aber des Paulus Schwestersohn den Anschlag hörte, ging er hin und kam in das Lager und verkündete es Paulus.",
+      "zh": "保罗的外甥听见他们设下埋伏，就来到营楼里告诉保罗。",
+      "ja": "ところが、パウロの姉妹の子が、この待ち伏せのことを耳にし、兵営にはいってパウロにそれを知らせた。"
+    },
+    {
+      "number": 17,
+      "ko": "바울이 한 백부장을 청하여 이르되 이 청년을 천부장에게로 인도하라 그에게 무슨 할 말이 있다 하니",
+      "en": "Then Paul called one of the centurions and said, \"Take this young man to the commander; he has something to tell him.\"",
+      "de": "Paulus aber rief zu sich einen von den Unterhauptleuten und sprach: Diesen Jüngling führe hin zu dem Oberhauptmann; denn er hat ihm etwas zu sagen.",
+      "zh": "保罗请一个百夫长来，说：「你领这少年人去见千夫长，他有事告诉他。」",
+      "ja": "そこでパウロは、百人隊長のひとりを呼んで、「この青年を千人隊長のところに連れて行ってください。お伝えすることがありますから。」と言った。"
+    },
+    {
+      "number": 18,
+      "ko": "천부장에게로 데리고 가서 이르되 죄수 바울이 나를 불러 이 청년이 당신께 할 말이 있다 하여 데리고 가기를 청하더이다 하매",
+      "en": "So he took him to the commander. The centurion said, \"Paul, the prisoner, sent for me and asked me to bring this young man to you because he has something to tell you.\"",
+      "de": "Der nahm ihn und führte ihn zum Oberhauptmann und sprach: der gebundene Paulus rief mich zu sich und bat mich, diesen Jüngling zu dir zu führen, der dir etwas zu sagen habe.",
+      "zh": "于是把他领去见千夫长，说：「被囚的保罗请我到他那里，求我领这少年人来见你；他有事告诉你。」",
+      "ja": "百人隊長は、彼を連れて千人隊長のもとに行き、「囚人のパウロが私を呼んで、この青年があなたにお話しすることがあるので、あなたのところに連れて行くようにと頼みました。」と言った。"
+    },
+    {
+      "number": 19,
+      "ko": "천부장이 그의 손을 잡고 물러가서 조용히 묻되 내게 할 말이 무엇이냐",
+      "en": "The commander took the young man by the hand, drew him aside and asked, \"What is it you want to tell me?\"",
+      "de": "Da nahm ihn der Oberhauptmann bei der Hand und wich an einen besonderen Ort und fragte ihn: Was ist's, das du mir zu sagen hast?",
+      "zh": "千夫长就拉着他的手，走到一旁，私下问他说：「你有什么事告诉我呢？」",
+      "ja": "千人隊長は彼の手を取り、だれもいない所に連れて行って、「私に伝えたいことというのは何か。」と尋ねた。"
+    },
+    {
+      "number": 20,
+      "ko": "대답하되 유대인들이 공모하기를 그들이 바울에 대하여 더 자세한 것을 묻기 위함이라 하고 내일 그를 데리고 공회로 내려오기를 당신께 청하자 하였으니",
+      "en": "He said: \"The Jews have agreed to ask you to bring Paul before the Sanhedrin tomorrow on the pretext of wanting more accurate information about him.",
+      "de": "Er aber sprach: Die Juden sind eins geworden, dich zu bitten, daß du morgen Paulus vor den Hohen Rat bringen lassest, als wollten sie ihn besser verhören.",
+      "zh": "他说：「犹太人已经约定，要求你明天带下保罗到公会里去，假作要详细查问他的事。",
+      "ja": "すると彼はこう言った。「ユダヤ人たちは、パウロについてもっと詳しく調べようとしているかに見せかけて、あす、議会にパウロを連れて来てくださるように、あなたにお願いすることを申し合わせました。"
+    },
+    {
+      "number": 21,
+      "ko": "당신은 그들의 청함을 따르지 마옵소서 그들 중에서 바울을 죽이기 전에는 먹지도 않고 마시지도 않기로 맹세한 자 사십여 명이 그를 죽이려고 숨어서 지금 다 준비하고 당신의 허락만 기다리나이다 하니",
+      "en": "Don't give in to them, because more than forty of them are waiting in ambush for him. They have taken an oath not to eat or drink until they have killed him. They are ready now, waiting for your consent to their request.\"",
+      "de": "Du aber traue ihnen nicht; denn es lauern auf ihn mehr als vierzig Männer unter ihnen, die haben sich verschworen, weder zu essen noch zu trinken, bis sie Paulus töten; und sind jetzt bereit und warten auf deine Verheißung.",
+      "zh": "你切不要随从他们；因为他们有四十多人埋伏，已经起誓说，若不先杀保罗就不吃不喝。现在预备好了，只等你应允。」",
+      "ja": "どうか、彼らの願いを聞き入れないでください。四十人以上の者が、パウロを殺すまでは飲み食いしない、と誓い合って、彼を待ち伏せしているのです。今、彼らは手はずを整えて、あなたの承諾を待っています。」"
+    },
+    {
+      "number": 22,
+      "ko": "이에 천부장이 청년을 보내며 경계하되 이 일을 내게 알렸다고 아무에게도 이르지 말라 하고",
+      "en": "The commander dismissed the young man and cautioned him, \"Don't tell anyone that you have reported this to me.\"",
+      "de": "Da ließ der Oberhauptmann den Jüngling von sich und gebot ihm, daß niemand sagte, daß er ihm solches eröffnet hätte,",
+      "zh": "于是千夫长打发少年人走，嘱咐他说：「不要告诉人你将这事报给我了。」",
+      "ja": "そこで千人隊長は、「このことを私に知らせたことは、だれにも漏らすな。」と命じて、その青年を帰らせた。"
+    },
+    {
+      "number": 23,
+      "ko": "백부장 둘을 불러 이르되 밤 제 삼 시에 가이사랴까지 갈 보병 이백 명과 기병 칠십 명과 창병 이백 명을 준비하라 하고",
+      "en": "Then he called two of his centurions and ordered them, \"Get ready a detachment of two hundred soldiers, seventy horsemen and two hundred spearmen to go to Caesarea at nine tonight.",
+      "de": "und rief zu sich zwei Unterhauptleute und sprach: Rüstet zweihundert Kriegsknechte, daß sie gen Cäsarea ziehen, und siebzig Reiter und zweihundert Schützen auf die dritte Stunde der Nacht;",
+      "zh": "千夫长便叫了两个百夫长来，说：「预备步兵二百，马兵七十，长枪手二百，今夜亥初往凯撒利亚去；",
+      "ja": "そしてふたりの百人隊長を呼び、「今夜九時、カイザリヤに向けて出発できるように、歩兵二百人、騎兵七十人、槍兵二百人を整えよ。」と言いつけた。"
+    },
+    {
+      "number": 24,
+      "ko": "또 바울을 태워 총독 벨릭스에게로 무사히 보내기 위하여 짐승을 준비하라 명하며",
+      "en": "Provide mounts for Paul so that he may be taken safely to Governor Felix.\"",
+      "de": "und die Tiere richtet zu, daß sie Paulus draufsetzen und bringen ihn bewahrt zu Felix, dem Landpfleger.",
+      "zh": "也要预备牲口叫保罗骑上，护送到巡抚腓力斯那里去。」",
+      "ja": "また、パウロを乗せて無事に総督ペリクスのもとに送り届けるように、馬の用意もさせた。"
+    },
+    {
+      "number": 25,
+      "ko": "또 이 아래와 같이 편지하니 일렀으되",
+      "en": "He wrote a letter as follows:",
+      "de": "Und schrieb einen Brief, der lautete also:",
+      "zh": "千夫长又写了文书，",
+      "ja": "そして、次のような文面の手紙を書いた。"
+    },
+    {
+      "number": 26,
+      "ko": "글라우디오 루시아는 총독 벨릭스 각하께 문안하나이다",
+      "en": "Claudius Lysias, To His Excellency, Governor Felix: Greetings.",
+      "de": "Klaudius Lysias dem teuren Landpfleger Felix Freude zuvor!",
+      "zh": "大略说：「克劳第·吕西亚，请巡抚腓力斯大人安。",
+      "ja": "「クラウデオ・ルシヤ、つつしんで総督ペリクス閣下にごあいさつ申し上げます。"
+    },
+    {
+      "number": 27,
+      "ko": "이 사람이 유대인들에게 잡혀 죽게 된 것을 내가 로마 사람인 줄 들어 알고 군대를 거느리고 가서 구원하여다가",
+      "en": "This man was seized by the Jews and they were about to kill him, but I came with my troops and rescued him, for I had learned that he is a Roman citizen.",
+      "de": "Diesen Mann hatten die Juden gegriffen und wollten ihn getötet haben. Da kam ich mit dem Kriegsvolk dazu und riß ihn von ihnen und erfuhr, daß er ein Römer ist.",
+      "zh": "这人被犹太人拿住，将要杀害，我得知他是罗马人，就带兵丁下去救他出来。",
+      "ja": "この者が、ユダヤ人に捕えられ、まさに殺されようとしていたとき、彼がローマ市民であることを知りましたので、私は兵隊を率いて行って、彼を助け出しました。"
+    },
+    {
+      "number": 28,
+      "ko": "유대인들이 무슨 일로 그를 고발하는지 알고자 하여 그들의 공회로 데리고 내려갔더니",
+      "en": "I wanted to know why they were accusing him, so I brought him to their Sanhedrin.",
+      "de": "Da ich aber erkunden wollte die Ursache, darum sie ihn beschuldigten, führte ich ihn in ihren Rat.",
+      "zh": "因要知道他们告他的缘故，我就带他下到他们的公会去，",
+      "ja": "それから、どんな理由で彼が訴えられたかを知ろうと思い、彼をユダヤ人の議会に出頭させました。"
+    },
+    {
+      "number": 29,
+      "ko": "고발하는 것이 그들의 율법 문제에 관한 것뿐이요 한 가지도 죽이거나 결박할 사유가 없음을 발견하였나이다",
+      "en": "I found that the accusation had to do with questions about their law, but there was no charge against him that deserved death or imprisonment.",
+      "de": "Da befand ich, daß er beschuldigt ward von wegen Fragen ihres Gesetzes, aber keine Anklage hatte, des Todes oder der Bande wert.",
+      "zh": "便查知他被告是因他们律法的辩论，并没有什么该死该绑的罪名。",
+      "ja": "その結果、彼が訴えられているのは、ユダヤ人の律法に関する問題のためで、死刑や投獄に当たる罪はないことがわかりました。"
+    },
+    {
+      "number": 30,
+      "ko": "그러나 이 사람을 해하려는 간계가 있다고 누가 내게 알려 주기로 곧 당신께로 보내며 또 고발하는 사람들도 당신 앞에서 그에 대하여 말하라 하였나이다 하였더라",
+      "en": "When I was informed of a plot to be carried out against the man, I sent him to you at once. I also ordered his accusers to present to you their case against him.",
+      "de": "Und da vor mich kam, daß etliche Juden auf ihn lauerten, sandte ich ihn von Stund an zu dir und entbot den Klägern auch, daß sie vor Dir sagten, was sie wider ihn hätten. Gehab dich wohl!",
+      "zh": "后来有人把要害他的计谋告诉我，我就立时解他到你那里去，又吩咐告他的人在你面前告他。」",
+      "ja": "しかし、この者に対する陰謀があるという情報を得ましたので、私はただちに彼を閣下のもとにお送りし、訴える者たちには、閣下の前で彼のことを訴えるようにと言い渡しておきました。」"
+    },
+    {
+      "number": 31,
+      "ko": "보병이 명을 받은 대로 밤에 바울을 데리고 안디바드리에 이르러",
+      "en": "So the soldiers, carrying out their orders, took Paul with them during the night and brought him as far as Antipatris.",
+      "de": "Die Kriegsknechte, wie ihnen befohlen war, nahmen Paulus und führten ihn bei der Nacht gen Antipatris.",
+      "zh": "于是，兵丁照所吩咐他们的，将保罗夜里带到安提帕底。",
+      "ja": "そこで兵士たちは、命じられたとおりにパウロを引き取り、夜中にアンテパトリスまで連れて行き、"
+    },
+    {
+      "number": 32,
+      "ko": "이튿날 기병으로 바울을 호송하게 하고 영내로 돌아가니라",
+      "en": "The next day they let the cavalry go on with him, while they returned to the barracks.",
+      "de": "Des andern Tages aber ließen sie die Reiter mit ihm ziehen und wandten wieder um zum Lager.",
+      "zh": "第二天，让马兵护送，他们就回营楼去。",
+      "ja": "翌日、騎兵たちにパウロの護送を任せて、兵営に帰った。"
+    },
+    {
+      "number": 33,
+      "ko": "그들이 가이사랴에 들어가서 편지를 총독에게 드리고 바울을 그 앞에 세우니",
+      "en": "When the cavalry arrived in Caesarea, they delivered the letter to the governor and handed Paul over to him.",
+      "de": "Da die gen Cäsarea kamen, überantworteten sie den Brief dem Landpfleger und stellten ihm Paulus auch dar.",
+      "zh": "马兵来到凯撒利亚，把文书呈给巡抚，便叫保罗站在他面前。",
+      "ja": "騎兵たちは、カイザリヤに着き、総督に手紙を手渡して、パウロを引き合わせた。"
+    },
+    {
+      "number": 34,
+      "ko": "총독이 읽고 바울더러 어느 영지 사람이냐 물어 길리기아 사람인 줄 알고",
+      "en": "The governor read the letter and asked what province he was from. Learning that he was from Cilicia,",
+      "de": "Da der Landpfleger den Brief las, fragte er, aus welchem Lande er wäre. Und da er erkundet, daß er aus Zilizien wäre sprach er:",
+      "zh": "巡抚看了文书，问保罗是哪省的人，既晓得他是基利家人，",
+      "ja": "総督は手紙を読んでから、パウロに、どの州の者かと尋ね、キリキヤの出であることを知って、"
+    },
+    {
+      "number": 35,
+      "ko": "이르되 너를 고발하는 사람들이 오거든 네 말을 들으리라 하고 헤롯 궁에 그를 지키라 명하니라",
+      "en": "he said, \"I will hear your case when your accusers get here.\" Then he ordered that Paul be kept under guard in Herod's palace.",
+      "de": "Ich will dich verhören, wenn deine Verkläger auch da sind. Und hieß ihn verwahren in dem Richthause des Herodes.",
+      "zh": "就说：「等告你的人来到，我要细听你的事」；便吩咐人把他看守在希律的衙门里。",
+      "ja": "「あなたを訴える者が来てから、よく聞くことにしよう。」と言った。そして、ヘロデの官邸に彼を守っておくように命じた。"
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "book": "Job",
+  "chapter": 42,
+  "verses": [
+    {
+      "number": 1,
+      "ko": "욥이 여호와께 대답하여 이르되",
+      "en": "Then Job replied to the LORD:",
+      "de": "Und Hiob antwortete dem HERRN und sprach:",
+      "zh": "约伯回答耶和华说：",
+      "ja": "ヨブ是に於てヱホバに答へて曰く"
+    },
+    {
+      "number": 2,
+      "ko": "주께서는 못 하실 일이 없사오며 무슨 계획이든지 못 이루실 것이 없는 줄 아오니",
+      "en": "\"I know that you can do all things; no plan of yours can be thwarted.",
+      "de": "Ich erkenne, daß du alles vermagst, und nichts, das du dir vorgenommen, ist dir zu schwer.",
+      "zh": "我知道，你万事都能做； 你的旨意不能拦阻。",
+      "ja": "我知る汝は一切の事をなすを得たまふ また如何なる意志にても成あたはざる無し"
+    },
+    {
+      "number": 3,
+      "ko": "무지한 말로 이치를 가리는 자가 누구니이까 나는 깨닫지도 못한 일을 말하였고 스스로 알 수도 없고 헤아리기도 어려운 일을 말하였나이다",
+      "en": "You asked,'Who is this that obscures my counsel without knowledge?' Surely I spoke of things I did not understand, things too wonderful for me to know.",
+      "de": "“Wer ist der, der den Ratschluß verhüllt mit Unverstand?” Darum bekenne ich, daß ich habe unweise geredet, was mir zu hoch ist und ich nicht verstehe.",
+      "zh": "谁用无知的言语使你的旨意隐藏呢？ 我所说的是我不明白的； 这些事太奇妙，是我不知道的。",
+      "ja": "無知をもて道を蔽ふ者は誰ぞや 斯われは自ら了解らざる事を言ひ 自ら知ざる測り難き事を述たり"
+    },
+    {
+      "number": 4,
+      "ko": "내가 말하겠사오니 주는 들으시고 내가 주께 묻겠사오니 주여 내게 알게 하옵소서",
+      "en": "\"You said,'Listen now, and I will speak; I will question you, and you shall answer me.'",
+      "de": "“So höre nun, laß mich reden; ich will dich fragen, lehre mich!”",
+      "zh": "求你听我，我要说话； 我问你，求你指示我。",
+      "ja": "請ふ聽たまへ 我言ふところあらん 我なんぢに問まつらん 我に答へたまへ"
+    },
+    {
+      "number": 5,
+      "ko": "내가 주께 대하여 귀로 듣기만 하였사오나 이제는 눈으로 주를 뵈옵나이다",
+      "en": "My ears had heard of you but now my eyes have seen you.",
+      "de": "Ich hatte von dir mit den Ohren gehört; aber nun hat dich mein Auge gesehen.",
+      "zh": "我从前风闻有你， 现在亲眼看见你。",
+      "ja": "われ汝の事を耳にて聞ゐたりしが今は目をもて汝を見たてまつる"
+    },
+    {
+      "number": 6,
+      "ko": "그러므로 내가 스스로 거두어들이고 티끌과 재 가운데에서 회개하나이다",
+      "en": "Therefore I despise myself and repent in dust and ashes.\"",
+      "de": "Darum spreche ich mich schuldig und tue Buße in Staub und Asche.",
+      "zh": "因此我厌恶自己， 在尘土和炉灰中懊悔。",
+      "ja": "是をもて我みづから恨み 塵灰の中にて悔ゆ"
+    },
+    {
+      "number": 7,
+      "ko": "여호와께서 욥에게 이 말씀을 하신 후에 여호와께서 데만 사람 엘리바스에게 이르시되 내가 너와 네 두 친구에게 노하나니 이는 너희가 나를 가리켜 말한 것이 내 종 욥의 말 같이 옳지 못함이니라",
+      "en": "After the LORD had said these things to Job, he said to Eliphaz the Temanite, \"I am angry with you and your two friends, because you have not spoken of me what is right, as my servant Job has.",
+      "de": "Da nun der HERR mit Hiob diese Worte geredet hatte, sprach er zu Eliphas von Theman: Mein Zorn ist ergrimmt über dich und deine zwei Freunde; denn ihr habt nicht recht von mir geredet wie mein Knecht Hiob.",
+      "zh": "耶和华对约伯说话以后，就对提幔人以利法说：「我的怒气向你和你两个朋友发作，因为你们议论我不如我的仆人约伯说的是。",
+      "ja": "ヱホバ是等の言語をヨブに語りたまひて後ヱホバ、テマン人エリパズに言たまひけるは我なんぢと汝の二人の友を怒る 其はなんぢらが我に關て言述べたるところはわが僕ヨブの言たることのごとく正當からざればなり"
+    },
+    {
+      "number": 8,
+      "ko": "그런즉 너희는 수소 일곱과 숫양 일곱을 가지고 내 종 욥에게 가서 너희를 위하여 번제를 드리라 내 종 욥이 너희를 위하여 기도할 것인즉 내가 그를 기쁘게 받으리니 너희가 우매한 만큼 너희에게 갚지 아니하리라 이는 너희가 나를 가리켜 말한 것이 내 종 욥의 말 같이 옳지 못함이라",
+      "en": "So now take seven bulls and seven rams and go to my servant Job and sacrifice a burnt offering for yourselves. My servant Job will pray for you, and I will accept his prayer and not deal with you according to your folly. You have not spoken of me what is right, as my servant Job has.\"",
+      "de": "So nehmt nun sieben Farren und sieben Widder und geht hin zu meinem Knecht Hiob und opfert Brandopfer für euch und laßt meinen Knecht Hiob für euch bitten. Denn ich will ihn ansehen, daß ich an euch nicht tue nach eurer Torheit; denn ihr habt nicht recht von mir geredet wie mein Knecht Hiob.",
+      "zh": "现在你们要取七只公牛，七只公羊，到我仆人约伯那里去，为自己献上燔祭，我的仆人约伯就为你们祈祷。我因悦纳他，就不按你们的愚妄办你们。你们议论我，不如我的仆人约伯说的是。」",
+      "ja": "然ば汝ら牡牛七頭 牡羊七頭を取てわが僕ヨブに至り汝らの身のために燔祭を獻げよ わが僕ヨブなんぢらのために祈らん われかれを嘉納べければ之によりて汝らの愚を罰せざらん 汝らの我について言述たるところは我僕ヨブの言たることのごとく正當からざればなり"
+    },
+    {
+      "number": 9,
+      "ko": "이에 데만 사람 엘리바스와 수아 사람 빌닷과 나아마 사람 소발이 가서 여호와께서 자기들에게 명령하신 대로 행하니라 여호와께서 욥을 기쁘게 받으셨더라",
+      "en": "So Eliphaz the Temanite, Bildad the Shuhite and Zophar the Naamathite did what the LORD told them; and the LORD accepted Job's prayer.",
+      "de": "Da gingen hin Eliphas von Theman, Bildad von Suah und Zophar von Naema und taten, wie der HERR ihnen gesagt hatte; und der HERR sah an Hiob.",
+      "zh": "于是提幔人以利法、书亚人比勒达、拿玛人琐法照着耶和华所吩咐的去行；耶和华就悦纳约伯。",
+      "ja": "是においてテマン人エリパズ、シユヒ人ビルダデ、ナアマ人ゾパル往てヱホバの自己に宣まひしごとく爲ければヱホバすなはちヨブを嘉納たまへり"
+    },
+    {
+      "number": 10,
+      "ko": "욥이 그의 친구들을 위하여 기도할 때 여호와께서 욥의 곤경을 돌이키시고 여호와께서 욥에게 이전 모든 소유보다 갑절이나 주신지라",
+      "en": "After Job had prayed for his friends, the LORD made him prosperous again and gave him twice as much as he had before.",
+      "de": "Und der HERR wandte das Gefängnis Hiobs, da er bat für seine Freunde. Und der Herr gab Hiob zwiefältig so viel, als er gehabt hatte.",
+      "zh": "约伯为他的朋友祈祷。耶和华就使约伯从苦境转回，并且耶和华赐给他的比他从前所有的加倍。",
+      "ja": "ヨブその友のために祈れる時 ヱホバ、ヨブの艱難をときて舊に復ししかしてヱホバつひにヨブの所有物を二倍に増たまへり"
+    },
+    {
+      "number": 11,
+      "ko": "이에 그의 모든 형제와 자매와 이전에 알던 이들이 다 와서 그의 집에서 그와 함께 음식을 먹고 여호와께서 그에게 내리신 모든 재앙에 관하여 그를 위하여 슬퍼하며 위로하고 각각 케쉬타 하나씩과 금 고리 하나씩을 주었더라",
+      "en": "All his brothers and sisters and everyone who had known him before came and ate with him in his house. They comforted and consoled him over all the trouble the LORD had brought upon him, and each one gave him a piece of silver and a gold ring.",
+      "de": "Und es kamen zu ihm alle seine Brüder und alle seine Schwestern und alle, die ihn vormals kannten, und aßen mit ihm in seinem Hause und kehrten sich zu ihm und trösteten ihn über alles Übel, das der HERR hatte über ihn kommen lassen. Und ein jeglicher gab ihm einen schönen Groschen und ein goldenes Stirnband.",
+      "zh": "约伯的弟兄、姊妹，和以先所认识的人都来见他，在他家里一同吃饭；又论到耶和华所降与他的一切灾祸，都为他悲伤安慰他。每人也送他一块银子和一个金环。",
+      "ja": "是において彼の諸の兄弟諸の姉妹およびその舊相識る者等ことごとく來りて彼とともにその家にて飮食を爲しかつヱホバの彼に降したまひし一切の災難につきて彼をいたはり慰さめ また各金一ケセタと金の環一箇を之に贈れり"
+    },
+    {
+      "number": 12,
+      "ko": "여호와께서 욥의 말년에 욥에게 처음보다 더 복을 주시니 그가 양 만 사천과 낙타 육천과 소 천 겨리와 암나귀 천을 두었고",
+      "en": "The LORD blessed the latter part of Job's life more than the first. He had fourteen thousand sheep, six thousand camels, a thousand yoke of oxen and a thousand donkeys.",
+      "de": "Und der HERR segnete hernach Hiob mehr denn zuvor, daß er kriegte vierzehntausend Schafe und sechstausend Kamele und tausend Joch Rinder und tausend Eselinnen.",
+      "zh": "这样，耶和华后来赐福给约伯比先前更多。他有一万四千羊，六千骆驼，一千对牛，一千母驴。",
+      "ja": "ヱホバかくのごとくヨブをめぐみてその終を初よりも善したまへり 即ち彼は綿羊一萬四千匹 駱駝六千匹 牛一千軛 牝驢馬一千匹を有り"
+    },
+    {
+      "number": 13,
+      "ko": "또 아들 일곱과 딸 셋을 두었으며",
+      "en": "And he also had seven sons and three daughters.",
+      "de": "Und er kriegte sieben Söhne und drei Töchter;",
+      "zh": "他也有七个儿子，三个女儿。",
+      "ja": "また男子七人 女子三人ありき"
+    },
+    {
+      "number": 14,
+      "ko": "그가 첫째 딸은 여미마라 이름하였고 둘째 딸은 긋시아라 이름하였고 셋째 딸은 게렌합북이라 이름하였으니",
+      "en": "The first daughter he named Jemimah, the second Keziah and the third Keren-Happuch.",
+      "de": "und hieß die erste Jemima, die andere Kezia und die dritte Keren-Happuch.",
+      "zh": "他给长女起名叫耶米玛，次女叫基洗亚，三女叫基连·哈朴。",
+      "ja": "かれその第一の女をエミマと名け第二をケジアと名け 第三をケレンハツプクと名けたり"
+    },
+    {
+      "number": 15,
+      "ko": "모든 땅에서 욥의 딸들처럼 아리따운 여자가 없었더라 그들의 아버지가 그들에게 그들의 오라비들처럼 기업을 주었더라",
+      "en": "Nowhere in all the land were there found women as beautiful as Job's daughters, and their father granted them an inheritance along with their brothers.",
+      "de": "Und wurden nicht so schöne Weiber gefunden in allen Landen wie die Töchter Hiobs. Und ihr Vater gab ihnen Erbteil unter ihren Brüdern.",
+      "zh": "在那全地的妇女中找不着像约伯的女儿那样美貌。她们的父亲使她们在弟兄中得产业。",
+      "ja": "全國の中にてヨブの女子等ほど美しき婦人は見えざりき その父之にその兄弟等とおなじく產業をあたへたり"
+    },
+    {
+      "number": 16,
+      "ko": "그 후에 욥이 백사십 년을 살며 아들과 손자 사 대를 보았고",
+      "en": "After this, Job lived a hundred and forty years; he saw his children and their children to the fourth generation.",
+      "de": "Und Hiob lebte nach diesem hundert und vierzig Jahre, daß er sah Kinder und Kindeskinder bis ins vierte Glied.",
+      "zh": "此后，约伯又活了一百四十年，得见他的儿孙，直到四代。",
+      "ja": "この後ヨブは百四十年いきながらへてその子その孫と四代までを見たり"
+    },
+    {
+      "number": 17,
+      "ko": "욥이 늙어 나이가 차서 죽었더라",
+      "en": "And so he died, old and full of years.",
+      "de": "Und Hiob starb alt und lebenssatt.",
+      "zh": "这样，约伯年纪老迈，日子满足而死。",
+      "ja": "かくヨブは年老い日滿て死たりき"
+    }
+  ]
+}

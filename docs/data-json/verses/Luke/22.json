@@ -1,0 +1,574 @@
+{
+  "book": "Luke",
+  "chapter": 22,
+  "verses": [
+    {
+      "number": 1,
+      "ko": "유월절이라 하는 무교절이 다가오매",
+      "en": "Now the Feast of Unleavened Bread, called the Passover, was approaching,",
+      "de": "Es war aber nahe das Fest der süßen Brote, das da Ostern heißt.",
+      "zh": "除酵节（又名逾越节）近了。",
+      "ja": "さて、過越の祭りといわれる、種なしパンの祝いが近づいていた。"
+    },
+    {
+      "number": 2,
+      "ko": "대제사장들과 서기관들이 예수를 무슨 방도로 죽일까 궁리하니 이는 그들이 백성을 두려워함이더라",
+      "en": "and the chief priests and the teachers of the law were looking for some way to get rid of Jesus, for they were afraid of the people.",
+      "de": "Und die Hohenpriester und Schriftgelehrten trachteten, wie sie ihn töteten; und fürchteten sich vor dem Volk.",
+      "zh": "祭司长和文士想法子怎么才能杀害耶稣，是因他们惧怕百姓。",
+      "ja": "祭司長、律法学者たちは、イエスを殺すための良い方法を捜していた。というのは、彼らは民衆を恐れていたからである。"
+    },
+    {
+      "number": 3,
+      "ko": "열둘 중의 하나인 가룟인이라 부르는 유다에게 사탄이 들어가니",
+      "en": "Then Satan entered Judas, called Iscariot, one of the Twelve.",
+      "de": "Es war aber der Satanas gefahren in den Judas, genannt Ischariot, der da war aus der Zahl der Zwölf.",
+      "zh": "这时，撒但入了那称为加略人犹大的心；他本是十二门徒里的一个。",
+      "ja": "さて、十二弟子のひとりで、イスカリオテと呼ばれるユダに、サタンがはいった。"
+    },
+    {
+      "number": 4,
+      "ko": "이에 유다가 대제사장들과 성전 경비대장들에게 가서 예수를 넘겨 줄 방도를 의논하매",
+      "en": "And Judas went to the chief priests and the officers of the temple guard and discussed with them how he might betray Jesus.",
+      "de": "Und er ging hin und redete mit den Hohenpriestern und Hauptleuten, wie er ihn wollte ihnen überantworten.",
+      "zh": "他去和祭司长并守殿官商量，怎么可以把耶稣交给他们。",
+      "ja": "ユダは出かけて行って、祭司長たちや宮の守衛長たちと、どのようにしてイエスを彼らに引き渡そうかと相談した。"
+    },
+    {
+      "number": 5,
+      "ko": "그들이 기뻐하여 돈을 주기로 언약하는지라",
+      "en": "They were delighted and agreed to give him money.",
+      "de": "Und sie wurden froh und gelobten ihm Geld zu geben.",
+      "zh": "他们欢喜，就约定给他银子。",
+      "ja": "彼らは喜んで、ユダに金をやる約束をした。"
+    },
+    {
+      "number": 6,
+      "ko": "유다가 허락하고 예수를 무리가 없을 때에 넘겨 줄 기회를 찾더라",
+      "en": "He consented, and watched for an opportunity to hand Jesus over to them when no crowd was present.",
+      "de": "Und er versprach es und suchte Gelegenheit, daß er ihn überantwortete ohne Lärmen.",
+      "zh": "他应允了，就找机会，要趁众人不在跟前的时候把耶稣交给他们。",
+      "ja": "ユダは承知した。そして群衆のいないときにイエスを彼らに引き渡そうと機会をねらっていた。"
+    },
+    {
+      "number": 7,
+      "ko": "유월절 양을 잡을 무교절날이 이른지라",
+      "en": "Then came the day of Unleavened Bread on which the Passover lamb had to be sacrificed.",
+      "de": "Es kam nun der Tag der süßen Brote, an welchem man mußte opfern das Osterlamm.",
+      "zh": "除酵节，须宰逾越羊羔的那一天到了。",
+      "ja": "さて、過越の小羊のほふられる、種なしパンの日が来た。"
+    },
+    {
+      "number": 8,
+      "ko": "예수께서 베드로와 요한을 보내시며 이르시되 가서 우리를 위하여 유월절을 준비하여 우리로 먹게 하라",
+      "en": "Jesus sent Peter and John, saying, \"Go and make preparations for us to eat the Passover.\"",
+      "de": "Und er sandte Petrus und Johannes und sprach: Gehet hin, bereitet uns das Osterlamm, auf daß wir's essen.",
+      "zh": "耶稣打发彼得、约翰，说：「你们去为我们预备逾越节的筵席，好叫我们吃。」",
+      "ja": "イエスは、こう言ってペテロとヨハネを遣わされた。「わたしたちの過越の食事ができるように、準備をしに行きなさい。」"
+    },
+    {
+      "number": 9,
+      "ko": "여짜오되 어디서 준비하기를 원하시나이까",
+      "en": "\"Where do you want us to prepare for it?\" they asked.",
+      "de": "Sie aber sprachen zu ihm: Wo willst du, daß wir's bereiten?",
+      "zh": "他们问他说：「要我们在哪里预备？」",
+      "ja": "彼らはイエスに言った。「どこに準備しましょうか。」"
+    },
+    {
+      "number": 10,
+      "ko": "이르시되 보라 너희가 성내로 들어가면 물 한 동이를 가지고 가는 사람을 만나리니 그가 들어가는 집으로 따라 들어가서",
+      "en": "He replied, \"As you enter the city, a man carrying a jar of water will meet you. Follow him to the house that he enters,",
+      "de": "Er sprach zu ihnen: Siehe, wenn ihr hineinkommt in die Stadt, wird euch ein Mensch begegnen, der trägt einen Wasserkrug; folget ihm nach in das Haus, da er hineingeht,",
+      "zh": "耶稣说：「你们进了城，必有人拿着一瓶水迎面而来，你们就跟着他，到他所进的房子里去，",
+      "ja": "イエスは言われた。「町にはいると、水がめを運んでいる男に会うから、その人がはいる家にまでついて行きなさい。"
+    },
+    {
+      "number": 11,
+      "ko": "그 집 주인에게 이르되 선생님이 네게 하는 말씀이 내가 내 제자들과 함께 유월절을 먹을 객실이 어디 있느냐 하시더라 하라",
+      "en": "and say to the owner of the house, 'The Teacher asks: Where is the guest room, where I may eat the Passover with my disciples?'",
+      "de": "und saget zu dem Hausherrn: Der Meister läßt dir sagen: Wo ist die Herberge, darin ich das Osterlamm essen möge mit meinen Jüngern?",
+      "zh": "对那家的主人说：『夫子说：客房在哪里？我与门徒好在那里吃逾越节的筵席。』",
+      "ja": "そして、その家の主人に、『弟子たちといっしょに過越の食事をする客間はどこか、と先生があなたに言っておられる。』と言いなさい。"
+    },
+    {
+      "number": 12,
+      "ko": "그리하면 그가 자리를 마련한 큰 다락방을 보이리니 거기서 준비하라 하시니",
+      "en": "He will show you a large upper room, all furnished. Make preparations there.\"",
+      "de": "Und er wird euch einen großen Saal zeigen, der mit Polstern versehen ist; daselbst bereitet es.",
+      "zh": "他必指给你们摆设整齐的一间大楼，你们就在那里预备。」",
+      "ja": "すると主人は、席が整っている二階の大広間を見せてくれます。そこで準備をしなさい。」"
+    },
+    {
+      "number": 13,
+      "ko": "그들이 나가 그 하신 말씀대로 만나 유월절을 준비하니라",
+      "en": "They left and found things just as Jesus had told them. So they prepared the Passover.",
+      "de": "Sie gingen hin und fanden, wie er ihnen gesagt hatte, und bereiteten das Osterlamm.",
+      "zh": "他们去了，所遇见的正如耶稣所说的；他们就预备了逾越节的筵席。",
+      "ja": "彼らが出かけて見ると、イエスの言われたとおりであった。それで、彼らは過越の食事の用意をした。"
+    },
+    {
+      "number": 14,
+      "ko": "때가 이르매 예수께서 사도들과 함께 앉으사",
+      "en": "When the hour came, Jesus and his apostles reclined at the table.",
+      "de": "Und da die Stunde kam, setzte er sich nieder und die zwölf Apostel mit ihm.",
+      "zh": "时候到了，耶稣坐席，使徒也和他同坐。",
+      "ja": "さて時間になって、イエスは食卓に着かれ、使徒たちもイエスといっしょに席に着いた。"
+    },
+    {
+      "number": 15,
+      "ko": "이르시되 내가 고난을 받기 전에 너희와 함께 이 유월절 먹기를 원하고 원하였노라",
+      "en": "And he said to them, \"I have eagerly desired to eat this Passover with you before I suffer.",
+      "de": "Und er sprach zu ihnen: Mich hat herzlich verlangt, dies Osterlamm mit euch zu essen, ehe denn ich leide.",
+      "zh": "耶稣对他们说：「我很愿意在受害以先和你们吃这逾越节的筵席。",
+      "ja": "イエスは言われた。「わたしは、苦しみを受ける前に、あなたがたといっしょに、この過越の食事をすることをどんなに望んでいたことか。"
+    },
+    {
+      "number": 16,
+      "ko": "내가 너희에게 이르노니 이 유월절이 하나님의 나라에서 이루기까지 다시 먹지 아니하리라 하시고",
+      "en": "For I tell you, I will not eat it again until it finds fulfillment in the kingdom of God.\"",
+      "de": "Denn ich sage euch, daß ich hinfort nicht mehr davon essen werde, bis daß es erfüllet werde im Reich Gottes.",
+      "zh": "我告诉你们，我不再吃这筵席，直到成就在　神的国里。」",
+      "ja": "あなたがたに言いますが、過越が神の国において成就するまでは、わたしはもはや二度と過越の食事をすることはありません。」"
+    },
+    {
+      "number": 17,
+      "ko": "이에 잔을 받으사 감사 기도 하시고 이르시되 이것을 갖다가 너희끼리 나누라",
+      "en": "After taking the cup, he gave thanks and said, \"Take this and divide it among you.",
+      "de": "Und er nahm den Kelch, dankte und sprach: Nehmet ihn und teilet ihn unter euch;",
+      "zh": "耶稣接过杯来，祝谢了，说：「你们拿这个，大家分着喝。",
+      "ja": "そしてイエスは、杯を取り、感謝をささげて後、言われた。「これを取って、互いに分けて飲みなさい。"
+    },
+    {
+      "number": 18,
+      "ko": "내가 너희에게 이르노니 내가 이제부터 하나님의 나라가 임할 때까지 포도나무에서 난 것을 다시 마시지 아니하리라 하시고",
+      "en": "For I tell you I will not drink again of the fruit of the vine until the kingdom of God comes.\"",
+      "de": "denn ich sage euch: Ich werde nicht trinken von dem Gewächs des Weinstocks, bis das Reich Gottes komme.",
+      "zh": "我告诉你们，从今以后，我不再喝这葡萄汁，直等　神的国来到。」",
+      "ja": "あなたがたに言いますが、今から、神の国が来る時までは、わたしはもはや、ぶどうの実で造った物を飲むことはありません。」"
+    },
+    {
+      "number": 19,
+      "ko": "또 떡을 가져 감사 기도 하시고 떼어 그들에게 주시며 이르시되 이것은 너희를 위하여 주는 내 몸이라 너희가 이를 행하여 나를 기념하라 하시고",
+      "en": "And he took bread, gave thanks and broke it, and gave it to them, saying, \"This is my body given for you; do this in remembrance of me.\"",
+      "de": "Und er nahm das Brot, dankte und brach's und gab's ihnen und sprach: Das ist mein Leib, der für euch gegeben wird; das tut zu meinem Gedächtnis.",
+      "zh": "又拿起饼来，祝谢了，就擘开，递给他们，说：「这是我的身体，为你们舍的，你们也应当如此行，为的是记念我。」",
+      "ja": "それから、パンを取り、感謝をささげてから、裂いて、弟子たちに与えて言われた。「これは、あなたがたのために与える、わたしのからだです。わたしを覚えてこれを行ないなさい。」"
+    },
+    {
+      "number": 20,
+      "ko": "저녁 먹은 후에 잔도 그와 같이 하여 이르시되 이 잔은 내 피로 세우는 새 언약이니 곧 너희를 위하여 붓는 것이라",
+      "en": "In the same way, after the supper he took the cup, saying, \"This cup is the new covenant in my blood, which is poured out for you.",
+      "de": "Desgleichen auch den Kelch, nach dem Abendmahl, und sprach: Das ist der Kelch, das neue Testament in meinem Blut, das für euch vergossen wird.",
+      "zh": "饭后也照样拿起杯来，说：「这杯是用我血所立的新约，是为你们流出来的。",
+      "ja": "食事の後、杯も同じようにして言われた。「この杯は、あなたがたのために流されるわたしの血による新しい契約です。"
+    },
+    {
+      "number": 21,
+      "ko": "그러나 보라 나를 파는 자의 손이 나와 함께 상 위에 있도다",
+      "en": "But the hand of him who is going to betray me is with mine on the table.",
+      "de": "Doch siehe, die Hand meines Verräters ist mit mir über Tische.",
+      "zh": "看哪，那卖我之人的手与我一同在桌子上。",
+      "ja": "しかし、見なさい。わたしを裏切る者の手が、わたしとともに食卓にあります。"
+    },
+    {
+      "number": 22,
+      "ko": "인자는 이미 작정된 대로 가거니와 그를 파는 그 사람에게는 화가 있으리로다 하시니",
+      "en": "The Son of Man will go as it has been decreed, but woe to that man who betrays him.\"",
+      "de": "Denn des Menschen Sohn geht zwar hin, wie es beschlossen ist; doch weh dem Menschen, durch welchen er verraten wird!",
+      "zh": "人子固然要照所预定的去世，但卖人子的人有祸了！」",
+      "ja": "人の子は、定められたとおりに去って行きます。しかし、人の子を裏切るような人間はのろわれます。」"
+    },
+    {
+      "number": 23,
+      "ko": "그들이 서로 묻되 우리 중에서 이 일을 행할 자가 누구일까 하더라",
+      "en": "They began to question among themselves which of them it might be who would do this.",
+      "de": "Und sie fingen an, zu fragen unter sich selbst, welcher es doch wäre unter ihnen, der das tun würde.",
+      "zh": "他们就彼此对问，是哪一个要做这事。",
+      "ja": "そこで弟子たちは、そんなことをしようとしている者は、いったいこの中のだれなのかと、互いに議論をし始めた。"
+    },
+    {
+      "number": 24,
+      "ko": "또 그들 사이에 그 중 누가 크냐 하는 다툼이 난지라",
+      "en": "Also a dispute arose among them as to which of them was considered to be greatest.",
+      "de": "Es erhob sich auch ein Zank unter ihnen, welcher unter ihnen sollte für den Größten gehalten werden.",
+      "zh": "门徒起了争论，他们中间哪一个可算为大。",
+      "ja": "また、彼らの間には、この中でだれが一番偉いだろうかという論議も起こった。"
+    },
+    {
+      "number": 25,
+      "ko": "예수께서 이르시되 이방인의 임금들은 그들을 주관하며 그 집권자들은 은인이라 칭함을 받으나",
+      "en": "Jesus said to them, \"The kings of the Gentiles lord it over them; and those who exercise authority over them call themselves Benefactors.",
+      "de": "Er aber sprach zu ihnen: Die weltlichen Könige herrschen, und die Gewaltigen heißt man gnädige Herren.",
+      "zh": "耶稣说：「外邦人有君王为主治理他们，那掌权管他们的称为恩主。",
+      "ja": "すると、イエスは彼らに言われた。「異邦人の王たちは人々を支配し、また人々の上に権威を持つ者は守護者と呼ばれています。"
+    },
+    {
+      "number": 26,
+      "ko": "너희는 그렇지 않을지니 너희 중에 큰 자는 젊은 자와 같고 다스리는 자는 섬기는 자와 같을지니라",
+      "en": "But you are not to be like that. Instead, the greatest among you should be like the youngest, and the one who rules like the one who serves.",
+      "de": "Ihr aber nicht also! Sondern der Größte unter euch soll sein wie der Jüngste, und der Vornehmste wie ein Diener.",
+      "zh": "但你们不可这样；你们里头为大的，倒要像年幼的，为首领的，倒要像服事人的。",
+      "ja": "だが、あなたがたは、それではいけません。あなたがたの間で一番偉い人は一番年の若い者のようになりなさい。また、治める人は仕える人のようでありなさい。"
+    },
+    {
+      "number": 27,
+      "ko": "앉아서 먹는 자가 크냐 섬기는 자가 크냐 앉아서 먹는 자가 아니냐 그러나 나는 섬기는 자로 너희 중에 있노라",
+      "en": "For who is greater, the one who is at the table or the one who serves? Is it not the one who is at the table? But I am among you as one who serves.",
+      "de": "Denn welcher ist größer: Der zu Tische sitzt oder der da dient? Ist's nicht also, daß der zu Tische sitzt! Ich aber bin unter euch wie ein Diener.",
+      "zh": "是谁为大？是坐席的呢？是服事人的呢？不是坐席的大吗？然而，我在你们中间如同服事人的。",
+      "ja": "食卓に着く人と給仕する者と、どちらが偉いでしょう。むろん、食卓に着く人でしょう。しかしわたしは、あなたがたのうちにあって給仕する者のようにしています。"
+    },
+    {
+      "number": 28,
+      "ko": "너희는 나의 모든 시험 중에 항상 나와 함께 한 자들인즉",
+      "en": "You are those who have stood by me in my trials.",
+      "de": "Ihr aber seid's, die ihr beharrt habt bei mir in meinen Anfechtungen.",
+      "zh": "我在磨炼之中，常和我同在的就是你们。",
+      "ja": "けれども、あなたがたこそ、わたしのさまざまの試練の時にも、わたしについて来てくれた人たちです。"
+    },
+    {
+      "number": 29,
+      "ko": "내 아버지께서 나라를 내게 맡기신 것 같이 나도 너희에게 맡겨",
+      "en": "And I confer on you a kingdom, just as my Father conferred one on me,",
+      "de": "Und ich will euch das Reich bescheiden, wie mir's mein Vater beschieden hat,",
+      "zh": "我将国赐给你们，正如我父赐给我一样，",
+      "ja": "わたしの父がわたしに王権を与えてくださったように、わたしもあなたがたに王権を与えます。"
+    },
+    {
+      "number": 30,
+      "ko": "너희로 내 나라에 있어 내 상에서 먹고 마시며 또는 보좌에 앉아 이스라엘 열두 지파를 다스리게 하려 하노라",
+      "en": "so that you may eat and drink at my table in my kingdom and sit on thrones, judging the twelve tribes of Israel.",
+      "de": "daß ihr essen und trinken sollt an meinem Tische in meinem Reich und sitzen auf Stühlen und richten die zwölf Geschlechter Israels.",
+      "zh": "叫你们在我国里，坐在我的席上吃喝，并且坐在宝座上，审判以色列十二个支派。」",
+      "ja": "それであなたがたは、わたしの国でわたしの食卓に着いて食事をし、王座に着いて、イスラエルの十二の部族をさばくのです。"
+    },
+    {
+      "number": 31,
+      "ko": "시몬아, 시몬아, 보라 사탄이 너희를 밀 까부르듯 하려고 요구하였으나",
+      "en": "\"Simon, Simon, Satan has asked to sift you as wheat.",
+      "de": "Der HERR aber sprach: Simon, Simon, siehe, der Satanas hat euer begehrt, daß er euch möchte sichten wie den Weizen;",
+      "zh": "主又说：「西门！西门！撒但想要得着你们，好筛你们像筛麦子一样；",
+      "ja": "シモン、シモン。見なさい。サタンが、あなたがたを麦のようにふるいにかけることを願って聞き届けられました。"
+    },
+    {
+      "number": 32,
+      "ko": "그러나 내가 너를 위하여 네 믿음이 떨어지지 않기를 기도하였노니 너는 돌이킨 후에 네 형제를 굳게 하라",
+      "en": "But I have prayed for you, Simon, that your faith may not fail. And when you have turned back, strengthen your brothers.\"",
+      "de": "ich aber habe für dich gebeten, daß dein Glaube nicht aufhöre. Und wenn du dermaleinst dich bekehrst, so stärke deine Brüder.",
+      "zh": "但我已经为你祈求，叫你不至于失了信心。你回头以后，要坚固你的弟兄。」",
+      "ja": "しかし、わたしは、あなたの信仰がなくならないように、あなたのために祈りました。だからあなたは、立ち直ったら、兄弟たちを力づけてやりなさい。」"
+    },
+    {
+      "number": 33,
+      "ko": "그가 말하되 주여 내가 주와 함께 옥에도, 죽는 데에도 가기를 각오하였나이다",
+      "en": "But he replied, \"Lord, I am ready to go with you to prison and to death.\"",
+      "de": "Er sprach aber zu ihm: HERR, ich bin bereit, mit dir ins Gefängnis und in den Tod zu gehen.",
+      "zh": "彼得说：「主啊，我就是同你下监，同你受死，也是甘心！」",
+      "ja": "シモンはイエスに言った。「主よ。ごいっしょになら、牢であろうと、死であろうと、覚悟はできております。」"
+    },
+    {
+      "number": 34,
+      "ko": "이르시되 베드로야 내가 네게 말하노니 오늘 닭 울기 전에 네가 세 번 나를 모른다고 부인하리라 하시니라",
+      "en": "Jesus answered, \"I tell you, Peter, before the rooster crows today, you will deny three times that you know me.\"",
+      "de": "Er aber sprach: Petrus, ich sage dir: Der Hahn wird heute nicht krähen, ehe denn du dreimal verleugnet hast, daß du mich kennest.",
+      "zh": "耶稣说：「彼得，我告诉你，今日鸡还没有叫，你要三次说不认得我。」",
+      "ja": "しかし、イエスは言われた。「ペテロ。あなたに言いますが、きょう鶏が鳴くまでに、あなたは三度、わたしを知らないと言います。」"
+    },
+    {
+      "number": 35,
+      "ko": "그들에게 이르시되 내가 너희를 전대와 배낭과 신발도 없이 보내었을 때에 부족한 것이 있더냐 이르되 없었나이다",
+      "en": "Then Jesus asked them, \"When I sent you without purse, bag or sandals, did you lack anything?\" \"Nothing,\" they answered.",
+      "de": "Und er sprach zu ihnen: So oft ich euch ausgesandt habe ohne Beutel, ohne Tasche und ohne Schuhe, habt ihr auch je Mangel gehabt? Sie sprachen: Niemals.",
+      "zh": "耶稣又对他们说：「我差你们出去的时候，没有钱囊，没有口袋，没有鞋，你们缺少什么没有？」他们说：「没有。」",
+      "ja": "それから、弟子たちに言われた。「わたしがあなたがたを、財布も旅行袋もくつも持たせずに旅に出したとき、何か足りない物がありましたか。」彼らは言った。「いいえ。何もありませんでした。」"
+    },
+    {
+      "number": 36,
+      "ko": "이르시되 이제는 전대 있는 자는 가질 것이요 배낭도 그리하고 검 없는 자는 겉옷을 팔아 살지어다",
+      "en": "He said to them, \"But now if you have a purse, take it, and also a bag; and if you don't have a sword, sell your cloak and buy one.",
+      "de": "Da sprach er zu ihnen: Aber nun, wer einen Beutel hat, der nehme ihn, desgleichen auch die Tasche; wer aber nichts hat, verkaufe sein Kleid und kaufe ein Schwert.",
+      "zh": "耶稣说：「但如今有钱囊的可以带着，有口袋的也可以带着，没有刀的要卖衣服买刀。",
+      "ja": "そこで言われた。「しかし、今は、財布のある者は財布を持ち、同じく袋を持ち、剣のない者は着物を売って剣を買いなさい。"
+    },
+    {
+      "number": 37,
+      "ko": "내가 너희에게 말하노니 기록된 바 그는 불법자의 동류로 여김을 받았다 한 말이 내게 이루어져야 하리니 내게 관한 일이 이루어져 감이니라",
+      "en": "It is written: 'And he was numbered with the transgressors'; and I tell you that this must be fulfilled in me. Yes, what is written about me is reaching its fulfillment.\"",
+      "de": "Denn ich sage euch: Es muß noch das auch vollendet werden an mir, was geschrieben steht: “Er ist unter die Übeltäter gerechnet.” Denn was von mir geschrieben ist, das hat ein Ende.",
+      "zh": "我告诉你们，经上写着说：『他被列在罪犯之中。』这话必应验在我身上，因为那关系我的事必然成就。」",
+      "ja": "あなたがたに言いますが、『彼は罪人たちの中に数えられた。』と書いてあるこのことが、わたしに必ず実現するのです。わたしにかかわることは実現します。」"
+    },
+    {
+      "number": 38,
+      "ko": "그들이 여짜오되 주여 보소서 여기 검 둘이 있나이다 대답하시되 족하다 하시니라",
+      "en": "The disciples said, \"See, Lord, here are two swords.\" \"That is enough,\" he replied.",
+      "de": "Sie sprachen aber: HERR, siehe, hier sind zwei Schwerter. Er aber sprach zu ihnen: Es ist genug.",
+      "zh": "他们说：「主啊，请看！这里有两把刀。」耶稣说：「够了。」",
+      "ja": "彼らは言った。「主よ。このとおり、ここに剣が二振りあります。」イエスは彼らに、「それで十分。」と言われた。"
+    },
+    {
+      "number": 39,
+      "ko": "예수께서 나가사 습관을 따라 감람 산에 가시매 제자들도 따라갔더니",
+      "en": "Jesus went out as usual to the Mount of Olives, and his disciples followed him.",
+      "de": "Und er ging hinaus nach seiner Gewohnheit an den Ölberg. Es folgten ihm aber seine Jünger nach an den Ort.",
+      "zh": "耶稣出来，照常往橄榄山去，门徒也跟随他。",
+      "ja": "それからイエスは出て、いつものようにオリーブ山に行かれ、弟子たちも従った。"
+    },
+    {
+      "number": 40,
+      "ko": "그 곳에 이르러 그들에게 이르시되 유혹에 빠지지 않게 기도하라 하시고",
+      "en": "On reaching the place, he said to them, \"Pray that you will not fall into temptation.\"",
+      "de": "Und als er dahin kam, sprach er zu ihnen: Betet, auf daß ihr nicht in Anfechtung fallet!",
+      "zh": "到了那地方，就对他们说：「你们要祷告，免得入了迷惑。」",
+      "ja": "いつもの場所に着いたとき、イエスは彼らに、「誘惑に陥らないように祈っていなさい。」と言われた。"
+    },
+    {
+      "number": 41,
+      "ko": "그들을 떠나 돌 던질 만큼 가서 무릎을 꿇고 기도하여",
+      "en": "He withdrew about a stone's throw beyond them, knelt down and prayed,",
+      "de": "Und er riß sich von ihnen einen Steinwurf weit und kniete nieder, betete",
+      "zh": "于是离开他们约有扔一块石头那么远，跪下祷告，",
+      "ja": "そしてご自分は、弟子たちから石を投げて届くほどの所に離れて、ひざまずいて、こう祈られた。"
+    },
+    {
+      "number": 42,
+      "ko": "이르시되 아버지여 만일 아버지의 뜻이거든 이 잔을 내게서 옮기시옵소서 그러나 내 원대로 마시옵고 아버지의 원대로 되기를 원하나이다 하시니",
+      "en": "\"Father, if you are willing, take this cup from me; yet not my will, but yours be done.\"",
+      "de": "und sprach: Vater, willst du, so nehme diesen Kelch von mir, doch nicht mein, sondern dein Wille geschehe!",
+      "zh": "说：「父啊！你若愿意，就把这杯撤去；然而，不要成就我的意思，只要成就你的意思。」",
+      "ja": "「父よ。みこころならば、この杯をわたしから取りのけてください。しかし、わたしの願いではなく、みこころのとおりにしてください。」"
+    },
+    {
+      "number": 43,
+      "ko": "천사가 하늘로부터 예수께 나타나 힘을 더하더라",
+      "en": "An angel from heaven appeared to him and strengthened him.",
+      "de": "Es erschien ihm aber ein Engel vom Himmel und stärkte ihn.",
+      "zh": "有一位天使从天上显现，加添他的力量。",
+      "ja": "すると、御使いが天からイエスに現われて、イエスを力づけた。"
+    },
+    {
+      "number": 44,
+      "ko": "예수께서 힘쓰고 애써 더욱 간절히 기도하시니 땀이 땅에 떨어지는 핏방울 같이 되더라",
+      "en": "And being in anguish, he prayed more earnestly, and his sweat was like drops of blood falling to the ground.",
+      "de": "Und es kam, daß er mit dem Tode rang und betete heftiger. Es ward aber sein Schweiß wie Blutstropfen, die fielen auf die Erde.",
+      "zh": "耶稣极其伤痛，祷告更加恳切，汗珠如大血点滴在地上。",
+      "ja": "イエスは、苦しみもだえて、いよいよ切に祈られた。汗が血のしずくのように地に落ちた。"
+    },
+    {
+      "number": 45,
+      "ko": "기도 후에 일어나 제자들에게 가서 슬픔으로 인하여 잠든 것을 보시고",
+      "en": "When he rose from prayer and went back to the disciples, he found them asleep, exhausted from sorrow.",
+      "de": "Und er stand auf von dem Gebet und kam zu seinen Jüngern und fand sie schlafen vor Traurigkeit",
+      "zh": "祷告完了，就起来，到门徒那里，见他们因为忧愁都睡着了，",
+      "ja": "イエスは祈り終わって立ち上がり、弟子たちのところに来て見ると、彼らは悲しみの果てに、眠り込んでしまっていた。"
+    },
+    {
+      "number": 46,
+      "ko": "이르시되 어찌하여 자느냐 시험에 들지 않게 일어나 기도하라 하시니라",
+      "en": "\"Why are you sleeping?\" he asked them. \"Get up and pray so that you will not fall into temptation.\"",
+      "de": "und sprach zu ihnen: Was schlafet ihr? Stehet auf und betet, auf das ihr nicht in Anfechtung fallet!",
+      "zh": "就对他们说：「你们为什么睡觉呢？起来祷告，免得入了迷惑！」",
+      "ja": "それで、彼らに言われた。「なぜ、眠っているのか。起きて、誘惑に陥らないように祈っていなさい。」"
+    },
+    {
+      "number": 47,
+      "ko": "말씀하실 때에 한 무리가 오는데 열둘 중의 하나인 유다라 하는 자가 그들을 앞장서 와서",
+      "en": "While he was still speaking a crowd came up, and the man who was called Judas, one of the Twelve, was leading them. He approached Jesus to kiss him,",
+      "de": "Da er aber noch redete, siehe, da kam die Schar; und einer von den Zwölfen, genannt Judas, ging vor ihnen her und nahte sich zu Jesu, ihn zu küssen.",
+      "zh": "说话之间，来了许多人。那十二个门徒里名叫犹大的，走在前头，就近耶稣，要与他亲嘴。",
+      "ja": "イエスがまだ話をしておられるとき、群衆がやって来た。十二弟子のひとりで、ユダという者が、先頭に立っていた。ユダはイエスに口づけしようとして、みもとに近づいた。"
+    },
+    {
+      "number": 48,
+      "ko": "예수께 입을 맞추려고 가까이 하는지라 예수께서 이르시되 유다야 네가 입맞춤으로 인자를 파느냐 하시니",
+      "en": "but Jesus asked him, \"Judas, are you betraying the Son of Man with a kiss?\"",
+      "de": "Jesus aber sprach zu ihm: Judas, verrätst du des Menschen Sohn mit einem Kuß?",
+      "zh": "耶稣对他说：「犹大！你用亲嘴的暗号卖人子吗？」",
+      "ja": "だが、イエスは彼に、「ユダ。口づけで、人の子を裏切ろうとするのか。」と言われた。"
+    },
+    {
+      "number": 49,
+      "ko": "그의 주위 사람들이 그 된 일을 보고 여짜오되 주여 우리가 칼로 치리이까 하고",
+      "en": "When Jesus' followers saw what was going to happen, they said, \"Lord, should we strike with our swords?\"",
+      "de": "Da aber sahen, die um ihn waren, was da werden wollte, sprachen sie zu ihm: HERR, sollen wir mit dem Schwert drein schlagen?",
+      "zh": "左右的人见光景不好，就说：「主啊！我们拿刀砍可以不可以？」",
+      "ja": "イエスの回りにいた者たちは、事の成り行きを見て、「主よ。剣で撃ちましょうか。」と言った。"
+    },
+    {
+      "number": 50,
+      "ko": "그 중의 한 사람이 대제사장의 종을 쳐 그 오른쪽 귀를 떨어뜨린지라",
+      "en": "And one of them struck the servant of the high priest, cutting off his right ear.",
+      "de": "Und einer aus ihnen schlug des Hohenpriesters Knecht und hieb ihm sein rechtes Ohr ab.",
+      "zh": "内中有一个人把大祭司的仆人砍了一刀，削掉了他的右耳。",
+      "ja": "そしてそのうちのある者が、大祭司のしもべに撃ってかかり、その右の耳を切り落とした。"
+    },
+    {
+      "number": 51,
+      "ko": "예수께서 일러 이르시되 이것까지 참으라 하시고 그 귀를 만져 낫게 하시더라",
+      "en": "But Jesus answered, \"No more of this!\" And he touched the man's ear and healed him.",
+      "de": "Jesus aber antwortete und sprach: Lasset sie doch so machen! Und er rührte sein Ohr an und heilte ihn.",
+      "zh": "耶稣说：「到了这个地步，由他们吧！」就摸那人的耳朵，把他治好了。",
+      "ja": "するとイエスは、「やめなさい。それまで。」と言われた。そして、耳にさわって彼を直してやられた。"
+    },
+    {
+      "number": 52,
+      "ko": "예수께서 그 잡으러 온 대제사장들과 성전의 경비대장들과 장로들에게 이르시되 너희가 강도를 잡는 것 같이 검과 몽치를 가지고 나왔느냐",
+      "en": "Then Jesus said to the chief priests, the officers of the temple guard, and the elders, who had come for him, \"Am I leading a rebellion, that you have come with swords and clubs?",
+      "de": "Jesus aber sprach zu den Hohenpriestern und Hauptleuten des Tempels und den Ältesten, die über ihn gekommen waren: Ihr seid, wie zu einem Mörder, mit Schwertern und mit Stangen ausgegangen.",
+      "zh": "耶稣对那些来拿他的祭司长和守殿官并长老说：「你们带着刀棒出来拿我，如同拿强盗吗？",
+      "ja": "そして押しかけて来た祭司長、宮の守衛長、長老たちに言われた。「まるで強盗にでも向かうように、剣や棒を持ってやって来たのですか。"
+    },
+    {
+      "number": 53,
+      "ko": "내가 날마다 너희와 함께 성전에 있을 때에 내게 손을 대지 아니하였도다 그러나 이제는 너희 때요 어둠의 권세로다 하시더라",
+      "en": "Every day I was with you in the temple courts, and you did not lay a hand on me. But this is your hour--when darkness reigns.\"",
+      "de": "Ich bin täglich bei euch im Tempel gewesen, und ihr habt keine Hand an mich gelegt; aber dies ist eure Stunde und die Macht der Finsternis.",
+      "zh": "我天天同你们在殿里，你们不下手拿我。现在却是你们的时候，黑暗掌权了。」",
+      "ja": "あなたがたは、わたしが毎日宮でいっしょにいる間は、わたしに手出しもしなかった。しかし、今はあなたがたの時です。暗やみの力です。」"
+    },
+    {
+      "number": 54,
+      "ko": "예수를 잡아 끌고 대제사장의 집으로 들어갈새 베드로가 멀찍이 따라가니라",
+      "en": "Then seizing him, they led him away and took him into the house of the high priest. Peter followed at a distance.",
+      "de": "Sie griffen ihn aber und führten ihn hin und brachten ihn in des Hohenpriesters Haus. Petrus aber folgte von ferne.",
+      "zh": "他们拿住耶稣，把他带到大祭司的宅里。彼得远远地跟着。",
+      "ja": "彼らはイエスを捕え、引いて行って、大祭司の家に連れて来た。ペテロは、遠く離れてついて行った。"
+    },
+    {
+      "number": 55,
+      "ko": "사람들이 뜰 가운데 불을 피우고 함께 앉았는지라 베드로도 그 가운데 앉았더니",
+      "en": "But when they had kindled a fire in the middle of the courtyard and had sat down together, Peter sat down with them.",
+      "de": "Da zündeten sie ein Feuer an mitten im Hof und setzten sich zusammen; und Petrus setzte sich unter sie.",
+      "zh": "他们在院子里生了火，一同坐着；彼得也坐在他们中间。",
+      "ja": "彼らは中庭の真中に火をたいて、みなすわり込んだので、ペテロも中に混じって腰をおろした。"
+    },
+    {
+      "number": 56,
+      "ko": "한 여종이 베드로의 불빛을 향하여 앉은 것을 보고 주목하여 이르되 이 사람도 그와 함께 있었느니라 하니",
+      "en": "A servant girl saw him seated there in the firelight. She looked closely at him and said, \"This man was with him.\"",
+      "de": "Da sah ihn eine Magd sitzen bei dem Licht und sah genau auf ihn und sprach: Dieser war auch mit ihm.",
+      "zh": "有一个使女看见彼得坐在火光里，就定睛看他，说：「这个人素来也是同那人一伙的。」",
+      "ja": "すると、女中が、火あかりの中にペテロのすわっているのを見つけ、まじまじと見て言った。「この人も、イエスといっしょにいました。」"
+    },
+    {
+      "number": 57,
+      "ko": "베드로가 부인하여 이르되 이 여자여 내가 그를 알지 못하노라 하더라",
+      "en": "But he denied it. \"Woman, I don't know him,\" he said.",
+      "de": "Er aber verleugnete ihn und sprach: Weib, ich kenne ihn nicht.",
+      "zh": "彼得却不承认，说：「女子，我不认得他。」",
+      "ja": "ところが、ペテロはそれを打ち消して、「いいえ、私はあの人を知りません。」と言った。"
+    },
+    {
+      "number": 58,
+      "ko": "조금 후에 다른 사람이 보고 이르되 너도 그 도당이라 하거늘 베드로가 이르되 이 사람아 나는 아니로라 하더라",
+      "en": "A little later someone else saw him and said, \"You also are one of them.\" \"Man, I am not!\" Peter replied.",
+      "de": "Und über eine kleine Weile sah ihn ein anderer und sprach: Du bist auch deren einer. Petrus aber sprach: Mensch ich bin's nicht.",
+      "zh": "过了不多的时候，又有一个人看见他，说：「你也是他们一党的。」彼得说：「你这个人！我不是。」",
+      "ja": "しばらくして、ほかの男が彼を見て、「あなたも、彼らの仲間だ。」と言った。しかし、ペテロは、「いや、違います。」と言った。"
+    },
+    {
+      "number": 59,
+      "ko": "한 시간쯤 있다가 또 한 사람이 장담하여 이르되 이는 갈릴리 사람이니 참으로 그와 함께 있었느니라",
+      "en": "About an hour later another asserted, \"Certainly this fellow was with him, for he is a Galilean.\"",
+      "de": "Und über eine Weile, bei einer Stunde, bekräftigte es ein anderer und sprach: Wahrlich dieser war auch mit ihm; denn er ist ein Galiläer.",
+      "zh": "约过了一小时，又有一个人极力地说：「他实在是同那人一伙的，因为他也是加利利人。」",
+      "ja": "それから一時間ほどたつと、また別の男が、「確かにこの人も彼といっしょだった。この人もガリラヤ人だから。」と言い張った。"
+    },
+    {
+      "number": 60,
+      "ko": "베드로가 이르되 이 사람아 나는 네가 하는 말을 알지 못하노라고 아직 말하고 있을 때에 닭이 곧 울더라",
+      "en": "Peter replied, \"Man, I don't know what you're talking about!\" Just as he was speaking, the rooster crowed.",
+      "de": "Petrus aber sprach: Mensch, ich weiß nicht, was du sagst. Und alsbald, als er noch redete, krähte der Hahn.",
+      "zh": "彼得说：「你这个人！我不晓得你说的是什么！」正说话之间，鸡就叫了。",
+      "ja": "しかしペテロは、「あなたの言うことは私にはわかりません。」と言った。それといっしょに、彼がまだ言い終えないうちに、鶏が鳴いた。"
+    },
+    {
+      "number": 61,
+      "ko": "주께서 돌이켜 베드로를 보시니 베드로가 주의 말씀 곧 오늘 닭 울기 전에 네가 세 번 나를 부인하리라 하심이 생각나서",
+      "en": "The Lord turned and looked straight at Peter. Then Peter remembered the word the Lord had spoken to him: \"Before the rooster crows today, you will disown me three times.\"",
+      "de": "Und der HERR wandte sich um und sah Petrus an. Und Petrus gedachte an des HERRN Wort, wie er zu ihm gesagt hatte: Ehe denn der Hahn kräht, wirst du mich dreimal verleugnen.",
+      "zh": "主转过身来看彼得，彼得便想起主对他所说的话：「今日鸡叫以先，你要三次不认我。」",
+      "ja": "主が振り向いてペテロを見つめられた。ペテロは、「きょう、鶏が鳴くまでに、あなたは、三度わたしを知らないと言う。」と言われた主のおことばを思い出した。"
+    },
+    {
+      "number": 62,
+      "ko": "밖에 나가서 심히 통곡하니라",
+      "en": "And he went outside and wept bitterly.",
+      "de": "Und Petrus ging hinaus und weinte bitterlich.",
+      "zh": "他就出去痛哭。",
+      "ja": "彼は、外に出て、激しく泣いた。"
+    },
+    {
+      "number": 63,
+      "ko": "지키는 사람들이 예수를 희롱하고 때리며",
+      "en": "The men who were guarding Jesus began mocking and beating him.",
+      "de": "Die Männer aber, die Jesum hielten, verspotteten ihn und schlugen ihn,",
+      "zh": "看守耶稣的人戏弄他，打他，",
+      "ja": "さて、イエスの監視人どもは、イエスをからかい、むちでたたいた。"
+    },
+    {
+      "number": 64,
+      "ko": "그의 눈을 가리고 물어 이르되 선지자 노릇 하라 너를 친 자가 누구냐 하고",
+      "en": "They blindfolded him and demanded, \"Prophesy! Who hit you?\"",
+      "de": "verdeckten ihn und schlugen ihn ins Angesicht und fragten ihn und sprachen: Weissage, wer ist's, der dich schlug?",
+      "zh": "又蒙着他的眼，问他说：「你是先知，告诉我们打你的是谁？」",
+      "ja": "そして目隠しをして、「言い当ててみろ。今たたいたのはだれか。」と聞いたりした。"
+    },
+    {
+      "number": 65,
+      "ko": "이 외에도 많은 말로 욕하더라",
+      "en": "And they said many other insulting things to him.",
+      "de": "Und viele andere Lästerungen sagten sie wider ihn.",
+      "zh": "他们还用许多别的话辱骂他。",
+      "ja": "また、そのほかさまざまな悪口をイエスに浴びせた。"
+    },
+    {
+      "number": 66,
+      "ko": "날이 새매 백성의 장로들 곧 대제사장들과 서기관들이 모여서 예수를 그 공회로 끌어들여",
+      "en": "At daybreak the council of the elders of the people, both the chief priests and teachers of the law, met together, and Jesus was led before them.",
+      "de": "Und als es Tag ward, sammelten sich die Ältesten des Volks, die Hohenpriester und Schriftgelehrten und führten ihn hinauf vor ihren Rat",
+      "zh": "天一亮，民间的众长老连祭司长带文士都聚会，把耶稣带到他们的公会里，",
+      "ja": "夜が明けると、民の長老会、それに祭司長、律法学者たちが、集まった。彼らはイエスを議会に連れ出し、"
+    },
+    {
+      "number": 67,
+      "ko": "이르되 네가 그리스도이거든 우리에게 말하라 대답하시되 내가 말할지라도 너희가 믿지 아니할 것이요",
+      "en": "\"If you are the Christ,\" they said, \"tell us.\" Jesus answered, \"If I tell you, you will not believe me,",
+      "de": "und sprachen: Bist du Christus, sage es uns! Er aber sprach zu ihnen: Sage ich's euch, so glaubt ihr's nicht;",
+      "zh": "说：「你若是基督，就告诉我们。」耶稣说：「我若告诉你们，你们也不信；",
+      "ja": "こう言った。「あなたがキリストなら、そうだと言いなさい。」しかしイエスは言われた。「わたしが言っても、あなたがたは決して信じないでしょうし、"
+    },
+    {
+      "number": 68,
+      "ko": "내가 물어도 너희가 대답하지 아니할 것이니라",
+      "en": "and if I asked you, you would not answer.",
+      "de": "frage ich aber, so antwortet ihr nicht und laßt mich doch nicht los.",
+      "zh": "我若问你们，你们也不回答。",
+      "ja": "わたしが尋ねても、あなたがたは決して答えないでしょう。"
+    },
+    {
+      "number": 69,
+      "ko": "그러나 이제부터는 인자가 하나님의 권능의 우편에 앉아 있으리라 하시니",
+      "en": "But from now on, the Son of Man will be seated at the right hand of the mighty God.\"",
+      "de": "Darum von nun an wird des Menschen Sohn sitzen zur rechten Hand der Kraft Gottes.",
+      "zh": "从今以后，人子要坐在　神权能的右边。」",
+      "ja": "しかし今から後、人の子は、神の大能の右の座に着きます。」"
+    },
+    {
+      "number": 70,
+      "ko": "다 이르되 그러면 네가 하나님의 아들이냐 대답하시되 너희들이 내가 그라고 말하고 있느니라",
+      "en": "They all asked, \"Are you then the Son of God?\" He replied, \"You are right in saying I am.\"",
+      "de": "Da sprachen sie alle: Bist du denn Gottes Sohn? Er aber sprach zu ihnen: Ihr sagt es, denn ich bin's.",
+      "zh": "他们都说：「这样，你是　神的儿子吗？」耶稣说：「你们所说的是。」",
+      "ja": "彼らはみなで言った。「ではあなたは神の子ですか。」すると、イエスは彼らに「あなたがたの言うとおり、わたしはそれです。」と言われた。"
+    },
+    {
+      "number": 71,
+      "ko": "그들이 이르되 어찌 더 증거를 요구하리요 우리가 친히 그 입에서 들었노라 하더라",
+      "en": "Then they said, \"Why do we need any more testimony? We have heard it from his own lips.\"",
+      "de": "Sie aber sprachen: Was bedürfen wir weiteres Zeugnis? Wir haben's selbst gehört aus seinem Munde.",
+      "zh": "他们说：「何必再用见证呢？他亲口所说的，我们都亲自听见了。」",
+      "ja": "すると彼らは「これでもまだ証人が必要でしょうか。私たち自身が彼の口から直接それを聞いたのだから。」と言った。"
+    }
+  ]
+}

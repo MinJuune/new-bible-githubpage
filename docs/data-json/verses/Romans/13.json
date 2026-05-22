@@ -1,0 +1,118 @@
+{
+  "book": "Romans",
+  "chapter": 13,
+  "verses": [
+    {
+      "number": 1,
+      "ko": "각 사람은 위에 있는 권세들에게 복종하라 권세는 하나님으로부터 나지 않음이 없나니 모든 권세는 다 하나님께서 정하신 바라",
+      "en": "Everyone must submit himself to the governing authorities, for there is no authority except that which God has established. The authorities that exist have been established by God.",
+      "de": "Jedermann sei untertan der Obrigkeit, die Gewalt über ihn hat. Denn es ist keine Obrigkeit ohne von Gott; wo aber Obrigkeit ist, die ist von Gott verordnet.",
+      "zh": "在上有权柄的，人人当顺服他，因为没有权柄不是出于　神的。凡掌权的都是　神所命的。",
+      "ja": "人はみな、上に立つ権威に従うべきです。神によらない権威はなく、存在している権威はすべて、神によって立てられたものです。"
+    },
+    {
+      "number": 2,
+      "ko": "그러므로 권세를 거스르는 자는 하나님의 명을 거스름이니 거스르는 자들은 심판을 자취하리라",
+      "en": "Consequently, he who rebels against the authority is rebelling against what God has instituted, and those who do so will bring judgment on themselves.",
+      "de": "Wer sich nun der Obrigkeit widersetzt, der widerstrebt Gottes Ordnung; die aber widerstreben, werden über sich ein Urteil empfangen.",
+      "zh": "所以，抗拒掌权的就是抗拒　神的命；抗拒的必自取刑罚。",
+      "ja": "したがって、権威に逆らっている人は、神の定めにそむいているのです。そむいた人は自分の身にさばきを招きます。"
+    },
+    {
+      "number": 3,
+      "ko": "다스리는 자들은 선한 일에 대하여 두려움이 되지 않고 악한 일에 대하여 되나니 네가 권세를 두려워하지 아니하려느냐 선을 행하라 그리하면 그에게 칭찬을 받으리라",
+      "en": "For rulers hold no terror for those who do right, but for those who do wrong. Do you want to be free from fear of the one in authority? Then do what is right and he will commend you.",
+      "de": "Denn die Gewaltigen sind nicht den guten Werken, sondern den bösen zu fürchten. Willst du dich aber nicht fürchten vor der Obrigkeit, so tue Gutes, so wirst du Lob von ihr haben.",
+      "zh": "作官的原不是叫行善的惧怕，乃是叫作恶的惧怕。你愿意不惧怕掌权的吗？你只要行善，就可得他的称赞；",
+      "ja": "支配者を恐ろしいと思うのは、良い行ないをするときではなく、悪を行なうときです。権威を恐れたくないと思うなら、善を行ないなさい。そうすれば、支配者からほめられます。"
+    },
+    {
+      "number": 4,
+      "ko": "그는 하나님의 사역자가 되어 네게 선을 베푸는 자니라 그러나 네가 악을 행하거든 두려워하라 그가 공연히 칼을 가지지 아니하였으니 곧 하나님의 사역자가 되어 악을 행하는 자에게 진노하심을 따라 보응하는 자니라",
+      "en": "For he is God's servant to do you good. But if you do wrong, be afraid, for he does not bear the sword for nothing. He is God's servant, an agent of wrath to bring punishment on the wrongdoer.",
+      "de": "Denn sie ist Gottes Dienerin dir zu gut. Tust du aber Böses, so fürchte dich; denn sie trägt das Schwert nicht umsonst; sie ist Gottes Dienerin, eine Rächerin zur Strafe über den, der Böses tut.",
+      "zh": "因为他是　神的用人，是与你有益的。你若作恶，却当惧怕，因为他不是空空地佩剑；他是　神的用人，是伸冤的，刑罚那作恶的。",
+      "ja": "それは、彼があなたに益を与えるための、神のしもべだからです。しかし、もしあなたが悪を行なうなら、恐れなければなりません。彼は無意味に剣を帯びてはいないからです。彼は神のしもべであって、悪を行なう人には怒りをもって報います。"
+    },
+    {
+      "number": 5,
+      "ko": "그러므로 복종하지 아니할 수 없으니 진노 때문에 할 것이 아니라 양심을 따라 할 것이라",
+      "en": "Therefore, it is necessary to submit to the authorities, not only because of possible punishment but also because of conscience.",
+      "de": "Darum ist's not, untertan zu sein, nicht allein um der Strafe willen, sondern auch um des Gewissens willen.",
+      "zh": "所以，你们必须顺服，不但是因为刑罚，也是因为良心。",
+      "ja": "ですから、ただ怒りが恐ろしいからだけでなく、良心のためにも、従うべきです。"
+    },
+    {
+      "number": 6,
+      "ko": "너희가 조세를 바치는 것도 이로 말미암음이라 그들이 하나님의 일꾼이 되어 바로 이 일에 항상 힘쓰느니라",
+      "en": "This is also why you pay taxes, for the authorities are God's servants, who give their full time to governing.",
+      "de": "Derhalben müßt ihr auch Schoß geben; denn sie sind Gottes Diener, die solchen Schutz handhaben.",
+      "zh": "你们纳粮，也为这个缘故；因他们是　神的差役，常常特管这事。",
+      "ja": "同じ理由で、あなたがたは、みつぎを納めるのです。彼らは、いつもその務めに励んでいる神のしもべなのです。"
+    },
+    {
+      "number": 7,
+      "ko": "모든 자에게 줄 것을 주되 조세를 받을 자에게 조세를 바치고 관세를 받을 자에게 관세를 바치고 두려워할 자를 두려워하며 존경할 자를 존경하라",
+      "en": "Give everyone what you owe him: If you owe taxes, pay taxes; if revenue, then revenue; if respect, then respect; if honor, then honor.",
+      "de": "So gebet nun jedermann, was ihr schuldig seid: Schoß, dem der Schoß gebührt; Zoll, dem der Zoll gebührt; Furcht, dem die Furcht gebührt; Ehre, dem die Ehre gebührt.",
+      "zh": "凡人所当得的，就给他。当得粮的，给他纳粮；当得税的，给他上税；当惧怕的，惧怕他；当恭敬的，恭敬他。",
+      "ja": "あなたがたは、だれにでも義務を果たしなさい。みつぎを納めなければならない人にはみつぎを納め、税を納めなければならない人には税を納め、恐れなければならない人を恐れ、敬わなければならない人を敬いなさい。"
+    },
+    {
+      "number": 8,
+      "ko": "피차 사랑의 빚 외에는 아무에게든지 아무 빚도 지지 말라 남을 사랑하는 자는 율법을 다 이루었느니라",
+      "en": "Let no debt remain outstanding, except the continuing debt to love one another, for he who loves his fellowman has fulfilled the law.",
+      "de": "Seid niemand nichts schuldig, als daß ihr euch untereinander liebt; denn wer den andern liebt, der hat das Gesetz erfüllt.",
+      "zh": "凡事都不可亏欠人，惟有彼此相爱要常以为亏欠，因为爱人的就完全了律法。",
+      "ja": "だれに対しても、何の借りもあってはいけません。ただし、互いに愛し合うことについては別です。他の人を愛する者は、律法を完全に守っているのです。"
+    },
+    {
+      "number": 9,
+      "ko": "간음하지 말라, 살인하지 말라, 도둑질하지 말라, 탐내지 말라 한 것과 그 외에 다른 계명이 있을지라도 네 이웃을 네 자신과 같이 사랑하라 하신 그 말씀 가운데 다 들었느니라",
+      "en": "The commandments, \"Do not commit adultery,\" \"Do not murder,\" \"Do not steal,\" \"Do not covet,\" and whatever other commandment there may be, are summed up in this one rule: \"Love your neighbor as yourself.\"",
+      "de": "Denn was da gesagt ist: “Du sollst nicht ehebrechen; du sollst nicht töten; du sollst nicht stehlen; du sollst nicht falsch Zeugnis geben; dich soll nichts gelüsten”, und so ein anderes Gebot mehr ist, das wird in diesen Worten zusammengefaßt: “Du sollst deinen Nächsten lieben wie dich selbst.”",
+      "zh": "像那不可奸淫，不可杀人，不可偷盗，不可贪婪，或有别的诫命，都包在爱人如己这一句话之内了。",
+      "ja": "「姦淫するな、殺すな、盗むな、むさぼるな。」という戒め、またほかにどんな戒めがあっても、それらは、「あなたの隣人をあなた自身のように愛せよ。」ということばの中に要約されているからです。"
+    },
+    {
+      "number": 10,
+      "ko": "사랑은 이웃에게 악을 행하지 아니하나니 그러므로 사랑은 율법의 완성이니라",
+      "en": "Love does no harm to its neighbor. Therefore love is the fulfillment of the law.",
+      "de": "Denn Liebe tut dem Nächsten nichts Böses. So ist nun die Liebe des Gesetzes Erfüllung.",
+      "zh": "爱是不加害与人的，所以爱就完全了律法。",
+      "ja": "愛は隣人に対して害を与えません。それゆえ、愛は律法を全うします。"
+    },
+    {
+      "number": 11,
+      "ko": "또한 너희가 이 시기를 알거니와 자다가 깰 때가 벌써 되었으니 이는 이제 우리의 구원이 처음 믿을 때보다 가까웠음이라",
+      "en": "And do this, understanding the present time. The hour has come for you to wake up from your slumber, because our salvation is nearer now than when we first believed.",
+      "de": "Und weil wir solches wissen, nämlich die Zeit, daß die Stunde da ist, aufzustehen vom Schlaf (sintemal unser Heil jetzt näher ist, denn da wir gläubig wurden;",
+      "zh": "再者，你们晓得，现今就是该趁早睡醒的时候；因为我们得救，现今比初信的时候更近了。",
+      "ja": "あなたがたは、今がどのような時か知っているのですから、このように行ないなさい。あなたがたが眠りからさめるべき時刻がもう来ています。というのは、私たちが信じたころよりも、今は救いが私たちにもっと近づいているからです。"
+    },
+    {
+      "number": 12,
+      "ko": "밤이 깊고 낮이 가까웠으니 그러므로 우리가 어둠의 일을 벗고 빛의 갑옷을 입자",
+      "en": "The night is nearly over; the day is almost here. So let us put aside the deeds of darkness and put on the armor of light.",
+      "de": "die Nacht ist vorgerückt, der Tag aber nahe herbeigekommen): so lasset uns ablegen die Werke der Finsternis und anlegen die Waffen des Lichtes.",
+      "zh": "黑夜已深，白昼将近。我们就当脱去暗昧的行为，带上光明的兵器。",
+      "ja": "夜はふけて、昼が近づきました。ですから、私たちは、やみのわざを打ち捨てて、光の武具を着けようではありませんか。"
+    },
+    {
+      "number": 13,
+      "ko": "낮에와 같이 단정히 행하고 방탕하거나 술 취하지 말며 음란하거나 호색하지 말며 다투거나 시기하지 말고",
+      "en": "Let us behave decently, as in the daytime, not in orgies and drunkenness, not in sexual immorality and debauchery, not in dissension and jealousy.",
+      "de": "Lasset uns ehrbar wandeln als am Tage, nicht in Fressen und Saufen, nicht in Kammern und Unzucht, nicht in Hader und Neid;",
+      "zh": "行事为人要端正，好像行在白昼。不可荒宴醉酒；不可好色邪荡；不可争竞嫉妒。",
+      "ja": "遊興、酩酊、淫乱、好色、争い、ねたみの生活ではなく、昼間らしい、正しい生き方をしようではありませんか。"
+    },
+    {
+      "number": 14,
+      "ko": "오직 주 예수 그리스도로 옷 입고 정욕을 위하여 육신의 일을 도모하지 말라",
+      "en": "Rather, clothe yourselves with the Lord Jesus Christ, and do not think about how to gratify the desires of the sinful nature.",
+      "de": "sondern ziehet an den HERRN Jesus Christus und wartet des Leibes, doch also, daß er nicht geil werde.",
+      "zh": "总要披戴主耶稣基督，不要为肉体安排，去放纵私欲。",
+      "ja": "主イエス・キリストを着なさい。肉の欲のために心を用いてはいけません。"
+    }
+  ]
+}

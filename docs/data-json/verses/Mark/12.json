@@ -1,0 +1,358 @@
+{
+  "book": "Mark",
+  "chapter": 12,
+  "verses": [
+    {
+      "number": 1,
+      "ko": "예수께서 비유로 그들에게 말씀하시되 한 사람이 포도원을 만들어 산울타리로 두르고 즙 짜는 틀을 만들고 망대를 지어서 농부들에게 세로 주고 타국에 갔더니",
+      "en": "He then began to speak to them in parables: \"A man planted a vineyard. He put a wall around it, dug a pit for the winepress and built a watchtower. Then he rented the vineyard to some farmers and went away on a journey.",
+      "de": "Und er fing an, zu ihnen durch Gleichnisse zu reden: Ein Mensch pflanzte einen Weinberg und führte einen Zaun darum und grub eine Kelter und baute einen Turm und tat ihn aus den Weingärtnern und zog über Land.",
+      "zh": "耶稣就用比喻对他们说：「有人栽了一个葡萄园，周围圈上篱笆，挖了一个压酒池，盖了一座楼，租给园户，就往外国去了。",
+      "ja": "それからイエスは、たとえを用いて彼らに話し始められた。 「ある人がぶどう園を造って、垣を巡らし、酒ぶねを掘り、やぐらを建て、それを農夫たちに貸して、旅に出かけた。"
+    },
+    {
+      "number": 2,
+      "ko": "때가 이르매 농부들에게 포도원 소출 얼마를 받으려고 한 종을 보내니",
+      "en": "At harvest time he sent a servant to the tenants to collect from them some of the fruit of the vineyard.",
+      "de": "Und sandte einen Knecht, da die Zeit kam, zu den Weingärtnern, daß er von den Weingärtnern nähme von der Frucht des Weinbergs.",
+      "zh": "到了时候，打发一个仆人到园户那里，要从园户收葡萄园的果子。",
+      "ja": "季節になると、ぶどう園の収穫の分けまえを受け取りに、しもべを農夫たちのところへ遣わした。"
+    },
+    {
+      "number": 3,
+      "ko": "그들이 종을 잡아 심히 때리고 거저 보내었거늘",
+      "en": "But they seized him, beat him and sent him away empty-handed.",
+      "de": "Sie nahmen ihn aber und stäupten ihn, und ließen ihn leer von sich.",
+      "zh": "园户拿住他，打了他，叫他空手回去。",
+      "ja": "ところが、彼らは、そのしもべをつかまえて袋だたきにし、何も持たせないで送り帰した。"
+    },
+    {
+      "number": 4,
+      "ko": "다시 다른 종을 보내니 그의 머리에 상처를 내고 능욕하였거늘",
+      "en": "Then he sent another servant to them; they struck this man on the head and treated him shamefully.",
+      "de": "Abermals sandte er ihnen einen anderen Knecht; dem zerwarfen sie den Kopf mit Steinen und ließen ihn geschmäht von sich.",
+      "zh": "再打发一个仆人到他们那里。他们打伤他的头，并且凌辱他。",
+      "ja": "そこで、もう一度別のしもべを遣わしたが、彼らは、頭をなぐり、はずかしめた。"
+    },
+    {
+      "number": 5,
+      "ko": "또 다른 종을 보내니 그들이 그를 죽이고 또 그 외 많은 종들도 더러는 때리고 더러는 죽인지라",
+      "en": "He sent still another, and that one they killed. He sent many others; some of them they beat, others they killed.",
+      "de": "Abermals sandte er einen andern: den töteten sie. Und viele andere, etliche stäupten sie, etliche töteten sie.",
+      "zh": "又打发一个仆人去，他们就杀了他。后又打发好些仆人去，有被他们打的，有被他们杀的。",
+      "ja": "また別のしもべを遣わしたところが、彼らは、これも殺してしまった。続いて、多くのしもべをやったけれども、彼らは袋だたきにしたり、殺したりした。"
+    },
+    {
+      "number": 6,
+      "ko": "이제 한 사람이 남았으니 곧 그가 사랑하는 아들이라 최후로 이를 보내며 이르되 내 아들은 존대하리라 하였더니",
+      "en": "\"He had one left to send, a son, whom he loved. He sent him last of all, saying, 'They will respect my son.'",
+      "de": "Da hatte er noch einen einzigen Sohn, der war ihm lieb; den sandte er zum letzten auch zu ihnen und sprach: Sie werden sich vor meinem Sohn scheuen.",
+      "zh": "园主还有一位是他的爱子，末后又打发他去，意思说：『他们必尊敬我的儿子。』",
+      "ja": "その人には、なおもうひとりの者がいた。それは愛する息子であった。彼は、『私の息子なら、敬ってくれるだろう。』と言って、最後にその息子を遣わした。"
+    },
+    {
+      "number": 7,
+      "ko": "그 농부들이 서로 말하되 이는 상속자니 자 죽이자 그러면 그 유산이 우리 것이 되리라 하고",
+      "en": "\"But the tenants said to one another, 'This is the heir. Come, let's kill him, and the inheritance will be ours.'",
+      "de": "Aber die Weingärtner sprachen untereinander: Dies ist der Erbe; kommt, laßt uns ihn töten, so wird das Erbe unser sein!",
+      "zh": "不料，那些园户彼此说：『这是承受产业的。来吧，我们杀他，产业就归我们了！』",
+      "ja": "すると、その農夫たちはこう話し合った。『あれはあと取りだ。さあ、あれを殺そうではないか。そうすれば、財産はこちらのものだ。』"
+    },
+    {
+      "number": 8,
+      "ko": "이에 잡아 죽여 포도원 밖에 내던졌느니라",
+      "en": "So they took him and killed him, and threw him out of the vineyard.",
+      "de": "Und sie nahmen ihn und töteten ihn und warfen ihn hinaus vor den Weinberg.",
+      "zh": "于是拿住他，杀了他，把他丢在园外。",
+      "ja": "そして、彼をつかまえて殺してしまい、ぶどう園の外に投げ捨てた。"
+    },
+    {
+      "number": 9,
+      "ko": "포도원 주인이 어떻게 하겠느냐 와서 그 농부들을 진멸하고 포도원을 다른 사람들에게 주리라",
+      "en": "\"What then will the owner of the vineyard do? He will come and kill those tenants and give the vineyard to others.",
+      "de": "Was wird nun der Herr des Weinbergs tun? Er wird kommen und die Weingärtner umbringen und den Weinberg andern geben.",
+      "zh": "这样，葡萄园的主人要怎么办呢？他要来除灭那些园户，将葡萄园转给别人。",
+      "ja": "ところで、ぶどう園の主人は、どうするでしょう。彼は戻って来て、農夫どもを打ち滅ぼし、ぶどう園をほかの人たちに与えてしまいます。"
+    },
+    {
+      "number": 10,
+      "ko": "너희가 성경에 건축자들이 버린 돌이 모퉁이의 머릿돌이 되었나니",
+      "en": "Haven't you read this scripture: \"'The stone the builders rejected has become the capstone;",
+      "de": "Habt ihr auch nicht gelesen diese Schrift: “Der Stein, den die Bauleute verworfen haben, der ist zum Eckstein geworden.",
+      "zh": "经上写着说： 匠人所弃的石头 已作了房角的头块石头。",
+      "ja": "あなたがたは、次の聖書のことばを読んだことがないのですか。 『家を建てる者たちの見捨てた石、 それが礎の石になった。"
+    },
+    {
+      "number": 11,
+      "ko": "이것은 주로 말미암아 된 것이요 우리 눈에 놀랍도다 함을 읽어 보지도 못하였느냐 하시니라",
+      "en": "the Lord has done this, and it is marvelous in our eyes'?\"",
+      "de": "Von dem HERRN ist das geschehen, und es ist wunderbarlich vor unseren Augen”?",
+      "zh": "这是主所做的， 在我们眼中看为希奇。 这经你们没有念过吗？」",
+      "ja": "これは主のなさったことだ。 私たちの目には、 不思議なことである。』」"
+    },
+    {
+      "number": 12,
+      "ko": "그들이 예수의 이 비유가 자기들을 가리켜 말씀하심인 줄 알고 잡고자 하되 무리를 두려워하여 예수를 두고 가니라",
+      "en": "Then they looked for a way to arrest him because they knew he had spoken the parable against them. But they were afraid of the crowd; so they left him and went away.",
+      "de": "Und sie trachteten darnach, wie sie ihn griffen, und fürchteten sich doch vor dem Volk; denn sie verstanden, daß er auf sie dies Gleichnis geredet hatte. Und sie ließen ihn und gingen davon.",
+      "zh": "他们看出这比喻是指着他们说的，就想要捉拿他，只是惧怕百姓，于是离开他走了。",
+      "ja": "彼らは、このたとえ話が、自分たちをさして語られたことに気づいたので、イエスを捕えようとしたが、やはり群衆を恐れた。それで、イエスを残して、立ち去った。"
+    },
+    {
+      "number": 13,
+      "ko": "그들이 예수의 말씀을 책잡으려 하여 바리새인과 헤롯당 중에서 사람을 보내매",
+      "en": "Later they sent some of the Pharisees and Herodians to Jesus to catch him in his words.",
+      "de": "Und sie sandten zu ihm etliche von den Pharisäern und des Herodes Dienern, daß sie ihn fingen in Worten.",
+      "zh": "后来，他们打发几个法利赛人和几个希律党的人到耶稣那里，要就着他的话陷害他。",
+      "ja": "さて、彼らは、イエスに何か言わせて、わなに陥れようとして、パリサイ人とヘロデ党の者数人をイエスのところへ送った。"
+    },
+    {
+      "number": 14,
+      "ko": "와서 이르되 선생님이여 우리가 아노니 당신은 참되시고 아무도 꺼리는 일이 없으시니 이는 사람을 외모로 보지 않고 오직 진리로써 하나님의 도를 가르치심이니이다 가이사에게 세금을 바치는 것이 옳으니이까 옳지 아니하니이까",
+      "en": "They came to him and said, \"Teacher, we know you are a man of integrity. You aren't swayed by men, because you pay no attention to who they are; but you teach the way of God in accordance with the truth. Is it right to pay taxes to Caesar or not?",
+      "de": "Und sie kamen und sprachen zu ihm: Meister, wir wissen, daß du wahrhaftig bist und fragst nach niemand; denn du achtest nicht das Ansehen der Menschen, sondern du lehrst den Weg Gottes recht. Ist's recht, daß man dem Kaiser Zins gebe, oder nicht? Sollen wir ihn geben oder nicht geben?",
+      "zh": "他们来了，就对他说：「夫子，我们知道你是诚实的，什么人你都不徇情面；因为你不看人的外貌，乃是诚诚实实传　神的道。纳税给凯撒可以不可以？",
+      "ja": "彼らはイエスのところに来て、言った。「先生。私たちは、あなたが真実な方で、だれをもはばからない方だと存じています。あなたは人の顔色を見ず、真理に基づいて神の道を教えておられるからです。ところで、カイザルに税金を納めることは律法にかなっていることでしょうか、かなっていないことでしょうか。納めるべきでしょうか、納めるべきでないのでしょうか。」"
+    },
+    {
+      "number": 15,
+      "ko": "우리가 바치리이까 말리이까 한대 예수께서 그 외식함을 아시고 이르시되 어찌하여 나를 시험하느냐 데나리온 하나를 가져다가 내게 보이라 하시니",
+      "en": "Should we pay or shouldn't we?\" But Jesus knew their hypocrisy. \"Why are you trying to trap me?\" he asked. \"Bring me a denarius and let me look at it.\"",
+      "de": "Er aber merkte ihre Heuchelei und sprach zu ihnen: Was versucht ihr mich? Bringet mir einen Groschen, daß ich ihn sehe.",
+      "zh": "我们该纳不该纳？」耶稣知道他们的假意，就对他们说：「你们为什么试探我？拿一个银钱来给我看！」",
+      "ja": "イエスは彼らの擬装を見抜いて言われた。「なぜ、わたしをためすのか。デナリ銀貨を持って来て見せなさい。」"
+    },
+    {
+      "number": 16,
+      "ko": "가져왔거늘 예수께서 이르시되 이 형상과 이 글이 누구의 것이냐 이르되 가이사의 것이니이다",
+      "en": "They brought the coin, and he asked them, \"Whose portrait is this? And whose inscription?\" \"Caesar's,\" they replied.",
+      "de": "Und sie brachten ihm. Da sprach er: Wes ist das Bild und die Überschrift? Sie sprachen zu ihm: Des Kaisers!",
+      "zh": "他们就拿了来。耶稣说：「这像和这号是谁的？」他们说：「是凯撒的。」",
+      "ja": "彼らは持って来た。そこでイエスは彼らに言われた。「これはだれの肖像ですか。だれの銘ですか。」彼らは、「カイザルのです。」と言った。"
+    },
+    {
+      "number": 17,
+      "ko": "이에 예수께서 이르시되 가이사의 것은 가이사에게, 하나님의 것은 하나님께 바치라 하시니 그들이 예수께 대하여 매우 놀랍게 여기더라",
+      "en": "Then Jesus said to them, \"Give to Caesar what is Caesar's and to God what is God's.\" And they were amazed at him.",
+      "de": "Da antwortete Jesus und sprach zu ihnen: So gebet dem Kaiser, was des Kaisers ist, und Gott, was Gottes ist! Und sie verwunderten sich über ihn.",
+      "zh": "耶稣说：「凯撒的物当归给凯撒，　神的物当归给　神。」他们就很希奇他。",
+      "ja": "するとイエスは言われた。「カイザルのものはカイザルに返しなさい。そして神のものは神に返しなさい。」彼らはイエスに驚嘆した。"
+    },
+    {
+      "number": 18,
+      "ko": "부활이 없다 하는 사두개인들이 예수께 와서 물어 이르되",
+      "en": "Then the Sadducees, who say there is no resurrection, came to him with a question.",
+      "de": "Da traten die Sadduzäer zu ihm, die da halten, es sei keine Auferstehung; die fragten ihn und sprachen:",
+      "zh": "撒都该人常说没有复活的事。他们来问耶稣说：",
+      "ja": "また、復活はないと主張していたサドカイ人たちが、イエスのところに来て、質問した。"
+    },
+    {
+      "number": 19,
+      "ko": "선생님이여 모세가 우리에게 써 주기를 어떤 사람의 형이 자식이 없이 아내를 두고 죽으면 그 동생이 그 아내를 취하여 형을 위하여 상속자를 세울지니라 하였나이다",
+      "en": "\"Teacher,\" they said, \"Moses wrote for us that if a man's brother dies and leaves a wife but no children, the man must marry the widow and have children for his brother.",
+      "de": "Meister, Mose hat uns geschrieben: Wenn jemands Bruder stirbt und hinterläßt ein Weib, und hinterläßt keine Kinder, so soll sein Bruder sein Weib nehmen und seinem Bruder Samen erwecken.",
+      "zh": "「夫子，摩西为我们写着说：『人若死了，撇下妻子，没有孩子，他兄弟当娶他的妻，为哥哥生子立后。』",
+      "ja": "「先生。モーセは私たちのためにこう書いています。『もし、兄が死んで妻をあとに残し、しかも子がないばあいには、その弟はその女を妻にして、兄のための子をもうけなければならない。』"
+    },
+    {
+      "number": 20,
+      "ko": "칠 형제가 있었는데 맏이가 아내를 취하였다가 상속자가 없이 죽고",
+      "en": "Now there were seven brothers. The first one married and died without leaving any children.",
+      "de": "Nun sind sieben Brüder gewesen. Der erste nahm ein Weib; der starb und hinterließ keinen Samen.",
+      "zh": "有弟兄七人，第一个娶了妻，死了，没有留下孩子。",
+      "ja": "さて、七人の兄弟がいました。長男が妻をめとりましたが、子を残さないで死にました。"
+    },
+    {
+      "number": 21,
+      "ko": "둘째도 그 여자를 취하였다가 상속자가 없이 죽고 셋째도 그렇게 하여",
+      "en": "The second one married the widow, but he also died, leaving no child. It was the same with the third.",
+      "de": "Und der andere nahm sie und starb und hinterließ auch nicht Samen. Der Dritte desgleichen.",
+      "zh": "第二个娶了她，也死了，没有留下孩子。第三个也是这样。",
+      "ja": "そこで次男がその女を妻にしたところ、やはり子を残さずに死にました。三男も同様でした。"
+    },
+    {
+      "number": 22,
+      "ko": "일곱이 다 상속자가 없었고 최후에 여자도 죽었나이다",
+      "en": "In fact, none of the seven left any children. Last of all, the woman died too.",
+      "de": "Und es nahmen sie alle sieben und hinterließen nicht Samen. Zuletzt nach allen starb das Weib auch.",
+      "zh": "那七个人都没有留下孩子；末了，那妇人也死了。",
+      "ja": "こうして、七人とも子を残しませんでした。最後に、女も死にました。"
+    },
+    {
+      "number": 23,
+      "ko": "일곱 사람이 다 그를 아내로 취하였으니 부활 때 곧 그들이 살아날 때에 그 중의 누구의 아내가 되리이까",
+      "en": "At the resurrection whose wife will she be, since the seven were married to her?\"",
+      "de": "Nun in der Auferstehung, wenn sie auferstehen, wes Weib wird sie sein unter ihnen? Denn sieben haben sie zum Weibe gehabt.",
+      "zh": "当复活的时候，她是哪一个的妻子呢？因为他们七个人都娶过她。」",
+      "ja": "復活の際、彼らがよみがえるとき、その女はだれの妻なのでしょうか。七人ともその女を妻にしたのですが。」"
+    },
+    {
+      "number": 24,
+      "ko": "예수께서 이르시되 너희가 성경도 하나님의 능력도 알지 못하므로 오해함이 아니냐",
+      "en": "Jesus replied, \"Are you not in error because you do not know the Scriptures or the power of God?",
+      "de": "Da antwortete Jesus und sprach zu ihnen: Ist's nicht also? Ihr irrt darum, daß ihr nichts wisset von der Schrift noch von der Kraft Gottes.",
+      "zh": "耶稣说：「你们所以错了，岂不是因为不明白圣经，不晓得　神的大能吗？",
+      "ja": "イエスは彼らに言われた。「そんな思い違いをしているのは、聖書も神の力も知らないからではありませんか。"
+    },
+    {
+      "number": 25,
+      "ko": "사람이 죽은 자 가운데서 살아날 때에는 장가도 아니 가고 시집도 아니 가고 하늘에 있는 천사들과 같으니라",
+      "en": "When the dead rise, they will neither marry nor be given in marriage; they will be like the angels in heaven.",
+      "de": "Wenn sie von den Toten auferstehen werden, so werden sie nicht freien noch sich freien lassen, sondern sie sind wie die Engel im Himmel.",
+      "zh": "人从死里复活，也不娶也不嫁，乃像天上的使者一样。",
+      "ja": "人が死人の中からよみがえるときには、めとることも、とつぐこともなく、天の御使いたちのようです。"
+    },
+    {
+      "number": 26,
+      "ko": "죽은 자가 살아난다는 것을 말할진대 너희가 모세의 책 중 가시나무 떨기에 관한 글에 하나님께서 모세에게 이르시되 나는 아브라함의 하나님이요 이삭의 하나님이요 야곱의 하나님이로라 하신 말씀을 읽어보지 못하였느냐",
+      "en": "Now about the dead rising--have you not read in the book of Moses, in the account of the bush, how God said to him, 'I am the God of Abraham, the God of Isaac, and the God of Jacob'?",
+      "de": "Aber von den Toten, daß sie auferstehen werden, habt ihr nicht gelesen im Buch Mose's bei dem Busch, wie Gott zu ihm sagte und sprach: “Ich bin der Gott Abrahams und der Gott Isaaks und der Gott Jakobs”?",
+      "zh": "论到死人复活，你们没有念过摩西的书荆棘篇上所载的吗？　神对摩西说：『我是亚伯拉罕的　神，以撒的　神，雅各的　神。』",
+      "ja": "それに、死人がよみがえることについては、モーセの書にある柴の個所で、神がモーセにどう語られたか、あなたがたは読んだことがないのですか。『わたしは、アブラハムの神、イサクの神、ヤコブの神である。』とあります。"
+    },
+    {
+      "number": 27,
+      "ko": "하나님은 죽은 자의 하나님이 아니요 산 자의 하나님이시라 너희가 크게 오해하였도다 하시니라",
+      "en": "He is not the God of the dead, but of the living. You are badly mistaken!\"",
+      "de": "Gott aber ist nicht der Toten, sondern der Lebendigen Gott. Darum irrt ihr sehr.",
+      "zh": "神不是死人的　神，乃是活人的　神。你们是大错了。」",
+      "ja": "神は死んだ者の神ではありません。生きている者の神です。あなたがたはたいへんな思い違いをしています。」"
+    },
+    {
+      "number": 28,
+      "ko": "서기관 중 한 사람이 그들이 변론하는 것을 듣고 예수께서 잘 대답하신 줄을 알고 나아와 묻되 모든 계명 중에 첫째가 무엇이니이까",
+      "en": "One of the teachers of the law came and heard them debating. Noticing that Jesus had given them a good answer, he asked him, \"Of all the commandments, which is the most important?\"",
+      "de": "Und es trat zu ihm der Schriftgelehrten einer, der ihnen zugehört hatte, wie sie sich miteinander befragten, und sah, daß er ihnen fein geantwortet hatte, und fragte ihn: Welches ist das vornehmste Gebot vor allen?",
+      "zh": "有一个文士来，听见他们辩论，晓得耶稣回答的好，就问他说：「诫命中哪是第一要紧的呢？」",
+      "ja": "律法学者がひとり来て、その議論を聞いていたが、イエスがみごとに答えられたのを知って、イエスに尋ねた。「すべての命令の中で、どれが一番たいせつですか。」"
+    },
+    {
+      "number": 29,
+      "ko": "예수께서 대답하시되 첫째는 이것이니 이스라엘아 들으라 주 곧 우리 하나님은 유일한 주시라",
+      "en": "\"The most important one,\" answered Jesus, \"is this: 'Hear, O Israel, the Lord our God, the Lord is one.",
+      "de": "Jesus aber antwortete ihm: Das vornehmste Gebot vor allen Geboten ist das: “Höre Israel, der HERR, unser Gott, ist ein einiger Gott;",
+      "zh": "耶稣回答说：「第一要紧的就是说：『以色列啊，你要听，主—我们　神是独一的主。",
+      "ja": "イエスは答えられた。「一番たいせつなのはこれです。『イスラエルよ。聞け。われらの神である主は、唯一の主である。"
+    },
+    {
+      "number": 30,
+      "ko": "네 마음을 다하고 목숨을 다하고 뜻을 다하고 힘을 다하여 주 너의 하나님을 사랑하라 하신 것이요",
+      "en": "Love the Lord your God with all your heart and with all your soul and with all your mind and with all your strength.'",
+      "de": "und du sollst Gott, deinen HERRN, lieben von ganzem Herzen, von ganzer Seele, von ganzem Gemüte und von allen deinen Kräften.” Das ist das vornehmste Gebot.",
+      "zh": "你要尽心、尽性、尽意、尽力爱主—你的　神。』",
+      "ja": "心を尽くし、思いを尽くし、知性を尽くし、力を尽くして、あなたの神である主を愛せよ。』"
+    },
+    {
+      "number": 31,
+      "ko": "둘째는 이것이니 네 이웃을 네 자신과 같이 사랑하라 하신 것이라 이보다 더 큰 계명이 없느니라",
+      "en": "The second is this: 'Love your neighbor as yourself.' There is no commandment greater than these.\"",
+      "de": "Und das andere ist ihm gleich: “Du sollst deinen Nächsten lieben wie dich selbst.” Es ist kein anderes Gebot größer denn diese.",
+      "zh": "其次就是说：『要爱人如己。』再没有比这两条诫命更大的了。」",
+      "ja": "次にはこれです。『あなたの隣人をあなた自身のように愛せよ。』この二つより大事な命令は、ほかにありません。」"
+    },
+    {
+      "number": 32,
+      "ko": "서기관이 이르되 선생님이여 옳소이다 하나님은 한 분이시요 그 외에 다른 이가 없다 하신 말씀이 참이니이다",
+      "en": "\"Well said, teacher,\" the man replied. \"You are right in saying that God is one and there is no other but him.",
+      "de": "Und der Schriftgelehrte sprach zu ihm: Meister, du hast wahrlich recht geredet; denn es ist ein Gott und ist kein anderer außer ihm.",
+      "zh": "那文士对耶稣说：「夫子说，　神是一位，实在不错；除了他以外，再没有别的　神；",
+      "ja": "そこで、この律法学者は、イエスに言った。「先生。そのとおりです。『主は唯一であって、そのほかに、主はない。』と言われたのは、まさにそのとおりです。"
+    },
+    {
+      "number": 33,
+      "ko": "또 마음을 다하고 지혜를 다하고 힘을 다하여 하나님을 사랑하는 것과 또 이웃을 자기 자신과 같이 사랑하는 것이 전체로 드리는 모든 번제물과 기타 제물보다 나으니이다",
+      "en": "To love him with all your heart, with all your understanding and with all your strength, and to love your neighbor as yourself is more important than all burnt offerings and sacrifices.\"",
+      "de": "Und ihn lieben von ganzem Herzen, von ganzem Gemüte, von ganzer Seele, und von allen Kräften, und lieben seinen Nächsten wie sich selbst, das ist mehr denn Brandopfer und alle Opfer.",
+      "zh": "并且尽心、尽智、尽力爱他，又爱人如己，就比一切燔祭和各样祭祀好的多。」",
+      "ja": "また『心を尽くし、知恵を尽くし、力を尽くして主を愛し、また隣人をあなた自身のように愛する。』ことは、どんな全焼のいけにえや供え物よりも、ずっとすぐれています。」"
+    },
+    {
+      "number": 34,
+      "ko": "예수께서 그가 지혜 있게 대답함을 보시고 이르시되 네가 하나님의 나라에서 멀지 않도다 하시니 그 후에 감히 묻는 자가 없더라",
+      "en": "When Jesus saw that he had answered wisely, he said to him, \"You are not far from the kingdom of God.\" And from then on no one dared ask him any more questions.",
+      "de": "Da Jesus aber sah, daß er vernünftig antwortete, sprach er zu ihm: “Du bist nicht ferne von dem Reich Gottes.” Und es wagte ihn niemand weiter zu fragen.",
+      "zh": "耶稣见他回答的有智慧，就对他说：「你离　神的国不远了。」从此以后，没有人敢再问他什么。",
+      "ja": "イエスは、彼が賢い返事をしたのを見て、言われた。「あなたは神の国から遠くない。」それから後は、だれもイエスにあえて尋ねる者がなかった。"
+    },
+    {
+      "number": 35,
+      "ko": "예수께서 성전에서 가르치실새 대답하여 이르시되 어찌하여 서기관들이 그리스도를 다윗의 자손이라 하느냐",
+      "en": "While Jesus was teaching in the temple courts, he asked, \"How is it that the teachers of the law say that the Christ is the son of David?",
+      "de": "Und Jesus antwortete und sprach, da er lehrte im Tempel: Wie sagen die Schriftgelehrten, Christus sei Davids Sohn?",
+      "zh": "耶稣在殿里教训人，就问他们说：「文士怎么说基督是大卫的子孙呢？",
+      "ja": "イエスが宮で教えておられたとき、こう言われた。「律法学者たちは、どうしてキリストをダビデの子と言うのですか。"
+    },
+    {
+      "number": 36,
+      "ko": "다윗이 성령에 감동되어 친히 말하되 주께서 내 주께 이르시되 내가 네 원수를 네 발 아래에 둘 때까지 내 우편에 앉았으라 하셨도다 하였느니라",
+      "en": "David himself, speaking by the Holy Spirit, declared: \"'The Lord said to my Lord: \"Sit at my right hand until I put your enemies under your feet.\"'",
+      "de": "Er aber, David, spricht durch den heiligen Geist: “Der HERR hat gesagt zu meinem Herrn: Setze dich zu meiner Rechten, bis daß ich lege deine Feinde zum Schemel deiner Füße.”",
+      "zh": "大卫被圣灵感动，说： 主对我主说： 你坐在我的右边， 等我使你仇敌作你的脚凳。",
+      "ja": "ダビデ自身、聖霊によって、こう言っています。 『主は私の主に言われた。 「わたしがあなたの敵を あなたの足の下に従わせるまでは、 わたしの右の座に着いていなさい。」』"
+    },
+    {
+      "number": 37,
+      "ko": "다윗이 그리스도를 주라 하였은즉 어찌 그의 자손이 되겠느냐 하시니 많은 사람들이 즐겁게 듣더라",
+      "en": "David himself calls him 'Lord.' How then can he be his son?\" The large crowd listened to him with delight.",
+      "de": "Da heißt ihn ja David seinen Herrn; woher ist er denn sein Sohn? Und viel Volks hörte ihn gern.",
+      "zh": "大卫既自己称他为主，他怎么又是大卫的子孙呢？」众人都喜欢听他。",
+      "ja": "ダビデ自身がキリストを主と呼んでいるのに、どういうわけでキリストがダビデの子なのでしょう。」大ぜいの群衆は、イエスの言われることを喜んで聞いていた。"
+    },
+    {
+      "number": 38,
+      "ko": "예수께서 가르치실 때에 이르시되 긴 옷을 입고 다니는 것과 시장에서 문안 받는 것과",
+      "en": "As he taught, Jesus said, \"Watch out for the teachers of the law. They like to walk around in flowing robes and be greeted in the marketplaces,",
+      "de": "Und er lehrte sie und sprach zu ihnen: Sehet euch vor vor den Schriftgelehrten, die in langen Kleidern gehen und lassen sich gern auf dem Markte grüßen",
+      "zh": "耶稣在教训之间，说：「你们要防备文士；他们好穿长衣游行，喜爱人在街市上问他们的安，",
+      "ja": "イエスはその教えの中でこう言われた。「律法学者たちには気をつけなさい。彼らは、長い衣をまとって歩き回ったり、広場であいさつされたりすることが大好きで、"
+    },
+    {
+      "number": 39,
+      "ko": "회당의 높은 자리와 잔치의 윗자리를 원하는 서기관들을 삼가라",
+      "en": "and have the most important seats in the synagogues and the places of honor at banquets.",
+      "de": "und sitzen gern obenan in den Schulen und über Tisch beim Gastmahl;",
+      "zh": "又喜爱会堂里的高位，筵席上的首座。",
+      "ja": "また会堂の上席や、宴会の上座が大好きです。"
+    },
+    {
+      "number": 40,
+      "ko": "그들은 과부의 가산을 삼키며 외식으로 길게 기도하는 자니 그 받는 판결이 더욱 중하리라 하시니라",
+      "en": "They devour widows' houses and for a show make lengthy prayers. Such men will be punished most severely.\"",
+      "de": "sie fressen der Witwen Häuser und wenden langes Gebet vor. Diese werden desto mehr Verdammnis empfangen.",
+      "zh": "他们侵吞寡妇的家产，假意作很长的祷告。这些人要受更重的刑罚！」",
+      "ja": "また、やもめの家を食いつぶし、見えを飾るために長い祈りをします。こういう人たちは人一倍きびしい罰を受けるのです。」"
+    },
+    {
+      "number": 41,
+      "ko": "예수께서 헌금함을 대하여 앉으사 무리가 어떻게 헌금함에 돈 넣는가를 보실새 여러 부자는 많이 넣는데",
+      "en": "Jesus sat down opposite the place where the offerings were put and watched the crowd putting their money into the temple treasury. Many rich people threw in large amounts.",
+      "de": "Und Jesus setzte sich gegen den Gotteskasten und schaute, wie das Volk Geld einlegte in den Gotteskasten; und viele Reiche legten viel ein.",
+      "zh": "耶稣对银库坐着，看众人怎样投钱入库。有好些财主往里投了若干的钱。",
+      "ja": "それから、イエスは献金箱に向かってすわり、人々が献金箱へ金を投げ入れる様子を見ておられた。多くの金持ちが大金を投げ入れていた。"
+    },
+    {
+      "number": 42,
+      "ko": "한 가난한 과부는 와서 두 렙돈 곧 한 고드란트를 넣는지라",
+      "en": "But a poor widow came and put in two very small copper coins, worth only a fraction of a penny.",
+      "de": "Und es kam eine arme Witwe und legte zwei Scherflein ein; die machen einen Heller.",
+      "zh": "有一个穷寡妇来，往里投了两个小钱，就是一个大钱。",
+      "ja": "そこへひとりの貧しいやもめが来て、レプタ銅貨を二つ投げ入れた。それは一コドラントに当たる。"
+    },
+    {
+      "number": 43,
+      "ko": "예수께서 제자들을 불러다가 이르시되 내가 진실로 너희에게 이르노니 이 가난한 과부는 헌금함에 넣는 모든 사람보다 많이 넣었도다",
+      "en": "Calling his disciples to him, Jesus said, \"I tell you the truth, this poor widow has put more into the treasury than all the others.",
+      "de": "Und er rief seine Jünger zu sich und sprach zu ihnen: Diese arme Witwe hat mehr in den Gotteskasten gelegt denn alle, die eingelegt haben.",
+      "zh": "耶稣叫门徒来，说：「我实在告诉你们，这穷寡妇投入库里的，比众人所投的更多。",
+      "ja": "すると、イエスは弟子たちを呼び寄せて、こう言われた。「まことに、あなたがたに告げます。この貧しいやもめは、献金箱に投げ入れていたどの人よりもたくさん投げ入れました。"
+    },
+    {
+      "number": 44,
+      "ko": "그들은 다 그 풍족한 중에서 넣었거니와 이 과부는 그 가난한 중에서 자기의 모든 소유 곧 생활비 전부를 넣었느니라 하시니라",
+      "en": "They all gave out of their wealth; but she, out of her poverty, put in everything--all she had to live on.\"",
+      "de": "Denn sie haben alle von ihrem Überfluß eingelegt; diese aber hat von ihrer Armut alles, was sie hatte, ihre ganze Nahrung, eingelegt.",
+      "zh": "因为，他们都是自己有余，拿出来投在里头；但这寡妇是自己不足，把她一切养生的都投上了。」",
+      "ja": "みなは、あり余る中から投げ入れたのに、この女は、乏しい中から、あるだけを全部、生活費の全部を投げ入れたからです。」"
+    }
+  ]
+}

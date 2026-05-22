@@ -1,0 +1,278 @@
+{
+  "book": "Job",
+  "chapter": 21,
+  "verses": [
+    {
+      "number": 1,
+      "ko": "욥이 대답하여 이르되",
+      "en": "Then Job replied:",
+      "de": "Hiob antwortete und sprach:",
+      "zh": "约伯回答说：",
+      "ja": "ヨブこたへて曰く"
+    },
+    {
+      "number": 2,
+      "ko": "너희는 내 말을 자세히 들으라 이것이 너희의 위로가 될 것이니라",
+      "en": "\"Listen carefully to my words; let this be the consolation you give me.",
+      "de": "Hört doch meiner Rede zu und laßt mir das anstatt eurer Tröstungen sein!",
+      "zh": "你们要细听我的言语， 就算是你们安慰我。",
+      "ja": "請ふ汝等わが言を謹んで聽き 之をもて汝らの慰藉に代よ"
+    },
+    {
+      "number": 3,
+      "ko": "나를 용납하여 말하게 하라 내가 말한 후에 너희가 조롱할지니라",
+      "en": "Bear with me while I speak, and after I have spoken, mock on.",
+      "de": "Vertragt mich, daß ich auch rede, und spottet darnach mein!",
+      "zh": "请宽容我，我又要说话； 说了以后，任凭你们嗤笑吧！",
+      "ja": "先われに容して言しめよ 我が言る後なんぢ嘲るも可し"
+    },
+    {
+      "number": 4,
+      "ko": "나의 원망이 사람을 향하여 하는 것이냐 내 마음이 어찌 조급하지 아니하겠느냐",
+      "en": "\"Is my complaint directed to man? Why should I not be impatient?",
+      "de": "Handle ich denn mit einem Menschen? oder warum sollte ich ungeduldig sein?",
+      "zh": "我岂是向人诉冤？ 为何不焦急呢？",
+      "ja": "わが怨言は世の人の上につきて起れる者ならんや 我なんぞ氣をいらだつ可らざらんや"
+    },
+    {
+      "number": 5,
+      "ko": "너희가 나를 보면 놀라리라 손으로 입을 가리리라",
+      "en": "Look at me and be astonished; clap your hand over your mouth.",
+      "de": "Kehrt euch her zu mir; ihr werdet erstarren und die Hand auf den Mund legen müssen.",
+      "zh": "你们要看着我而惊奇， 用手捂口。",
+      "ja": "なんぢら我を視て驚き手を口にあてよ"
+    },
+    {
+      "number": 6,
+      "ko": "내가 기억하기만 하여도 불안하고 두려움이 내 몸을 잡는구나",
+      "en": "When I think about this, I am terrified; trembling seizes my body.",
+      "de": "Wenn ich daran denke, so erschrecke ich, und Zittern kommt mein Fleisch an.",
+      "zh": "我每逢思想，心就惊惶， 浑身战兢。",
+      "ja": "われ思ひまはせば畏しくなりて身體しきりに戰慄く"
+    },
+    {
+      "number": 7,
+      "ko": "어찌하여 악인이 생존하고 장수하며 세력이 강하냐",
+      "en": "Why do the wicked live on, growing old and increasing in power?",
+      "de": "Warum leben denn die Gottlosen, werden alt und nehmen zu an Gütern?",
+      "zh": "恶人为何存活， 享大寿数，势力强盛呢？",
+      "ja": "惡き人何とて生ながらへ 老かつ勢力強くなるや"
+    },
+    {
+      "number": 8,
+      "ko": "그들의 후손이 앞에서 그들과 함께 굳게 서고 자손이 그들의 목전에서 그러하구나",
+      "en": "They see their children established around them, their offspring before their eyes.",
+      "de": "Ihr Same ist sicher um sie her, und ihre Nachkömmlinge sind bei ihnen.",
+      "zh": "他们眼见儿孙， 和他们一同坚立。",
+      "ja": "その子等はその周圍にありてその前に堅く立ち その子孫もその目の前に堅く立べし"
+    },
+    {
+      "number": 9,
+      "ko": "그들의 집이 평안하여 두려움이 없고 하나님의 매가 그들 위에 임하지 아니하며",
+      "en": "Their homes are safe and free from fear; the rod of God is not upon them.",
+      "de": "Ihr Haus hat Frieden vor der Furcht, und Gottes Rute ist nicht über ihnen.",
+      "zh": "他们的家宅平安无惧； 　神的杖也不加在他们身上。",
+      "ja": "またその家は平安にして畏懼なく 神の杖その上に臨まじ"
+    },
+    {
+      "number": 10,
+      "ko": "그들의 수소는 새끼를 배고 그들의 암소는 낙태하는 일이 없이 새끼를 낳는구나",
+      "en": "Their bulls never fail to breed; their cows calve and do not miscarry.",
+      "de": "Seinen Stier läßt man zu, und es mißrät ihm nicht; seine Kuh kalbt und ist nicht unfruchtbar.",
+      "zh": "他们的公牛孳生而不断绝； 母牛下犊而不掉胎。",
+      "ja": "その牡牛は種を與へて過らず その牝牛は子を產てそこなふ事なし"
+    },
+    {
+      "number": 11,
+      "ko": "그들은 아이들을 양 떼 같이 내보내고 그들의 자녀들은 춤추는구나",
+      "en": "They send forth their children as a flock; their little ones dance about.",
+      "de": "Ihre jungen Kinder lassen sie ausgehen wie eine Herde, und ihre Knaben hüpfen.",
+      "zh": "他们打发小孩子出去，多如羊群； 他们的儿女踊跃跳舞。",
+      "ja": "彼等はその少き者等を外に出すこと群のごとし その子等は舞をどる"
+    },
+    {
+      "number": 12,
+      "ko": "그들은 소고와 수금으로 노래하고 피리 불어 즐기며",
+      "en": "They sing to the music of tambourine and harp; they make merry to the sound of the flute.",
+      "de": "Sie jauchzen mit Pauken und Harfen und sind fröhlich mit Flöten.",
+      "zh": "他们随着琴鼓歌唱， 又因箫声欢喜。",
+      "ja": "彼等は鼓と琴とをもて歌ひ 笛の音に由て樂み"
+    },
+    {
+      "number": 13,
+      "ko": "그들의 날을 행복하게 지내다가 잠깐 사이에 스올에 내려가느니라",
+      "en": "They spend their years in prosperity and go down to the grave in peace.",
+      "de": "Sie werden alt bei guten Tagen und erschrecken kaum einen Augenblick vor dem Tode,",
+      "zh": "他们度日诸事亨通， 转眼下入阴间。",
+      "ja": "その日を幸福に暮し まばたくまに陰府にくだる"
+    },
+    {
+      "number": 14,
+      "ko": "그러할지라도 그들은 하나님께 말하기를 우리를 떠나소서 우리가 주의 도리 알기를 바라지 아니하나이다",
+      "en": "Yet they say to God, 'Leave us alone! We have no desire to know your ways.",
+      "de": "die doch sagen zu Gott: “Hebe dich von uns, wir wollen von deinen Wegen nicht wissen!",
+      "zh": "他们对　神说：离开我们吧！ 我们不愿晓得你的道。",
+      "ja": "然はあれども彼等は神に言らく我らを離れ賜へ 我らは汝の道をしることを好まず"
+    },
+    {
+      "number": 15,
+      "ko": "전능자가 누구이기에 우리가 섬기며 우리가 그에게 기도한들 무슨 소용이 있으랴 하는구나",
+      "en": "Who is the Almighty, that we should serve him? What would we gain by praying to him?'",
+      "de": "Wer ist der Allmächtige, daß wir ihm dienen sollten? oder was sind wir gebessert, so wir ihn anrufen?”",
+      "zh": "全能者是谁，我们何必事奉他呢？ 求告他有什么益处呢？",
+      "ja": "全能者は何者なれば我らこれに事ふべき 我儕これに祈るとも何の益を得んやと"
+    },
+    {
+      "number": 16,
+      "ko": "그러나 그들의 행복이 그들의 손 안에 있지 아니하니 악인의 계획은 나에게서 멀구나",
+      "en": "But their prosperity is not in their own hands, so I stand aloof from the counsel of the wicked.",
+      "de": "“Aber siehe, ihr Glück steht nicht in ihren Händen; darum soll der Gottlosen Sinn ferne von mir sein.”",
+      "zh": "看哪，他们亨通不在乎自己； 恶人所谋定的离我好远。",
+      "ja": "視よ彼らの福祿は彼らの力に由にあらざるなり 惡人の希圖は我の與する所にあらず"
+    },
+    {
+      "number": 17,
+      "ko": "악인의 등불이 꺼짐과 재앙이 그들에게 닥침과 하나님이 진노하사 그들을 곤고하게 하심이 몇 번인가",
+      "en": "\"Yet how often is the lamp of the wicked snuffed out? How often does calamity come upon them, the fate God allots in his anger?",
+      "de": "Wie oft geschieht's denn, daß die Leuchte der Gottlosen verlischt und ihr Unglück über sie kommt? daß er Herzeleid über sie austeilt in seinem Zorn?",
+      "zh": "恶人的灯何尝熄灭？ 患难何尝临到他们呢？ 　神何尝发怒，向他们分散灾祸呢？",
+      "ja": "惡人のその燈火を滅るる事幾度ありしか その滅亡のこれに臨む事 神の怒りて之に艱苦を蒙らせたまふ事幾度有しか"
+    },
+    {
+      "number": 18,
+      "ko": "그들이 바람 앞에 검불 같이, 폭풍에 날려가는 겨 같이 되었도다",
+      "en": "How often are they like straw before the wind, like chaff swept away by a gale?",
+      "de": "daß sie werden wie Stoppeln vor dem Winde und wie Spreu, die der Sturmwind wegführt?",
+      "zh": "他们何尝像风前的碎秸， 如暴风刮去的糠秕呢？",
+      "ja": "かれら風の前の藁の如く 暴風に吹さらるる籾殼の如くなること幾度有しか"
+    },
+    {
+      "number": 19,
+      "ko": "하나님은 그의 죄악을 그의 자손들을 위하여 쌓아 두시며 그에게 갚으실 것을 알게 하시기를 원하노라",
+      "en": "It is said,'God stores up a man's punishment for his sons.' Let him repay the man himself, so that he will know it!",
+      "de": "“Gott spart desselben Unglück auf seine Kinder”. Er vergelte es ihm selbst, daß er's innewerde.",
+      "zh": "你们说：　神为恶人的儿女积蓄罪孽； 我说：不如本人受报，好使他亲自知道。",
+      "ja": "神かれの愆を積たくはへてその子孫に報いたまふか 之を彼自己の身に報い知しむるに如ず"
+    },
+    {
+      "number": 20,
+      "ko": "자기의 멸망을 자기의 눈으로 보게 하며 전능자의 진노를 마시게 할 것이니라",
+      "en": "Let his own eyes see his destruction; let him drink of the wrath of the Almighty.",
+      "de": "Seine Augen mögen sein Verderben sehen, und vom Grimm des Allmächtigen möge er trinken.",
+      "zh": "愿他亲眼看见自己败亡， 亲自饮全能者的忿怒。",
+      "ja": "かれをして自らその滅亡を目に視させ かつ全能者の震怒を飮しめよ"
+    },
+    {
+      "number": 21,
+      "ko": "그의 달 수가 다하면 자기 집에 대하여 무슨 관계가 있겠느냐",
+      "en": "For what does he care about the family he leaves behind when his allotted months come to an end?",
+      "de": "Denn was ist ihm gelegen an seinem Hause nach ihm, wenn die Zahl seiner Monden ihm zugeteilt ist?",
+      "zh": "他的岁月既尽， 他还顾他本家吗？",
+      "ja": "その月の數すでに盡るに於ては何ぞその後の家に關はる所あらん"
+    },
+    {
+      "number": 22,
+      "ko": "그러나 하나님께서는 높은 자들을 심판하시나니 누가 능히 하나님께 지식을 가르치겠느냐",
+      "en": "\"Can anyone teach knowledge to God, since he judges even the highest?",
+      "de": "Wer will Gott lehren, der auch die Hohen richtet?",
+      "zh": "神既审判那在高位的， 谁能将知识教训他呢？",
+      "ja": "神は天にある者等をさへ審判たまふなれば誰か能これに知識を敎へんや"
+    },
+    {
+      "number": 23,
+      "ko": "어떤 사람은 죽도록 기운이 충실하여 안전하며 평안하고",
+      "en": "One man dies in full vigor, completely secure and at ease,",
+      "de": "Dieser stirbt frisch und gesund in allem Reichtum und voller Genüge,",
+      "zh": "有人至死身体强壮， 尽得平靖安逸；",
+      "ja": "或人は繁榮を極め全く平穩にかつ安康にして死に"
+    },
+    {
+      "number": 24,
+      "ko": "그의 그릇에는 젖이 가득하며 그의 골수는 윤택하고",
+      "en": "his body well nourished, his bones rich with marrow.",
+      "de": "sein Melkfaß ist voll Milch, und seine Gebeine werden gemästet mit Mark;",
+      "zh": "他的奶桶充满， 他的骨髓滋润。",
+      "ja": "その器に乳充ち その骨の髓は潤ほへり"
+    },
+    {
+      "number": 25,
+      "ko": "어떤 사람은 마음에 고통을 품고 죽으므로 행복을 맛보지 못하는도다",
+      "en": "Another man dies in bitterness of soul, never having enjoyed anything good.",
+      "de": "jener aber stirbt mit betrübter Seele und hat nie mit Freuden gegessen;",
+      "zh": "有人至死心中痛苦， 终身未尝福乐的滋味；",
+      "ja": "また或人は心を苦しめて死し 終に福祉をあぢはふる事なし"
+    },
+    {
+      "number": 26,
+      "ko": "이 둘이 매 한 가지로 흙 속에 눕고 그들 위에 구더기가 덮이는구나",
+      "en": "Side by side they lie in the dust, and worms cover them both.",
+      "de": "und liegen gleich miteinander in der Erde, und Würmer decken sie zu.",
+      "zh": "他们一样躺卧在尘土中， 都被虫子遮盖。",
+      "ja": "是等は倶に齊しく塵に臥して蛆におほはる"
+    },
+    {
+      "number": 27,
+      "ko": "내가 너희의 생각을 알고 너희가 나를 해하려는 속셈도 아노라",
+      "en": "\"I know full well what you are thinking, the schemes by which you would wrong me.",
+      "de": "Siehe, ich kenne eure Gedanken wohl und euer frevles Vornehmen gegen mich.",
+      "zh": "我知道你们的意思， 并诬害我的计谋。",
+      "ja": "我まことに汝らの思念を知り 汝らが我を攻撃んとするの計略を知る"
+    },
+    {
+      "number": 28,
+      "ko": "너희의 말이 귀인의 집이 어디 있으며 악인이 살던 장막이 어디 있느냐 하는구나",
+      "en": "You say, 'Where now is the great man's house, the tents where wicked men lived?'",
+      "de": "Denn ihr sprecht: “Wo ist das Haus des Fürsten? und wo ist die Hütte, da die Gottlosen wohnten?”",
+      "zh": "你们说：霸者的房屋在哪里？ 恶人住过的帐棚在哪里？",
+      "ja": "なんぢらは言ふ王侯の家は何に在る 惡人の住所は何にあると"
+    },
+    {
+      "number": 29,
+      "ko": "너희가 길 가는 사람들에게 묻지 아니하였느냐 그들의 증거를 알지 못하느냐",
+      "en": "Have you never questioned those who travel? Have you paid no regard to their accounts--",
+      "de": "Habt ihr denn die Wanderer nicht befragt und nicht gemerkt ihre Zeugnisse?",
+      "zh": "你们岂没有询问过路的人吗？ 不知道他们所引的证据吗？",
+      "ja": "汝らは路往く人々に詢ざりしや 彼等の證據を曉らざるや"
+    },
+    {
+      "number": 30,
+      "ko": "악인은 재난의 날을 위하여 남겨둔 바 되었고 진노의 날을 향하여 끌려가느니라",
+      "en": "that the evil man is spared from the day of calamity, that he is delivered from the day of wrath?",
+      "de": "Denn der Böse wird erhalten am Tage des Verderbens, und am Tage des Grimms bleibt er.",
+      "zh": "就是恶人在祸患的日子得存留， 在发怒的日子得逃脱。",
+      "ja": "すなはち滅亡の日に惡人遺され 烈しき怒の日に惡人たづさへ出さる"
+    },
+    {
+      "number": 31,
+      "ko": "누가 능히 그의 면전에서 그의 길을 알려 주며 누가 그의 소행을 보응하랴",
+      "en": "Who denounces his conduct to his face? Who repays him for what he has done?",
+      "de": "Wer will ihm ins Angesicht sagen, was er verdient? wer will ihm vergelten, was er tut?",
+      "zh": "他所行的，有谁当面给他说明？ 他所做的，有谁报应他呢？",
+      "ja": "誰か能かれに打向ひて彼の行爲を指示さんや 誰か能彼の爲たる所を彼に報ゆることを爲ん"
+    },
+    {
+      "number": 32,
+      "ko": "그를 무덤으로 메어 가고 사람이 그 무덤을 지키리라",
+      "en": "He is carried to the grave, and watch is kept over his tomb.",
+      "de": "Und er wird zu Grabe geleitet und hält Wache auf seinem Hügel.",
+      "zh": "然而他要被抬到茔地； 并有人看守坟墓。",
+      "ja": "彼は舁れて墓に到り 塚の上にて守護ることを爲す"
+    },
+    {
+      "number": 33,
+      "ko": "그는 골짜기의 흙덩이를 달게 여기리니 많은 사람들이 그보다 앞서 갔으며 모든 사람이 그의 뒤에 줄지었느니라",
+      "en": "The soil in the valley is sweet to him; all men follow after him, and a countless throng goes before him.",
+      "de": "Süß sind ihm die Schollen des Tales, und alle Menschen ziehen ihm nach; und derer, die ihm vorangegangen sind, ist keine Zahl.",
+      "zh": "他要以谷中的土块为甘甜； 在他以先去的无数， 在他以后去的更多。",
+      "ja": "谷の土塊も彼には快し 一切の人その後に從ふ 其前に行る者も數へがたし"
+    },
+    {
+      "number": 34,
+      "ko": "그런데도 너희는 나를 헛되이 위로하려느냐 너희 대답은 거짓일 뿐이니라",
+      "en": "\"So how can you console me with your nonsense? Nothing is left of your answers but falsehood!\"",
+      "de": "Wie tröstet ihr mich so vergeblich, und eure Antworten finden sich unrecht!",
+      "zh": "你们对答的话中既都错谬， 怎么徒然安慰我呢？",
+      "ja": "旣に是の如くなるに汝等なんぞ徒に我を慰さめんとするや 汝らの答ふる所はただ虚僞のみ"
+    }
+  ]
+}

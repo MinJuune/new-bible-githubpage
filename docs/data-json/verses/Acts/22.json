@@ -1,0 +1,246 @@
+{
+  "book": "Acts",
+  "chapter": 22,
+  "verses": [
+    {
+      "number": 1,
+      "ko": "부형들아 내가 지금 여러분 앞에서 변명하는 말을 들으라",
+      "en": "\"Brothers and fathers, listen now to my defense.\"",
+      "de": "Ihr Männer, liebe Brüder und Väter, hört mein Verantworten an euch.",
+      "zh": "「诸位父兄请听，我现在对你们分诉。」",
+      "ja": "「兄弟たち、父たちよ。いま私が皆さんにしようとする弁明を聞いてください。」"
+    },
+    {
+      "number": 2,
+      "ko": "그들이 그가 히브리 말로 말함을 듣고 더욱 조용한지라 이어 이르되",
+      "en": "When they heard him speak to them in Aramaic, they became very quiet. Then Paul said:",
+      "de": "Da sie aber hörten, daß er auf hebräisch zu ihnen redete, wurden sie noch stiller. Und er sprach:",
+      "zh": "众人听他说的是希伯来话，就更加安静了。",
+      "ja": "パウロがヘブル語で語りかけるのを聞いて、人々はますます静粛になった。そこでパウロは話し続けた。"
+    },
+    {
+      "number": 3,
+      "ko": "나는 유대인으로 길리기아 다소에서 났고 이 성에서 자라 가말리엘의 문하에서 우리 조상들의 율법의 엄한 교훈을 받았고 오늘 너희 모든 사람처럼 하나님께 대하여 열심이 있는 자라",
+      "en": "\"I am a Jew, born in Tarsus of Cilicia, but brought up in this city. Under Gamaliel I was thoroughly trained in the law of our fathers and was just as zealous for God as any of you are today.",
+      "de": "Ich bin ein jüdischer Mann, geboren zu Tarsus in Zilizien und erzogen in dieser Stadt zu den Füßen Gamaliels, gelehrt mit allem Fleiß im väterlichen Gesetz, und war ein Eiferer um Gott, gleichwie ihr heute alle seid,",
+      "zh": "保罗说：「我原是犹太人，生在基利家的大数，长在这城里，在迦玛列门下，按着我们祖宗严紧的律法受教，热心事奉　神，像你们众人今日一样。",
+      "ja": "「私はキリキヤのタルソで生まれたユダヤ人ですが、この町で育てられ、ガマリエルのもとで私たちの先祖の律法について厳格な教育を受け、今日の皆さんと同じように、神に対して熱心な者でした。"
+    },
+    {
+      "number": 4,
+      "ko": "내가 이 도를 박해하여 사람을 죽이기까지 하고 남녀를 결박하여 옥에 넘겼노니",
+      "en": "I persecuted the followers of this Way to their death, arresting both men and women and throwing them into prison,",
+      "de": "und habe diesen Weg verfolgt bis an den Tod. Ich band sie und überantwortete sie ins Gefängnis, Männer und Weiber;",
+      "zh": "我也曾逼迫奉这道的人，直到死地，无论男女都锁拿下监。",
+      "ja": "私はこの道を迫害し、男も女も縛って牢に投じ、死にまでも至らせたのです。"
+    },
+    {
+      "number": 5,
+      "ko": "이에 대제사장과 모든 장로들이 내 증인이라 또 내가 그들에게서 다메섹 형제들에게 가는 공문을 받아 가지고 거기 있는 자들도 결박하여 예루살렘으로 끌어다가 형벌 받게 하려고 가더니",
+      "en": "as also the high priest and all the Council can testify. I even obtained letters from them to their brothers in Damascus, and went there to bring these people as prisoners to Jerusalem to be punished.",
+      "de": "wie mir auch der Hohepriester und der ganze Haufe der Ältesten Zeugnis gibt, von welchen ich Briefe nahm an die Brüder und reiste gen Damaskus; daß ich, die daselbst waren, gebunden führte gen Jerusalem, daß sie bestraft würden.",
+      "zh": "这是大祭司和众长老都可以给我作见证的。我又领了他们达与弟兄的书信，往大马士革去，要把在那里奉这道的人锁拿，带到耶路撒冷受刑。」",
+      "ja": "このことは、大祭司も、長老たちの全議会も証言してくれます。この人たちから、私は兄弟たちへあてた手紙までも受け取り、ダマスコへ向かって出発しました。そこにいる者たちを縛り上げ、エルサレムに連れて来て処罰するためでした。"
+    },
+    {
+      "number": 6,
+      "ko": "가는 중 다메섹에 가까이 갔을 때에 오정쯤 되어 홀연히 하늘로부터 큰 빛이 나를 둘러 비치매",
+      "en": "\"About noon as I came near Damascus, suddenly a bright light from heaven flashed around me.",
+      "de": "Es geschah aber, da ich hinzog und nahe Damaskus kam, um den Mittag, umleuchtete mich schnell ein großes Licht vom Himmel.",
+      "zh": "「我将到大马士革，正走的时候，约在晌午，忽然从天上发大光，四面照着我。",
+      "ja": "ところが、旅を続けて、真昼ごろダマスコに近づいたとき、突然、天からまばゆい光が私の回りを照らしたのです。"
+    },
+    {
+      "number": 7,
+      "ko": "내가 땅에 엎드러져 들으니 소리 있어 이르되 사울아 사울아 네가 왜 나를 박해하느냐 하시거늘",
+      "en": "I fell to the ground and heard a voice say to me, 'Saul! Saul! Why do you persecute me?'",
+      "de": "Und ich fiel zum Erdboden und hörte eine Stimme, die sprach: Saul, Saul, was verfolgst du mich?",
+      "zh": "我就仆倒在地，听见有声音对我说：『扫罗！扫罗！你为什么逼迫我？』",
+      "ja": "私は地に倒れ、『サウロ、サウロ。なぜわたしを迫害するのか。』という声を聞きました。"
+    },
+    {
+      "number": 8,
+      "ko": "내가 대답하되 주님 누구시니이까 하니 이르시되 나는 네가 박해하는 나사렛 예수라 하시더라",
+      "en": "\"'Who are you, Lord?' I asked. \"'I am Jesus of Nazareth, whom you are persecuting,' he replied.",
+      "de": "Ich antwortete aber: HERR, wer bist du? Und er sprach zu mir: Ich bin Jesus von Nazareth, den du verfolgst.",
+      "zh": "我回答说：『主啊，你是谁？』他说：『我就是你所逼迫的拿撒勒人耶稣。』",
+      "ja": "そこで私が答えて、『主よ。あなたはどなたですか。』と言うと、その方は、『わたしは、あなたが迫害しているナザレのイエスだ。』と言われました。"
+    },
+    {
+      "number": 9,
+      "ko": "나와 함께 있는 사람들이 빛은 보면서도 나에게 말씀하시는 이의 소리는 듣지 못하더라",
+      "en": "My companions saw the light, but they did not understand the voice of him who was speaking to me.",
+      "de": "Die aber mit mir waren, sahen das Licht und erschraken; die Stimme aber des, der mit mir redete, hörten sie nicht.",
+      "zh": "与我同行的人看见了那光，却没有听明那位对我说话的声音。",
+      "ja": "私といっしょにいた者たちは、その光は見たのですが、私に語っている方の声は聞き分けられませんでした。"
+    },
+    {
+      "number": 10,
+      "ko": "내가 이르되 주님 무엇을 하리이까 주께서 이르시되 일어나 다메섹으로 들어가라 네가 해야 할 모든 것을 거기서 누가 이르리라 하시거늘",
+      "en": "\"'What shall I do, Lord?' I asked. \"'Get up,' the Lord said, 'and go into Damascus. There you will be told all that you have been assigned to do.'",
+      "de": "Ich sprach aber: HERR, was soll ich tun? Der HERR aber sprach zu mir: Stehe auf und gehe gen Damaskus; da wird man dir sagen von allem, was dir zu tun verordnet ist.",
+      "zh": "我说：『主啊，我当做什么？』主说：『起来，进大马士革去，在那里，要将所派你做的一切事告诉你。』",
+      "ja": "私が、『主よ。私はどうしたらよいのでしょうか。』と尋ねると、主は私に、『起きて、ダマスコに行きなさい。あなたがするように決められていることはみな、そこで告げられる。』と言われました。"
+    },
+    {
+      "number": 11,
+      "ko": "나는 그 빛의 광채로 말미암아 볼 수 없게 되었으므로 나와 함께 있는 사람들의 손에 끌려 다메섹에 들어갔노라",
+      "en": "My companions led me by the hand into Damascus, because the brilliance of the light had blinded me.",
+      "de": "Als ich aber von der Klarheit dieses Lichtes nicht sehen konnte, ward ich bei der Hand geleitet von denen, die mit mir waren, und kam gen Damaskus.",
+      "zh": "我因那光的荣耀不能看见，同行的人就拉着我手进了大马士革。",
+      "ja": "ところが、その光の輝きのために、私の目は何も見えなかったので、いっしょにいた者たちに手を引かれてダマスコにはいりました。"
+    },
+    {
+      "number": 12,
+      "ko": "율법에 따라 경건한 사람으로 거기 사는 모든 유대인들에게 칭찬을 듣는 아나니아라 하는 이가",
+      "en": "\"A man named Ananias came to see me. He was a devout observer of the law and highly respected by all the Jews living there.",
+      "de": "Es war aber ein gottesfürchtiger Mann nach dem Gesetz, Ananias, der ein gut Gerücht hatte bei allen Juden, die daselbst wohnten;",
+      "zh": "那里有一个人，名叫亚拿尼亚，按着律法是虔诚人，为一切住在那里的犹太人所称赞。",
+      "ja": "すると、律法を重んじる敬虔な人で、そこに住むユダヤ人全体の間で評判の良いアナニヤという人が、"
+    },
+    {
+      "number": 13,
+      "ko": "내게 와 곁에 서서 말하되 형제 사울아 다시 보라 하거늘 즉시 그를 쳐다보았노라",
+      "en": "He stood beside me and said, 'Brother Saul, receive your sight!' And at that very moment I was able to see him.",
+      "de": "der kam zu mir und trat her und sprach zu mir: Saul, lieber Bruder, siehe auf! Und ich sah ihn an zu derselben Stunde.",
+      "zh": "他来见我，站在旁边，对我说：『兄弟扫罗，你可以看见。』我当时往上一看，就看见了他。",
+      "ja": "私のところに来て、そばに立ち、『兄弟サウロ。見えるようになりなさい。』と言いました。すると、そのとき、私はその人が見えるようになりました。"
+    },
+    {
+      "number": 14,
+      "ko": "그가 또 이르되 우리 조상들의 하나님이 너를 택하여 너로 하여금 자기 뜻을 알게 하시며 그 의인을 보게 하시고 그 입에서 나오는 음성을 듣게 하셨으니",
+      "en": "\"Then he said: 'The God of our fathers has chosen you to know his will and to see the Righteous One and to hear words from his mouth.",
+      "de": "Er aber sprach: Der Gott unsrer Väter hat dich verordnet, daß du seinen Willen erkennen solltest und sehen den Gerechten und hören die Stimme aus seinem Munde;",
+      "zh": "他又说：『我们祖宗的　神拣选了你，叫你明白他的旨意，又得见那义者，听他口中所出的声音。",
+      "ja": "彼はこう言いました。『私たちの先祖の神は、あなたにみこころを知らせ、義なる方を見させ、その方の口から御声を聞かせようとお定めになったのです。"
+    },
+    {
+      "number": 15,
+      "ko": "네가 그를 위하여 모든 사람 앞에서 네가 보고 들은 것에 증인이 되리라",
+      "en": "You will be his witness to all men of what you have seen and heard.",
+      "de": "denn du wirst Zeuge zu allen Menschen sein von dem, das du gesehen und gehört hast.",
+      "zh": "因为你要将所看见的，所听见的，对着万人为他作见证。",
+      "ja": "あなたはその方のために、すべての人に対して、あなたの見たこと、聞いたことの証人とされるのですから。"
+    },
+    {
+      "number": 16,
+      "ko": "이제는 왜 주저하느냐 일어나 주의 이름을 불러 세례를 받고 너의 죄를 씻으라 하더라",
+      "en": "And now what are you waiting for? Get up, be baptized and wash your sins away, calling on his name.'",
+      "de": "Und nun, was verziehst du? Stehe auf und laß dich taufen und abwaschen deine Sünden und rufe an den Namen des HERRN!",
+      "zh": "现在你为什么耽延呢？起来，求告他的名受洗，洗去你的罪。』」",
+      "ja": "さあ、なぜためらっているのですか。立ちなさい。その御名を呼んでバプテスマを受け、自分の罪を洗い流しなさい。』"
+    },
+    {
+      "number": 17,
+      "ko": "후에 내가 예루살렘으로 돌아와서 성전에서 기도할 때에 황홀한 중에",
+      "en": "\"When I returned to Jerusalem and was praying at the temple, I fell into a trance",
+      "de": "Es geschah aber, da ich wieder gen Jerusalem kam und betete im Tempel, daß ich entzückt ward und sah ihn.",
+      "zh": "「后来，我回到耶路撒冷，在殿里祷告的时候，魂游象外，",
+      "ja": "こうして私がエルサレムに帰り、宮で祈っていますと、夢ごこちになり、"
+    },
+    {
+      "number": 18,
+      "ko": "보매 주께서 내게 말씀하시되 속히 예루살렘에서 나가라 그들은 네가 내게 대하여 증언하는 말을 듣지 아니하리라 하시거늘",
+      "en": "and saw the Lord speaking. 'Quick!' he said to me. 'Leave Jerusalem immediately, because they will not accept your testimony about me.'",
+      "de": "Da sprach er zu mir: Eile und mache dich behend von Jerusalem hinaus; denn sie werden nicht aufnehmen dein Zeugnis von mir.",
+      "zh": "看见主向我说：『你赶紧地离开耶路撒冷，不可迟延；因你为我作的见证，这里的人必不领受。』",
+      "ja": "主を見たのです。主は言われました。『急いで、早くエルサレムを離れなさい。人々がわたしについてのあなたのあかしを受け入れないからです。』"
+    },
+    {
+      "number": 19,
+      "ko": "내가 말하기를 주님 내가 주를 믿는 사람들을 가두고 또 각 회당에서 때리고",
+      "en": "\"'Lord,' I replied, 'these men know that I went from one synagogue to another to imprison and beat those who believe in you.",
+      "de": "Und ich sprach: HERR, sie wissen selbst, daß ich gefangen legte und stäupte die, so an dich glaubten, in den Schulen hin und her;",
+      "zh": "我就说：『主啊，他们知道我从前把信你的人收在监里，又在各会堂里鞭打他们。",
+      "ja": "そこで私は答えました。『主よ。私がどの会堂ででも、あなたの信者を牢に入れたり、むち打ったりしていたことを、彼らはよく知っています。"
+    },
+    {
+      "number": 20,
+      "ko": "또 주의 증인 스데반이 피를 흘릴 때에 내가 곁에 서서 찬성하고 그 죽이는 사람들의 옷을 지킨 줄 그들도 아나이다",
+      "en": "And when the blood of your martyr Stephen was shed, I stood there giving my approval and guarding the clothes of those who were killing him.'",
+      "de": "und da das Blut des Stephanus, deines Zeugen, vergossen ward, stand ich auch dabei und hatte Wohlgefallen an seinem Tode und verwahrte denen die Kleider, die ihn töteten.",
+      "zh": "并且你的见证人司提反被害流血的时候，我也站在旁边欢喜；又看守害死他之人的衣裳。』",
+      "ja": "また、あなたの証人ステパノの血が流されたとき、私もその場にいて、それに賛成し、彼を殺した者たちの着物の番をしていたのです。』"
+    },
+    {
+      "number": 21,
+      "ko": "나더러 또 이르시되 떠나가라 내가 너를 멀리 이방인에게로 보내리라 하셨느니라",
+      "en": "\"Then the Lord said to me, 'Go; I will send you far away to the Gentiles.'\"",
+      "de": "Und er sprach zu mir: Gehe hin; denn ich will dich ferne unter die Heiden senden!",
+      "zh": "主向我说：『你去吧！我要差你远远地往外邦人那里去。』」",
+      "ja": "すると、主は私に、『行きなさい。わたしはあなたを遠く、異邦人に遣わす。』と言われました。」"
+    },
+    {
+      "number": 22,
+      "ko": "이 말하는 것까지 그들이 듣다가 소리 질러 이르되 이러한 자는 세상에서 없애 버리자 살려 둘 자가 아니라 하여",
+      "en": "The crowd listened to Paul until he said this. Then they raised their voices and shouted, \"Rid the earth of him! He's not fit to live!\"",
+      "de": "Sie hörten aber ihm zu bis auf dies Wort und hoben ihre Stimme auf und sprachen: Hinweg mit solchem von der Erde! denn es ist nicht billig, daß er leben soll.",
+      "zh": "众人听他说到这句话，就高声说：「这样的人，从世上除掉他吧！他是不当活着的。」",
+      "ja": "人々は、彼の話をここまで聞いていたが、このとき声を張り上げて、「こんな男は、地上から除いてしまえ。生かしておくべきではない。」と言った。"
+    },
+    {
+      "number": 23,
+      "ko": "떠들며 옷을 벗어 던지고 티끌을 공중에 날리니",
+      "en": "As they were shouting and throwing off their cloaks and flinging dust into the air,",
+      "de": "Da sie aber schrieen und ihre Kleider abwarfen und den Staub in die Luft warfen,",
+      "zh": "众人喧嚷，摔掉衣裳，把尘土向空中扬起来。",
+      "ja": "そして、人々がわめき立て、着物を放り投げ、ちりを空中にまき散らすので、"
+    },
+    {
+      "number": 24,
+      "ko": "천부장이 바울을 영내로 데려가라 명하고 그들이 무슨 일로 그에 대하여 떠드는지 알고자 하여 채찍질하며 심문하라 한대",
+      "en": "the commander ordered Paul to be taken into the barracks. He directed that he be flogged and questioned in order to find out why the people were shouting at him like this.",
+      "de": "hieß ihn der Hauptmann ins Lager führen und sagte, daß man ihn stäupen und befragen sollte, daß er erführe, um welcher Ursache willen sie also über ihn riefen.",
+      "zh": "千夫长就吩咐将保罗带进营楼去，叫人用鞭子拷问他，要知道他们向他这样喧嚷是为什么缘故。",
+      "ja": "千人隊長はパウロを兵営の中に引き入れるように命じ、人々がなぜこのようにパウロに向かって叫ぶのかを知ろうとして、彼をむち打って取り調べるようにと言った。"
+    },
+    {
+      "number": 25,
+      "ko": "가죽 줄로 바울을 매니 바울이 곁에 서 있는 백부장더러 이르되 너희가 로마 시민 된 자를 죄도 정하지 아니하고 채찍질할 수 있느냐 하니",
+      "en": "As they stretched him out to flog him, Paul said to the centurion standing there, \"Is it legal for you to flog a Roman citizen who hasn't even been found guilty?\"",
+      "de": "Als man ihn aber mit Riemen anband, sprach Paulus zu dem Hauptmann der dabeistand: Ist's auch recht bei euch, einen römischen Menschen ohne Urteil und Recht zu geißeln?",
+      "zh": "刚用皮条捆上，保罗对旁边站着的百夫长说：「人是罗马人，又没有定罪，你们就鞭打他，有这个例吗？」",
+      "ja": "彼らがむちを当てるためにパウロを縛ったとき、パウロはそばに立っている百人隊長に言った。「ローマ市民である者を、裁判にもかけずに、むち打ってよいのですか。」"
+    },
+    {
+      "number": 26,
+      "ko": "백부장이 듣고 가서 천부장에게 전하여 이르되 어찌하려 하느냐 이는 로마 시민이라 하니",
+      "en": "When the centurion heard this, he went to the commander and reported it. \"What are you going to do?\" he asked. \"This man is a Roman citizen.\"",
+      "de": "Da das der Unterhauptmann hörte, ging er zum Oberhauptmann und verkündigte ihm und sprach: Was willst du machen? Dieser Mensch ist römisch.",
+      "zh": "百夫长听见这话，就去见千夫长，告诉他说：「你要做什么？这人是罗马人。」",
+      "ja": "これを聞いた百人隊長は、千人隊長のところに行って報告し、「どうなさいますか。あの人はローマ人です。」と言った。"
+    },
+    {
+      "number": 27,
+      "ko": "천부장이 와서 바울에게 말하되 네가 로마 시민이냐 내게 말하라 이르되 그러하다",
+      "en": "The commander went to Paul and asked, \"Tell me, are you a Roman citizen?\" \"Yes, I am,\" he answered.",
+      "de": "Da kam zu ihm der Oberhauptmann und sprach zu ihm: Sage mir, bist du römisch? Er aber sprach: Ja.",
+      "zh": "千夫长就来问保罗说：「你告诉我，你是罗马人吗？」保罗说：「是。」",
+      "ja": "千人隊長はパウロのところに来て、「あなたはローマ市民なのか、私に言ってくれ。」と言った。パウロは「そうです。」と言った。"
+    },
+    {
+      "number": 28,
+      "ko": "천부장이 대답하되 나는 돈을 많이 들여 이 시민권을 얻었노라 바울이 이르되 나는 나면서부터라 하니",
+      "en": "Then the commander said, \"I had to pay a big price for my citizenship.\" \"But I was born a citizen,\" Paul replied.",
+      "de": "Und der Oberhauptmann antwortete: Ich habe dies Bürgerrecht mit großer Summe zuwege gebracht. Paulus aber sprach: Ich bin aber auch römisch geboren.",
+      "zh": "千夫长说：「我用许多银子才入了罗马的民籍。」保罗说：「我生来就是。」",
+      "ja": "すると、千人隊長は、「私はたくさんの金を出して、この市民権を買ったのだ。」と言った。そこでパウロは、「私は生まれながらの市民です。」と言った。"
+    },
+    {
+      "number": 29,
+      "ko": "심문하려던 사람들이 곧 그에게서 물러가고 천부장도 그가 로마 시민인 줄 알고 또 그 결박한 것 때문에 두려워하니라",
+      "en": "Those who were about to question him withdrew immediately. The commander himself was alarmed when he realized that he had put Paul, a Roman citizen, in chains.",
+      "de": "Da traten sie alsobald von ihm ab, die ihn befragen sollten. Und der Oberhauptmann fürchtete sich, da er vernahm, daß er römisch war, und er ihn gebunden hatte.",
+      "zh": "于是那些要拷问保罗的人就离开他去了。千夫长既知道他是罗马人，又因为捆绑了他，也害怕了。",
+      "ja": "このため、パウロを取り調べようとしていた者たちは、すぐにパウロから身を引いた。また千人隊長も、パウロがローマ市民だとわかると、彼を鎖につないでいたので、恐れた。"
+    },
+    {
+      "number": 30,
+      "ko": "이튿날 천부장은 유대인들이 무슨 일로 그를 고발하는지 진상을 알고자 하여 그 결박을 풀고 명하여 제사장들과 온 공회를 모으고 바울을 데리고 내려가서 그들 앞에 세우니라",
+      "en": "The next day, since the commander wanted to find out exactly why Paul was being accused by the Jews, he released him and ordered the chief priests and all the Sanhedrin to assemble. Then he brought Paul and had him stand before them.",
+      "de": "Des andern Tages wollte er gewiß erkunden, warum er verklagt würde von den Juden, und löste ihn von den Banden und hieß die Hohenpriester und ihren ganzen Rat kommen und führte Paulus hervor und stellte ihn unter sie.",
+      "zh": "第二天，千夫长为要知道犹太人控告保罗的实情，便解开他，吩咐祭司长和全公会的人都聚集，将保罗带下来，叫他站在他们面前。",
+      "ja": "その翌日、千人隊長は、パウロがなぜユダヤ人に告訴されたのかを確かめたいと思って、パウロの鎖を解いてやり、祭司長たちと全議会の召集を命じ、パウロを連れて行って、彼らの前に立たせた。"
+    }
+  ]
+}

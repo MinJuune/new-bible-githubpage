@@ -1,0 +1,230 @@
+{
+  "book": "Proverbs",
+  "chapter": 26,
+  "verses": [
+    {
+      "number": 1,
+      "ko": "미련한 자에게는 영예가 적당하지 아니하니 마치 여름에 눈 오는 것과 추수 때에 비 오는 것 같으니라",
+      "en": "Like snow in summer or rain in harvest, honor is not fitting for a fool.",
+      "de": "Wie der Schnee im Sommer und Regen in der Ernte, also reimt sich dem Narren die Ehre nicht.",
+      "zh": "夏天落雪，收割时下雨，都不相宜； 愚昧人得尊荣也是如此。",
+      "ja": "榮譽の愚なる者に適はざるは夏の時に雪ふり 穡收の時に雨ふるがごとし"
+    },
+    {
+      "number": 2,
+      "ko": "까닭 없는 저주는 참새가 떠도는 것과 제비가 날아가는 것 같이 이루어지지 아니하느니라",
+      "en": "Like a fluttering sparrow or a darting swallow, an undeserved curse does not come to rest.",
+      "de": "Wie ein Vogel dahinfährt und eine Schwalbe fliegt, also ein unverdienter Fluch trifft nicht.",
+      "zh": "麻雀往来，燕子翻飞； 这样，无故的咒诅也必不临到。",
+      "ja": "故なき詛は雀の翔り燕の飛ぶが如くにきたるものにあらず"
+    },
+    {
+      "number": 3,
+      "ko": "말에게는 채찍이요 나귀에게는 재갈이요 미련한 자의 등에는 막대기니라",
+      "en": "A whip for the horse, a halter for the donkey, and a rod for the backs of fools!",
+      "de": "Dem Roß eine Geißel und dem Esel einen Zaum und dem Narren eine Rute auf den Rücken!",
+      "zh": "鞭子是为打马，辔头是为勒驴； 刑杖是为打愚昧人的背。",
+      "ja": "馬の爲には策あり 驢馬の爲には銜あり 愚なる者の背のために杖あり"
+    },
+    {
+      "number": 4,
+      "ko": "미련한 자의 어리석은 것을 따라 대답하지 말라 두렵건대 너도 그와 같을까 하노라",
+      "en": "Do not answer a fool according to his folly, or you will be like him yourself.",
+      "de": "Antworte dem Narren nicht nach seiner Narrheit, daß du ihm nicht auch gleich werdest.",
+      "zh": "不要照愚昧人的愚妄话回答他， 恐怕你与他一样。",
+      "ja": "愚なる者の痴にしたがひて答ふること勿れ 恐くはおのれも是と同じからん"
+    },
+    {
+      "number": 5,
+      "ko": "미련한 자에게는 그의 어리석음을 따라 대답하라 두렵건대 그가 스스로 지혜롭게 여길까 하노라",
+      "en": "Answer a fool according to his folly, or he will be wise in his own eyes.",
+      "de": "Antworte aber dem Narren nach seiner Narrheit, daß er sich nicht weise lasse dünken.",
+      "zh": "要照愚昧人的愚妄话回答他， 免得他自以为有智慧。",
+      "ja": "愚なる者の痴にしたがひて之に答へよ 恐くは彼おのれの目に自らを智者と見ん"
+    },
+    {
+      "number": 6,
+      "ko": "미련한 자 편에 기별하는 것은 자기의 발을 베어 버림과 해를 받음과 같으니라",
+      "en": "Like cutting off one's feet or drinking violence is the sending of a message by the hand of a fool.",
+      "de": "Wer eine Sache durch einen törichten Boten ausrichtet, der ist wie ein Lahmer an den Füßen und nimmt Schaden.",
+      "zh": "借愚昧人手寄信的， 是砍断自己的脚，自受损害。",
+      "ja": "愚なる者に托して事を言おくる者はおのれの足をきり身に害をうく"
+    },
+    {
+      "number": 7,
+      "ko": "저는 자의 다리는 힘 없이 달렸나니 미련한 자의 입의 잠언도 그러하니라",
+      "en": "Like a lame man's legs that hang limp is a proverb in the mouth of a fool.",
+      "de": "Wie einem Krüppel das Tanzen, also steht den Narren an, von Weisheit zu reden.",
+      "zh": "瘸子的脚空存无用； 箴言在愚昧人的口中也是如此。",
+      "ja": "跛者の足は用なし 愚なる者の口の箴もかくのごとし"
+    },
+    {
+      "number": 8,
+      "ko": "미련한 자에게 영예를 주는 것은 돌을 물매에 매는 것과 같으니라",
+      "en": "Like tying a stone in a sling is the giving of honor to a fool.",
+      "de": "Wer einem Narren Ehre antut, das ist, als wenn einer einen edlen Stein auf den Rabenstein würfe.",
+      "zh": "将尊荣给愚昧人的， 好像人把石子包在机弦里。",
+      "ja": "榮譽を愚なる者に與ふるは石を投石索に繋ぐが如し"
+    },
+    {
+      "number": 9,
+      "ko": "미련한 자의 입의 잠언은 술 취한 자가 손에 든 가시나무 같으니라",
+      "en": "Like a thornbush in a drunkard's hand is a proverb in the mouth of a fool.",
+      "de": "Ein Spruch in eines Narren Mund ist wie ein Dornzweig, der in eines Trunkenen Hand sticht.",
+      "zh": "箴言在愚昧人的口中， 好像荆棘刺入醉汉的手。",
+      "ja": "愚なる者の口にたもつ箴言は酔へるものの刺ある杖を手にて擧ぐるがごとし"
+    },
+    {
+      "number": 10,
+      "ko": "장인이 온갖 것을 만들지라도 미련한 자를 고용하는 것은 지나가는 행인을 고용함과 같으니라",
+      "en": "Like an archer who wounds at random is he who hires a fool or any passer-by.",
+      "de": "Ein guter Meister macht ein Ding recht; aber wer einen Stümper dingt, dem wird's verderbt.",
+      "zh": "雇愚昧人的，与雇过路人的， 就像射伤众人的弓箭手。",
+      "ja": "愚なる者を傭ひ流浪者を傭ふ者は すべての人を傷くる射手の如し"
+    },
+    {
+      "number": 11,
+      "ko": "개가 그 토한 것을 도로 먹는 것 같이 미련한 자는 그 미련한 것을 거듭 행하느니라",
+      "en": "As a dog returns to its vomit, so a fool repeats his folly.",
+      "de": "Wie ein Hund sein Gespeites wieder frißt, also ist der Narr, der seine Narrheit wieder treibt.",
+      "zh": "愚昧人行愚妄事，行了又行， 就如狗转过来吃它所吐的。",
+      "ja": "狗のかへり來りてその吐たる物を食ふがごとく 愚なる者は重ねてその痴なる事をおこなふ"
+    },
+    {
+      "number": 12,
+      "ko": "네가 스스로 지혜롭게 여기는 자를 보느냐 그보다 미련한 자에게 오히려 희망이 있느니라",
+      "en": "Do you see a man wise in his own eyes? There is more hope for a fool than for him.",
+      "de": "Wenn du einen siehst, der sich weise dünkt, da ist an einem Narren mehr Hoffnung denn an ihm.",
+      "zh": "你见自以为有智慧的人吗？ 愚昧人比他更有指望。",
+      "ja": "汝おのれの目に自らを智慧ある者とする人を見るか 彼よりも却て愚なる人に望あり"
+    },
+    {
+      "number": 13,
+      "ko": "게으른 자는 길에 사자가 있다 거리에 사자가 있다 하느니라",
+      "en": "The sluggard says, \"There is a lion in the road, a fierce lion roaming the streets!\"",
+      "de": "Der Faule spricht: Es ist ein junger Löwe auf dem Wege und ein Löwe auf den Gassen.",
+      "zh": "懒惰人说：道上有猛狮， 街上有壮狮。",
+      "ja": "惰者は途に獅あり 衢に獅ありといふ"
+    },
+    {
+      "number": 14,
+      "ko": "문짝이 돌쩌귀를 따라서 도는 것 같이 게으른 자는 침상에서 도느니라",
+      "en": "As a door turns on its hinges, so a sluggard turns on his bed.",
+      "de": "Ein Fauler wendet sich im Bette wie die Tür in der Angel.",
+      "zh": "门在枢纽转动， 懒惰人在床上也是如此。",
+      "ja": "戸の蝶鉸によりて轉るごとく惰者はその牀に輾轉す"
+    },
+    {
+      "number": 15,
+      "ko": "게으른 자는 그 손을 그릇에 넣고도 입으로 올리기를 괴로워하느니라",
+      "en": "The sluggard buries his hand in the dish; he is too lazy to bring it back to his mouth.",
+      "de": "Der Faule verbirgt seine Hand in dem Topf, und wird ihm sauer, daß er sie zum Munde bringe.",
+      "zh": "懒惰人放手在盘子里， 就是向口撤回也以为劳乏。",
+      "ja": "惰者はその手を盤にいるるも之をその口に擧ることを厭ふ"
+    },
+    {
+      "number": 16,
+      "ko": "게으른 자는 사리에 맞게 대답하는 사람 일곱보다 자기를 지혜롭게 여기느니라",
+      "en": "The sluggard is wiser in his own eyes than seven men who answer discreetly.",
+      "de": "Ein Fauler dünkt sich weiser denn sieben, die da Sitten lehren.",
+      "zh": "懒惰人看自己比七个善于应对的人更有智慧。",
+      "ja": "惰者はおのれの目に自らを善く答ふる七人の者よりも智慧ありとなす"
+    },
+    {
+      "number": 17,
+      "ko": "길로 지나가다가 자기와 상관 없는 다툼을 간섭하는 자는 개의 귀를 잡는 자와 같으니라",
+      "en": "Like one who seizes a dog by the ears is a passer-by who meddles in a quarrel not his own.",
+      "de": "Wer vorgeht und sich mengt in fremden Hader, der ist wie einer, der den Hund bei den Ohren zwackt.",
+      "zh": "过路被事激动，管理不干己的争竞， 好像人揪住狗耳。",
+      "ja": "路をよぎり自己に關りなき爭擾にたづさはる者は狗の耳をとらふる者のごとし"
+    },
+    {
+      "number": 18,
+      "ko": "횃불을 던지며 화살을 쏘아서 사람을 죽이는 미친 사람이 있나니",
+      "en": "Like a madman shooting firebrands or deadly arrows",
+      "de": "Wie ein Unsinniger mit Geschoß und Pfeilen schießt und tötet,",
+      "zh": "人欺凌邻舍，却说： 我岂不是戏耍吗？ 他就像疯狂的人抛掷火把、利箭， 与杀人的兵器。",
+      "ja": "旣にその鄰を欺くことをなして我はただ戯れしのみといふ者は 火箭または鎗または死を擲つ狂人のごとし"
+    },
+    {
+      "number": 19,
+      "ko": "자기의 이웃을 속이고 말하기를 내가 희롱하였노라 하는 자도 그러하니라",
+      "en": "is a man who deceives his neighbor and says, \"I was only joking!\"",
+      "de": "also tut ein falscher Mensch mit seinem Nächsten und spricht danach: Ich habe gescherzt.",
+      "zh": "火缺了柴就必熄灭； 无人传舌，争竞便止息。",
+      "ja": ""
+    },
+    {
+      "number": 20,
+      "ko": "나무가 다하면 불이 꺼지고 말쟁이가 없어지면 다툼이 쉬느니라",
+      "en": "Without wood a fire goes out; without gossip a quarrel dies down.",
+      "de": "Wenn nimmer Holz da ist, so verlischt das Feuer; und wenn der Verleumder weg ist, so hört der Hader auf.",
+      "zh": "好争竞的人煽惑争端， 就如余火加炭，火上加柴一样。",
+      "ja": "薪なければ火はきえ 人の是非をいふ者なければ爭端はやむ"
+    },
+    {
+      "number": 21,
+      "ko": "숯불 위에 숯을 더하는 것과 타는 불에 나무를 더하는 것 같이 다툼을 좋아하는 자는 시비를 일으키느니라",
+      "en": "As charcoal to embers and as wood to fire, so is a quarrelsome man for kindling strife.",
+      "de": "Wie die Kohlen eine Glut und Holz ein Feuer, also facht ein zänkischer Mann Hader an.",
+      "zh": "传舌人的言语，如同美食， 深入人的心腹。",
+      "ja": "煨火に炭をつぎ火に薪をくぶるがごとく爭論を好む人は爭論を起す"
+    },
+    {
+      "number": 22,
+      "ko": "남의 말 하기를 좋아하는 자의 말은 별식과 같아서 뱃속 깊은 데로 내려가느니라",
+      "en": "The words of a gossip are like choice morsels; they go down to a man's inmost parts.",
+      "de": "Die Worte des Verleumders sind wie Schläge, und sie gehen durchs Herz.",
+      "zh": "火热的嘴，奸恶的心， 好像银渣包的瓦器。",
+      "ja": "人の是非をいふものの言はたはぶれのごとしと雖もかへつて腹の奧に入る"
+    },
+    {
+      "number": 23,
+      "ko": "온유한 입술에 악한 마음은 낮은 은을 입힌 토기니라",
+      "en": "Like a coating of glaze over earthenware are fervent lips with an evil heart.",
+      "de": "Brünstige Lippen und ein böses Herz ist wie eine Scherbe, mit Silberschaum überzogen.",
+      "zh": "怨恨人的，用嘴粉饰， 心里却藏着诡诈；",
+      "ja": "温かき口唇をもちて惡き心あるは銀の滓をきせたる瓦片のごとし"
+    },
+    {
+      "number": 24,
+      "ko": "원수는 입술로는 꾸미고 속으로는 속임을 품나니",
+      "en": "A malicious man disguises himself with his lips, but in his heart he harbors deceit.",
+      "de": "Der Feind verstellt sich mit seiner Rede, und im Herzen ist er falsch.",
+      "zh": "他用甜言蜜语，你不可信他， 因为他心中有七样可憎恶的。",
+      "ja": "恨むる者は口唇をもて自ら飾れども 心の衷には虚偽をいだく"
+    },
+    {
+      "number": 25,
+      "ko": "그 말이 좋을지라도 믿지 말 것은 그 마음에 일곱 가지 가증한 것이 있음이니라",
+      "en": "Though his speech is charming, do not believe him, for seven abominations fill his heart.",
+      "de": "Wenn er seine Stimme holdselig macht, so glaube ihm nicht; denn es sind sieben Greuel in seinem Herzen.",
+      "zh": "他虽用诡诈遮掩自己的怨恨， 他的邪恶必在会中显露。",
+      "ja": "彼その聲を和らかにするとも之を信ずるなかれ その心に七の憎むべき者あればなり"
+    },
+    {
+      "number": 26,
+      "ko": "속임으로 그 미움을 감출지라도 그의 악이 회중 앞에 드러나리라",
+      "en": "His malice may be concealed by deception, but his wickedness will be exposed in the assembly.",
+      "de": "Wer den Haß heimlich hält, Schaden zu tun, des Bosheit wird vor der Gemeinde offenbar werden.",
+      "zh": "挖陷坑的，自己必掉在其中； 滚石头的，石头必反滚在他身上。",
+      "ja": "たとひ虚偽をもてその恨をかくすとも その惡は會集の中に顯はる"
+    },
+    {
+      "number": 27,
+      "ko": "함정을 파는 자는 그것에 빠질 것이요 돌을 굴리는 자는 도리어 그것에 치이리라",
+      "en": "If a man digs a pit, he will fall into it; if a man rolls a stone, it will roll back on him.",
+      "de": "Wer eine Grube macht, der wird hineinfallen; und wer einen Stein wälzt, auf den wird er zurückkommen.",
+      "zh": "虚谎的舌恨他所压伤的人； 谄媚的口败坏人的事。",
+      "ja": "坑を掘るものは自ら之に陷らん 石を轉ばしあぐる者の上にはその石まろびかへらん"
+    },
+    {
+      "number": 28,
+      "ko": "거짓말 하는 자는 자기가 해한 자를 미워하고 아첨하는 입은 패망을 일으키느니라",
+      "en": "A lying tongue hates those it hurts, and a flattering mouth works ruin.",
+      "de": "Eine falsche Zunge haßt den, der sie straft; und ein Heuchelmaul richtet Verderben an.",
+      "zh": "",
+      "ja": "虚偽の舌はおのれの害す者を憎み 諂ふ口は滅亡をきたらす"
+    }
+  ]
+}

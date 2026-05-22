@@ -1,0 +1,206 @@
+{
+  "book": "John",
+  "chapter": 2,
+  "verses": [
+    {
+      "number": 1,
+      "ko": "사흘째 되던 날 갈릴리 가나에 혼례가 있어 예수의 어머니도 거기 계시고",
+      "en": "On the third day a wedding took place at Cana in Galilee. Jesus' mother was there,",
+      "de": "Und am dritten Tag ward eine Hochzeit zu Kana in Galiläa; und die Mutter Jesu war da.",
+      "zh": "第三日，在加利利的迦拿有娶亲的筵席，耶稣的母亲在那里。",
+      "ja": "それから三日目に、ガリラヤのカナで婚礼があって、そこにイエスの母がいた。"
+    },
+    {
+      "number": 2,
+      "ko": "예수와 그 제자들도 혼례에 청함을 받았더니",
+      "en": "and Jesus and his disciples had also been invited to the wedding.",
+      "de": "Jesus aber und seine Jünger wurden auch auf die Hochzeit geladen.",
+      "zh": "耶稣和他的门徒也被请去赴席。",
+      "ja": "イエスも、また弟子たちも、その婚礼に招かれた。"
+    },
+    {
+      "number": 3,
+      "ko": "포도주가 떨어진지라 예수의 어머니가 예수에게 이르되 저들에게 포도주가 없다 하니",
+      "en": "When the wine was gone, Jesus' mother said to him, \"They have no more wine.\"",
+      "de": "Und da es an Wein gebrach, spricht die Mutter Jesu zu ihm: Sie haben nicht Wein.",
+      "zh": "酒用尽了，耶稣的母亲对他说：「他们没有酒了。」",
+      "ja": "ぶどう酒がなくなったとき、母がイエスに向かって「ぶどう酒がありません。」と言った。"
+    },
+    {
+      "number": 4,
+      "ko": "예수께서 이르시되 여자여 나와 무슨 상관이 있나이까 내 때가 아직 이르지 아니하였나이다",
+      "en": "\"Dear woman, why do you involve me?\" Jesus replied, \"My time has not yet come.\"",
+      "de": "Jesus spricht zu ihr: Weib, was habe ich mit dir zu schaffen? Meine Stunde ist noch nicht gekommen.",
+      "zh": "耶稣说：「母亲，我与你有什么相干？我的时候还没有到。」",
+      "ja": "すると、イエスは母に言われた。「あなたはわたしと何の関係があるのでしょう。女の方。わたしの時はまだ来ていません。」"
+    },
+    {
+      "number": 5,
+      "ko": "그의 어머니가 하인들에게 이르되 너희에게 무슨 말씀을 하시든지 그대로 하라 하니라",
+      "en": "His mother said to the servants, \"Do whatever he tells you.\"",
+      "de": "Seine Mutter spricht zu den Dienern: Was er euch sagt, das tut.",
+      "zh": "他母亲对用人说：「他告诉你们什么，你们就做什么。」",
+      "ja": "母は手伝いの人たちに言った。「あの方が言われることを、何でもしてあげてください。」"
+    },
+    {
+      "number": 6,
+      "ko": "거기에 유대인의 정결 예식을 따라 두세 통 드는 돌항아리 여섯이 놓였는지라",
+      "en": "Nearby stood six stone water jars, the kind used by the Jews for ceremonial washing, each holding from twenty to thirty gallons.",
+      "de": "Es waren aber allda sechs steinerne Wasserkrüge gesetzt nach der Weise der jüdischen Reinigung, und ging in je einen zwei oder drei Maß.",
+      "zh": "照犹太人洁净的规矩，有六口石缸摆在那里，每口可以盛两三桶水。",
+      "ja": "さて、そこには、ユダヤ人のきよめのしきたりによって、それぞれ八十リットルから百二十リットル入りの石の水がめが六つ置いてあった。"
+    },
+    {
+      "number": 7,
+      "ko": "예수께서 그들에게 이르시되 항아리에 물을 채우라 하신즉 아귀까지 채우니",
+      "en": "Jesus said to the servants, \"Fill the jars with water\"; so they filled them to the brim.",
+      "de": "Jesus spricht zu ihnen: Füllet die Wasserkrüge mit Wasser! Und sie füllten sie bis obenan.",
+      "zh": "耶稣对用人说：「把缸倒满了水。」他们就倒满了，直到缸口。",
+      "ja": "イエスは彼らに言われた。「水がめに水を満たしなさい。」彼らは水がめを縁までいっぱいにした。"
+    },
+    {
+      "number": 8,
+      "ko": "이제는 떠서 연회장에게 갖다 주라 하시매 갖다 주었더니",
+      "en": "Then he told them, \"Now draw some out and take it to the master of the banquet.\" They did so,",
+      "de": "Und er spricht zu ihnen: Schöpfet nun und bringet's dem Speisemeister! Und sie brachten's.",
+      "zh": "耶稣又说：「现在可以舀出来，送给管筵席的。」他们就送了去。",
+      "ja": "イエスは彼らに言われた。「さあ、今くみなさい。そして宴会の世話役のところに持って行きなさい。」彼らは持って行った。"
+    },
+    {
+      "number": 9,
+      "ko": "연회장은 물로 된 포도주를 맛보고도 어디서 났는지 알지 못하되 물 떠온 하인들은 알더라 연회장이 신랑을 불러",
+      "en": "and the master of the banquet tasted the water that had been turned into wine. He did not realize where it had come from, though the servants who had drawn the water knew. Then he called the bridegroom aside",
+      "de": "Als aber der Speisemeister kostete den Wein, der Wasser gewesen war, und wußte nicht, woher er kam (die Diener aber wußten's, die das Wasser geschöpft hatten), ruft der Speisemeister den Bräutigam",
+      "zh": "管筵席的尝了那水变的酒，并不知道是哪里来的，只有舀水的用人知道。管筵席的便叫新郎来，",
+      "ja": "宴会の世話役はぶどう酒になったその水を味わってみた。それがどこから来たのか、知らなかったので、――しかし、水をくんだ手伝いの者たちは知っていた。――彼は、花婿を呼んで、"
+    },
+    {
+      "number": 10,
+      "ko": "말하되 사람마다 먼저 좋은 포도주를 내고 취한 후에 낮은 것을 내거늘 그대는 지금까지 좋은 포도주를 두었도다 하니라",
+      "en": "and said, \"Everyone brings out the choice wine first and then the cheaper wine after the guests have had too much to drink; but you have saved the best till now.\"",
+      "de": "und spricht zu ihm: Jedermann gibt zum ersten guten Wein, und wenn sie trunken geworden sind, alsdann den geringeren; du hast den guten Wein bisher behalten.",
+      "zh": "对他说：「人都是先摆上好酒，等客喝足了，才摆上次的，你倒把好酒留到如今！」",
+      "ja": "言った。「だれでも初めに良いぶどう酒を出し、人々が十分飲んだころになると、悪いのを出すものだが、あなたは良いぶどう酒をよくも今まで取っておきました。」"
+    },
+    {
+      "number": 11,
+      "ko": "예수께서 이 첫 표적을 갈릴리 가나에서 행하여 그의 영광을 나타내시매 제자들이 그를 믿으니라",
+      "en": "This, the first of his miraculous signs, Jesus performed at Cana in Galilee. He thus revealed his glory, and his disciples put their faith in him.",
+      "de": "Das ist das erste Zeichen, das Jesus tat, geschehen zu Kana in Galiläa, und offenbarte seine Herrlichkeit. Und seine Jünger glaubten an ihn.",
+      "zh": "这是耶稣所行的头一件神迹，是在加利利的迦拿行的，显出他的荣耀来；他的门徒就信他了。",
+      "ja": "イエスはこのことを最初のしるしとしてガリラヤのカナで行ない、ご自分の栄光を現わされた。それで、弟子たちはイエスを信じた。"
+    },
+    {
+      "number": 12,
+      "ko": "그 후에 예수께서 그 어머니와 형제들과 제자들과 함께 가버나움으로 내려가셨으나 거기에 여러 날 계시지는 아니하시니라",
+      "en": "After this he went down to Capernaum with his mother and brothers and his disciples. There they stayed for a few days.",
+      "de": "Darnach zog er hinab gen Kapernaum, er, seine Mutter, seine Brüder und seine Jünger; und sie blieben nicht lange daselbst.",
+      "zh": "这事以后，耶稣与他的母亲、弟兄，和门徒都下迦百农去，在那里住了不多几日。",
+      "ja": "その後、イエスは母や兄弟たちや弟子たちといっしょに、カペナウムに下って行き、長い日数ではなかったが、そこに滞在された。"
+    },
+    {
+      "number": 13,
+      "ko": "유대인의 유월절이 가까운지라 예수께서 예루살렘으로 올라가셨더니",
+      "en": "When it was almost time for the Jewish Passover, Jesus went up to Jerusalem.",
+      "de": "Und der Juden Ostern war nahe, und Jesus zog hinauf gen Jerusalem.",
+      "zh": "犹太人的逾越节近了，耶稣就上耶路撒冷去。",
+      "ja": "ユダヤ人の過越の祭りが近づき、イエスはエルサレムに上られた。"
+    },
+    {
+      "number": 14,
+      "ko": "성전 안에서 소와 양과 비둘기 파는 사람들과 돈 바꾸는 사람들이 앉아 있는 것을 보시고",
+      "en": "In the temple courts he found men selling cattle, sheep and doves, and others sitting at tables exchanging money.",
+      "de": "Und er fand im Tempel sitzen, die da Ochsen, Schafe und Tauben feil hatten, und die Wechsler.",
+      "zh": "看见殿里有卖牛、羊、鸽子的，并有兑换银钱的人坐在那里，",
+      "ja": "そして、宮の中に、牛や羊や鳩を売る者たちと両替人たちがすわっているのをご覧になり、"
+    },
+    {
+      "number": 15,
+      "ko": "노끈으로 채찍을 만드사 양이나 소를 다 성전에서 내쫓으시고 돈 바꾸는 사람들의 돈을 쏟으시며 상을 엎으시고",
+      "en": "So he made a whip out of cords, and drove all from the temple area, both sheep and cattle; he scattered the coins of the money changers and overturned their tables.",
+      "de": "Und er machte eine Geißel aus Stricken und trieb sie alle zum Tempel hinaus samt den Schafen und Ochsen und verschüttete den Wechslern das Geld und stieß die Tische um",
+      "zh": "耶稣就拿绳子做成鞭子，把牛羊都赶出殿去，倒出兑换银钱之人的银钱，推翻他们的桌子，",
+      "ja": "細なわでむちを作って、羊も牛もみな、宮から追い出し、両替人の金を散らし、その台を倒し、"
+    },
+    {
+      "number": 16,
+      "ko": "비둘기 파는 사람들에게 이르시되 이것을 여기서 가져가라 내 아버지의 집으로 장사하는 집을 만들지 말라 하시니",
+      "en": "To those who sold doves he said, \"Get these out of here! How dare you turn my Father's house into a market!\"",
+      "de": "und sprach zu denen, die die Tauben feil hatten: tragt das von dannen und macht nicht meines Vaters Haus zum Kaufhause!",
+      "zh": "又对卖鸽子的说：「把这些东西拿去！不要将我父的殿当作买卖的地方。」",
+      "ja": "また、鳩を売る者に言われた。「それをここから持って行け。わたしの父の家を商売の家としてはならない。」"
+    },
+    {
+      "number": 17,
+      "ko": "제자들이 성경 말씀에 주의 전을 사모하는 열심이 나를 삼키리라 한 것을 기억하더라",
+      "en": "His disciples remembered that it is written: \"Zeal for your house will consume me.\"",
+      "de": "Seine Jünger aber gedachten daran, daß geschrieben steht: Der Eifer um dein Haus hat mich gefressen.",
+      "zh": "他的门徒就想起经上记着说：「我为你的殿心里焦急，如同火烧。」",
+      "ja": "弟子たちは、「あなたの家を思う熱心がわたしを食い尽くす。」と書いてあるのを思い起こした。"
+    },
+    {
+      "number": 18,
+      "ko": "이에 유대인들이 대답하여 예수께 말하기를 네가 이런 일을 행하니 무슨 표적을 우리에게 보이겠느냐",
+      "en": "Then the Jews demanded of him, \"What miraculous sign can you show us to prove your authority to do all this?\"",
+      "de": "Da antworteten nun die Juden und sprachen zu ihm: Was zeigst du uns für ein Zeichen, daß du solches tun mögest?",
+      "zh": "因此犹太人问他说：「你既做这些事，还显什么神迹给我们看呢？」",
+      "ja": "そこで、ユダヤ人たちが答えて言った。「あなたがこのようなことをするからには、どんなしるしを私たちに見せてくれるのですか。」"
+    },
+    {
+      "number": 19,
+      "ko": "예수께서 대답하여 이르시되 너희가 이 성전을 헐라 내가 사흘 동안에 일으키리라",
+      "en": "Jesus answered them, \"Destroy this temple, and I will raise it again in three days.\"",
+      "de": "Jesus antwortete und sprach zu ihnen: Brechet diesen Tempel, und am dritten Tage will ich ihn aufrichten.",
+      "zh": "耶稣回答说：「你们拆毁这殿，我三日内要再建立起来。」",
+      "ja": "イエスは彼らに答えて言われた。「この神殿をこわしてみなさい。わたしは、三日でそれを建てよう。」"
+    },
+    {
+      "number": 20,
+      "ko": "유대인들이 이르되 이 성전은 사십육 년 동안에 지었거늘 네가 삼 일 동안에 일으키겠느냐 하더라",
+      "en": "The Jews replied, \"It has taken forty-six years to build this temple, and you are going to raise it in three days?\"",
+      "de": "Da sprachen die Juden: Dieser Tempel ist in 46 Jahren erbaut; und du willst ihn in drei Tagen aufrichten?",
+      "zh": "犹太人便说：「这殿是四十六年才造成的，你三日内就再建立起来吗？」",
+      "ja": "そこで、ユダヤ人たちは言った。「この神殿は建てるのに四十六年かかりました。あなたはそれを、三日で建てるのですか。」"
+    },
+    {
+      "number": 21,
+      "ko": "그러나 예수는 성전된 자기 육체를 가리켜 말씀하신 것이라",
+      "en": "But the temple he had spoken of was his body.",
+      "de": "(Er aber redete von dem Tempel seines Leibes.",
+      "zh": "但耶稣这话是以他的身体为殿。",
+      "ja": "しかし、イエスはご自分のからだの神殿のことを言われたのである。"
+    },
+    {
+      "number": 22,
+      "ko": "죽은 자 가운데서 살아나신 후에야 제자들이 이 말씀하신 것을 기억하고 성경과 예수께서 하신 말씀을 믿었더라",
+      "en": "After he was raised from the dead, his disciples recalled what he had said. Then they believed the Scripture and the words that Jesus had spoken.",
+      "de": "Da er nun auferstanden war von den Toten, gedachten seine Jünger daran, daß er dies gesagt hatte, und glaubten der Schrift und der Rede, die Jesus gesagt hatte.)",
+      "zh": "所以到他从死里复活以后，门徒就想起他说过这话，便信了圣经和耶稣所说的。",
+      "ja": "それで、イエスが死人の中からよみがえられたとき、弟子たちは、イエスがこのように言われたことを思い起こして、聖書とイエスが言われたことばとを信じた。"
+    },
+    {
+      "number": 23,
+      "ko": "유월절에 예수께서 예루살렘에 계시니 많은 사람이 그의 행하시는 표적을 보고 그의 이름을 믿었으나",
+      "en": "Now while he was in Jerusalem at the Passover Feast, many people saw the miraculous signs he was doing and believed in his name.",
+      "de": "Als er aber zu Jerusalem war am Osterfest, glaubten viele an seinen Namen, da sie die Zeichen sahen, die er tat.",
+      "zh": "当耶稣在耶路撒冷过逾越节的时候，有许多人看见他所行的神迹，就信了他的名。",
+      "ja": "イエスが、過越の祭りの祝いの間、エルサレムにおられたとき、多くの人々が、イエスの行なわれたしるしを見て、御名を信じた。"
+    },
+    {
+      "number": 24,
+      "ko": "예수는 그의 몸을 그들에게 의탁하지 아니하셨으니 이는 친히 모든 사람을 아심이요",
+      "en": "But Jesus would not entrust himself to them, for he knew all men.",
+      "de": "Aber Jesus vertraute sich ihnen nicht; denn er kannte sie alle",
+      "zh": "耶稣却不将自己交托他们；因为他知道万人，",
+      "ja": "しかし、イエスは、ご自身を彼らにお任せにならなかった。なぜなら、イエスはすべての人を知っておられたからであり、"
+    },
+    {
+      "number": 25,
+      "ko": "또 사람에 대하여 누구의 증언도 받으실 필요가 없었으니 이는 그가 친히 사람의 속에 있는 것을 아셨음이니라",
+      "en": "He did not need man's testimony about man, for he knew what was in a man.",
+      "de": "und bedurfte nicht, daß jemand Zeugnis gäbe von einem Menschen; denn er wußte wohl, was im Menschen war.",
+      "zh": "也用不着谁见证人怎样，因他知道人心里所存的。",
+      "ja": "また、イエスはご自身で、人のうちにあるものを知っておられたので、人についてだれの証言も必要とされなかったからである。"
+    }
+  ]
+}

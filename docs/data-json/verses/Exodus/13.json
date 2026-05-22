@@ -1,0 +1,182 @@
+{
+  "book": "Exodus",
+  "chapter": 13,
+  "verses": [
+    {
+      "number": 1,
+      "ko": "여호와께서 모세에게 일러 이르시되",
+      "en": "The LORD said to Moses,",
+      "de": "Und der HERR redete mit Mose und sprach:",
+      "zh": "耶和华晓谕摩西说：",
+      "ja": "爰にヱホバ、モーセに告ていひたまひけるは"
+    },
+    {
+      "number": 2,
+      "ko": "이스라엘 자손 중에서 사람이나 짐승을 막론하고 태에서 처음 난 모든 것은 다 거룩히 구별하여 내게 돌리라 이는 내 것이니라 하시니라",
+      "en": "\"Consecrate to me every firstborn male. The first offspring of every womb among the Israelites belongs to me, whether man or animal.\"",
+      "de": "Heilige mir alle Erstgeburt, die allerlei Mutter bricht bei den Kindern Israel, unter den Menschen und unter dem Vieh; denn sie sind mein.",
+      "zh": "「以色列中凡头生的，无论是人是牲畜，都是我的，要分别为圣归我。」",
+      "ja": "人と畜とを論ず凡てイスラエルの子孫の中の始て生れたる首生をば皆聖別て我に歸せしむべし是わが所屬なればなり"
+    },
+    {
+      "number": 3,
+      "ko": "모세가 백성에게 이르되 너희는 애굽 곧 종 되었던 집에서 나온 그 날을 기념하여 유교병을 먹지 말라 여호와께서 그 손의 권능으로 너희를 그 곳에서 인도해 내셨음이니라",
+      "en": "Then Moses said to the people, \"Commemorate this day, the day you came out of Egypt, out of the land of slavery, because the LORD brought you out of it with a mighty hand. Eat nothing containing yeast.",
+      "de": "Da sprach Mose zum Volk: Gedenket an diesen Tag, an dem ihr aus Ägypten, aus dem Diensthause, gegangen seid, daß der HERR euch mit mächtiger Hand von hinnen hat ausgeführt; darum sollst du nicht Sauerteig essen.",
+      "zh": "摩西对百姓说：「你们要记念从埃及为奴之家出来的这日，因为耶和华用大能的手将你们从这地方领出来。有酵的饼都不可吃。",
+      "ja": "モーセ民にいひけるは汝等エジプトを出で奴隸たる家を出るこの日を誌えよヱホバ能ある手をもて汝等を此より導きいだしたまへばなり酵いれたるパンを食ふべからず"
+    },
+    {
+      "number": 4,
+      "ko": "아빕월 이 날에 너희가 나왔으니",
+      "en": "Today, in the month of Abib, you are leaving.",
+      "de": "Heute seid ihr ausgegangen, in dem Monat Abib.",
+      "zh": "亚笔月间的这日是你们出来的日子。",
+      "ja": "アビブの月の此日なんぢら出づ"
+    },
+    {
+      "number": 5,
+      "ko": "여호와께서 너를 인도하여 가나안 사람과 헷 사람과 아모리 사람과 히위 사람과 여부스 사람의 땅 곧 네게 주시려고 네 조상들에게 맹세하신 바 젖과 꿀이 흐르는 땅에 이르게 하시거든 너는 이 달에 이 예식을 지켜",
+      "en": "When the LORD brings you into the land of the Canaanites, Hittites, Amorites, Hivites and Jebusites--the land he swore to your forefathers to give you, a land flowing with milk and honey--you are to observe this ceremony in this month:",
+      "de": "Wenn dich nun der HERR bringen wird in das Land der Kanaaniter, Hethiter, Amoriter, Heviter und Jebusiter, daß er deinen Vätern geschworen hat dir zu geben, ein Land, darin Milch und Honig fließt, so sollst du diesen Dienst halten in diesem Monat.",
+      "zh": "将来耶和华领你进迦南人、赫人、亚摩利人、希未人、耶布斯人之地，就是他向你的祖宗起誓应许给你那流奶与蜜之地，那时你要在这月间守这礼。",
+      "ja": "ヱホバ汝を導きてカナン人ヘテ人アモリ人ヒビ人エブス人の地すなはちその汝にあたへんと汝の先祖たちに誓ひたまひし彼乳と蜜の流るる地に至らしめたまはん時なんぢ此月に是禮式を守るべし"
+    },
+    {
+      "number": 6,
+      "ko": "이레 동안 무교병을 먹고 일곱째 날에는 여호와께 절기를 지키라",
+      "en": "For seven days eat bread made without yeast and on the seventh day hold a festival to the LORD.",
+      "de": "Sieben Tage sollst du ungesäuertes Brot essen, und am siebenten Tage ist des HERRN Fest.",
+      "zh": "你要吃无酵饼七日，到第七日要向耶和华守节。",
+      "ja": "七日の間なんぢ酵いれぬパンを食ひ第七日にヱホバの節筵をなすべし"
+    },
+    {
+      "number": 7,
+      "ko": "이레 동안에는 무교병을 먹고 유교병을 네게 보이지 아니하게 하며 네 땅에서 누룩을 네게 보이지 아니하게 하라",
+      "en": "Eat unleavened bread during those seven days; nothing with yeast in it is to be seen among you, nor shall any yeast be seen anywhere within your borders.",
+      "de": "Darum sollst du sieben Tage ungesäuertes Brot essen, daß bei dir kein Sauerteig noch gesäuertes Brot gesehen werde an allen deinen Orten.",
+      "zh": "这七日之久，要吃无酵饼；在你四境之内不可见有酵的饼，也不可见发酵的物。",
+      "ja": "酵いれぬパンを七日くらふべし酵いれたるパンを汝の所におくなかれ又汝の境の中にて汝の許にパン酵をおくなかれ"
+    },
+    {
+      "number": 8,
+      "ko": "너는 그 날에 네 아들에게 보여 이르기를 이 예식은 내가 애굽에서 나올 때에 여호와께서 나를 위하여 행하신 일로 말미암음이라 하고",
+      "en": "On that day tell your son, 'I do this because of what the LORD did for me when I came out of Egypt.'",
+      "de": "Ihr sollt euren Söhnen sagen an demselben Tage: Solches halten wir um deswillen, was uns der HERR getan hat, da wir aus Ägypten zogen.",
+      "zh": "当那日，你要告诉你的儿子说：『这是因耶和华在我出埃及的时候为我所行的事。",
+      "ja": "汝その日に汝の子に示して言べし是は吾がエジプトより出る時にヱホバの我に爲したまひし事のためなりと"
+    },
+    {
+      "number": 9,
+      "ko": "이것으로 네 손의 기호와 네 미간의 표를 삼고 여호와의 율법이 네 입에 있게 하라 이는 여호와께서 강하신 손으로 너를 애굽에서 인도하여 내셨음이니",
+      "en": "This observance will be for you like a sign on your hand and a reminder on your forehead that the law of the LORD is to be on your lips. For the LORD brought you out of Egypt with his mighty hand.",
+      "de": "Darum soll dir's sein ein Zeichen in deiner Hand und ein Denkmal vor deinen Augen, auf daß des HERRN Gesetz sei in deinem Munde; denn der HERR hat dich mit mächtiger Hand aus Ägypten geführt.",
+      "zh": "这要在你手上作记号，在你额上作纪念，使耶和华的律法常在你口中，因为耶和华曾用大能的手将你从埃及领出来。",
+      "ja": "斯是をなんぢの手におきて記號となし汝の目の間におきて記號となしてヱホバの法律を汝の口に在しむべし其はヱホバ能ある手をもて汝をエジプトより導きいだしたまへばなり"
+    },
+    {
+      "number": 10,
+      "ko": "해마다 절기가 되면 이 규례를 지킬지니라",
+      "en": "You must keep this ordinance at the appointed time year after year.",
+      "de": "Darum halte diese Weise zu seiner Zeit jährlich.",
+      "zh": "所以你每年要按着日期守这例。』」",
+      "ja": "是故に年々その期にいたりてこの例をまもるべし"
+    },
+    {
+      "number": 11,
+      "ko": "여호와께서 너와 네 조상에게 맹세하신 대로 너를 가나안 사람의 땅에 인도하시고 그 땅을 네게 주시거든",
+      "en": "\"After the LORD brings you into the land of the Canaanites and gives it to you, as he promised on oath to you and your forefathers,",
+      "de": "Wenn dich nun der HERR ins Land der Kanaaniter gebracht hat, wie er dir und deinen Vätern geschworen hat und dir's gegeben,",
+      "zh": "「将来，耶和华照他向你和你祖宗所起的誓将你领进迦南人之地，把这地赐给你，",
+      "ja": "ヱホバ汝となんぢの先祖等に誓ひたまひしごとく汝をカナン人の地にみちびきて之を汝に與へたまはん時"
+    },
+    {
+      "number": 12,
+      "ko": "너는 태에서 처음 난 모든 것과 네게 있는 가축의 태에서 처음 난 것을 다 구별하여 여호와께 돌리라 수컷은 여호와의 것이니라",
+      "en": "you are to give over to the LORD the first offspring of every womb. All the firstborn males of your livestock belong to the LORD.",
+      "de": "so sollst du aussondern dem HERRN alles, was die Mutter bricht, und alle Erstgeburt unter dem Vieh, was ein Männlein ist.",
+      "zh": "那时你要将一切头生的，并牲畜中头生的，归给耶和华；公的都要属耶和华。",
+      "ja": "汝凡て始て生れたる者及び汝の有る畜の初生を悉く分ちてヱホバに歸せしむべし男牡はヱホバの所屬なるべし"
+    },
+    {
+      "number": 13,
+      "ko": "나귀의 첫 새끼는 다 어린 양으로 대속할 것이요 그렇게 하지 아니하려면 그 목을 꺾을 것이며 네 아들 중 처음 난 모든 자는 대속할지니라",
+      "en": "Redeem with a lamb every firstborn donkey, but if you do not redeem it, break its neck. Redeem every firstborn among your sons.",
+      "de": "Die Erstgeburt vom Esel sollst du lösen mit einem Schaf; wo du es aber nicht lösest, so brich ihm das Genick. Aber alle erste Menschengeburt unter deinen Söhnen sollst du lösen.",
+      "zh": "凡头生的驴，你要用羊羔代赎；若不代赎，就要打折它的颈项。凡你儿子中头生的都要赎出来。",
+      "ja": "又驢馬の初子は皆羔羊をもて贖ふべしもし贖はずばその頸を折るべし汝の子等の中の長子なる人はみな贖ふべし"
+    },
+    {
+      "number": 14,
+      "ko": "후일에 네 아들이 네게 묻기를 이것이 어찌 됨이냐 하거든 너는 그에게 이르기를 여호와께서 그 손의 권능으로 우리를 애굽에서 곧 종이 되었던 집에서 인도하여 내실새",
+      "en": "\"In days to come, when your son asks you, 'What does this mean?' say to him, 'With a mighty hand the LORD brought us out of Egypt, out of the land of slavery.",
+      "de": "Und wenn dich heute oder morgen dein Kind wird fragen: Was ist das? sollst du ihm sagen: Der HERR hat uns mit mächtiger Hand aus Ägypten, von dem Diensthause, geführt.",
+      "zh": "日后，你的儿子问你说：『这是什么意思？』你就说：『耶和华用大能的手将我们从埃及为奴之家领出来。",
+      "ja": "後に汝の子汝に問て是は何なると言ばこれに言べしヱホバ能ある手をもて我等をエジプトより出し奴隸たりし家より出したまへり"
+    },
+    {
+      "number": 15,
+      "ko": "그 때에 바로가 완악하여 우리를 보내지 아니하매 여호와께서 애굽 나라 가운데 처음 난 모든 것은 사람의 장자로부터 가축의 처음 난 것까지 다 죽이셨으므로 태에서 처음 난 모든 수컷들은 내가 여호와께 제사를 드려서 내 아들 중에 모든 처음 난 자를 다 대속하리니",
+      "en": "When Pharaoh stubbornly refused to let us go, the LORD killed every firstborn in Egypt, both man and animal. This is why I sacrifice to the LORD the first male offspring of every womb and redeem each of my firstborn sons.'",
+      "de": "Denn da Pharao hart war, uns loszulassen, erschlug der HERR alle Erstgeburt in Ägyptenland, von der Menschen Erstgeburt an bis an die Erstgeburt des Viehs. Darum opfre ich dem HERRN alles, was die Mutter bricht, was ein Männlein ist, und die Erstgeburt meiner Söhne löse ich.",
+      "zh": "那时法老几乎不容我们去，耶和华就把埃及地所有头生的，无论是人是牲畜，都杀了。因此，我把一切头生的公牲畜献给耶和华为祭，但将头生的儿子都赎出来。",
+      "ja": "當時パロ剛愎にして我等を去しめざりしかばヱホバ、エジプトの國の中の長子たる者を人の長子より畜の初生まで盡く殺したまへり是故に始めて生れし牡を盡くヱホバに犠牲に献ぐ但しわが子等の中の長子は之を贖ふなり"
+    },
+    {
+      "number": 16,
+      "ko": "이것이 네 손의 기호와 네 미간의 표가 되리라 이는 여호와께서 그 손의 권능으로 우리를 애굽에서 인도하여 내셨음이니라 할지니라",
+      "en": "And it will be like a sign on your hand and a symbol on your forehead that the LORD brought us out of Egypt with his mighty hand.\"",
+      "de": "Das soll dir ein Zeichen in deiner Hand sein und ein Denkmal vor deinen Augen; denn der HERR hat uns mit mächtiger Hand aus Ägypten geführt.",
+      "zh": "这要在你手上作记号，在你额上作经文，因为耶和华用大能的手将我们从埃及领出来。』」",
+      "ja": "是をなんぢの手におきて號となし汝の目の間におきて誌となすべしヱホバ能ある手をもて我等をエジプトより導きいだしたまひたればなりと"
+    },
+    {
+      "number": 17,
+      "ko": "바로가 백성을 보낸 후에 블레셋 사람의 땅의 길은 가까울지라도 하나님이 그들을 그 길로 인도하지 아니하셨으니 이는 하나님이 말씀하시기를 이 백성이 전쟁을 하게 되면 마음을 돌이켜 애굽으로 돌아갈까 하셨음이라",
+      "en": "When Pharaoh let the people go, God did not lead them on the road through the Philistine country, though that was shorter. For God said, \"If they face war, they might change their minds and return to Egypt.\"",
+      "de": "Da nun Pharao das Volk gelassen hatte, führte sie Gott nicht auf der Straße durch der Philister Land, die am nächsten war; denn Gott gedachte es möchte das Volk gereuen, wenn sie den Streit sähen, und sie möchten wieder nach Ägypten umkehren.",
+      "zh": "法老容百姓去的时候，非利士地的道路虽近，　神却不领他们从那里走；因为　神说：「恐怕百姓遇见打仗后悔，就回埃及去。」",
+      "ja": "偖パロ民をさらしめし時ペリシテ人の地は近かりけれども神彼等をみちびきて其地を通りたまはざりき其は民戰爭を見ば悔てエジプトに歸るならんと神おもひたまひたればなり"
+    },
+    {
+      "number": 18,
+      "ko": "그러므로 하나님이 홍해의 광야 길로 돌려 백성을 인도하시매 이스라엘 자손이 애굽 땅에서 대열을 지어 나올 때에",
+      "en": "So God led the people around by the desert road toward the Red Sea. The Israelites went up out of Egypt armed for battle.",
+      "de": "Darum führte er das Volk um auf die Straße durch die Wüste am Schilfmeer. Und die Kinder Israel zogen gerüstet aus Ägyptenland.",
+      "zh": "所以　神领百姓绕道而行，走红海旷野的路。以色列人出埃及地，都带着兵器上去。",
+      "ja": "神紅海の曠野の道より民を導きたまふイスラエルの子孫行伍をたててエジプトの國より出づ"
+    },
+    {
+      "number": 19,
+      "ko": "모세가 요셉의 유골을 가졌으니 이는 요셉이 이스라엘 자손으로 단단히 맹세하게 하여 이르기를 하나님이 반드시 너희를 찾아오시리니 너희는 내 유골을 여기서 가지고 나가라 하였음이더라",
+      "en": "Moses took the bones of Joseph with him because Joseph had made the sons of Israel swear an oath. He had said, \"God will surely come to your aid, and then you must carry my bones up with you from this place.\"",
+      "de": "Und Mose nahm mit sich die Gebeine Josephs. Denn er hatte einen Eid von den Kindern Israel genommen und gesprochen: Gott wird euch heimsuchen; so führt meine Gebeine mit euch von hinnen.",
+      "zh": "摩西把约瑟的骸骨一同带去；因为约瑟曾叫以色列人严严地起誓，对他们说：「　神必眷顾你们，你们要把我的骸骨从这里一同带上去。」",
+      "ja": "其時モーセはヨセフの骨を携ふ是はヨセフ神かならず汝らを眷みたまふべければ汝らわが骨を此より携へ出づべしといひてイスラエルの子孫を固く誓せたればなり"
+    },
+    {
+      "number": 20,
+      "ko": "그들이 숙곳을 떠나서 광야 끝 에담에 장막을 치니",
+      "en": "After leaving Succoth they camped at Etham on the edge of the desert.",
+      "de": "Also zogen sie aus von Sukkoth und lagerten sich in Etham, vorn an der Wüste.",
+      "zh": "他们从疏割起行，在旷野边的以倘安营。",
+      "ja": "斯てかれらスコテより進みて曠野の端なるエタム比幕張す"
+    },
+    {
+      "number": 21,
+      "ko": "여호와께서 그들 앞에서 가시며 낮에는 구름 기둥으로 그들의 길을 인도하시고 밤에는 불 기둥을 그들에게 비추사 낮이나 밤이나 진행하게 하시니",
+      "en": "By day the LORD went ahead of them in a pillar of cloud to guide them on their way and by night in a pillar of fire to give them light, so that they could travel by day or night.",
+      "de": "Und der HERR zog vor ihnen her, des Tages in einer Wolkensäule, daß er den rechten Weg führte, und des Nachts in einer Feuersäule, daß er ihnen leuchtete, zu reisen Tag und Nacht.",
+      "zh": "日间，耶和华在云柱中领他们的路；夜间，在火柱中光照他们，使他们日夜都可以行走。",
+      "ja": "ヱホバかれらの前に往たまひ晝は雲の柱をもてかれらを導き夜は火の柱をもて彼らを照して晝夜往すすましめたまふ"
+    },
+    {
+      "number": 22,
+      "ko": "낮에는 구름 기둥, 밤에는 불 기둥이 백성 앞에서 떠나지 아니하니라",
+      "en": "Neither the pillar of cloud by day nor the pillar of fire by night left its place in front of the people.",
+      "de": "Die Wolkensäule wich nimmer von dem Volk des Tages noch die Feuersäule des Nachts.",
+      "zh": "日间云柱，夜间火柱，总不离开百姓的面前。",
+      "ja": "民の前に晝は雲の柱を除きたまはず夜は火の柱をのぞきたまはず"
+    }
+  ]
+}

@@ -1,0 +1,270 @@
+{
+  "book": "Joshua",
+  "chapter": 13,
+  "verses": [
+    {
+      "number": 1,
+      "ko": "여호수아가 나이가 많아 늙으매 여호와께서 그에게 이르시되 너는 나이가 많아 늙었고 얻을 땅이 매우 많이 남아 있도다",
+      "en": "When Joshua was old and well advanced in years, the LORD said to him, \"You are very old, and there are still very large areas of land to be taken over.",
+      "de": "Da nun Josua alt war und wohl betagt, sprach der HERR zu ihm: Du bist alt geworden und wohl betagt, und des Landes ist noch sehr viel übrig einzunehmen,",
+      "zh": "约书亚年纪老迈，耶和华对他说：「你年纪老迈了，还有许多未得之地，",
+      "ja": "ヨシユアすでに年邁みて老たりしがヱホバかれに言たまひけらく汝は年邁みて老たるが尚取るべき地の殘れる者甚だおほし"
+    },
+    {
+      "number": 2,
+      "ko": "이 남은 땅은 이러하니 블레셋 사람의 모든 지역과 그술 족속의 모든 지역",
+      "en": "\"This is the land that remains: all the regions of the Philistines and Geshurites:",
+      "de": "nämlich alle Kreise der Philister und ganz Gessur,",
+      "zh": "就是非利士人的全境和基述人的全地。",
+      "ja": "その尚のこれる地は是なりペリシテ人の全州ゲシユル人の全土"
+    },
+    {
+      "number": 3,
+      "ko": "곧 애굽 앞 시홀 시내에서부터 가나안 사람에게 속한 북쪽 에그론 경계까지와 블레셋 사람의 다섯 통치자들의 땅 곧 가사 족속과 아스돗 족속과 아스글론 족속과 가드 족속과 에그론 족속과 또 남쪽 아위 족속의 땅과",
+      "en": "from the Shihor River on the east of Egypt to the territory of Ekron on the north, all of it counted as Canaanite (the territory of the five Philistine rulers in Gaza, Ashdod, Ashkelon, Gath and Ekron--that of the Avvites);",
+      "de": "vom Sihor an, der vor Ägypten fließt bis an die Grenze Ekrons gegen Mitternacht, die den Kanaanitern zugerechnet wird, fünf Herren der Philister, nämlich der Gaziter, der Asdoditer, der Askaloniter, der Gathiter der Ekroniter, und die Avviter;",
+      "zh": "从埃及前的西曷河往北，直到以革伦的境界，就算属迦南人之地。有非利士人五个首领所管的迦萨人、亚实突人、亚实基伦人、迦特人、以革伦人之地，并有南方亚卫人之地。",
+      "ja": "エジプトの前なるシホルより北の方カナン人に屬すると人のいふエクロンの境界までの部ペリシテ人の五人の主の地すなはちガザ人アシドド人アシケロン人ガテ人エクロン人の地"
+    },
+    {
+      "number": 4,
+      "ko": "또 가나안 족속의 모든 땅과 시돈 사람에게 속한 므아라와 아모리 족속의 경계 아벡까지와",
+      "en": "from the south, all the land of the Canaanites, from Arah of the Sidonians as far as Aphek, the region of the Amorites,",
+      "de": "vom Mittag an aber das ganze Land der Kanaaniter und Meara der Sidonier bis gen Aphek, bis an die Grenze der Amoriter;",
+      "zh": "又有迦南人的全地，并属西顿人的米亚拉到亚弗，直到亚摩利人的境界。",
+      "ja": "南のアビ人カナン人の全地シドン人に屬するメアラおよびアモリ人の境界なるアベクまでの部"
+    },
+    {
+      "number": 5,
+      "ko": "또 그발 족속의 땅과 해 뜨는 곳의 온 레바논 곧 헤르몬 산 아래 바알갓에서부터 하맛에 들어가는 곳까지와",
+      "en": "the area of the Gebalites; and all Lebanon to the east, from Baal Gad below Mount Hermon to Lebo Hamath.",
+      "de": "dazu das Land der Gebaliter und der ganze Libanon gegen der Sonne Aufgang, von Baal-Gad an unter dem Berge Hermon, bis man kommt gen Hamath.",
+      "zh": "还有迦巴勒人之地，并向日出的全黎巴嫩，就是从黑门山根的巴力·迦得，直到哈马口。",
+      "ja": "またへルモン山の麓なるバアルガデよりハマテの入口までに亘るゲバル人の地およびレバノンの東の全土"
+    },
+    {
+      "number": 6,
+      "ko": "또 레바논에서부터 미스르봇마임까지 산지의 모든 주민 곧 모든 시돈 사람의 땅이라 내가 그들을 이스라엘 자손 앞에서 쫓아내리니 너는 내가 명령한 대로 그 땅을 이스라엘에게 분배하여 기업이 되게 하되",
+      "en": "\"As for all the inhabitants of the mountain regions from Lebanon to Misrephoth Maim, that is, all the Sidonians, I myself will drive them out before the Israelites. Be sure to allocate this land to Israel for an inheritance, as I have instructed you,",
+      "de": "Alle, die auf dem Gebirge wohnen, vom Libanon an bis an die warmen Wasser, alle Sidonier: ich will sie vertreiben vor den Kindern Israel; lose nur darum, sie auszuteilen unter Israel, wie ich dir geboten habe.",
+      "zh": "山地的一切居民，从黎巴嫩直到米斯利弗·玛音，就是所有的西顿人，我必在以色列人面前赶出他们去。你只管照我所吩咐的，将这地拈阄分给以色列人为业。",
+      "ja": "レバノンよりミスレポテマイムまでの山地の一切の民すなはちシドン人の全土我かれらをイスラエルの子孫の前より逐はらふべし汝は我が命じたりしごとくその地をイスラエルに分ち與へて產業となさしめよ"
+    },
+    {
+      "number": 7,
+      "ko": "너는 이 땅을 아홉 지파와 므낫세 반 지파에게 나누어 기업이 되게 하라 하셨더라",
+      "en": "and divide it as an inheritance among the nine tribes and half of the tribe of Manasseh.\"",
+      "de": "So teile nun dies Land zum Erbe unter die neun Stämme und unter den halben Stamm Manasse.",
+      "zh": "现在你要把这地分给九个支派和玛拿西半个支派为业。」",
+      "ja": "即ちその地を九の支派とマナセの支派の半とに分ちて產業となさしむべし"
+    },
+    {
+      "number": 8,
+      "ko": "므낫세 반 지파와 함께 르우벤 족속과 갓 족속은 요단 저편 동쪽에서 그들의 기업을 모세에게 받았는데 여호와의 종 모세가 그들에게 준 것은 이러하니",
+      "en": "The other half of Manasseh, the Reubenites and the Gadites had received the inheritance that Moses had given them east of the Jordan, as he, the servant of the LORD, had assigned it to them.",
+      "de": "Denn die Rubeniter und Gaditer haben mit dem andern halben Manasse ihr Erbteil empfangen, das ihnen Mose gab jenseit des Jordans, gegen Aufgang, wie ihnen dasselbe Mose, der Knecht des HERRN, gegeben hat,",
+      "zh": "玛拿西那半支派和吕便、迦得二支派已经受了产业，就是耶和华的仆人摩西在约旦河东所赐给他们的：",
+      "ja": "マナセとともにルベン人およびガド人はヨルダンの彼旁東の方にてその產業をモーセより賜はり獲たりヱホバの僕モーセの彼らに與へし者は即ち是のごとし"
+    },
+    {
+      "number": 9,
+      "ko": "곧 아르논 골짜기 가에 있는 아로엘에서부터 골짜기 가운데에 있는 성읍과 디본까지 이르는 메드바 온 평지와",
+      "en": "It extended from Aroer on the rim of the Arnon Gorge, and from the town in the middle of the gorge, and included the whole plateau of Medeba as far as Dibon,",
+      "de": "von Aroer an, das am Ufer des Bachs Arnon liegt, und von der Stadt mitten im Tal und die ganze Ebene Medeba bis gen Dibon",
+      "zh": "是从亚嫩谷边的亚罗珥和谷中的城，并米底巴的全平原，直到底本，",
+      "ja": "アルノンの谷の端にあるアロエルより此方の地谷の中にある邑デボンまでに亘るメデバの一切の平地"
+    },
+    {
+      "number": 10,
+      "ko": "헤스본에서 다스리던 아모리 족속의 왕 시혼의 모든 성읍 곧 암몬 자손의 경계까지와",
+      "en": "and all the towns of Sihon king of the Amorites, who ruled in Heshbon, out to the border of the Ammonites.",
+      "de": "und alle Städte Sihons, des Königs der Amoriter, der zu Hesbon saß, bis an die Grenze der Kinder Ammon,",
+      "zh": "和在希实本作王亚摩利王西宏的诸城，直到亚扪人的境界；",
+      "ja": "ヘシボンにて世を治めしアモリ人の王シホンの一切の邑々よりしてアンモンの子孫の境界までの地"
+    },
+    {
+      "number": 11,
+      "ko": "길르앗과 및 그술 족속과 마아갓 족속의 지역과 온 헤르몬 산과 살르가까지 온 바산",
+      "en": "It also included Gilead, the territory of the people of Geshur and Maacah, all of Mount Hermon and all Bashan as far as Salecah--",
+      "de": "dazu Gilead und das Gebiet von Gessur und Maacha und den ganzen Berg Hermon und das ganze Basan bis gen Salcha",
+      "zh": "又有基列地、基述人、玛迦人的地界，并黑门全山、巴珊全地，直到撒迦；",
+      "ja": "ギレアデ、ゲシユル人及びマアカ人の境界に沿る地へルモン山の全土サルカまでバシヤン一圓"
+    },
+    {
+      "number": 12,
+      "ko": "곧 르바의 남은 족속으로서 아스다롯과 에드레이에서 다스리던 바산 왕 옥의 온 나라라 모세가 이 땅의 사람들을 쳐서 쫓아냈어도",
+      "en": "that is, the whole kingdom of Og in Bashan, who had reigned in Ashtaroth and Edrei and had survived as one of the last of the Rephaites. Moses had defeated them and taken over their land.",
+      "de": "(das ganze Reich Ogs von Basan, der zu Astharoth und Edrei saß, welcher noch übrig war von den Riesen. Mose aber schlug sie und vertrieb sie.",
+      "zh": "又有巴珊王噩的全国—他在亚斯他录和以得来作王（利乏音人所存留的只剩下他）。这些地的人都是摩西所击杀、所赶逐的。",
+      "ja": "アシタロテおよびエデレイにて世を治めしバシヤンの王オグの全國オグはレバイムの餘民の遺れる者なりモーセこれらを撃て逐はらへり"
+    },
+    {
+      "number": 13,
+      "ko": "그술 족속과 마아갓 족속은 이스라엘 자손이 쫓아내지 아니하였으므로 그술과 마아갓이 오늘까지 이스라엘 가운데에서 거주하니라",
+      "en": "But the Israelites did not drive out the people of Geshur and Maacah, so they continue to live among the Israelites to this day.",
+      "de": "Die Kinder Israel vertrieben aber die zu Gessur und zu Maacha nicht, sondern es wohnten beide, Gessur und Maacha, unter den Kindern Israel bis auf diesen Tag).",
+      "zh": "以色列人却没有赶逐基述人、玛迦人；这些人仍住在以色列中，直到今日。",
+      "ja": "但しゲシユル人およびマアカ人はイスラエルの子孫これを逐はらはざりきゲシユル人とマアカ人は今日までイスラエルの中に住をる"
+    },
+    {
+      "number": 14,
+      "ko": "오직 레위 지파에게는 여호수아가 기업으로 준 것이 없었으니 이는 그에게 말씀하신 것과 같이 이스라엘의 하나님 여호와께 드리는 화제물이 그들의 기업이 되었음이더라",
+      "en": "But to the tribe of Levi he gave no inheritance, since the offerings made by fire to the LORD, the God of Israel, are their inheritance, as he promised them.",
+      "de": "Aber dem Stamm der Leviten gab er kein Ertbteil; denn das Opfer des HERRN, des Gottes Israels, ist ihr Erbteil, wie er ihnen geredet hat.",
+      "zh": "只是利未支派，摩西没有把产业分给他们。他们的产业乃是献与耶和华—以色列　神的火祭，正如耶和华所应许他们的。",
+      "ja": "唯レビの支派にはヨシユア何の產業をも與へざりき是イスラエルの神ヱホバの火祭これが產業たればなり其かれに言たまひしが如し"
+    },
+    {
+      "number": 15,
+      "ko": "모세가 르우벤 자손의 지파에게 그들의 가족을 따라서 기업을 주었으니",
+      "en": "This is what Moses had given to the tribe of Reuben, clan by clan:",
+      "de": "Also gab Mose dem Stamm der Kinder Ruben nach ihren Geschlechtern,",
+      "zh": "摩西按着吕便支派的宗族分给他们产业。",
+      "ja": "モーセ、ルベンの子孫の支派にその宗族にしたがひて與ふる所ありしが"
+    },
+    {
+      "number": 16,
+      "ko": "그들의 지역은 아르논 골짜기 가에 있는 아로엘에서부터 골짜기 가운데 있는 성읍과 메드바 곁에 있는 온 평지와",
+      "en": "The territory from Aroer on the rim of the Arnon Gorge, and from the town in the middle of the gorge, and the whole plateau past Medeba",
+      "de": "daß ihr Gebiet war von Aroer an, das am Ufer des Bachs Arnon liegt, und von der Stadt mitten im Tal mit allem ebenen Felde bis gen Medeba,",
+      "zh": "他们的境界是亚嫩谷边的亚罗珥和谷中的城，靠近米底巴的全平原；",
+      "ja": "その境界の内はアルノンの谷の端なるアロエルよりこなたの地谷の中なる邑メデバの邊の一切の平地"
+    },
+    {
+      "number": 17,
+      "ko": "헤스본과 그 평지에 있는 모든 성읍 곧 디본과 바못 바알과 벧 바알 므온과",
+      "en": "to Heshbon and all its towns on the plateau, including Dibon, Bamoth Baal, Beth Baal Meon,",
+      "de": "Hesbon und alle seine Städte, die im ebenen Felde liegen, Dibon, Bamoth-Baal und Beth-Baal-Meon,",
+      "zh": "希实本并属希实本平原的各城，底本、巴末·巴力、伯·巴力·勉、",
+      "ja": "ヘシボンおよびその平地の一切の邑々 デボン、バモテバアル、ベテバアルメオン"
+    },
+    {
+      "number": 18,
+      "ko": "야하스와 그데못과 메바앗과",
+      "en": "Jahaz, Kedemoth, Mephaath,",
+      "de": "Jahza, Kedemoth, Mephaath,",
+      "zh": "雅杂、基底莫、米法押、",
+      "ja": "ヤハズ、ケデモテ、メバアテ"
+    },
+    {
+      "number": 19,
+      "ko": "기랴다임과 십마와 골짜기의 언덕에 있는 세렛 사할과",
+      "en": "Kiriathaim, Sibmah, Zereth Shahar on the hill in the valley,",
+      "de": "Kirjathaim, Sibma, Zereth-Sahar auf dem Berge im Tal,",
+      "zh": "基列亭、西比玛、谷中山的细列·哈沙辖、",
+      "ja": "キリアタイム、シブマ、谷中の山のゼレテシヤル"
+    },
+    {
+      "number": 20,
+      "ko": "벳브올과 비스가 산기슭과 벧여시못과",
+      "en": "Beth Peor, the slopes of Pisgah, and Beth Jeshimoth",
+      "de": "Beth-Peor, die Abhänge am Pisga und Beth-Jesimoth",
+      "zh": "伯·毗珥、毗斯迦山坡、伯·耶西末；",
+      "ja": "ベテペオル、ピスガの山腹ベテヱシモテ"
+    },
+    {
+      "number": 21,
+      "ko": "평지 모든 성읍과 헤스본에서 다스리던 아모리 족속의 왕 시혼의 온 나라라 모세가 시혼을 그 땅에 거주하는 시혼의 군주들 곧 미디안의 귀족 에위와 레겜과 술과 훌과 레바와 함께 죽였으며",
+      "en": "--all the towns on the plateau and the entire realm of Sihon king of the Amorites, who ruled at Heshbon. Moses had defeated him and the Midianite chiefs, Evi, Rekem, Zur, Hur and Reba--princes allied with Sihon--who lived in that country.",
+      "de": "und alle Städte auf der Ebene und das ganze Reich Sihons, des Königs der Amoriter, der zu Hesbon saß, den Mose schlug samt den Fürsten Midians, Evi, Rekem, Zur, Hur und Reba, den Gewaltigen des Königs Sihon, die im Lande wohnten.",
+      "zh": "平原的各城，并亚摩利王西宏的全国。这西宏曾在希实本作王，摩西把他和米甸的族长以未、利金、苏珥、户珥、利巴击杀了；这都是住那地属西宏为首领的。",
+      "ja": "平地の一切の邑々 ヘシボンにて世を治めしアモリ人の王シホンの全國 モーセ、シホンをミデアンの貴族エビ、レケム、ツル、ホルおよびレバとあはせて撃ころせり是みなシホンの大臣にしてその地に住をりし者なり"
+    },
+    {
+      "number": 22,
+      "ko": "이스라엘 자손이 그들을 살륙하는 중에 브올의 아들 점술가 발람도 칼날로 죽였더라",
+      "en": "In addition to those slain in battle, the Israelites had put to the sword Balaam son of Beor, who practiced divination.",
+      "de": "Auch Bileam, der Sohn Beors, den Weissager erwürgten die Kinder Israel mit dem Schwert samt den Erschlagenen.",
+      "zh": "那时以色列人在所杀的人中，也用刀杀了比珥的儿子术士巴兰。",
+      "ja": "イスラエルの子孫またベオルの子卜筮師バラムをも刃にかけてその外に殺せし者等とともに殺せり"
+    },
+    {
+      "number": 23,
+      "ko": "르우벤 자손의 서쪽 경계는 요단과 그 강 가라 이상은 르우벤 자손의 기업으로 그 가족대로 받은 성읍들과 주변 마을들이니라",
+      "en": "The boundary of the Reubenites was the bank of the Jordan. These towns and their villages were the inheritance of the Reubenites, clan by clan.",
+      "de": "Und die Grenze der Kinder Ruben war der Jordan. Das ist das Erbteil der Kinder Ruben nach ihren Geschlechtern, die Städte und ihre Dörfer.",
+      "zh": "吕便人的境界就是约旦河与靠近约旦河的地。以上是吕便人按着宗族所得为业的诸城，并属城的村庄。",
+      "ja": "ルベンの子孫はヨルダンおよびその河岸をもて己の境界とせり ルベンの子孫がその宗族に循がひて獲たる產業は是のごとくにして邑も村もこれに准らふ"
+    },
+    {
+      "number": 24,
+      "ko": "모세가 갓 지파 곧 갓 자손에게도 그들의 가족을 따라서 기업을 주었으니",
+      "en": "This is what Moses had given to the tribe of Gad, clan by clan:",
+      "de": "Dem Stamm der Kinder Gad nach ihrem Geschlecht gab Mose,",
+      "zh": "摩西按着迦得支派的宗族分给他们产业。",
+      "ja": "モーセまたガドの子孫たるガドの支派にもその宗族にしたがひて與ふる所ありしが"
+    },
+    {
+      "number": 25,
+      "ko": "그들의 지역은 야셀과 길르앗 모든 성읍과 암몬 자손의 땅 절반 곧 랍바 앞의 아로엘까지와",
+      "en": "The territory of Jazer, all the towns of Gilead and half the Ammonite country as far as Aroer, near Rabbah;",
+      "de": "daß ihr Gebiet war Jaser und alle Städte in Gilead und das halbe Land der Kinder Ammon bis gen Aroer, welches liegt vor Rabba,",
+      "zh": "他们的境界是雅谢和基列的各城，并亚扪人的一半地，直到拉巴前的亚罗珥；",
+      "ja": "その境界の内はヤゼル、ギレアデの一切の邑々アンモンの子孫の地の半ラバの前なるアロエルまでの地"
+    },
+    {
+      "number": 26,
+      "ko": "헤스본에서 라맛 미스베와 브도님까지와 마하나임에서 드빌 지역까지와",
+      "en": "and from Heshbon to Ramath Mizpah and Betonim, and from Mahanaim to the territory of Debir;",
+      "de": "und von Hesbon bis gen Ramath-Mizpe und Betonim, und von Mahanaim bis an die Grenze Debirs,",
+      "zh": "从希实本到拉抹·米斯巴和比多宁，又从玛哈念到底璧的境界，",
+      "ja": "ヘシボンよりラマテミヅバまでの地およびベトニム、マナハイムよりデビルの境界までの地"
+    },
+    {
+      "number": 27,
+      "ko": "골짜기에 있는 벧 하람과 벧니므라와 숙곳과 사본 곧 헤스본 왕 시혼의 나라의 남은 땅 요단과 그 강 가에서부터 요단 동쪽 긴네렛 바다의 끝까지라",
+      "en": "and in the valley, Beth Haram, Beth Nimrah, Succoth and Zaphon with the rest of the realm of Sihon king of Heshbon (the east side of the Jordan, the territory up to the end of the Sea of Kinnereth).",
+      "de": "im Tal aber Beth-Haran, Beth-Nimra, Sukkoth und Zaphon, was übrig war von dem Reich Sihons, des Königs zu Hesbon, daß der Jordan die Grenze war bis ans Ende des Meeres Kinnereth, jenseit des Jordans gegen Aufgang.",
+      "zh": "并谷中的伯·亚兰、伯·宁拉、疏割、撒分，就是希实本王西宏国中的余地，以及约旦河与靠近约旦河的地，直到基尼烈海的极边，都在约旦河东。",
+      "ja": "谷においてはベテハラム、ベテニムラ、スコテ、ザポンなどヘシボンの王シホンの國の殘れる部分 ヨルダンおよびその河岸よりしてヨルダンの東の方キンネレテの海の岸までの地"
+    },
+    {
+      "number": 28,
+      "ko": "이는 갓 자손의 기업으로 그들의 가족대로 받은 성읍들과 주변 마을들이니라",
+      "en": "These towns and their villages were the inheritance of the Gadites, clan by clan.",
+      "de": "Das ist das Erbteil der Kinder Gad nach ihren Geschlechtern, die Städte und ihre Dörfer.",
+      "zh": "以上是迦得人按着宗族所得为业的诸城，并属城的村庄。",
+      "ja": "ガドの子孫がその宗族にしたがひて獲たる產業は是のごとくにして邑も村も之に准らふ"
+    },
+    {
+      "number": 29,
+      "ko": "모세가 므낫세 반 지파에게 기업을 주었으되 므낫세 자손의 반 지파에게 그들의 가족대로 주었으니",
+      "en": "This is what Moses had given to the half-tribe of Manasseh, that is, to half the family of the descendants of Manasseh, clan by clan:",
+      "de": "Dem halben Stamm der Kinder Manasse nach ihren Geschlechtern gab Mose,",
+      "zh": "摩西把产业分给玛拿西半支派，是按着玛拿西半支派的宗族所分的。",
+      "ja": "モーセまたマナセの支派の半にも與ふる所ありき是すなはちマナセの支派の半にその宗族にしたがひて與へしなり"
+    },
+    {
+      "number": 30,
+      "ko": "그 지역은 마하나임에서부터 온 바산 곧 바산 왕 옥의 온 나라와 바산에 있는 야일의 모든 고을 육십 성읍과",
+      "en": "The territory extending from Mahanaim and including all of Bashan, the entire realm of Og king of Bashan--all the settlements of Jair in Bashan, sixty towns,",
+      "de": "daß ihr Gebiet war von Mahanaim an: das ganze Basan, das ganze Reich Ogs, des Königs von Basan, und alle Flecken Jairs, die in Basan liegen, nämlich Städte.",
+      "zh": "他们的境界是从玛哈念起，包括巴珊全地，就是巴珊王噩的全国，并在巴珊、睚珥的一切城邑，共六十个。",
+      "ja": "その境界の内はマナハイムより此方の地 バシヤンの全土 バシヤンの王オグの全國 バシヤンにあるヤイルの一切の邑すなはち其六十の邑"
+    },
+    {
+      "number": 31,
+      "ko": "길르앗 절반과 바산 왕 옥의 나라 성읍 아스다롯과 에드레이라 이는 므낫세의 아들 마길의 자손에게 돌린 것이니 곧 마길 자손의 절반이 그들의 가족대로 받으니라",
+      "en": "half of Gilead, and Ashtaroth and Edrei (the royal cities of Og in Bashan). This was for the descendants of Makir son of Manasseh--for half of the sons of Makir, clan by clan.",
+      "de": "Und das halbe Gilead, Astharoth, Edrei, die Städte des Königreichs Ogs von Basan, gab er den Kindern Machirs, des Sohnes Manasses, das ist die Hälfte der Kinder Machirs, nach ihren Geschlechtern.",
+      "zh": "基列的一半，并亚斯他录、以得来，就是属巴珊王噩国的二城，是按着宗族给玛拿西的儿子玛吉的一半子孙。",
+      "ja": "ギレアデの半バシヤンにおけるオグの國の邑々 アシタロテおよびエデレイ是等はマナセの子マキルの子孫に歸せり即ちマキルの子孫の半その宗族にしたがひて之を獲たり"
+    },
+    {
+      "number": 32,
+      "ko": "요단 동쪽 여리고 맞은편 모압 평지에서 모세가 분배한 기업이 이러하여도",
+      "en": "This is the inheritance Moses had given when he was in the plains of Moab across the Jordan east of Jericho.",
+      "de": "Das ist es, was Mose ausgeteilt hat in dem Gefilde Moabs, jenseit des Jordans vor Jericho gegen Aufgang.",
+      "zh": "以上是摩西在约旦河东对着耶利哥的摩押平原所分给他们的产业。",
+      "ja": "ヨルダンの東の方に於てヱリコに對ひをるモアブの野にてモーセが分ち與へし產業は是のごとし"
+    },
+    {
+      "number": 33,
+      "ko": "오직 레위 지파에게는 모세가 기업을 주지 아니하였으니 이는 그들에게 말씀하신 것과 같이 이스라엘의 하나님 여호와께서 그들의 기업이 되심이었더라",
+      "en": "But to the tribe of Levi, Moses had given no inheritance; the LORD, the God of Israel, is their inheritance, as he promised them.",
+      "de": "Aber dem Stamm Levi gab Mose kein Erbteil; denn der HERR, der Gott Israels, ist ihr Erbteil, wie er ihnen geredet hat.",
+      "zh": "只是利未支派，摩西没有把产业分给他们。耶和华—以色列的　神是他们的产业，正如耶和华所应许他们的。",
+      "ja": "但しレビの支派にはモーセ何の產業をも與へざりきイスラエルの神ヱホバこれが產業たればなり其かれらに言たまひし如し"
+    }
+  ]
+}

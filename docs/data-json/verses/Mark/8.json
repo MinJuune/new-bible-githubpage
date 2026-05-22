@@ -1,0 +1,310 @@
+{
+  "book": "Mark",
+  "chapter": 8,
+  "verses": [
+    {
+      "number": 1,
+      "ko": "그 무렵에 또 큰 무리가 있어 먹을 것이 없는지라 예수께서 제자들을 불러 이르시되",
+      "en": "During those days another large crowd gathered. Since they had nothing to eat, Jesus called his disciples to him and said,",
+      "de": "Zu der Zeit, da viel Volks da war, und hatten nichts zu essen, rief Jesus seine Jünger zu sich und sprach zu ihnen:",
+      "zh": "那时，又有许多人聚集，并没有什么吃的。耶稣叫门徒来，说：",
+      "ja": "そのころ、また大ぜいの人の群れが集まっていたが、食べる物がなかったので、イエスは弟子たちを呼んで言われた。"
+    },
+    {
+      "number": 2,
+      "ko": "내가 무리를 불쌍히 여기노라 그들이 나와 함께 있은 지 이미 사흘이 지났으나 먹을 것이 없도다",
+      "en": "\"I have compassion for these people; they have already been with me three days and have nothing to eat.",
+      "de": "Mich jammert des Volks; denn sie haben nun drei Tage bei mir beharrt und haben nichts zu essen;",
+      "zh": "「我怜悯这众人；因为他们同我在这里已经三天，也没有吃的了。",
+      "ja": "「かわいそうに、この群衆はもう三日間もわたしといっしょにいて、食べる物を持っていないのです。"
+    },
+    {
+      "number": 3,
+      "ko": "만일 내가 그들을 굶겨 집으로 보내면 길에서 기진하리라 그 중에는 멀리서 온 사람들도 있느니라",
+      "en": "If I send them home hungry, they will collapse on the way, because some of them have come a long distance.\"",
+      "de": "und wenn ich sie ungegessen von mir heim ließe gehen, würden sie auf dem Wege verschmachten; denn etliche sind von ferne gekommen.",
+      "zh": "我若打发他们饿着回家，就必在路上困乏，因为其中有从远处来的。」",
+      "ja": "空腹のまま家に帰らせたら、途中で動けなくなるでしょう。それに遠くから来ている人もいます。」"
+    },
+    {
+      "number": 4,
+      "ko": "제자들이 대답하되 이 광야 어디서 떡을 얻어 이 사람들로 배부르게 할 수 있으리이까",
+      "en": "His disciples answered, \"But where in this remote place can anyone get enough bread to feed them?\"",
+      "de": "Seine Jünger antworteten ihm: Woher nehmen wir Brot hier in der Wüste, daß wir sie sättigen?",
+      "zh": "门徒回答说：「在这野地，从哪里能得饼，叫这些人吃饱呢？」",
+      "ja": "弟子たちは答えた。「こんなへんぴな所で、どこからパンを手に入れて、この人たちに十分食べさせることができましょう。」"
+    },
+    {
+      "number": 5,
+      "ko": "예수께서 물으시되 너희에게 떡 몇 개나 있느냐 이르되 일곱이로소이다 하거늘",
+      "en": "\"How many loaves do you have?\" Jesus asked. \"Seven,\" they replied.",
+      "de": "Und er fragte sie: Wieviel habt ihr Brote? Sie sprachen: Sieben.",
+      "zh": "耶稣问他们说：「你们有多少饼？」他们说：「七个。」",
+      "ja": "すると、イエスは尋ねられた。「パンはどれぐらいありますか。」弟子たちは、「七つです。」と答えた。"
+    },
+    {
+      "number": 6,
+      "ko": "예수께서 무리를 명하여 땅에 앉게 하시고 떡 일곱 개를 가지사 축사하시고 떼어 제자들에게 주어 나누어 주게 하시니 제자들이 무리에게 나누어 주더라",
+      "en": "He told the crowd to sit down on the ground. When he had taken the seven loaves and given thanks, he broke them and gave them to his disciples to set before the people, and they did so.",
+      "de": "Und er gebot dem Volk, daß sie sich auf der Erde lagerten. Und er nahm die sieben Brote und dankte und brach sie und gab sie seinen Jüngern, daß sie dieselben vorlegten; und sie legten dem Volk vor.",
+      "zh": "他吩咐众人坐在地上，就拿着这七个饼祝谢了，擘开，递给门徒，叫他们摆开，门徒就摆在众人面前。",
+      "ja": "すると、イエスは群衆に、地面にすわるようにおっしゃった。それから、七つのパンを取り、感謝をささげてからそれを裂き、人々に配るように弟子たちに与えられたので、弟子たちは群衆に配った。"
+    },
+    {
+      "number": 7,
+      "ko": "또 작은 생선 두어 마리가 있는지라 이에 축복하시고 명하사 이것도 나누어 주게 하시니",
+      "en": "They had a few small fish as well; he gave thanks for them also and told the disciples to distribute them.",
+      "de": "Und hatten ein wenig Fischlein; und er dankte und hieß die auch vortragen.",
+      "zh": "又有几条小鱼；耶稣祝了福，就吩咐也摆在众人面前。",
+      "ja": "また、魚が少しばかりあったので、そのために感謝をささげてから、これも配るように言われた。"
+    },
+    {
+      "number": 8,
+      "ko": "배불리 먹고 남은 조각 일곱 광주리를 거두었으며",
+      "en": "The people ate and were satisfied. Afterward the disciples picked up seven basketfuls of broken pieces that were left over.",
+      "de": "Sie aßen aber und wurden satt; und hoben die übrigen Brocken auf, sieben Körbe.",
+      "zh": "众人都吃，并且吃饱了，收拾剩下的零碎，有七筐子。",
+      "ja": "人々は食べて満腹した。そして余りのパン切れを七つのかごに取り集めた。"
+    },
+    {
+      "number": 9,
+      "ko": "사람은 약 사천 명이었더라 예수께서 그들을 흩어 보내시고",
+      "en": "About four thousand men were present. And having sent them away,",
+      "de": "Und ihrer waren bei viertausend, die da gegessen hatten; und er ließ sie von sich.",
+      "zh": "人数约有四千。耶稣打发他们走了，",
+      "ja": "人々はおよそ四千人であった。それからイエスは、彼らを解散させられた。"
+    },
+    {
+      "number": 10,
+      "ko": "곧 제자들과 함께 배에 오르사 달마누다 지방으로 가시니라",
+      "en": "he got into the boat with his disciples and went to the region of Dalmanutha.",
+      "de": "Und alsbald trat er in ein Schiff mit seinen Jüngern und kam in die Gegend von Dalmanutha.",
+      "zh": "随即同门徒上船，来到大玛努他境内。",
+      "ja": "そしてすぐに弟子たちとともに舟に乗り、ダルマヌタ地方へ行かれた。"
+    },
+    {
+      "number": 11,
+      "ko": "바리새인들이 나와서 예수를 힐난하며 그를 시험하여 하늘로부터 오는 표적을 구하거늘",
+      "en": "The Pharisees came and began to question Jesus. To test him, they asked him for a sign from heaven.",
+      "de": "Und die Pharisäer gingen heraus und fingen an, sich mit ihm zu befragen, versuchten ihn und begehrten von ihm ein Zeichen vom Himmel.",
+      "zh": "法利赛人出来盘问耶稣，求他从天上显个神迹给他们看，想要试探他。",
+      "ja": "パリサイ人たちがやって来て、イエスに議論をしかけ、天からのしるしを求めた。イエスをためそうとしたのである。"
+    },
+    {
+      "number": 12,
+      "ko": "예수께서 마음속으로 깊이 탄식하시며 이르시되 어찌하여 이 세대가 표적을 구하느냐 내가 진실로 너희에게 이르노니 이 세대에 표적을 주지 아니하리라 하시고",
+      "en": "He sighed deeply and said, \"Why does this generation ask for a miraculous sign? I tell you the truth, no sign will be given to it.\"",
+      "de": "Und er seufzte in seinem Geist und sprach: Was sucht doch dies Geschlecht Zeichen? Wahrlich, ich sage euch: Es wird diesem Geschlecht kein Zeichen gegeben.",
+      "zh": "耶稣心里深深地叹息，说：「这世代为什么求神迹呢？我实在告诉你们，没有神迹给这世代看。」",
+      "ja": "イエスは、心の中で深く嘆息して、こう言われた。「なぜ、今の時代はしるしを求めるのか。まことに、あなたがたに告げます。今の時代には、しるしは絶対に与えられません。」"
+    },
+    {
+      "number": 13,
+      "ko": "그들을 떠나 다시 배에 올라 건너편으로 가시니라",
+      "en": "Then he left them, got back into the boat and crossed to the other side.",
+      "de": "Und er ließ sie und trat wiederum in das Schiff und fuhr herüber.",
+      "zh": "他就离开他们，又上船往海那边去了。",
+      "ja": "イエスは彼らを離れて、また舟に乗って向こう岸へ行かれた。"
+    },
+    {
+      "number": 14,
+      "ko": "제자들이 떡 가져오기를 잊었으매 배에 떡 한 개밖에 그들에게 없더라",
+      "en": "The disciples had forgotten to bring bread, except for one loaf they had with them in the boat.",
+      "de": "Und sie hatten vergessen, Brot mit sich zu nehmen, und hatten nicht mehr mit sich im Schiff denn ein Brot.",
+      "zh": "门徒忘了带饼；在船上除了一个饼，没有别的食物。",
+      "ja": "弟子たちは、パンを持って来るのを忘れ、舟の中には、パンがただ一つしかなかった。"
+    },
+    {
+      "number": 15,
+      "ko": "예수께서 경고하여 이르시되 삼가 바리새인들의 누룩과 헤롯의 누룩을 주의하라 하시니",
+      "en": "\"Be careful,\" Jesus warned them. \"Watch out for the yeast of the Pharisees and that of Herod.\"",
+      "de": "Und er gebot ihnen und sprach: Schauet zu und sehet euch vor vor dem Sauerteig der Pharisäer und vor dem Sauerteig des Herodes.",
+      "zh": "耶稣嘱咐他们说：「你们要谨慎，防备法利赛人的酵和希律的酵。」",
+      "ja": "そのとき、イエスは彼らに命じて言われた。「パリサイ人のパン種とヘロデのパン種とに十分気をつけなさい。」"
+    },
+    {
+      "number": 16,
+      "ko": "제자들이 서로 수군거리기를 이는 우리에게 떡이 없음이로다 하거늘",
+      "en": "They discussed this with one another and said, \"It is because we have no bread.\"",
+      "de": "Und sie gedachten hin und her und sprachen untereinander: Das ist's, daß wir nicht Brot haben.",
+      "zh": "他们彼此议论说：「这是因为我们没有饼吧。」",
+      "ja": "そこで弟子たちは、パンを持っていないということで、互いに議論し始めた。"
+    },
+    {
+      "number": 17,
+      "ko": "예수께서 아시고 이르시되 너희가 어찌 떡이 없음으로 수군거리느냐 아직도 알지 못하며 깨닫지 못하느냐 너희 마음이 둔하냐",
+      "en": "Aware of their discussion, Jesus asked them: \"Why are you talking about having no bread? Do you still not see or understand? Are your hearts hardened?",
+      "de": "Und Jesus merkte das und sprach zu ihnen: Was bekümmert ihr euch doch, daß ihr nicht Brot habt? Vernehmet ihr noch nichts und seid noch nicht verständig? Habt ihr noch ein erstarrtes Herz in euch?",
+      "zh": "耶稣看出来，就说：「你们为什么因为没有饼就议论呢？你们还不省悟，还不明白吗？你们的心还是愚顽吗？",
+      "ja": "それに気づいてイエスは言われた。「なぜ、パンがないといって議論しているのですか。まだわからないのですか、悟らないのですか。心が堅く閉じているのですか。"
+    },
+    {
+      "number": 18,
+      "ko": "너희가 눈이 있어도 보지 못하며 귀가 있어도 듣지 못하느냐 또 기억하지 못하느냐",
+      "en": "Do you have eyes but fail to see, and ears but fail to hear? And don't you remember?",
+      "de": "Ihr habt Augen, und sehet nicht, und habt Ohren, und höret nicht, und denket nicht daran,",
+      "zh": "你们有眼睛，看不见吗？有耳朵，听不见吗？也不记得吗？",
+      "ja": "目がありながら見えないのですか。耳がありながら聞こえないのですか。あなたがたは、覚えていないのですか。"
+    },
+    {
+      "number": 19,
+      "ko": "내가 떡 다섯 개를 오천 명에게 떼어 줄 때에 조각 몇 바구니를 거두었더냐 이르되 열둘이니이다",
+      "en": "When I broke the five loaves for the five thousand, how many basketfuls of pieces did you pick up?\" \"Twelve,\" they replied.",
+      "de": "da ich fünf Brote brach unter fünftausend: wie viel Körbe voll Brocken hobt ihr da auf? Sie sprachen: Zwölf.",
+      "zh": "我擘开那五个饼分给五千人，你们收拾的零碎装满了多少篮子呢？」他们说：「十二个。」",
+      "ja": "わたしが五千人に五つのパンを裂いて上げたとき、パン切れを取り集めて、幾つのかごがいっぱいになりましたか。」彼らは答えた。「十二です。」"
+    },
+    {
+      "number": 20,
+      "ko": "또 일곱 개를 사천 명에게 떼어 줄 때에 조각 몇 광주리를 거두었더냐 이르되 일곱이니이다",
+      "en": "\"And when I broke the seven loaves for the four thousand, how many basketfuls of pieces did you pick up?\" They answered, \"Seven.\"",
+      "de": "Da ich aber sieben brach unter die viertausend, wieviel Körbe voll Brocken hobt ihr da auf? Sie sprachen: Sieben.",
+      "zh": "「又擘开那七个饼分给四千人，你们收拾的零碎装满了多少筐子呢？」他们说：「七个。」",
+      "ja": "「四千人に七つのパンを裂いて上げたときは、パン切れを取り集めて幾つのかごがいっぱいになりましたか。」彼らは答えた。「七つです。」"
+    },
+    {
+      "number": 21,
+      "ko": "이르시되 아직도 깨닫지 못하느냐 하시니라",
+      "en": "He said to them, \"Do you still not understand?\"",
+      "de": "Und er sprach zu ihnen: Wie vernehmet ihr denn nichts?",
+      "zh": "耶稣说：「你们还是不明白吗？」",
+      "ja": "イエスは言われた。「まだ悟らないのですか。」"
+    },
+    {
+      "number": 22,
+      "ko": "벳새다에 이르매 사람들이 맹인 한 사람을 데리고 예수께 나아와 손 대시기를 구하거늘",
+      "en": "They came to Bethsaida, and some people brought a blind man and begged Jesus to touch him.",
+      "de": "Und er kam gen Bethsaida. Und sie brachten zu ihm einen Blinden und baten ihn, daß er ihn anrührte.",
+      "zh": "他们来到伯赛大，有人带一个瞎子来，求耶稣摸他。",
+      "ja": "彼らはベツサイダに着いた。すると人々が、盲人を連れて来て、さわってやってくださるようにイエスに願った。"
+    },
+    {
+      "number": 23,
+      "ko": "예수께서 맹인의 손을 붙잡으시고 마을 밖으로 데리고 나가사 눈에 침을 뱉으시며 그에게 안수하시고 무엇이 보이느냐 물으시니",
+      "en": "He took the blind man by the hand and led him outside the village. When he had spit on the man's eyes and put his hands on him, Jesus asked, \"Do you see anything?\"",
+      "de": "Und er nahm den Blinden bei der Hand und führte ihn hinaus vor den Flecken; spützte in seine Augen und legte seine Hände auf ihn und fragte ihn, ob er etwas sähe?",
+      "zh": "耶稣拉着瞎子的手，领他到村外，就吐唾沫在他眼睛上，按手在他身上，问他说：「你看见什么了？」",
+      "ja": "イエスは盲人の手を取って村の外に連れて行かれた。そしてその両眼につばきをつけ、両手を彼に当ててやって、「何か見えるか。」と聞かれた。"
+    },
+    {
+      "number": 24,
+      "ko": "쳐다보며 이르되 사람들이 보이나이다 나무 같은 것들이 걸어 가는 것을 보나이다 하거늘",
+      "en": "He looked up and said, \"I see people; they look like trees walking around.\"",
+      "de": "Und er sah auf und sprach: Ich sehe Menschen gehen, als sähe ich Bäume.",
+      "zh": "他就抬头一看，说：「我看见人了；他们好像树木，并且行走。」",
+      "ja": "すると彼は、見えるようになって、「人が見えます。木のようですが、歩いているのが見えます。」と言った。"
+    },
+    {
+      "number": 25,
+      "ko": "이에 그 눈에 다시 안수하시매 그가 주목하여 보더니 나아서 모든 것을 밝히 보는지라",
+      "en": "Once more Jesus put his hands on the man's eyes. Then his eyes were opened, his sight was restored, and he saw everything clearly.",
+      "de": "Darnach legte er abermals die Hände auf seine Augen und hieß ihn abermals sehen; und er ward wieder zurechtgebracht, daß er alles scharf sehen konnte.",
+      "zh": "随后又按手在他眼睛上，他定睛一看，就复了原，样样都看得清楚了。",
+      "ja": "それから、イエスはもう一度彼の両眼に両手を当てられた。そして、彼が見つめていると、すっかり直り、すべてのものがはっきり見えるようになった。"
+    },
+    {
+      "number": 26,
+      "ko": "예수께서 그 사람을 집으로 보내시며 이르시되 마을에는 들어가지 말라 하시니라",
+      "en": "Jesus sent him home, saying, \"Don't go into the village.\"",
+      "de": "Und er schickte ihn heim und sprach: Gehe nicht hinein in den Flecken und sage es auch niemand drinnen.",
+      "zh": "耶稣打发他回家，说：「连这村子你也不要进去。」",
+      "ja": "そこでイエスは、彼を家に帰し、「村にはいって行かないように。」と言われた。"
+    },
+    {
+      "number": 27,
+      "ko": "예수와 제자들이 빌립보 가이사랴 여러 마을로 나가실새 길에서 제자들에게 물어 이르시되 사람들이 나를 누구라고 하느냐",
+      "en": "Jesus and his disciples went on to the villages around Caesarea Philippi. On the way he asked them, \"Who do people say I am?\"",
+      "de": "Und Jesus ging aus mit seinen Jüngern in die Märkte der Stadt Cäsarea Philippi. Und auf dem Wege fragte er seine Jünger und sprach zu ihnen: Wer sagen die Leute, daß ich sei?",
+      "zh": "耶稣和门徒出去，往凯撒利亚·腓立比村庄去；在路上问门徒说：「人说我是谁？」",
+      "ja": "それから、イエスは弟子たちとピリポ・カイザリヤの村々へ出かけられた。その途中、イエスは弟子たちに尋ねて言われた。「人々はわたしをだれだと言っていますか。」"
+    },
+    {
+      "number": 28,
+      "ko": "제자들이 여짜와 이르되 세례 요한이라 하고 더러는 엘리야, 더러는 선지자 중의 하나라 하나이다",
+      "en": "They replied, \"Some say John the Baptist; others say Elijah; and still others, one of the prophets.\"",
+      "de": "Sie antworteten: Sie sagen du seiest Johannes der Täufer; etliche sagen, du seiest Elia; etliche, du seiest der Propheten einer.",
+      "zh": "他们说：「有人说是施洗的约翰；有人说是以利亚；又有人说是先知里的一位。」",
+      "ja": "彼らは答えて言った。「バプテスマのヨハネだと言っています。エリヤだと言う人も、また預言者のひとりだと言う人もいます。」"
+    },
+    {
+      "number": 29,
+      "ko": "또 물으시되 너희는 나를 누구라 하느냐 베드로가 대답하여 이르되 주는 그리스도시니이다 하매",
+      "en": "\"But what about you?\" he asked. \"Who do you say I am?\" Peter answered, \"You are the Christ.\"",
+      "de": "Und er sprach zu ihnen: Ihr aber, wer sagt ihr, daß ich sei? Da antwortete Petrus und sprach zu ihm: Du bist Christus!",
+      "zh": "又问他们说：「你们说我是谁？」彼得回答说：「你是基督。」",
+      "ja": "するとイエスは、彼らに尋ねられた。「では、あなたがたは、わたしをだれだと言いますか。」ペテロが答えてイエスに言った。「あなたは、キリストです。」"
+    },
+    {
+      "number": 30,
+      "ko": "이에 자기의 일을 아무에게도 말하지 말라 경고하시고",
+      "en": "Jesus warned them not to tell anyone about him.",
+      "de": "Und er bedrohte sie, daß sie niemand von ihm sagen sollten.",
+      "zh": "耶稣就禁戒他们，不要告诉人。",
+      "ja": "するとイエスは、自分のことをだれにも言わないようにと、彼らを戒められた。"
+    },
+    {
+      "number": 31,
+      "ko": "인자가 많은 고난을 받고 장로들과 대제사장들과 서기관들에게 버린 바 되어 죽임을 당하고 사흘 만에 살아나야 할 것을 비로소 그들에게 가르치시되",
+      "en": "He then began to teach them that the Son of Man must suffer many things and be rejected by the elders, chief priests and teachers of the law, and that he must be killed and after three days rise again.",
+      "de": "Und er hob an sie zu lehren: Des Menschen Sohn muß viel leiden und verworfen werden von den Ältesten und Hohenpriestern und Schriftgelehrten und getötet werden und über drei Tage auferstehen.",
+      "zh": "从此，他教训他们说：「人子必须受许多的苦，被长老、祭司长，和文士弃绝，并且被杀，过三天复活。」",
+      "ja": "それから、人の子は必ず多くの苦しみを受け、長老、祭司長、律法学者たちに捨てられ、殺され、三日の後によみがえらなければならないと、弟子たちに教え始められた。"
+    },
+    {
+      "number": 32,
+      "ko": "드러내 놓고 이 말씀을 하시니 베드로가 예수를 붙들고 항변하매",
+      "en": "He spoke plainly about this, and Peter took him aside and began to rebuke him.",
+      "de": "Und er redete das Wort frei offenbar. Und Petrus nahm ihn zu sich, fing an, ihm zu wehren.",
+      "zh": "耶稣明明地说这话，彼得就拉着他，劝他。",
+      "ja": "しかも、はっきりとこの事がらを話された。するとペテロは、イエスをわきにお連れして、いさめ始めた。"
+    },
+    {
+      "number": 33,
+      "ko": "예수께서 돌이키사 제자들을 보시며 베드로를 꾸짖어 이르시되 사탄아 내 뒤로 물러가라 네가 하나님의 일을 생각하지 아니하고 도리어 사람의 일을 생각하는도다 하시고",
+      "en": "But when Jesus turned and looked at his disciples, he rebuked Peter. \"Get behind me, Satan!\" he said. \"You do not have in mind the things of God, but the things of men.\"",
+      "de": "Er aber wandte sich um und sah seine Jünger an und bedrohte Petrus und sprach: Gehe hinter mich, du Satan! denn du meinst nicht, was göttlich, sondern was menschlich ist.",
+      "zh": "耶稣转过来，看着门徒，就责备彼得说：「撒但，退我后边去吧！因为你不体贴　神的意思，只体贴人的意思。」",
+      "ja": "しかし、イエスは振り向いて、弟子たちを見ながら、ペテロをしかって言われた。「下がれ。サタン。あなたは神のことを思わないで、人のことを思っている。」"
+    },
+    {
+      "number": 34,
+      "ko": "무리와 제자들을 불러 이르시되 누구든지 나를 따라오려거든 자기를 부인하고 자기 십자가를 지고 나를 따를 것이니라",
+      "en": "Then he called the crowd to him along with his disciples and said: \"If anyone would come after me, he must deny himself and take up his cross and follow me.",
+      "de": "Und er rief zu sich das Volk samt seinen Jüngern und sprach zu ihnen: Wer mir will nachfolgen, der verleugne sich selbst und nehme sein Kreuz auf sich und folge mir nach.",
+      "zh": "于是叫众人和门徒来，对他们说：「若有人要跟从我，就当舍己，背起他的十字架来跟从我。",
+      "ja": "それから、イエスは群衆を弟子たちといっしょに呼び寄せて、彼らに言われた。「だれでもわたしについて来たいと思うなら、自分を捨て、自分の十字架を負い、そしてわたしについて来なさい。"
+    },
+    {
+      "number": 35,
+      "ko": "누구든지 자기 목숨을 구원하고자 하면 잃을 것이요 누구든지 나와 복음을 위하여 자기 목숨을 잃으면 구원하리라",
+      "en": "For whoever wants to save his life will lose it, but whoever loses his life for me and for the gospel will save it.",
+      "de": "Denn wer sein Leben will behalten, der wird's verlieren; und wer sein Leben verliert um meinet-und des Evangeliums willen, der wird's behalten.",
+      "zh": "因为，凡要救自己生命的，必丧掉生命；凡为我和福音丧掉生命的，必救了生命。",
+      "ja": "いのちを救おうと思う者はそれを失い、わたしと福音とのためにいのちを失う者はそれを救うのです。"
+    },
+    {
+      "number": 36,
+      "ko": "사람이 만일 온 천하를 얻고도 자기 목숨을 잃으면 무엇이 유익하리요",
+      "en": "What good is it for a man to gain the whole world, yet forfeit his soul?",
+      "de": "Was hülfe es dem Menschen, wenn er die ganze Welt gewönne, und nähme an seiner Seele Schaden?",
+      "zh": "人就是赚得全世界，赔上自己的生命，有什么益处呢？",
+      "ja": "人は、たとい全世界を得ても、いのちを損じたら、何の得がありましょう。"
+    },
+    {
+      "number": 37,
+      "ko": "사람이 무엇을 주고 자기 목숨과 바꾸겠느냐",
+      "en": "Or what can a man give in exchange for his soul?",
+      "de": "Oder was kann der Mensch geben, damit er seine Seele löse.",
+      "zh": "人还能拿什么换生命呢？",
+      "ja": "自分のいのちを買い戻すために、人はいったい何を差し出すことができるでしょう。"
+    },
+    {
+      "number": 38,
+      "ko": "누구든지 이 음란하고 죄 많은 세대에서 나와 내 말을 부끄러워하면 인자도 아버지의 영광으로 거룩한 천사들과 함께 올 때에 그 사람을 부끄러워하리라",
+      "en": "If anyone is ashamed of me and my words in this adulterous and sinful generation, the Son of Man will be ashamed of him when he comes in his Father's glory with the holy angels.\"",
+      "de": "Wer sich aber mein und meiner Worte schämt unter diesem ehebrecherischen und sündigen Geschlecht, des wird sich auch des Menschen Sohn schämen, wenn er kommen wird in der Herrlichkeit seines Vaters mit den heiligen Engeln.",
+      "zh": "凡在这淫乱罪恶的世代，把我和我的道当作可耻的，人子在他父的荣耀里，同圣天使降临的时候，也要把那人当作可耻的。」",
+      "ja": "このような姦淫と罪の時代にあって、わたしとわたしのことばを恥じるような者なら、人の子も、父の栄光を帯びて聖なる御使いたちとともに来るときには、そのような人のことを恥じます。」"
+    }
+  ]
+}

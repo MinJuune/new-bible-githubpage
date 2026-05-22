@@ -1,0 +1,278 @@
+{
+  "book": "Matthew",
+  "chapter": 20,
+  "verses": [
+    {
+      "number": 1,
+      "ko": "천국은 마치 품꾼을 얻어 포도원에 들여보내려고 이른 아침에 나간 집 주인과 같으니",
+      "en": "\"For the kingdom of heaven is like a landowner who went out early in the morning to hire men to work in his vineyard.",
+      "de": "Das Himmelreich ist gleich einem Hausvater, der am Morgen ausging, Arbeiter zu mieten in seinen Weinberg.",
+      "zh": "「因为天国好像家主清早去雇人进他的葡萄园做工，",
+      "ja": "天の御国は、自分のぶどう園で働く労務者を雇いに朝早く出かけた主人のようなものです。"
+    },
+    {
+      "number": 2,
+      "ko": "그가 하루 한 데나리온씩 품꾼들과 약속하여 포도원에 들여보내고",
+      "en": "He agreed to pay them a denarius for the day and sent them into his vineyard.",
+      "de": "Und da er mit den Arbeitern eins ward um einen Groschen zum Tagelohn, sandte er sie in seinen Weinberg.",
+      "zh": "和工人讲定一天一钱银子，就打发他们进葡萄园去。",
+      "ja": "彼は、労務者たちと一日一デナリの約束ができると、彼らをぶどう園にやった。"
+    },
+    {
+      "number": 3,
+      "ko": "또 제삼시에 나가 보니 장터에 놀고 서 있는 사람들이 또 있는지라",
+      "en": "\"About the third hour he went out and saw others standing in the marketplace doing nothing.",
+      "de": "Und ging aus um die dritte Stunde und sah andere an dem Markte müßig stehen",
+      "zh": "约在巳初出去，看见市上还有闲站的人，",
+      "ja": "それから、九時ごろに出かけてみると、別の人たちが市場に立っており、何もしないでいた。"
+    },
+    {
+      "number": 4,
+      "ko": "그들에게 이르되 너희도 포도원에 들어가라 내가 너희에게 상당하게 주리라 하니 그들이 가고",
+      "en": "He told them, 'You also go and work in my vineyard, and I will pay you whatever is right.'",
+      "de": "und sprach zu ihnen: Gehet ihr auch hin in den Weinberg; ich will euch geben, was recht ist.",
+      "zh": "就对他们说：『你们也进葡萄园去，所当给的，我必给你们。』他们也进去了。",
+      "ja": "そこで、彼はその人たちに言った。『あなたがたも、ぶどう園に行きなさい。相当のものを上げるから。』"
+    },
+    {
+      "number": 5,
+      "ko": "제육시와 제구시에 또 나가 그와 같이 하고",
+      "en": "So they went. \"He went out again about the sixth hour and the ninth hour and did the same thing.",
+      "de": "Und sie gingen hin. Abermals ging er aus um die sechste und die neunte Stunde und tat gleichalso.",
+      "zh": "约在午正和申初又出去，也是这样行。",
+      "ja": "彼らは出て行った。それからまた、十二時ごろと三時ごろに出かけて行って、同じようにした。"
+    },
+    {
+      "number": 6,
+      "ko": "제십일시에도 나가 보니 서 있는 사람들이 또 있는지라 이르되 너희는 어찌하여 종일토록 놀고 여기 서 있느냐",
+      "en": "About the eleventh hour he went out and found still others standing around. He asked them, 'Why have you been standing here all day long doing nothing?'",
+      "de": "Um die elfte Stunde aber ging er aus und fand andere müßig stehen und sprach zu ihnen: Was steht ihr hier den ganzen Tag müßig?",
+      "zh": "约在酉初出去，看见还有人站在那里，就问他们说：『你们为什么整天在这里闲站呢？』",
+      "ja": "また、五時ごろ出かけてみると、別の人たちが立っていたので、彼らに言った。『なぜ、一日中仕事もしないでここにいるのですか。』"
+    },
+    {
+      "number": 7,
+      "ko": "이르되 우리를 품꾼으로 쓰는 이가 없음이니이다 이르되 너희도 포도원에 들어가라 하니라",
+      "en": "\"'Because no one has hired us,' they answered. \"He said to them, 'You also go and work in my vineyard.'",
+      "de": "Sie sprachen zu ihm: Es hat uns niemand gedingt. Er sprach zu ihnen: Gehet ihr auch hin in den Weinberg, und was recht sein wird, soll euch werden.",
+      "zh": "他们说：『因为没有人雇我们。』他说：『你们也进葡萄园去。』",
+      "ja": "彼らは言った。『だれも雇ってくれないからです。』彼は言った。『あなたがたも、ぶどう園に行きなさい。』"
+    },
+    {
+      "number": 8,
+      "ko": "저물매 포도원 주인이 청지기에게 이르되 품꾼들을 불러 나중 온 자로부터 시작하여 먼저 온 자까지 삯을 주라 하니",
+      "en": "\"When evening came, the owner of the vineyard said to his foreman, 'Call the workers and pay them their wages, beginning with the last ones hired and going on to the first.'",
+      "de": "Da es nun Abend ward, sprach der Herr des Weinberges zu seinem Schaffner: Rufe die Arbeiter und gib ihnen den Lohn und heb an an den Letzten bis zu den Ersten.",
+      "zh": "到了晚上，园主对管事的说：『叫工人都来，给他们工钱，从后来的起，到先来的为止。",
+      "ja": "こうして、夕方になったので、ぶどう園の主人は、監督に言った。『労務者たちを呼んで、最後に来た者たちから順に、最初に来た者たちにまで、賃金を払ってやりなさい。』"
+    },
+    {
+      "number": 9,
+      "ko": "제십일시에 온 자들이 와서 한 데나리온씩을 받거늘",
+      "en": "\"The workers who were hired about the eleventh hour came and each received a denarius.",
+      "de": "Da kamen, die um die elfte Stunde gedingt waren, und empfing ein jeglicher seinen Groschen.",
+      "zh": "约在酉初雇的人来了，各人得了一钱银子。",
+      "ja": "そこで、五時ごろに雇われた者たちが来て、それぞれ一デナリずつもらった。"
+    },
+    {
+      "number": 10,
+      "ko": "먼저 온 자들이 와서 더 받을 줄 알았더니 그들도 한 데나리온씩 받은지라",
+      "en": "So when those came who were hired first, they expected to receive more. But each one of them also received a denarius.",
+      "de": "Da aber die ersten kamen, meinten sie, sie würden mehr empfangen; und sie empfingen auch ein jeglicher seinen Groschen.",
+      "zh": "及至那先雇的来了，他们以为必要多得；谁知也是各得一钱。",
+      "ja": "最初の者たちがもらいに来て、もっと多くもらえるだろうと思ったが、彼らもやはりひとり一デナリずつであった。"
+    },
+    {
+      "number": 11,
+      "ko": "받은 후 집 주인을 원망하여 이르되",
+      "en": "When they received it, they began to grumble against the landowner.",
+      "de": "Und da sie den empfingen, murrten sie wider den Hausvater",
+      "zh": "他们得了，就埋怨家主说：",
+      "ja": "そこで、彼らはそれを受け取ると、主人に文句をつけて、"
+    },
+    {
+      "number": 12,
+      "ko": "나중 온 이 사람들은 한 시간밖에 일하지 아니하였거늘 그들을 종일 수고하며 더위를 견딘 우리와 같게 하였나이다",
+      "en": "'These men who were hired last worked only one hour,' they said, 'and you have made them equal to us who have borne the burden of the work and the heat of the day.'",
+      "de": "und sprachen: Diese haben nur eine Stunde gearbeitet, und du hast sie uns gleich gemacht, die wir des Tages Last und die Hitze getragen haben.",
+      "zh": "『我们整天劳苦受热，那后来的只做了一小时，你竟叫他们和我们一样吗？』",
+      "ja": "言った。『この最後の連中は一時間しか働かなかったのに、あなたは私たちと同じにしました。私たちは一日中、労苦と焼けるような暑さを辛抱したのです。』"
+    },
+    {
+      "number": 13,
+      "ko": "주인이 그 중의 한 사람에게 대답하여 이르되 친구여 내가 네게 잘못한 것이 없노라 네가 나와 한 데나리온의 약속을 하지 아니하였느냐",
+      "en": "\"But he answered one of them, 'Friend, I am not being unfair to you. Didn't you agree to work for a denarius?",
+      "de": "Er antwortete aber und sagte zu einem unter ihnen: Mein Freund, ich tue dir nicht Unrecht. Bist du nicht mit mir eins geworden für einen Groschen?",
+      "zh": "家主回答其中的一人说：『朋友，我不亏负你，你与我讲定的不是一钱银子吗？",
+      "ja": "しかし、彼はそのひとりに答えて言った。『私はあなたに何も不当なことはしていない。あなたは私と一デナリの約束をしたではありませんか。"
+    },
+    {
+      "number": 14,
+      "ko": "네 것이나 가지고 가라 나중 온 이 사람에게 너와 같이 주는 것이 내 뜻이니라",
+      "en": "Take your pay and go. I want to give the man who was hired last the same as I gave you.",
+      "de": "Nimm, was dein ist, und gehe hin! Ich will aber diesem letzten geben gleich wie dir.",
+      "zh": "拿你的走吧！我给那后来的和给你一样，这是我愿意的。",
+      "ja": "自分の分を取って帰りなさい。ただ私としては、この最後の人にも、あなたと同じだけ上げたいのです。"
+    },
+    {
+      "number": 15,
+      "ko": "내 것을 가지고 내 뜻대로 할 것이 아니냐 내가 선하므로 네가 악하게 보느냐",
+      "en": "Don't I have the right to do what I want with my own money? Or are you envious because I am generous?'",
+      "de": "Oder habe ich nicht Macht, zu tun, was ich will, mit dem Meinen? Siehst du darum so scheel, daß ich so gütig bin?",
+      "zh": "我的东西难道不可随我的意思用吗？因为我作好人，你就红了眼吗？』",
+      "ja": "自分のものを自分の思うようにしてはいけないという法がありますか。それとも、私が気前がいいので、あなたの目にはねたましく思われるのですか。』"
+    },
+    {
+      "number": 16,
+      "ko": "이와 같이 나중 된 자로서 먼저 되고 먼저 된 자로서 나중 되리라",
+      "en": "\"So the last will be first, and the first will be last.\"",
+      "de": "Also werden die Letzten die Ersten und die Ersten die Letzten sein. Denn viele sind berufen, aber wenige auserwählt.",
+      "zh": "这样，那在后的，将要在前；在前的，将要在后了。」",
+      "ja": "このように、あとの者が先になり、先の者があとになるものです。」"
+    },
+    {
+      "number": 17,
+      "ko": "예수께서 예루살렘으로 올라가려 하실 때에 열두 제자를 따로 데리시고 길에서 이르시되",
+      "en": "Now as Jesus was going up to Jerusalem, he took the twelve disciples aside and said to them,",
+      "de": "Und er zog hinauf gen Jerusalem und nahm zu sich die zwölf Jünger besonders auf dem Wege und sprach zu ihnen:",
+      "zh": "耶稣上耶路撒冷去的时候，在路上把十二个门徒带到一边，对他们说：",
+      "ja": "さて、イエスは、エルサレムに上ろうとしておられたが、十二弟子だけを呼んで、道々彼らに話された。"
+    },
+    {
+      "number": 18,
+      "ko": "보라 우리가 예루살렘으로 올라가노니 인자가 대제사장들과 서기관들에게 넘겨지매 그들이 죽이기로 결의하고",
+      "en": "\"We are going up to Jerusalem, and the Son of Man will be betrayed to the chief priests and the teachers of the law. They will condemn him to death",
+      "de": "Siehe, wir ziehen hinauf gen Jerusalem, und des Menschen Sohn wird den Hohenpriestern und Schriftgelehrten überantwortet werden; sie werden ihn verdammen zum Tode",
+      "zh": "「看哪，我们上耶路撒冷去，人子要被交给祭司长和文士。他们要定他死罪，",
+      "ja": "「さあ、これから、わたしたちはエルサレムに向かって行きます。人の子は、祭司長、律法学者たちに引き渡されるのです。彼らは人の子を死刑に定めます。"
+    },
+    {
+      "number": 19,
+      "ko": "이방인들에게 넘겨 주어 그를 조롱하며 채찍질하며 십자가에 못 박게 할 것이나 제삼일에 살아나리라",
+      "en": "and will turn him over to the Gentiles to be mocked and flogged and crucified. On the third day he will be raised to life!\"",
+      "de": "und werden ihn überantworten den Heiden, zu verspotten und zu geißeln und zu kreuzigen; und am dritten Tage wird er wieder auferstehen.",
+      "zh": "又交给外邦人，将他戏弄，鞭打，钉在十字架上；第三日他要复活。」",
+      "ja": "そして、あざけり、むち打ち、十字架につけるため、異邦人に引き渡します。しかし、人の子は三日目によみがえります。」"
+    },
+    {
+      "number": 20,
+      "ko": "그 때에 세베대의 아들의 어머니가 그 아들들을 데리고 예수께 와서 절하며 무엇을 구하니",
+      "en": "Then the mother of Zebedee's sons came to Jesus with her sons and, kneeling down, asked a favor of him.",
+      "de": "Da trat zu ihm die Mutter der Kinder des Zebedäus mit ihren Söhnen, fiel vor ihm nieder und bat etwas von ihm.",
+      "zh": "那时，西庇太儿子的母亲同她两个儿子上前来拜耶稣，求他一件事。",
+      "ja": "そのとき、ゼベダイの子たちの母が、子どもたちといっしょにイエスのもとに来て、ひれ伏して、お願いがありますと言った。"
+    },
+    {
+      "number": 21,
+      "ko": "예수께서 이르시되 무엇을 원하느냐 이르되 나의 이 두 아들을 주의 나라에서 하나는 주의 우편에, 하나는 주의 좌편에 앉게 명하소서",
+      "en": "\"What is it you want?\" he asked. She said, \"Grant that one of these two sons of mine may sit at your right and the other at your left in your kingdom.\"",
+      "de": "Und er sprach zu ihr: Was willst du? Sie sprach zu ihm: Laß diese meine zwei Söhne sitzen in deinem Reich, einen zu deiner Rechten und den andern zu deiner Linken.",
+      "zh": "耶稣说：「你要什么呢？」她说：「愿你叫我这两个儿子在你国里，一个坐在你右边，一个坐在你左边。」",
+      "ja": "イエスが彼女に、「どんな願いですか。」と言われると、彼女は言った。「私のこのふたりの息子が、あなたの御国で、ひとりはあなたの右に、ひとりは左にすわれるようにおことばを下さい。」"
+    },
+    {
+      "number": 22,
+      "ko": "예수께서 대답하여 이르시되 너희는 너희가 구하는 것을 알지 못하는도다 내가 마시려는 잔을 너희가 마실 수 있느냐 그들이 말하되 할 수 있나이다",
+      "en": "\"You don't know what you are asking,\" Jesus said to them. \"Can you drink the cup I am going to drink?\" \"We can,\" they answered.",
+      "de": "Aber Jesus antwortete und sprach: Ihr wisset nicht, was ihr bittet. Könnt ihr den Kelch trinken, den ich trinken werde, und euch taufen lassen mit der Taufe, mit der ich getauft werde? Sie sprachen zu ihm: Jawohl.",
+      "zh": "耶稣回答说：「你们不知道所求的是什么；我将要喝的杯，你们能喝吗？」他们说：「我们能。」",
+      "ja": "けれども、イエスは答えて言われた。「あなたがたは自分が何を求めているのか、わかっていないのです。わたしが飲もうとしている杯を飲むことができますか。」彼らは「できます。」と言った。"
+    },
+    {
+      "number": 23,
+      "ko": "이르시되 너희가 과연 내 잔을 마시려니와 내 좌우편에 앉는 것은 내가 주는 것이 아니라 내 아버지께서 누구를 위하여 예비하셨든지 그들이 얻을 것이니라",
+      "en": "Jesus said to them, \"You will indeed drink from my cup, but to sit at my right or left is not for me to grant. These places belong to those for whom they have been prepared by my Father.\"",
+      "de": "Und er sprach zu ihnen: Meinen Kelch sollt ihr zwar trinken, und mit der Taufe, mit der ich getauft werde, sollt ihr getauft werden; aber das sitzen zu meiner Rechten und Linken zu geben steht mir nicht zu, sondern denen es bereitet ist von meinem Vater.",
+      "zh": "耶稣说：「我所喝的杯，你们必要喝；只是坐在我的左右，不是我可以赐的，乃是我父为谁预备的，就赐给谁。」",
+      "ja": "イエスは言われた。「あなたがたはわたしの杯を飲みはします。しかし、わたしの右と左にすわることは、このわたしの許すことではなく、わたしの父によってそれに備えられた人々があるのです。」"
+    },
+    {
+      "number": 24,
+      "ko": "열 제자가 듣고 그 두 형제에 대하여 분히 여기거늘",
+      "en": "When the ten heard about this, they were indignant with the two brothers.",
+      "de": "Da das die zehn hörten, wurden sie unwillig über die zwei Brüder.",
+      "zh": "那十个门徒听见，就恼怒他们弟兄二人。",
+      "ja": "このことを聞いたほかの十人は、このふたりの兄弟のことで腹を立てた。"
+    },
+    {
+      "number": 25,
+      "ko": "예수께서 제자들을 불러다가 이르시되 이방인의 집권자들이 그들을 임의로 주관하고 그 고관들이 그들에게 권세를 부리는 줄을 너희가 알거니와",
+      "en": "Jesus called them together and said, \"You know that the rulers of the Gentiles lord it over them, and their high officials exercise authority over them.",
+      "de": "Aber Jesus rief sie zu sich und sprach: Ihr wisset, daß die weltlichen Fürsten herrschen und die Obersten haben Gewalt.",
+      "zh": "耶稣叫了他们来，说：「你们知道外邦人有君王为主治理他们，有大臣操权管束他们。",
+      "ja": "そこで、イエスは彼らを呼び寄せて、言われた。「あなたがたも知っているとおり、異邦人の支配者たちは彼らを支配し、偉い人たちは彼らの上に権力をふるいます。"
+    },
+    {
+      "number": 26,
+      "ko": "너희 중에는 그렇지 않아야 하나니 너희 중에 누구든지 크고자 하는 자는 너희를 섬기는 자가 되고",
+      "en": "Not so with you. Instead, whoever wants to become great among you must be your servant,",
+      "de": "So soll es nicht sein unter euch. Sondern, so jemand will unter euch gewaltig sein, der sei euer Diener;",
+      "zh": "只是在你们中间，不可这样；你们中间谁愿为大，就必作你们的用人；",
+      "ja": "あなたがたの間では、そうではありません。あなたがたの間で偉くなりたいと思う者は、みなに仕える者になりなさい。"
+    },
+    {
+      "number": 27,
+      "ko": "너희 중에 누구든지 으뜸이 되고자 하는 자는 너희의 종이 되어야 하리라",
+      "en": "and whoever wants to be first must be your slave--",
+      "de": "und wer da will der Vornehmste sein, der sei euer Knecht,",
+      "zh": "谁愿为首，就必作你们的仆人。",
+      "ja": "あなたがたの間で人の先に立ちたいと思う者は、あなたがたのしもべになりなさい。"
+    },
+    {
+      "number": 28,
+      "ko": "인자가 온 것은 섬김을 받으려 함이 아니라 도리어 섬기려 하고 자기 목숨을 많은 사람의 대속물로 주려 함이니라",
+      "en": "just as the Son of Man did not come to be served, but to serve, and to give his life as a ransom for many.\"",
+      "de": "gleichwie des Menschen Sohn ist nicht gekommen, daß er sich dienen lasse, sondern daß er diene und gebe sein Leben zu einer Erlösung für viele.",
+      "zh": "正如人子来，不是要受人的服事，乃是要服事人，并且要舍命，作多人的赎价。」",
+      "ja": "人の子が来たのが、仕えられるためではなく、かえって仕えるためであり、また、多くの人のための、贖いの代価として、自分のいのちを与えるためであるのと同じです。」"
+    },
+    {
+      "number": 29,
+      "ko": "그들이 여리고에서 떠나 갈 때에 큰 무리가 예수를 따르더라",
+      "en": "As Jesus and his disciples were leaving Jericho, a large crowd followed him.",
+      "de": "Und da sie von Jericho auszogen, folgte ihm viel Volks nach.",
+      "zh": "他们出耶利哥的时候，有极多的人跟随他。",
+      "ja": "彼らがエリコを出て行くと、大ぜいの群衆がイエスについて行った。"
+    },
+    {
+      "number": 30,
+      "ko": "맹인 두 사람이 길 가에 앉았다가 예수께서 지나가신다 함을 듣고 소리 질러 이르되 주여 우리를 불쌍히 여기소서 다윗의 자손이여 하니",
+      "en": "Two blind men were sitting by the roadside, and when they heard that Jesus was going by, they shouted, \"Lord, Son of David, have mercy on us!\"",
+      "de": "Und siehe, zwei Blinde saßen am Wege; und da sie hörten, daß Jesus vorüberging, schrieen sie und sprachen: Ach HERR, du Sohn Davids, erbarme dich unser!",
+      "zh": "有两个瞎子坐在路旁，听说是耶稣经过，就喊着说：「主啊，大卫的子孙，可怜我们吧！」",
+      "ja": "すると、道ばたにすわっていたふたりの盲人が、イエスが通られると聞いて、叫んで言った。「主よ。私たちをあわれんでください。ダビデの子よ。」"
+    },
+    {
+      "number": 31,
+      "ko": "무리가 꾸짖어 잠잠하라 하되 더욱 소리 질러 이르되 주여 우리를 불쌍히 여기소서 다윗의 자손이여 하는지라",
+      "en": "The crowd rebuked them and told them to be quiet, but they shouted all the louder, \"Lord, Son of David, have mercy on us!\"",
+      "de": "Aber das Volk bedrohte sie, daß sie schweigen sollten. Aber sie schrieen viel mehr und sprachen: Ach HERR, du Sohn Davids, erbarme dich unser!",
+      "zh": "众人责备他们，不许他们作声；他们却越发喊着说：「主啊，大卫的子孙，可怜我们吧！」",
+      "ja": "そこで、群衆は彼らを黙らせようとして、たしなめたが、彼らはますます、「主よ。私たちをあわれんでください。ダビデの子よ。」と叫び立てた。"
+    },
+    {
+      "number": 32,
+      "ko": "예수께서 머물러 서서 그들을 불러 이르시되 너희에게 무엇을 하여 주기를 원하느냐",
+      "en": "Jesus stopped and called them. \"What do you want me to do for you?\" he asked.",
+      "de": "Jesus aber stand still und rief sie und sprach: Was wollt ihr, daß ich euch tun soll?",
+      "zh": "耶稣就站住，叫他们来，说：「要我为你们做什么？」",
+      "ja": "すると、イエスは立ち止まって、彼らを呼んで言われた。「わたしに何をしてほしいのか。」"
+    },
+    {
+      "number": 33,
+      "ko": "이르되 주여 우리의 눈 뜨기를 원하나이다",
+      "en": "\"Lord,\" they answered, \"we want our sight.\"",
+      "de": "Sie sprachen zu ihm: HERR, daß unsere Augen aufgetan werden.",
+      "zh": "他们说：「主啊，要我们的眼睛能看见！」",
+      "ja": "彼らはイエスに言った。「主よ。この目をあけていただきたいのです。」"
+    },
+    {
+      "number": 34,
+      "ko": "예수께서 불쌍히 여기사 그들의 눈을 만지시니 곧 보게 되어 그들이 예수를 따르니라",
+      "en": "Jesus had compassion on them and touched their eyes. Immediately they received their sight and followed him. MAT",
+      "de": "Und es jammerte Jesum, und er rührte ihre Augen an; und alsbald wurden ihre Augen wieder sehend, und sie folgten ihm nach.",
+      "zh": "耶稣就动了慈心，把他们的眼睛一摸，他们立刻看见，就跟从了耶稣。",
+      "ja": "イエスはかわいそうに思って、彼らの目にさわられた。すると、すぐさま彼らは見えるようになり、イエスについて行った。"
+    }
+  ]
+}

@@ -1,0 +1,398 @@
+{
+  "book": "Daniel",
+  "chapter": 2,
+  "verses": [
+    {
+      "number": 1,
+      "ko": "느부갓네살이 다스린 지 이 년이 되는 해에 느부갓네살이 꿈을 꾸고 그로 말미암아 마음이 번민하여 잠을 이루지 못한지라",
+      "en": "In the second year of his reign, Nebuchadnezzar had dreams; his mind was troubled and he could not sleep.",
+      "de": "Im zweiten Jahr des Reiches Nebukadnezars hatte Nebukadnezar einen Traum, davon er erschrak, daß er aufwachte.",
+      "zh": "尼布甲尼撒在位第二年，他做了梦，心里烦乱，不能睡觉。",
+      "ja": "ネブカデネザルの治世の二年にネブカデネザル夢を見それがために心に思ひなやみて復睡ること能はざりき"
+    },
+    {
+      "number": 2,
+      "ko": "왕이 그의 꿈을 자기에게 알려 주도록 박수와 술객과 점쟁이와 갈대아 술사를 부르라 말하매 그들이 들어가서 왕의 앞에 선지라",
+      "en": "So the king summoned the magicians, enchanters, sorcerers and astrologers to tell him what he had dreamed. When they came in and stood before the king,",
+      "de": "Und er hieß alle Seher und Weisen und Zauberer und Chaldäer zusammenfordern, daß sie dem König seinen Traum sagen sollten. Und sie kamen und traten vor den König.",
+      "zh": "王吩咐人将术士、用法术的、行邪术的，和迦勒底人召来，要他们将王的梦告诉王，他们就来站在王前。",
+      "ja": "是をもて王は命を下し王のためにその夢を解せんとて博士と法術士と魔術士とカルデヤ人とを召しめたれば彼ら來りて王の前に立つ"
+    },
+    {
+      "number": 3,
+      "ko": "왕이 그들에게 이르되 내가 꿈을 꾸고 그 꿈을 알고자 하여 마음이 번민하도다 하니",
+      "en": "he said to them, \"I have had a dream that troubles me and I want to know what it means.\"",
+      "de": "Und der König sprach zu ihnen: Ich habe einen Traum gehabt, der hat mich erschreckt; und ich wollte gern wissen, was es für ein Traum gewesen sei.",
+      "zh": "王对他们说：「我做了一梦，心里烦乱，要知道这是什么梦。」",
+      "ja": "王すなはち彼らにむかひ我夢を見その夢の義を知んと心に思ひなやむと言ければ"
+    },
+    {
+      "number": 4,
+      "ko": "갈대아 술사들이 아람 말로 왕에게 말하되 왕이여 만수무강 하옵소서 왕께서 그 꿈을 종들에게 이르시면 우리가 해석하여 드리겠나이다 하는지라",
+      "en": "Then the astrologers answered the king in Aramaic, \"O king, live forever! Tell your servants the dream, and we will interpret it.\"",
+      "de": "Da sprachen die Chaldäer zum König auf chaldäisch: Der König lebe ewiglich! Sage deinen Knechten den Traum, so wollen wir ihn deuten.",
+      "zh": "迦勒底人用亚兰的言语对王说：「愿王万岁！请将那梦告诉仆人，仆人就可以讲解。」",
+      "ja": "カルデヤ人等スリア語をもて王に申しけるは願くは王長壽かれ請ふ僕等にその夢を語りたまへ我らその解明を進めたてまつらんと"
+    },
+    {
+      "number": 5,
+      "ko": "왕이 갈대아인들에게 대답하여 이르되 내가 명령을 내렸나니 너희가 만일 꿈과 그 해석을 내게 알게 하지 아니하면 너희 몸을 쪼갤 것이며 너희의 집을 거름더미로 만들 것이요",
+      "en": "The king replied to the astrologers, \"This is what I have firmly decided: If you do not tell me what my dream was and interpret it, I will have you cut into pieces and your houses turned into piles of rubble.",
+      "de": "Der König antwortete und sprach zu den Chaldäern: Es ist mir entfallen. Werdet ihr mir den Traum nicht anzeigen und ihn deuten, so sollt ihr in Stücke zerhauen und eure Häuser schändlich zerstört werden.",
+      "zh": "王回答迦勒底人说：「梦我已经忘了，你们若不将梦和梦的讲解告诉我，就必被凌迟，你们的房屋必成为粪堆；",
+      "ja": "王こたへてカルデヤ人に言けるは我すでに命を出せり汝等もしその夢とこれが解明とを我に示さざるにおいては汝らの身は切裂れ汝らの家は厠にせられん"
+    },
+    {
+      "number": 6,
+      "ko": "너희가 만일 꿈과 그 해석을 보이면 너희가 선물과 상과 큰 영광을 내게서 얻으리라 그런즉 꿈과 그 해석을 내게 보이라 하니",
+      "en": "But if you tell me the dream and explain it, you will receive from me gifts and rewards and great honor. So tell me the dream and interpret it for me.\"",
+      "de": "Werdet ihr mir aber den Traum anzeigen und deuten, so sollt ihr Geschenke, Gaben und große Ehre von mir haben. Darum so sagt mir den Traum und seine Deutung.",
+      "zh": "你们若将梦和梦的讲解告诉我，就必从我这里得赠品和赏赐，并大尊荣。现在你们要将梦和梦的讲解告诉我。」",
+      "ja": "又汝らもしその夢とこれが解明を示さば贐物と賞賚と大なる尊榮とを我より獲ん然ばその夢と之が解明を我に示せ"
+    },
+    {
+      "number": 7,
+      "ko": "그들이 다시 대답하여 이르되 원하건대 왕은 꿈을 종들에게 이르소서 그리하시면 우리가 해석하여 드리겠나이다 하니",
+      "en": "Once more they replied, \"Let the king tell his servants the dream, and we will interpret it.\"",
+      "de": "Sie antworteten wiederum und sprachen: Der König sage seinen Knechten den Traum, so wollen wir ihn deuten.",
+      "zh": "他们第二次对王说：「请王将梦告诉仆人，仆人就可以讲解。」",
+      "ja": "彼らまた對へて言けるは願くは王僕どもにその夢を語りたまへ然ば我らその解明を奏すべしと"
+    },
+    {
+      "number": 8,
+      "ko": "왕이 대답하여 이르되 내가 분명히 아노라 너희가 나의 명령이 내렸음을 보았으므로 시간을 지연하려 함이로다",
+      "en": "Then the king answered, \"I am certain that you are trying to gain time, because you realize that this is what I have firmly decided:",
+      "de": "Der König antwortete und sprach: Wahrlich, ich merke es, daß ihr Frist sucht, weil ihr seht, daß mir's entfallen ist.",
+      "zh": "王回答说：「我准知道你们是故意迟延，因为你们知道那梦我已经忘了。",
+      "ja": "王こたへて言けるは我あきらかに知る汝らは吾命の下りしを見るが故に時を延さんことを望むなり"
+    },
+    {
+      "number": 9,
+      "ko": "너희가 만일 이 꿈을 내게 알게 하지 아니하면 너희를 처치할 법이 오직 하나이니 이는 너희가 거짓말과 망령된 말을 내 앞에서 꾸며 말하여 때가 변하기를 기다리려 함이라 이제 그 꿈을 내게 알게 하라 그리하면 너희가 그 해석도 보일 줄을 내가 알리라 하더라",
+      "en": "If you do not tell me the dream, there is just one penalty for you. You have conspired to tell me misleading and wicked things, hoping the situation will change. So then, tell me the dream, and I will know that you can interpret it for me.\"",
+      "de": "Aber werdet ihr mir nicht den Traum sagen, so geht das Recht über euch, als die ihr Lügen und Gedichte vor mir zu reden euch vorgenommen habt, bis die Zeit vorübergehe. Darum so sagt mir den Traum, so kann ich merken, daß ihr auch die Deutung trefft.",
+      "zh": "你们若不将梦告诉我，只有一法待你们；因为你们预备了谎言乱语向我说，要等候时势改变。现在你们要将梦告诉我，因我知道你们能将梦的讲解告诉我。」",
+      "ja": "汝らもしその夢を我に示さずば汝らを處置するの法は只一のみ汝らは相語らひて虚言と妄誕なる詞を我前にのべて時の變るを待んとするなり汝ら今先その夢を我に示せ然すれば汝らがその解明をも我にしめし得ることを我しらんと"
+    },
+    {
+      "number": 10,
+      "ko": "갈대아인들이 왕 앞에 대답하여 이르되 세상에는 왕의 그 일을 보일 자가 한 사람도 없으므로 어떤 크고 권력 있는 왕이라도 이런 것으로 박수에게나 술객에게나 갈대아인들에게 물은 자가 없었나이다",
+      "en": "The astrologers answered the king, \"There is not a man on earth who can do what the king asks! No king, however great and mighty, has ever asked such a thing of any magician or enchanter or astrologer.",
+      "de": "Da antworteten die Chaldäer vor dem König und sprachen zu ihm: Es ist kein Mensch auf Erden, der sagen könne, was der König fordert. So ist auch kein König, wie groß oder mächtig er sei, der solches von irgend einem Sternseher, Weisen oder Chaldäer fordere.",
+      "zh": "迦勒底人在王面前回答说：「世上没有人能将王所问的事说出来；因为没有君王、大臣、掌权的向术士，或用法术的，或迦勒底人问过这样的事。",
+      "ja": "カルデヤ人等こたへて王の前に申しけるは世の中には王のその事を示し得る人一箇もなし是をもて王たる者主たる者君たる者等の中に斯る事を博士または法術士またはカルデヤ人に問たづねし者絶てあらざるなり"
+    },
+    {
+      "number": 11,
+      "ko": "왕께서 물으신 것은 어려운 일이라 육체와 함께 살지 아니하는 신들 외에는 왕 앞에 그것을 보일 자가 없나이다 한지라",
+      "en": "What the king asks is too difficult. No one can reveal it to the king except the gods, and they do not live among men.\"",
+      "de": "Denn was der König fordert, ist zu hoch, und ist auch sonst niemand, der es vor dem König sagen könne, ausgenommen die Götter, die bei den Menschen nicht wohnen.",
+      "zh": "王所问的事甚难。除了不与世人同居的神明，没有人在王面前能说出来。」",
+      "ja": "王の問たまふその事は甚だ難し肉身なる者と共に居ざる神々を除きては王の前にこれを示すことを得る者無るべしと"
+    },
+    {
+      "number": 12,
+      "ko": "왕이 이로 말미암아 진노하고 통분하여 바벨론의 모든 지혜자들을 다 죽이라 명령하니라",
+      "en": "This made the king so angry and furious that he ordered the execution of all the wise men of Babylon.",
+      "de": "Da ward der König sehr zornig und befahl, alle Weisen zu Babel umzubringen.",
+      "zh": "因此，王气忿忿地大发烈怒，吩咐灭绝巴比伦所有的哲士。",
+      "ja": "斯りしかば王怒を發し大に憤りバビロンの智者をことごとく殺せと命じたり"
+    },
+    {
+      "number": 13,
+      "ko": "왕의 명령이 내리매 지혜자들은 죽게 되었고 다니엘과 그의 친구들도 죽이려고 찾았더라",
+      "en": "So the decree was issued to put the wise men to death, and men were sent to look for Daniel and his friends to put them to death.",
+      "de": "Und das Urteil ging aus, daß man die Weisen töten sollte; und Daniel samt seinen Gesellen ward auch gesucht, daß man sie tötete.",
+      "zh": "于是命令发出，哲士将要见杀，人就寻找但以理和他的同伴，要杀他们。",
+      "ja": "即ち此命くだりければ智者等は殺されんとせり又ダニエルとその同僚をも殺さんともとめたり"
+    },
+    {
+      "number": 14,
+      "ko": "그 때에 왕의 근위대장 아리옥이 바벨론 지혜자들을 죽이러 나가매 다니엘이 명철하고 슬기로운 말로",
+      "en": "When Arioch, the commander of the king's guard, had gone out to put to death the wise men of Babylon, Daniel spoke to him with wisdom and tact.",
+      "de": "Da erwiderte Daniel klug und verständig dem Arioch, dem obersten Richter des Königs, welcher auszog, zu töten die Weisen zu Babel.",
+      "zh": "王的护卫长亚略出来，要杀巴比伦的哲士，但以理就用婉言回答他，",
+      "ja": "茲に王の侍衛の長アリオク、バビロンの智者等を殺さんとて出きたりければダニエル遠慮と智慧とをもて之に應答せり"
+    },
+    {
+      "number": 15,
+      "ko": "왕의 근위대장 아리옥에게 물어 이르되 왕의 명령이 어찌 그리 급하냐 하니 아리옥이 그 일을 다니엘에게 알리매",
+      "en": "He asked the king's officer, \"Why did the king issue such a harsh decree?\" Arioch then explained the matter to Daniel.",
+      "de": "Und er fing an und sprach zu des Königs Vogt, Arioch: Warum ist ein so strenges Urteil vom König ausgegangan? Und Arioch zeigte es dem Daniel an.",
+      "zh": "向王的护卫长亚略说：「王的命令为何这样紧急呢？」亚略就将情节告诉但以理。",
+      "ja": "すなはち王の高官アリオクに對へて言けるは王なにとて斯すみやかにこの命を下したまひしやとアリオクその事をダニエルに告しらせたれば"
+    },
+    {
+      "number": 16,
+      "ko": "다니엘이 들어가서 왕께 구하기를 시간을 주시면 왕에게 그 해석을 알려 드리리이다 하니라",
+      "en": "At this, Daniel went in to the king and asked for time, so that he might interpret the dream for him.",
+      "de": "Da ging Daniel hinein und bat den König, daß er ihm Frist gäbe, damit er die Deutung dem König sagen möchte.",
+      "zh": "但以理遂进去求王宽限，就可以将梦的讲解告诉王。",
+      "ja": "ダニエルいりて王に乞求めて言ふ暫くの時日を賜へ然ばその解明を王に奏せんと"
+    },
+    {
+      "number": 17,
+      "ko": "이에 다니엘이 자기 집으로 돌아가서 그 친구 하나냐와 미사엘과 아사랴에게 그 일을 알리고",
+      "en": "Then Daniel returned to his house and explained the matter to his friends Hananiah, Mishael and Azariah.",
+      "de": "Und Daniel ging heim und zeigte solches an seinen Gesellen, Hananja, Misael und Asarja,",
+      "zh": "但以理回到他的居所，将这事告诉他的同伴哈拿尼雅、米沙利、亚撒利雅，",
+      "ja": "斯てダニエルその家にかへりその同僚ハナニヤ、ミシヤエルおよびアザリヤにこの事を告しらせ"
+    },
+    {
+      "number": 18,
+      "ko": "하늘에 계신 하나님이 이 은밀한 일에 대하여 불쌍히 여기사 다니엘과 친구들이 바벨론의 다른 지혜자들과 함께 죽임을 당하지 않게 하시기를 그들로 하여금 구하게 하니라",
+      "en": "He urged them to plead for mercy from the God of heaven concerning this mystery, so that he and his friends might not be executed with the rest of the wise men of Babylon.",
+      "de": "daß sie den Gott des Himmels um Gnade bäten solches verborgenen Dinges halben, damit Daniel und seine Gesellen nicht samt den andern Weisen zu Babel umkämen.",
+      "zh": "要他们祈求天上的　神施怜悯，将这奥秘的事指明，免得但以理和他的同伴与巴比伦其余的哲士一同灭亡。",
+      "ja": "共にこの秘密につき天の神の憐憫を乞ひダニエルとその同僚等をしてその他のバビロンの智者とともに滅びさらしめんことを求めたりしが"
+    },
+    {
+      "number": 19,
+      "ko": "이에 이 은밀한 것이 밤에 환상으로 다니엘에게 나타나 보이매 다니엘이 하늘에 계신 하나님을 찬송하니라",
+      "en": "During the night the mystery was revealed to Daniel in a vision. Then Daniel praised the God of heaven",
+      "de": "Da ward Daniel solch verborgenes Ding durch ein Gesicht des Nachts offenbart.",
+      "zh": "这奥秘的事就在夜间异象中给但以理显明，但以理便称颂天上的　神。",
+      "ja": "ダニエルつひに夜の異象の中にこの秘密を示されければダニエル天の神を稱賛ふ"
+    },
+    {
+      "number": 20,
+      "ko": "다니엘이 말하여 이르되 영원부터 영원까지 하나님의 이름을 찬송할 것은 지혜와 능력이 그에게 있음이로다",
+      "en": "and said: \"Praise be to the name of God for ever and ever; wisdom and power are his.",
+      "de": "Darüber lobte Daniel den Gott des Himmels, fing an und sprach: Gelobt sei der Name Gottes von Ewigkeit zu Ewigkeit! denn sein ist beides, Weisheit und Stärke.",
+      "zh": "但以理说：「　神的名是应当称颂的！从亘古直到永远，因为智慧能力都属乎他。",
+      "ja": "即ちダニエル應へて言けるは永遠より永遠にいたるまでこの神の御名は讃まつるべきなり智慧と權能はこれが有なればなり"
+    },
+    {
+      "number": 21,
+      "ko": "그는 때와 계절을 바꾸시며 왕들을 폐하시고 왕들을 세우시며 지혜자에게 지혜를 주시고 총명한 자에게 지식을 주시는도다",
+      "en": "He changes times and seasons; he sets up kings and deposes them. He gives wisdom to the wise and knowledge to the discerning.",
+      "de": "Er ändert Zeit und Stunde; er setzt Könige ab und setzt Könige ein; er gibt den Weisen ihre Weisheit und den Verständigen ihren Verstand;",
+      "zh": "他改变时候、日期，废王，立王，将智慧赐与智慧人，将知识赐与聪明人。",
+      "ja": "彼は時と期とを變じ王を廢し王を立て智者に智慧を與へ賢者に知識を賜ふ"
+    },
+    {
+      "number": 22,
+      "ko": "그는 깊고 은밀한 일을 나타내시고 어두운 데에 있는 것을 아시며 또 빛이 그와 함께 있도다",
+      "en": "He reveals deep and hidden things; he knows what lies in darkness, and light dwells with him.",
+      "de": "er offenbart, was tief und verborgen ist; er weiß, was in der Finsternis liegt, denn bei ihm ist eitel Licht.",
+      "zh": "他显明深奥隐秘的事，知道暗中所有的，光明也与他同居。",
+      "ja": "彼は深妙秘密の事を顯し幽暗にあるところの者を知たまふまた光明彼の裏にあり"
+    },
+    {
+      "number": 23,
+      "ko": "나의 조상들의 하나님이여 주께서 이제 내게 지혜와 능력을 주시고 우리가 주께 구한 것을 내게 알게 하셨사오니 내가 주께 감사하고 주를 찬양하나이다 곧 주께서 왕의 그 일을 내게 보이셨나이다 하니라",
+      "en": "I thank and praise you, O God of my fathers: You have given me wisdom and power, you have made known to me what we asked of you, you have made known to us the dream of the king.\"",
+      "de": "Ich danke dir und lobe dich, Gott meiner Väter, der du mir Weisheit und Stärke verleihst und jetzt offenbart hast, darum wir dich gebeten haben; denn du hast uns des Königs Sache offenbart.",
+      "zh": "我列祖的　神啊，我感谢你，赞美你；因你将智慧才能赐给我，允准我们所求的，把王的事给我们指明。」",
+      "ja": "わが先祖等の神よ汝は我に智慧と權能を賜ひ今われらが汝に乞求めたるところの事を我にしめし給へば我感謝して汝を稱賛ふ即ち汝は王のかの事を我らに示したまへり"
+    },
+    {
+      "number": 24,
+      "ko": "이에 다니엘은 왕이 바벨론 지혜자들을 죽이라 명령한 아리옥에게로 가서 그에게 이같이 이르되 바벨론 지혜자들을 죽이지 말고 나를 왕의 앞으로 인도하라 그리하면 내가 그 해석을 왕께 알려 드리리라 하니",
+      "en": "Then Daniel went to Arioch, whom the king had appointed to execute the wise men of Babylon, and said to him, \"Do not execute the wise men of Babylon. Take me to the king, and I will interpret his dream for him.\"",
+      "de": "Da ging Daniel hinein zu Arioch, der vom König Befehl hatte, die Weisen zu Babel umzubringen, und sprach zu ihm also: Du sollst die Weisen zu Babel nicht umbringen, sondern führe mich hinein zum König, ich will dem König die Deutung sagen.",
+      "zh": "于是，但以理进去见亚略，就是王所派灭绝巴比伦哲士的，对他说：「不要灭绝巴比伦的哲士，求你领我到王面前，我要将梦的讲解告诉王。」",
+      "ja": "是においてダニエルは王がバビロンの智者等を殺すことを命じおけるアリオクの許にいたり即ちいりてこれに言けるはバビロンの智者等を殺す勿れ我を王の前に引いたれよ我その解明を王に奏上ぐべしと"
+    },
+    {
+      "number": 25,
+      "ko": "이에 아리옥이 다니엘을 데리고 급히 왕 앞에 들어가서 아뢰되 내가 사로잡혀 온 유다 자손 중에서 한 사람을 찾아내었나이다 그가 그 해석을 왕께 알려 드리리이다 하니라",
+      "en": "Arioch took Daniel to the king at once and said, \"I have found a man among the exiles from Judah who can tell the king what his dream means.\"",
+      "de": "Arioch brachte Daniel eilends hinein vor den König und sprach zu ihm also: Es ist einer gefunden unter den Gefangenen aus Juda, der dem König die Deutung sagen kann.",
+      "zh": "亚略就急忙将但以理领到王面前，对王说：「我在被掳的犹大人中遇见一人，他能将梦的讲解告诉王。」",
+      "ja": "アリオクすなはちダニエルを引て急ぎ王の前にいたり王にまうしけるは我ユダの俘囚人の中に一箇の人を得たり是者その解明を王にまうしあげん"
+    },
+    {
+      "number": 26,
+      "ko": "왕이 대답하여 벨드사살이라 이름한 다니엘에게 이르되 내가 꾼 꿈과 그 해석을 네가 능히 내게 알게 하겠느냐 하니",
+      "en": "The king asked Daniel (also called Belteshazzar), \"Are you able to tell me what I saw in my dream and interpret it?\"",
+      "de": "Der König antwortete und sprach zu Daniel, den sie Beltsazar hießen: Bist du, der mir den Traum, den ich gesehen habe, und seine Deutung anzeigen kann?",
+      "zh": "王问称为伯提沙撒的但以理说：「你能将我所做的梦和梦的讲解告诉我吗？」",
+      "ja": "王こたへてベルテシヤザルと名くるダニエルに言けるは汝は我が見たる夢とその解明とを我に知らすることを得るやと"
+    },
+    {
+      "number": 27,
+      "ko": "다니엘이 왕 앞에 대답하여 이르되 왕이 물으신 바 은밀한 것은 지혜자나 술객이나 박수나 점쟁이가 능히 왕께 보일 수 없으되",
+      "en": "Daniel replied, \"No wise man, enchanter, magician or diviner can explain to the king the mystery he has asked about,",
+      "de": "Daniel fing an vor dem König und sprach: Das verborgene Ding, das der König fordert von den Weisen, Gelehrten, Sterndeutern und Wahrsagern, steht in ihrem Vermögen nicht, dem König zu sagen.",
+      "zh": "但以理在王面前回答说：「王所问的那奥秘事，哲士、用法术的、术士、观兆的都不能告诉王，",
+      "ja": "ダニエルすなはち應へて王の前に言けるは王の問たまふ秘密は智者法術士博士卜筮師など之を王に奏上ぐることを得ず"
+    },
+    {
+      "number": 28,
+      "ko": "오직 은밀한 것을 나타내실 이는 하늘에 계신 하나님이시라 그가 느부갓네살 왕에게 후일에 될 일을 알게 하셨나이다 왕의 꿈 곧 왕이 침상에서 머리 속으로 받은 환상은 이러하니이다",
+      "en": "but there is a God in heaven who reveals mysteries. He has shown King Nebuchadnezzar what will happen in days to come. Your dream and the visions that passed through your mind as you lay on your bed are these:",
+      "de": "Aber es ist ein Gott im Himmel, der kann verborgene Dinge offenbaren; der hat dem König Nebukadnezar angezeigt, was in künftigen Zeiten geschehen soll.",
+      "zh": "只有一位在天上的　神能显明奥秘的事。他已将日后必有的事指示尼布甲尼撒王。你的梦和你在床上脑中的异象是这样：",
+      "ja": "然ど天に一の神ありて秘密をあらはし給ふ彼後の日に起らんところの事の如何なるかをネブカデネザル王にしらせたまふなり汝の夢汝が牀にありて想見たまひし汝の腦中の異象は是なり"
+    },
+    {
+      "number": 29,
+      "ko": "왕이여 왕이 침상에서 장래 일을 생각하실 때에 은밀한 것을 나타내시는 이가 장래 일을 왕에게 알게 하셨사오며",
+      "en": "\"As you were lying there, O king, your mind turned to things to come, and the revealer of mysteries showed you what is going to happen.",
+      "de": "Mit deinem Traum und deinem Gesichten, da du schliefest, verhielt sich's also: Du, König, dachtest auf deinem Bette, wie es doch hernach zugehen würde; und der, so verborgene Dinge offenbart, hat dir angezeigt, wie es gehen werde.",
+      "zh": "王啊，你在床上想到后来的事，那显明奥秘事的主把将来必有的事指示你。",
+      "ja": "王よ汝牀にいりし時將來の事の如何を想ひまはしたまひしが秘密を顯す者將來の事の如何を汝にしめし給へり"
+    },
+    {
+      "number": 30,
+      "ko": "내게 이 은밀한 것을 나타내심은 내 지혜가 모든 사람보다 낫기 때문이 아니라 오직 그 해석을 왕에게 알려서 왕이 마음으로 생각하던 것을 왕에게 알려 주려 하심이니이다",
+      "en": "As for me, this mystery has been revealed to me, not because I have greater wisdom than other living men, but so that you, O king, may know the interpretation and that you may understand what went through your mind.",
+      "de": "So ist mir solch verborgenes Ding offenbart, nicht durch meine Weisheit, als wäre sie größer denn aller, die da leben; sondern darum, daß dem König die Deutung angezeigt würde und du deines Herzens Gedanken erführest.",
+      "zh": "至于那奥秘的事显明给我，并非因我的智慧胜过一切活人，乃为使王知道梦的讲解和心里的思念。",
+      "ja": "我がこの示現を蒙れるは凡の生る者にまさりて我に智慧あるに由にあらず唯その解明を王に知しむる事ありて王のつひにその心に想ひたまひし事を知にいたり給はんがためなり"
+    },
+    {
+      "number": 31,
+      "ko": "왕이여 왕이 한 큰 신상을 보셨나이다 그 신상이 왕의 앞에 섰는데 크고 광채가 매우 찬란하며 그 모양이 심히 두려우니",
+      "en": "\"You looked, O king, and there before you stood a large statue--an enormous, dazzling statue, awesome in appearance.",
+      "de": "Du, König, sahst, und siehe, ein großes und hohes und sehr glänzendes Bild stand vor dir, das war schrecklich anzusehen.",
+      "zh": "「王啊，你梦见一个大像，这像甚高，极其光耀，站在你面前，形状甚是可怕。",
+      "ja": "王よ汝は一箇の巨なる像の汝の前に立るを見たまへり其像は大くしてその光輝は常ならずその形は畏ろしくあり"
+    },
+    {
+      "number": 32,
+      "ko": "그 우상의 머리는 순금이요 가슴과 두 팔은 은이요 배와 넓적다리는 놋이요",
+      "en": "The head of the statue was made of pure gold, its chest and arms of silver, its belly and thighs of bronze,",
+      "de": "Des Bildes Haupt war von feinem Golde, seine Brust und Arme waren von Silber, sein Bauch und seine Lenden waren von Erz,",
+      "zh": "这像的头是精金的，胸膛和膀臂是银的，肚腹和腰是铜的，",
+      "ja": "其像は頭は純金 胸と兩腕とは銀 腹と腿とは銅"
+    },
+    {
+      "number": 33,
+      "ko": "그 종아리는 쇠요 그 발은 얼마는 쇠요 얼마는 진흙이었나이다",
+      "en": "its legs of iron, its feet partly of iron and partly of baked clay.",
+      "de": "seine Schenkel waren Eisen, seine Füße waren eines Teils Eisen und eines Teils Ton.",
+      "zh": "腿是铁的，脚是半铁半泥的。",
+      "ja": "脛は鐵 脚は一分は鐵一分は泥土なり"
+    },
+    {
+      "number": 34,
+      "ko": "또 왕이 보신즉 손대지 아니한 돌이 나와서 신상의 쇠와 진흙의 발을 쳐서 부서뜨리매",
+      "en": "While you were watching, a rock was cut out, but not by human hands. It struck the statue on its feet of iron and clay and smashed them.",
+      "de": "Solches sahst du, bis daß ein Stein herabgerissen ward ohne Hände; der schlug das Bild an seine Füße, die Eisen und Ton waren, und zermalmte sie.",
+      "zh": "你观看，见有一块非人手凿出来的石头打在这像半铁半泥的脚上，把脚砸碎；",
+      "ja": "汝見て居たまひしに遂に一箇の石人手によらずして鑿れて出でその像の鐵と泥土との脚を撃てこれを碎けり"
+    },
+    {
+      "number": 35,
+      "ko": "그 때에 쇠와 진흙과 놋과 은과 금이 다 부서져 여름 타작 마당의 겨 같이 되어 바람에 불려 간 곳이 없었고 우상을 친 돌은 태산을 이루어 온 세계에 가득하였나이다",
+      "en": "Then the iron, the clay, the bronze, the silver and the gold were broken to pieces at the same time and became like chaff on a threshing floor in the summer. The wind swept them away without leaving a trace. But the rock that struck the statue became a huge mountain and filled the whole earth.",
+      "de": "Da wurden miteinander zermalmt das Eisen, Ton, Erz, Silber und Gold und wurden wie eine Spreu auf der Sommertenne, und der Wind verwehte sie, daß man sie nirgends mehr finden konnte. Der Stein aber, der das Bild zerschlug, ward ein großer Berg, daß er die ganze Welt füllte.",
+      "zh": "于是金、银、铜、铁、泥都一同砸得粉碎，成如夏天禾场上的糠秕，被风吹散，无处可寻。打碎这像的石头变成一座大山，充满天下。",
+      "ja": "斯りしかばその鐵と泥土と銅と銀と金とは皆ともに碎けて夏の禾場の糠のごとくに成り風に吹はらはれて止るところ無りき而してその像を撃たる石は大なる山となりて全地に充り"
+    },
+    {
+      "number": 36,
+      "ko": "그 꿈이 이러한즉 내가 이제 그 해석을 왕 앞에 아뢰리이다",
+      "en": "\"This was the dream, and now we will interpret it to the king.",
+      "de": "Das ist der Traum. Nun wollen wir die Deutung vor dem König sagen.",
+      "zh": "「这就是那梦；我们在王面前要讲解那梦。",
+      "ja": "是その夢なり我らその解明を王の前に陳ん"
+    },
+    {
+      "number": 37,
+      "ko": "왕이여 왕은 여러 왕들 중의 왕이시라 하늘의 하나님이 나라와 권세와 능력과 영광을 왕에게 주셨고",
+      "en": "You, O king, are the king of kings. The God of heaven has given you dominion and power and might and glory;",
+      "de": "Du, König, bist ein König aller Könige, dem der Gott des Himmels Königreich, Macht, Stärke und Ehre gegeben hat",
+      "zh": "王啊，你是诸王之王。天上的　神已将国度、权柄、能力、尊荣都赐给你。",
+      "ja": "王よ汝は諸王の王にいませり即ち天の神汝に國と權威と能力と尊貴とを賜へり"
+    },
+    {
+      "number": 38,
+      "ko": "사람들과 들짐승과 공중의 새들, 어느 곳에 있는 것을 막론하고 그것들을 왕의 손에 넘기사 다 다스리게 하셨으니 왕은 곧 그 금 머리니이다",
+      "en": "in your hands he has placed mankind and the beasts of the field and the birds of the air. Wherever they live, he has made you ruler over them all. You are that head of gold.",
+      "de": "und alles, da Leute wohnen, dazu die Tiere auf dem Felde und die Vögel unter dem Himmel in deine Hände gegeben und dir über alles Gewalt verliehen hat. Du bist das goldene Haupt.",
+      "zh": "凡世人所住之地的走兽，并天空的飞鸟，他都交付你手，使你掌管这一切。你就是那金头。",
+      "ja": "また人の子等野の獣畜および天空の鳥は何處にをる者にもあれ皆これを汝の手に與へて汝にこれをことごとく治めしめたまふ汝はすなはち此金の頭なり"
+    },
+    {
+      "number": 39,
+      "ko": "왕을 뒤이어 왕보다 못한 다른 나라가 일어날 것이요 셋째로 또 놋 같은 나라가 일어나서 온 세계를 다스릴 것이며",
+      "en": "\"After you, another kingdom will rise, inferior to yours. Next, a third kingdom, one of bronze, will rule over the whole earth.",
+      "de": "Nach dir wird ein anderes Königreich aufkommen, geringer denn deins. Darnach das dritte Königreich, das ehern ist, welches wird über alle Lande herrschen.",
+      "zh": "在你以后必另兴一国，不及于你；又有第三国，就是铜的，必掌管天下。",
+      "ja": "汝の後に汝に劣る一の國おこらんまた第三に銅の國おこりて全世界を治めん"
+    },
+    {
+      "number": 40,
+      "ko": "넷째 나라는 강하기가 쇠 같으리니 쇠는 모든 물건을 부서뜨리고 이기는 것이라 쇠가 모든 것을 부수는 것 같이 그 나라가 뭇 나라를 부서뜨리고 찧을 것이며",
+      "en": "Finally, there will be a fourth kingdom, strong as iron--for iron breaks and smashes everything--and as iron breaks things to pieces, so it will crush and break all the others.",
+      "de": "Und das vierte wird hart sein wie Eisen; denn gleichwie Eisen alles zermalmt und zerschlägt, ja, wie Eisen alles zerbricht, also wird es auch diese alle zermalmen und zerbrechen.",
+      "zh": "第四国，必坚壮如铁，铁能打碎克制百物，又能压碎一切，那国也必打碎压制列国。",
+      "ja": "第四の國は堅きこと鐵のごとくならん鐵は能く萬の物を毀ち碎くなり 鐵の是等をことごとく打碎くがごとく其國は毀ちかつ碎くことをせん"
+    },
+    {
+      "number": 41,
+      "ko": "왕께서 그 발과 발가락이 얼마는 토기장이의 진흙이요 얼마는 쇠인 것을 보셨은즉 그 나라가 나누일 것이며 왕께서 쇠와 진흙이 섞인 것을 보셨은즉 그 나라가 쇠 같은 든든함이 있을 것이나",
+      "en": "Just as you saw that the feet and toes were partly of baked clay and partly of iron, so this will be a divided kingdom; yet it will have some of the strength of iron in it, even as you saw iron mixed with clay.",
+      "de": "Daß du aber gesehen hast die Füße und Zehen eines Teils Ton und eines Teils Eisen: das wird ein zerteiltes Königreich sein; doch wird von des Eisens Art darin bleiben, wie du es denn gesehen hast Eisen mit Ton vermengt.",
+      "zh": "你既见像的脚和脚指头，一半是窑匠的泥，一半是铁，那国将来也必分开。你既见铁与泥搀杂，那国也必有铁的力量。",
+      "ja": "汝その足と足の趾を見たまひしに一分は陶人の泥土一分は鐵なりければその國は分裂たる者ならん又汝鐵と粘土との混和たるを見たまひたればその國は鐵のごとく強からん"
+    },
+    {
+      "number": 42,
+      "ko": "그 발가락이 얼마는 쇠요 얼마는 진흙인즉 그 나라가 얼마는 든든하고 얼마는 부서질 만할 것이며",
+      "en": "As the toes were partly iron and partly clay, so this kingdom will be partly strong and partly brittle.",
+      "de": "Und daß die Zehen an seinen Füßen eines Teils Eisen und eines Teils Ton sind: wird's zum Teil ein starkes und zum Teil ein schwaches Reich sein.",
+      "zh": "那脚指头，既是半铁半泥，那国也必半强半弱。",
+      "ja": "その足の趾の一分は鐵一分は泥土なりしごとくその國は強きところもあり脆きところも有ん"
+    },
+    {
+      "number": 43,
+      "ko": "왕께서 쇠와 진흙이 섞인 것을 보셨은즉 그들이 다른 민족과 서로 섞일 것이나 그들이 피차에 합하지 아니함이 쇠와 진흙이 합하지 않음과 같으리이다",
+      "en": "And just as you saw the iron mixed with baked clay, so the people will be a mixture and will not remain united, any more than iron mixes with clay.",
+      "de": "Und daß du gesehen hast Eisen und Ton vermengt: werden sie sich wohl nach Menschengeblüt untereinander mengen, aber sie werden doch nicht aneinander halten, gleichwie sich Eisen und Ton nicht mengen läßt.",
+      "zh": "你既见铁与泥搀杂，那国民也必与各种人搀杂，却不能彼此相合，正如铁与泥不能相合一样。",
+      "ja": "汝が鐵と粘土との混りたるを見たまひしごとく其等は人草の種子と混らん然ど鐵と泥土との相合せざるごとく彼と此と相合すること有じ"
+    },
+    {
+      "number": 44,
+      "ko": "이 여러 왕들의 시대에 하늘의 하나님이 한 나라를 세우시리니 이것은 영원히 망하지도 아니할 것이요 그 국권이 다른 백성에게로 돌아가지도 아니할 것이요 도리어 이 모든 나라를 쳐서 멸망시키고 영원히 설 것이라",
+      "en": "\"In the time of those kings, the God of heaven will set up a kingdom that will never be destroyed, nor will it be left to another people. It will crush all those kingdoms and bring them to an end, but it will itself endure forever.",
+      "de": "Aber zur Zeit solcher Königreiche wird der Gott des Himmels ein Königreich aufrichten, das nimmermehr zerstört wird; und sein Königreich wird auf kein ander Volk kommen. Es wird alle diese Königreiche zermalmen und verstören; aber es selbst wird ewiglich bleiben;",
+      "zh": "当那列王在位的时候，天上的　神必另立一国，永不败坏，也不归别国的人，却要打碎灭绝那一切国，这国必存到永远。",
+      "ja": "この王等の日に天の神一の國を建たまはん是は何時までも滅ぶること無らん此國は他の民に歸せず却てこの諸の國を打破りてこれを滅せん是は立ちて永遠にいたらん"
+    },
+    {
+      "number": 45,
+      "ko": "손대지 아니한 돌이 산에서 나와서 쇠와 놋과 진흙과 은과 금을 부서뜨린 것을 왕께서 보신 것은 크신 하나님이 장래 일을 왕께 알게 하신 것이라 이 꿈은 참되고 이 해석은 확실하니이다 하니",
+      "en": "This is the meaning of the vision of the rock cut out of a mountain, but not by human hands--a rock that broke the iron, the bronze, the clay, the silver and the gold to pieces. \"The great God has shown the king what will take place in the future. The dream is true and the interpretation is trustworthy.\"",
+      "de": "wie du denn gesehen hast einen Stein, ohne Hände vom Berge herabgerissen, der das Eisen, Erz, Ton, Silber und Gold zermalmte. Also hat der große Gott dem König gezeigt, wie es hernach gehen werde; und der Traum ist gewiß, und die Deutung ist recht.",
+      "zh": "你既看见非人手凿出来的一块石头从山而出，打碎金、银、铜、铁、泥，那就是至大的　神把后来必有的事给王指明。这梦准是这样，这讲解也是确实的。」",
+      "ja": "かの石の人手によらずして山より鑿れて出で鐵と銅と泥土と銀と金とを打碎きしを汝が見たまひしは即ちこの事なり大御神この後に起らんところの事を王にしらせたまへるなりその夢は眞にしてこの解明は確なり"
+    },
+    {
+      "number": 46,
+      "ko": "이에 느부갓네살 왕이 엎드려 다니엘에게 절하고 명하여 예물과 향품을 그에게 주게 하니라",
+      "en": "Then King Nebuchadnezzar fell prostrate before Daniel and paid him honor and ordered that an offering and incense be presented to him.",
+      "de": "Da fiel der König Nebukadnezar auf sein Angesicht und betete an vor dem Daniel und befahl, man sollt ihm Speisopfer und Räuchopfer tun.",
+      "zh": "当时，尼布甲尼撒王俯伏在地，向但以理下拜，并且吩咐人给他奉上供物和香品。",
+      "ja": "是においてネブカデネザル王は俯伏てダニエルを拝し禮物と香をこれに献ぐることを命じたり"
+    },
+    {
+      "number": 47,
+      "ko": "왕이 대답하여 다니엘에게 이르되 너희 하나님은 참으로 모든 신들의 신이시요 모든 왕의 주재시로다 네가 능히 이 은밀한 것을 나타내었으니 네 하나님은 또 은밀한 것을 나타내시는 이시로다",
+      "en": "The king said to Daniel, \"Surely your God is the God of gods and the Lord of kings and a revealer of mysteries, for you were able to reveal this mystery.\"",
+      "de": "Und der König antwortete Daniel und sprach: Es ist kein Zweifel, euer Gott ist ein Gott über alle Götter und ein HERR über alle Könige, der da kann verborgene Dinge offenbaren, weil du dies verborgene Ding hast können offenbaren.",
+      "zh": "王对但以理说：「你既能显明这奥秘的事，你们的　神诚然是万神之神、万王之主，又是显明奥秘事的。」",
+      "ja": "而して王こたへてダニエルに言けるは汝がこの秘密を明かに示すことを得たるを見れば誠に汝らの神は神等の神王等の主にして能く秘密を示す者なりと"
+    },
+    {
+      "number": 48,
+      "ko": "왕이 이에 다니엘을 높여 귀한 선물을 많이 주며 그를 세워 바벨론 온 지방을 다스리게 하며 또 바벨론 모든 지혜자의 어른을 삼았으며",
+      "en": "Then the king placed Daniel in a high position and lavished many gifts on him. He made him ruler over the entire province of Babylon and placed him in charge of all its wise men.",
+      "de": "Und der König erhöhte Daniel und gab ihm große und viele Geschenke und machte ihn zum Fürsten über die ganze Landschaft Babel und setzte ihn zum Obersten über alle Weisen zu Babel.",
+      "zh": "于是王高抬但以理，赏赐他许多上等礼物，派他管理巴比伦全省，又立他为总理，掌管巴比伦的一切哲士。",
+      "ja": "かくて王はダこエルに高位を授け種々の大なる賜物を與へてこれをバビロン全州の總督となしまたバビロンの智者等を統る者の首長となせり"
+    },
+    {
+      "number": 49,
+      "ko": "왕이 또 다니엘의 요구대로 사드락과 메삭과 아벳느고를 세워 바벨론 지방의 일을 다스리게 하였고 다니엘은 왕궁에 있었더라",
+      "en": "Moreover, at Daniel's request the king appointed Shadrach, Meshach and Abednego administrators over the province of Babylon, while Daniel himself remained at the royal court.",
+      "de": "Und Daniel bat vom König, daß er über die Ämter der Landschaft Babel setzen möchte Sadrach, Mesach und Abed-Nego; und er, Daniel blieb bei dem König am Hofe.",
+      "zh": "但以理求王，王就派沙得拉、米煞、亚伯尼歌管理巴比伦省的事务，只是但以理常在朝中侍立。",
+      "ja": "王またダニエルの願によりてシヤデラクとメシヤクとアベデネゴを擧てバビロン州の事務をつかさどらしめたりダニエルは王の宮にをる"
+    }
+  ]
+}

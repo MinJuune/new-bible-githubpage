@@ -1,0 +1,230 @@
+{
+  "book": "Proverbs",
+  "chapter": 25,
+  "verses": [
+    {
+      "number": 1,
+      "ko": "이것도 솔로몬의 잠언이요 유다 왕 히스기야의 신하들이 편집한 것이니라",
+      "en": "These are more proverbs of Solomon, copied by the men of Hezekiah king of Judah:",
+      "de": "Dies sind auch Sprüche Salomos, die hinzugesetzt haben die Männer Hiskias, des Königs in Juda.",
+      "zh": "以下也是所罗门的箴言，是犹大王希西家的人所誊录的。",
+      "ja": "此等もまたソロモンの箴言なり ユダの王ヒゼキヤに屬せる人々これを輯めたり"
+    },
+    {
+      "number": 2,
+      "ko": "일을 숨기는 것은 하나님의 영화요 일을 살피는 것은 왕의 영화니라",
+      "en": "It is the glory of God to conceal a matter; to search out a matter is the glory of kings.",
+      "de": "Es ist Gottes Ehre, eine Sache verbergen; aber der Könige Ehre ist's, eine Sache zu erforschen.",
+      "zh": "将事隐秘乃　神的荣耀； 将事察清乃君王的荣耀。",
+      "ja": "事を隱すは神の榮譽なり 事を窮むるは王の榮譽なり"
+    },
+    {
+      "number": 3,
+      "ko": "하늘의 높음과 땅의 깊음 같이 왕의 마음은 헤아릴 수 없느니라",
+      "en": "As the heavens are high and the earth is deep, so the hearts of kings are unsearchable.",
+      "de": "Der Himmel ist hoch und die Erde tief; aber der Könige Herz ist unerforschlich.",
+      "zh": "天之高，地之厚， 君王之心也测不透。",
+      "ja": "天の高さと地の深さと 王たる者の心とは測るべからず"
+    },
+    {
+      "number": 4,
+      "ko": "은에서 찌꺼기를 제하라 그리하면 장색의 쓸 만한 그릇이 나올 것이요",
+      "en": "Remove the dross from the silver, and out comes material for the silversmith;",
+      "de": "Man tue den Schaum vom Silber, so wird ein reines Gefäß daraus.",
+      "zh": "除去银子的渣滓就有银子出来， 银匠能以做器皿。",
+      "ja": "銀より渣滓を除け さらば銀工の用ふべき器いでん"
+    },
+    {
+      "number": 5,
+      "ko": "왕 앞에서 악한 자를 제하라 그리하면 그의 왕위가 의로 말미암아 견고히 서리라",
+      "en": "remove the wicked from the king's presence, and his throne will be established through righteousness.",
+      "de": "Man tue den Gottlosen hinweg vor dem König, so wird sein Thron mit Gerechtigkeit befestigt.",
+      "zh": "除去王面前的恶人， 国位就靠公义坚立。",
+      "ja": "王の前より惡者をのぞけ 然ばその位義によりて堅く立ん"
+    },
+    {
+      "number": 6,
+      "ko": "왕 앞에서 스스로 높은 체하지 말며 대인들의 자리에 서지 말라",
+      "en": "Do not exalt yourself in the king's presence, and do not claim a place among great men;",
+      "de": "Prange nicht vor dem König und tritt nicht an den Ort der Großen.",
+      "zh": "不要在王面前妄自尊大； 不要在大人的位上站立。",
+      "ja": "王の前に自ら高ぶることなかれ 貴人の場に立つことなかれ"
+    },
+    {
+      "number": 7,
+      "ko": "이는 사람이 네게 이리로 올라오라고 말하는 것이 네 눈에 보이는 귀인 앞에서 저리로 내려가라고 말하는 것보다 나음이니라",
+      "en": "it is better for him to say to you, \"Come up here,\" than for him to humiliate you before a nobleman. What you have seen with your eyes",
+      "de": "Denn es ist dir besser, daß man zu dir sage: Tritt hier herauf! als daß du vor dem Fürsten erniedrigt wirst, daß es deine Augen sehen müssen.",
+      "zh": "宁可有人说：请你上来， 强如在你觐见的王子面前叫你退下。",
+      "ja": "なんぢが目に見る王の前にて下にさげらるるよりは ここに上れといはるること愈れり"
+    },
+    {
+      "number": 8,
+      "ko": "너는 서둘러 나가서 다투지 말라 마침내 네가 이웃에게서 욕을 보게 될 때에 네가 어찌할 줄을 알지 못할까 두려우니라",
+      "en": "do not bring hastily to court, for what will you do in the end if your neighbor puts you to shame?",
+      "de": "Fahre nicht bald heraus, zu zanken; denn was willst du hernach machen, wenn dich dein Nächster beschämt hat?",
+      "zh": "不要冒失出去与人争竞， 免得至终被他羞辱， 你就不知道怎样行了。",
+      "ja": "汝かろがろしく出でて爭ふことなかれ 恐くは終にいたりて汝の鄰に辱しめられん その時なんぢ如何になさんとするか"
+    },
+    {
+      "number": 9,
+      "ko": "너는 이웃과 다투거든 변론만 하고 남의 은밀한 일은 누설하지 말라",
+      "en": "If you argue your case with a neighbor, do not betray another man's confidence,",
+      "de": "Führe deine Sache mit deinem Nächsten, und offenbare nicht eines andern Heimlichkeit,",
+      "zh": "你与邻舍争讼， 要与他一人辩论， 不可泄漏人的密事，",
+      "ja": "なんぢ鄰と爭ふことあらば只これと爭へ 人の密事を洩すなかれ"
+    },
+    {
+      "number": 10,
+      "ko": "듣는 자가 너를 꾸짖을 터이요 또 네게 대한 악평이 네게서 떠나지 아니할까 두려우니라",
+      "en": "or he who hears it may shame you and you will never lose your bad reputation.",
+      "de": "auf daß nicht übel von dir spreche, der es hört, und dein böses Gerücht nimmer ablasse.",
+      "zh": "恐怕听见的人骂你， 你的臭名就难以脱离。",
+      "ja": "恐くは聞者なんぢを卑しめん 汝そしられて止ざらん"
+    },
+    {
+      "number": 11,
+      "ko": "경우에 합당한 말은 아로새긴 은 쟁반에 금 사과니라",
+      "en": "A word aptly spoken is like apples of gold in settings of silver.",
+      "de": "Ein Wort geredet zu seiner Zeit, ist wie goldene Äpfel auf silbernen Schalen.",
+      "zh": "一句话说得合宜， 就如金苹果在银网子里。",
+      "ja": "機にかなひて語る言は銀の彫刻物に金の林檎を嵌たるが如し"
+    },
+    {
+      "number": 12,
+      "ko": "슬기로운 자의 책망은 청종하는 귀에 금 고리와 정금 장식이니라",
+      "en": "Like an earring of gold or an ornament of fine gold is a wise man's rebuke to a listening ear.",
+      "de": "Wer einem Weisen gehorcht, der ihn straft, das ist wie ein goldenes Stirnband und goldenes Halsband.",
+      "zh": "智慧人的劝戒，在顺从的人耳中， 好像金耳环和精金的妆饰。",
+      "ja": "智慧をもて譴むる者の之をきく者の耳におけることは 金の耳環と精金の飾のごとし"
+    },
+    {
+      "number": 13,
+      "ko": "충성된 사자는 그를 보낸 이에게 마치 추수하는 날에 얼음 냉수 같아서 능히 그 주인의 마음을 시원하게 하느니라",
+      "en": "Like the coolness of snow at harvest time is a trustworthy messenger to those who send him; he refreshes the spirit of his masters.",
+      "de": "Wie die Kühle des Schnees zur Zeit der Ernte, so ist ein treuer Bote dem, der ihn gesandt hat, und labt seines Herrn Seele.",
+      "zh": "忠信的使者叫差他的人心里舒畅， 就如在收割时有冰雪的凉气。",
+      "ja": "忠信なる使者は之を遣す者におけること穡收の日に冷かなる雪あるがごとし 能その主の心を喜ばしむ"
+    },
+    {
+      "number": 14,
+      "ko": "선물한다고 거짓 자랑하는 자는 비 없는 구름과 바람 같으니라",
+      "en": "Like clouds and wind without rain is a man who boasts of gifts he does not give.",
+      "de": "Wer viel verspricht und hält nicht, der ist wie Wolken und Wind ohne Regen.",
+      "zh": "空夸赠送礼物的， 好像无雨的风云。",
+      "ja": "おくりものすと偽りて誇る人は雨なき雲風の如し"
+    },
+    {
+      "number": 15,
+      "ko": "오래 참으면 관원도 설득할 수 있나니 부드러운 혀는 뼈를 꺾느니라",
+      "en": "Through patience a ruler can be persuaded, and a gentle tongue can break a bone.",
+      "de": "Durch Geduld wird ein Fürst versöhnt, und eine linde Zunge bricht die Härtigkeit.",
+      "zh": "恒常忍耐可以劝动君王； 柔和的舌头能折断骨头。",
+      "ja": "怒を緩くすれば君も言を容る 柔かなる舌は骨を折く"
+    },
+    {
+      "number": 16,
+      "ko": "너는 꿀을 보거든 족하리만큼 먹으라 과식함으로 토할까 두려우니라",
+      "en": "If you find honey, eat just enough--too much of it, and you will vomit.",
+      "de": "Findest du Honig, so iß davon, so viel dir genug ist, daß du nicht zu satt wirst und speiest ihn aus.",
+      "zh": "你得了蜜吗？只可吃够而已， 恐怕你过饱就呕吐出来。",
+      "ja": "なんぢ蜜を得るか 惟これを足る程に食へ 恐くは食ひ過して之を吐出さん"
+    },
+    {
+      "number": 17,
+      "ko": "너는 이웃집에 자주 다니지 말라 그가 너를 싫어하며 미워할까 두려우니라",
+      "en": "Seldom set foot in your neighbor's house--too much of you, and he will hate you.",
+      "de": "Entzieh deinen Fuß vom Hause deines Nächsten; er möchte dein überdrüssig und dir gram werden.",
+      "zh": "你的脚要少进邻舍的家， 恐怕他厌烦你，恨恶你。",
+      "ja": "なんぢの足を鄰の家にしげくするなかれ 恐くは彼なんぢを厭ひ惡まん"
+    },
+    {
+      "number": 18,
+      "ko": "자기의 이웃을 쳐서 거짓 증거하는 사람은 방망이요 칼이요 뾰족한 화살이니라",
+      "en": "Like a club or a sword or a sharp arrow is the man who gives false testimony against his neighbor.",
+      "de": "Wer wider seinen Nächsten falsch Zeugnis redet, der ist ein Spieß, Schwert und scharfer Pfeil.",
+      "zh": "作假见证陷害邻舍的， 就是大槌，是利刀，是快箭。",
+      "ja": "その鄰に敵して虚偽の證をたつる人は斧刃または利き箭のごとし"
+    },
+    {
+      "number": 19,
+      "ko": "환난 날에 진실하지 못한 자를 의뢰하는 것은 부러진 이와 위골된 발 같으니라",
+      "en": "Like a bad tooth or a lame foot is reliance on the unfaithful in times of trouble.",
+      "de": "Die Hoffnung auf einen Treulosen zur Zeit der Not ist wie ein fauler Zahn und gleitender Fuß.",
+      "zh": "患难时倚靠不忠诚的人， 好像破坏的牙，错骨缝的脚。",
+      "ja": "艱難に遇ふとき忠實ならぬ者を賴むは惡しき歯または跛たる足を恃むがごとし"
+    },
+    {
+      "number": 20,
+      "ko": "마음이 상한 자에게 노래하는 것은 추운 날에 옷을 벗음 같고 소다 위에 식초를 부음 같으니라",
+      "en": "Like one who takes away a garment on a cold day, or like vinegar poured on soda, is one who sings songs to a heavy heart.",
+      "de": "Wer einem betrübten Herzen Lieder singt, das ist, wie wenn einer das Kleid ablegt am kalten Tage, und wie Essig auf der Kreide.",
+      "zh": "对伤心的人唱歌， 就如冷天脱衣服， 又如硷上倒醋。",
+      "ja": "心の傷める人の前に歌をうたふは寒き日に衣をぬぐが如く 曹達のうへに酢を注ぐが如し"
+    },
+    {
+      "number": 21,
+      "ko": "네 원수가 배고파하거든 음식을 먹이고 목말라하거든 물을 마시게 하라",
+      "en": "If your enemy is hungry, give him food to eat; if he is thirsty, give him water to drink.",
+      "de": "Hungert deinen Feind, so speise ihn mit Brot; dürstet ihn, so tränke ihn mit Wasser.",
+      "zh": "你的仇敌若饿了，就给他饭吃； 若渴了，就给他水喝；",
+      "ja": "なんぢの仇もし饑ゑなば之に糧をくらはせ もし渇かば之に水を飮ませよ"
+    },
+    {
+      "number": 22,
+      "ko": "그리 하는 것은 핀 숯을 그의 머리에 놓는 것과 일반이요 여호와께서 네게 갚아 주시리라",
+      "en": "In doing this, you will heap burning coals on his head, and the LORD will reward you.",
+      "de": "Denn du wirst feurige Kohlen auf sein Haupt häufen, und der HERR wird dir's vergelten.",
+      "zh": "因为，你这样行就是把炭火堆在他的头上； 耶和华也必赏赐你。",
+      "ja": "なんぢ斯するは火をこれが首に積むなり ヱホバなんぢに報いたまふべし"
+    },
+    {
+      "number": 23,
+      "ko": "북풍이 비를 일으킴 같이 참소하는 혀는 사람의 얼굴에 분을 일으키느니라",
+      "en": "As a north wind brings rain, so a sly tongue brings angry looks.",
+      "de": "Der Nordwind bringt Ungewitter, und die heimliche Zunge macht saures Angesicht.",
+      "zh": "北风生雨， 谗谤人的舌头也生怒容。",
+      "ja": "北風は雨をおこし かげごとをいふ舌は人の顔をいからす"
+    },
+    {
+      "number": 24,
+      "ko": "다투는 여인과 함께 큰 집에서 사는 것보다 움막에서 혼자 사는 것이 나으니라",
+      "en": "Better to live on a corner of the roof than share a house with a quarrelsome wife.",
+      "de": "Es ist besser, im Winkel auf dem Dach sitzen denn bei einem zänkischen Weibe in einem Haus beisammen.",
+      "zh": "宁可住在房顶的角上， 不在宽阔的房屋与争吵的妇人同住。",
+      "ja": "爭ふ婦と偕に室に居らんより屋蓋の隅にをるは宜し"
+    },
+    {
+      "number": 25,
+      "ko": "먼 땅에서 오는 좋은 기별은 목마른 사람에게 냉수와 같으니라",
+      "en": "Like cold water to a weary soul is good news from a distant land.",
+      "de": "Eine gute Botschaft aus fernen Landen ist wie kalt Wasser einer durstigen Seele.",
+      "zh": "有好消息从远方来， 就如拿凉水给口渴的人喝。",
+      "ja": "遠き國よりきたる好き消息は渇きたる人における冷かなる水のごとし"
+    },
+    {
+      "number": 26,
+      "ko": "의인이 악인 앞에 굴복하는 것은 우물이 흐려짐과 샘이 더러워짐과 같으니라",
+      "en": "Like a muddied spring or a polluted well is a righteous man who gives way to the wicked.",
+      "de": "Ein Gerechter, der vor einem Gottlosen fällt, ist wie ein getrübter Brunnen und eine verderbte Quelle.",
+      "zh": "义人在恶人面前退缩， 好像趟浑之泉，弄浊之井。",
+      "ja": "義者の惡者の前に服するは井の濁れるがごとく泉の汚れたるがごとし"
+    },
+    {
+      "number": 27,
+      "ko": "꿀을 많이 먹는 것이 좋지 못하고 자기의 영예를 구하는 것이 헛되니라",
+      "en": "It is not good to eat too much honey, nor is it honorable to seek one's own honor.",
+      "de": "Wer zuviel Honig ißt, das ist nicht gut; und wer schwere Dinge erforscht, dem wird's zu schwer.",
+      "zh": "吃蜜过多是不好的； 考究自己的荣耀也是可厌的。",
+      "ja": "蜜をおほく食ふは善らず 人おのれの榮譽をもとむるは榮譽にあらず"
+    },
+    {
+      "number": 28,
+      "ko": "자기의 마음을 제어하지 아니하는 자는 성읍이 무너지고 성벽이 없는 것과 같으니라",
+      "en": "Like a city whose walls are broken down is a man who lacks self-control.",
+      "de": "Ein Mann, der seinen Geist nicht halten kann, ist wie eine offene Stadt ohne Mauern.",
+      "zh": "人不制伏自己的心， 好像毁坏的城邑没有墙垣。",
+      "ja": "おのれの心を制へざる人は石垣なき壞れたる城のごとし"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "book": "Joshua",
+  "chapter": 20,
+  "verses": [
+    {
+      "number": 1,
+      "ko": "여호와께서 여호수아에게 말씀하여 이르시되",
+      "en": "Then the LORD said to Joshua:",
+      "de": "Und der HERR redete mit Josua und sprach:",
+      "zh": "耶和华晓谕约书亚说：",
+      "ja": "茲にヱホバ、ヨシユアに告て言たまひけるは"
+    },
+    {
+      "number": 2,
+      "ko": "이스라엘 자손에게 말하여 이르기를 내가 모세를 통하여 너희에게 말한 도피성들을 너희를 위해 정하여",
+      "en": "\"Tell the Israelites to designate the cities of refuge, as I instructed you through Moses,",
+      "de": "Sage den Kindern Israel: Gebt unter euch Freistädte, davon ich durch Mose euch gesagt habe,",
+      "zh": "「你吩咐以色列人说：你们要照着我借摩西所晓谕你们的，为自己设立逃城，",
+      "ja": "汝イスラエルの子孫に告て言へ汝等モーセによりて我が汝らに語りおきし逃遁の邑を擇び定め"
+    },
+    {
+      "number": 3,
+      "ko": "부지중에 실수로 사람을 죽인 자를 그리로 도망하게 하라 이는 너희를 위해 피의 보복자를 피할 곳이니라",
+      "en": "so that anyone who kills a person accidentally and unintentionally may flee there and find protection from the avenger of blood.",
+      "de": "dahin fliehen möge ein Totschläger, der eine Seele unversehens und unwissend schlägt, daß sie unter euch frei seien von dem Bluträcher.",
+      "zh": "使那无心而误杀人的，可以逃到那里。这些城可以作你们逃避报血仇人的地方。",
+      "ja": "誤りて知ずに人を殺せる者を其處に逃れしめよ是は汝らが仇打する者を避て逃るべき處なり"
+    },
+    {
+      "number": 4,
+      "ko": "이 성읍들 중의 하나에 도피하는 자는 그 성읍에 들어가는 문 어귀에 서서 그 성읍의 장로들의 귀에 자기의 사건을 말할 것이요 그들은 그를 성읍에 받아들여 한 곳을 주어 자기들 중에 거주하게 하고",
+      "en": "\"When he flees to one of these cities, he is to stand in the entrance of the city gate and state his case before the elders of that city. Then they are to admit him into their city and give him a place to live with them.",
+      "de": "Und der da flieht zu der Städte einer, soll stehen draußen vor der Stadt Tor und vor den Ältesten der Stadt seine Sache ansagen; so sollen sie ihn zu sich in die Stadt nehmen und ihm Raum geben, daß er bei ihnen wohne.",
+      "zh": "那杀人的要逃到这些城中的一座城，站在城门口，将他的事情说给城内的长老们听。他们就把他收进城里，给他地方，使他住在他们中间。",
+      "ja": "斯る者は是等の邑の一に逃れゆき邑の門の入口に立てその邑の長老等の耳にその事情を述べし然る時は彼ら之をその邑に受いれ處を與へて己の中に住しむべし"
+    },
+    {
+      "number": 5,
+      "ko": "피의 보복자가 그의 뒤를 따라온다 할지라도 그들은 그 살인자를 그의 손에 내주지 말지니 이는 본래 미워함이 없이 부지중에 그의 이웃을 죽였음이라",
+      "en": "If the avenger of blood pursues him, they must not surrender the one accused, because he killed his neighbor unintentionally and without malice aforethought.",
+      "de": "Und wenn der Bluträcher ihm nachjagt, sollen sie den Totschläger nicht in seine Hände übergeben, weil er unwissend seinen Nächsten geschlagen hat und ist ihm zuvor nicht feind gewesen.",
+      "zh": "若是报血仇的追了他来，长老不可将他交在报血仇的手里；因为他是素无仇恨，无心杀了人的。",
+      "ja": "假令仇打する者追ゆくとも彼らその人を殺せる者を之が手に交すべからず其は彼知ずして人を殺せるにて素より之を惡みをりしに非ればなり"
+    },
+    {
+      "number": 6,
+      "ko": "그 살인자는 회중 앞에 서서 재판을 받기까지 또는 그 당시 대제사장이 죽기까지 그 성읍에 거주하다가 그 후에 그 살인자는 그 성읍 곧 자기가 도망하여 나온 자기 성읍 자기 집으로 돌아갈지니라 하라 하시니라",
+      "en": "He is to stay in that city until he has stood trial before the assembly and until the death of the high priest who is serving at that time. Then he may go back to his own home in the town from which he fled.\"",
+      "de": "So soll er in der Stadt wohnen, bis daß er stehe vor der Gemeinde vor Gericht, und bis daß der Hohepriester sterbe, der zur selben Zeit sein wird. Alsdann soll der Totschläger wiederkommen in seine Stadt und in sein Haus, zur Stadt, davon er geflohen ist.",
+      "zh": "他要住在那城里，站在会众面前听审判，等到那时的大祭司死了，杀人的才可以回到本城本家，就是他所逃出来的那城。」",
+      "ja": "その人は會衆の前に立て審判を受るまで其時の祭司の長の死る迄その邑に住をるべし然る後その人を殺せる者己の邑に歸り往てその家にいたり己が逃いでし邑に住むべし"
+    },
+    {
+      "number": 7,
+      "ko": "이에 그들이 납달리의 산지 갈릴리 게데스와 에브라임 산지의 세겜과 유다 산지의 기럇 아르바 곧 헤브론과",
+      "en": "So they set apart Kedesh in Galilee in the hill country of Naphtali, Shechem in the hill country of Ephraim, and Kiriath Arba (that is, Hebron) in the hill country of Judah.",
+      "de": "Da heiligten sie Kedes in Galiläa, auf dem Gebirge Naphthali, und Sichem auf dem Gebirge Ephraim und Kirjath-Arba, das ist Hebron, auf dem Gebirge Juda;",
+      "zh": "于是，以色列人在拿弗他利山地分定加利利的基低斯；在以法莲山地分定示剑；在犹大山地分定基列·亚巴（基列·亚巴就是希伯 ）；",
+      "ja": "爰にナフタリの山地なるガリラヤのケデシ、エフライムの山地なるシケムおよびユダの山地なるキリアテアルバ(すなはちヘブロン)を之がために分ち"
+    },
+    {
+      "number": 8,
+      "ko": "여리고 동쪽 요단 저쪽 르우벤 지파 중에서 평지 광야의 베셀과 갓 지파 중에서 길르앗 라못과 므낫세 지파 중에서 바산 골란을 구별하였으니",
+      "en": "On the east side of the Jordan of Jericho they designated Bezer in the desert on the plateau in the tribe of Reuben, Ramoth in Gilead in the tribe of Gad, and Golan in Bashan in the tribe of Manasseh.",
+      "de": "und jenseit des Jordans, da Jericho liegt, gegen Aufgang, gaben sie Bezer in der Wüste auf der Ebene aus dem Stamm Ruben und Ramoth in Gilead aus dem Stamm Gad und Golan in Basan aus dem Stamm Manasse.",
+      "zh": "又在约旦河外耶利哥东，从吕便支派中，在旷野的平原，设立比悉；从迦得支派中设立基列的拉末；从玛拿西支派中设立巴珊的哥兰。",
+      "ja": "またヨルダンの彼旁ヱリコの東の方にてはルベンの支派の中より平地なる荒野のベゼルを擇び定めガドの支派の中よりギレアデのラモテを擇び定めマナセの支派の中よりバシヤンのゴランを擇び定めたり"
+    },
+    {
+      "number": 9,
+      "ko": "이는 곧 이스라엘 모든 자손과 그들 중에 거류하는 거류민을 위하여 선정된 성읍들로서 누구든지 부지중에 살인한 자가 그리로 도망하여 그가 회중 앞에 설 때까지 피의 보복자의 손에 죽지 아니하게 하기 위함이라",
+      "en": "Any of the Israelites or any alien living among them who killed someone accidentally could flee to these designated cities and not be killed by the avenger of blood prior to standing trial before the assembly.",
+      "de": "Das waren die Städte, bestimmt allen Kindern Israel und den Fremdlingen, die unter ihnen wohnten, daß dahin fliehe, wer eine Seele unversehens schlägt, daß er nicht sterbe durch den Bluträcher, bis daß er vor der Gemeinde gestanden sei.",
+      "zh": "这都是为以色列众人和在他们中间寄居的外人所分定的城邑，使误杀人的都可以逃到那里，不死在报血仇人的手中，等他站在会众面前听审判。",
+      "ja": "是すなはちイスラエルの一切の子孫および之が中に寄寓をる他國人のために設けたる邑々にして凡て人を誤まり殺せる者を此に逃れしめ其會衆の前に立ざる中に仇打の手に死るがごときことなからしめんためなり"
+    }
+  ]
+}

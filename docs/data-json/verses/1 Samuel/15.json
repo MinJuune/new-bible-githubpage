@@ -1,0 +1,286 @@
+{
+  "book": "1 Samuel",
+  "chapter": 15,
+  "verses": [
+    {
+      "number": 1,
+      "ko": "사무엘이 사울에게 이르되 여호와께서 나를 보내어 왕에게 기름을 부어 그의 백성 이스라엘 위에 왕으로 삼으셨은즉 이제 왕은 여호와의 말씀을 들으소서",
+      "en": "Samuel said to Saul, \"I am the one the LORD sent to anoint you king over his people Israel; so listen now to the message from the LORD.",
+      "de": "Samuel aber sprach zu Saul: Der HERR hat mich gesandt, daß ich dich zum König salbte über sein Volk Israel; so höre nun die Stimme der Worte des HERRN.",
+      "zh": "撒母耳对扫罗说：「耶和华差遣我膏你为王，治理他的百姓以色列；所以你当听从耶和华的话。",
+      "ja": "茲にサムエル、サウルにいひけるはヱホバ我をつかはし汝に膏を沃ぎて其民イスラエルの王となさしめたりさればヱホバの言の聲をきけ"
+    },
+    {
+      "number": 2,
+      "ko": "만군의 여호와께서 이같이 말씀하시기를 아말렉이 이스라엘에게 행한 일 곧 애굽에서 나올 때에 길에서 대적한 일로 내가 그들을 벌하노니",
+      "en": "This is what the LORD Almighty says: 'I will punish the Amalekites for what they did to Israel when they waylaid them as they came up from Egypt.",
+      "de": "So spricht der HERR Zebaoth: Ich habe bedacht, was Amalek Israel tat und wie er ihm den Weg verlegte, da er aus Ägypten zog.",
+      "zh": "万军之耶和华如此说：『以色列人出埃及的时候，在路上亚玛力人怎样待他们，怎样抵挡他们，我都没忘。",
+      "ja": "萬軍のヱホバかくいひたまふ我アマレクがイスラエルになせし事すなはちエジプトよりのぼれる時其途を遮りしをかへりみる"
+    },
+    {
+      "number": 3,
+      "ko": "지금 가서 아말렉을 쳐서 그들의 모든 소유를 남기지 말고 진멸하되 남녀와 소아와 젖 먹는 아이와 우양과 낙타와 나귀를 죽이라 하셨나이다 하니",
+      "en": "Now go, attack the Amalekites and totally destroy everything that belongs to them. Do not spare them; put to death men and women, children and infants, cattle and sheep, camels and donkeys.'\"",
+      "de": "So zieh nun hin und schlage die Amalekiter und verbanne sie mit allem, was sie haben; schone ihrer nicht sondern töte Mann und Weib, Kinder und Säuglinge, Ochsen und Schafe, Kamele und Esel!",
+      "zh": "现在你要去击打亚玛力人，灭尽他们所有的，不可怜惜他们，将男女、孩童、吃奶的，并牛、羊、骆驼，和驴尽行杀死。』」",
+      "ja": "今ゆきてアマレクを撃ち其有る物をことごとく滅しつくし彼らを憐むなかれ男女童稚哺乳兒牛羊駱駝驢馬を皆殺せ"
+    },
+    {
+      "number": 4,
+      "ko": "사울이 백성을 소집하고 그들을 들라임에서 세어 보니 보병이 이십만 명이요 유다 사람이 만 명이라",
+      "en": "So Saul summoned the men and mustered them at Telaim--two hundred thousand foot soldiers and ten thousand men from Judah.",
+      "de": "Saul ließ solches vor das Volk kommen; und er zählte sie zu Telaim: zweihunderttausend Mann Fußvolk und zehntausend Mann aus Juda.",
+      "zh": "于是扫罗招聚百姓在提拉因，数点他们，共有步兵二十万，另有犹大人一万。",
+      "ja": "サウル民をよびあつめてこれをテライムに核ふ歩兵二十萬ユダの人一萬あり"
+    },
+    {
+      "number": 5,
+      "ko": "사울이 아말렉 성에 이르러 골짜기에 복병시키니라",
+      "en": "Saul went to the city of Amalek and set an ambush in the ravine.",
+      "de": "Und da Saul kam zu der Amalekiter Stadt, machte er einen Hinterhalt am Bach",
+      "zh": "扫罗到了亚玛力的京城，在谷中设下埋伏。",
+      "ja": "しかしてサウル、アマレクの邑にいたりて谷に兵を伏たり"
+    },
+    {
+      "number": 6,
+      "ko": "사울이 겐 사람에게 이르되 아말렉 사람 중에서 떠나 가라 그들과 함께 너희를 멸하게 될까 하노라 이스라엘 모든 자손이 애굽에서 올라올 때에 너희가 그들을 선대하였느니라 이에 겐 사람이 아말렉 사람 중에서 떠나니라",
+      "en": "Then he said to the Kenites, \"Go away, leave the Amalekites so that I do not destroy you along with them; for you showed kindness to all the Israelites when they came up out of Egypt.\" So the Kenites moved away from the Amalekites.",
+      "de": "und ließ den Kenitern sagen: Geht hin, weicht und zieht herab von den Amalekiter, daß ich euch nicht mit ihnen aufräume; denn ihr tatet Barmherzigkeit an allen Kindern Israel, da sie aus Ägypten zogen. Also machten sich die Keniter von den Amalekitern.",
+      "zh": "扫罗对基尼人说：「你们离开亚玛力人下去吧，恐怕我将你们和亚玛力人一同杀灭；因为以色列人出埃及的时候，你们曾恩待他们。」于是基尼人离开亚玛力人去了。",
+      "ja": "サウル、ケニ人にいひけるは汝らゆきてさりアマレク人をはなれくだるべし恐らくはかれらとともに汝らをほろぼすにいたらんイスラエルの子孫のエジプトよりのぼれる時汝らこれに恩みをほどこしたりと即ちケニ人アマレク人をはなれてさりぬ"
+    },
+    {
+      "number": 7,
+      "ko": "사울이 하윌라에서부터 애굽 앞 술에 이르기까지 아말렉 사람을 치고",
+      "en": "Then Saul attacked the Amalekites all the way from Havilah to Shur, to the east of Egypt.",
+      "de": "Da schlug Saul die Amalekiter von Hevila an bis gen Sur, das vor Ägypten liegt,",
+      "zh": "扫罗击打亚玛力人，从哈腓拉直到埃及前的书珥，",
+      "ja": "サウル、アマレク人をうちてハビラよりエジプトの東面なるシユルにいたる"
+    },
+    {
+      "number": 8,
+      "ko": "아말렉 사람의 왕 아각을 사로잡고 칼날로 그의 모든 백성을 진멸하였으되",
+      "en": "He took Agag king of the Amalekites alive, and all his people he totally destroyed with the sword.",
+      "de": "und griff Agag, der Amalekiter König, lebendig, und alles Volk verbannte er mit des Schwertes Schärfe.",
+      "zh": "生擒了亚玛力王亚甲，用刀杀尽亚玛力的众民。",
+      "ja": "サウル、アマレク人の王アガグを生擒り刃をもて其民をことごとくほろぼせり"
+    },
+    {
+      "number": 9,
+      "ko": "사울과 백성이 아각과 그의 양과 소의 가장 좋은 것 또는 기름진 것과 어린 양과 모든 좋은 것을 남기고 진멸하기를 즐겨 아니하고 가치 없고 하찮은 것은 진멸하니라",
+      "en": "But Saul and the army spared Agag and the best of the sheep and cattle, the fat calves and lambs--everything that was good. These they were unwilling to destroy completely, but everything that was despised and weak they totally destroyed.",
+      "de": "Aber Saul und das Volk verschonten den Agag, und was gute Schafe und Rinder und gemästet war, und die Lämmer und alles, was gut war, und wollten's nicht verbannen; was aber schnöde und untüchtig war, das verbannten sie.",
+      "zh": "扫罗和百姓却怜惜亚甲，也爱惜上好的牛、羊、牛犊、羊羔，并一切美物，不肯灭绝。凡下贱瘦弱的，尽都杀了。",
+      "ja": "然ども、サウルと民アガグをゆるしまた羊と牛の最も嘉きもの及び肥たる物並に羔と凡て善き物を殘して之をほろぼしつくすをこのまず但惡き弱き物をほろぼしつくせり"
+    },
+    {
+      "number": 10,
+      "ko": "여호와의 말씀이 사무엘에게 임하니라 이르시되",
+      "en": "Then the word of the LORD came to Samuel:",
+      "de": "Da geschah des HERRN Wort zu Samuel und sprach:",
+      "zh": "耶和华的话临到撒母耳说：",
+      "ja": "時にヱホバの言サムエルにのぞみていはく"
+    },
+    {
+      "number": 11,
+      "ko": "내가 사울을 왕으로 세운 것을 후회하노니 그가 돌이켜서 나를 따르지 아니하며 내 명령을 행하지 아니하였음이니라 하신지라 사무엘이 근심하여 온 밤을 여호와께 부르짖으니라",
+      "en": "\"I am grieved that I have made Saul king, because he has turned away from me and has not carried out my instructions.\" Samuel was troubled, and he cried out to the LORD all that night.",
+      "de": "Es reut mich, daß ich Saul zum König gemacht habe; denn er hat sich hinter mir abgewandt und meine Worte nicht erfüllt. Darob ward Samuel zornig und schrie zu dem HERRN die ganze Nacht.",
+      "zh": "「我立扫罗为王，我后悔了；因为他转去不跟从我，不遵守我的命令。」撒母耳便甚忧愁，终夜哀求耶和华。",
+      "ja": "我サウルを王となせしを悔ゆ其は彼背きて我にしたがはずわが命をおこなはざればなりとサムエル憂て終夜ヱホバによばはれり"
+    },
+    {
+      "number": 12,
+      "ko": "사무엘이 사울을 만나려고 아침에 일찍이 일어났더니 어떤 사람이 사무엘에게 말하여 이르되 사울이 갈멜에 이르러 자기를 위하여 기념비를 세우고 발길을 돌려 길갈로 내려갔다 하는지라",
+      "en": "Early in the morning Samuel got up and went to meet Saul, but he was told, \"Saul has gone to Carmel. There he has set up a monument in his own honor and has turned and gone on down to Gilgal.\"",
+      "de": "Und Samuel machte sich früh auf, daß er Saul am Morgen begegnete. Und ihm ward angesagt, daß Saul gen Karmel gekommen wäre und hätte sich ein Siegeszeichen aufgerichtet und wäre umhergezogen und gen Gilgal hinabgekommen.",
+      "zh": "撒母耳清早起来，迎接扫罗。有人告诉撒母耳说：「扫罗到了迦密，在那里立了纪念碑，又转身下到吉甲。」",
+      "ja": "かくてサムエル、サウルにあはんとて夙く起きけるにサムエルにつぐるものありていふサウル、カルメルにいたり勝利の表を立て轉り進みてギルガルにくだれりと"
+    },
+    {
+      "number": 13,
+      "ko": "사무엘이 사울에게 이른즉 사울이 그에게 이르되 원하건대 당신은 여호와께 복을 받으소서 내가 여호와의 명령을 행하였나이다 하니",
+      "en": "When Samuel reached him, Saul said, \"The LORD bless you! I have carried out the LORD'S instructions.\"",
+      "de": "Als nun Samuel zu Saul kam, sprach Saul zu ihm: Gesegnet seist du dem HERRN! Ich habe des HERRN Wort erfüllt.",
+      "zh": "撒母耳到了扫罗那里，扫罗对他说：「愿耶和华赐福与你，耶和华的命令我已遵守了。」",
+      "ja": "サムエル、サウルの許に至りければサウルこれにいひけるは汝がヱホバより福祉を得んことをねがふ我ヱホバの命を行へりと"
+    },
+    {
+      "number": 14,
+      "ko": "사무엘이 이르되 그러면 내 귀에 들려오는 이 양의 소리와 내게 들리는 소의 소리는 어찌 됨이니이까 하니라",
+      "en": "But Samuel said, \"What then is this bleating of sheep in my ears? What is this lowing of cattle that I hear?\"",
+      "de": "Samuel antwortete: Was ist denn das für ein Blöken der Schafe in meinen Ohren und ein Brüllen der Rinder, die ich höre?",
+      "zh": "撒母耳说：「我耳中听见有羊叫、牛鸣，是从哪里来的呢？」",
+      "ja": "サムエルいひけるは然らばわが耳にいる此羊の聲およびわがきく牛のこゑは何ぞや"
+    },
+    {
+      "number": 15,
+      "ko": "사울이 이르되 그것은 무리가 아말렉 사람에게서 끌어 온 것인데 백성이 당신의 하나님 여호와께 제사하려 하여 양들과 소들 중에서 가장 좋은 것을 남김이요 그 외의 것은 우리가 진멸하였나이다 하는지라",
+      "en": "Saul answered, \"The soldiers brought them from the Amalekites; they spared the best of the sheep and cattle to sacrifice to the LORD your God, but we totally destroyed the rest.\"",
+      "de": "Saul sprach: Von den Amalekitern haben sie sie gebracht; denn das Volk verschonte die besten Schafe und Rinder um des Opfers willen des HERRN, deines Gottes; das andere haben wir verbannt.",
+      "zh": "扫罗说：「这是百姓从亚玛力人那里带来的；因为他们爱惜上好的牛羊，要献与耶和华—你的　神；其余的，我们都灭尽了。」",
+      "ja": "サウルいひけるは人々これをアマレク人のところより引ききたれり其は民汝の神ヱホバにささげんために羊と牛の最も嘉きものをのこせばなり其ほかは我らほろぼしつくせり"
+    },
+    {
+      "number": 16,
+      "ko": "사무엘이 사울에게 이르되 가만히 계시옵소서 간 밤에 여호와께서 내게 이르신 것을 왕에게 말하리이다 하니 그가 이르되 말씀하소서",
+      "en": "\"Stop!\" Samuel said to Saul. \"Let me tell you what the LORD said to me last night.\" \"Tell me,\" Saul replied.",
+      "de": "Samuel aber antwortete Saul: Laß dir sagen, was der HERR mit mir geredet hat diese Nacht. Er sprach: Sage an!",
+      "zh": "撒母耳对扫罗说：「你住口吧！等我将耶和华昨夜向我所说的话告诉你。」扫罗说：「请讲。」",
+      "ja": "サムエル、サウルにいけるは止まれ昨夜ヱホバの我にかたりたまひしことを汝につげんサウルいひけるはいへ"
+    },
+    {
+      "number": 17,
+      "ko": "사무엘이 이르되 왕이 스스로 작게 여길 그 때에 이스라엘 지파의 머리가 되지 아니하셨나이까 여호와께서 왕에게 기름을 부어 이스라엘 왕을 삼으시고",
+      "en": "Samuel said, \"Although you were once small in your own eyes, did you not become the head of the tribes of Israel? The LORD anointed you king over Israel.",
+      "de": "Samuel sprach: Ist's nicht also? Da du klein warst vor deinen Augen, wurdest du das Haupt unter den Stämmen Israels, und der HERR salbte dich zum König über Israel?",
+      "zh": "撒母耳对扫罗说：「从前你虽然以自己为小，岂不是被立为以色列支派的元首吗？耶和华膏你作以色列的王。",
+      "ja": "サムエルいひけるはさきに汝が微き者とみづから憶へる時に爾イスラエルの支派の長となりしに非ずや即ちヱホバ汝に膏を注いでイスラエルの王となせり"
+    },
+    {
+      "number": 18,
+      "ko": "또 여호와께서 왕을 길로 보내시며 이르시기를 가서 죄인 아말렉 사람을 진멸하되 다 없어지기까지 치라 하셨거늘",
+      "en": "And he sent you on a mission, saying, 'Go and completely destroy those wicked people, the Amalekites; make war on them until you have wiped them out.'",
+      "de": "Und der HERR sandte dich auf den Weg und sprach: Zieh hin und verbanne die Sünder, die Amalekiter, und streite wider sie, bis du sie vertilgst!",
+      "zh": "耶和华差遣你，吩咐你说，你去击打那些犯罪的亚玛力人，将他们灭绝净尽。",
+      "ja": "ヱホバ汝を途に遣はしていひたまはく往て惡人なるアマレク人をほろぼし其盡るまで戰へよと"
+    },
+    {
+      "number": 19,
+      "ko": "어찌하여 왕이 여호와의 목소리를 청종하지 아니하고 탈취하기에만 급하여 여호와께서 악하게 여기시는 일을 행하였나이까",
+      "en": "Why did you not obey the LORD? Why did you pounce on the plunder and do evil in the eyes of the LORD?\"",
+      "de": "Warum hast du nicht gehorcht der Stimme des HERRN, sondern hast dich zum Raub gewandt und übel gehandelt vor den Augen des HERRN?",
+      "zh": "你为何没有听从耶和华的命令，急忙掳掠财物，行耶和华眼中看为恶的事呢？」",
+      "ja": "何故に汝ヱホバの言をきかずして敵の所有物にはせかかりヱホバの目のまへに惡をなせしや"
+    },
+    {
+      "number": 20,
+      "ko": "사울이 사무엘에게 이르되 나는 실로 여호와의 목소리를 청종하여 여호와께서 보내신 길로 가서 아말렉 왕 아각을 끌어 왔고 아말렉 사람들을 진멸하였으나",
+      "en": "\"But I did obey the LORD,\" Saul said. \"I went on the mission the LORD assigned me. I completely destroyed the Amalekites and brought back Agag their king.",
+      "de": "Saul antwortete Samuel: Habe ich doch der Stimme des HERRN gehorcht und bin hingezogen des Wegs, den mich der HERR sandte, und habe Agag, der Amalekiter König, gebracht und die Amalekiter verbannt;",
+      "zh": "扫罗对撒母耳说：「我实在听从了耶和华的命令，行了耶和华所差遣我行的路，擒了亚玛力王亚甲来，灭尽了亚玛力人。",
+      "ja": "サウル、サムエルにひけるは我誠にヱホバの言にしたがひてヱホバのつかはしたまふ途にゆきアマレクの王アガグを執きたりアマレクをほろぼしつくせり"
+    },
+    {
+      "number": 21,
+      "ko": "다만 백성이 그 마땅히 멸할 것 중에서 가장 좋은 것으로 길갈에서 당신의 하나님 여호와께 제사하려고 양과 소를 끌어 왔나이다 하는지라",
+      "en": "The soldiers took sheep and cattle from the plunder, the best of what was devoted to God, in order to sacrifice them to the LORD your God at Gilgal.\"",
+      "de": "Aber das Volk hat vom Raub genommen, Schafe und Rinder, das Beste unter dem Verbannten, dem HERRN deinem Gott, zu opfern in Gilgal.",
+      "zh": "百姓却在所当灭的物中，取了最好的牛羊，要在吉甲献与耶和华—你的　神。」",
+      "ja": "ただ民其ほろぼしつくすべき物の最初としてギルガルにて汝の神ヱホバにささげんとて敵の物の中より羊と牛をとれり"
+    },
+    {
+      "number": 22,
+      "ko": "사무엘이 이르되 여호와께서 번제와 다른 제사를 그의 목소리를 청종하는 것을 좋아하심 같이 좋아하시겠나이까 순종이 제사보다 낫고 듣는 것이 숫양의 기름보다 나으니",
+      "en": "But Samuel replied: \"Does the LORD delight in burnt offerings and sacrifices as much as in obeying the voice of the LORD? To obey is better than sacrifice, and to heed is better than the fat of rams.",
+      "de": "Samuel aber sprach: Meinst du, daß der HERR Lust habe am Opfer und Brandopfer gleich wie am Gehorsam gegen die Stimme des Herrn? Siehe, Gehorsam ist besser denn Opfer, und Aufmerken besser denn das Fett von Widdern;",
+      "zh": "撒母耳说： 耶和华喜悦燔祭和平安祭， 岂如喜悦人听从他的话呢？ 听命胜于献祭； 顺从胜于公羊的脂油。",
+      "ja": "サムエルいひけるはヱホバはその言にしたがふ事を善したまふごとく燔祭と犠牲を善したまふや夫れ順ふ事は犠牲にまさり聽く事は牡羔の脂にまさるなり"
+    },
+    {
+      "number": 23,
+      "ko": "이는 거역하는 것은 점치는 죄와 같고 완고한 것은 사신 우상에게 절하는 죄와 같음이라 왕이 여호와의 말씀을 버렸으므로 여호와께서도 왕을 버려 왕이 되지 못하게 하셨나이다 하니",
+      "en": "For rebellion is like the sin of divination, and arrogance like the evil of idolatry. Because you have rejected the word of the LORD, he has rejected you as king.\"",
+      "de": "denn Ungehorsam ist eine Zaubereisünde, und Widerstreben ist Abgötterei und Götzendienst. Weil du nun des HERRN Wort verworfen hast, hat er dich auch verworfen, daß du nicht König seist.",
+      "zh": "悖逆的罪与行邪术的罪相等； 顽梗的罪与拜虚神和偶像的罪相同。 你既厌弃耶和华的命令， 耶和华也厌弃你作王。",
+      "ja": "其は違逆は魔術の罪のごとく抗戻は虚しき物につかふる如く偶像につかふるがごとし汝ヱホバの言を棄たるによりヱホバもまた汝をすてて王たらざらしめたまふ"
+    },
+    {
+      "number": 24,
+      "ko": "사울이 사무엘에게 이르되 내가 범죄하였나이다 내가 여호와의 명령과 당신의 말씀을 어긴 것은 내가 백성을 두려워하여 그들의 말을 청종하였음이니이다",
+      "en": "Then Saul said to Samuel, \"I have sinned. I violated the LORD'S command and your instructions. I was afraid of the people and so I gave in to them.",
+      "de": "Da sprach Saul zu Samuel: Ich habe gesündigt, daß ich des HERRN Befehl und deine Worte übertreten habe; denn ich fürchtete das Volk und gehorchte ihrer Stimme.",
+      "zh": "扫罗对撒母耳说：「我有罪了，我因惧怕百姓，听从他们的话，就违背了耶和华的命令和你的言语。",
+      "ja": "サウル、サムエルにいひけるに我ヱホバの命と汝の言をやぶりて罪ををかしたり是は民をおそれて其言にしたがひたるによりてなり"
+    },
+    {
+      "number": 25,
+      "ko": "청하오니 지금 내 죄를 사하고 나와 함께 돌아가서 나로 하여금 여호와께 경배하게 하소서 하니",
+      "en": "Now I beg you, forgive my sin and come back with me, so that I may worship the LORD.\"",
+      "de": "Und nun vergib mir die Sünden und kehre mit mir um, daß ich den HERRN anbete.",
+      "zh": "现在求你赦免我的罪，同我回去，我好敬拜耶和华。」",
+      "ja": "されば今ねがはくはわがつみをゆるし我とともにかへりて我をしてヱホバを拝することをえさしめよ"
+    },
+    {
+      "number": 26,
+      "ko": "사무엘이 사울에게 이르되 나는 왕과 함께 돌아가지 아니하리니 이는 왕이 여호와의 말씀을 버렸으므로 여호와께서 왕을 버려 이스라엘 왕이 되지 못하게 하셨음이니이다 하고",
+      "en": "But Samuel said to him, \"I will not go back with you. You have rejected the word of the LORD, and the LORD has rejected you as king over Israel!\"",
+      "de": "Samuel sprach zu Saul: Ich will nicht mit dir umkehren; denn du hast des HERRN Wort verworfen, und der HERR hat dich auch verworfen, daß du nicht König seist über Israel.",
+      "zh": "撒母耳对扫罗说：「我不同你回去；因为你厌弃耶和华的命令，耶和华也厌弃你作以色列的王。」",
+      "ja": "サムエル、サウルにいひけるは我汝とともにかへらじ汝ヱホバの言を棄たるによりヱホバ汝をすててイスラエルに王たらしめたまはざればなり"
+    },
+    {
+      "number": 27,
+      "ko": "사무엘이 가려고 돌아설 때에 사울이 그의 겉옷자락을 붙잡으매 찢어진지라",
+      "en": "As Samuel turned to leave, Saul caught hold of the hem of his robe, and it tore.",
+      "de": "Und als Samuel sich umwandte, daß er wegginge, ergriff er ihn bei einem Zipfel seines Rocks, und er zerriß.",
+      "zh": "撒母耳转身要走，扫罗就扯住他外袍的衣襟，衣襟就撕断了。",
+      "ja": "サムエル去らんとて振還しときサウルその明衣の裾を捉へしかば裂たり"
+    },
+    {
+      "number": 28,
+      "ko": "사무엘이 그에게 이르되 여호와께서 오늘 이스라엘 나라를 왕에게서 떼어 왕보다 나은 왕의 이웃에게 주셨나이다",
+      "en": "Samuel said to him, \"The LORD has torn the kingdom of Israel from you today and has given it to one of your neighbors--to one better than you.",
+      "de": "Da sprach Samuel zu ihm: Der HERR hat das Königreich Israel heute von dir gerissen und deinem Nächsten gegeben, der besser ist denn du.",
+      "zh": "撒母耳对他说：「如此，今日耶和华使以色列国与你断绝，将这国赐与比你更好的人。",
+      "ja": "サムエルかれにいひけるは今日ヱホバ、イスラエルの國を裂て汝よりはなし汝の隣なる汝より善きものにこれをあたへたまふ"
+    },
+    {
+      "number": 29,
+      "ko": "이스라엘의 지존자는 거짓이나 변개함이 없으시니 그는 사람이 아니시므로 결코 변개하지 않으심이니이다 하니",
+      "en": "He who is the Glory of Israel does not lie or change his mind; for he is not a man, that he should change his mind.\"",
+      "de": "Auch lügt der Held in Israel nicht, und es gereut ihn nicht; denn er ist nicht ein Mensch, daß ihn etwas gereuen sollte.",
+      "zh": "以色列的大能者必不致说谎，也不致后悔；因为他迥非世人，决不后悔。」",
+      "ja": "またイスラエルの能力たる者は謊らず悔ず其はかれは人にあらざればくゆることなし"
+    },
+    {
+      "number": 30,
+      "ko": "사울이 이르되 내가 범죄하였을지라도 이제 청하옵나니 내 백성의 장로들 앞과 이스라엘 앞에서 나를 높이사 나와 함께 돌아가서 내가 당신의 하나님 여호와께 경배하게 하소서 하더라",
+      "en": "Saul replied, \"I have sinned. But please honor me before the elders of my people and before Israel; come back with me, so that I may worship the LORD your God.\"",
+      "de": "Er aber sprach: Ich habe gesündigt; aber ehre mich doch jetzt vor den Ältesten meines Volks und vor Israel und kehre mit mir um, daß ich den HERRN, deinen Gott, anbete.",
+      "zh": "扫罗说：「我有罪了，虽然如此，求你在我百姓的长老和以色列人面前抬举我，同我回去，我好敬拜耶和华—你的　神。」",
+      "ja": "サウルいひけるは我罪ををかしたれどねがはくはわが民の長老のまへおよびイスラエルのまへにて我をたふとみて我とともにかへり我をして汝の神ヱホバを拝むことをえさしめよ"
+    },
+    {
+      "number": 31,
+      "ko": "이에 사무엘이 돌이켜 사울을 따라가매 사울이 여호와께 경배하니라",
+      "en": "So Samuel went back with Saul, and Saul worshiped the LORD.",
+      "de": "Also kehrte Samuel um und folgte Saul nach, daß Saul den HERRN anbetete.",
+      "zh": "于是撒母耳转身跟随扫罗回去，扫罗就敬拜耶和华。",
+      "ja": "ここにおいてサムエル、サウルにしたがひてかへるしかしてサウル、ヱホバを拝む"
+    },
+    {
+      "number": 32,
+      "ko": "사무엘이 이르되 너희는 아말렉 사람의 왕 아각을 내게로 끌어 오라 하였더니 아각이 즐거이 오며 이르되 진실로 사망의 괴로움이 지났도다 하니라",
+      "en": "Then Samuel said, \"Bring me Agag king of the Amalekites.\" Agag came to him confidently, thinking, \"Surely the bitterness of death is past.\"",
+      "de": "Samuel aber sprach: Laßt her zu mir bringen Agag, der Amalekiter König. Und Agag ging zu ihm getrost und sprach: Also muß man des Todes Bitterkeit vertreiben.",
+      "zh": "撒母耳说：「要把亚玛力王亚甲带到我这里来。」亚甲就欢欢喜喜地来到他面前，心里说，死亡的苦难必定过去了。",
+      "ja": "時にサムエルいひけるは汝らわが許にアマレクの王アガグをひききたれとアガグ喜ばしげにサムエルの許にきたりアガグいひけるは死の苦みは必ず過さりぬ"
+    },
+    {
+      "number": 33,
+      "ko": "사무엘이 이르되 네 칼이 여인들에게 자식이 없게 한 것 같이 여인 중 네 어미에게 자식이 없으리라 하고 그가 길갈에서 여호와 앞에서 아각을 찍어 쪼개니라",
+      "en": "But Samuel said, \"As your sword has made women childless, so will your mother be childless among women.\" And Samuel put Agag to death before the LORD at Gilgal.",
+      "de": "Samuel sprach: Wie dein Schwert Weiber ihrer Kinder beraubt hat, also soll auch deine Mutter der Kinder beraubt sein unter den Weibern. Also hieb Samuel den Agag zu Stücken vor dem HERRN in Gilgal.",
+      "zh": "撒母耳说：「你既用刀使妇人丧子，这样，你母亲在妇人中也必丧子。」于是，撒母耳在吉甲耶和华面前将亚甲杀死。",
+      "ja": "サムエルいひけるに汝の劍はおほくの婦人を子なき者となせりかくのごとく汝の母は婦人の中の最も子なき者となるべしとサムエル、ギルガルにてヱホバのまへにおいてアガグを斬り"
+    },
+    {
+      "number": 34,
+      "ko": "이에 사무엘은 라마로 가고 사울은 사울 기브아 자기의 집으로 올라가니라",
+      "en": "Then Samuel left for Ramah, but Saul went up to his home in Gibeah of Saul.",
+      "de": "Und Samuel ging hin gen Rama; Saul aber zog hinauf zu seinem Hause zu Gibea Sauls.",
+      "zh": "撒母耳回了拉玛。扫罗上他所住的基比亚，回自己的家去了。",
+      "ja": "かくてサムエルはラマにゆきサウルはサウルのギベアにのぼりてその家にいたる"
+    },
+    {
+      "number": 35,
+      "ko": "사무엘이 죽는 날까지 사울을 다시 가서 보지 아니하였으니 이는 그가 사울을 위하여 슬퍼함이었고 여호와께서는 사울을 이스라엘 왕으로 삼으신 것을 후회하셨더라",
+      "en": "Until the day Samuel died, he did not go to see Saul again, though Samuel mourned for him. And the LORD was grieved that he had made Saul king over Israel.",
+      "de": "Und Samuel sah Saul fürder nicht mehr bis an den Tag seines Todes. Aber doch trug Samuel Leid um Saul, daß es den HERRN gereut hatte, daß er Saul zum König über Israel gemacht hatte.",
+      "zh": "撒母耳直到死的日子，再没有见扫罗；但撒母耳为扫罗悲伤，是因耶和华后悔立他为以色列的王。",
+      "ja": "サムエル其しぬる日までふたたびきたりてサウルをみざりきしかれどもサムエル、サウルのためにかなしめりまたヱホバはサウルをイスラエルの王となせしを悔たまへり"
+    }
+  ]
+}

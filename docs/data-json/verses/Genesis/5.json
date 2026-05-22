@@ -1,0 +1,262 @@
+{
+  "book": "Genesis",
+  "chapter": 5,
+  "verses": [
+    {
+      "number": 1,
+      "ko": "이것은 아담의 계보를 적은 책이니라 하나님이 사람을 창조하실 때에 하나님의 모양대로 지으시되",
+      "en": "This is the written account of Adam's line. When God created man, he made him in the likeness of God.",
+      "de": "Dies ist das Buch von des Menschen Geschlecht. Da Gott den Menschen schuf, machte er ihn nach dem Bilde Gottes;",
+      "zh": "亚当的后代记在下面。（当　神造人的日子，是照着自己的样式造的，",
+      "ja": "アダムの傳の書は是なり神人を創造りたまひし日に神に象りて之を造りたまひ"
+    },
+    {
+      "number": 2,
+      "ko": "남자와 여자를 창조하셨고 그들이 창조되던 날에 하나님이 그들에게 복을 주시고 그들의 이름을 사람이라 일컬으셨더라",
+      "en": "He created them male and female and blessed them. And when they were created, he called them \"man.\"",
+      "de": "und schuf sie einen Mann und ein Weib und segnete sie und hieß ihren Namen Mensch zur Zeit, da sie geschaffen wurden.",
+      "zh": "并且造男造女。在他们被造的日子，　神赐福给他们，称他们为「人」。）",
+      "ja": "彼等を男女に造りたまへり彼等の創造られし日に神彼等を祝してかれらの名をアダムと名けたまへり"
+    },
+    {
+      "number": 3,
+      "ko": "아담은 백삼십 세에 자기의 모양 곧 자기의 형상과 같은 아들을 낳아 이름을 셋이라 하였고",
+      "en": "When Adam had lived 130 years, he had a son in his own likeness, in his own image; and he named him Seth.",
+      "de": "Und Adam war hundertunddreißig Jahre alt und zeugte einen Sohn, der seinem Bild ähnlich war und hieß ihn Seth",
+      "zh": "亚当活到一百三十岁，生了一个儿子，形象样式和自己相似，就给他起名叫塞特。",
+      "ja": "アダム百三十歳に及びて其像に循ひ己に象りて子を生み其名をセツと名けたり"
+    },
+    {
+      "number": 4,
+      "ko": "아담은 셋을 낳은 후 팔백 년을 지내며 자녀들을 낳았으며",
+      "en": "After Seth was born, Adam lived 800 years and had other sons and daughters.",
+      "de": "und lebte darnach achthundert Jahre und zeugte Söhne und Töchter;",
+      "zh": "亚当生塞特之后，又在世八百年，并且生儿养女。",
+      "ja": "アダムのセツを生し後の齡は八百歳にして男子女子を生り"
+    },
+    {
+      "number": 5,
+      "ko": "그는 구백삼십 세를 살고 죽었더라",
+      "en": "Altogether, Adam lived 930 years, and then he died.",
+      "de": "daß sein ganzes Alter ward neunhundertunddreißig Jahre, und starb.",
+      "zh": "亚当共活了九百三十岁就死了。",
+      "ja": "アダムの生存へたる齡は都合九百三十歳なりき而して死り"
+    },
+    {
+      "number": 6,
+      "ko": "셋은 백오 세에 에노스를 낳았고",
+      "en": "When Seth had lived 105 years, he became the father of Enosh.",
+      "de": "Seth war hundertundfünf Jahre alt und zeugte Enos",
+      "zh": "塞特活到一百零五岁，生了以挪士。",
+      "ja": "セツ百五歳に及びてエノスを生り"
+    },
+    {
+      "number": 7,
+      "ko": "에노스를 낳은 후 팔백칠 년을 지내며 자녀들을 낳았으며",
+      "en": "And after he became the father of Enosh, Seth lived 807 years and had other sons and daughters.",
+      "de": "und lebte darnach achthundertundsieben Jahre und zeugte Söhne und Töchter;",
+      "zh": "塞特生以挪士之后，又活了八百零七年，并且生儿养女。",
+      "ja": "セツ、エノスを生し後八百七年生存へて男子女子を生り"
+    },
+    {
+      "number": 8,
+      "ko": "그는 구백십이 세를 살고 죽었더라",
+      "en": "Altogether, Seth lived 912 years, and then he died.",
+      "de": "daß sein ganzes Alter ward neunhundertundzwölf Jahre, und starb.",
+      "zh": "塞特共活了九百一十二岁就死了。",
+      "ja": "セツの齡は都合九百十二歳なりき而して死り"
+    },
+    {
+      "number": 9,
+      "ko": "에노스는 구십 세에 게난을 낳았고",
+      "en": "When Enosh had lived 90 years, he became the father of Kenan.",
+      "de": "Enos war neunzig Jahre alt und zeugte Kenan",
+      "zh": "以挪士活到九十岁，生了该南。",
+      "ja": "エノス九十歳におよびてカイナンを生り"
+    },
+    {
+      "number": 10,
+      "ko": "게난을 낳은 후 팔백십오 년을 지내며 자녀들을 낳았으며",
+      "en": "And after he became the father of Kenan, Enosh lived 815 years and had other sons and daughters.",
+      "de": "und lebte darnach achthundertundfünzig Jahre und zeugte Söhne und Töchter;",
+      "zh": "以挪士生该南之后，又活了八百一十五年，并且生儿养女。",
+      "ja": "エノス、カイナンを生し後八百十五年生存へて男子女子を生り"
+    },
+    {
+      "number": 11,
+      "ko": "그는 구백오 세를 살고 죽었더라",
+      "en": "Altogether, Enosh lived 905 years, and then he died.",
+      "de": "daß sein ganzes Alter ward neunhundertundfünf Jahre, und starb.",
+      "zh": "以挪士共活了九百零五岁就死了。",
+      "ja": "エノスの齡は都合九百五歳なりき而して死り"
+    },
+    {
+      "number": 12,
+      "ko": "게난은 칠십 세에 마할랄렐을 낳았고",
+      "en": "When Kenan had lived 70 years, he became the father of Mahalalel.",
+      "de": "Kenan war siebzig Jahre alt und zeugte Mahalaleel",
+      "zh": "该南活到七十岁，生了玛勒列。",
+      "ja": "カイナン七十歳におよびてマハラレルを生り"
+    },
+    {
+      "number": 13,
+      "ko": "마할랄렐을 낳은 후 팔백사십 년을 지내며 자녀들을 낳았으며",
+      "en": "And after he became the father of Mahalalel, Kenan lived 840 years and had other sons and daughters.",
+      "de": "und lebte darnach achthundertundvierzig Jahre und zeugte Söhne und Töchter;",
+      "zh": "该南生玛勒列之后，又活了八百四十年，并且生儿养女。",
+      "ja": "カイナン、マハラレルを生し後八百四十年生存へて男子女子を生り"
+    },
+    {
+      "number": 14,
+      "ko": "그는 구백십 세를 살고 죽었더라",
+      "en": "Altogether, Kenan lived 910 years, and then he died.",
+      "de": "daß sein ganzes Alter ward neunhundertundzehn Jahre, und starb.",
+      "zh": "该南共活了九百一十岁就死了。",
+      "ja": "カイナンの齡は都合九百十歳なりきしかして死り"
+    },
+    {
+      "number": 15,
+      "ko": "마할랄렐은 육십오 세에 야렛을 낳았고",
+      "en": "When Mahalalel had lived 65 years, he became the father of Jared.",
+      "de": "Mahalaleel war fünfundsechzig Jahre und zeugte Jared",
+      "zh": "玛勒列活到六十五岁，生了雅列。",
+      "ja": "マハラレル六十五歳に及びてヤレドを生り"
+    },
+    {
+      "number": 16,
+      "ko": "야렛을 낳은 후 팔백삼십 년을 지내며 자녀를 낳았으며",
+      "en": "And after he became the father of Jared, Mahalalel lived 830 years and had other sons and daughters.",
+      "de": "und lebte darnach achthundertunddreißig Jahre und zeugte Söhne und Töchter;",
+      "zh": "玛勒列生雅列之后，又活了八百三十年，并且生儿养女。",
+      "ja": "マハラレル、ヤレドを生し後八百三十年生存へて男子女子を生り"
+    },
+    {
+      "number": 17,
+      "ko": "그는 팔백구십오 세를 살고 죽었더라",
+      "en": "Altogether, Mahalalel lived 895 years, and then he died.",
+      "de": "daß sein ganzes Alter ward achthundert und fünfundneunzig Jahre, und starb.",
+      "zh": "玛勒列共活了八百九十五岁就死了。",
+      "ja": "マハラレルの齡は都合八百九十五歳なりき而して死り"
+    },
+    {
+      "number": 18,
+      "ko": "야렛은 백육십이 세에 에녹을 낳았고",
+      "en": "When Jared had lived 162 years, he became the father of Enoch.",
+      "de": "Jared war hundertzweiundsechzig Jahre alt und zeugte Henoch",
+      "zh": "雅列活到一百六十二岁，生了以诺。",
+      "ja": "ヤレド百六十二歳に及びてエノクを生り"
+    },
+    {
+      "number": 19,
+      "ko": "에녹을 낳은 후 팔백 년을 지내며 자녀들을 낳았으며",
+      "en": "And after he became the father of Enoch, Jared lived 800 years and had other sons and daughters.",
+      "de": "und er lebte darnach achthundert Jahre und zeugte Söhne und Töchter;",
+      "zh": "雅列生以诺之后，又活了八百年，并且生儿养女。",
+      "ja": "ヤレド、エノクを生し後八百年生存へて男子女子を生り"
+    },
+    {
+      "number": 20,
+      "ko": "그는 구백육십이 세를 살고 죽었더라",
+      "en": "Altogether, Jared lived 962 years, and then he died.",
+      "de": "daß sein ganzes Alter ward neunhundert und zweiundsechzig Jahre, und starb.",
+      "zh": "雅列共活了九百六十二岁就死了。",
+      "ja": "ヤレドの齡は都合九百六十二歳なりき而して死り"
+    },
+    {
+      "number": 21,
+      "ko": "에녹은 육십오 세에 므두셀라를 낳았고",
+      "en": "When Enoch had lived 65 years, he became the father of Methuselah.",
+      "de": "Henoch war fünfundsechzig Jahre alt und zeugte Methusalah.",
+      "zh": "以诺活到六十五岁，生了玛土撒拉。",
+      "ja": "エノク六十五歳に及びてメトセラを生り"
+    },
+    {
+      "number": 22,
+      "ko": "므두셀라를 낳은 후 삼백 년을 하나님과 동행하며 자녀들을 낳았으며",
+      "en": "And after he became the father of Methuselah, Enoch walked with God 300 years and had other sons and daughters.",
+      "de": "Und nachdem er Methusalah gezeugt hatte, blieb er in einem göttlichen Leben dreihundert Jahre und zeugte Söhne und Töchter;",
+      "zh": "以诺生玛土撒拉之后，与　神同行三百年，并且生儿养女。",
+      "ja": "エノク、メトセラを生し後三百年神とともに歩み男子女子を生り"
+    },
+    {
+      "number": 23,
+      "ko": "그는 삼백육십오 세를 살았더라",
+      "en": "Altogether, Enoch lived 365 years.",
+      "de": "daß sein ganzes Alter ward dreihundertfünfundsechzig Jahre.",
+      "zh": "以诺共活了三百六十五岁。",
+      "ja": "エノクの齡は都合三百六十五歳なりき"
+    },
+    {
+      "number": 24,
+      "ko": "에녹이 하나님과 동행하더니 하나님이 그를 데려가시므로 세상에 있지 아니하였더라",
+      "en": "Enoch walked with God; then he was no more, because God took him away.",
+      "de": "Und dieweil er ein göttliches Leben führte, nahm ihn Gott hinweg, und er ward nicht mehr gesehen.",
+      "zh": "以诺与　神同行，　神将他取去，他就不在世了。",
+      "ja": "エノク神と偕に歩みしが神かれを取りたまひければをらずなりき"
+    },
+    {
+      "number": 25,
+      "ko": "므두셀라는 백팔십칠 세에 라멕을 낳았고",
+      "en": "When Methuselah had lived 187 years, he became the father of Lamech.",
+      "de": "Methusalah war hundertsiebenundachtzig Jahre alt und zeugte Lamech",
+      "zh": "玛土撒拉活到一百八十七岁，生了拉麦。",
+      "ja": "メトセラ百八十七歳に及びてレメクを生り"
+    },
+    {
+      "number": 26,
+      "ko": "라멕을 낳은 후 칠백팔십이 년을 지내며 자녀를 낳았으며",
+      "en": "And after he became the father of Lamech, Methuselah lived 782 years and had other sons and daughters.",
+      "de": "und lebte darnach siebenhundert und zweiundachtzig Jahre und zeugte Söhne und Töchter;",
+      "zh": "玛土撒拉生拉麦之后，又活了七百八十二年，并且生儿养女。",
+      "ja": "メトセラ、レメクを生しのち七百八十二年生存へて男子女子を生り"
+    },
+    {
+      "number": 27,
+      "ko": "그는 구백육십구 세를 살고 죽었더라",
+      "en": "Altogether, Methuselah lived 969 years, and then he died.",
+      "de": "daß sein ganzes Alter ward neunhundert und neunundsechzig Jahre, und starb.",
+      "zh": "玛土撒拉共活了九百六十九岁就死了。",
+      "ja": "メトセラの齡は都合九百六十九歳なりき而して死り"
+    },
+    {
+      "number": 28,
+      "ko": "라멕은 백팔십이 세에 아들을 낳고",
+      "en": "When Lamech had lived 182 years, he had a son.",
+      "de": "Lamech war hundertzweiundachtzig Jahre alt und zeugte einen Sohn",
+      "zh": "拉麦活到一百八十二岁，生了一个儿子，",
+      "ja": "レメク百八十二歳に及びて男子を生み"
+    },
+    {
+      "number": 29,
+      "ko": "이름을 노아라 하여 이르되 여호와께서 땅을 저주하시므로 수고롭게 일하는 우리를 이 아들이 안위하리라 하였더라",
+      "en": "He named him Noah and said, \"He will comfort us in the labor and painful toil of our hands caused by the ground the LORD has cursed.\"",
+      "de": "und hieß ihn Noah und sprach: Der wird uns trösten in unsrer Mühe und Arbeit auf der Erde, die der HERR verflucht hat.",
+      "zh": "给他起名叫挪亚，说：「这个儿子必为我们的操作和手中的劳苦安慰我们；这操作劳苦是因为耶和华咒诅地。」",
+      "ja": "其名をノアと名けて言けるは此子はヱホバの詛ひたまひし地に由れる我操作と我勞苦とに就て我らを慰めん"
+    },
+    {
+      "number": 30,
+      "ko": "라멕은 노아를 낳은 후 오백구십오 년을 지내며 자녀들을 낳았으며",
+      "en": "After Noah was born, Lamech lived 595 years and had other sons and daughters.",
+      "de": "Darnach lebte er fünfhundert und fünfundneunzig Jahre und zeugte Söhne und Töchter;",
+      "zh": "拉麦生挪亚之后，又活了五百九十五年，并且生儿养女。",
+      "ja": "レメク、ノアを生し後五百九十五年生存へて男子女子を生り"
+    },
+    {
+      "number": 31,
+      "ko": "그는 칠백칠십칠 세를 살고 죽었더라",
+      "en": "Altogether, Lamech lived 777 years, and then he died.",
+      "de": "daß sein ganzes Alter ward siebenhundert siebenundsiebzig Jahre, und starb.",
+      "zh": "拉麦共活了七百七十七岁就死了。",
+      "ja": "レメクの齡は都合七百七十七歳なりき而して死り"
+    },
+    {
+      "number": 32,
+      "ko": "노아는 오백 세 된 후에 셈과 함과 야벳을 낳았더라",
+      "en": "After Noah was 500 years old, he became the father of Shem, Ham and Japheth.",
+      "de": "Noah war fünfhundert Jahre alt und zeugte Sem, Ham und Japheth.",
+      "zh": "挪亚五百岁生了闪、含、雅弗。",
+      "ja": "ノア五百歳なりきノア、セム、ハム、ヤペテを生り"
+    }
+  ]
+}

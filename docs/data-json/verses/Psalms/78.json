@@ -1,0 +1,582 @@
+{
+  "book": "Psalms",
+  "chapter": 78,
+  "verses": [
+    {
+      "number": 1,
+      "ko": "내 백성이여, 내 율법을 들으며 내 입의 말에 귀를 기울일지어다",
+      "en": "A maskil of Asaph. O my people, hear my teaching; listen to the words of my mouth.",
+      "de": "Eine Unterweisung Asaphs. Höre, mein Volk, mein Gesetz; neigt eure Ohren zu der Rede meines Mundes!",
+      "zh": "亚萨的训诲诗。 我的民哪，你们要留心听我的训诲， 侧耳听我口中的话。",
+      "ja": "わが民よわが敎訓をきき、わが口のことばになんぢらの耳をかたぶけよ"
+    },
+    {
+      "number": 2,
+      "ko": "내가 입을 열어 비유로 말하며 예로부터 감추어졌던 것을 드러내려 하니",
+      "en": "I will open my mouth in parables, I will utter hidden things, things from of old--",
+      "de": "Ich will meinen Mund auftun zu Sprüchen und alte Geschichten aussprechen,",
+      "zh": "我要开口说比喻； 我要说出古时的谜语，",
+      "ja": "われ口をひらきて譬喩をまうけ いにしへの玄幽なる語をかたりいでん"
+    },
+    {
+      "number": 3,
+      "ko": "이는 우리가 들어서 아는 바요 우리의 조상들이 우리에게 전한 바라",
+      "en": "what we have heard and known, what our fathers have told us.",
+      "de": "die wir gehört haben und wissen und unsre Väter uns erzählt haben,",
+      "zh": "是我们所听见、所知道的， 也是我们的祖宗告诉我们的。",
+      "ja": "是われらが曩にききしところ知しところ又われらが列祖のかたりつたへし所なり"
+    },
+    {
+      "number": 4,
+      "ko": "우리가 이를 그들의 자손에게 숨기지 아니하고 여호와의 영예와 그의 능력과 그가 행하신 기이한 사적을 후대에 전하리로다",
+      "en": "We will not hide them from their children; we will tell the next generation the praiseworthy deeds of the LORD, his power, and the wonders he has done.",
+      "de": "daß wir's nicht verhalten sollten ihren Kindern, die hernach kommen, und verkündigten den Ruhm des HERRN und seine Macht und seine Wunder, die er getan hat.",
+      "zh": "我们不将这些事向他们的子孙隐瞒， 要将耶和华的美德和他的能力， 并他奇妙的作为，述说给后代听。",
+      "ja": "われら之をその子孫にかくさずヱホバのもろもろの頌美と能力とそのなしたまへる奇しき事跡とをきたらんとする世につげん"
+    },
+    {
+      "number": 5,
+      "ko": "여호와께서 증거를 야곱에게 세우시며 법도를 이스라엘에게 정하시고 우리 조상들에게 명령하사 그들의 자손에게 알리라 하셨으니",
+      "en": "He decreed statutes for Jacob and established the law in Israel, which he commanded our forefathers to teach their children,",
+      "de": "Er richtete ein Zeugnis auf in Jakob und gab ein Gesetz in Israel, das er unsern Vätern gebot zu lehren ihre Kinder,",
+      "zh": "因为，他在雅各中立法度， 在以色列中设律法； 是他吩咐我们祖宗要传给子孙的，",
+      "ja": "そはヱホバ證詞をヤコブのうちにたて律法をイスラエルのうちに定めてその子孫にしらすべきことをわれらの列祖におほせたまひたればなり"
+    },
+    {
+      "number": 6,
+      "ko": "이는 그들로 후대 곧 태어날 자손에게 이를 알게 하고 그들은 일어나 그들의 자손에게 일러서",
+      "en": "so the next generation would know them, even the children yet to be born, and they in turn would tell their children.",
+      "de": "auf daß es die Nachkommen lernten und die Kinder, die noch sollten geboren werden; wenn sie aufkämen, daß sie es auch ihren Kinder verkündigten,",
+      "zh": "使将要生的后代子孙可以晓得； 他们也要起来告诉他们的子孙，",
+      "ja": "これ來らんとする代のちに生るる子孫がこれを知みづから起りてそのまた子孫につたへ"
+    },
+    {
+      "number": 7,
+      "ko": "그들로 그들의 소망을 하나님께 두며 하나님께서 행하신 일을 잊지 아니하고 오직 그의 계명을 지켜서",
+      "en": "Then they would put their trust in God and would not forget his deeds but would keep his commands.",
+      "de": "daß sie setzten auf Gott ihre Hoffnung und nicht vergäßen der Taten Gottes und seine Gebote hielten",
+      "zh": "好叫他们仰望　神， 不忘记　神的作为， 惟要守他的命令。",
+      "ja": "かれらをして神によりたのみ神のみわざを忘れずその誡命をまもらしめん爲なり"
+    },
+    {
+      "number": 8,
+      "ko": "그들의 조상들 곧 완고하고 패역하여 그들의 마음이 정직하지 못하며 그 심령이 하나님께 충성하지 아니하는 세대와 같이 되지 아니하게 하려 하심이로다",
+      "en": "They would not be like their forefathers--a stubborn and rebellious generation, whose hearts were not loyal to God, whose spirits were not faithful to him.",
+      "de": "und nicht würden wie ihre Väter, eine abtrünnige und ungehorsame Art, welchen ihr Herz nicht fest war und ihr Geist nicht treulich hielt an Gott,",
+      "zh": "不要像他们的祖宗， 是顽梗悖逆、居心不正之辈， 向着　神，心不诚实。",
+      "ja": "またその列祖のごとく頑固にしてそむくものの類となり そのこころ修まらず そのたましひ神に忠ならざる類とならざらん爲なり"
+    },
+    {
+      "number": 9,
+      "ko": "에브라임 자손은 무기를 갖추며 활을 가졌으나 전쟁의 날에 물러갔도다",
+      "en": "The men of Ephraim, though armed with bows, turned back on the day of battle;",
+      "de": "wie die Kinder Ephraim, die geharnischt den Bogen führten, abfielen zur Zeit des Streits.",
+      "zh": "以法莲的子孙带着兵器，拿着弓， 临阵之日转身退后。",
+      "ja": "エフライムのこらは武具ととのへ弓をたづさへしに戰ひの日にうしろをそむけたり"
+    },
+    {
+      "number": 10,
+      "ko": "그들이 하나님의 언약을 지키지 아니하고 그의 율법 준행을 거절하며",
+      "en": "they did not keep God's covenant and refused to live by his law.",
+      "de": "Sie hielten den Bund Gottes nicht und wollten nicht in seinem Gesetz wandeln",
+      "zh": "他们不遵守　神的约， 不肯照他的律法行；",
+      "ja": "かれら神のちかひをまもらず そのおきてを履ことをいなみ"
+    },
+    {
+      "number": 11,
+      "ko": "여호와께서 행하신 것과 그들에게 보이신 그의 기이한 일을 잊었도다",
+      "en": "They forgot what he had done, the wonders he had shown them.",
+      "de": "und vergaßen seiner Taten und seiner Wunder, die er ihnen erzeigt hatte.",
+      "zh": "又忘记他所行的 和他显给他们奇妙的作为。",
+      "ja": "ヱホバのなしたまへることとかれらに示したまへる奇しき事跡とをわすれたり"
+    },
+    {
+      "number": 12,
+      "ko": "옛적에 하나님이 애굽 땅 소안 들에서 기이한 일을 그들의 조상들의 목전에서 행하셨으되",
+      "en": "He did miracles in the sight of their fathers in the land of Egypt, in the region of Zoan.",
+      "de": "Vor ihren Vätern tat er Wunder in Ägyptenland, im Felde Zoan.",
+      "zh": "他在埃及地，在琐安田， 在他们祖宗的眼前施行奇事。",
+      "ja": "神はエジプトの國にてゾアンの野にて妙なる事をかれらの列祖のまへになしたまへり"
+    },
+    {
+      "number": 13,
+      "ko": "그가 바다를 갈라 물을 무더기 같이 서게 하시고 그들을 지나가게 하셨으며",
+      "en": "He divided the sea and led them through; he made the water stand firm like a wall.",
+      "de": "Er zerteilte das Meer und ließ sie hindurchgehen und stellte das Wasser wie eine Mauer.",
+      "zh": "他将海分裂，使他们过去， 又叫水立起如垒。",
+      "ja": "すなはち海をさきてかれらを過ぎしめ水をつみて堆かくしたまへり"
+    },
+    {
+      "number": 14,
+      "ko": "낮에는 구름으로, 밤에는 불빛으로 인도하셨으며",
+      "en": "He guided them with the cloud by day and with light from the fire all night.",
+      "de": "Er leitete sie des Tages mit einer Wolke und des Nachts mit einem hellen Feuer.",
+      "zh": "他白日用云彩， 终夜用火光引导他们。",
+      "ja": "ひるは雲をもてかれらをみちびき夜はよもすがら火の光をもてこれを導きたまへり"
+    },
+    {
+      "number": 15,
+      "ko": "광야에서 반석을 쪼개시고 매우 깊은 곳에서 나오는 물처럼 흡족하게 마시게 하셨으며",
+      "en": "He split the rocks in the desert and gave them water as abundant as the seas;",
+      "de": "Er riß die Felsen in der Wüste und tränkte sie mit Wasser die Fülle",
+      "zh": "他在旷野分裂磐石， 多多地给他们水喝，如从深渊而出。",
+      "ja": "神はあれのにて磐をさき大なる淵より汲がごとくにかれらに飮しめ"
+    },
+    {
+      "number": 16,
+      "ko": "또 바위에서 시내를 내사 물이 강 같이 흐르게 하셨으나",
+      "en": "he brought streams out of a rocky crag and made water flow down like rivers.",
+      "de": "und ließ Bäche aus den Felsen fließen, daß sie hinabflossen wie Wasserströme.",
+      "zh": "他使水从磐石涌出， 叫水如江河下流。",
+      "ja": "また磐より流をひきて河のごとくに水をながれしめたまへり"
+    },
+    {
+      "number": 17,
+      "ko": "그들은 계속해서 하나님께 범죄하여 메마른 땅에서 지존자를 배반하였도다",
+      "en": "But they continued to sin against him, rebelling in the desert against the Most High.",
+      "de": "Dennoch sündigten sie weiter gegen ihn und erzürnten den Höchsten in der Wüste",
+      "zh": "他们却仍旧得罪他， 在干燥之地悖逆至高者。",
+      "ja": "然るにかれら尚たえまなく罪ををかして神にさからひ荒野にて至上者にそむき"
+    },
+    {
+      "number": 18,
+      "ko": "그들이 그들의 탐욕대로 음식을 구하여 그들의 심중에 하나님을 시험하였으며",
+      "en": "They willfully put God to the test by demanding the food they craved.",
+      "de": "und versuchten Gott in ihrem Herzen, daß sie Speise forderten für ihre Seelen,",
+      "zh": "他们心中试探　神， 随自己所欲的求食物，",
+      "ja": "またおのが慾のために食をもとめてその心のうちに神をこころみたり"
+    },
+    {
+      "number": 19,
+      "ko": "그뿐 아니라 하나님을 대적하여 말하기를 하나님이 광야에서 식탁을 베푸실 수 있으랴",
+      "en": "They spoke against God, saying, \"Can God spread a table in the desert?",
+      "de": "und redeten gegen Gott und sprachen: “Ja, Gott sollte wohl können einen Tisch bereiten in der Wüste?",
+      "zh": "并且妄论　神说： 　神在旷野岂能摆设筵席吗？",
+      "ja": "然のみならずかれらは神にさからひていへり 神は荒野にて筵をまうけたまふを得んや"
+    },
+    {
+      "number": 20,
+      "ko": "보라 그가 반석을 쳐서 물을 내시니 시내가 넘쳤으나 그가 능히 떡도 주시며 자기 백성을 위하여 고기도 예비하시랴 하였도다",
+      "en": "When he struck the rock, water gushed out, and streams flowed abundantly. But can he also give us food? Can he supply meat for his people?\"",
+      "de": "Siehe, er hat wohl den Felsen geschlagen, daß Wasser flossen und Bäche sich ergossen; aber wie kann er Brot geben und seinem Volke Fleisch verschaffen?”",
+      "zh": "他曾击打磐石，使水涌出，成了江河； 他还能赐粮食吗？ 还能为他的百姓预备肉吗？",
+      "ja": "みよ神いはを撃たまへば水ほどばしりいで流あぶれたり 糧をもあたへたまふを得んや神はその民のために肉をそなへたまはんやと"
+    },
+    {
+      "number": 21,
+      "ko": "그러므로 여호와께서 듣고 노하셨으며 야곱에게 불 같이 노하셨고 또한 이스라엘에게 진노가 불타 올랐으니",
+      "en": "When the LORD heard them, he was very angry; his fire broke out against Jacob, and his wrath rose against Israel,",
+      "de": "Da nun das der HERR hörte, entbrannte er, und Feuer ging an in Jakob, und Zorn kam über Israel,",
+      "zh": "所以，耶和华听见就发怒； 有烈火向雅各烧起； 有怒气向以色列上腾；",
+      "ja": "この故にヱホバこれを聞ていきどほりたまひき 火はヤコブにむかひてもえあがり怒はイスラエルにむかひて立騰れり"
+    },
+    {
+      "number": 22,
+      "ko": "이는 하나님을 믿지 아니하며 그의 구원을 의지하지 아니한 때문이로다",
+      "en": "for they did not believe in God or trust in his deliverance.",
+      "de": "daß sie nicht glaubten an Gott und hofften nicht auf seine Hilfe.",
+      "zh": "因为他们不信服　神， 不倚赖他的救恩。",
+      "ja": "こはかれら神を信ぜずその救にたのまざりし故なり"
+    },
+    {
+      "number": 23,
+      "ko": "그러나 그가 위의 궁창을 명령하시며 하늘 문을 여시고",
+      "en": "Yet he gave a command to the skies above and opened the doors of the heavens;",
+      "de": "Und er gebot den Wolken droben und tat auf die Türen des Himmels",
+      "zh": "他却吩咐天空， 又敞开天上的门，",
+      "ja": "されどなほ神はうへなる雲に命じて天の戸をひらき"
+    },
+    {
+      "number": 24,
+      "ko": "그들에게 만나를 비 같이 내려 먹이시며 하늘 양식을 그들에게 주셨나니",
+      "en": "he rained down manna for the people to eat, he gave them the grain of heaven.",
+      "de": "und ließ das Man auf sie regnen, zu essen, und gab ihnen Himmelsbrot.",
+      "zh": "降吗哪，像雨给他们吃， 将天上的粮食赐给他们。",
+      "ja": "彼等のうへにマナをふらせて食はしめ天の穀物をあたへたまへり"
+    },
+    {
+      "number": 25,
+      "ko": "사람이 힘센 자의 떡을 먹었으며 그가 음식을 그들에게 충족히 주셨도다",
+      "en": "Men ate the bread of angels; he sent them all the food they could eat.",
+      "de": "Sie aßen Engelbrot; er sandte ihnen Speise die Fülle.",
+      "zh": "各人吃大能者的食物； 他赐下粮食，使他们饱足。",
+      "ja": "人みな勇士の糧をくらへり 神はかれらに食物をおくりて飽足らしめたまふ"
+    },
+    {
+      "number": 26,
+      "ko": "그가 동풍을 하늘에서 일게 하시며 그의 권능으로 남풍을 인도하시고",
+      "en": "He let loose the east wind from the heavens and led forth the south wind by his power.",
+      "de": "Er ließ wehen den Ostwind unter dem Himmel und erregte durch seine Stärke den Südwind",
+      "zh": "他领东风起在天空， 又用能力引了南风来。",
+      "ja": "神は天に東風をふかせ大能もて南の風をみちびきたまへり"
+    },
+    {
+      "number": 27,
+      "ko": "먼지처럼 많은 고기를 비 같이 내리시고 나는 새를 바다의 모래 같이 내리셨도다",
+      "en": "He rained meat down on them like dust, flying birds like sand on the seashore.",
+      "de": "und ließ Fleisch auf sie regnen wie Staub und Vögel wie Sand am Meer",
+      "zh": "他降肉，像雨在他们当中，多如尘土， 又降飞鸟，多如海沙，",
+      "ja": "神はかれらのうへに塵のごとく肉をふらせ海の沙のごとく翼ある鳥をふらせて"
+    },
+    {
+      "number": 28,
+      "ko": "그가 그것들을 그들의 진중에 떨어지게 하사 그들의 거처에 두르셨으므로",
+      "en": "He made them come down inside their camp, all around their tents.",
+      "de": "und ließ sie fallen unter ihr Lager allenthalben, da sie wohnten.",
+      "zh": "落在他们的营中， 在他们住处的四面。",
+      "ja": "その營のなかその住所のまはりに落したまへり"
+    },
+    {
+      "number": 29,
+      "ko": "그들이 먹고 심히 배불렀나니 하나님이 그들의 원대로 그들에게 주셨도다",
+      "en": "They ate till they had more than enough, for he had given them what they craved.",
+      "de": "Da aßen sie und wurden allzu satt; er ließ sie ihre Lust büßen.",
+      "zh": "他们吃了，而且饱足； 这样就随了他们所欲的。",
+      "ja": "斯てかれらは食ひて飽たりぬ 神はこれにその欲みしものを與へたまへり"
+    },
+    {
+      "number": 30,
+      "ko": "그러나 그들이 그들의 욕심을 버리지 아니하여 그들의 먹을 것이 아직 그들의 입에 있을 때에",
+      "en": "But before they turned from the food they craved, even while it was still in their mouths,",
+      "de": "Da sie nun ihre Lust gebüßt hatten und noch davon aßen,",
+      "zh": "他们贪而无厌， 食物还在他们口中的时候，",
+      "ja": "かれらが未だその慾をはなれず食物のなほ口のうちにあるほどに"
+    },
+    {
+      "number": 31,
+      "ko": "하나님이 그들에게 노염을 나타내사 그들 중 강한 자를 죽이시며 이스라엘의 청년을 쳐 엎드러뜨리셨도다",
+      "en": "God's anger rose against them; he put to death the sturdiest among them, cutting down the young men of Israel.",
+      "de": "da kam der Zorn Gottes über sie und erwürgte die Vornehmsten unter ihnen und schlug darnieder die Besten in Israel.",
+      "zh": "神的怒气就向他们上腾， 杀了他们内中的肥壮人， 打倒以色列的少年人。",
+      "ja": "神のいかり旣にかれらに對ひてたちのぼり彼等のうちにて最もこえたる者をころしイスラエルのわかき男をうちたふしたまへり"
+    },
+    {
+      "number": 32,
+      "ko": "이러함에도 그들은 여전히 범죄하여 그의 기이한 일들을 믿지 아니하였으므로",
+      "en": "In spite of all this, they kept on sinning; in spite of his wonders, they did not believe.",
+      "de": "Aber über das alles sündigten sie noch mehr und glaubten nicht an seine Wunder.",
+      "zh": "虽是这样，他们仍旧犯罪， 不信他奇妙的作为。",
+      "ja": "これらの事ありしかど彼等はなほ罪ををかしてその奇しきみわざを信ぜざりしかば"
+    },
+    {
+      "number": 33,
+      "ko": "하나님이 그들의 날들을 헛되이 보내게 하시며 그들의 햇수를 두려움으로 보내게 하셨도다",
+      "en": "So he ended their days in futility and their years in terror.",
+      "de": "Darum ließ er sie dahinsterben, daß sie nichts erlangten und mußten ihr Leben lang geplagt sein.",
+      "zh": "因此，他叫他们的日子全归虚空， 叫他们的年岁尽属惊恐。",
+      "ja": "神はかれらの日を空しくすぐさせ その年をおそれつつ過させたまへり"
+    },
+    {
+      "number": 34,
+      "ko": "하나님이 그들을 죽이실 때에 그들이 그에게 구하며 돌이켜 하나님을 간절히 찾았고",
+      "en": "Whenever God slew them, they would seek him; they eagerly turned to him again.",
+      "de": "Wenn er sie erwürgte, suchten sie ihn und kehrten sich zu Gott",
+      "zh": "他杀他们的时候，他们才求问他， 回心转意，切切地寻求　神。",
+      "ja": "神かれらを殺したまへる時かれら神をたづね歸りきたりて懇ろに神をもとめたり"
+    },
+    {
+      "number": 35,
+      "ko": "하나님이 그들의 반석이시며 지존하신 하나님이 그들의 구속자이심을 기억하였도다",
+      "en": "They remembered that God was their Rock, that God Most High was their Redeemer.",
+      "de": "und gedachten, daß Gott ihr Hort ist und Gott der Höchste ihr Erlöser ist,",
+      "zh": "他们也追念　神是他们的磐石， 至高的　神是他们的救赎主。",
+      "ja": "かくて神はおのれの磐いとたかき神はおのれの贖主なることをおもひいでたり"
+    },
+    {
+      "number": 36,
+      "ko": "그러나 그들이 입으로 그에게 아첨하며 자기 혀로 그에게 거짓을 말하였으니",
+      "en": "But then they would flatter him with their mouths, lying to him with their tongues;",
+      "de": "und heuchelten mit ihrem Munde und logen ihm mit ihrer Zunge;",
+      "zh": "他们却用口谄媚他， 用舌向他说谎。",
+      "ja": "然はあれど彼等はただその口をもて神にへつらひその舌をもて神にいつはりをいひたりしのみ"
+    },
+    {
+      "number": 37,
+      "ko": "이는 하나님께 향하는 그들의 마음이 정함이 없으며 그의 언약에 성실하지 아니하였음이로다",
+      "en": "their hearts were not loyal to him, they were not faithful to his covenant.",
+      "de": "aber ihr Herz war nicht fest an ihm, und hielten nicht treulich an seinem Bund.",
+      "zh": "因他们的心向他不正， 在他的约上也不忠心。",
+      "ja": "そはかれらのこころは神にむかひて堅からず その契約をまもるに忠信ならざりき"
+    },
+    {
+      "number": 38,
+      "ko": "오직 하나님은 긍휼하시므로 죄악을 덮어 주시어 멸망시키지 아니하시고 그의 진노를 여러 번 돌이키시며 그의 모든 분을 다 쏟아 내지 아니하셨으니",
+      "en": "Yet he was merciful; he forgave their iniquities and did not destroy them. Time after time he restrained his anger and did not stir up his full wrath.",
+      "de": "Er aber war barmherzig und vergab die Missetat und vertilgte sie nicht und wandte oft seinen Zorn ab und ließ nicht seinen ganzen Zorn gehen.",
+      "zh": "但他有怜悯， 赦免他们的罪孽， 不灭绝他们， 而且屡次消他的怒气， 不发尽他的忿怒。",
+      "ja": "されど神はあはれみに充たまへばかれらの不義をゆるして亡したまはず屡ばそのみいかりを轉してことごとくは忿恚をふりおこし給はざりき"
+    },
+    {
+      "number": 39,
+      "ko": "그들은 육체이며 가고 다시 돌아오지 못하는 바람임을 기억하셨음이라",
+      "en": "He remembered that they were but flesh, a passing breeze that does not return.",
+      "de": "Denn er gedachte, daß sie Fleisch sind, ein Wind, der dahinfährt und nicht wiederkommt.",
+      "zh": "他想到他们不过是血气， 是一阵去而不返的风。",
+      "ja": "又かれがただ肉にして過去ばふたたび歸りこぬ風なるをおもひいで給へり"
+    },
+    {
+      "number": 40,
+      "ko": "그들이 광야에서 그에게 반항하며 사막에서 그를 슬프시게 함이 몇 번인가",
+      "en": "How often they rebelled against him in the desert and grieved him in the wasteland!",
+      "de": "Wie oft erzürnten sie ihn in der Wüste und entrüsteten ihn in der Einöde!",
+      "zh": "他们在旷野悖逆他， 在荒地叫他担忧，何其多呢！",
+      "ja": "かれらは野にて神にそむき荒野にて神をうれへしめしこと幾次ぞや"
+    },
+    {
+      "number": 41,
+      "ko": "그들이 돌이켜 하나님을 거듭거듭 시험하며 이스라엘의 거룩하신 이를 노엽게 하였도다",
+      "en": "Again and again they put God to the test; they vexed the Holy One of Israel.",
+      "de": "Sie versuchten Gott immer wieder und meisterten den Heiligen in Israel.",
+      "zh": "他们再三试探　神， 惹动以色列的圣者。",
+      "ja": "かれらかへすがへす神をこころみイスラエルの聖者をはづかしめたり"
+    },
+    {
+      "number": 42,
+      "ko": "그들이 그의 권능의 손을 기억하지 아니하며 대적에게서 그들을 구원하신 날도 기억하지 아니하였도다",
+      "en": "They did not remember his power--the day he redeemed them from the oppressor,",
+      "de": "Sie gedachten nicht an seine Hand des Tages, da er sie erlöste von den Feinden;",
+      "zh": "他们不追念他的能力 和赎他们脱离敌人的日子；",
+      "ja": "かれらは神の手をも敵より贖ひたまひし日をもおもひいでざりき"
+    },
+    {
+      "number": 43,
+      "ko": "그 때에 하나님이 애굽에서 그의 표적들을, 소안 들에서 그의 징조들을 나타내사",
+      "en": "the day he displayed his miraculous signs in Egypt, his wonders in the region of Zoan.",
+      "de": "wie er denn seine Zeichen in Ägypten getan hatte und seine Wunder im Lande Zoan;",
+      "zh": "他怎样在埃及地显神迹， 在琐安田显奇事，",
+      "ja": "神はそのもろもろの豫兆をエジプトにあらはしその奇しき事をゾアンの野にあらはし"
+    },
+    {
+      "number": 44,
+      "ko": "그들의 강과 시내를 피로 변하여 그들로 마실 수 없게 하시며",
+      "en": "He turned their rivers to blood; they could not drink from their streams.",
+      "de": "da er ihr Wasser in Blut wandelte, daß sie ihre Bäche nicht trinken konnten;",
+      "zh": "把他们的江河并河汊的水都变为血， 使他们不能喝。",
+      "ja": "かれらの河を血にかはらせてその流を飮あたはざらしめ"
+    },
+    {
+      "number": 45,
+      "ko": "쇠파리 떼를 그들에게 보내어 그들을 물게 하시고 개구리를 보내어 해하게 하셨으며",
+      "en": "He sent swarms of flies that devoured them, and frogs that devastated them.",
+      "de": "da er Ungeziefer unter sie schickte, daß sie fraß, und Frösche, die sie verderbten,",
+      "zh": "他叫苍蝇成群落在他们当中，嘬尽他们， 又叫青蛙灭了他们，",
+      "ja": "また蝿の群をおくりてかれらをくはしめ蛙をおくりてかれらを亡させたまへり"
+    },
+    {
+      "number": 46,
+      "ko": "그들의 토산물을 황충에게 주셨고 그들이 수고한 것을 메뚜기에게 주셨으며",
+      "en": "He gave their crops to the grasshopper, their produce to the locust.",
+      "de": "und gab ihre Gewächse den Raupen und ihre Saat den Heuschrecken;",
+      "zh": "把他们的土产交给蚂蚱， 把他们辛苦得来的交给蝗虫。",
+      "ja": "神はかれらの田產を蟊賊にわたし かれらの勤勞を蝗にあたへたまへり"
+    },
+    {
+      "number": 47,
+      "ko": "그들의 포도나무를 우박으로, 그들의 뽕나무를 서리로 죽이셨으며",
+      "en": "He destroyed their vines with hail and their sycamore-figs with sleet.",
+      "de": "da er ihre Weinstöcke mit Hagel schlug und ihre Maulbeerbäume mit Schloßen;",
+      "zh": "他降冰雹打坏他们的葡萄树， 下严霜打坏他们的桑树，",
+      "ja": "神は雹をもてかれらの葡萄の樹をからし霜をもてかれらの桑の樹をからし"
+    },
+    {
+      "number": 48,
+      "ko": "그들의 가축을 우박에, 그들의 양 떼를 번갯불에 넘기셨으며",
+      "en": "He gave over their cattle to the hail, their livestock to bolts of lightning.",
+      "de": "da er ihr Vieh schlug mit Hagel und ihre Herden mit Wetterstrahlen;",
+      "zh": "又把他们的牲畜交给冰雹， 把他们的群畜交给闪电。",
+      "ja": "その家畜をへうにわたしその群をもゆる閃電にわたし"
+    },
+    {
+      "number": 49,
+      "ko": "그의 맹렬한 노여움과 진노와 분노와 고난 곧 재앙의 천사들을 그들에게 내려보내셨으며",
+      "en": "He unleashed against them his hot anger, his wrath, indignation and hostility--a band of destroying angels.",
+      "de": "da er böse Engel unter sie sandte in seinem grimmigen Zorn und ließ sie toben und wüten und Leid tun;",
+      "zh": "他使猛烈的怒气和忿怒、恼恨、苦难 成了一群降灾的使者，临到他们。",
+      "ja": "かれらの上にはげしき怒といきどほりと怨恨となやみと禍害のつかひの群とをなげいだし給へり"
+    },
+    {
+      "number": 50,
+      "ko": "그는 진노로 길을 닦으사 그들의 목숨이 죽음을 면하지 못하게 하시고 그들의 생명을 전염병에 붙이셨으며",
+      "en": "He prepared a path for his anger; he did not spare them from death but gave them over to the plague.",
+      "de": "da er seinen Zorn ließ fortgehen und ihre Seele vor dem Tode nicht verschonte und übergab ihr Leben der Pestilenz;",
+      "zh": "他为自己的怒气修平了路， 将他们交给瘟疫， 使他们死亡，",
+      "ja": "神はその怒をもらす道をまうけ かれらのたましひを死よりまぬかれしめず そのいのちを疫癘にわたし"
+    },
+    {
+      "number": 51,
+      "ko": "애굽에서 모든 장자 곧 함의 장막에 있는 그들의 기력의 처음 것을 치셨으나",
+      "en": "He struck down all the firstborn of Egypt, the firstfruits of manhood in the tents of Ham.",
+      "de": "da er alle Erstgeburt in Ägypten schlug, die Erstlinge ihrer Kraft in den Hütten Hams,",
+      "zh": "在埃及击杀一切长子， 在含的帐棚中击杀他们强壮时头生的。",
+      "ja": "エジプトにてすべての初子をうちハムの幕屋にてかれらの力の始をうちたまへり"
+    },
+    {
+      "number": 52,
+      "ko": "그가 자기 백성은 양 같이 인도하여 내시고 광야에서 양 떼 같이 지도하셨도다",
+      "en": "But he brought his people out like a flock; he led them like sheep through the desert.",
+      "de": "und ließ sein Volk ausziehen wie die Schafe und führte sie wie eine Herde in der Wüste.",
+      "zh": "他却领出自己的民如羊， 在旷野引他们如羊群。",
+      "ja": "されどおのれの民を羊のごとくに引いだし かれらを曠野にてけだものの群のごとくにみちびき"
+    },
+    {
+      "number": 53,
+      "ko": "그들을 안전히 인도하시니 그들은 두려움이 없었으나 그들의 원수는 바다에 빠졌도다",
+      "en": "He guided them safely, so they were unafraid; but the sea engulfed their enemies.",
+      "de": "Und leitete sie sicher, daß sie sich nicht fürchteten; aber ihre Feinde bedeckte das Meer.",
+      "zh": "他领他们稳稳妥妥地，使他们不致害怕； 海却淹没他们的仇敌。",
+      "ja": "かれらをともなひておそれなく安けからしめ給へり されど海はかれらの仇をおほへり"
+    },
+    {
+      "number": 54,
+      "ko": "그들을 그의 성소의 영역 곧 그의 오른손으로 만드신 산으로 인도하시고",
+      "en": "Thus he brought them to the border of his holy land, to the hill country his right hand had taken.",
+      "de": "Und er brachte sie zu seiner heiligen Grenze, zu diesem Berge, den seine Rechte erworben hat,",
+      "zh": "他带他们到自己圣地的边界， 到他右手所得的这山地。",
+      "ja": "神はその聖所のさかひ その右の手にて購たまへるこの山に彼らを携へたまへり"
+    },
+    {
+      "number": 55,
+      "ko": "또 나라를 그들의 앞에서 쫓아내시며 줄을 쳐서 그들의 소유를 분배하시고 이스라엘의 지파들이 그들의 장막에 살게 하셨도다",
+      "en": "He drove out nations before them and allotted their lands to them as an inheritance; he settled the tribes of Israel in their homes.",
+      "de": "und vertrieb vor ihnen her die Völker und ließ ihnen das Erbe austeilen und ließ in jener Hütten die Stämme Israels wohnen.",
+      "zh": "他在他们面前赶出外邦人， 用绳子将外邦的地量给他们为业， 叫以色列支派的人住在他们的帐棚里。",
+      "ja": "又かれらの前にてもろもろの國人をおもひいだし準縄をもちゐ その地をわかちて嗣業となし イスラエルの族をかれらの幕屋にすまはせたまへり"
+    },
+    {
+      "number": 56,
+      "ko": "그러나 그들은 지존하신 하나님을 시험하고 반항하여 그의 명령을 지키지 아니하며",
+      "en": "But they put God to the test and rebelled against the Most High; they did not keep his statutes.",
+      "de": "Aber sie versuchten und erzürnten Gott den Höchsten und hielten ihre Zeugnisse nicht",
+      "zh": "他们仍旧试探、悖逆至高的　神， 不守他的法度，",
+      "ja": "然はあれど彼等はいとたかき神をこころみ之にそむきてそのもろもろの證詞をまもらず"
+    },
+    {
+      "number": 57,
+      "ko": "그들의 조상들 같이 배반하고 거짓을 행하여 속이는 활 같이 빗나가서",
+      "en": "Like their fathers they were disloyal and faithless, as unreliable as a faulty bow.",
+      "de": "und fielen zurück und verachteten alles wie ihre Väter und hielten nicht, gleichwie ein loser Bogen,",
+      "zh": "反倒退后，行诡诈，像他们的祖宗一样； 他们改变，如同翻背的弓。",
+      "ja": "叛きしりぞきてその列祖の如く眞實をうしなひ くるへる弓のごとくひるがへりて逸ゆけり"
+    },
+    {
+      "number": 58,
+      "ko": "자기 산당들로 그의 노여움을 일으키며 그들의 조각한 우상들로 그를 진노하게 하였으매",
+      "en": "They angered him with their high places; they aroused his jealousy with their idols.",
+      "de": "und erzürnten ihn mit ihren Höhen und reizten ihn mit ihren Götzen.",
+      "zh": "因他们的邱坛惹了他的怒气； 因他们雕刻的偶像触动他的愤恨。",
+      "ja": "高處をまうけて神のいきどほりをひき刻める像にて神の嫉妬をおこしたり"
+    },
+    {
+      "number": 59,
+      "ko": "하나님이 들으시고 분내어 이스라엘을 크게 미워하사",
+      "en": "When God heard them, he was very angry; he rejected Israel completely.",
+      "de": "Und da das Gott hörte, entbrannte er und verwarf Israel ganz,",
+      "zh": "神听见就发怒， 极其憎恶以色列人。",
+      "ja": "神ききたまひて甚だしくいかり大にイスラエルを憎みたまひしかば"
+    },
+    {
+      "number": 60,
+      "ko": "사람 가운데 세우신 장막 곧 실로의 성막을 떠나시고",
+      "en": "He abandoned the tabernacle of Shiloh, the tent he had set up among men.",
+      "de": "daß er seine Wohnung zu Silo ließ fahren, die Hütte, da er unter Menschen wohnte,",
+      "zh": "甚至他离弃示罗的帐幕， 就是他在人间所搭的帐棚；",
+      "ja": "人々の間におきたまひし幕屋なるシロのあげばりを棄さり"
+    },
+    {
+      "number": 61,
+      "ko": "그가 그의 능력을 포로에게 넘겨 주시며 그의 영광을 대적의 손에 붙이시고",
+      "en": "He sent the ark of his might into captivity, his splendor into the hands of the enemy.",
+      "de": "und gab seine Macht ins Gefängnis und seine Herrlichkeit in die Hand des Feindes",
+      "zh": "又将他的约柜交与人掳去， 将他的荣耀交在敌人手中；",
+      "ja": "その力をとりことならしめ その榮光を敵の手にわたし"
+    },
+    {
+      "number": 62,
+      "ko": "그가 그의 소유 때문에 분내사 그의 백성을 칼에 넘기셨으니",
+      "en": "He gave his people over to the sword; he was very angry with his inheritance.",
+      "de": "und übergab sein Volk ins Schwert und entbrannte über sein Erbe.",
+      "zh": "并将他的百姓交与刀剑， 向他的产业发怒。",
+      "ja": "その民を劍にあたへ その嗣業にむかひて甚だしく怒りたまへり"
+    },
+    {
+      "number": 63,
+      "ko": "그들의 청년은 불에 살라지고 그들의 처녀들은 혼인 노래를 들을 수 없었으며",
+      "en": "Fire consumed their young men, and their maidens had no wedding songs;",
+      "de": "Ihre junge Mannschaft fraß das Feuer, und ihre Jungfrauen mußten ungefreit bleiben.",
+      "zh": "少年人被火烧灭； 处女也无喜歌。",
+      "ja": "火はかれらのわかき男をやきつくし かれらの處女はその婚姻の歌によりて譽らるることなく"
+    },
+    {
+      "number": 64,
+      "ko": "그들의 제사장들은 칼에 엎드러지고 그들의 과부들은 애곡도 하지 못하였도다",
+      "en": "their priests were put to the sword, and their widows could not weep.",
+      "de": "Ihre Priester fielen durchs Schwert, und waren keine Witwen, die da weinen sollten.",
+      "zh": "祭司倒在刀下， 寡妇却不哀哭。",
+      "ja": "かれらの祭司はつるぎにて仆れ かれらの寡婦は喪のなげきだにせざりき"
+    },
+    {
+      "number": 65,
+      "ko": "그 때에 주께서 잠에서 깨어난 것처럼, 포도주를 마시고 고함치는 용사처럼 일어나사",
+      "en": "Then the Lord awoke as from sleep, as a man wakes from the stupor of wine.",
+      "de": "Und der Herr erwachte wie ein Schlafender, wie ein Starker jauchzt, der vom Wein kommt,",
+      "zh": "那时，主像世人睡醒， 像勇士饮酒呼喊。",
+      "ja": "斯るときに主はねぶりし者のさめしごとく勇士の酒によりてさけぶがごとく目さめたまひて"
+    },
+    {
+      "number": 66,
+      "ko": "그의 대적들을 쳐 물리쳐서 영원히 그들에게 욕되게 하셨도다",
+      "en": "He beat back his enemies; he put them to everlasting shame.",
+      "de": "und schlug seine Feinde zurück und hängte ihnen ewige Schande an.",
+      "zh": "他就打退了他的敌人， 叫他们永蒙羞辱；",
+      "ja": "その敵をうちしりぞけ とこしへの辱をかれらに負せたまへり"
+    },
+    {
+      "number": 67,
+      "ko": "또 요셉의 장막을 버리시며 에브라임 지파를 택하지 아니하시고",
+      "en": "Then he rejected the tents of Joseph, he did not choose the tribe of Ephraim;",
+      "de": "Und er verwarf die Hütte Josephs und erwählte nicht den Stamm Ephraim,",
+      "zh": "并且他弃掉约瑟的帐棚， 不拣选以法莲支派，",
+      "ja": "またヨセフの幕屋をいなみエフライムの族をえらばず"
+    },
+    {
+      "number": 68,
+      "ko": "오직 유다 지파와 그가 사랑하시는 시온 산을 택하시며",
+      "en": "but he chose the tribe of Judah, Mount Zion, which he loved.",
+      "de": "sondern erwählte den Stamm Juda, den Berg Zion, welchen er liebte.",
+      "zh": "却拣选犹大支派—他所喜爱的锡安山；",
+      "ja": "ユダの族そのいつくしみたまふシオンの山をえらびたまへり"
+    },
+    {
+      "number": 69,
+      "ko": "그의 성소를 산의 높음 같이, 영원히 두신 땅 같이 지으셨도다",
+      "en": "He built his sanctuary like the heights, like the earth that he established forever.",
+      "de": "Und baute sein Heiligtum hoch, wie die Erde, die ewiglich fest stehen soll.",
+      "zh": "盖造他的圣所，好像高峰， 又像他建立永存之地；",
+      "ja": "その聖所を山のごとく永遠にさだめたまへる地のごとくに立たまへり"
+    },
+    {
+      "number": 70,
+      "ko": "또 그의 종 다윗을 택하시되 양의 우리에서 취하시며",
+      "en": "He chose David his servant and took him from the sheep pens;",
+      "de": "Und erwählte seinen Knecht David und nahm ihn von den Schafställen;",
+      "zh": "又拣选他的仆人大卫， 从羊圈中将他召来，",
+      "ja": "またその僕ダビデをえらびて羊の牢のなかよりとり"
+    },
+    {
+      "number": 71,
+      "ko": "젖 양을 지키는 중에서 그들을 이끌어 내사 그의 백성인 야곱, 그의 소유인 이스라엘을 기르게 하셨더니",
+      "en": "from tending the sheep he brought him to be the shepherd of his people Jacob, of Israel his inheritance.",
+      "de": "von den säugenden Schafen holte er ihn, daß er sein Volk Jakob weiden sollte und sein Erbe Israel.",
+      "zh": "叫他不再跟从那些带奶的母羊， 为要牧养自己的百姓雅各 和自己的产业以色列。",
+      "ja": "乳をあたふる牝羊にしたがひゆく勤のうちより携へきたりてその民ヤコブその嗣業イスラエルを牧はせたまへり"
+    },
+    {
+      "number": 72,
+      "ko": "이에 그가 그들을 자기 마음의 완전함으로 기르고 그의 손의 능숙함으로 그들을 지도하였도다",
+      "en": "And David shepherded them with integrity of heart; with skillful hands he led them.",
+      "de": "Und er weidete sie auch mit aller Treue und regierte mit allem Fleiß.",
+      "zh": "于是，他按心中的纯正牧养他们， 用手中的巧妙引导他们。",
+      "ja": "斯てダビデはそのこころの完全にしたがひてかれらを牧ひ その手のたくみをもて之をみちびけり"
+    }
+  ]
+}

@@ -1,0 +1,222 @@
+{
+  "book": "2 Samuel",
+  "chapter": 1,
+  "verses": [
+    {
+      "number": 1,
+      "ko": "사울이 죽은 후에 다윗이 아말렉 사람을 쳐죽이고 돌아와 다윗이 시글락에서 이틀을 머물더니",
+      "en": "After the death of Saul, David returned from defeating the Amalekites and stayed in Ziklag two days.",
+      "de": "Nach dem Tode Sauls, da David von der Amalekiter Schlacht wiedergekommen und zwei Tage in Ziklag geblieben war,",
+      "zh": "扫罗死后，大卫击杀亚玛力人回来，在洗革拉住了两天。",
+      "ja": "サウルの死し後ダビデ、アマレク人を撃てかへりチクラグに二日とどまりけるが"
+    },
+    {
+      "number": 2,
+      "ko": "사흘째 되는 날에 한 사람이 사울의 진영에서 나왔는데 그의 옷은 찢어졌고 머리에는 흙이 있더라 그가 다윗에게 나아와 땅에 엎드려 절하매",
+      "en": "On the third day a man arrived from Saul's camp, with his clothes torn and with dust on his head. When he came to David, he fell to the ground to pay him honor.",
+      "de": "siehe, da kam am dritten Tage ein Mann aus dem Heer von Saul mit zerrissenen Kleidern und Erde auf seinem Haupt. Und da er zu David kam, fiel er zur Erde und beugte sich nieder.",
+      "zh": "第三天，有一人从扫罗的营里出来，衣服撕裂，头蒙灰尘，到大卫面前伏地叩拜。",
+      "ja": "第三日に及びて一個の人其衣を裂き頭に土をかむりて陣營より即ちサウルの所より來りダビデの許にいたり地にふして拝せり"
+    },
+    {
+      "number": 3,
+      "ko": "다윗이 그에게 묻되 너는 어디서 왔느냐 하니 대답하되 이스라엘 진영에서 도망하여 왔나이다 하니라",
+      "en": "\"Where have you come from?\" David asked him. He answered, \"I have escaped from the Israelite camp.\"",
+      "de": "David aber sprach zu ihm: Wo kommst du her? Er sprach zu ihm: Aus dem Heer Israels bin ich entronnen.",
+      "zh": "大卫问他说：「你从哪里来？」他说：「我从以色列的营里逃来。」",
+      "ja": "ダビデかれにいひけるは汝いづくより來れるやかれダビデにいひけるはイスラエルの陣營より逃れきたれり"
+    },
+    {
+      "number": 4,
+      "ko": "다윗이 그에게 이르되 일이 어떻게 되었느냐 너는 내게 말하라 그가 대답하되 군사가 전쟁 중에 도망하기도 하였고 무리 가운데에 엎드러져 죽은 자도 많았고 사울과 그의 아들 요나단도 죽었나이다 하는지라",
+      "en": "\"What happened?\" David asked. \"Tell me.\" He said, \"The men fled from the battle. Many of them fell and died. And Saul and his son Jonathan are dead.\"",
+      "de": "David sprach zu ihm: Sage mir, wie geht es zu? Er sprach: Das Volk ist geflohen vom Streit, und ist viel Volks gefallen; dazu ist Saul tot und sein Sohn Jonathan.",
+      "zh": "大卫又问他说：「事情怎样？请你告诉我。」他回答说：「百姓从阵上逃跑，也有许多人仆倒死亡；扫罗和他儿子约拿单也死了。」",
+      "ja": "ダビデかれにいひけるは事いかん請ふ我につげよかれこたへけるは民戰に敗れて逃げ民おほく仆れて死りまたサウルと其子ヨナタンも死り"
+    },
+    {
+      "number": 5,
+      "ko": "다윗이 자기에게 알리는 청년에게 묻되 사울과 그의 아들 요나단이 죽은 줄을 네가 어떻게 아느냐",
+      "en": "Then David said to the young man who brought him the report, \"How do you know that Saul and his son Jonathan are dead?\"",
+      "de": "David sprach zu dem Jüngling, der ihm solches sagte: Woher weißt du, daß Saul und Jonathan tot sind?",
+      "zh": "大卫问报信的少年人说：「你怎么知道扫罗和他儿子约拿单死了呢？」",
+      "ja": "ダビデ其おのれにつぐる少者にいひけるは汝いかにしてサウルと其子ヨナタンの死たるをしるや"
+    },
+    {
+      "number": 6,
+      "ko": "그에게 알리는 청년이 이르되 내가 우연히 길보아 산에 올라가 보니 사울이 자기 창에 기대고 병거와 기병은 그를 급히 따르는데",
+      "en": "\"I happened to be on Mount Gilboa,\" the young man said, \"and there was Saul, leaning on his spear, with the chariots and riders almost upon him.",
+      "de": "Der Jüngling, der ihm solches sagte, sprach: Ich kam von ungefähr aufs Gebirge Gilboa, und siehe Saul lehnte sich auf seinen Spieß, und die Wagen und Reiter jagten hinter ihm her.",
+      "zh": "报信的少年人说：「我偶然到基利波山，看见扫罗伏在自己枪上，有战车、马兵紧紧地追他。",
+      "ja": "ダビデにつぐる少者いひけるは我はからずもギルボア山にのぼり見しにサウル其槍に倚かかりをりて戰車と騎兵かれにせめよらんとせり"
+    },
+    {
+      "number": 7,
+      "ko": "사울이 뒤로 돌아 나를 보고 부르시기로 내가 대답하되 내가 여기 있나이다 한즉",
+      "en": "When he turned around and saw me, he called out to me, and I said, 'What can I do?'",
+      "de": "Und er wandte sich um und sah mich und rief mich. Und ich sprach: Hier bin ich.",
+      "zh": "他回头看见我，就呼叫我。我说：『我在这里。』",
+      "ja": "彼うしろにふりむきて我を見我をよびたれば我こたへて我ここにありといふ"
+    },
+    {
+      "number": 8,
+      "ko": "내게 이르되 너는 누구냐 하시기로 내가 그에게 대답하되 나는 아말렉 사람이니이다 한즉",
+      "en": "\"He asked me, 'Who are you?' \"'An Amalekite,' I answered.",
+      "de": "Und er sprach zu mir: Wer bist du? Ich sprach zu ihm: Ich bin ein Amalekiter.",
+      "zh": "他问我说：『你是什么人？』我说：『我是亚玛力人。』",
+      "ja": "かれ我に汝は誰なるやといひければ我かれにこたへて我はアマレク人なりといふ"
+    },
+    {
+      "number": 9,
+      "ko": "또 내게 이르시되 내 목숨이 아직 내게 완전히 있으므로 내가 고통 중에 있나니 청하건대 너는 내 곁에 서서 나를 죽이라 하시기로",
+      "en": "\"Then he said to me, 'Stand over me and kill me! I am in the throes of death, but I'm still alive.'",
+      "de": "Und er sprach zu mir: Tritt zu mir und töte mich; denn ich bin bedrängt umher, und mein Leben ist noch ganz in mir.",
+      "zh": "他说：『请你来，将我杀死；因为痛苦抓住我，我的生命尚存。』",
+      "ja": "かれまた我にいひけるはわが身いたく攣ば請ふ我うへにのりて我をころせわが生命なほわれの中にまつたければなりと"
+    },
+    {
+      "number": 10,
+      "ko": "그가 엎드러진 후에는 살 수 없는 줄을 내가 알고 그의 곁에 서서 죽이고 그의 머리에 있는 왕관과 팔에 있는 고리를 벗겨서 내 주께로 가져왔나이다 하니라",
+      "en": "\"So I stood over him and killed him, because I knew that after he had fallen he could not survive. And I took the crown that was on his head and the band on his arm and have brought them here to my lord.\"",
+      "de": "Da trat ich zu ihm und tötete ihn; denn ich wußte wohl, daß er nicht leben konnte nach seinem Fall; und nahm die Krone von seinem Haupt und das Armgeschmeide von seinem Arm und habe es hergebracht zu dir, meinem Herrn.",
+      "zh": "我准知他仆倒必不能活，就去将他杀死，把他头上的冠冕、臂上的镯子拿到我主这里。」",
+      "ja": "我すなはちかれの上にのりてかれを殺したり其は我かれが旣に仆て生ることをえざるをしりたればなりしかして我その首にありし冕とその腕にありし釧を取りてこれをわが主に携へきたれり"
+    },
+    {
+      "number": 11,
+      "ko": "이에 다윗이 자기 옷을 잡아 찢으매 함께 있는 모든 사람도 그리하고",
+      "en": "Then David and all the men with him took hold of their clothes and tore them.",
+      "de": "Da faßte David seine Kleider und zerriß sie, und alle Männer, die bei ihm waren,",
+      "zh": "大卫就撕裂衣服，跟随他的人也是如此，",
+      "ja": "是においてダビデおのれの衣を執てこれを裂けりまた彼とともにある者も皆しかせり"
+    },
+    {
+      "number": 12,
+      "ko": "사울과 그의 아들 요나단과 여호와의 백성과 이스라엘 족속이 칼에 죽음으로 말미암아 저녁 때까지 슬퍼하여 울며 금식하니라",
+      "en": "They mourned and wept and fasted till evening for Saul and his son Jonathan, and for the army of the LORD and the house of Israel, because they had fallen by the sword.",
+      "de": "und trugen Leid und weinten und fasteten bis an den Abend über Saul und Jonathan, seinen Sohn, und über das Volk des HERRN und über das Haus Israel, daß sie durchs Schwert gefallen waren.",
+      "zh": "而且悲哀哭号，禁食到晚上，是因扫罗和他儿子约拿单，并耶和华的民以色列家的人，倒在刀下。",
+      "ja": "彼等サウルのためまた其子ヨナタンのためまたヱホバの民のためイスラエルの家のために哭きかなしみて晩まで食を斷り其は彼ら劍にたふれたればなり"
+    },
+    {
+      "number": 13,
+      "ko": "다윗이 그 소식을 전한 청년에게 묻되 너는 어디 사람이냐 대답하되 나는 아말렉 사람 곧 외국인의 아들이니이다 하니",
+      "en": "David said to the young man who brought him the report, \"Where are you from?\" \"I am the son of an alien, an Amalekite,\" he answered.",
+      "de": "Und David sprach zu dem Jüngling, der es ihm ansagte: Wo bist du her? Er sprach: Ich bin eines Fremdlings, eines Amalekiters, Sohn.",
+      "zh": "大卫问报信的少年人说：「你是哪里的人？」他说：「我是亚玛力客人的儿子。」",
+      "ja": "ダビデおのれに告し少者にいひけるは汝は何處の者なるやかれこたへけるは我は他國の人すなはちアマレク人なりと"
+    },
+    {
+      "number": 14,
+      "ko": "다윗이 그에게 이르되 네가 어찌하여 손을 들어 여호와의 기름 부음 받은 자 죽이기를 두려워하지 아니하였느냐 하고",
+      "en": "David asked him, \"Why were you not afraid to lift your hand to destroy the LORD'S anointed?\"",
+      "de": "David sprach zu ihm: Wie, daß du dich nicht gefürchtet hast, deine Hand zu legen an den Gesalbten des HERRN, ihn zu verderben!",
+      "zh": "大卫说：「你伸手杀害耶和华的受膏者，怎么不畏惧呢？」",
+      "ja": "ダビデかれにいひけるは汝なんぞ手をのばしてヱホバの膏そそぎし者をころすことを畏ざりしやと"
+    },
+    {
+      "number": 15,
+      "ko": "다윗이 청년 중 한 사람을 불러 이르되 가까이 가서 그를 죽이라 하매 그가 치매 곧 죽으니라",
+      "en": "Then David called one of his men and said, \"Go, strike him down!\" So he struck him down, and he died.",
+      "de": "Und David sprach zu seiner Jünglinge einem: Herzu, und schlag ihn! Und er schlug, ihn daß er starb.",
+      "zh": "大卫叫了一个少年人来，说：「你去杀他吧！」",
+      "ja": "ダビデ一人の少者をよびていひけるは近よりてかれをころせとすなはちかれをうちければ死り"
+    },
+    {
+      "number": 16,
+      "ko": "다윗이 그에게 이르기를 네 피가 네 머리로 돌아갈지어다 네 입이 네게 대하여 증언하기를 내가 여호와의 기름 부음 받은 자를 죽였노라 함이니라 하였더라",
+      "en": "For David had said to him, \"Your blood be on your own head. Your own mouth testified against you when you said, 'I killed the LORD'S anointed.'\"",
+      "de": "Da sprach David zu ihm: Dein Blut sei über deinem Kopf; denn dein Mund hat wider dich selbst geredet und gesprochen: Ich habe den Gesalbten des HERRN getötet.",
+      "zh": "大卫对他说：「你流人血的罪归到自己的头上，因为你亲口作见证说：『我杀了耶和华的受膏者。』」少年人就把他杀了。",
+      "ja": "ダビデかれにいひけるは汝の血は汝の首に歸せよ其は汝口づから我ヱホバのあぶらそそぎし者をころせりといひて己にむかひて證をたつればなり"
+    },
+    {
+      "number": 17,
+      "ko": "다윗이 이 슬픈 노래로 사울과 그의 아들 요나단을 조상하고",
+      "en": "David took up this lament concerning Saul and his son Jonathan,",
+      "de": "Und David klagte diese Klage über Saul und Jonathan, seinen Sohn,",
+      "zh": "大卫作哀歌，吊扫罗和他儿子约拿单，",
+      "ja": "ダビデ悲歌をもてサウルと其子ヨナタンを吊ふ"
+    },
+    {
+      "number": 18,
+      "ko": "명령하여 그것을 유다 족속에게 가르치라 하였으니 곧 활 노래라 야살의 책에 기록되었으되",
+      "en": "and ordered that the men of Judah be taught this lament of the bow (it is written in the Book of Jashar):",
+      "de": "und befahl, man sollte die Kinder Juda das Bogenlied lehren. Siehe, es steht geschrieben im Buch der Redlichen:",
+      "zh": "且吩咐将这歌教导犹大人。这歌名叫「弓歌」，写在雅煞珥书上。",
+      "ja": "ダビデ命じてこれをユダの族にをしへしむ即ち弓の歌是なり是はヤシル書に記さる"
+    },
+    {
+      "number": 19,
+      "ko": "이스라엘아 네 영광이 산 위에서 죽임을 당하였도다 오호라 두 용사가 엎드러졌도다",
+      "en": "\"Your glory, O Israel, lies slain on your heights. How the mighty have fallen!",
+      "de": "“Die Edelsten in Israel sind auf deiner Höhe erschlagen. Wie sind die Helden gefallen!",
+      "zh": "歌中说：以色列啊， 你尊荣者在山上被杀！ 大英雄何竟死亡！",
+      "ja": "イスラエルよ汝の榮耀は汝の崇邱に殺さる嗚呼勇士は仆れたるかな"
+    },
+    {
+      "number": 20,
+      "ko": "이 일을 가드에도 알리지 말며 아스글론 거리에도 전파하지 말지어다 블레셋 사람들의 딸들이 즐거워할까, 할례 받지 못한 자의 딸들이 개가를 부를까 염려로다",
+      "en": "\"Tell it not in Gath, proclaim it not in the streets of Ashkelon, lest the daughters of the Philistines be glad, lest the daughters of the uncircumcised rejoice.",
+      "de": "Sagt's nicht an zu Gath, verkündet's nicht auf den Gassen zu Askalon, daß sich nicht freuen die Töchter der Philister, daß nicht frohlocken die Töchter der Unbeschnittenen.",
+      "zh": "不要在迦特报告； 不要在亚实基伦街上传扬； 免得非利士的女子欢乐； 免得未受割礼之人的女子矜夸。",
+      "ja": "此事をガテに告るなかれアシケロンの邑に傳るなかれ恐くはペリシテ人の女等喜ばん恐くは割禮を受ざる者の女等樂み祝はん"
+    },
+    {
+      "number": 21,
+      "ko": "길보아 산들아 너희 위에 이슬과 비가 내리지 아니하며 제물 낼 밭도 없을지어다 거기서 두 용사의 방패가 버린 바 됨이니라 곧 사울의 방패가 기름 부음을 받지 아니함 같이 됨이로다",
+      "en": "\"O mountains of Gilboa, may you have neither dew nor rain, nor fields that yield offerings of grain. For there the shield of the mighty was defiled, the shield of Saul--no longer rubbed with oil.",
+      "de": "Ihr Berge zu Gilboa, es müsse weder tauen noch regnen auf euch noch Äcker sein, davon Hebopfer kommen; denn daselbst ist den Helden ihr Schild abgeschlagen, der Schild Sauls, als wäre er nicht gesalbt mit Öl.",
+      "zh": "基利波山哪，愿你那里没有雨露！ 愿你田地无土产可作供物！ 因为英雄的盾牌在那里被污丢弃； 扫罗的盾牌仿佛未曾抹油。",
+      "ja": "ギルボアの山よ願は汝の上に雨露降ることあらざれ亦供物の田園もあらざれ其は彼處に勇士の干棄らるればなり即ちサウルの干膏を沃がずして彼處に棄らる"
+    },
+    {
+      "number": 22,
+      "ko": "죽은 자의 피에서, 용사의 기름에서 요나단의 활이 뒤로 물러가지 아니하였으며 사울의 칼이 헛되이 돌아오지 아니하였도다",
+      "en": "From the blood of the slain, from the flesh of the mighty, the bow of Jonathan did not turn back, the sword of Saul did not return unsatisfied.",
+      "de": "Der Bogen Jonathans hat nie gefehlt, und das Schwert Sauls ist nie leer wiedergekommen von dem Blut der Erschlagenen und vom Fett der Helden.",
+      "zh": "约拿单的弓箭非流敌人的血不退缩； 扫罗的刀剑非剖勇士的油不收回。",
+      "ja": "殺せし者の血をのまずしてヨナタンの弓は退かず勇士の脂を食ずしてサウルの劍は空く歸らず"
+    },
+    {
+      "number": 23,
+      "ko": "사울과 요나단이 생전에 사랑스럽고 아름다운 자이러니 죽을 때에도 서로 떠나지 아니하였도다 그들은 독수리보다 빠르고 사자보다 강하였도다",
+      "en": "\"Saul and Jonathan--in life they were loved and gracious, and in death they were not parted. They were swifter than eagles, they were stronger than lions.",
+      "de": "Saul und Jonathan, holdselig und lieblich in ihrem Leben, sind auch im Tode nicht geschieden; schneller waren sie denn die Adler und stärker denn die Löwen.",
+      "zh": "扫罗和约拿单— 活时相悦相爱，死时也不分离 —他们比鹰更快，比狮子还强。",
+      "ja": "サウルとヨナタンは愛らしく樂げにして生死ともに離れず二人は鷲よりも捷く獅子よりも強かりき"
+    },
+    {
+      "number": 24,
+      "ko": "이스라엘 딸들아 사울을 슬퍼하여 울지어다 그가 붉은 옷으로 너희에게 화려하게 입혔고 금 노리개를 너희 옷에 채웠도다",
+      "en": "\"O daughters of Israel, weep for Saul, who clothed you in scarlet and finery, who adorned your garments with ornaments of gold.",
+      "de": "Ihr Töchter Israels, weint über Saul, der euch kleidete mit Scharlach säuberlich und schmückte euch mit goldenen Kleinoden an euren Kleidern.",
+      "zh": "以色列的女子啊，当为扫罗哭号！ 他曾使你们穿朱红色的美衣， 使你们衣服有黄金的妆饰。",
+      "ja": "イスラエルの女等よサウルのために哀けサウルは絳き衣をもて汝等を華麗に粧ひ金の飾を汝等の衣に着たり"
+    },
+    {
+      "number": 25,
+      "ko": "오호라 두 용사가 전쟁 중에 엎드러졌도다 요나단이 네 산 위에서 죽임을 당하였도다",
+      "en": "\"How the mighty have fallen in battle! Jonathan lies slain on your heights.",
+      "de": "Wie sind die Helden so gefallen im Streit! Jonathan ist auf deinen Höhen erschlagen.",
+      "zh": "英雄何竟在阵上仆倒！ 约拿单何竟在山上被杀！",
+      "ja": "嗚呼勇士は戰の中に仆たるかなヨナタン汝の崇邱に殺されぬ"
+    },
+    {
+      "number": 26,
+      "ko": "내 형 요나단이여 내가 그대를 애통함은 그대는 내게 심히 아름다움이라 그대가 나를 사랑함이 기이하여 여인의 사랑보다 더하였도다",
+      "en": "I grieve for you, Jonathan my brother; you were very dear to me. Your love for me was wonderful, more wonderful than that of women.",
+      "de": "Es ist mir Leid um dich, mein Bruder Jonathan: ich habe große Freude und Wonne an dir gehabt; deine Liebe ist mir sonderlicher gewesen, denn Frauenliebe ist.",
+      "zh": "我兄约拿单哪，我为你悲伤！ 我甚喜悦你！ 你向我发的爱情奇妙非常， 过于妇女的爱情。",
+      "ja": "兄弟ヨナタンよ我汝のために悲慟む汝は大に我に樂き者なりき汝の我をいつくしめる愛は尋常ならず婦の愛にも勝りたり"
+    },
+    {
+      "number": 27,
+      "ko": "오호라 두 용사가 엎드러졌으며 싸우는 무기가 망하였도다 하였더라",
+      "en": "\"How the mighty have fallen! The weapons of war have perished!\"",
+      "de": "Wie sind die Helden gefallen und die Streitbaren umgekommen!”",
+      "zh": "英雄何竟仆倒！ 战具何竟灭没！",
+      "ja": "嗚呼勇士は仆たるかな戰の具は失たるかな"
+    }
+  ]
+}

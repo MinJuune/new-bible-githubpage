@@ -1,0 +1,110 @@
+{
+  "book": "Zechariah",
+  "chapter": 2,
+  "verses": [
+    {
+      "number": 1,
+      "ko": "내가 또 눈을 들어 본즉 한 사람이 측량줄을 그의 손에 잡았기로",
+      "en": "Then I looked up--and there before me was a man with a measuring line in his hand!",
+      "de": "Und ich hob meine Augen auf und sah, und siehe, ein Mann hatte eine Meßschnur in der Hand.",
+      "zh": "我又举目观看，见一人手拿准绳。",
+      "ja": "茲に我目を擧て觀しに一箇の人量繩を手に執居ければ"
+    },
+    {
+      "number": 2,
+      "ko": "네가 어디로 가느냐 물은즉 그가 내게 대답하되 예루살렘을 측량하여 그 너비와 길이를 보고자 하노라 하고 말할 때에",
+      "en": "I asked, \"Where are you going?\" He answered me, \"To measure Jerusalem, to find out how wide and how long it is.\"",
+      "de": "Und ich sprach: Wo gehst du hin? Er aber sprach zu mir: Daß ich Jerusalem messe und sehe, wie lang und weit es sein soll.",
+      "zh": "我说：「你往哪里去？」他对我说：「要去量耶路撒冷，看有多宽多长。」",
+      "ja": "汝は何處へ往くやと問しにヱルサレムを量りてその廣と長の幾何なるを觀んとすと我に答ふ"
+    },
+    {
+      "number": 3,
+      "ko": "내게 말하는 천사가 나가고 다른 천사가 나와서 그를 맞으며",
+      "en": "Then the angel who was speaking to me left, and another angel came to meet him",
+      "de": "Und siehe, der Engel, der mit mir redete, ging heraus; und ein anderer Engel ging heraus ihm entgegen",
+      "zh": "与我说话的天使去的时候，又有一位天使迎着他来，",
+      "ja": "時に我に語ふ天の使出行たりしが又一箇の天の使出きたりて之に會ひ"
+    },
+    {
+      "number": 4,
+      "ko": "이르되 너는 달려가서 그 소년에게 말하여 이르기를 예루살렘은 그 가운데 사람과 가축이 많으므로 성곽 없는 성읍이 될 것이라 하라",
+      "en": "and said to him: \"Run, tell that young man, 'Jerusalem will be a city without walls because of the great number of men and livestock in it.",
+      "de": "und sprach zu ihm: Lauf hin und sage diesem Jüngling und sprich: Jerusalem wird bewohnt werden ohne Mauern vor großer Menge der Menschen und Viehs, die darin sein werden.",
+      "zh": "对他说：「你跑去告诉那少年人说，耶路撒冷必有人居住，好像无城墙的乡村，因为人民和牲畜甚多。",
+      "ja": "之に言けるは走ゆきてこの少き人に告て言へヱルサレムはその中に人と畜と饒なるによりて野原のごとくに廣く亘るべし"
+    },
+    {
+      "number": 5,
+      "ko": "여호와의 말씀에 내가 불로 둘러싼 성곽이 되며 그 가운데에서 영광이 되리라",
+      "en": "And I myself will be a wall of fire around it,' declares the LORD, 'and I will be its glory within.'",
+      "de": "Und ich will, spricht der HERR, eine feurige Mauer umher sein und will mich herrlich darin erzeigen.",
+      "zh": "耶和华说：我要作耶路撒冷四围的火城，并要作其中的荣耀。」",
+      "ja": "ヱホバ言たまふ我その四周にて火の垣となりその中にて榮光とならん"
+    },
+    {
+      "number": 6,
+      "ko": "오호라 너희는 북방 땅에서 도피할지어다 여호와의 말씀이니라 이는 내가 너희를 하늘 사방에 바람 같이 흩어지게 하였음이니라 여호와의 말씀이니라",
+      "en": "\"Come! Come! Flee from the land of the north,\" declares the LORD, \"for I have scattered you to the four winds of heaven,\" declares the LORD.",
+      "de": "Hui, hui! Fliehet aus dem Mitternachtlande! spricht der HERR; denn ich habe euch in die vier Winde unter dem Himmel zerstreut, spricht der HERR.",
+      "zh": "耶和华说：「我从前分散你们在天的四方，现在你们要从北方之地逃回。这是耶和华说的。",
+      "ja": "ヱホバいひたまふ來れ來れ北の地より逃きたれ我なんぢらを四方の天風のごとくに行わたらしむればなりヱホバこれを言ふ"
+    },
+    {
+      "number": 7,
+      "ko": "바벨론 성에 거주하는 시온아 이제 너는 피할지니라",
+      "en": "\"Come, O Zion! Escape, you who live in the Daughter of Babylon!\"",
+      "de": "Hui, Zion, die du wohnst bei der Tochter Babel, entrinne!",
+      "zh": "与巴比伦人同住的锡安民哪，应当逃脱。",
+      "ja": "來れバビロンの女子とともに居るシオンよ遁れ來れ"
+    },
+    {
+      "number": 8,
+      "ko": "만군의 여호와께서 이같이 말씀하시되 영광을 위하여 나를 너희를 노략한 여러 나라로 보내셨나니 너희를 범하는 자는 그의 눈동자를 범하는 것이라",
+      "en": "For this is what the LORD Almighty says: \"After he has honored me and has sent me against the nations that have plundered you--for whoever touches you touches the apple of his eye--",
+      "de": "Denn so spricht der HERR Zebaoth: Er hat mich gesandt nach Ehre zu den Heiden, die euch beraubt haben; denn wer euch antastet, der tastet seinen Augapfel an.",
+      "zh": "万军之耶和华说，在显出荣耀之后，差遣我去惩罚那掳掠你们的列国，摸你们的就是摸他眼中的瞳人。",
+      "ja": "萬軍のヱホバかく言たまふヱホバ汝等を擄へゆきし國々へ榮光のために我儕を遣したまふ汝らを打つ者は彼の目の珠を打なればなり"
+    },
+    {
+      "number": 9,
+      "ko": "내가 손을 그들 위에 움직인즉 그들이 자기를 섬기던 자들에게 노략거리가 되리라 하셨나니 너희가 만군의 여호와께서 나를 보내신 줄 알리라",
+      "en": "I will surely raise my hand against them so that their slaves will plunder them. Then you will know that the LORD Almighty has sent me.",
+      "de": "Denn siehe, ich will meine Hand über sie schwingen, daß sie sollen ein Raub werden denen, die ihnen gedient haben; und ihr sollt erfahren, daß mich der HERR Zebaoth gesandt hat.",
+      "zh": "看哪，我要向他们抡手，他们就必作服事他们之人的掳物，你们便知道万军之耶和华差遣我了。",
+      "ja": "即ち我手をかれらの上に搖ん彼らは己に事へし者の俘虜となるべし汝らは萬軍のヱホバの我を遣したまへるなるを知ん"
+    },
+    {
+      "number": 10,
+      "ko": "여호와의 말씀에 시온의 딸아 노래하고 기뻐하라 이는 내가 와서 네 가운데에 머물 것임이라",
+      "en": "\"Shout and be glad, O Daughter of Zion. For I am coming, and I will live among you,\" declares the LORD.",
+      "de": "Freue dich und sei fröhlich, du Tochter Zion! denn siehe, ich komme und will bei dir wohnen, spricht der HERR.",
+      "zh": "锡安城啊，应当欢乐歌唱，因为我来要住在你中间。这是耶和华说的。」",
+      "ja": "ヱホバ言たまふシオンの女子よ喜び樂め我きたりて汝の中に住ばなり"
+    },
+    {
+      "number": 11,
+      "ko": "그 날에 많은 나라가 여호와께 속하여 내 백성이 될 것이요 나는 네 가운데에 머물리라 네가 만군의 여호와께서 나를 네게 보내신 줄 알리라",
+      "en": "\"Many nations will be joined with the LORD in that day and will become my people. I will live among you and you will know that the LORD Almighty has sent me to you.",
+      "de": "Und sollen zu der Zeit viel Heiden zum HERRN getan werden und sollen mein Volk sein; und ich will bei dir wohnen, und sollst erfahren, daß mich der HERR Zebaoth zu dir gesandt hat.",
+      "zh": "那时，必有许多国归附耶和华，作他的子民。他要住在你中间，你就知道万军之耶和华差遣我到你那里去了。",
+      "ja": "その日には許多の民ヱホバに附て我民とならん我なんぢの中に住べし汝は萬軍のヱホバの我を遣したまへるなるを知ん"
+    },
+    {
+      "number": 12,
+      "ko": "여호와께서 장차 유다를 거룩한 땅에서 자기 소유를 삼으시고 다시 예루살렘을 택하시리니",
+      "en": "The LORD will inherit Judah as his portion in the holy land and will again choose Jerusalem.",
+      "de": "Und der HERR wird Juda erben als sein Teil in dem heiligen Lande und wird Jerusalem wieder erwählen.",
+      "zh": "耶和华必收回犹大作他圣地的分，也必再拣选耶路撒冷。",
+      "ja": "ヱホバ聖地の中にてユダを取て己の分となし再びヱルサレムを簡びたまふべし"
+    },
+    {
+      "number": 13,
+      "ko": "모든 육체가 여호와 앞에서 잠잠할 것은 여호와께서 그의 거룩한 처소에서 일어나심이니라 하라 하더라",
+      "en": "Be still before the LORD, all mankind, because he has roused himself from his holy dwelling.\"",
+      "de": "Alles Fleisch sei still vor dem HERRN; denn er hat sich aufgemacht aus seiner heiligen Stätte.",
+      "zh": "凡有血气的都当在耶和华面前静默无声；因为他兴起，从圣所出来了。",
+      "ja": "ヱホバ起てその聖住所よりいでたまへば凡そ血肉ある者ヱホバの前に粛然たれ"
+    }
+  ]
+}

@@ -1,0 +1,718 @@
+{
+  "book": "Numbers",
+  "chapter": 7,
+  "verses": [
+    {
+      "number": 1,
+      "ko": "모세가 장막 세우기를 끝내고 그것에 기름을 발라 거룩히 구별하고 또 그 모든 기구와 제단과 그 모든 기물에 기름을 발라 거룩히 구별한 날에",
+      "en": "When Moses finished setting up the tabernacle, he anointed it and consecrated it and all its furnishings. He also anointed and consecrated the altar and all its utensils.",
+      "de": "Und da Mose die Wohnung aufgerichtet hatte und sie gesalbt und geheiligt allem ihrem Geräte, dazu auch den Altar mit allem seinem Geräte gesalbt und geheiligt,",
+      "zh": "摩西立完了帐幕，就把帐幕用膏抹了，使它成圣，又把其中的器具和坛，并坛上的器具，都抹了，使它成圣。",
+      "ja": "モーセ幕屋を建をはり之に膏を灌ぎてこれを聖別めまたその一切の器具およびその壇とその一切の器具に膏を灌ぎて之を聖別たる日に"
+    },
+    {
+      "number": 2,
+      "ko": "이스라엘 지휘관들 곧 그들의 조상의 가문의 우두머리들이요 그 지파의 지휘관으로서 그 계수함을 받은 자의 감독된 자들이 헌물을 드렸으니",
+      "en": "Then the leaders of Israel, the heads of families who were the tribal leaders in charge of those who were counted, made offerings.",
+      "de": "da opferten die Fürsten Israels, die Häupter waren in ihren Vaterhäusern; denn sie waren die Obersten unter den Stämmen und standen obenan unter denen, die gezählt waren.",
+      "zh": "当天，以色列的众首领，就是各族的族长，都来奉献。他们是各支派的首领，管理那些被数的人。",
+      "ja": "イスラエルの牧伯等すなはちその諸宗族の長諸支派の牧伯にしてその核數られし者を監督る者等献物を爲り"
+    },
+    {
+      "number": 3,
+      "ko": "그들이 여호와께 드린 헌물은 덮개 있는 수레 여섯 대와 소 열두 마리이니 지휘관 두 사람에 수레가 하나씩이요 지휘관 한 사람에 소가 한 마리씩이라 그것들을 장막 앞에 드린지라",
+      "en": "They brought as their gifts before the LORD six covered carts and twelve oxen--an ox from each leader and a cart from every two. These they presented before the tabernacle.",
+      "de": "Und sie brachten Opfer vor den HERRN, sechs bedeckte Wagen und zwölf Rinder, je einen Wagen für zwei Fürsten und einen Ochsen für einen, und brachten sie vor die Wohnung.",
+      "zh": "他们把自己的供物送到耶和华面前，就是六辆篷子车和十二只公牛。每两个首领奉献一辆车，每首领奉献一只牛。他们把这些都奉到帐幕前。",
+      "ja": "彼等その禮物をヱホバに持きたるに蓋ある車六輛と牛十二匹あり牧伯二人に車一輛一人に牛一匹なり即ちこれか幕屋の前にひき至れり"
+    },
+    {
+      "number": 4,
+      "ko": "여호와께서 모세에게 말씀하여 이르시되",
+      "en": "The LORD said to Moses,",
+      "de": "Und der HERR sprach zu Mose:",
+      "zh": "耶和华晓谕摩西说：",
+      "ja": "時にヱホバ、モーセに告て言たまはく"
+    },
+    {
+      "number": 5,
+      "ko": "그것을 그들에게서 받아 레위인에게 주어 각기 직임대로 회막 봉사에 쓰게 할지니라",
+      "en": "\"Accept these from them, that they may be used in the work at the Tent of Meeting. Give them to the Levites as each man's work requires.\"",
+      "de": "Nimm's von ihnen, daß es diene zum Dienst der Hütte des Stifts, und gib's den Leviten, einem jeglichen nach seinem Amt.",
+      "zh": "「你要收下这些，好作会幕的使用，都要照利未人所办的事交给他们。」",
+      "ja": "汝これを彼等より取て集會の幕屋の用に供へレビ人にその職分職分にしたがひて之を授すべし"
+    },
+    {
+      "number": 6,
+      "ko": "모세가 수레와 소를 받아 레위인에게 주었으니",
+      "en": "So Moses took the carts and oxen and gave them to the Levites.",
+      "de": "Da nahm Mose die Wagen und die Rinder und gab sie den Leviten.",
+      "zh": "于是摩西收了车和牛，交给利未人，",
+      "ja": "是においてモーセその車と牛を取て之をレビ人に授せり"
+    },
+    {
+      "number": 7,
+      "ko": "곧 게르손 자손들에게는 그들의 직임대로 수레 둘과 소 네 마리를 주었고",
+      "en": "He gave two carts and four oxen to the Gershonites, as their work required,",
+      "de": "Zwei Wagen und vier Rinder gab er den Kindern Gerson nach ihrem Amt;",
+      "zh": "把两辆车，四只牛，照革顺子孙所办的事交给他们，",
+      "ja": "即ちゲルシヨンの子孫にはその職分を按へて車二輛と牛四匹を授し"
+    },
+    {
+      "number": 8,
+      "ko": "므라리 자손들에게는 그들의 직임대로 수레 넷과 소 여덟 마리를 주고 제사장 아론의 아들 이다말에게 감독하게 하였으나",
+      "en": "and he gave four carts and eight oxen to the Merarites, as their work required. They were all under the direction of Ithamar son of Aaron, the priest.",
+      "de": "und vier Wagen und acht Ochsen gab er den Kindern Merari nach ihrem Amt unter der Hand Ithamars, des Sohnes Aarons, des Priesters;",
+      "zh": "又把四辆车，八只牛，照米拉利子孙所办的事交给他们；他们都在祭司亚伦的儿子以他玛手下。",
+      "ja": "メラリの子孫にはその職分を按へて車四輛と牛八匹を授し祭司アロンの子イタマルをしてこれを監督らしめたり"
+    },
+    {
+      "number": 9,
+      "ko": "고핫 자손에게는 주지 아니하였으니 그들의 성소의 직임은 그 어깨로 메는 일을 하는 까닭이었더라",
+      "en": "But Moses did not give any to the Kohathites, because they were to carry on their shoulders the holy things, for which they were responsible.",
+      "de": "den Kinder Kahath aber gab er nichts, darum daß sie ein heiliges Amt auf sich hatten und auf ihren Achseln tragen mußten.",
+      "zh": "但车与牛都没有交给哥辖子孙；因为他们办的是圣所的事，在肩头上抬圣物。",
+      "ja": "然どコハテの子孫には何をも授さざりき是は彼等が聖所になすべき職分はその肩をもて擔ふの事なるが故なり"
+    },
+    {
+      "number": 10,
+      "ko": "제단에 기름을 바르던 날에 지휘관들이 제단의 봉헌을 위하여 헌물을 가져다가 그 헌물을 제단 앞에 드리니라",
+      "en": "When the altar was anointed, the leaders brought their offerings for its dedication and presented them before the altar.",
+      "de": "Und die Fürsten opferten zur Einweihung das Altars an dem Tage, da er gesalbt ward, und opferten ihre Gabe vor dem Altar.",
+      "zh": "用膏抹坛的日子，首领都来行奉献坛的礼，众首领就在坛前献供物。",
+      "ja": "壇に膏を灌ぐ日に牧伯等壇奉納の禮物を携へ來り牧伯等その禮物を壇の上に献げたり"
+    },
+    {
+      "number": 11,
+      "ko": "여호와께서 모세에게 이르시기를 지휘관들은 하루 한 사람씩 제단의 봉헌물을 드릴지니라 하셨더라",
+      "en": "For the LORD had said to Moses, \"Each day one leader is to bring his offering for the dedication of the altar.\"",
+      "de": "Und der HERR sprach zu Mose: Laß einen jeglichen Fürsten an seinem Tage sein Opfer bringen zur Einweihung des Altars.",
+      "zh": "耶和华对摩西说：「众首领为行奉献坛的礼，要每天一个首领来献供物。」",
+      "ja": "ヱホバ先にモーセに言たまひけるは牧伯等は一日に一人宛その壇奉納の禮物を献ぐべし"
+    },
+    {
+      "number": 12,
+      "ko": "첫째 날에 헌물을 드린 자는 유다 지파 암미나답의 아들 나손이라",
+      "en": "The one who brought his offering on the first day was Nahshon son of Amminadab of the tribe of Judah.",
+      "de": "Am ersten Tage opferte seine Gabe Nahesson, der Sohn Amminadabs, des Stammes Juda.",
+      "zh": "头一日献供物的是犹大支派的亚米拿达的儿子拿顺。",
+      "ja": "第一日に禮物を献げし者はユダの支派のアミナダブの子ナシヨンなり"
+    },
+    {
+      "number": 13,
+      "ko": "그의 헌물은 성소의 세겔로 백삼십 세겔 무게의 은반 하나와 칠십 세겔 무게의 은 바리 하나라 이 두 그릇에는 소제물로 기름 섞은 고운 가루를 채웠고",
+      "en": "His offering was one silver plate weighing a hundred and thirty shekels, and one silver sprinkling bowl weighing seventy shekels, both according to the sanctuary shekel, each filled with fine flour mixed with oil as a grain offering;",
+      "de": "Und seine Gabe war eine silberne Schüssel, hundertdreißig Lot schwer, eine silbern Schale siebzig Lot schwer nach dem Lot des Heiligtums, beide voll Semmelmehl, mit Öl gemengt, zum Speisopfer;",
+      "zh": "他的供物是：一个银盘子，重一百三十舍客勒，一个银碗，重七十舍客勒，都是按圣所的平，也都盛满了调油的细面作素祭；",
+      "ja": "その禮物は銀の皿一箇その重は百三十シケル銀の鉢一箇是は七十シケル皆聖所のシケルに循ふ此二者には麥粉に油を和たる素祭の品を充す"
+    },
+    {
+      "number": 14,
+      "ko": "또 열 세겔 무게의 금 그릇 하나라 그것에는 향을 채웠고",
+      "en": "one gold dish weighing ten shekels, filled with incense;",
+      "de": "dazu einen goldenen Löffel, zehn Lot schwer, voll Räuchwerk,",
+      "zh": "一个金盂，重十舍客勒，盛满了香；",
+      "ja": "また金の匙の十シケルなる者一箇是には香を充す"
+    },
+    {
+      "number": 15,
+      "ko": "또 번제물로 수송아지 한 마리와 숫양 한 마리와 일 년 된 어린 숫양 한 마리이며",
+      "en": "one young bull, one ram and one male lamb a year old, for a burnt offering;",
+      "de": "einen jungen Farren, einen Widder, ein jähriges Lamm zum Brandopfer;",
+      "zh": "一只公牛犊，一只公绵羊，一只一岁的公羊羔作燔祭；",
+      "ja": "また燔祭に用ふる若き牡牛一匹牡羊一匹當歳の羔羊一匹"
+    },
+    {
+      "number": 16,
+      "ko": "속죄제물로 숫염소 한 마리이며",
+      "en": "one male goat for a sin offering;",
+      "de": "einen Ziegenbock zum Sündopfer;",
+      "zh": "一只公山羊作赎罪祭；",
+      "ja": "罪祭に用ふる牡山羊一匹"
+    },
+    {
+      "number": 17,
+      "ko": "화목제물로 소 두 마리와 숫양 다섯 마리와 숫염소 다섯 마리와 일 년 된 어린 숫양 다섯 마리라 이는 암미나답의 아들 나손의 헌물이었더라",
+      "en": "and two oxen, five rams, five male goats and five male lambs a year old, to be sacrificed as a fellowship offering. This was the offering of Nahshon son of Amminadab.",
+      "de": "und zum Dankopfer zwei Rinder, fünf Widder und fünf jährige Lämmer. Das ist die Gabe Nahessons, des Sohnes Amminadabs.",
+      "zh": "两只公牛，五只公绵羊，五只公山羊，五只一岁的公羊羔作平安祭。这是亚米拿达儿子拿顺的供物。",
+      "ja": "酬恩祭の犠牲に用ふる牛二匹牡羊五匹牡山羊五匹當歳の羔羊五匹アミナダブの子サションの禮物は是の如し"
+    },
+    {
+      "number": 18,
+      "ko": "둘째 날에는 잇사갈의 지휘관 수알의 아들 느다넬이 헌물을 드렸으니",
+      "en": "On the second day Nethanel son of Zuar, the leader of Issachar, brought his offering.",
+      "de": "Am zweiten Tage opferte Nathanael, der Sohn Zuars, der Fürst Isaschars.",
+      "zh": "第二日来献的是以萨迦子孙的首领、苏押的儿子拿坦业。",
+      "ja": "第二日にはイッサカルの牧伯ツアルの子ネタニエル献納を爲り"
+    },
+    {
+      "number": 19,
+      "ko": "그가 드린 헌물도 성소의 세겔로 백삼십 세겔 무게의 은반 하나와 칠십 세겔 무게의 은 바리 하나라 이 두 그릇에는 소제물로 기름 섞은 고운 가루를 채웠고",
+      "en": "The offering he brought was one silver plate weighing a hundred and thirty shekels, and one silver sprinkling bowl weighing seventy shekels, both according to the sanctuary shekel, each filled with fine flour mixed with oil as a grain offering;",
+      "de": "Seine Gabe war eine silberne Schüssel, hundertdreißig Lot schwer, eine silberne Schale, siebzig Lot schwer nach dem Lot des Heiligtums, beide voll Semmelmehl, mit Öl gemengt, zum Speisopfer;",
+      "zh": "他献为供物的是：一个银盘子，重一百三十舍客勒，一个银碗，重七十舍客勒，都是按圣所的平，也都盛满了调油的细面作素祭；",
+      "ja": "その献げし禮物は銀の皿一箇その重は百三十シケル銀の鉢一箇是は七十シケル皆聖所のシケルに循ふ此二者には麥粉に油を和たる素祭の品を充す"
+    },
+    {
+      "number": 20,
+      "ko": "또 열 세겔 무게의 금 그릇 하나라 그것에는 향을 채웠고",
+      "en": "one gold dish weighing ten shekels, filled with incense;",
+      "de": "dazu einen goldenen Löffel, zehn Lot schwer, voll Räuchwerk,",
+      "zh": "一个金盂，重十舍客勒，盛满了香；",
+      "ja": "また金の匙の十シケルなる者一箇是には香を充す"
+    },
+    {
+      "number": 21,
+      "ko": "또 번제물로 수송아지 한 마리와 숫양 한 마리와 일 년 된 어린 숫양 한 마리이며",
+      "en": "one young bull, one ram and one male lamb a year old, for a burnt offering;",
+      "de": "einen jungen Farren, einen Widder, ein jähriges Lamm zum Brandopfer;",
+      "zh": "一只公牛犊，一只公绵羊，一只一岁的公羊羔作燔祭；",
+      "ja": "また燔祭に用ふる若き牡牛一匹牡羊一匹當歳の羔羊一匹"
+    },
+    {
+      "number": 22,
+      "ko": "속죄제물로 숫염소 한 마리이며",
+      "en": "one male goat for a sin offering;",
+      "de": "einen Ziegenbock zum Sündopfer;",
+      "zh": "一只公山羊作赎罪祭；",
+      "ja": "罪祭に用ふる牡山羊一匹"
+    },
+    {
+      "number": 23,
+      "ko": "화목제물로 소 두 마리와 숫양 다섯 마리와 숫염소 다섯 마리와 일년 된 어린 숫양 다섯 마리라 이는 수알의 아들 느다넬의 헌물이었더라",
+      "en": "and two oxen, five rams, five male goats and five male lambs a year old, to be sacrificed as a fellowship offering. This was the offering of Nethanel son of Zuar.",
+      "de": "und zum Dankopfer zwei Rinder, fünf Widder und fünf jährige Lämmer. Das ist die Gabe Nathanaels, des Sohnes Zuars.",
+      "zh": "两只公牛，五只公绵羊，五只公山羊，五只一岁的公羊羔作平安祭。这是苏押儿子拿坦业的供物。",
+      "ja": "酬恩祭の犠牲に用ふる牛二匹牡羊五匹牡山羊五匹當歳の羔羊五匹ツアルの子ネタニエルの禮物は是のごとし"
+    },
+    {
+      "number": 24,
+      "ko": "셋째 날에는 스불론 자손의 지휘관 헬론의 아들 엘리압이 헌물을 드렸으니",
+      "en": "On the third day, Eliab son of Helon, the leader of the people of Zebulun, brought his offering.",
+      "de": "Am dritten Tage der Fürst der Kinder Sebulon, Eliab, der Sohn Helons.",
+      "zh": "第三日来献的是西布伦子孙的首领、希伦的儿子以利押。",
+      "ja": "第三日にはゼブルンの子孫の牧伯ヘロンの子エリアブ献納を爲り"
+    },
+    {
+      "number": 25,
+      "ko": "그의 헌물도 성소의 세겔로 백삼십 세겔 무게의 은반 하나와 칠십 세겔 무게의 은 바리 하나라 이 두 그릇에는 소제물로 기름 섞은 고운 가루를 채웠고",
+      "en": "His offering was one silver plate weighing a hundred and thirty shekels, and one silver sprinkling bowl weighing seventy shekels, both according to the sanctuary shekel, each filled with fine flour mixed with oil as a grain offering;",
+      "de": "Seine Gabe war eine silberne Schüssel, hundertdreißig Lot schwer, eine silberne Schale, siebzig Lot schwer nach dem Lot des Heiligtums, beide voll Semmelmehl, mit Öl gemengt, zum Speisopfer;",
+      "zh": "他的供物是：一个银盘子，重一百三十舍客勒，一个银碗，重七十舍客勒，都是按圣所的平，也都盛满了调油的细面作素祭；",
+      "ja": "その禮物は銀の皿一箇その重は百三十シケル銀の鉢一箇是は七十シケル皆聖所のシケルに循ふ此二者には麥粉に油を和たる素祭の品を充す"
+    },
+    {
+      "number": 26,
+      "ko": "또 열 세겔 무게의 금 그릇 하나라 이것에는 향을 채웠고",
+      "en": "one gold dish weighing ten shekels, filled with incense;",
+      "de": "dazu einen goldenen Löffel, zehn Lot schwer, voll Räuchwerk,",
+      "zh": "一个金盂，重十舍客勒，盛满了香；",
+      "ja": "また金の匙の十シケルなる者一箇是には香を充す"
+    },
+    {
+      "number": 27,
+      "ko": "또 번제물로 수송아지 한 마리와 숫양 한 마리와 일 년 된 어린 숫양 한 마리이며",
+      "en": "one young bull, one ram and one male lamb a year old, for a burnt offering;",
+      "de": "einen jungen Farren, einen Widder, ein jähriges Lamm zum Brandopfer;",
+      "zh": "一只公牛犊，一只公绵羊，一只一岁的公羊羔作燔祭；",
+      "ja": "また燔祭に用ふる若き牡牛一匹牡羊一匹當歳の羔羊一匹"
+    },
+    {
+      "number": 28,
+      "ko": "속죄제물로 숫염소 한 마리이며",
+      "en": "one male goat for a sin offering;",
+      "de": "einen Ziegenbock zum Sündopfer;",
+      "zh": "一只公山羊作赎罪祭；",
+      "ja": "罪祭に用ふる牡山羊一匹"
+    },
+    {
+      "number": 29,
+      "ko": "화목제물로 소 두 마리와 숫양 다섯 마리와 숫염소 다섯 마리와 일 년 된 어린 숫양 다섯 마리라 이는 헬론의 아들 엘리압의 헌물이었더라",
+      "en": "and two oxen, five rams, five male goats and five male lambs a year old, to be sacrificed as a fellowship offering. This was the offering of Eliab son of Helon.",
+      "de": "und zum Dankopfer zwei Rinder, fünf Widder und fünf jährige Lämmer. Das ist die Gabe Eliabs, des Sohnes Helons.",
+      "zh": "两只公牛，五只公绵羊，五只公山羊，五只一岁的公羊羔作平安祭。这是希伦儿子以利押的供物。",
+      "ja": "酬恩祭の犠牲に用ふる牛二匹牡羊五匹牡山羊五匹當歳の羔羊五匹ヘロンの子エリアブの禮物は是のごとし"
+    },
+    {
+      "number": 30,
+      "ko": "넷째 날에는 르우벤 자손의 지휘관 스데울의 아들 엘리술이 헌물을 드렸으니",
+      "en": "On the fourth day Elizur son of Shedeur, the leader of the people of Reuben, brought his offering.",
+      "de": "Am vierten Tage der Fürst der Kinder Ruben, Elizur, der Sohn Sedeurs.",
+      "zh": "第四日来献的是吕便子孙的首领、示丢珥的儿子以利蓿。",
+      "ja": "第四日にはルベンの子孫の牧伯シデウルの子エリヅル献納を爲り"
+    },
+    {
+      "number": 31,
+      "ko": "그의 헌물도 성소의 세겔로 백삼십 세겔 무게의 은 쟁반 하나와 칠십 세겔 무게의 은 바리 하나라 이 두 그릇에는 소제물로 기름 섞은 고운 가루를 채웠고",
+      "en": "His offering was one silver plate weighing a hundred and thirty shekels, and one silver sprinkling bowl weighing seventy shekels, both according to the sanctuary shekel, each filled with fine flour mixed with oil as a grain offering;",
+      "de": "Seine Gabe war eine silberne Schüssel, hundertdreißig Lot schwer, eine silberne Schale, siebzig Lot schwer nach dem Lot des Heiligtums, beide voll Semmelmehl, mit Öl gemengt, zum Speisopfer;",
+      "zh": "他的供物是：一个银盘子，重一百三十舍客勒，一个银碗，重七十舍客勒，都是按圣所的平，也都盛满了调油的细面作素祭；",
+      "ja": "その禮物は銀の皿一箇その重は百三十シケル銀の鉢一箇是は七十シケル皆聖所のシケルに循ふ此二者には麥粉に油を和たる素祭の品を充す"
+    },
+    {
+      "number": 32,
+      "ko": "또 열 세겔 무게의 금 그릇 하나라 이것에는 향을 채웠고",
+      "en": "one gold dish weighing ten shekels, filled with incense;",
+      "de": "dazu einen goldenen Löffel, zehn Lot schwer, voll Räuchwerk,",
+      "zh": "一个金盂，重十舍客勒，盛满了香；",
+      "ja": "また金の匙の十シケルなる者一箇是には香を充す"
+    },
+    {
+      "number": 33,
+      "ko": "또 번제물로 수송아지 한 마리와 숫양 한 마리와 일 년 된 어린 숫양 한 마리이며",
+      "en": "one young bull, one ram and one male lamb a year old, for a burnt offering;",
+      "de": "einen jungen Farren, einen Widder, ein jähriges Lamm zum Brandopfer;",
+      "zh": "一只公牛犊，一只公绵羊，一只一岁的公羊羔作燔祭；",
+      "ja": "また燔祭に用ふる若き牡牛一匹牡羊一匹當歳の羔羊一匹"
+    },
+    {
+      "number": 34,
+      "ko": "속죄제물로 숫염소 한 마리이며",
+      "en": "one male goat for a sin offering;",
+      "de": "einen Ziegenbock zum Sündopfer;",
+      "zh": "一只公山羊作赎罪祭；",
+      "ja": "罪祭に用ふる牡山羊一匹"
+    },
+    {
+      "number": 35,
+      "ko": "화목제물로 소 두 마리와 숫양 다섯 마리와 숫염소 다섯 마리와 일 년 된 어린 숫양 다섯 마리라 이는 스데울의 아들 엘리술의 헌물이었더라",
+      "en": "and two oxen, five rams, five male goats and five male lambs a year old, to be sacrificed as a fellowship offering. This was the offering of Elizur son of Shedeur.",
+      "de": "und zum Dankopfer zwei Rinder, fünf Widder und fünf jährige Lämmer. Das ist die Gabe Elizurs, des Sohnes Sedeurs.",
+      "zh": "两只公牛，五只公绵羊，五只公山羊，五只一岁的公羊羔作平安祭。这是示丢珥的儿子以利蓿的供物。",
+      "ja": "酬恩祭の犠牲に用ふる牛二匹牡羊五匹牡山羊五匹當歳の羔羊五匹シデウルの子エリヅルの禮物は是のごとし"
+    },
+    {
+      "number": 36,
+      "ko": "다섯째 날에는 시므온 자손의 지휘관 수리삿대의 아들 슬루미엘이 헌물을 드렸으니",
+      "en": "On the fifth day Shelumiel son of Zurishaddai, the leader of the people of Simeon, brought his offering.",
+      "de": "Am fünften Tage der Fürst der Kinder Simeon, Selumiel, der Sohn Zuri-Saddais.",
+      "zh": "第五日来献的是西缅子孙的首领、苏利沙代的儿子示路蔑。",
+      "ja": "第五日にはシメオンの子孫の牧伯ツリシヤダイの子シルミエル献物を爲り"
+    },
+    {
+      "number": 37,
+      "ko": "그 헌물도 성소의 세겔로 백삼십 세겔 무게의 은 쟁반 하나와 칠십 세겔 무게의 은 바리 하나라 이 두 그릇에는 소제물로 기름 섞은 고운 가루를 채웠고",
+      "en": "His offering was one silver plate weighing a hundred and thirty shekels, and one silver sprinkling bowl weighing seventy shekels, both according to the sanctuary shekel, each filled with fine flour mixed with oil as a grain offering;",
+      "de": "Seine Gabe war eine silberne Schüssel, hundertdreißig Lot schwer, eine silberne Schale, siebzig Lot schwer nach dem Lot des Heiligtums, beide voll Semmelmehl, mit Öl gemengt, zum Speisopfer;",
+      "zh": "他的供物是：一个银盘子，重一百三十舍客勒，一个银碗，重七十舍客勒，都是按圣所的平，也都盛满了调油的细面作素祭；",
+      "ja": "その禮物は銀の皿一箇その重は百三十シケル銀の鉢一箇是は七十シケル皆聖所のシケルに循ふ此二者には麥粉に油を和たる素祭の品を充す"
+    },
+    {
+      "number": 38,
+      "ko": "또 열 세겔 무게의 금 그릇 하나라 이것에는 향을 채웠고",
+      "en": "one gold dish weighing ten shekels, filled with incense;",
+      "de": "dazu einen goldenen Löffel, zehn Lot schwer, voll Räuchwerk,",
+      "zh": "一个金盂，重十舍客勒，盛满了香；",
+      "ja": "また金の匙の十シケルなる者一箇是には香を充す"
+    },
+    {
+      "number": 39,
+      "ko": "또 번제물로 수송아지 한 마리와 숫양 한 마리와 일 년 된 어린 숫양 한 마리이며",
+      "en": "one young bull, one ram and one male lamb a year old, for a burnt offering;",
+      "de": "einen jungen Farren, einen Widder, ein jähriges Lamm zum Brandopfer;",
+      "zh": "一只公牛犊，一只公绵羊，一只一岁的公羊羔作燔祭；",
+      "ja": "また燔祭に用ふる若き牡牛一匹牡羊一匹當歳の羔羊一匹"
+    },
+    {
+      "number": 40,
+      "ko": "속죄제물로 숫염소 한 마리이며",
+      "en": "one male goat for a sin offering;",
+      "de": "einen Ziegenbock zum Sündopfer;",
+      "zh": "一只公山羊作赎罪祭；",
+      "ja": "罪祭に用ふる牡山羊一匹"
+    },
+    {
+      "number": 41,
+      "ko": "화목제물로 소 두 마리와 숫양 다섯 마리와 숫염소 다섯 마리와 일 년 된 어린 숫양 다섯 마리라 이는 수리삿대의 아들 슬루미엘의 헌물이었더라",
+      "en": "and two oxen, five rams, five male goats and five male lambs a year old, to be sacrificed as a fellowship offering. This was the offering of Shelumiel son of Zurishaddai.",
+      "de": "und zum Dankopfer zwei Rinder, fünf Widder und fünf jährige Lämmer. Das ist die Gabe Selumiels, des Sohnes Zuri-Saddais.",
+      "zh": "两只公牛，五只公绵羊，五只公山羊，五只一岁的公羊羔作平安祭。这是苏利沙代儿子示路蔑的供物。",
+      "ja": "酬恩祭の犠牲に用ふる牛二匹牡羊五匹牡山羊五匹當歳の羔羊五匹ツリシヤダイの子シルミエルの禮物は是のごとし"
+    },
+    {
+      "number": 42,
+      "ko": "여섯째 날에는 갓 자손의 지휘관 드우엘의 아들 엘리아삽이 헌물을 드렸으니",
+      "en": "On the sixth day Eliasaph son of Deuel, the leader of the people of Gad, brought his offering.",
+      "de": "Am sechsten Tage der Fürst der Kinder Gad, Eljasaph, der Sohn Deguels.",
+      "zh": "第六日来献的是迦得子孙的首领、丢珥的儿子以利雅萨。",
+      "ja": "第六日にはガドの子孫の牧伯デウエルの子エリアサフ献納をなせり"
+    },
+    {
+      "number": 43,
+      "ko": "그의 헌물도 성소의 세겔로 백삼십 세겔 무게의 은 쟁반 하나와 칠십 세겔 무게의 은 바리 하나라 이 두 그릇에는 소제물로 기름 섞은 고운 가루를 채웠고",
+      "en": "His offering was one silver plate weighing a hundred and thirty shekels, and one silver sprinkling bowl weighing seventy shekels, both according to the sanctuary shekel, each filled with fine flour mixed with oil as a grain offering;",
+      "de": "Seine Gabe war eine silberne Schüssel, hundertdreißig Lot schwer, eine silberne Schale, siebzig Lot schwer nach dem Lot des Heiligtums, beide voll Semmelmehl, mit Öl gemengt, zum Speisopfer;",
+      "zh": "他的供物是：一个银盘子，重一百三十舍客勒，一个银碗，重七十舍客勒，都是按圣所的平，也都盛满了调油的细面作素祭；",
+      "ja": "その禮物は銀の皿一箇その重は百三十シケル銀の鉢一箇是は七十シケル皆聖所のシケルに循ふこの二者には麥粉に油を和たる素祭の品を充す"
+    },
+    {
+      "number": 44,
+      "ko": "또 열 세겔 무게의 금 그릇 하나라 이것에는 향을 채웠고",
+      "en": "one gold dish weighing ten shekels, filled with incense;",
+      "de": "dazu einen goldenen Löffel, zehn Lot schwer, voll Räuchwerk,",
+      "zh": "一个金盂，重十舍客勒，盛满了香；",
+      "ja": "また金の匙の十シケルなる者一箇是には香を充す"
+    },
+    {
+      "number": 45,
+      "ko": "또 번제물로 수송아지 한 마리와 숫양 한 마리와 일 년 된 어린 숫양 한 마리이며",
+      "en": "one young bull, one ram and one male lamb a year old, for a burnt offering;",
+      "de": "einen jungen Farren, einen Widder, ein jähriges Lamm zum Brandopfer;",
+      "zh": "一只公牛犊，一只公绵羊，一只一岁的公羊羔作燔祭；",
+      "ja": "また燔祭に用ふる若き牡牛一匹牡羊一匹當歳の羔羊一匹"
+    },
+    {
+      "number": 46,
+      "ko": "속죄제물로 숫염소 한 마리이며",
+      "en": "one male goat for a sin offering;",
+      "de": "einen Ziegenbock zum Sündopfer;",
+      "zh": "一只公山羊作赎罪祭；",
+      "ja": "罪祭に用ふる牡山羊一匹"
+    },
+    {
+      "number": 47,
+      "ko": "화목제물로 소 두 마리와 숫양 다섯 마리와 숫염소 다섯 마리와 일 년 된 어린 숫양 다섯 마리라 이는 드우엘의 아들 엘리아삽의 헌물이었더라",
+      "en": "and two oxen, five rams, five male goats and five male lambs a year old, to be sacrificed as a fellowship offering. This was the offering of Eliasaph son of Deuel.",
+      "de": "und zum Dankopfer zwei Rinder, fünf Widder und fünf jährige Lämmer. Das ist die Gabe Eljasaphs, des Sohnes Deguels.",
+      "zh": "两只公牛，五只公绵羊，五只公山羊，五只一岁的公羊羔作平安祭。这是丢珥的儿子以利雅萨的供物。",
+      "ja": "酬恩祭の犠牲に用ふる牛二匹牡羊五匹牡山羊五匹當歳の羔羊五匹デウエルの子エリアサフの禮物はかくのごとし"
+    },
+    {
+      "number": 48,
+      "ko": "일곱째 날에는 에브라임 자손의 지휘관 암미훗의 아들 엘리사마가 헌물을 드렸으니",
+      "en": "On the seventh day Elishama son of Ammihud, the leader of the people of Ephraim, brought his offering.",
+      "de": "Am siebenten Tage der Fürst der Kinder Ephraim, Elisama, der Sohn Ammihuds.",
+      "zh": "第七日来献的是以法莲子孙的首领、亚米忽的儿子以利沙玛。",
+      "ja": "第七日にはエフライムの子孫の牧伯アミホデの子エリシヤマ献納をなせり"
+    },
+    {
+      "number": 49,
+      "ko": "그의 헌물도 성소의 세겔로 백삼십 세겔 무게의 은 쟁반 하나와 칠십 세겔 무게의 은 바리 하나라 이 두 그릇에는 소제물로 기름 섞은 고운 가루를 채웠고",
+      "en": "His offering was one silver plate weighing a hundred and thirty shekels, and one silver sprinkling bowl weighing seventy shekels, both according to the sanctuary shekel, each filled with fine flour mixed with oil as a grain offering;",
+      "de": "Seine Gabe war eine silberne Schüssel, hundertdreißig Lot schwer, eine silberne Schale, siebzig Lot schwer nach dem Lot des Heiligtums, beide voll Semmelmehl, mit Öl gemengt, zum Speisopfer;",
+      "zh": "他的供物是：一个银盘子，重一百三十舍客勒，一个银碗，重七十舍客勒，都是按圣所的平，也都盛满了调油的细面作素祭；",
+      "ja": "その禮物は銀の皿一箇その重は百三十シケル銀の鉢一箇是は七十シケル皆聖所のシケルに循ふ此二者には麥粉に油を和たる素祭の品を充す"
+    },
+    {
+      "number": 50,
+      "ko": "또 열 세겔 무게의 금 그릇 하나라 이것에는 향을 채웠고",
+      "en": "one gold dish weighing ten shekels, filled with incense;",
+      "de": "dazu einen goldenen Löffel, zehn Lot schwer, voll Räuchwerk,",
+      "zh": "一个金盂，重十舍客勒，盛满了香；",
+      "ja": "また金の匙の十シケルなる者一箇是には香を充す"
+    },
+    {
+      "number": 51,
+      "ko": "또 번제물로 수송아지 한 마리와 숫양 한 마리와 일 년 된 어린 숫양 한 마리이며",
+      "en": "one young bull, one ram and one male lamb a year old, for a burnt offering;",
+      "de": "einen jungen Farren, einen Widder, ein jähriges Lamm zum Brandopfer;",
+      "zh": "一只公牛犊，一只公绵羊，一只一岁的公羊羔作燔祭；",
+      "ja": "また燔祭に用ふる若き牡牛一匹牡羊一匹當歳の羔羊一匹"
+    },
+    {
+      "number": 52,
+      "ko": "속죄제물로 숫염소 한 마리이며",
+      "en": "one male goat for a sin offering;",
+      "de": "einen Ziegenbock zum Sündopfer;",
+      "zh": "一只公山羊作赎罪祭；",
+      "ja": "罪祭に用ふる牡山羊一匹"
+    },
+    {
+      "number": 53,
+      "ko": "화목제물로 소 두 마리와 숫양 다섯 마리와 숫염소 다섯 마리와 일 년 된 어린 숫양 다섯 마리라 이는 암미훗의 아들 엘리사마의 헌물이었더라",
+      "en": "and two oxen, five rams, five male goats and five male lambs a year old, to be sacrificed as a fellowship offering. This was the offering of Elishama son of Ammihud.",
+      "de": "und zum Dankopfer zwei Rinder, fünf Widder und fünf jährige Lämmer. Das ist die Gabe Elisamas, des Sohnes Ammihuds.",
+      "zh": "两只公牛，五只公绵羊，五只公山羊，五只一岁的公羊羔作平安祭。这是亚米忽儿子以利沙玛的供物。",
+      "ja": "酬恩祭の犠牲に用ふる牛二匹牡羊五匹牡山羊五匹當歳の羔羊五匹アミホデの子エリシヤマの禮物は是のごとし"
+    },
+    {
+      "number": 54,
+      "ko": "여덟째 날에는 므낫세 자손의 지휘관 브다술의 아들 가말리엘이 헌물을 드렸으니",
+      "en": "On the eighth day Gamaliel son of Pedahzur, the leader of the people of Manasseh, brought his offering.",
+      "de": "Am achten Tage der Fürst der Kinder Manasses, Gamliel, der Sohn Pedazurs.",
+      "zh": "第八日来献的是玛拿西子孙的首领、比大蓿的儿子迦玛列。",
+      "ja": "第八日にはマナセの子孫の牧伯パダヅルの子ガマリエル献納をなせり"
+    },
+    {
+      "number": 55,
+      "ko": "그 헌물도 성소의 세겔로 백삼십 세겔 무게의 은 쟁반 하나와 칠십 세겔 무게의 은 바리 하나라 이 두 그릇에는 소제물로 기름 섞은 고운 가루를 채웠고",
+      "en": "His offering was one silver plate weighing a hundred and thirty shekels, and one silver sprinkling bowl weighing seventy shekels, both according to the sanctuary shekel, each filled with fine flour mixed with oil as a grain offering;",
+      "de": "Seine Gabe war eine silberne Schüssel, hundertdreißig Lot schwer, eine silberne Schale, siebzig Lot schwer nach dem Lot des Heiligtums, beide voll Semmelmehl, mit Öl gemengt, zum Speisopfer;",
+      "zh": "他的供物是：一个银盘子，重一百三十舍客勒，一个银碗，重七十舍客勒，都是按圣所的平，也都盛满了调油的细面作素祭；",
+      "ja": "その禮物は銀の皿一箇その重は百三十シケル銀の鉢一箇是は七十シケルみな聖所のシケルに循ふこの二者には麥粉に油を和たる素祭の品を充す"
+    },
+    {
+      "number": 56,
+      "ko": "또 열 세겔 무게의 금 그릇 하나라 이것에는 향을 채웠고",
+      "en": "one gold dish weighing ten shekels, filled with incense;",
+      "de": "dazu einen goldenen Löffel, zehn Lot schwer, voll Räuchwerk,",
+      "zh": "一个金盂，重十舍客勒，盛满了香；",
+      "ja": "また金の匙の十シケルなる者一箇是には香を充す"
+    },
+    {
+      "number": 57,
+      "ko": "또 번제물로 수송아지 한 마리와 숫양 한 마리와 일 년 된 어린 숫양 한 마리이며",
+      "en": "one young bull, one ram and one male lamb a year old, for a burnt offering;",
+      "de": "einen jungen Farren, einen Widder, ein jähriges Lamm zum Brandopfer;",
+      "zh": "一只公牛犊，一只公绵羊，一只一岁的公羊羔作燔祭；",
+      "ja": "また燔祭に用ふる若き牡牛一匹牡羊一匹當歳の羔羊一匹"
+    },
+    {
+      "number": 58,
+      "ko": "속죄제물로 숫염소 한 마리이며",
+      "en": "one male goat for a sin offering;",
+      "de": "einen Ziegenbock zum Sündopfer;",
+      "zh": "一只公山羊作赎罪祭；",
+      "ja": "罪祭に用ふる牡山羊一匹"
+    },
+    {
+      "number": 59,
+      "ko": "화목제물로 소 두 마리와 숫양 다섯 마리와 숫염소 다섯 마리와 일 년 된 어린 숫양 다섯 마리라 이는 브다술의 아들 가말리엘의 헌물이었더라",
+      "en": "and two oxen, five rams, five male goats and five male lambs a year old, to be sacrificed as a fellowship offering. This was the offering of Gamaliel son of Pedahzur.",
+      "de": "und zum Dankopfer zwei Rinder, fünf Widder und fünf jährige Lämmer. Das ist die Gabe Gamliels, des Sohnes Pedazurs.",
+      "zh": "两只公牛，五只公绵羊，五只公山羊，五只一岁的公羊羔作平安祭。这是比大蓿儿子迦玛列的供物。",
+      "ja": "酬恩祭の犠牲に用ふる牛二匹牡羊五匹牡山羊五匹當歳の羔羊五匹パダヅルの子ガマリエルの禮物は是のごとし"
+    },
+    {
+      "number": 60,
+      "ko": "아홉째 날에는 베냐민 자손의 지휘관 기드오니의 아들 아비단이 헌물을 드렸으니",
+      "en": "On the ninth day Abidan son of Gideoni, the leader of the people of Benjamin, brought his offering.",
+      "de": "Am neunten Tage der Fürst der Kinder Benjamin, Abidan, der Sohn des Gideoni.",
+      "zh": "第九日来献的是便雅悯子孙的首领、基多尼的儿子亚比但。",
+      "ja": "第九日にはベニヤミンの子孫の牧伯ギデオニの子アビダン献納をなせり"
+    },
+    {
+      "number": 61,
+      "ko": "그의 헌물도 성소의 세겔로 백삼십 세겔 무게의 은 쟁반 하나와 칠십 세겔 무게의 은 바리 하나라 이 두 그릇에는 소제물로 기름 섞은 고운 가루를 채웠고",
+      "en": "His offering was one silver plate weighing a hundred and thirty shekels, and one silver sprinkling bowl weighing seventy shekels, both according to the sanctuary shekel, each filled with fine flour mixed with oil as a grain offering;",
+      "de": "Seine Gabe war eine silberne Schüssel, hundertdreißig Lot schwer, eine silberne Schale, siebzig Lot schwer nach dem Lot des Heiligtums, beide voll Semmelmehl, mit Öl gemengt, zum Speisopfer;",
+      "zh": "他的供物是：一个银盘子，重一百三十舍客勒，一个银碗，重七十舍客勒，都是按圣所的平，也都盛满了调油的细面作素祭；",
+      "ja": "その禮物は銀の皿一箇その重は百三十シケル銀の鉢一箇是は七十シケルみな聖所のシケルに循ふこの二者には麥粉に油を和たる素祭の品を充す"
+    },
+    {
+      "number": 62,
+      "ko": "또 열 세겔 무게의 금 그릇 하나라 이것에는 향을 채웠고",
+      "en": "one gold dish weighing ten shekels, filled with incense;",
+      "de": "dazu einen goldenen Löffel, zehn Lot schwer, voll Räuchwerk,",
+      "zh": "一个金盂，重十舍客勒，盛满了香；",
+      "ja": "また金の匙の十シケルなる者一箇是には香を充す"
+    },
+    {
+      "number": 63,
+      "ko": "또 번제물로 수송아지 한 마리와 숫양 한 마리와 일 년 된 어린 숫양 한 마리이며",
+      "en": "one young bull, one ram and one male lamb a year old, for a burnt offering;",
+      "de": "einen jungen Farren, einen Widder, ein jähriges Lamm zum Brandopfer;",
+      "zh": "一只公牛犊，一只公绵羊，一只一岁的公羊羔作燔祭；",
+      "ja": "また燔祭に用ふる若き牡牛一匹牡羊一匹當歳の羔羊一匹"
+    },
+    {
+      "number": 64,
+      "ko": "속죄제물로 숫염소 한 마리이며",
+      "en": "one male goat for a sin offering;",
+      "de": "einen Ziegenbock zum Sündopfer;",
+      "zh": "一只公山羊作赎罪祭；",
+      "ja": "罪祭に用ふる牡山羊一匹"
+    },
+    {
+      "number": 65,
+      "ko": "화목제물로 소 두 마리와 숫양 다섯 마리와 숫염소 다섯 마리와 일 년 된 어린 숫양 다섯 마리라 이는 기드오니의 아들 아비단의 헌물이었더라",
+      "en": "and two oxen, five rams, five male goats and five male lambs a year old, to be sacrificed as a fellowship offering. This was the offering of Abidan son of Gideoni.",
+      "de": "und zum Dankopfer zwei Rinder, fünf Widder und fünf jährige Lämmer. Das ist die Gabe Abidans, des Sohn's Gideonis.",
+      "zh": "两只公牛，五只公绵羊，五只公山羊，五只一岁的公羊羔作平安祭。这是基多尼儿子亚比但的供物。",
+      "ja": "酬恩祭の犠牲に用ふる牛二匹牡羊五匹牡山羊五匹當歳の羔羊五匹ギデオニの子アビダンの禮物は是のごとし"
+    },
+    {
+      "number": 66,
+      "ko": "열째 날에는 단 자손의 지휘관 암미삿대의 아들 아히에셀이 헌물을 드렸으니",
+      "en": "On the tenth day Ahiezer son of Ammishaddai, the leader of the people of Dan, brought his offering.",
+      "de": "Am zehnten Tage der Fürst der Kinder Dan, Ahi-Eser, der Sohn Ammi-Saddais.",
+      "zh": "第十日来献的是但子孙的首领、亚米沙代的儿子亚希以谢。",
+      "ja": "第十日にはダンの子孫の牧伯アミシヤダイの子アヒエゼル献納をなせり"
+    },
+    {
+      "number": 67,
+      "ko": "그의 헌물도 성소의 세겔로 백삼십 세겔 무게의 은 쟁반 하나와 칠십 세겔 무게의 은 바리 하나라 이 두 그릇에는 소제물로 기름 섞은 고운 가루를 채웠고",
+      "en": "His offering was one silver plate weighing a hundred and thirty shekels, and one silver sprinkling bowl weighing seventy shekels, both according to the sanctuary shekel, each filled with fine flour mixed with oil as a grain offering;",
+      "de": "Seine Gabe war eine silberne Schüssel, hundertdreißig Lot schwer, eine silberne Schale, siebzig Lot schwer nach dem Lot des Heiligtums, beide voll Semmelmehl, mit Öl gemengt, zum Speisopfer;",
+      "zh": "他的供物是：一个银盘子，重一百三十舍客勒，一个银碗，重七十舍客勒，都是按圣所的平，也都盛满了调油的细面作素祭；",
+      "ja": "その禮物は銀の皿一箇その重は百三十シケル銀の鉢一箇是は七十シケル皆聖所のシケルに循ふこの二者には麥粉に油を和たる素祭の品を充す"
+    },
+    {
+      "number": 68,
+      "ko": "또 열 세겔 무게의 금 그릇 하나라 이것에는 향을 채웠고",
+      "en": "one gold dish weighing ten shekels, filled with incense;",
+      "de": "dazu einen goldenen Löffel, zehn Lot schwer, voll Räuchwerk,",
+      "zh": "一个金盂，重十舍客勒，盛满了香；",
+      "ja": "また金の匙の十シケルなる者一箇是には香を充す"
+    },
+    {
+      "number": 69,
+      "ko": "또 번제물로 수송아지 한 마리와 숫양 한 마리와 일 년 된 어린 숫양 한 마리이며",
+      "en": "one young bull, one ram and one male lamb a year old, for a burnt offering;",
+      "de": "einen jungen Farren, einen Widder, ein jähriges Lamm zum Brandopfer;",
+      "zh": "一只公牛犊，一只公绵羊，一只一岁的公羊羔作燔祭；",
+      "ja": "また燔祭に用ふる若き牡牛一匹牡羊一匹當歳の羔羊一匹"
+    },
+    {
+      "number": 70,
+      "ko": "속죄제물로 숫염소 한 마리이며",
+      "en": "one male goat for a sin offering;",
+      "de": "einen Ziegenbock zum Sündopfer;",
+      "zh": "一只公山羊作赎罪祭；",
+      "ja": "罪祭に用ふる牡山羊一匹"
+    },
+    {
+      "number": 71,
+      "ko": "화목제물로 소 두 마리와 숫양 다섯 마리와 숫염소 다섯 마리와 일 년 된 어린 숫양 다섯 마리라 이는 암미삿대의 아들 아히에셀의 헌물이었더라",
+      "en": "and two oxen, five rams, five male goats and five male lambs a year old, to be sacrificed as a fellowship offering. This was the offering of Ahiezer son of Ammishaddai.",
+      "de": "und zum Dankopfer zwei Rinder, fünf Widder und fünf jährige Lämmer. Das ist die Gabe Ahi-Esers, des Sohnes Ammi-Saddais.",
+      "zh": "两只公牛，五只公绵羊，五只公山羊，五只一岁的公羊羔作平安祭。这是亚米沙代儿子亚希以谢的供物。",
+      "ja": "酬恩祭の犠牲に用ふる牛二匹牡羊五匹牡山羊五匹當歳の羔羊五匹アミシヤダイの子アヒエゼルの禮物は是のごとし"
+    },
+    {
+      "number": 72,
+      "ko": "열한째 날에는 아셀 자손의 지휘관 오그란의 아들 바기엘이 헌물을 드렸으니",
+      "en": "On the eleventh day Pagiel son of Ocran, the leader of the people of Asher, brought his offering.",
+      "de": "Am elften Tage der Fürst der Kinder Asser, Pagiel, der Sohn Ochrans.",
+      "zh": "第十一日来献的是亚设子孙的首领、俄兰的儿子帕结。",
+      "ja": "第十一日にはアセルの子孫の牧伯オクランの子パギエル献納を爲せり"
+    },
+    {
+      "number": 73,
+      "ko": "그의 헌물도 성소의 세겔로 백삼십 세겔 무게의 은 쟁반 하나와 칠십 세겔 무게의 은 바리 하나라 이 두 그릇에는 소제물로 기름 섞은 고운 가루를 채웠고",
+      "en": "His offering was one silver plate weighing a hundred and thirty shekels, and one silver sprinkling bowl weighing seventy shekels, both according to the sanctuary shekel, each filled with fine flour mixed with oil as a grain offering;",
+      "de": "Seine Gabe war eine silberne Schüssel, hundertdreißig Lot schwer, eine silberne Schale, siebzig Lot schwer nach dem Lot des Heiligtums, beide voll Semmelmehl, mit Öl gemengt, zum Speisopfer;",
+      "zh": "他的供物是：一个银盘子，重一百三十舍客勒，一个银碗，重七十舍客勒，都是按圣所的平，也都盛满了调油的细面作素祭；",
+      "ja": "その禮物は銀の皿一箇その重は百三十シケル銀の鉢一箇是は七十シケルみな聖所のシケルに循ふこの二者には麥粉に油を和たる素祭の品を充す"
+    },
+    {
+      "number": 74,
+      "ko": "또 열 세겔 무게의 금 그릇 하나라 이것에는 향을 채웠고",
+      "en": "one gold dish weighing ten shekels, filled with incense;",
+      "de": "dazu einen goldenen Löffel, zehn Lot schwer, voll Räuchwerk,",
+      "zh": "一个金盂，重十舍客勒，盛满了香；",
+      "ja": "亦金の匙の十シケルなる者一箇是には香を充す"
+    },
+    {
+      "number": 75,
+      "ko": "또 번제물로 수송아지 한 마리와 숫양 한 마리와 일 년 된 어린 숫양 한 마리이며",
+      "en": "one young bull, one ram and one male lamb a year old, for a burnt offering;",
+      "de": "einen jungen Farren, einen Widder, ein jähriges Lamm zum Brandopfer;",
+      "zh": "一只公牛犊，一只公绵羊，一只一岁的公羊羔作燔祭；",
+      "ja": "亦燔祭に用ふる若き牡牛一匹牡羊一匹當歳の羔羊一匹"
+    },
+    {
+      "number": 76,
+      "ko": "속죄제물로 숫염소 한 마리이며",
+      "en": "one male goat for a sin offering;",
+      "de": "einen Ziegenbock zum Sündopfer;",
+      "zh": "一只公山羊作赎罪祭；",
+      "ja": "罪祭に用ふる牡山羊一匹"
+    },
+    {
+      "number": 77,
+      "ko": "화목제물로 소 두 마리와 숫양 다섯 마리와 숫염소 다섯 마리와 일 년 된 어린 숫양 다섯 마리라 이는 오그란의 아들 바기엘의 헌물이었더라",
+      "en": "and two oxen, five rams, five male goats and five male lambs a year old, to be sacrificed as a fellowship offering. This was the offering of Pagiel son of Ocran.",
+      "de": "und zum Dankopfer zwei Rinder, fünf Widder und fünf jährige Lämmer. Das ist die Gabe Pagiels, des Sohnes Ochrans.",
+      "zh": "两只公牛，五只公绵羊，五只公山羊，五只一岁的公羊羔作平安祭。这是俄兰儿子帕结的供物。",
+      "ja": "酬恩祭の犠牲に用ふる牛二匹牡羊五匹牡山羊五匹當歳の羔羊五匹オクランの子パギエルの禮物は是のごとし"
+    },
+    {
+      "number": 78,
+      "ko": "열두째 날에는 납달리 자손의 지휘관 에난의 아들 아히라가 헌물을 드렸으니",
+      "en": "On the twelfth day Ahira son of Enan, the leader of the people of Naphtali, brought his offering.",
+      "de": "Am zwölften Tage der Fürst der Kinder Naphthali, Ahira, der Sohn Enans.",
+      "zh": "第十二日来献的是拿弗他利子孙的首领、以南儿子亚希拉。",
+      "ja": "第十二日にはナフタリの子孫の牧伯エナンの子アヒラ献物をなせり"
+    },
+    {
+      "number": 79,
+      "ko": "그의 헌물도 성소의 세겔로 백삼십 세겔 무게의 은 쟁반 하나와 칠십 세겔 무게의 은 바리 하나라 이 두 그릇에는 소제물로 기름 섞은 고운 가루를 채웠고",
+      "en": "His offering was one silver plate weighing a hundred and thirty shekels, and one silver sprinkling bowl weighing seventy shekels, both according to the sanctuary shekel, each filled with fine flour mixed with oil as a grain offering;",
+      "de": "Seine Gabe war eine silberne Schüssel, hundertdreißig Lot schwer, eine silberne Schale, siebzig Lot schwer nach dem Lot des Heiligtums, beide voll Semmelmehl, mit Öl gemengt, zum Speisopfer;",
+      "zh": "他的供物是：一个银盘子，重一百三十舍客勒，一个银碗，重七十舍客勒，都是按圣所的平，也都盛满了调油的细面作素祭；",
+      "ja": "其禮物は銀の皿一箇その重は百三十シケル銀の鉢一箇是は七十シケルみな聖所のシケルに循ふこの二者には麥粉に油を和たる素祭の品を充す"
+    },
+    {
+      "number": 80,
+      "ko": "또 열 세겔 무게의 금 그릇 하나라 이것에는 향을 채웠고",
+      "en": "one gold dish weighing ten shekels, filled with incense;",
+      "de": "dazu einen goldenen Löffel, zehn Lot schwer, voll Räuchwerk,",
+      "zh": "一个金盂，重十舍客勒，盛满了香；",
+      "ja": "また金の匙の十シケルなる者一箇是には香を充す"
+    },
+    {
+      "number": 81,
+      "ko": "또 번제물로 수송아지 한 마리와 숫양 한 마리와 일 년 된 어린 숫양 한 마리이며",
+      "en": "one young bull, one ram and one male lamb a year old, for a burnt offering;",
+      "de": "einen jungen Farren, einen Widder, ein jähriges Lamm zum Brandopfer;",
+      "zh": "一只公牛犊，一只公绵羊，一只一岁的公羊羔作燔祭；",
+      "ja": "また燔祭に用ふる若き牡牛一匹牡羊一匹當歳の羔羊一匹"
+    },
+    {
+      "number": 82,
+      "ko": "속죄제물로 숫염소 한 마리이며",
+      "en": "one male goat for a sin offering;",
+      "de": "einen Ziegenbock zum Sündopfer;",
+      "zh": "一只公山羊作赎罪祭；",
+      "ja": "罪祭に用ふる牡山羊一匹"
+    },
+    {
+      "number": 83,
+      "ko": "화목제물로 소 두 마리와 숫양 다섯 마리와 숫염소 다섯 마리와 일 년 된 어린 숫양 다섯 마리라 이는 에난의 아들 아히라의 헌물이었더라",
+      "en": "and two oxen, five rams, five male goats and five male lambs a year old, to be sacrificed as a fellowship offering. This was the offering of Ahira son of Enan.",
+      "de": "und zum Dankopfer zwei Rinder, fünf Widder und fünf jährige Lämmer. Das ist die Gabe Ahiras, des Sohnes Enans.",
+      "zh": "两只公牛，五只公绵羊，五只公山羊，五只一岁的公羊羔作平安祭。这是以南儿子亚希拉的供物。",
+      "ja": "酬恩祭の犠牲に用ふる牛二匹牡羊五匹牡山羊五匹當歳の羔羊五匹エナンの子アヒラの禮物は是のごとし"
+    },
+    {
+      "number": 84,
+      "ko": "이는 곧 제단에 기름 바르던 날에 이스라엘 지휘관들이 드린 바 제단의 봉헌물이라 은 쟁반이 열둘이요 은 바리가 열둘이요 금 그릇이 열둘이니",
+      "en": "These were the offerings of the Israelite leaders for the dedication of the altar when it was anointed: twelve silver plates, twelve silver sprinkling bowls and twelve gold dishes.",
+      "de": "Das ist die Einweihung des Altars zur Zeit, da er gesalbt ward, dazu die Fürsten Israels opferten diese zwölf silbernen Schüsseln, zwölf silberne Schalen, zwölf goldene Löffel,",
+      "zh": "用膏抹坛的日子，以色列的众首领为行献坛之礼所献的是：银盘子十二个，银碗十二个，金盂十二个；",
+      "ja": "是すなはち壇に油を灌げる日にイスラエルの牧伯等が献げたる壇奉納の禮物なり即ち銀の皿十二銀の鉢十二金の匙十二"
+    },
+    {
+      "number": 85,
+      "ko": "은 쟁반은 각각 백삼십 세겔 무게요 은 바리는 각각 칠십 세겔 무게라 성소의 세겔로 모든 기구의 은이 모두 이천사백 세겔이요",
+      "en": "Each silver plate weighed a hundred and thirty shekels, and each sprinkling bowl seventy shekels. Altogether, the silver dishes weighed two thousand four hundred shekels, according to the sanctuary shekel.",
+      "de": "also daß je eine Schüssel hundertdreißig Lot Silber und je eine Schale siebzig Lot hatte, daß die Summe alles Silbers am Gefäß betrug zweitausendvierhundert Lot nach dem Lot des Heiligtums.",
+      "zh": "每盘子重一百三十舍客勒，每碗重七十舍客勒。一切器皿的银子，按圣所的平，共有二千四百舍客勒。",
+      "ja": "銀の皿は各々百三十シケル鉢は各々七十シケル聖所のシケルに依ばこの諸の銀の器はその重都合二千四百シケルなりき"
+    },
+    {
+      "number": 86,
+      "ko": "또 향을 채운 금 그릇이 열둘이니 성소의 세겔로 각각 열 세겔 무게라 그 그릇의 금이 모두 백이십 세겔이요",
+      "en": "The twelve gold dishes filled with incense weighed ten shekels each, according to the sanctuary shekel. Altogether, the gold dishes weighed a hundred and twenty shekels.",
+      "de": "Und der zwölf goldenen Löffel voll Räuchwerk hatte je einer zehn Lot nach dem Lot des Heiligtums, daß die Summe Goldes an den Löffeln betrug hundertzwanzig Lot.",
+      "zh": "十二个金盂盛满了香，按圣所的平，每盂重十舍客勒，所有的金子共一百二十舍客勒。",
+      "ja": "また香を充せる金の匙十二ありその重は聖所のシケルに依ば各々十シケルその匙の金は都合百二十シケルなりき"
+    },
+    {
+      "number": 87,
+      "ko": "또 번제물로 수송아지가 열두 마리요 숫양이 열두 마리요 일 년 된 어린 숫양이 열두 마리요 그 소제물이며 속죄제물로 숫염소가 열두 마리이며",
+      "en": "The total number of animals for the burnt offering came to twelve young bulls, twelve rams and twelve male lambs a year old, together with their grain offering. Twelve male goats were used for the sin offering.",
+      "de": "Die Summe der Rinder zum Brandopfer waren zwölf Farren, zwölf Widder, zwölf jahrige Lämmer samt ihrem Speisopfer und zwölf Ziegenböcke zum Sündopfer.",
+      "zh": "作燔祭的，共有公牛十二只，公羊十二只，一岁的公羊羔十二只，并同献的素祭作赎罪祭的公山羊十二只；",
+      "ja": "また燔祭に用ふる者は牡牛十二牡羊十二當歳の羔羊十二ありき之にその素祭の物を加ふまた罪祭の牡山羊十二あり"
+    },
+    {
+      "number": 88,
+      "ko": "화목제물로 수소가 스물네 마리요 숫양이 육십 마리요 숫염소가 육십 마리요 일 년 된 어린 숫양이 육십 마리라 이는 제단에 기름 바른 후에 드린 바 제단의 봉헌물이었더라",
+      "en": "The total number of animals for the sacrifice of the fellowship offering came to twenty-four oxen, sixty rams, sixty male goats and sixty male lambs a year old. These were the offerings for the dedication of the altar after it was anointed.",
+      "de": "Und die Summe der Rinder zum Dankopfer war vierundzwanzig Farren, sechzig Widder, sechzig Böcke, sechzig jährige Lämmer. Das ist die Einweihung des Altars, da er gesalbt ward.",
+      "zh": "作平安祭的，共有公牛二十四只，公绵羊六十只，公山羊六十只，一岁的公羊羔六十只。这就是用膏抹坛之后，为行奉献坛之礼所献的。",
+      "ja": "また酬恩祭の犠牲に用ふる者は牡牛二十四牡羊六十牡山羊六十當歳の羔羊六十あり壇に膏を灌ぎて後に献たる壇奉納の禮物は是のごとし"
+    },
+    {
+      "number": 89,
+      "ko": "모세가 회막에 들어가서 여호와께 말하려 할 때에 증거궤 위 속죄소 위의 두 그룹 사이에서 자기에게 말씀하시는 목소리를 들었으니 여호와께서 그에게 말씀하심이었더라",
+      "en": "When Moses entered the Tent of Meeting to speak with the LORD, he heard the voice speaking to him from between the two cherubim above the atonement cover on the ark of the Testimony. And he spoke with him.",
+      "de": "Und wenn Mose in die Hütte des Stifts ging, daß mit ihm geredet würde, so hörte er die Stimme mit ihm reden von dem Gnadenstuhl, der auf der Lade des Zeugnisses war, dort ward mit ihm geredet.",
+      "zh": "摩西进会幕要与耶和华说话的时候，听见法柜的施恩座以上、二基路伯中间有与他说话的声音，就是耶和华与他说话。",
+      "ja": "斯てモーセはヱホバと語はんとて集會の幕屋に入けるに律法の櫃の上なる贖罪所の上兩箇のケルビムの間より聲いでて己に語ふを聽り即ち彼と語へり"
+    }
+  ]
+}

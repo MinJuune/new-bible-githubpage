@@ -1,0 +1,270 @@
+{
+  "book": "Proverbs",
+  "chapter": 15,
+  "verses": [
+    {
+      "number": 1,
+      "ko": "유순한 대답은 분노를 쉬게 하여도 과격한 말은 노를 격동하느니라",
+      "en": "A gentle answer turns away wrath, but a harsh word stirs up anger.",
+      "de": "Eine linde Antwort stillt den Zorn; aber ein hartes Wort richtet Grimm an.",
+      "zh": "回答柔和，使怒消退； 言语暴戾，触动怒气。",
+      "ja": "柔和なる答は憤恨をとどめ厲しき言は怒を激す"
+    },
+    {
+      "number": 2,
+      "ko": "지혜 있는 자의 혀는 지식을 선히 베풀고 미련한 자의 입은 미련한 것을 쏟느니라",
+      "en": "The tongue of the wise commends knowledge, but the mouth of the fool gushes folly.",
+      "de": "Der Weisen Zunge macht die Lehre lieblich; der Narren Mund speit eitel Narrheit.",
+      "zh": "智慧人的舌善发知识； 愚昧人的口吐出愚昧。",
+      "ja": "智慧ある者の舌は知識を善きものとおもはしめ 愚なる者の口はおろかをはく"
+    },
+    {
+      "number": 3,
+      "ko": "여호와의 눈은 어디서든지 악인과 선인을 감찰하시느니라",
+      "en": "The eyes of the LORD are everywhere, keeping watch on the wicked and the good.",
+      "de": "Die Augen des HERRN schauen an allen Orten beide, die Bösen und die Frommen.",
+      "zh": "耶和华的眼目无处不在； 恶人善人，他都鉴察。",
+      "ja": "ヱホバの目は何處にもありて惡人と善人とを鑒みる"
+    },
+    {
+      "number": 4,
+      "ko": "온순한 혀는 곧 생명 나무이지만 패역한 혀는 마음을 상하게 하느니라",
+      "en": "The tongue that brings healing is a tree of life, but a deceitful tongue crushes the spirit.",
+      "de": "Ein heilsame Zunge ist ein Baum des Lebens; aber eine lügenhafte macht Herzeleid.",
+      "zh": "温良的舌是生命树； 乖谬的嘴使人心碎。",
+      "ja": "温柔き舌は生命の樹なり 悖れる舌は霊魂を傷ましむ"
+    },
+    {
+      "number": 5,
+      "ko": "아비의 훈계를 업신여기는 자는 미련한 자요 경계를 받는 자는 슬기를 얻을 자니라",
+      "en": "A fool spurns his father's discipline, but whoever heeds correction shows prudence.",
+      "de": "Der Narr lästert die Zucht seines Vaters; wer aber Strafe annimmt, der wird klug werden.",
+      "zh": "愚妄人藐视父亲的管教； 领受责备的，得着见识。",
+      "ja": "愚なる者はその父の訓をかろんず 誡命をまもる者は賢者なり"
+    },
+    {
+      "number": 6,
+      "ko": "의인의 집에는 많은 보물이 있어도 악인의 소득은 고통이 되느니라",
+      "en": "The house of the righteous contains great treasure, but the income of the wicked brings them trouble.",
+      "de": "In des Gerechten Haus ist Guts genug; aber in dem Einkommen des Gottlosen ist Verderben.",
+      "zh": "义人家中多有财宝； 恶人得利反受扰害。",
+      "ja": "義者の家には多くの資財あり 惡者の利潤には擾累あり"
+    },
+    {
+      "number": 7,
+      "ko": "지혜로운 자의 입술은 지식을 전파하여도 미련한 자의 마음은 정함이 없느니라",
+      "en": "The lips of the wise spread knowledge; not so the hearts of fools.",
+      "de": "Der Weisen Mund streut guten Rat; aber der Narren Herz ist nicht richtig.",
+      "zh": "智慧人的嘴播扬知识； 愚昧人的心并不如此。",
+      "ja": "智者のくちびるは知識をひろむ 愚なる者の心は定りなし"
+    },
+    {
+      "number": 8,
+      "ko": "악인의 제사는 여호와께서 미워하셔도 정직한 자의 기도는 그가 기뻐하시느니라",
+      "en": "The LORD detests the sacrifice of the wicked, but the prayer of the upright pleases him.",
+      "de": "Der Gottlosen Opfer ist dem HERRN ein Greuel; aber das Gebet der Frommen ist ihm angenehm.",
+      "zh": "恶人献祭，为耶和华所憎恶； 正直人祈祷，为他所喜悦。",
+      "ja": "惡者の祭物はヱホバに憎まれ 直き人の祈は彼に悦ばる"
+    },
+    {
+      "number": 9,
+      "ko": "악인의 길은 여호와께서 미워하셔도 공의를 따라가는 자는 그가 사랑하시느니라",
+      "en": "The LORD detests the way of the wicked but he loves those who pursue righteousness.",
+      "de": "Der Gottlosen Weg ist dem HERRN ein Greuel; wer aber der Gerechtigkeit nachjagt, den liebt er.",
+      "zh": "恶人的道路，为耶和华所憎恶； 追求公义的，为他所喜爱。",
+      "ja": "惡者の道はヱホバに憎まれ 正義をもとむる者は彼に愛せらる"
+    },
+    {
+      "number": 10,
+      "ko": "도를 배반하는 자는 엄한 징계를 받을 것이요 견책을 싫어하는 자는 죽을 것이니라",
+      "en": "Stern discipline awaits him who leaves the path; he who hates correction will die.",
+      "de": "Den Weg verlassen bringt böse Züchtigung, und wer Strafe haßt, der muß sterben.",
+      "zh": "舍弃正路的，必受严刑； 恨恶责备的，必致死亡。",
+      "ja": "道をはなるる者には嚴しき懲治あり 譴責を惡む者は死ぬべし"
+    },
+    {
+      "number": 11,
+      "ko": "스올과 아바돈도 여호와의 앞에 드러나거든 하물며 사람의 마음이리요",
+      "en": "Death and Destruction lie open before the LORD--how much more the hearts of men!",
+      "de": "Hölle und Abgrund ist vor dem HERRN; wie viel mehr der Menschen Herzen!",
+      "zh": "阴间和灭亡尚在耶和华眼前， 何况世人的心呢？",
+      "ja": "陰府と沉淪とはヱホバの目の前にあり 况て人の心をや"
+    },
+    {
+      "number": 12,
+      "ko": "거만한 자는 견책 받기를 좋아하지 아니하며 지혜 있는 자에게로 가지도 아니하느니라",
+      "en": "A mocker resents correction; he will not consult the wise.",
+      "de": "Der Spötter liebt den nicht, der ihn straft, und geht nicht zu den Weisen.",
+      "zh": "亵慢人不爱受责备； 他也不就近智慧人。",
+      "ja": "嘲笑者は誡めらるることを好まず また智慧ある者に近づかず"
+    },
+    {
+      "number": 13,
+      "ko": "마음의 즐거움은 얼굴을 빛나게 하여도 마음의 근심은 심령을 상하게 하느니라",
+      "en": "A happy heart makes the face cheerful, but heartache crushes the spirit.",
+      "de": "Ein fröhlich Herz macht ein fröhlich Angesicht; aber wenn das Herz bekümmert ist, so fällt auch der Mut.",
+      "zh": "心中喜乐，面带笑容； 心里忧愁，灵被损伤。",
+      "ja": "心に喜樂あれば顔色よろこばし 心に憂苦あれば氣ふさぐ"
+    },
+    {
+      "number": 14,
+      "ko": "명철한 자의 마음은 지식을 요구하고 미련한 자의 입은 미련한 것을 즐기느니라",
+      "en": "The discerning heart seeks knowledge, but the mouth of a fool feeds on folly.",
+      "de": "Ein kluges Herz handelt bedächtig; aber der Narren Mund geht mit Torheit um.",
+      "zh": "聪明人心求知识； 愚昧人口吃愚昧。",
+      "ja": "哲者のこころは知識をたづね 愚なる者の口は愚をくらふ"
+    },
+    {
+      "number": 15,
+      "ko": "고난 받는 자는 그 날이 다 험악하나 마음이 즐거운 자는 항상 잔치하느니라",
+      "en": "All the days of the oppressed are wretched, but the cheerful heart has a continual feast.",
+      "de": "Ein Betrübter hat nimmer einen guten Tag; aber ein guter Mut ist ein täglich Wohlleben.",
+      "zh": "困苦人的日子都是愁苦； 心中欢畅的，常享丰筵。",
+      "ja": "艱難者の日はことごとく惡く 心の懽べる者は恒に酒宴にあり"
+    },
+    {
+      "number": 16,
+      "ko": "가산이 적어도 여호와를 경외하는 것이 크게 부하고 번뇌하는 것보다 나으니라",
+      "en": "Better a little with the fear of the LORD than great wealth with turmoil.",
+      "de": "Es ist besser ein wenig mit der Furcht des HERRN denn großer Schatz, darin Unruhe ist.",
+      "zh": "少有财宝，敬畏耶和华， 强如多有财宝，烦乱不安。",
+      "ja": "すこしの物を有てヱホバを畏るるは多の寳をもちて擾煩あるに愈る"
+    },
+    {
+      "number": 17,
+      "ko": "채소를 먹으며 서로 사랑하는 것이 살진 소를 먹으며 서로 미워하는 것보다 나으니라",
+      "en": "Better a meal of vegetables where there is love than a fattened calf with hatred.",
+      "de": "Es ist besser ein Gericht Kraut mit Liebe, denn ein gemästeter Ochse mit Haß.",
+      "zh": "吃素菜，彼此相爱， 强如吃肥牛，彼此相恨。",
+      "ja": "蔬菜をくらひて互に愛するは肥たる牛を食ひて互に恨むるに愈る"
+    },
+    {
+      "number": 18,
+      "ko": "분을 쉽게 내는 자는 다툼을 일으켜도 노하기를 더디 하는 자는 시비를 그치게 하느니라",
+      "en": "A hot-tempered man stirs up dissension, but a patient man calms a quarrel.",
+      "de": "Ein zorniger Mann richtet Hader an; ein Geduldiger aber stillt den Zank.",
+      "zh": "暴怒的人挑启争端； 忍怒的人止息纷争。",
+      "ja": "憤ほり易きものは爭端をおこし 怒をおそくする者は爭端をとどむ"
+    },
+    {
+      "number": 19,
+      "ko": "게으른 자의 길은 가시 울타리 같으나 정직한 자의 길은 대로니라",
+      "en": "The way of the sluggard is blocked with thorns, but the path of the upright is a highway.",
+      "de": "Der Weg des Faulen ist dornig; aber der Weg des Frommen ist wohl gebahnt.",
+      "zh": "懒惰人的道像荆棘的篱笆； 正直人的路是平坦的大道。",
+      "ja": "惰者の道は棘の籬に似たり 直者の途は平坦なり"
+    },
+    {
+      "number": 20,
+      "ko": "지혜로운 아들은 아비를 즐겁게 하여도 미련한 자는 어미를 업신여기느니라",
+      "en": "A wise son brings joy to his father, but a foolish man despises his mother.",
+      "de": "Ein weiser Sohn erfreut den Vater, und ein törichter Mensch ist seiner Mutter Schande.",
+      "zh": "智慧子使父亲喜乐； 愚昧人藐视母亲。",
+      "ja": "智慧ある子は父をよろこばせ 愚なる人はその母をかろんず"
+    },
+    {
+      "number": 21,
+      "ko": "무지한 자는 미련한 것을 즐겨 하여도 명철한 자는 그 길을 바르게 하느니라",
+      "en": "Folly delights a man who lacks judgment, but a man of understanding keeps a straight course.",
+      "de": "Dem Toren ist die Torheit eine Freude; aber ein verständiger Mann bleibt auf dem rechten Wege.",
+      "zh": "无知的人以愚妄为乐； 聪明的人按正直而行。",
+      "ja": "無知なる者は愚なる事をよろこび 哲者はその途を直くす"
+    },
+    {
+      "number": 22,
+      "ko": "의논이 없으면 경영이 무너지고 지략이 많으면 경영이 성립하느니라",
+      "en": "Plans fail for lack of counsel, but with many advisers they succeed.",
+      "de": "Die Anschläge werden zunichte, wo nicht Rat ist; wo aber viel Ratgeber sind, bestehen sie.",
+      "zh": "不先商议，所谋无效； 谋士众多，所谋乃成。",
+      "ja": "相議ることあらざれば謀計やぶる 議者おほければ謀計かならず成る"
+    },
+    {
+      "number": 23,
+      "ko": "사람은 그 입의 대답으로 말미암아 기쁨을 얻나니 때에 맞는 말이 얼마나 아름다운고",
+      "en": "A man finds joy in giving an apt reply--and how good is a timely word!",
+      "de": "Es ist einem Manne eine Freude, wenn er richtig antwortet; und ein Wort zu seiner Zeit ist sehr lieblich.",
+      "zh": "口善应对，自觉喜乐； 话合其时，何等美好。",
+      "ja": "人はその口の答によりて喜樂をう 言語を出して時に適ふはいかに善らずや"
+    },
+    {
+      "number": 24,
+      "ko": "지혜로운 자는 위로 향한 생명 길로 말미암음으로 그 아래에 있는 스올을 떠나게 되느니라",
+      "en": "The path of life leads upward for the wise to keep him from going down to the grave.",
+      "de": "Der Weg des Lebens geht überwärts für den Klugen, auf daß er meide die Hölle unterwärts.",
+      "zh": "智慧人从生命的道上升， 使他远离在下的阴间。",
+      "ja": "智人の途は生命の路にして上へ昇りゆく これ下にあるところの陰府を離れんが爲なり"
+    },
+    {
+      "number": 25,
+      "ko": "여호와는 교만한 자의 집을 허시며 과부의 지계를 정하시느니라",
+      "en": "The LORD tears down the proud man's house but he keeps the widow's boundaries intact.",
+      "de": "Der HERR wird das Haus des Hoffärtigen zerbrechen und die Grenze der Witwe bestätigen.",
+      "zh": "耶和华必拆毁骄傲人的家， 却要立定寡妇的地界。",
+      "ja": "ヱホバはたかぶる者の家をほろぼし 寡婦の地界をさだめたまふ"
+    },
+    {
+      "number": 26,
+      "ko": "악한 꾀는 여호와께서 미워하시나 선한 말은 정결하니라",
+      "en": "The LORD detests the thoughts of the wicked, but those of the pure are pleasing to him.",
+      "de": "Die Anschläge des Argen sind dem HERRN ein Greuel; aber freundlich reden die Reinen.",
+      "zh": "恶谋为耶和华所憎恶； 良言乃为纯净。",
+      "ja": "あしき謀計はヱホバに憎まれ 温柔き言は潔白し"
+    },
+    {
+      "number": 27,
+      "ko": "이익을 탐하는 자는 자기 집을 해롭게 하나 뇌물을 싫어하는 자는 살게 되느니라",
+      "en": "A greedy man brings trouble to his family, but he who hates bribes will live.",
+      "de": "Der Geizige verstört sein eigen Haus; wer aber Geschenke haßt, der wird leben.",
+      "zh": "贪恋财利的，扰害己家； 恨恶贿赂的，必得存活。",
+      "ja": "不義の利をむさぼる者はその家をわづらはせ 賄賂をにくむ者は活ながらふべし"
+    },
+    {
+      "number": 28,
+      "ko": "의인의 마음은 대답할 말을 깊이 생각하여도 악인의 입은 악을 쏟느니라",
+      "en": "The heart of the righteous weighs its answers, but the mouth of the wicked gushes evil.",
+      "de": "Das Herz des Gerechten ersinnt, was zu antworten ist; aber der Mund der Gottlosen schäumt Böses.",
+      "zh": "义人的心，思量如何回答； 恶人的口吐出恶言。",
+      "ja": "義者の心は答ふべきことを考へ 惡者の口は惡を吐く"
+    },
+    {
+      "number": 29,
+      "ko": "여호와는 악인을 멀리 하시고 의인의 기도를 들으시느니라",
+      "en": "The LORD is far from the wicked but he hears the prayer of the righteous.",
+      "de": "Der HERR ist fern von den Gottlosen; aber der Gerechten Gebet erhört er.",
+      "zh": "耶和华远离恶人， 却听义人的祷告。",
+      "ja": "ヱホバは惡者に遠ざかり 義者の祈祷をききたまふ"
+    },
+    {
+      "number": 30,
+      "ko": "눈이 밝은 것은 마음을 기쁘게 하고 좋은 기별은 뼈를 윤택하게 하느니라",
+      "en": "A cheerful look brings joy to the heart, and good news gives health to the bones.",
+      "de": "Freundlicher Anblick erfreut das Herz; eine gute Botschaft labt das Gebein.",
+      "zh": "眼有光，使心喜乐； 好信息，使骨滋润。",
+      "ja": "目の光は心をよろこばせ 好音信は骨をうるほす"
+    },
+    {
+      "number": 31,
+      "ko": "생명의 경계를 듣는 귀는 지혜로운 자 가운데에 있느니라",
+      "en": "He who listens to a life-giving rebuke will be at home among the wise.",
+      "de": "Das Ohr, das da hört die Strafe des Lebens, wird unter den Weisen wohnen.",
+      "zh": "听从生命责备的， 必常在智慧人中。",
+      "ja": "生命の誡命をきくところの耳は智慧ある者の中間に駐まる"
+    },
+    {
+      "number": 32,
+      "ko": "훈계 받기를 싫어하는 자는 자기의 영혼을 경히 여김이라 견책을 달게 받는 자는 지식을 얻느니라",
+      "en": "He who ignores discipline despises himself, but whoever heeds correction gains understanding.",
+      "de": "Wer sich nicht ziehen läßt, der macht sich selbst zunichte; wer aber auf Strafe hört, der wird klug.",
+      "zh": "弃绝管教的，轻看自己的生命； 听从责备的，却得智慧。",
+      "ja": "敎をすつる者は自己の生命をかろんずるなり 懲治をきく者は聰明を得"
+    },
+    {
+      "number": 33,
+      "ko": "여호와를 경외하는 것은 지혜의 훈계라 겸손은 존귀의 길잡이니라",
+      "en": "The fear of the LORD teaches a man wisdom, and humility comes before honor.",
+      "de": "Die Furcht des HERRN ist Zucht und Weisheit; und ehe man zu Ehren kommt, muß man zuvor leiden.",
+      "zh": "敬畏耶和华是智慧的训诲； 尊荣以前，必有谦卑。",
+      "ja": "ヱホバを畏るることは智慧の訓なり 謙遜は尊貴に先だつ"
+    }
+  ]
+}

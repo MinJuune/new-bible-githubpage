@@ -1,0 +1,326 @@
+{
+  "book": "Judges",
+  "chapter": 11,
+  "verses": [
+    {
+      "number": 1,
+      "ko": "길르앗 사람 입다는 큰 용사였으니 기생이 길르앗에게서 낳은 아들이었고",
+      "en": "Jephthah the Gileadite was a mighty warrior. His father was Gilead; his mother was a prostitute.",
+      "de": "Jephthah, ein Gileaditer, war ein streibarer Held, aber ein Hurenkind. Gilead aber hatte Jephthah gezeugt.",
+      "zh": "基列人耶弗他是个大能的勇士，是妓女的儿子。耶弗他是基列所生的。",
+      "ja": "ギレアデ人ヱフタはたけき勇士にして妓婦の子なりギレアデ、ヱフタをうましめしなり"
+    },
+    {
+      "number": 2,
+      "ko": "길르앗의 아내도 그의 아들들을 낳았더라 그 아내의 아들들이 자라매 입다를 쫓아내며 그에게 이르되 너는 다른 여인의 자식이니 우리 아버지의 집에서 기업을 잇지 못하리라 한지라",
+      "en": "Gilead's wife also bore him sons, and when they were grown up, they drove Jephthah away. \"You are not going to get any inheritance in our family,\" they said, \"because you are the son of another woman.\"",
+      "de": "Da aber das Weib Gileads ihm Kinder gebar und des Weibes Kinder groß wurden, stießen sie Jephthah aus und sprachen zu ihm: Du sollst nicht erben in unsers Vaters Haus; denn du bist eines andern Weibes Sohn.",
+      "zh": "基列的妻也生了几个儿子：他妻所生的儿子长大了，就赶逐耶弗他，说：「你不可在我们父家承受产业，因为你是妓女的儿子。」",
+      "ja": "ギレアデの妻子等をうみしが妻の子等成長におよびてヱフタをおひいだしてこれにいひけるは汝は他の婦の子なればわれらが父の家を嗣べきにあらずと"
+    },
+    {
+      "number": 3,
+      "ko": "이에 입다가 그의 형제들을 피하여 돕 땅에 거주하매 잡류가 그에게로 모여 와서 그와 함께 출입하였더라",
+      "en": "So Jephthah fled from his brothers and settled in the land of Tob, where a group of adventurers gathered around him and followed him.",
+      "de": "Da floh er vor seinen Brüdern und wohnte im Lande Tob. Und es sammelten sich zu ihm lose Leute und zogen aus mit ihm.",
+      "zh": "耶弗他就逃避他的弟兄，去住在陀伯地，有些匪徒到他那里聚集，与他一同出入。",
+      "ja": "ヱフタ其の兄弟の許より逃さりてトブの地に住けるに遊蕩者ヱフタのもとに集ひ來りて之とともに出ることをなせり"
+    },
+    {
+      "number": 4,
+      "ko": "얼마 후에 암몬 자손이 이스라엘을 치려 하니라",
+      "en": "Some time later, when the Ammonites made war on Israel,",
+      "de": "Und über etliche Zeit hernach stritten die Kinder Ammon mit Israel.",
+      "zh": "过了些日子，亚扪人攻打以色列。",
+      "ja": "程經てのちアンモンの子孫イスラエルとたたかふに至りしが"
+    },
+    {
+      "number": 5,
+      "ko": "암몬 자손이 이스라엘을 치려 할 때에 길르앗 장로들이 입다를 데려오려고 돕 땅에 가서",
+      "en": "the elders of Gilead went to get Jephthah from the land of Tob.",
+      "de": "Da nun die Kinder Ammon also stritten mit Israel, gingen die Ältesten von Gilead hin, daß sie Jephthah holten aus dem Lande Tob,",
+      "zh": "亚扪人攻打以色列的时候，基列的长老到陀伯地去，要叫耶弗他回来；",
+      "ja": "アンモンの子孫のイスラエルとたたかへるときにギレアデの長老等ゆきてヱフタをトブの地より携來らんとし"
+    },
+    {
+      "number": 6,
+      "ko": "입다에게 이르되 우리가 암몬 자손과 싸우려 하니 당신은 와서 우리의 장관이 되라 하니",
+      "en": "\"Come,\" they said, \"be our commander, so we can fight the Ammonites.\"",
+      "de": "und sprachen zu ihm: Komm und sei unser Hauptmann, daß wir streiten wider die Kinder Ammon.",
+      "zh": "对耶弗他说：「请你来作我们的元帅，我们好与亚扪人争战。」",
+      "ja": "ヱフタにいひけるは汝來りて吾らの大將となれ我らアンモンの子孫とたたかはん"
+    },
+    {
+      "number": 7,
+      "ko": "입다가 길르앗 장로들에게 이르되 너희가 전에 나를 미워하여 내 아버지 집에서 쫓아내지 아니하였느냐 이제 너희가 환난을 당하였다고 어찌하여 내게 왔느냐 하니라",
+      "en": "Jephthah said to them, \"Didn't you hate me and drive me from my father's house? Why do you come to me now, when you're in trouble?\"",
+      "de": "Aber Jephthah sprach zu den Ältesten von Gilead: Seid ihr es nicht, die mich hassen und aus meines Vaters Haus gestoßen haben? Und nun kommt ihr zu mir, weil ihr in Trübsal seid?",
+      "zh": "耶弗他回答基列的长老说：「从前你们不是恨我、赶逐我出离父家吗？现在你们遭遇急难为何到我这里来呢？」",
+      "ja": "ヱフタ、ギレアデの長老等にいひけるは汝らは我を惡みてわが父の家より逐いだしたるにあらずやしかるに今汝らが艱める時に至りて何ぞ我に來るや"
+    },
+    {
+      "number": 8,
+      "ko": "그러므로 길르앗 장로들이 입다에게 이르되 이제 우리가 당신을 찾아온 것은 우리와 함께 가서 암몬 자손과 싸우게 하려 함이니 그리하면 당신이 우리 길르앗 모든 주민의 머리가 되리라 하매",
+      "en": "The elders of Gilead said to him, \"Nevertheless, we are turning to you now; come with us to fight the Ammonites, and you will be our head over all who live in Gilead.\"",
+      "de": "Die Ältesten von Gilead sprachen zu Jephthah: Darum kommen wir nun wieder zu dir, daß du mit uns ziehst und hilfst uns streiten wider die Kinder Ammon und seist unser Haupt über alle, die in Gilead wohnen.",
+      "zh": "基列的长老回答耶弗他说：「现在我们到你这里来，是要你同我们去，与亚扪人争战；你可以作基列一切居民的领袖。」",
+      "ja": "ギレアデの長老等ヱフタにこたへけるは其がために我ら今汝にかへる汝われらとともにゆきてアンモンの子孫とたたかはばすべて我等ギレアデにすめるものの首領となすべしと"
+    },
+    {
+      "number": 9,
+      "ko": "입다가 길르앗 장로들에게 이르되 너희가 나를 데리고 고향으로 돌아가서 암몬 자손과 싸우게 할 때에 만일 여호와께서 그들을 내게 넘겨 주시면 내가 과연 너희의 머리가 되겠느냐 하니",
+      "en": "Jephthah answered, \"Suppose you take me back to fight the Ammonites and the LORD gives them to me--will I really be your head?\"",
+      "de": "Jephthah sprach zu den Ältesten von Gilead: So ihr mich wieder holet, zu streiten wider die Kinder Ammon, und der HERR sie vor mir dahingeben wird, soll ich dann euer Haupt sein?",
+      "zh": "耶弗他对基列的长老说：「你们叫我回去，与亚扪人争战，耶和华把他交给我，我可以作你们的领袖吗？」",
+      "ja": "ヱフタ、ギレアデの長老等にいひけるは汝らもし我をたづさへかへりてアンモンの子孫とたたかはしめんにヱホバ之を我に付したまはば我は汝らの首となるべし"
+    },
+    {
+      "number": 10,
+      "ko": "길르앗 장로들이 입다에게 이르되 여호와는 우리 사이의 증인이시니 당신의 말대로 우리가 그렇게 행하리이다 하니라",
+      "en": "The elders of Gilead replied, \"The LORD is our witness; we will certainly do as you say.\"",
+      "de": "Die Ältesten von Gilead sprachen zu Jephthah: Der HERR sei Zuhörer zwischen uns, wo wir nicht tun, wie du gesagt hast.",
+      "zh": "基列的长老回答耶弗他说：「有耶和华在你我中间作见证，我们必定照你的话行。」",
+      "ja": "ギレアデの長老等ヱフタにいひけるはヱホバ汝と我との間の證者たり我ら誓つて汝の言のごとくになすべし"
+    },
+    {
+      "number": 11,
+      "ko": "이에 입다가 길르앗 장로들과 함께 가니 백성이 그를 자기들의 머리와 장관을 삼은지라 입다가 미스바에서 자기의 말을 다 여호와 앞에 아뢰니라",
+      "en": "So Jephthah went with the elders of Gilead, and the people made him head and commander over them. And he repeated all his words before the LORD in Mizpah.",
+      "de": "Also ging Jephthah mit den Ältesten von Gilead; und das Volk setzte ihn zum Haupt und Obersten über sich. Und Jephthah redete solches alles vor dem HERRN zu Mizpa.",
+      "zh": "于是耶弗他同基列的长老回去，百姓就立耶弗他作领袖、作元帅。耶弗他在米斯巴将自己的一切话陈明在耶和华面前。",
+      "ja": "是に於てヱフタ、ギレアデの長老等とともに往くに民之を立ておのれの首領となし大將となせりヱフタ即ちミヅパにおいてヱホバのまへにこの言をことごとく陳たり"
+    },
+    {
+      "number": 12,
+      "ko": "입다가 암몬 자손의 왕에게 사자들을 보내 이르되 네가 나와 무슨 상관이 있기에 내 땅을 치러 내게 왔느냐 하니",
+      "en": "Then Jephthah sent messengers to the Ammonite king with the question: \"What do you have against us that you have attacked our country?\"",
+      "de": "Da sandte Jephthah Botschaft zum König der Kinder Ammon und ließ ihm sagen: Was hast du mit mir zu schaffen, daß du kommst zu mir, wider mein Land zu streiten?",
+      "zh": "耶弗他打发使者去见亚扪人的王，说：「你与我有什么相干，竟来到我国中攻打我呢？」",
+      "ja": "かくてヱフタ、アンモンの子孫の王に使者をつかはしていひけるは汝と我の間に何事ありてか汝われに攻めきたりてわが地に戰はんとする"
+    },
+    {
+      "number": 13,
+      "ko": "암몬 자손의 왕이 입다의 사자들에게 대답하되 이스라엘이 애굽에서 올라올 때에 아르논에서부터 얍복과 요단까지 내 땅을 점령했기 때문이니 이제 그것을 평화롭게 돌려 달라 하니라",
+      "en": "The king of the Ammonites answered Jephthah's messengers, \"When Israel came up out of Egypt, they took away my land from the Arnon to the Jabbok, all the way to the Jordan. Now give it back peaceably.\"",
+      "de": "Der König der Kinder Ammon antwortete den Boten Jephthahs: Darum daß Israel mein Land genommen hat, da sie aus Ägypten zogen, vom Arnon an bis an den Jabbok und wieder bis zum Jordan; so gib mir's nun wieder mit Frieden.",
+      "zh": "亚扪人的王回答耶弗他的使者说：「因为以色列人从埃及上来的时候占据我的地，从亚嫩河到雅博河，直到约旦河。现在你要好好地将这地归还吧！」",
+      "ja": "アンモンの子孫の王ヱフタの使者に答へけるはむかしイスラエル、エジプトより上りきたりし時にアルノンよりヤボクにいたりヨルダンに至るまで吾が土地を奪ひしが故なり然ば今穩便に之を復すべし"
+    },
+    {
+      "number": 14,
+      "ko": "입다가 암몬 자손의 왕에게 다시 사자들을 보내",
+      "en": "Jephthah sent back messengers to the Ammonite king,",
+      "de": "Jephthah aber sandte noch mehr Boten zum König der Kinder Ammon,",
+      "zh": "耶弗他又打发使者去见亚扪人的王，",
+      "ja": "ヱフタまた使者をアンモンの子孫の王に遣りて之にいはせけるは"
+    },
+    {
+      "number": 15,
+      "ko": "그에게 이르되 입다가 이같이 말하노라 이스라엘이 모압 땅과 암몬 자손의 땅을 점령하지 아니하였느니라",
+      "en": "saying: \"This is what Jephthah says: Israel did not take the land of Moab or the land of the Ammonites.",
+      "de": "die sprachen zu ihm: So spricht Jephthah: Israel hat kein Land genommen, weder den Moabitern noch den Kindern Ammon.",
+      "zh": "对他说：「耶弗他如此说，以色列人并没有占据摩押地和亚扪人的地。",
+      "ja": "ヱフタ斯いへりイスラエルはモアブの地を取ずまたアンモンの子孫の地をも取ざりしなり"
+    },
+    {
+      "number": 16,
+      "ko": "이스라엘이 애굽에서 올라올 때에 광야로 행하여 홍해에 이르고 가데스에 이르러서는",
+      "en": "But when they came up out of Egypt, Israel went through the desert to the Red Sea and on to Kadesh.",
+      "de": "Denn da sie aus Ägypten zogen, wandelte Israel durch die Wüste bis ans Schilfmeer und kam gen Kades",
+      "zh": "以色列人从埃及上来乃是经过旷野到红海，来到加低斯，",
+      "ja": "夫イスラエルはエジプトより上りきたれる時に曠野を經て紅海に到りカデシに來れり"
+    },
+    {
+      "number": 17,
+      "ko": "이스라엘이 사자들을 에돔 왕에게 보내어 이르기를 청하건대 나를 네 땅 가운데로 지나게 하라 하였으나 에돔 왕이 이를 듣지 아니하였고 또 그와 같이 사람을 모압 왕에게도 보냈으나 그도 허락하지 아니하므로 이스라엘이 가데스에 머물렀더니",
+      "en": "Then Israel sent messengers to the king of Edom, saying, 'Give us permission to go through your country,' but the king of Edom would not listen. They sent also to the king of Moab, and he refused. So Israel stayed at Kadesh.",
+      "de": "und sandte Boten zum König der Edomiter und sprach: Laß mich durch dein Land ziehen. Aber der Edomiter König erhörte sie nicht. Auch sandten sie zum König der Moabiter; der wollte auch nicht. Also blieb Israel in Kades",
+      "zh": "就打发使者去见以东王，说：『求你容我从你的地经过。』以东王却不应允。又照样打发使者去见摩押王，他也不允准。以色列人就住在加低斯。",
+      "ja": "而してイスラエル使者をエドムの王に遣して言けるはねがはくは我をして汝の土地を經過しめよと然るにエドムの王之をうけがはずまたおなじく人をモアブの王に遣したれども是もうべなはざりしかばイスラエルはカデシに留まりしが"
+    },
+    {
+      "number": 18,
+      "ko": "그 후에 광야를 지나 에돔 땅과 모압 땅을 돌아서 모압 땅의 해 뜨는 쪽으로 들어가 아르논 저쪽에 진 쳤고 아르논은 모압의 경계이므로 모압 지역 안에는 들어가지 아니하였으며",
+      "en": "\"Next they traveled through the desert, skirted the lands of Edom and Moab, passed along the eastern side of the country of Moab, and camped on the other side of the Arnon. They did not enter the territory of Moab, for the Arnon was its border.",
+      "de": "und wandelte in der Wüste. Und sie umzogen das Land der Edomiter und Moabiter und kamen von der Sonne Aufgang an der Moabiter Land und lagerten sich jenseit des Arnon und kamen nicht in die Grenze der Moabiter; denn der Arnon ist der Moabiter Grenze.",
+      "zh": "他们又经过旷野，绕着以东和摩押地，从摩押地的东边过来，在亚嫩河边安营，并没有入摩押的境内，因为亚嫩河是摩押的边界。",
+      "ja": "遂にイスラエル曠野を經てエドムの地およびモアブの地を繞りモアブの地の東の方に出てアルノンの彼方に陣を取り然どモアブの界には入らざりきアルノンはモアブの界なればなり"
+    },
+    {
+      "number": 19,
+      "ko": "이스라엘이 헤스본 왕 곧 아모리 족속의 왕 시혼에게 사자들을 보내어 그에게 이르되 청하건대 우리를 당신의 땅으로 지나 우리의 곳에 이르게 하라 하였으나",
+      "en": "\"Then Israel sent messengers to Sihon king of the Amorites, who ruled in Heshbon, and said to him, 'Let us pass through your country to our own place.'",
+      "de": "Und Israel sandte Boten zu Sihon, dem König der Amoriter zu Hesbon, und ließ ihm sagen: Laß uns durch dein Land ziehen bis an meinen Ort.",
+      "zh": "以色列人打发使者去见亚摩利王西宏，就是希实本的王，对他说：『求你容我们从你的地经过，往我们自己的地方去。』",
+      "ja": "かくてイスラエル、ヘシボンに王たりしアモリ人の王シホンに使者を遣せりすなはちイスラエル之にいひけらくねがはくは我らをして汝の土地を經過てわがところにいたらしめよと"
+    },
+    {
+      "number": 20,
+      "ko": "시혼이 이스라엘을 믿지 아니하여 그의 지역으로 지나지 못하게 할 뿐 아니라 그의 모든 백성을 모아 야하스에 진 치고 이스라엘을 치므로",
+      "en": "Sihon, however, did not trust Israel to pass through his territory. He mustered all his men and encamped at Jahaz and fought with Israel.",
+      "de": "Aber Sihon vertraute Israel nicht, durch sein Gebiet zu ziehen, sondern versammelte all sein Volk und lagerte sich zu Jahza und stritt mit Israel.",
+      "zh": "西宏却不信服以色列人，不容他们经过他的境界，乃招聚他的众民在雅杂安营，与以色列人争战。",
+      "ja": "然るにシホン、イスラエルを信ぜずしてその界をとほらしめずかへつてそのすべての民を集めてヤハヅに陣しイスラエルとたたかひしが"
+    },
+    {
+      "number": 21,
+      "ko": "이스라엘의 하나님 여호와께서 시혼과 그의 모든 백성을 이스라엘의 손에 넘겨 주시매 이스라엘이 그들을 쳐서 그 땅 주민 아모리 족속의 온 땅을 점령하되",
+      "en": "\"Then the LORD, the God of Israel, gave Sihon and all his men into Israel's hands, and they defeated them. Israel took over all the land of the Amorites who lived in that country,",
+      "de": "Der HERR aber, der Gott Israels, gab den Sihon mit all seinem Volk in die Hände Israels, daß sie sie schlugen. Also nahm Israel ein alles Land der Amoriter, die in demselben Lande wohnten.",
+      "zh": "耶和华—以色列的　神将西宏和他的众民都交在以色列人手中，以色列人就击杀他们，得了亚摩利人的全地：",
+      "ja": "イスラエルの神ヱホバ、シホンとそのすべての民をイスラエルの手に付したまひたればイスラエル之を撃敗りてその土地にすめるアモリ人の地を悉く手に入れ"
+    },
+    {
+      "number": 22,
+      "ko": "아르논에서부터 얍복까지와 광야에서부터 요단까지 아모리 족속의 온 지역을 점령하였느니라",
+      "en": "capturing all of it from the Arnon to the Jabbok and from the desert to the Jordan.",
+      "de": "Und sie nahmen alles Gebiet der Amoriter ein vom Arnon an bis an den Jabbok und von der Wüste an bis an den Jordan.",
+      "zh": "从亚嫩河到雅博河，从旷野直到约旦河。",
+      "ja": "アルノンよりヤボクに至るまでまた曠野よりヨルダンに至るまですべてアモリ人の土地を手に入たり"
+    },
+    {
+      "number": 23,
+      "ko": "이스라엘의 하나님 여호와께서 이같이 아모리 족속을 자기 백성 이스라엘 앞에서 쫓아내셨거늘 네가 그 땅을 얻고자 하는 것이 옳으냐",
+      "en": "\"Now since the LORD, the God of Israel, has driven the Amorites out before his people Israel, what right have you to take it over?",
+      "de": "So hat nun der HERR, der Gott Israels, die Amoriter vertrieben vor seinem Volk Israel; und du willst ihr Land einnehmen?",
+      "zh": "耶和华—以色列的　神在他百姓以色列面前赶出亚摩利人，你竟要得他们的地吗？",
+      "ja": "斯のごとくイスラエルの神ヱホバは其の民イスラエルのまへよりアモリ人を逐しりぞけたまひしに汝なほ之を取んとする乎"
+    },
+    {
+      "number": 24,
+      "ko": "네 신 그모스가 네게 주어 차지하게 한 것을 네가 차지하지 아니하겠느냐 우리 하나님 여호와께서 우리 앞에서 어떤 사람이든지 쫓아내시면 그것을 우리가 차지하리라",
+      "en": "Will you not take what your god Chemosh gives you? Likewise, whatever the LORD our God has given us, we will possess.",
+      "de": "Du solltest deren Land einnehmen, die dein Gott Kamos vertriebe, und uns lassen einnehmen das Land aller, die der HERR, unser Gott, vor uns vertrieben hat.",
+      "zh": "你的神基抹所赐你的地你不是得为业吗？耶和华—我们的　神在我们面前所赶出的人，我们就得他的地。",
+      "ja": "汝は汝の神ケモシが汝に取しむるものを取ざらんやわれらは我らの神ヱホバが我らに取しむる物を取ん"
+    },
+    {
+      "number": 25,
+      "ko": "이제 네가 모압 왕 십볼의 아들 발락보다 더 나은 것이 있느냐 그가 이스라엘과 더불어 다툰 일이 있었느냐 싸운 일이 있었느냐",
+      "en": "Are you better than Balak son of Zippor, king of Moab? Did he ever quarrel with Israel or fight with them?",
+      "de": "Meinst du, daß du besser recht habest denn Balak, der Sohn Zippors, der Moabiter König? Hat derselbe auch je gerechtet 518heeft oder gestritten wider Israel?",
+      "zh": "难道你比摩押王西拨的儿子巴勒还强吗？他曾与以色列人争竞，或是与他们争战吗？",
+      "ja": "汝は誠にモアブの王チツポルの子バラクにまされる處ありとするかバラク曾てイスラエルとあらそひしことありや曾て之とたたかひしことありや"
+    },
+    {
+      "number": 26,
+      "ko": "이스라엘이 헤스본과 그 마을들과 아로엘과 그 마을들과 아르논 강 가에 있는 모든 성읍에 거주한 지 삼백 년이거늘 그 동안에 너희가 어찌하여 도로 찾지 아니하였느냐",
+      "en": "For three hundred years Israel occupied Heshbon, Aroer, the surrounding settlements and all the towns along the Arnon. Why didn't you retake them during that time?",
+      "de": "Dieweil nun Israel dreihundert Jahre gewohnt hat in Hesbon und in Aroer und ihren Ortschaften und allen Städten, die am Arnon liegen, warum errettetet ihr's nicht in dieser Zeit?",
+      "zh": "以色列人住希实本和属希实本的乡村，亚罗珥和属亚罗珥的乡村，并沿亚嫩河的一切城邑，已经有三百年了；在这三百年之内，你们为什么没有取回这些地方呢？",
+      "ja": "イスラエルがヘシボンとその村里アロエルとその村里およびアルノンの岸に沿ひたるすべての邑々に住ること三百年なりしに汝などてかその間に之を回復さざりしや"
+    },
+    {
+      "number": 27,
+      "ko": "내가 네게 죄를 짓지 아니하였거늘 네가 나를 쳐서 내게 악을 행하고자 하는도다 원하건대 심판하시는 여호와께서 오늘 이스라엘 자손과 암몬 자손 사이에 판결하시옵소서 하였으나",
+      "en": "I have not wronged you, but you are doing me wrong by waging war against me. Let the LORD, the Judge, decide the dispute this day between the Israelites and the Ammonites.\"",
+      "de": "Ich habe nichts an dir gesündigt, und du tust so übel an mir, daß du wider mich streitest. Der HERR, der da Richter ist, richte heute zwischen Israel und den Kindern Ammon.",
+      "zh": "原来我没有得罪你，你却攻打我，恶待我。愿审判人的耶和华今日在以色列人和亚扪人中间判断是非。」",
+      "ja": "我は汝に罪を犯せしことなきに汝はわれとたたかひて我に害をくはへんとす願くは審判をなしたまふヱホバ今日イスラエルの子孫とアンモンの子孫との間を鞫きたまへと"
+    },
+    {
+      "number": 28,
+      "ko": "암몬 자손의 왕이 입다가 사람을 보내어 말한 것을 듣지 아니하였더라",
+      "en": "The king of Ammon, however, paid no attention to the message Jephthah sent him.",
+      "de": "Aber der König der Kinder Ammon erhörte die Rede Jephthahs nicht, die er zu ihm sandte.",
+      "zh": "但亚扪人的王不肯听耶弗他打发人说的话。",
+      "ja": "しかれどもアンモンの子孫の王はヱフタのいひつかはせる言を聽いれざりき"
+    },
+    {
+      "number": 29,
+      "ko": "이에 여호와의 영이 입다에게 임하시니 입다가 길르앗과 므낫세를 지나서 길르앗의 미스베에 이르고 길르앗의 미스베에서부터 암몬 자손에게로 나아갈 때에",
+      "en": "Then the Spirit of the LORD came upon Jephthah. He crossed Gilead and Manasseh, passed through Mizpah of Gilead, and from there he advanced against the Ammonites.",
+      "de": "Da kam der Geist des HERRN auf Jephthah, und er zog durch Gilead und Manasse und durch Mizpe, das in Gilead liegt, und von Mizpe, das in Gilead liegt auf die Kinder Ammon.",
+      "zh": "耶和华的灵降在耶弗他身上，他就经过基列和玛拿西，来到基列的米斯巴，又从米斯巴来到亚扪人那里。",
+      "ja": "ここにヱホバの靈ヱフタに臨みしかばヱフタすなはちギレアデおよびマナセを經過りギレアデのミヅパにいたりギレアデのミヅパよりすすみてアンモンの子孫に向ふ"
+    },
+    {
+      "number": 30,
+      "ko": "그가 여호와께 서원하여 이르되 주께서 과연 암몬 자손을 내 손에 넘겨 주시면",
+      "en": "And Jephthah made a vow to the LORD: \"If you give the Ammonites into my hands,",
+      "de": "Und Jephthah gelobte dem HERRN ein Gelübde und sprach: Gibst du die Kinder Ammon in meine Hand:",
+      "zh": "耶弗他就向耶和华许愿，说：「你若将亚扪人交在我手中，",
+      "ja": "ヱフタ、ヱホバに誓願を立ていひけるは汝誠にアンモンの子孫をわが手に付したまはば"
+    },
+    {
+      "number": 31,
+      "ko": "내가 암몬 자손에게서 평안히 돌아올 때에 누구든지 내 집 문에서 나와서 나를 영접하는 그는 여호와께 돌릴 것이니 내가 그를 번제물로 드리겠나이다 하니라",
+      "en": "whatever comes out of the door of my house to meet me when I return in triumph from the Ammonites will be the LORD'S, and I will sacrifice it as a burnt offering.\"",
+      "de": "was zu meiner Haustür heraus mir entgegengeht, wenn ich mit Frieden wiederkomme von den Kindern Ammon, das soll des HERRN sein, und ich will's zum Brandopfer opfern.",
+      "zh": "我从亚扪人那里平平安安回来的时候，无论什么人，先从我家门出来迎接我，就必归你，我也必将他献上为燔祭。」",
+      "ja": "我がアンモンの子孫の所より安然かに歸らんときに我家の戸より出きたりて我を迎ふるもの必ずヱホバの所有となるべし我之を燔祭となしてささげんと"
+    },
+    {
+      "number": 32,
+      "ko": "이에 입다가 암몬 자손에게 이르러 그들과 싸우더니 여호와께서 그들을 그의 손에 넘겨 주시매",
+      "en": "Then Jephthah went over to fight the Ammonites, and the LORD gave them into his hands.",
+      "de": "Also zog Jephthah auf die Kinder Ammon, wider sie zu streiten. Und der HERR gab sie in seine Hände.",
+      "zh": "于是耶弗他往亚扪人那里去，与他们争战；耶和华将他们交在他手中，",
+      "ja": "ヱフタすなはちアンモンの子孫の所に進みゆきて之と戰ひしにヱホバかれらをその手に付したまひしかば"
+    },
+    {
+      "number": 33,
+      "ko": "아로엘에서부터 민닛에 이르기까지 이십 성읍을 치고 또 아벨 그라밈까지 매우 크게 무찌르니 이에 암몬 자손이 이스라엘 자손 앞에 항복하였더라",
+      "en": "He devastated twenty towns from Aroer to the vicinity of Minnith, as far as Abel Keramim. Thus Israel subdued Ammon.",
+      "de": "Und er schlug sie von Aroer an, bis wo man kommt gen Minnith, zwanzig Städte, und bis an den Plan der Weinberge, eine sehr große Schlacht. Und wurden also die Kinder Ammon gedemütigt vor den Kindern Israel.",
+      "zh": "他就大大杀败他们，从亚罗珥到米匿，直到亚备勒·基拉明，攻取了二十座城。这样亚扪人就被以色列人制伏了。",
+      "ja": "アロエルよりミンニテにまで至りこれが二十の邑を打敗りてアベルケラミムにいたり甚だ多の人をころせりかくアンモンの子孫はイスラエルの子孫に攻伏られたり"
+    },
+    {
+      "number": 34,
+      "ko": "입다가 미스바에 있는 자기 집에 이를 때에 보라 그의 딸이 소고를 잡고 춤추며 나와서 영접하니 이는 그의 무남독녀라",
+      "en": "When Jephthah returned to his home in Mizpah, who should come out to meet him but his daughter, dancing to the sound of tambourines! She was an only child. Except for her he had neither son nor daughter.",
+      "de": "Da nun Jephthah kam gen Mizpa zu seinem Hause, siehe, da geht seine Tochter heraus ihm entgegen mit Pauken und Reigen; und sie war sein einziges Kind, und er hatte sonst keinen Sohn noch Tochter.",
+      "zh": "耶弗他回米斯巴到了自己的家，不料，他女儿拿着鼓跳舞出来迎接他，是他独生的，此外无儿无女。",
+      "ja": "かくてヱフタ、ミヅパに來りておのが家にいたるに其女鼓を執り舞ひ踊りて之を出で迎ふ是彼が獨子にて其のほかには男子もなくまた女子も有ざりき"
+    },
+    {
+      "number": 35,
+      "ko": "입다가 이를 보고 자기 옷을 찢으며 이르되 어찌할꼬 내 딸이여 너는 나를 참담하게 하는 자요 너는 나를 괴롭게 하는 자 중의 하나로다 내가 여호와를 향하여 입을 열었으니 능히 돌이키지 못하리로다 하니",
+      "en": "When he saw her, he tore his clothes and cried, \"Oh! My daughter! You have made me miserable and wretched, because I have made a vow to the LORD that I cannot break.\"",
+      "de": "Und da er sie sah, zerriß er seine Kleider und sprach: Ach, meine Tochter, wie beugst du mich und betrübst mich! Denn ich habe meinen Mund aufgetan gegen den HERRN und kann's nicht widerrufen.",
+      "zh": "耶弗他看见她，就撕裂衣服，说：「哀哉！我的女儿啊，你使我甚是愁苦，叫我作难了；因为我已经向耶和华开口许愿，不能挽回。」",
+      "ja": "ヱフタ之を視てその衣を裂ていひけるはああ吾が女よ汝實に我を傷しむ汝は我を惱すものなり其は我ヱホバにむかひて口を開きしによりて改むることあたはざればなり"
+    },
+    {
+      "number": 36,
+      "ko": "딸이 그에게 이르되 나의 아버지여 아버지께서 여호와를 향하여 입을 여셨으니 아버지의 입에서 낸 말씀대로 내게 행하소서 이는 여호와께서 아버지를 위하여 아버지의 대적 암몬 자손에게 원수를 갚으셨음이니이다 하니라",
+      "en": "\"My father,\" she replied, \"you have given your word to the LORD. Do to me just as you promised, now that the LORD has avenged you of your enemies, the Ammonites.",
+      "de": "Sie aber sprach: Mein Vater, hast du deinen Mund aufgetan gegen den HERRN, so tue mir, wie es aus deinem Mund gegangen ist, nachdem der HERR dich gerächt hat an deinen Feinden, den Kindern Ammon.",
+      "zh": "他女儿回答说：「父啊，你既向耶和华开口，就当照你口中所说的向我行，因耶和华已经在仇敌亚扪人身上为你报仇」；",
+      "ja": "女之にいひけるはわが父よ汝ヱホバにむかひて口をひらきたれば汝の口より言出せしごとく我になせよ其はヱホバ汝のために汝の敵なるアンモンの子孫に仇を復したまひたればなり"
+    },
+    {
+      "number": 37,
+      "ko": "또 그의 아버지에게 이르되 이 일만 내게 허락하사 나를 두 달만 버려 두소서 내가 내 여자 친구들과 산에 가서 나의 처녀로 죽음을 인하여 애곡하겠나이다 하니",
+      "en": "But grant me this one request,\" she said. \"Give me two months to roam the hills and weep with my friends, because I will never marry.\"",
+      "de": "Und sie sprach zu ihrem Vater: Du wollest mir das tun, daß du mir lassest zwei Monate, daß ich von hinnen hinabgehe auf die Berge und meine Jungfrauschaft beweine mit meinen Gespielen.",
+      "zh": "又对父亲说：「有一件事求你允准：容我去两个月，与同伴在山上，好哀哭我终为处女。」",
+      "ja": "女またその父にいひけるはねがはくは此事をわれに允せすなはち二月の間我をゆるし我をしてわが友等とともに往て山にくだりてわが處女たることを歎かしめよと"
+    },
+    {
+      "number": 38,
+      "ko": "그가 이르되 가라 하고 두 달을 기한하고 그를 보내니 그가 그 여자 친구들과 가서 산 위에서 처녀로 죽음을 인하여 애곡하고",
+      "en": "\"You may go,\" he said. And he let her go for two months. She and the girls went into the hills and wept because she would never marry.",
+      "de": "Er sprach: Gehe hin! und ließ sie zwei Monate gehen. Da ging sie hin mit ihren Gespielen und beweinte ihre Jungfrauschaft auf den Bergen.",
+      "zh": "耶弗他说：「你去吧！」就容她去两个月。她便和同伴去了，在山上为她终为处女哀哭。",
+      "ja": "ヱフタすなはち往けといひて之を二月のあひだ出し遣ぬ女その友等とともに往き山の上にておのれの處女たるを歎きしが"
+    },
+    {
+      "number": 39,
+      "ko": "두 달 만에 그의 아버지에게로 돌아온지라 그는 자기가 서원한 대로 딸에게 행하니 딸이 남자를 알지 못하였더라 이것이 이스라엘에 관습이 되어",
+      "en": "After the two months, she returned to her father and he did to her as he had vowed. And she was a virgin. From this comes the Israelite custom",
+      "de": "Und nach zwei Monaten kam sie wieder zu ihrem Vater. Und er tat ihr, wie er gelobt hatte; und sie war nie eines Mannes schuldig geworden. Und es ward eine Gewohnheit in Israel,",
+      "zh": "两月已满，她回到父亲那里，父亲就照所许的愿向她行了。女儿终身没有亲近男子。",
+      "ja": "二月滿てその父に歸り來りたれば父その誓ひし誓願のごとくに之に行へり女は終に男を知ことなかりき"
+    },
+    {
+      "number": 40,
+      "ko": "이스라엘의 딸들이 해마다 가서 길르앗 사람 입다의 딸을 위하여 나흘씩 애곡하더라",
+      "en": "that each year the young women of Israel go out for four days to commemorate the daughter of Jephthah the Gileadite.",
+      "de": "daß die Töchter Israel jährlich hingehen, zu klagen um die Tochter Jephthahs, des Gileaditers, des Jahres vier Tage.",
+      "zh": "此后以色列中有个规矩，每年以色列的女子去为基列人耶弗他的女儿哀哭四天。",
+      "ja": "是よりして年々にイスラエルの女子等往て年に四日ほどギレアデ人ヱフタの女のために哀哭ことをなす是イスラエルの規矩となれり"
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "book": "Song of Songs",
+  "chapter": 4,
+  "verses": [
+    {
+      "number": 1,
+      "ko": "내 사랑 너는 어여쁘고도 어여쁘다 너울 속에 있는 네 눈이 비둘기 같고 네 머리털은 길르앗 산 기슭에 누운 염소 떼 같구나",
+      "en": "How beautiful you are, my darling! Oh, how beautiful! Your eyes behind your veil are doves. Your hair is like a flock of goats descending from Mount Gilead.",
+      "de": "Siehe, meine Freundin, du bist schön! siehe, schön bist du! Deine Augen sind wie Taubenaugen zwischen deinen Zöpfen. Dein Haar ist wie eine Herde Ziegen, die gelagert sind am Berge Gilead herab.",
+      "zh": "我的佳偶，你甚美丽！你甚美丽！ 你的眼在帕子内好像鸽子眼。 你的头发如同山羊群卧在基列山旁。",
+      "ja": "ああなんぢ美はしきかな わが佳耦よ ああなんぢうるはしきかな なんぢの目は面帕のうしろにありて鴿のごとし なんぢの髮はギレアデ山の腰に臥たる山羊の群に似たり"
+    },
+    {
+      "number": 2,
+      "ko": "네 이는 목욕장에서 나오는 털 깎인 암양 곧 새끼 없는 것은 하나도 없이 각각 쌍태를 낳은 양 같구나",
+      "en": "Your teeth are like a flock of sheep just shorn, coming up from the washing. Each has its twin; not one of them is alone.",
+      "de": "Deine Zähne sind wie eine Herde Schafe mit bechnittener Wolle, die aus der Schwemme kommen, die allzumal Zwillinge haben, und es fehlt keiner unter ihnen.",
+      "zh": "你的牙齿如新剪毛的一群母羊， 洗净上来，个个都有双生， 没有一只丧掉子的。",
+      "ja": "なんぢの齒は毛を剪たる牝羊の浴塲より出たるがごとし おのおの雙子をうみてひとつも子なきものはなし"
+    },
+    {
+      "number": 3,
+      "ko": "네 입술은 홍색 실 같고 네 입은 어여쁘고 너울 속의 네 뺨은 석류 한 쪽 같구나",
+      "en": "Your lips are like a scarlet ribbon; your mouth is lovely. Your temples behind your veil are like the halves of a pomegranate.",
+      "de": "Deine Lippen sind wie eine scharlachfarbene Schnur und deine Rede lieblich. Deine Wangen sind wie der Ritz am Granatapfel zwischen deinen Zöpfen.",
+      "zh": "你的唇好像一条朱红线； 你的嘴也秀美。 你的两太阳在帕子内， 如同一块石榴。",
+      "ja": "なんぢの唇は紅色の線維のごとく その口は美はし なんぢの頬は面帕のうしろにありて石榴の半片に似たり"
+    },
+    {
+      "number": 4,
+      "ko": "네 목은 무기를 두려고 건축한 다윗의 망대 곧 방패 천 개, 용사의 모든 방패가 달린 망대 같고",
+      "en": "Your neck is like the tower of David, built with elegance; on it hang a thousand shields, all of them shields of warriors.",
+      "de": "Dein Hals ist wie der Turm Davids, mit Brustwehr gebaut, daran tausend Schilde hangen und allerlei Waffen der Starken.",
+      "zh": "你的颈项好像大卫建造收藏军器的高台， 其上悬挂一千盾牌， 都是勇士的藤牌。",
+      "ja": "なんぢの頸項は武器庫にとて建たるダビデの戍樓のごとし その上には一千の盾を懸け列ぬ みな勇士の大楯なり"
+    },
+    {
+      "number": 5,
+      "ko": "네 두 유방은 백합화 가운데서 꼴을 먹는 쌍태 어린 사슴 같구나",
+      "en": "Your two breasts are like two fawns, like twin fawns of a gazelle that browse among the lilies.",
+      "de": "Deine zwei Brüste sind wie zwei junge Rehzwillinge, die unter den Rosen weiden.",
+      "zh": "你的两乳好像百合花中吃草的一对小鹿， 就是母鹿双生的。",
+      "ja": "なんぢの兩乳房は牝獐の雙子なる二箇の小鹿が百合花の中に草はみをるに似たり"
+    },
+    {
+      "number": 6,
+      "ko": "날이 저물고 그림자가 사라지기 전에 내가 몰약 산과 유향의 작은 산으로 가리라",
+      "en": "Until the day breaks and the shadows flee, I will go to the mountain of myrrh and to the hill of incense.",
+      "de": "Bis der Tag kühl wird und die Schatten weichen, will ich zum Myrrhenberge gehen und zum Weihrauchhügel.",
+      "zh": "我要往没药山和乳香冈去， 直等到天起凉风、 日影飞去的时候回来。",
+      "ja": "日の涼しくなるまで 影の消るまでわれ沒藥の山また乳香の岡に行べし"
+    },
+    {
+      "number": 7,
+      "ko": "나의 사랑 너는 어여쁘고 아무 흠이 없구나",
+      "en": "All beautiful you are, my darling; there is no flaw in you.",
+      "de": "Du bist allerdinge schön, meine Freundin, und ist kein Flecken an dir.",
+      "zh": "我的佳偶，你全然美丽， 毫无瑕疵！",
+      "ja": "わが佳耦よ なんぢはことごとくうるはしくしてすこしのきずもなし"
+    },
+    {
+      "number": 8,
+      "ko": "내 신부야 너는 레바논에서부터 나와 함께 하고 레바논에서부터 나와 함께 가자 아마나와 스닐과 헤르몬 꼭대기에서 사자 굴과 표범 산에서 내려오너라",
+      "en": "Come with me from Lebanon, my bride, come with me from Lebanon. Descend from the crest of Amana, from the top of Senir, the summit of Hermon, from the lions' dens and the mountain haunts of the leopards.",
+      "de": "Komm mit mir, meine Braut, vom Libanon, komm mit mir vom Libanon, tritt her von der Höhe Amana, von der Höhe Senir und Hermon, von den Wohnungen der Löwen, von den Bergen der Leoparden!",
+      "zh": "我的新妇，求你与我一同离开黎巴嫩， 与我一同离开黎巴嫩。 从亚玛拿顶， 从示尼珥与黑门顶， 从有狮子的洞， 从有豹子的山往下观看。",
+      "ja": "新婦よ レバノンより我にともなへ レバノンより我とともに來れ アマナの巓セニルまたヘルモンの巓より望み 獅子の穴また豹の山より望め"
+    },
+    {
+      "number": 9,
+      "ko": "내 누이, 내 신부야 네가 내 마음을 빼앗았구나 네 눈으로 한 번 보는 것과 네 목의 구슬 한 꿰미로 내 마음을 빼앗았구나",
+      "en": "You have stolen my heart, my sister, my bride; you have stolen my heart with one glance of your eyes, with one jewel of your necklace.",
+      "de": "Du hast mir das Herz genommen, meine Schwester, liebe Braut, mit deiner Augen einem und mit deiner Halsketten einer.",
+      "zh": "我妹子，我新妇， 你夺了我的心。 你用眼一看， 用你项上的一条金链， 夺了我的心！",
+      "ja": "わが妹わが新婦よ なんぢはわが心を奪へり なんぢは只一目をもてまた頸玉の一をもてわが心をうばへり"
+    },
+    {
+      "number": 10,
+      "ko": "내 누이, 내 신부야 네 사랑이 어찌 그리 아름다운지 네 사랑은 포도주보다 진하고 네 기름의 향기는 각양 향품보다 향기롭구나",
+      "en": "How delightful is your love, my sister, my bride! How much more pleasing is your love than wine, and the fragrance of your perfume than any spice!",
+      "de": "Wie schön ist deine Liebe, meine Schwester, liebe Braut! Deine Liebe ist lieblicher denn Wein, und der Geruch deiner Salben übertrifft alle Würze.",
+      "zh": "我妹子，我新妇， 你的爱情何其美！ 你的爱情比酒更美！ 你膏油的香气胜过一切香品！",
+      "ja": "わが妹わが新婦よ なんぢの愛は樂しきかな なんぢの愛は酒よりも遙にすぐれ なんぢの香膏の馨は一切の香物よりもすぐれたり"
+    },
+    {
+      "number": 11,
+      "ko": "내 신부야 네 입술에서는 꿀 방울이 떨어지고 네 혀 밑에는 꿀과 젖이 있고 네 의복의 향기는 레바논의 향기 같구나",
+      "en": "Your lips drop sweetness as the honeycomb, my bride; milk and honey are under your tongue. The fragrance of your garments is like that of Lebanon.",
+      "de": "Deine Lippen, meine Braut, sind wie triefender Honigseim; Honig und Milch ist unter deiner Zunge, und deiner Kleider Geruch ist wie der Geruch des Libanon.",
+      "zh": "我新妇，你的嘴唇滴蜜， 好像蜂房滴蜜； 你的舌下有蜜，有奶。 你衣服的香气如黎巴嫩的香气。",
+      "ja": "新婦よ なんぢの唇は蜜を滴らす なんぢの舌の底には蜜と乳とあり なんぢの衣裳の香氣はレバノンの香氣のごとし"
+    },
+    {
+      "number": 12,
+      "ko": "내 누이, 내 신부는 잠근 동산이요 덮은 우물이요 봉한 샘이로구나",
+      "en": "You are a garden locked up, my sister, my bride; you are a spring enclosed, a sealed fountain.",
+      "de": "Meine Schwester, liebe Braut, du bist ein verschlossener Garten, eine verschlossene Quelle, ein versiegelter Born.",
+      "zh": "我妹子，我新妇， 乃是关锁的园， 禁闭的井，封闭的泉源。",
+      "ja": "わが妹わがはなよめよ なんぢは閉たる園 閉たる水源 封じたる泉水のごとし"
+    },
+    {
+      "number": 13,
+      "ko": "네게서 나는 것은 석류나무와 각종 아름다운 과수와 고벨화와 나도풀과",
+      "en": "Your plants are an orchard of pomegranates with choice fruits, with henna and nard,",
+      "de": "Deine Gewächse sind wie ein Lustgarten von Granatäpfeln mit edlen Früchten, Zyperblumen mit Narden,",
+      "zh": "你园内所种的结了石榴， 有佳美的果子， 并凤仙花与哪哒树。",
+      "ja": "なんぢの園の中に生いづる者は石榴及びもろもろの佳果またコペル及びナルダの草"
+    },
+    {
+      "number": 14,
+      "ko": "나도와 번홍화와 창포와 계수와 각종 유향목과 몰약과 침향과 모든 귀한 향품이요",
+      "en": "nard and saffron, calamus and cinnamon, with every kind of incense tree, with myrrh and aloes and all the finest spices.",
+      "de": "Narde und Safran, Kalmus und Zimt, mit allerlei Bäumen des Weihrauchs, Myrrhen und Aloe mit allen besten Würzen.",
+      "zh": "有哪哒和番红花， 菖蒲和桂树， 并各样乳香木、没药、沉香， 与一切上等的果品。",
+      "ja": "ナルダ 番紅花 菖蒲 桂枝さまざまの乳香の木および沒藥 蘆薈一切の貴とき香物なり"
+    },
+    {
+      "number": 15,
+      "ko": "너는 동산의 샘이요 생수의 우물이요 레바논에서부터 흐르는 시내로구나",
+      "en": "You are a garden fountain, a well of flowing water streaming down from Lebanon.",
+      "de": "Ein Gartenbrunnen bist du, ein Born lebendiger Wasser, die vom Libanon fließen.",
+      "zh": "你是园中的泉，活水的井， 从黎巴嫩流下来的溪水。",
+      "ja": "なんぢは園の泉水 活る水の井 レバノンよりいづる流水なり"
+    },
+    {
+      "number": 16,
+      "ko": "북풍아 일어나라 남풍아 오라 나의 동산에 불어서 향기를 날리라 나의 사랑하는 자가 그 동산에 들어가서 그 아름다운 열매 먹기를 원하노라",
+      "en": "Awake, north wind, and come, south wind! Blow on my garden, that its fragrance may spread abroad. Let my lover come into his garden and taste its choice fruits.",
+      "de": "Stehe auf, Nordwind, und komm, Südwind, und wehe durch meinen Garten, daß seine Würzen triefen! Mein Freund komme in seinen Garten und esse von seinen edlen Früchten.",
+      "zh": "北风啊，兴起！ 南风啊，吹来！ 吹在我的园内， 使其中的香气发出来。 愿我的良人进入自己园里， 吃他佳美的果子。",
+      "ja": "北風よ起れ 南風よ來れ 我園を吹てその香氣を揚よ ねがはくはわが愛する者のおのが園にいりきたりてその佳き果を食はんことを"
+    }
+  ]
+}

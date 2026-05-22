@@ -1,0 +1,510 @@
+{
+  "book": "Joshua",
+  "chapter": 15,
+  "verses": [
+    {
+      "number": 1,
+      "ko": "또 유다 자손의 지파가 그들의 가족대로 제비 뽑은 땅의 남쪽으로는 에돔 경계에 이르고 또 남쪽 끝은 신 광야까지라",
+      "en": "The allotment for the tribe of Judah, clan by clan, extended down to the territory of Edom, to the Desert of Zin in the extreme south.",
+      "de": "Das Los des Stammes der Kinder Juda nach ihren Geschlechtern war an der Grenze Edoms bei der Wüste Zin, mittagwärts, am Ende des Landes gegen Mittag,",
+      "zh": "犹大支派按着宗族拈阄所得之地是在尽南边，到以东的交界，向南直到寻的旷野。",
+      "ja": "ユダの子孫の支派がその宗族にしたがひて籤にて獲たる地はエドムの境界に達し南の方ヂンの荒野にわたり南の極端に及ぶ"
+    },
+    {
+      "number": 2,
+      "ko": "또 그들의 남쪽 경계는 염해의 끝 곧 남향한 해만에서부터",
+      "en": "Their southern boundary started from the bay at the southern end of the Salt Sea,",
+      "de": "daß ihre Mittagsgrenze war von der Ecke an dem Salzmeer, das ist, von der Zunge, die mittagswärts geht,",
+      "zh": "他们的南界是从盐海的尽边，就是从朝南的海汊起，",
+      "ja": "その南の境界は鹽海の極端なる南に向へる入海より起り"
+    },
+    {
+      "number": 3,
+      "ko": "아그랍빔 비탈 남쪽으로 지나 신에 이르고 가데스 바네아 남쪽으로 올라가서 헤스론을 지나며 아달로 올라가서 돌이켜 갈가에 이르고",
+      "en": "crossed south of Scorpion Pass, continued on to Zin and went over to the south of Kadesh Barnea. Then it ran past Hezron up to Addar and curved around to Karka.",
+      "de": "und geht aus mittagswärts von der Steige Akrabbim und geht durch Zin und geht hinauf im Mittag von Kades-Barnea und geht durch Hezron und geht hinauf gen Adar und lenkt sich um gen Karkaa",
+      "zh": "通到亚克拉滨坡的南边，接连到寻，上到加低斯·巴尼亚的南边，又过希斯 ，上到亚达珥，绕到甲加，",
+      "ja": "アクラビムの坂の南にわたりてヂンに進みカデシバルネアの南より上りてヘヅロンに沿て進みアダルに上りゆきてカルカに環り"
+    },
+    {
+      "number": 4,
+      "ko": "거기서 아스몬에 이르러 애굽 시내로 나아가 바다에 이르러 경계의 끝이 되나니 이것이 너희 남쪽 경계가 되리라",
+      "en": "It then passed along to Azmon and joined the Wadi of Egypt, ending at the sea. This is their southern boundary.",
+      "de": "und geht durch Azmon und kommt hinaus an den Bach Ägyptens, daß das Ende der Grenze das Meer wird. Das sei eure Grenze gegen Mittag.",
+      "zh": "接连到押们，通到埃及小河，直通到海为止。这就是他们的南界。",
+      "ja": "アズモンに進みてエジプトの河にまで達しその境界海にいたりて盡く汝らの南の境界は是の如くなるべし"
+    },
+    {
+      "number": 5,
+      "ko": "그 동쪽 경계는 염해이니 요단 끝까지요 그 북쪽 경계는 요단 끝에 있는 해만에서부터",
+      "en": "The eastern boundary is the Salt Sea as far as the mouth of the Jordan. The northern boundary started from the bay of the sea at the mouth of the Jordan,",
+      "de": "Aber die Morgengrenze ist das Salzmeer bis an des Jordans Ende. Die Grenze gegen Mitternacht ist von der Zunge des Meers, die am Ende des Jordans ist,",
+      "zh": "东界是从盐海南边到约旦河口。北界是从约旦河口的海汊起，",
+      "ja": "その東の境界は鹽海にしてヨルダンの河口に達す北の方の境界はヨルダンの河口なる入海より起り"
+    },
+    {
+      "number": 6,
+      "ko": "벧 호글라로 올라가서 벧 아라바 북쪽을 지나 르우벤 자손 보한의 돌에 이르고",
+      "en": "went up to Beth Hoglah and continued north of Beth Arabah to the Stone of Bohan son of Reuben.",
+      "de": "und geht herauf gen Beth-Hogla und zieht sich mitternachtswärts von Beth-Araba und kommt herauf zum Stein Bohans, des Sohnes Rubens,",
+      "zh": "上到伯·曷拉，过伯·亚拉巴的北边，上到吕便之子波罕的磐石；",
+      "ja": "上りてベテホグラにいたりベテアラバの北をすぎ上りてルベン人ボハンの石に達し"
+    },
+    {
+      "number": 7,
+      "ko": "또 아골 골짜기에서부터 드빌을 지나 북쪽으로 올라가서 그 강 남쪽에 있는 아둠밈 비탈 맞은편 길갈을 향하고 나아가 엔 세메스 물들을 지나 엔로겔에 이르며",
+      "en": "The boundary then went up to Debir from the Valley of Achor and turned north to Gilgal, which faces the Pass of Adummim south of the gorge. It continued along to the waters of En Shemesh and came out at En Rogel.",
+      "de": "und geht herauf gen Debir vom Tal Achor und wendet sich mitternachtwärts gen Gilgal, welches liegt gegenüber der Steige Adummim, die mittagwärts vom Wasser liegt; darnach geht sie zu dem Wasser En-Semes und kommt hinaus zum Brunnen Rogel;",
+      "zh": "从亚割谷往北，上到底璧，直向河南亚都冥坡对面的吉甲；又接连到隐·示麦泉，直通到隐·罗结，",
+      "ja": "またアコルの谷よりデビルに上りて北におもむき河の南にあるアドミムの坂に對するギルガルに向ひすすみてエンシメシの水に達しエンロゲルにいたりて盡く"
+    },
+    {
+      "number": 8,
+      "ko": "또 힌놈의 아들의 골짜기로 올라가서 여부스 곧 예루살렘 남쪽 어깨에 이르며 또 힌놈의 골짜기 앞 서쪽에 있는 산 꼭대기로 올라가나니 이곳은 르바임 골짜기 북쪽 끝이며",
+      "en": "Then it ran up the Valley of Ben Hinnom along the southern slope of the Jebusite city (that is, Jerusalem). From there it climbed to the top of the hill west of the Hinnom Valley at the northern end of the Valley of Rephaim.",
+      "de": "darnach geht sie herauf zum Tal des Sohnes Hinnoms an der Mittagseite des Jebusiters, das ist Jerusalem, und kommt herauf an die Spitze des Berges, der vor dem Tal Hinnom liegt abendwärts, welcher stößt an die Ecke des Tals Rephaim gegen Mitternacht zu;",
+      "zh": "上到欣嫩子谷，贴近耶布斯的南界（耶布斯就是耶路撒冷）；又上到欣嫩谷西边的山顶，就是在利乏音谷极北的边界；",
+      "ja": "又その境界はベニヒンノムの谷に沿てヱブス人の地すなはちヱルサレムの南の脇に上りゆきヒンノムの谷の西面に横はる山の嶺に上る是はレバイムの谷の北の極處にあり"
+    },
+    {
+      "number": 9,
+      "ko": "또 이 산 꼭대기에서부터 넵도아 샘물까지 이르러 에브론 산 성읍들로 나아가고 또 바알라 곧 기럇 여아림으로 접어들며",
+      "en": "From the hilltop the boundary headed toward the spring of the waters of Nephtoah, came out at the towns of Mount Ephron and went down toward Baalah (that is, Kiriath Jearim).",
+      "de": "darnach kommt sie von des Berges Spitze zu dem Wasserbrunnen Nephthoa und kommt heraus zu den Städten des Gebirges Ephron und neigt sich gen Baala, das ist Kirjath-Jearim,",
+      "zh": "又从山顶延到尼弗多亚的水源，通到以弗 山的城邑，又延到巴拉（巴拉就是基列·耶琳）；",
+      "ja": "而してその境界この山の嶺より延てネフトアの水の泉源にいたりエフロン山の邑々にわたりその境昇延てバアラにいたる是すなはちキリアテヤリムなり"
+    },
+    {
+      "number": 10,
+      "ko": "또 바알라에서부터 서쪽으로 돌이켜 세일 산에 이르러 여아림 산 곧 그살론 곁 북쪽에 이르고 또 벧 세메스로 내려가서 딤나를 지나고",
+      "en": "Then it curved westward from Baalah to Mount Seir, ran along the northern slope of Mount Jearim (that is, Kesalon), continued down to Beth Shemesh and crossed to Timnah.",
+      "de": "und lenkt sich herum von Baala gegen Abend zum Gebirge Seir und geht an der Mitternachtseite des Gebirges Jearim, das ist Chesalon, und kommt herab gen Beth-Semes und geht durch Thimna",
+      "zh": "又从巴拉往西绕到西珥山，接连到耶琳山的北边（耶琳就是基撒 ）；又下到伯·示麦过亭纳，",
+      "ja": "その境界バアラより西の方セイル山に環りヤリム山(すなはちケサロン)の北の脇をへてベテシメシに下りテムナに沿て進み"
+    },
+    {
+      "number": 11,
+      "ko": "또 에그론 비탈 북쪽으로 나아가 식그론으로 접어들어 바알라 산을 지나고 얍느엘에 이르나니 그 끝은 바다며",
+      "en": "It went to the northern slope of Ekron, turned toward Shikkeron, passed along to Mount Baalah and reached Jabneel. The boundary ended at the sea.",
+      "de": "und bricht heraus an der Seite Ekrons her mitternachtwärts und zieht sich gen Sichron und geht über den Berg Baala und kommt heraus gen Jabneel, daß ihr Ende ist das Meer.",
+      "zh": "通到以革伦北边，延到施基 ，接连到巴拉山；又通到雅比聂，直通到海为止。",
+      "ja": "エクロンの北の脇にわたり延てシツケロンに至りバアラ山に進みヤブネルに達し海にいたりて盡く"
+    },
+    {
+      "number": 12,
+      "ko": "서쪽 경계는 대해와 그 해안이니 유다 자손이 그들의 가족대로 받은 사방 경계가 이러하니라",
+      "en": "The western boundary is the coastline of the Great Sea. These are the boundaries around the people of Judah by their clans.",
+      "de": "Die Grenze aber gegen Abend ist das große Meer. Das ist die Grenze der Kinder Juda umher nach ihren Geschlechtern.",
+      "zh": "西界就是大海和靠近大海之地。这是犹大人按着宗族所得之地四围的交界。",
+      "ja": "また西の境界は大海にいたりその濱をもて限とすユダの子孫がその宗族にしたがひて獲たる地の四方の境界は是のごとし"
+    },
+    {
+      "number": 13,
+      "ko": "여호와께서 여호수아에게 명령하신 대로 여호수아가 기럇 아르바 곧 헤브론을 유다 자손 중에서 분깃으로 여분네의 아들 갈렙에게 주었으니 아르바는 아낙의 아버지였더라",
+      "en": "In accordance with the LORD'S command to him, Joshua gave to Caleb son of Jephunneh a portion in Judah--Kiriath Arba, that is, Hebron. (Arba was the forefather of Anak.)",
+      "de": "Kaleb aber, dem Sohn Jephunnes, ward sein Teil gegeben unter den Kindern Juda, wie der HERR dem Josua befahl, nämlich die Stadt des Arba, des Vaters Enaks, das ist Hebron.",
+      "zh": "约书亚照耶和华所吩咐的，将犹大人中的一段地，就是基列·亚巴，分给耶孚尼的儿子迦勒。亚巴是亚衲族的始祖（基列·亚巴就是希伯 ）。",
+      "ja": "ヨシユアそのヱホバに命ぜられしごとくヱフンネの子カレブにユダの子孫の中にてキリアテアルバすなはちヘブロンを與へてその分となさしむ"
+    },
+    {
+      "number": 14,
+      "ko": "갈렙이 거기서 아낙의 소생 그 세 아들 곧 세새와 아히만과 달매를 쫓아내었고",
+      "en": "From Hebron Caleb drove out the three Anakites--Sheshai, Ahiman and Talmai--descendants of Anak.",
+      "de": "Und Kaleb vertrieb von da die drei Söhne Enaks: Sesai, Ahiman und Thalmai, geboren von Enak,",
+      "zh": "迦勒就从那里赶出亚衲族的三个族长，就是示筛、亚希幔、挞买；",
+      "ja": "アルバはアナクの父なりカレブかしこよりアナクの子三人を逐はらへり是すなはちアナクより出たるセシヤイ、アヒマンおよびタルマイなり"
+    },
+    {
+      "number": 15,
+      "ko": "거기서 올라가서 드빌 주민을 쳤는데 드빌의 본 이름은 기럇 세벨이라",
+      "en": "From there he marched against the people living in Debir (formerly called Kiriath Sepher).",
+      "de": "und zog von dort hinauf zu den Einwohnern Debirs. Debir aber hieß vorzeiten Kirjath-Sepher.",
+      "zh": "又从那里上去，攻击底璧的居民。（这底璧从前名叫基列·西弗。）",
+      "ja": "而して彼かしこよりデビルの民の所に攻上れりデビルの名は元はキリアテセペルといふ"
+    },
+    {
+      "number": 16,
+      "ko": "갈렙이 말하기를 기럇 세벨을 쳐서 그것을 점령하는 자에게는 내가 내 딸 악사를 아내로 주리라 하였더니",
+      "en": "And Caleb said, \"I will give my daughter Acsah in marriage to the man who attacks and captures Kiriath Sepher.\"",
+      "de": "Und Kaleb sprach: Wer Kirjath-Sepher schlägt und gewinnt, dem will ich meine Tochter Achsa zum Weibe geben.",
+      "zh": "迦勒说：「谁能攻打基列·西弗将城夺取，我就把我女儿押撒给他为妻。」",
+      "ja": "カレブ言けらくキリアテセペルを撃てこれを取る者には我女子アクサを妻に與へんと"
+    },
+    {
+      "number": 17,
+      "ko": "갈렙의 아우 그나스의 아들인 옷니엘이 그것을 점령함으로 갈렙이 자기 딸 악사를 그에게 아내로 주었더라",
+      "en": "Othniel son of Kenaz, Caleb's brother, took it; so Caleb gave his daughter Acsah to him in marriage.",
+      "de": "Da gewann es Othniel, der Sohn des Kenas, der Bruder Kalebs; und er gab ihm seine Tochter Achsa zum Weibe.",
+      "zh": "迦勒兄弟基纳斯的儿子俄陀聂夺取了那城，迦勒就把女儿押撒给他为妻。",
+      "ja": "ケナズの子にしてカレブの弟なるオテニエルといふ者これを取ければカレブその女子アタサを之が妻に與へたり"
+    },
+    {
+      "number": 18,
+      "ko": "악사가 출가할 때에 그에게 청하여 자기 아버지에게 밭을 구하자 하고 나귀에서 내리매 갈렙이 그에게 묻되 네가 무엇을 원하느냐 하니",
+      "en": "One day when she came to Othniel, she urged him to ask her father for a field. When she got off her donkey, Caleb asked her, \"What can I do for you?\"",
+      "de": "Und es begab sich, da sie einzog, beredete sie ihn, einen Acker zu fordern von ihrem Vater. Und sie stieg vom Esel; da sprach Kaleb zu ihr: Was ist dir?",
+      "zh": "押撒过门的时候，劝丈夫向她父亲求一块田，押撒一下驴，迦勒问她说：「你要什么？」",
+      "ja": "アクサ適く時田野をその父に求むべきことをオテニエルに勸め遂にみづから驢馬より下れりカレブこれに何を望むやと言ければ"
+    },
+    {
+      "number": 19,
+      "ko": "이르되 내게 복을 주소서 아버지께서 나를 네겝 땅으로 보내시오니 샘물도 내게 주소서 하매 갈렙이 윗샘과 아랫샘을 그에게 주었더라",
+      "en": "She replied, \"Do me a special favor. Since you have given me land in the Negev, give me also springs of water.\" So Caleb gave her the upper and lower springs.",
+      "de": "Sie sprach: Gib mir einen Segen! Denn du hast mir ein Mittagsland gegeben; gib mir auch Wasserquellen! Da gab er ihr die Quellen von oben und unten.",
+      "zh": "她说：「求你赐福给我，你既将我安置在南地，求你也给我水泉。」她父亲就把上泉下泉赐给她。",
+      "ja": "答へて言ふ我に粧奩を與へよ汝われを南の地に遣なれば水泉をも我に與へよと乃ち上の泉と下の泉とをこれに與ふ"
+    },
+    {
+      "number": 20,
+      "ko": "유다 자손의 지파가 그들의 가족대로 받은 기업은 이러하니라",
+      "en": "This is the inheritance of the tribe of Judah, clan by clan:",
+      "de": "Dies ist das Erbteil des Stammes der Kinder Juda nach ihren Geschlechtern.",
+      "zh": "以下是犹大支派按着宗族所得的产业。",
+      "ja": "ユダの子孫の支派がその宗族にしたがひて獲たる產業は是のごとし"
+    },
+    {
+      "number": 21,
+      "ko": "유다 자손의 지파의 남쪽 끝 에돔 경계에 접근한 성읍들은 갑스엘과 에델과 야굴과",
+      "en": "The southernmost towns of the tribe of Judah in the Negev toward the boundary of Edom were: Kabzeel, Eder, Jagur,",
+      "de": "Und die Städte des Stammes der Kinder Juda von einer Ecke zu der andern, an der Grenze der Edomiter gegen Mittag, waren diese: Kabzeel, Eder, Jagur,",
+      "zh": "犹大支派尽南边的城邑，与以东交界相近的，就是甲薛、以得、雅姑珥、",
+      "ja": "ユダの子孫の支派が南においてエドムの境界の方に有るその遠き邑々は左のごとしカブジエル、エデル、ヤグル"
+    },
+    {
+      "number": 22,
+      "ko": "기나와 디모나와 아다다와",
+      "en": "Kinah, Dimonah, Adadah,",
+      "de": "Kina, Dimona, Ad-Ada,",
+      "zh": "基拿、底摩拿、亚大达、",
+      "ja": "キナ、デモナ、アダダ、"
+    },
+    {
+      "number": 23,
+      "ko": "게데스와 하솔과 잇난과",
+      "en": "Kedesh, Hazor, Ithnan,",
+      "de": "Kedes, Hazor, Ithnan,",
+      "zh": "基低斯、夏琐、以提楠、",
+      "ja": "ケデシ、ハゾル、イテナン、"
+    },
+    {
+      "number": 24,
+      "ko": "십과 델렘과 브알롯과",
+      "en": "Ziph, Telem, Bealoth,",
+      "de": "Siph, Telem, Bealoth,",
+      "zh": "西弗、提链、比亚绿、",
+      "ja": "ジフ、テレム、ベアロテ"
+    },
+    {
+      "number": 25,
+      "ko": "하솔 하닷다와 그리욧 헤스론 곧 하솔과",
+      "en": "Hazor Hadattah, Kerioth Hezron (that is, Hazor),",
+      "de": "Hazor-Hadatta, Karioth-Hezron, das ist Hazor,",
+      "zh": "夏琐·哈大他、加略·希斯 （加略·希斯 就是夏琐）、",
+      "ja": "ハゾルハダツタ、ケリオテヘヅロンすなはちハゾル"
+    },
+    {
+      "number": 26,
+      "ko": "아맘과 세마와 몰라다와",
+      "en": "Amam, Shema, Moladah,",
+      "de": "Amam, Sema, Molada,",
+      "zh": "亚曼、示玛、摩拉大、",
+      "ja": "アマム、シマ、モラダ"
+    },
+    {
+      "number": 27,
+      "ko": "하살갓다와 헤스몬과 벧 벨렛과",
+      "en": "Hazar Gaddah, Heshmon, Beth Pelet,",
+      "de": "Hazar-Gadda, Hesmon, Beth-Pelet,",
+      "zh": "哈萨·迦大、黑实门、伯·帕列、",
+      "ja": "ハザルガダ、ヘシモン、ベテパレテ"
+    },
+    {
+      "number": 28,
+      "ko": "하살 수알과 브엘세바와 비스요댜와",
+      "en": "Hazar Shual, Beersheba, Biziothiah,",
+      "de": "Hazar-Sual, Beer-Seba, Bisjothja,",
+      "zh": "哈萨·书亚、别是巴、比斯约他、",
+      "ja": "ハザルシユアル、ベエルシバ、ビジヨテヤ"
+    },
+    {
+      "number": 29,
+      "ko": "바알라와 이임과 에셈과",
+      "en": "Baalah, Iim, Ezem,",
+      "de": "Baala, Ijim, Ezem,",
+      "zh": "巴拉、以因、以森、",
+      "ja": "バアラ、イヰム、エゼム"
+    },
+    {
+      "number": 30,
+      "ko": "엘돌랏과 그실과 홀마와",
+      "en": "Eltolad, Kesil, Hormah,",
+      "de": "Eltholad, Chesil, Horma,",
+      "zh": "伊勒多腊、基失、何珥玛、",
+      "ja": "エルトラデ、ケシル、ホルマ"
+    },
+    {
+      "number": 31,
+      "ko": "시글락과 맛만나와 산산나와",
+      "en": "Ziklag, Madmannah, Sansannah,",
+      "de": "Ziklag, Madmanna, Sansanna,",
+      "zh": "洗革拉、麦玛拿、三撒拿、",
+      "ja": "チクラグ、マデマンナ、サンサンナ"
+    },
+    {
+      "number": 32,
+      "ko": "르바옷과 실힘과 아인과 림몬이니 모두 스물아홉 성읍과 그 마을들이었으며",
+      "en": "Lebaoth, Shilhim, Ain and Rimmon--a total of twenty-nine towns and their villages.",
+      "de": "Lebaoth, Silhim, Ain, Rimmon. Das sind neunundzwanzig Städte und ihre Dörfer.",
+      "zh": "利巴勿、实忻、亚因、临门，共二十九座城，还有属城的村庄。",
+      "ja": "レバオテ、シルヒム、アイン、リンモン、その邑あはせて二十九ならびに之に屬る村々なり"
+    },
+    {
+      "number": 33,
+      "ko": "평지에는 에스다올과 소라와 아스나와",
+      "en": "In the western foothills: Eshtaol, Zorah, Ashnah,",
+      "de": "In den Gründen aber war Esthaol, Zora, Asna,",
+      "zh": "在高原有以实陶、琐拉、亚实拿、",
+      "ja": "平野にてはエシタオル、ゾラ、アシナ"
+    },
+    {
+      "number": 34,
+      "ko": "사노아와 엔간님과 답부아와 에남과",
+      "en": "Zanoah, En Gannim, Tappuah, Enam,",
+      "de": "Sanoah, En-Gannim, Tappuah, Enam,",
+      "zh": "撒挪亚、隐·干宁、他普亚、以楠、",
+      "ja": "ザノア、エンガンニム、タップア、エナム"
+    },
+    {
+      "number": 35,
+      "ko": "야르뭇과 아둘람과 소고와 아세가와",
+      "en": "Jarmuth, Adullam, Socoh, Azekah,",
+      "de": "Jarmuth, Adullam, Socho, Aseka,",
+      "zh": "耶末、亚杜兰、梭哥、亚西加、",
+      "ja": "ヤルムテ、アドラム、シヨコ、アゼカ"
+    },
+    {
+      "number": 36,
+      "ko": "사아라임과 아디다임과 그데라와 그데로다임이니 열네 성읍과 그 마을들이었으며",
+      "en": "Shaaraim, Adithaim and Gederah (or Gederothaim)--fourteen towns and their villages.",
+      "de": "Saaraim, Adithaim, Gedera, Gederothaim. Das sind vierzehn Städte und ihre Dörfer.",
+      "zh": "沙拉音、亚底他音、基底拉、基底罗他音，共十四座城，还有属城的村庄。",
+      "ja": "シヤアライム、アデタイム、ゲデラ、ゲデロタイム合せて十四邑ならびに之に屬る村々なり"
+    },
+    {
+      "number": 37,
+      "ko": "스난과 하다사와 믹달갓과",
+      "en": "Zenan, Hadashah, Migdal Gad,",
+      "de": "Zenan, Hadasa, Migdal-Gad,",
+      "zh": "又有洗楠、哈大沙、麦大·迦得、",
+      "ja": "ゼナン、ハダシヤ、ミグダルガデ"
+    },
+    {
+      "number": 38,
+      "ko": "딜르안과 미스베와 욕드엘과",
+      "en": "Dilean, Mizpah, Joktheel,",
+      "de": "Dilean, Mizpe, Joktheel,",
+      "zh": "底连、米斯巴、约帖、",
+      "ja": "デラン、ミヅバ、ヨクテル"
+    },
+    {
+      "number": 39,
+      "ko": "라기스와 보스갓과 에글론과",
+      "en": "Lachish, Bozkath, Eglon,",
+      "de": "Lachis, Bozkath, Eglon,",
+      "zh": "拉吉、波斯加、伊矶伦、",
+      "ja": "ラキシ、ボヅカテ、エグロン"
+    },
+    {
+      "number": 40,
+      "ko": "갑본과 라맘과 기들리스와",
+      "en": "Cabbon, Lahmas, Kitlish,",
+      "de": "Chabbon, Lahmas, Kithlis,",
+      "zh": "迦本、拉幔、基提利、",
+      "ja": "カボン、ラマム、キリテシ"
+    },
+    {
+      "number": 41,
+      "ko": "그데롯과 벧다곤과 나아마와 막게다이니 열여섯 성읍과 그 마을들이었으며",
+      "en": "Gederoth, Beth Dagon, Naamah and Makkedah--sixteen towns and their villages.",
+      "de": "Gederoth, Beth-Dagon, Naema, Makkeda. Das sind sechzehn Städte und ihre Dörfer.",
+      "zh": "基低罗、伯·大衮、拿玛、玛基大，共十六座城，还有属城的村庄。",
+      "ja": "ゲデロテ、ベテダゴン、ナアマ、マツケダ合せて十六邑ならびに之に屬る村々なり"
+    },
+    {
+      "number": 42,
+      "ko": "립나와 에델과 아산과",
+      "en": "Libnah, Ether, Ashan,",
+      "de": "Libna, Ether, Asan,",
+      "zh": "又有立拿、以帖、亚珊、",
+      "ja": "またリブナ、エテル、アシヤン"
+    },
+    {
+      "number": 43,
+      "ko": "입다와 아스나와 느십과",
+      "en": "Iphtah, Ashnah, Nezib,",
+      "de": "Jephthah, Asna, Nezib,",
+      "zh": "益弗他、亚实拿、尼悉、",
+      "ja": "イフタ、アシナ、ネジブ"
+    },
+    {
+      "number": 44,
+      "ko": "그일라와 악십과 마레사니 아홉 성읍과 그 마을들이었으며",
+      "en": "Keilah, Aczib and Mareshah--nine towns and their villages.",
+      "de": "Kegila, Achsib, Maresa. Das sind neun Städte und ihre Dörfer.",
+      "zh": "基伊拉、亚革悉、玛利沙，共九座城，还有属城的村庄。",
+      "ja": "ケイラ、アクジブ、マレシア合せて九邑ならびに之に屬ける村々なり"
+    },
+    {
+      "number": 45,
+      "ko": "에그론과 그 촌락들과 그 마을들과",
+      "en": "Ekron, with its surrounding settlements and villages;",
+      "de": "Ekron mit seinen Ortschaften und Dörfern.",
+      "zh": "又有以革伦和属以革伦的镇市村庄；",
+      "ja": "エクロンならびにその郷里および村々なり"
+    },
+    {
+      "number": 46,
+      "ko": "에그론에서부터 바다까지 아스돗 곁에 있는 모든 성읍과 그 마을들이었으며",
+      "en": "west of Ekron, all that were in the vicinity of Ashdod, together with their villages;",
+      "de": "Von Ekron und ans Meer, alles, was an Asdod und seine Dörfer reicht:",
+      "zh": "从以革伦直到海，一切靠近亚实突之地，并属其地的村庄。",
+      "ja": "エクロンより海まで凡てアシドドの邊にある處々ならびに之につける村々なり"
+    },
+    {
+      "number": 47,
+      "ko": "아스돗과 그 촌락들과 그 마을들과 가사와 그 촌락들과 그 마을들이니 애굽 시내와 대해의 경계에까지 이르렀으며",
+      "en": "Ashdod, its surrounding settlements and villages; and Gaza, its settlements and villages, as far as the Wadi of Egypt and the coastline of the Great Sea.",
+      "de": "Asdod mit seinen Ortschaften und Dörfern, Gaza mit seinen Ortschaften und Dörfern bis an das Wasser Ägyptens; und das große Meer ist seine Grenze.",
+      "zh": "亚实突和属亚实突的镇市村庄；迦萨和属迦萨的镇市村庄；直到埃及小河，并大海和靠近大海之地。",
+      "ja": "アシドドならびにその郷里および村々 ガザならびにその郷里および村々 エジプトの河および大海の濱にいたるまでの處々なり"
+    },
+    {
+      "number": 48,
+      "ko": "산지는 사밀과 얏딜과 소고와",
+      "en": "In the hill country: Shamir, Jattir, Socoh,",
+      "de": "Auf dem Gebirge aber war Samir, Jatthir, Socho,",
+      "zh": "在山地有沙密、雅提珥、梭哥、",
+      "ja": "山地にてはシヤミル、ヤツテル、シヨコ"
+    },
+    {
+      "number": 49,
+      "ko": "단나와 기럇 산나 곧 드빌과",
+      "en": "Dannah, Kiriath Sannah (that is, Debir),",
+      "de": "Danna, Kirjath-Sanna, das ist Debir,",
+      "zh": "大拿、基列·萨拿（基列·萨拿就是底璧）、",
+      "ja": "ダンナ、キリアテサンナすなはちデビル"
+    },
+    {
+      "number": 50,
+      "ko": "아납과 에스드모와 아님과",
+      "en": "Anab, Eshtemoh, Anim,",
+      "de": "Anab, Esthemo, Anim,",
+      "zh": "亚拿伯、以实提莫、亚念、",
+      "ja": "アナブ、エシテモ、アニム"
+    },
+    {
+      "number": 51,
+      "ko": "고센과 홀론과 길로이니 열한 성읍과 그 마을들이었으며",
+      "en": "Goshen, Holon and Giloh--eleven towns and their villages.",
+      "de": "Gosen, Holon, Gilo. Das sind elf Städte und ihre Dörfer.",
+      "zh": "歌珊、何伦、基罗，共十一座城，还有属城的村庄。",
+      "ja": "ゴセン、ホロン、ギロ、合せて十一邑ならびに之に屬る村々なり"
+    },
+    {
+      "number": 52,
+      "ko": "아랍과 두마와 에산과",
+      "en": "Arab, Dumah, Eshan,",
+      "de": "Arab, Duma, Esean,",
+      "zh": "又有亚拉、度玛、以珊、",
+      "ja": "アラブ、ドマ、エシヤン"
+    },
+    {
+      "number": 53,
+      "ko": "야님과 벧 답부아와 아베가와",
+      "en": "Janim, Beth Tappuah, Aphekah,",
+      "de": "Janum, Beth-Thappuah, Apheka,",
+      "zh": "雅农、伯·他普亚、亚非加、",
+      "ja": "ヤニム、ベテタツプア、アペカ"
+    },
+    {
+      "number": 54,
+      "ko": "훔다와 기럇 아르바 곧 헤브론과 시올이니 아홉 성읍과 그 마을들이었으며",
+      "en": "Humtah, Kiriath Arba (that is, Hebron) and Zior--nine towns and their villages.",
+      "de": "Humta, Kirjath-Arba, das ist Hebron, Zior. Das sind neun Städte und ihre Dörfer.",
+      "zh": "宏他、基列·亚巴（基列·亚巴就是希伯 ）、洗珥，共九座城，还有属城的村庄。",
+      "ja": "ホムタ、キリアテアルバすなはちヘブロン、デオルあはせて九邑ならびに之につける村々なり"
+    },
+    {
+      "number": 55,
+      "ko": "마온과 갈멜과 십과 윳다와",
+      "en": "Maon, Carmel, Ziph, Juttah,",
+      "de": "Maon, Karmel, Siph, Jutta,",
+      "zh": "又有玛云、迦密、西弗、淤他、",
+      "ja": "マオン、カルメル、ジフ、ユダ"
+    },
+    {
+      "number": 56,
+      "ko": "이스르엘과 욕드암과 사노아와",
+      "en": "Jezreel, Jokdeam, Zanoah,",
+      "de": "Jesreel, Jokdeam, Sanoah,",
+      "zh": "耶斯列、约甸、撒挪亚、",
+      "ja": "ヱズレル、ヨグテアム、ザノア"
+    },
+    {
+      "number": 57,
+      "ko": "가인과 기브아와 딤나니 열 성읍과 그 마을들이었으며",
+      "en": "Kain, Gibeah and Timnah--ten towns and their villages.",
+      "de": "Hakain, Gibea, Thimna. Das sind zehn Städte und ihre Dörfer.",
+      "zh": "该隐、基比亚、亭纳，共十座城，还有属城的村庄。",
+      "ja": "カイン、ギベア、テムナあはぜて十邑ならびに之に屬る村々なり"
+    },
+    {
+      "number": 58,
+      "ko": "할훌과 벧술과 그돌과",
+      "en": "Halhul, Beth Zur, Gedor,",
+      "de": "Halhul, Beth-Zur, Gedor,",
+      "zh": "又有哈忽、伯·夙、基突、",
+      "ja": "ハルホル、ベテズル、ゲドル"
+    },
+    {
+      "number": 59,
+      "ko": "마아랏과 벧 아놋과 엘드곤이니 여섯 성읍과 그 마을들이었으며",
+      "en": "Maarath, Beth Anoth and Eltekon--six towns and their villages.",
+      "de": "Maarath, Beth-Anoth, Elthekon. Das sind sechs Städte und ihre Dörfer.",
+      "zh": "玛腊、伯·亚诺、伊勒提君，共六座城，还有属城的村庄。",
+      "ja": "マアラテ、ベテアノテ、エルテコンあはせて六邑ならびに之に屬る村々なり"
+    },
+    {
+      "number": 60,
+      "ko": "기럇 바알 곧 기럇 여아림과 랍바이니 두 성읍과 그 마을들이었으며",
+      "en": "Kiriath Baal (that is, Kiriath Jearim) and Rabbah--two towns and their villages.",
+      "de": "Kirjath-Baal, das ist Kirjath-Jearim, Harabba; zwei Städte und ihre Dörfer.",
+      "zh": "又有基列·巴力（基列·巴力就是基列·耶琳）、拉巴，共两座城，还有属城的村庄。",
+      "ja": "キリアテバアルすなはちキリアテヤリムおよびラバあはせて二邑ならびに之につける村々なり"
+    },
+    {
+      "number": 61,
+      "ko": "광야에는 벧 아라바와 밋딘과 스가가와",
+      "en": "In the desert: Beth Arabah, Middin, Secacah,",
+      "de": "In der Wüste aber war Beth-Araba, Middin, Sechacha,",
+      "zh": "在旷野有伯·亚拉巴、密丁、西迦迦、",
+      "ja": "荒野にてはベテアラバ、ミデン、セカカ"
+    },
+    {
+      "number": 62,
+      "ko": "닙산과 소금 성읍과 엔 게디니 여섯 성읍과 그 마을들이었더라",
+      "en": "Nibshan, the City of Salt and En Gedi--six towns and their villages.",
+      "de": "Nibsan und die Salzstadt und Engedi. Das sind sechs Städte und ihre Dörfer.",
+      "zh": "匿珊、盐城、隐·基底，共六座城，还有属城的村庄。",
+      "ja": "ニブシヤン鹽邑エングデあはせて六邑ならびに之につける村々なり"
+    },
+    {
+      "number": 63,
+      "ko": "예루살렘 주민 여부스 족속을 유다 자손이 쫓아내지 못하였으므로 여부스 족속이 오늘까지 유다 자손과 함께 예루살렘에 거주하니라",
+      "en": "Judah could not dislodge the Jebusites, who were living in Jerusalem; to this day the Jebusites live there with the people of Judah.",
+      "de": "Die Jebusiter aber wohnten zu Jerusalem, und die Kinder Juda konnten sie nicht vertreiben; also blieben die Jebusiter mit den Kindern Juda zu Jerusalem bis auf diesen Tag.",
+      "zh": "至于住耶路撒冷的耶布斯人，犹大人不能把他们赶出去，耶布斯人却在耶路撒冷与犹大人同住，直到今日。",
+      "ja": "ヱルサレムの民ヱブス人はユダの子孫これを逐はらふことを得ざりき是をもてヱブス人は今日までユダの子孫とともにエルサレムに住ぬ"
+    }
+  ]
+}

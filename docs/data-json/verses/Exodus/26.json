@@ -1,0 +1,302 @@
+{
+  "book": "Exodus",
+  "chapter": 26,
+  "verses": [
+    {
+      "number": 1,
+      "ko": "너는 성막을 만들되 가늘게 꼰 베 실과 청색 자색 홍색 실로 그룹을 정교하게 수 놓은 열 폭의 휘장을 만들지니",
+      "en": "\"Make the tabernacle with ten curtains of finely twisted linen and blue, purple and scarlet yarn, with cherubim worked into them by a skilled craftsman.",
+      "de": "Die Wohnung sollst du machen von zehn Teppichen, von gezwirnter, weißer Leinwand, von blauem und rotem Purpur und von Scharlach. Cherubim sollst du daran machen von kunstreicher Arbeit.",
+      "zh": "「你要用十幅幔子做帐幕。这些幔子要用捻的细麻和蓝色、紫色、朱红色线制造，并用巧匠的手工绣上基路伯。",
+      "ja": "汝また幕屋のために十の幕を造るべしその幕は即ち麻の撚絲靑紫および紅の絲をもて之を造り精巧にケルビムをその上に織出すべし"
+    },
+    {
+      "number": 2,
+      "ko": "매 폭의 길이는 스물여덟 규빗, 너비는 네 규빗으로 각 폭의 장단을 같게 하고",
+      "en": "All the curtains are to be the same size--twenty-eight cubits long and four cubits wide.",
+      "de": "Die Länge eines Teppichs soll achtundzwanzig Ellen sein, die Breite vier Ellen, und sollen alle zehn gleich sein.",
+      "zh": "每幅幔子要长二十八肘，宽四肘，幔子都要一样的尺寸。",
+      "ja": "一の幕の長は二十八キユビト一の幕の濶は四キユビトなるべし幕は皆その寸尺を同うすべし"
+    },
+    {
+      "number": 3,
+      "ko": "그 휘장 다섯 폭을 서로 연결하며 다른 다섯 폭도 서로 연결하고",
+      "en": "Join five of the curtains together, and do the same with the other five.",
+      "de": "Und sollen je fünf zu einem Stück zusammengefügt sein, einer an den andern.",
+      "zh": "这五幅幔子要幅幅相连；那五幅幔子也要幅幅相连。",
+      "ja": "その幕五箇を互に連ねあはせ又その他の幕五箇をも互に連ねあはすべし"
+    },
+    {
+      "number": 4,
+      "ko": "그 휘장을 이을 끝폭 가에 청색 고를 만들며 이어질 다른 끝폭 가에도 그와 같이 하고",
+      "en": "Make loops of blue material along the edge of the end curtain in one set, and do the same with the end curtain in the other set.",
+      "de": "Und sollst Schleifen machen von blauem Purpur an jegliches Stück am Rand, wo die zwei Stücke sollen zusammengeheftet werden;",
+      "zh": "在这相连的幔子末幅边上要做蓝色的钮扣；在那相连的幔子末幅边上也要照样做。",
+      "ja": "而してその一聯の幕の邊においてその聯絡處の端に靑色の襟を付べし又他の一聯の幕の聯絡處の邊にも斯なすべし"
+    },
+    {
+      "number": 5,
+      "ko": "휘장 끝폭 가에 고 쉰 개를 달며 다른 휘장 끝폭 가에도 고 쉰 개를 달고 그 고들을 서로 마주 보게 하고",
+      "en": "Make fifty loops on one curtain and fifty loops on the end curtain of the other set, with the loops opposite each other.",
+      "de": "fünfzig Schleifen an jegliches Stück, daß eine Schleife der andern gegenüberstehe.",
+      "zh": "要在这相连的幔子上做五十个钮扣；在那相连的幔子上也做五十个钮扣，都要两两相对。",
+      "ja": "汝一聯の幕に襟五十をつけ又他の一聯の幕の聯絡處の邊にも襟五十をつけ斯その襟をして彼と此と相對せしむべし"
+    },
+    {
+      "number": 6,
+      "ko": "금 갈고리 쉰 개를 만들고 그 갈고리로 휘장을 연결하게 한 성막을 이룰지며",
+      "en": "Then make fifty gold clasps and use them to fasten the curtains together so that the tabernacle is a unit.",
+      "de": "Und sollst fünfzig goldene Haken machen, womit man die Teppiche zusammenheftet, einen an den andern, auf daß es eine Wohnung werde.",
+      "zh": "又要做五十个金钩，用钩使幔子相连，这才成了一个帐幕。",
+      "ja": "而して金の鐶五十を造りその鐶をもて幕を連ねあはせて一の幕屋となすべし"
+    },
+    {
+      "number": 7,
+      "ko": "그 성막을 덮는 막 곧 휘장을 염소털로 만들되 열한 폭을 만들지며",
+      "en": "\"Make curtains of goat hair for the tent over the tabernacle--eleven altogether.",
+      "de": "Du sollst auch eine Decke aus Ziegenhaar machen zur Hütte über die Wohnung von elf Teppichen.",
+      "zh": "「你要用山羊毛织十一幅幔子，作为帐幕以上的罩棚。",
+      "ja": "汝また山羊の毛をもて幕をつくりて幕屋の上の蓋となすべし即ち幕十一をつくるべし"
+    },
+    {
+      "number": 8,
+      "ko": "각 폭의 길이는 서른 규빗, 너비는 네 규빗으로 열한 폭의 길이를 같게 하고",
+      "en": "All eleven curtains are to be the same size--thirty cubits long and four cubits wide.",
+      "de": "Die Länge eines Teppichs soll dreißig Ellen sein, die Breite aber vier Ellen, und sollen alle elf gleich groß sein.",
+      "zh": "每幅幔子要长三十肘，宽四肘；十一幅幔子都要一样的尺寸。",
+      "ja": "その一箇の幕の長は三十キユビトその一箇の幕の濶は四キユビトなるべし即ちその十一の幕は寸尺を一にすべし"
+    },
+    {
+      "number": 9,
+      "ko": "그 휘장 다섯 폭을 서로 연결하며 또 여섯 폭을 서로 연결하고 그 여섯째 폭 절반은 성막 전면에 접어 드리우고",
+      "en": "Join five of the curtains together into one set and the other six into another set. Fold the sixth curtain double at the front of the tent.",
+      "de": "Fünf sollst du aneinander fügen und sechs auch aneinander, daß du den sechsten Teppich zwiefältig machst vorn an der Hütte.",
+      "zh": "要把五幅幔子连成一幅，又把六幅幔子连成一幅，这第六幅幔子要在罩棚的前面折上去。",
+      "ja": "而してその幕五を一に聯ねまたその幕六を一に聯ねその第六の幕を幕屋の前に摺むべし"
+    },
+    {
+      "number": 10,
+      "ko": "휘장을 이을 끝폭 가에 고 쉰 개를 달며 다른 이을 끝폭 가에도 고 쉰 개를 달고",
+      "en": "Make fifty loops along the edge of the end curtain in one set and also along the edge of the end curtain in the other set.",
+      "de": "Und sollst an jegliches Stück fünfzig Schleifen machen am Rand, wo die Stücke sollen zusammengeheftet werden.",
+      "zh": "在这相连的幔子末幅边上要做五十个钮扣；在那相连的幔子末幅边上也做五十个钮扣。",
+      "ja": "又その一聯の幕の邊すなはちその聯絡處の端に襟五十を付け又他の一聯の幕の聯絡處にも襟五十を付べし"
+    },
+    {
+      "number": 11,
+      "ko": "놋 갈고리 쉰 개를 만들고 그 갈고리로 그 고를 꿰어 연결하여 한 막이 되게 하고",
+      "en": "Then make fifty bronze clasps and put them in the loops to fasten the tent together as a unit.",
+      "de": "Und sollst fünfzig eherne Haken machen und die Haken in die Schleifen tun, daß die Hütte zusammengefügt und eine Hütte werde.",
+      "zh": "又要做五十个铜钩，钩在钮扣中，使罩棚连成一个。",
+      "ja": "而して銅の鐶五十を作りその鐶を襟にかけてその幕を聯ねあはせて一となすべし"
+    },
+    {
+      "number": 12,
+      "ko": "그 막 곧 휘장의 그 나머지 반 폭은 성막 뒤에 늘어뜨리고",
+      "en": "As for the additional length of the tent curtains, the half curtain that is left over is to hang down at the rear of the tabernacle.",
+      "de": "Aber vom Überlangen an den Teppichen der Hütte sollst du einen halben Teppich lassen überhangen hinten an der Hütte",
+      "zh": "罩棚的幔子所余那垂下来的半幅幔子，要垂在帐幕的后头。",
+      "ja": "その天幕の幕の餘れる遺餘すなはちその餘れる半幕をば幕屋の後に垂しむべし"
+    },
+    {
+      "number": 13,
+      "ko": "막 곧 휘장의 길이의 남은 것은 이쪽에 한 규빗, 저쪽에 한 규빗씩 성막 좌우 양쪽에 덮어 늘어뜨리고",
+      "en": "The tent curtains will be a cubit longer on both sides; what is left will hang over the sides of the tabernacle so as to cover it.",
+      "de": "und auf beiden Seiten je eine Elle, daß das Überlange sei an der Hütte Seiten und auf beiden Seiten sie bedecke.",
+      "zh": "罩棚的幔子所余长的，这边一肘，那边一肘，要垂在帐幕的两旁，遮盖帐幕。",
+      "ja": "天幕の幕の餘れる者は此旁に一キユビト彼旁に一キユビトあり之を幕屋の兩旁此方彼方に垂てこれを蓋ふべし"
+    },
+    {
+      "number": 14,
+      "ko": "붉은 물 들인 숫양의 가죽으로 막의 덮개를 만들고 해달의 가죽으로 그 윗덮개를 만들지니라",
+      "en": "Make for the tent a covering of ram skins dyed red, and over that a covering of hides of sea cows.",
+      "de": "Über diese Decke sollst du eine Decke machen von rötlichen Widderfellen, dazu über sie eine Decke von Dachsfellen.",
+      "zh": "又要用染红的公羊皮做罩棚的盖；再用海狗皮做一层罩棚上的顶盖。",
+      "ja": "汝赤く染たる牡山羊の皮をもて幕屋の蓋をつくりその上に貛の皮の蓋をほどこすべし"
+    },
+    {
+      "number": 15,
+      "ko": "너는 조각목으로 성막을 위하여 널판을 만들어 세우되",
+      "en": "\"Make upright frames of acacia wood for the tabernacle.",
+      "de": "Du sollst auch Bretter machen zu der Wohnung von Akazienholz, die stehen sollen.",
+      "zh": "「你要用皂荚木做帐幕的竖板。",
+      "ja": "汝合歓木をもて幕屋のために竪板を造るべし"
+    },
+    {
+      "number": 16,
+      "ko": "각 판의 길이는 열 규빗, 너비는 한 규빗 반으로 하고",
+      "en": "Each frame is to be ten cubits long and a cubit and a half wide,",
+      "de": "Zehn Ellen lang soll ein Brett sein und anderthalb Ellen breit.",
+      "zh": "每块要长十肘，宽一肘半；",
+      "ja": "一枚の板の長は十キユビト一枚の板の濶は一キユビト半なるべし"
+    },
+    {
+      "number": 17,
+      "ko": "각 판에 두 촉씩 내어 서로 연결하게 하되 너는 성막 널판을 다 그와 같이 하라",
+      "en": "with two projections set parallel to each other. Make all the frames of the tabernacle in this way.",
+      "de": "Zwei Zapfen soll ein Brett haben, daß eins an das andere könne gesetzt werden. Also sollst du alle Bretter der Wohnung machen.",
+      "zh": "每块必有两榫相对。帐幕一切的板都要这样做。",
+      "ja": "板ごとに二の榫をつくりて彼と此と交指しめよ幕屋の板には皆斯のごとく爲べし"
+    },
+    {
+      "number": 18,
+      "ko": "너는 성막을 위하여 널판을 만들되 남쪽을 위하여 널판 스무 개를 만들고",
+      "en": "Make twenty frames for the south side of the tabernacle",
+      "de": "Ihrer zwanzig sollen stehen gegen Mittag.",
+      "zh": "帐幕的南面要做板二十块。",
+      "ja": "汝幕屋のために板を造るべし即ち南向の方のために板二十枚を作るべし"
+    },
+    {
+      "number": 19,
+      "ko": "스무 널판 아래에 은 받침 마흔 개를 만들지니 이쪽 널판 아래에도 그 두 촉을 위하여 두 받침을 만들고 저쪽 널판 아래에도 그 두 촉을 위하여 두 받침을 만들지며",
+      "en": "and make forty silver bases to go under them--two bases for each frame, one under each projection.",
+      "de": "Die sollen vierzig silberne Füße unten haben, je zwei Füße unter einem jeglichen Brett an seinen zwei Zapfen.",
+      "zh": "在这二十块板底下要做四十个带卯的银座，两卯接这块板上的两榫，两卯接那块板上的两榫。",
+      "ja": "而してその二十枚の板の下に銀の座四十を造るべし即ち此板の下にもその二の榫のために二の座あらしめ彼板の下にもその二の榫のために二の座あらしむべし"
+    },
+    {
+      "number": 20,
+      "ko": "성막 다른 쪽 곧 그 북쪽을 위하여도 널판 스무 개로 하고",
+      "en": "For the other side, the north side of the tabernacle, make twenty frames",
+      "de": "Also auf der andern Seite gegen Mitternacht sollen auch zwanzig Bretter stehen",
+      "zh": "帐幕第二面，就是北面，也要做板二十块",
+      "ja": "幕屋の他の方すなはちその北の方のためにも板二十枚を作るべし"
+    },
+    {
+      "number": 21,
+      "ko": "은 받침 마흔 개를 이쪽 널판 아래에도 두 받침, 저쪽 널판 아래에도 두 받침으로 하며",
+      "en": "and forty silver bases--two under each frame.",
+      "de": "und vierzig silberne Füße, je zwei Füße unter jeglichem Brett.",
+      "zh": "和带卯的银座四十个；这板底下有两卯，那板底下也有两卯。",
+      "ja": "而してこれに銀の座四十を作り此板の下にも二の座彼板の下にも二の座あらしむべし"
+    },
+    {
+      "number": 22,
+      "ko": "성막 뒤 곧 그 서쪽을 위하여는 널판 여섯 개를 만들고",
+      "en": "Make six frames for the far end, that is, the west end of the tabernacle,",
+      "de": "Aber hinten an der Wohnung gegen Abend sollst du sechs Bretter machen;",
+      "zh": "帐幕的后面，就是西面，要做板六块。",
+      "ja": "幕屋の後すなはちその西の方のために板六枚を造るべし"
+    },
+    {
+      "number": 23,
+      "ko": "성막 뒤 두 모퉁이 쪽을 위하여는 널판 두 개를 만들되",
+      "en": "and make two frames for the corners at the far end.",
+      "de": "dazu zwei Bretter hinten an die zwei Ecken der Wohnung,",
+      "zh": "帐幕后面的拐角要做板两块。",
+      "ja": "又幕屋の後の兩の隅のために板二枚を造るべし"
+    },
+    {
+      "number": 24,
+      "ko": "아래에서부터 위까지 각기 두 겹 두께로 하여 윗고리에 이르게 하고 두 모퉁이 쪽을 다 그리하며",
+      "en": "At these two corners they must be double from the bottom all the way to the top, and fitted into a single ring; both shall be like that.",
+      "de": "daß ein jegliches der beiden sich mit seinem Eckbrett von untenauf geselle und oben am Haupt gleich zusammenkomme mit einer Klammer;",
+      "zh": "板的下半截要双的，上半截要整的，直顶到第一个环子；两块都要这样做两个拐角。",
+      "ja": "その二枚は下にて相合せしめその頂まで一に連ならしむべし一箇の鐶に於て然りその二枚ともに是の如くなるべし其等は二の隅のために設くる者なり"
+    },
+    {
+      "number": 25,
+      "ko": "그 여덟 널판에는 은 받침이 열여섯이니 이쪽 판 아래에도 두 받침이요 저쪽 판 아래에도 두 받침이니라",
+      "en": "So there will be eight frames and sixteen silver bases--two under each frame.",
+      "de": "daß es acht Bretter seien mit ihren silbernen Füßen, deren sollen sechzehn sein, je zwei unter einem Brett.",
+      "zh": "必有八块板和十六个带卯的银座；这板底下有两卯，那板底下也有两卯。",
+      "ja": "その板は合て八枚その銀の座は十六座此板にも二の座彼板にも二の座あらしむべし"
+    },
+    {
+      "number": 26,
+      "ko": "너는 조각목으로 띠를 만들지니 성막 이쪽 널판을 위하여 다섯 개요",
+      "en": "\"Also make crossbars of acacia wood: five for the frames on one side of the tabernacle,",
+      "de": "Und sollst Riegel machen von Akazienholz, fünf zu den Brettern auf einer Seite der Wohnung",
+      "zh": "「你要用皂荚木作闩：为帐幕这面的板作五闩，",
+      "ja": "汝合歓木をもて横木を作り幕屋の此方の板のために五本を設くべし"
+    },
+    {
+      "number": 27,
+      "ko": "성막 저쪽 널판을 위하여 다섯 개요 성막 뒤 곧 서쪽 널판을 위하여 다섯 개이며",
+      "en": "five for those on the other side, and five for the frames on the west, at the far end of the tabernacle.",
+      "de": "und fünf zu den Brettern auf der andern Seite der Wohnung und fünf zu den Brettern hinten an der Wohnung gegen Abend.",
+      "zh": "为帐幕那面的板做五闩，又为帐幕后面的板做五闩。",
+      "ja": "また幕屋の彼方の板のために横木五本を設け幕屋の後すなはちその西の方の板のために横木五本を設くべし"
+    },
+    {
+      "number": 28,
+      "ko": "널판 가운데에 있는 중간 띠는 이 끝에서 저 끝에 미치게 하고",
+      "en": "The center crossbar is to extend from end to end at the middle of the frames.",
+      "de": "Und sollst den mittleren Riegel mitten an den Brettern hindurchstoßen und alles zusammenfassen von einem Ende zu dem andern.",
+      "zh": "板腰间的中闩要从这一头通到那一头。",
+      "ja": "板の眞中にある中間の横木をば端より端まで通らしむべし"
+    },
+    {
+      "number": 29,
+      "ko": "그 널판들을 금으로 싸고 그 널판들의 띠를 꿸 금 고리를 만들고 그 띠를 금으로 싸라",
+      "en": "Overlay the frames with gold and make gold rings to hold the crossbars. Also overlay the crossbars with gold.",
+      "de": "Und sollst die Bretter mit Gold überziehen und ihre Ringe von Gold machen, daß man die Riegel darein tue.",
+      "zh": "板要用金子包裹，又要做板上的金环套闩；闩也要用金子包裹。",
+      "ja": "而してその板に金を着せ金をもて之がために鐶を作りて横木をこれに貫き又その横木に金を着すべし"
+    },
+    {
+      "number": 30,
+      "ko": "너는 산에서 보인 양식대로 성막을 세울지니라",
+      "en": "\"Set up the tabernacle according to the plan shown you on the mountain.",
+      "de": "Und die Riegel sollst du mit Gold überziehen. Und also sollst du denn die Wohnung aufrichten nach der Weise, wie du gesehen hast auf dem Berge.",
+      "zh": "要照着在山上指示你的样式立起帐幕。",
+      "ja": "汝山にて示されしところのその模範にしたがひて幕屋を建べし"
+    },
+    {
+      "number": 31,
+      "ko": "너는 청색 자색 홍색 실과 가늘게 꼰 베 실로 짜서 휘장을 만들고 그 위에 그룹들을 정교하게 수 놓아서",
+      "en": "\"Make a curtain of blue, purple and scarlet yarn and finely twisted linen, with cherubim worked into it by a skilled craftsman.",
+      "de": "Du sollst einen Vorhang machen von blauem und rotem Purpur, Scharlach und gezwirnter weißer Leinwand; und sollst Cherubim daran machen von kunstreicher Arbeit.",
+      "zh": "「你要用蓝色、紫色、朱红色线，和捻的细麻织幔子，以巧匠的手工绣上基路伯。",
+      "ja": "汝また靑紫紅の線および麻の撚絲をもて幕を作り巧にケルビムをその上に織いだすべし"
+    },
+    {
+      "number": 32,
+      "ko": "금 갈고리를 네 기둥 위에 늘어뜨리되 그 네 기둥을 조각목으로 만들고 금으로 싸서 네 은 받침 위에 둘지며",
+      "en": "Hang it with gold hooks on four posts of acacia wood overlaid with gold and standing on four silver bases.",
+      "de": "Und sollst ihn hängen an vier Säulen von Akazienholz, die mit Gold überzogen sind und goldene Haken und vier silberne Füße haben.",
+      "zh": "要把幔子挂在四根包金的皂荚木柱子上，柱子上当有金钩，柱子安在四个带卯的银座上。",
+      "ja": "而して金を着たる四本の合歓木の柱の上に之を掛べしその鈎は金にしその柱は四の銀の座の上に置べし"
+    },
+    {
+      "number": 33,
+      "ko": "그 휘장을 갈고리 아래에 늘어뜨린 후에 증거궤를 그 휘장 안에 들여놓으라 그 휘장이 너희를 위하여 성소와 지성소를 구분하리라",
+      "en": "Hang the curtain from the clasps and place the ark of the Testimony behind the curtain. The curtain will separate the Holy Place from the Most Holy Place.",
+      "de": "Und sollst den Vorhang hängen unter die Haken, und die Lade des Zeugnisses innen hinter den Vorhang setzen, daß er euch eine Scheidewand sei zwischen dem Heiligen und dem Allerheiligsten.",
+      "zh": "要使幔子垂在钩子下，把法柜抬进幔子内；这幔子要将圣所和至圣所隔开。",
+      "ja": "汝その幕を鐶の下に掛け其處にその幕の中に律法の櫃を蔵むべしその幕すなはち汝らのために聖所と至聖所を分たん"
+    },
+    {
+      "number": 34,
+      "ko": "너는 지성소에 있는 증거궤 위에 속죄소를 두고",
+      "en": "Put the atonement cover on the ark of the Testimony in the Most Holy Place.",
+      "de": "Und sollst den Gnadenstuhl tun auf die Lade des Zeugnisses in dem Allerheiligsten.",
+      "zh": "又要把施恩座安在至圣所内的法柜上，",
+      "ja": "汝至聖所にある律法の櫃の上に贖罪所を置べし"
+    },
+    {
+      "number": 35,
+      "ko": "그 휘장 바깥 북쪽에 상을 놓고 남쪽에 등잔대를 놓아 상과 마주하게 할지며",
+      "en": "Place the table outside the curtain on the north side of the tabernacle and put the lampstand opposite it on the south side.",
+      "de": "Den Tisch aber setze außen vor den Vorhang und den Leuchter dem Tisch gegenüber, mittagswärts in der Wohnung, daß der Tisch stehe gegen Mitternacht.",
+      "zh": "把桌子安在幔子外帐幕的北面；把灯台安在帐幕的南面，彼此相对。",
+      "ja": "而してその幕の外に案を置ゑ幕屋の南の方に燈臺を置て案に對はしむべし案は北の方に置べし"
+    },
+    {
+      "number": 36,
+      "ko": "청색 자색 홍색 실과 가늘게 꼰 베 실로 수 놓아 짜서 성막 문을 위하여 휘장을 만들고",
+      "en": "\"For the entrance to the tent make a curtain of blue, purple and scarlet yarn and finely twisted linen--the work of an embroiderer.",
+      "de": "Und sollst ein Tuch machen in die Tür der Hütte, gewirkt von blauem und rotem Purpur, Scharlach und gezwirnter weißer Leinwand.",
+      "zh": "「你要拿蓝色、紫色、朱红色线，和捻的细麻，用绣花的手工织帐幕的门帘。",
+      "ja": "又靑紫紅の線および麻の撚絲をもて幔を織なして幕屋の入口に掛べし"
+    },
+    {
+      "number": 37,
+      "ko": "그 휘장 문을 위하여 기둥 다섯을 조각목으로 만들어 금으로 싸고 그 갈고리도 금으로 만들지며 또 그 기둥을 위하여 받침 다섯 개를 놋으로 부어 만들지니라",
+      "en": "Make gold hooks for this curtain and five posts of acacia wood overlaid with gold. And cast five bronze bases for them.",
+      "de": "Und sollst dem Tuch fünf Säulen machen von Akazienholz, mit Gold überzogen, mit goldene Haken, und sollst ihnen fünf eherne Füße gießen.",
+      "zh": "要用皂荚木为帘子做五根柱子，用金子包裹。柱子上当有金钩；又要为柱子用铜铸造五个带卯的座。」",
+      "ja": "又その幔のために合歓木をもて柱五本を造りてこれに金を着せその鈎を金にすべし又その柱のために銅をもて五箇の座を鋳べし"
+    }
+  ]
+}

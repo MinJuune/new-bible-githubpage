@@ -1,0 +1,198 @@
+{
+  "book": "1 John",
+  "chapter": 3,
+  "verses": [
+    {
+      "number": 1,
+      "ko": "보라 아버지께서 어떠한 사랑을 우리에게 베푸사 하나님의 자녀라 일컬음을 받게 하셨는가, 우리가 그러하도다 그러므로 세상이 우리를 알지 못함은 그를 알지 못함이라",
+      "en": "How great is the love the Father has lavished on us, that we should be called children of God! And that is what we are! The reason the world does not know us is that it did not know him.",
+      "de": "Sehet, welch eine Liebe hat uns der Vater erzeigt, daß wir Gottes Kinder sollen heißen! Darum kennt euch die Welt nicht; denn sie kennt ihn nicht.",
+      "zh": "你看父赐给我们是何等的慈爱，使我们得称为　神的儿女；我们也真是他的儿女。世人所以不认识我们，是因未曾认识他。",
+      "ja": "私たちが神の子どもと呼ばれるために、――事実、いま私たちは神の子どもです。――御父はどんなにすばらしい愛を与えてくださったことでしょう。世が私たちを知らないのは、御父を知らないからです。"
+    },
+    {
+      "number": 2,
+      "ko": "사랑하는 자들아 우리가 지금은 하나님의 자녀라 장래에 어떻게 될지는 아직 나타나지 아니하였으나 그가 나타나시면 우리가 그와 같을 줄을 아는 것은 그의 참모습 그대로 볼 것이기 때문이니",
+      "en": "Dear friends, now we are children of God, and what we will be has not yet been made known. But we know that when he appears, we shall be like him, for we shall see him as he is.",
+      "de": "Meine Lieben, wir sind nun Gottes Kinder; und es ist noch nicht erschienen, was wir sein werden. Wir wissen aber, wenn es erscheinen wird, daß wir ihm gleich sein werden; denn wir werden ihn sehen, wie er ist.",
+      "zh": "亲爱的弟兄啊，我们现在是　神的儿女，将来如何，还未显明；但我们知道，主若显现，我们必要像他，因为必得见他的真体。",
+      "ja": "愛する者たち。私たちは、今すでに神の子どもです。後の状態はまだ明らかにされていません。しかし、キリストが現われたなら、私たちはキリストに似た者となることがわかっています。なぜならそのとき、私たちはキリストのありのままの姿を見るからです。"
+    },
+    {
+      "number": 3,
+      "ko": "주를 향하여 이 소망을 가진 자마다 그의 깨끗하심과 같이 자기를 깨끗하게 하느니라",
+      "en": "Everyone who has this hope in him purifies himself, just as he is pure.",
+      "de": "Und ein jeglicher, der solche Hoffnung hat zu ihm, der reinigt sich, gleichwie er auch rein ist.",
+      "zh": "凡向他有这指望的，就洁净自己，像他洁净一样。",
+      "ja": "キリストに対するこの望みをいだく者はみな、キリストがきよくあられるように、自分をきよくします。"
+    },
+    {
+      "number": 4,
+      "ko": "죄를 짓는 자마다 불법을 행하나니 죄는 불법이라",
+      "en": "Everyone who sins breaks the law; in fact, sin is lawlessness.",
+      "de": "Wer Sünde tut, der tut auch Unrecht, und die Sünde ist das Unrecht.",
+      "zh": "凡犯罪的，就是违背律法；违背律法就是罪。",
+      "ja": "罪を犯している者はみな、不法を行なっているのです。罪とは律法に逆らうことなのです。"
+    },
+    {
+      "number": 5,
+      "ko": "그가 우리 죄를 없애려고 나타나신 것을 너희가 아나니 그에게는 죄가 없느니라",
+      "en": "But you know that he appeared so that he might take away our sins. And in him is no sin.",
+      "de": "Und ihr wisset, daß er ist erschienen, auf daß er unsre Sünden wegnehme, und es ist keine Sünde in ihm.",
+      "zh": "你们知道主曾显现，是要除掉人的罪，在他并没有罪。",
+      "ja": "キリストが現われたのは罪を取り除くためであったことを、あなたがたは知っています。キリストには何の罪もありません。"
+    },
+    {
+      "number": 6,
+      "ko": "그 안에 거하는 자마다 범죄하지 아니하나니 범죄하는 자마다 그를 보지도 못하였고 그를 알지도 못하였느니라",
+      "en": "No one who lives in him keeps on sinning. No one who continues to sin has either seen him or known him.",
+      "de": "Wer in ihm bleibt, der sündigt nicht; wer da sündigt, der hat ihn nicht gesehen noch erkannt.",
+      "zh": "凡住在他里面的，就不犯罪；凡犯罪的，是未曾看见他，也未曾认识他。",
+      "ja": "だれでもキリストのうちにとどまる者は、罪のうちを歩みません。罪のうちを歩む者はだれも、キリストを見てもいないし、知ってもいないのです。"
+    },
+    {
+      "number": 7,
+      "ko": "자녀들아 아무도 너희를 미혹하지 못하게 하라 의를 행하는 자는 그의 의로우심과 같이 의롭고",
+      "en": "Dear children, do not let anyone lead you astray. He who does what is right is righteous, just as he is righteous.",
+      "de": "Kindlein, laßt euch niemand verführen! Wer recht tut, der ist gerecht, gleichwie er gerecht ist.",
+      "zh": "小子们哪，不要被人诱惑。行义的才是义人，正如主是义的一样。",
+      "ja": "子どもたちよ。だれにも惑わされてはいけません。義を行なう者は、キリストが正しくあられるのと同じように正しいのです。"
+    },
+    {
+      "number": 8,
+      "ko": "죄를 짓는 자는 마귀에게 속하나니 마귀는 처음부터 범죄함이라 하나님의 아들이 나타나신 것은 마귀의 일을 멸하려 하심이라",
+      "en": "He who does what is sinful is of the devil, because the devil has been sinning from the beginning. The reason the Son of God appeared was to destroy the devil's work.",
+      "de": "Wer Sünde tut, der ist vom Teufel; denn der Teufel sündigt von Anfang. Dazu ist erschienen der Sohn Gottes, daß er die Werke des Teufels zerstöre.",
+      "zh": "犯罪的是属魔鬼，因为魔鬼从起初就犯罪。　神的儿子显现出来，为要除灭魔鬼的作为。",
+      "ja": "罪のうちを歩む者は、悪魔から出た者です。悪魔は初めから罪を犯しているからです。神の子が現われたのは、悪魔のしわざを打ちこわすためです。"
+    },
+    {
+      "number": 9,
+      "ko": "하나님께로부터 난 자마다 죄를 짓지 아니하나니 이는 하나님의 씨가 그의 속에 거함이요 그도 범죄하지 못하는 것은 하나님께로부터 났음이라",
+      "en": "No one who is born of God will continue to sin, because God's seed remains in him; he cannot go on sinning, because he has been born of God.",
+      "de": "Wer aus Gott geboren ist, der tut nicht Sünde, denn sein Same bleibt bei ihm; und kann nicht sündigen, denn er ist von Gott geboren.",
+      "zh": "凡从　神生的，就不犯罪，因　神的道存在他心里；他也不能犯罪，因为他是由　神生的。",
+      "ja": "だれでも神から生まれた者は、罪のうちを歩みません。なぜなら、神の種がその人のうちにとどまっているからです。その人は神から生まれたので、罪のうちを歩むことができないのです。"
+    },
+    {
+      "number": 10,
+      "ko": "이러므로 하나님의 자녀들과 마귀의 자녀들이 드러나나니 무릇 의를 행하지 아니하는 자나 또는 그 형제를 사랑하지 아니하는 자는 하나님께 속하지 아니하니라",
+      "en": "This is how we know who the children of God are and who the children of the devil are: Anyone who does not do what is right is not a child of God; nor is anyone who does not love his brother.",
+      "de": "Daran wird's offenbar, welche die Kinder Gottes und die Kinder des Teufels sind. Wer nicht recht tut, der ist nicht von Gott, und wer nicht seinen Bruder liebhat.",
+      "zh": "从此就显出谁是　神的儿女，谁是魔鬼的儿女。凡不行义的就不属　神，不爱弟兄的也是如此。",
+      "ja": "そのことによって、神の子どもと悪魔の子どもとの区別がはっきりします。義を行なわない者はだれも、神から出た者ではありません。兄弟を愛さない者もそうです。"
+    },
+    {
+      "number": 11,
+      "ko": "우리는 서로 사랑할지니 이는 너희가 처음부터 들은 소식이라",
+      "en": "This is the message you heard from the beginning: We should love one another.",
+      "de": "Denn das ist die Botschaft, die ihr gehört habt von Anfang, daß wir uns untereinander lieben sollen.",
+      "zh": "我们应当彼此相爱。这就是你们从起初所听见的命令。",
+      "ja": "互いに愛し合うべきであるということは、あなたがたが初めから聞いている教えです。"
+    },
+    {
+      "number": 12,
+      "ko": "가인 같이 하지 말라 그는 악한 자에게 속하여 그 아우를 죽였으니 어떤 이유로 죽였느냐 자기의 행위는 악하고 그의 아우의 행위는 의로움이라",
+      "en": "Do not be like Cain, who belonged to the evil one and murdered his brother. And why did he murder him? Because his own actions were evil and his brother's were righteous.",
+      "de": "Nicht wie Kain, der von dem Argen war und erwürgte seinen Bruder. Und warum erwürgte er ihn? Weil seine Werke böse waren, und die seines Bruders gerecht.",
+      "zh": "不可像该隐；他是属那恶者，杀了他的兄弟。为什么杀了他呢？因自己的行为是恶的，兄弟的行为是善的。",
+      "ja": "カインのようであってはいけません。彼は悪い者から出た者で、兄弟を殺しました。なぜ兄弟を殺したのでしょう。自分の行ないは悪く、兄弟の行ないは正しかったからです。"
+    },
+    {
+      "number": 13,
+      "ko": "형제들아 세상이 너희를 미워하여도 이상히 여기지 말라",
+      "en": "Do not be surprised, my brothers, if the world hates you.",
+      "de": "Verwundert euch nicht, meine Brüder, wenn euch die Welt haßt.",
+      "zh": "弟兄们，世人若恨你们，不要以为希奇。",
+      "ja": "兄弟たち。世があなたがたを憎んでも、驚いてはいけません。"
+    },
+    {
+      "number": 14,
+      "ko": "우리는 형제를 사랑함으로 사망에서 옮겨 생명으로 들어간 줄을 알거니와 사랑하지 아니하는 자는 사망에 머물러 있느니라",
+      "en": "We know that we have passed from death to life, because we love our brothers. Anyone who does not love remains in death.",
+      "de": "Wir wissen, daß wir aus dem Tode in das Leben gekommen sind; denn wir lieben die Brüder. Wer den Bruder nicht liebt, der bleibt im Tode.",
+      "zh": "我们因为爱弟兄，就晓得是已经出死入生了。没有爱心的，仍住在死中。",
+      "ja": "私たちは、自分が死からいのちに移ったことを知っています。それは、兄弟を愛しているからです。愛さない者は、死のうちにとどまっているのです。"
+    },
+    {
+      "number": 15,
+      "ko": "그 형제를 미워하는 자마다 살인하는 자니 살인하는 자마다 영생이 그 속에 거하지 아니하는 것을 너희가 아는 바라",
+      "en": "Anyone who hates his brother is a murderer, and you know that no murderer has eternal life in him.",
+      "de": "Wer seinen Bruder haßt, der ist ein Totschläger; und ihr wisset, daß ein Totschläger hat nicht das ewige Leben bei ihm bleibend.",
+      "zh": "凡恨他弟兄的，就是杀人的；你们晓得凡杀人的，没有永生存在他里面。",
+      "ja": "兄弟を憎む者はみな、人殺しです。いうまでもなく、だれでも人を殺す者のうちに、永遠のいのちがとどまっていることはないのです。"
+    },
+    {
+      "number": 16,
+      "ko": "그가 우리를 위하여 목숨을 버리셨으니 우리가 이로써 사랑을 알고 우리도 형제들을 위하여 목숨을 버리는 것이 마땅하니라",
+      "en": "This is how we know what love is: Jesus Christ laid down his life for us. And we ought to lay down our lives for our brothers.",
+      "de": "Daran haben wir erkannt die Liebe, daß er sein Leben für uns gelassen hat; und wir sollen auch das Leben für die Brüder lassen.",
+      "zh": "主为我们舍命，我们从此就知道何为爱；我们也当为弟兄舍命。",
+      "ja": "キリストは、私たちのために、ご自分のいのちをお捨てになりました。それによって私たちに愛がわかったのです。ですから私たちは、兄弟のために、いのちを捨てるべきです。"
+    },
+    {
+      "number": 17,
+      "ko": "누가 이 세상의 재물을 가지고 형제의 궁핍함을 보고도 도와 줄 마음을 닫으면 하나님의 사랑이 어찌 그 속에 거하겠느냐",
+      "en": "If anyone has material possessions and sees his brother in need but has no pity on him, how can the love of God be in him?",
+      "de": "Wenn aber jemand dieser Welt Güter hat und sieht seinen Bruder darben und schließt sein Herz vor ihm zu, wie bleibt die Liebe Gottes bei ihm?",
+      "zh": "凡有世上财物的，看见弟兄穷乏，却塞住怜恤的心，爱　神的心怎能存在他里面呢？",
+      "ja": "世の富を持ちながら、兄弟が困っているのを見ても、あわれみの心を閉ざすような者に、どうして神の愛がとどまっているでしょう。"
+    },
+    {
+      "number": 18,
+      "ko": "자녀들아 우리가 말과 혀로만 사랑하지 말고 행함과 진실함으로 하자",
+      "en": "Dear children, let us not love with words or tongue but with actions and in truth.",
+      "de": "Meine Kindlein, laßt uns nicht lieben mit Worten noch mit der Zunge, sondern mit der Tat und mit der Wahrheit.",
+      "zh": "小子们哪，我们相爱，不要只在言语和舌头上，总要在行为和诚实上。",
+      "ja": "子どもたちよ。私たちは、ことばや口先だけで愛することをせず、行ないと真実をもって愛そうではありませんか。"
+    },
+    {
+      "number": 19,
+      "ko": "이로써 우리가 진리에 속한 줄을 알고 또 우리 마음을 주 앞에서 굳세게 하리니",
+      "en": "This then is how we know that we belong to the truth, and how we set our hearts at rest in his presence",
+      "de": "Daran erkennen wir, daß wir aus der Wahrheit sind, und können unser Herz vor ihm damit stillen,",
+      "zh": "从此就知道我们是属真理的，并且我们的心在　神面前可以安稳。",
+      "ja": "それによって、私たちは、自分が真理に属するものであることを知り、そして、神の御前に心を安らかにされるのです。"
+    },
+    {
+      "number": 20,
+      "ko": "이는 우리 마음이 혹 우리를 책망할 일이 있어도 하나님은 우리 마음보다 크시고 모든 것을 아시기 때문이라",
+      "en": "whenever our hearts condemn us. For God is greater than our hearts, and he knows everything.",
+      "de": "daß, so uns unser Herz verdammt, Gott größer ist denn unser Herz und erkennt alle Dinge.",
+      "zh": "我们的心若责备我们，　神比我们的心大，一切事没有不知道的。",
+      "ja": "たとい自分の心が責めてもです。なぜなら、神は私たちの心よりも大きく、そして何もかもご存じだからです。"
+    },
+    {
+      "number": 21,
+      "ko": "사랑하는 자들아 만일 우리 마음이 우리를 책망할 것이 없으면 하나님 앞에서 담대함을 얻고",
+      "en": "Dear friends, if our hearts do not condemn us, we have confidence before God",
+      "de": "Ihr Lieben, so uns unser Herz nicht verdammt, so haben wir eine Freudigkeit zu Gott,",
+      "zh": "亲爱的弟兄啊，我们的心若不责备我们，就可以向　神坦然无惧了。",
+      "ja": "愛する者たち。もし自分の心に責められなければ、大胆に神の御前に出ることができ、"
+    },
+    {
+      "number": 22,
+      "ko": "무엇이든지 구하는 바를 그에게서 받나니 이는 우리가 그의 계명을 지키고 그 앞에서 기뻐하시는 것을 행함이라",
+      "en": "and receive from him anything we ask, because we obey his commands and do what pleases him.",
+      "de": "und was wir bitten, werden wir von ihm nehmen; denn wir halten seine Gebote und tun, was vor ihm gefällig ist.",
+      "zh": "并且我们一切所求的，就从他得着；因为我们遵守他的命令，行他所喜悦的事。",
+      "ja": "また求めるものは何でも神からいただくことができます。なぜなら、私たちが神の命令を守り、神に喜ばれることを行なっているからです。"
+    },
+    {
+      "number": 23,
+      "ko": "그의 계명은 이것이니 곧 그 아들 예수 그리스도의 이름을 믿고 그가 우리에게 주신 계명대로 서로 사랑할 것이니라",
+      "en": "And this is his command: to believe in the name of his Son, Jesus Christ, and to love one another as he commanded us.",
+      "de": "Und das ist sein Gebot, daß wir glauben an den Namen seines Sohnes Jesu Christi und lieben uns untereinander, wie er uns ein Gebot gegeben hat.",
+      "zh": "神的命令就是叫我们信他儿子耶稣基督的名，且照他所赐给我们的命令彼此相爱。",
+      "ja": "神の命令とは、私たちが御子イエス・キリストの御名を信じ、キリストが命じられたとおりに、私たちが互いに愛し合うことです。"
+    },
+    {
+      "number": 24,
+      "ko": "그의 계명을 지키는 자는 주 안에 거하고 주는 그의 안에 거하시나니 우리에게 주신 성령으로 말미암아 그가 우리 안에 거하시는 줄을 우리가 아느니라",
+      "en": "Those who obey his commands live in him, and he in them. And this is how we know that he lives in us: We know it by the Spirit he gave us.",
+      "de": "Und wer seine Gebote hält, der bleibt in ihm und er in ihm. Und daran erkennen wir, daß er in uns bleibt, an dem Geist, den er uns gegeben hat.",
+      "zh": "遵守　神命令的，就住在　神里面，　神也住在他里面。我们所以知道　神住在我们里面是因他所赐给我们的圣灵。",
+      "ja": "神の命令を守る者は神のうちにおり、神もまたその人のうちにおられます。神が私たちのうちにおられるということは、神が私たちに与えてくださった御霊によって知るのです。"
+    }
+  ]
+}

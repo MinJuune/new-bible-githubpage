@@ -1,0 +1,174 @@
+{
+  "book": "1 John",
+  "chapter": 5,
+  "verses": [
+    {
+      "number": 1,
+      "ko": "예수께서 그리스도이심을 믿는 자마다 하나님께로부터 난 자니 또한 낳으신 이를 사랑하는 자마다 그에게서 난 자를 사랑하느니라",
+      "en": "Everyone who believes that Jesus is the Christ is born of God, and everyone who loves the father loves his child as well.",
+      "de": "Wer da glaubt, daß Jesus sei der Christus, der ist von Gott geboren; und wer da liebt den, der ihn geboren hat, der liebt auch den, der von ihm geboren ist.",
+      "zh": "凡信耶稣是基督的，都是从　神而生，凡爱生他之　神的，也必爱从　神生的。",
+      "ja": "イエスがキリストであると信じる者はだれでも、神によって生まれたのです。生んでくださった方を愛する者はだれでも、その方によって生まれた者をも愛します。"
+    },
+    {
+      "number": 2,
+      "ko": "우리가 하나님을 사랑하고 그의 계명들을 지킬 때에 이로써 우리가 하나님의 자녀를 사랑하는 줄을 아느니라",
+      "en": "This is how we know that we love the children of God: by loving God and carrying out his commands.",
+      "de": "Daran erkennen wir, daß wir Gottes Kinder lieben, wenn wir Gott lieben und seine Gebote halten.",
+      "zh": "我们若爱　神，又遵守他的诫命，从此就知道我们爱　神的儿女。",
+      "ja": "私たちが神を愛してその命令を守るなら、そのことによって、私たちが神の子どもたちを愛していることがわかります。"
+    },
+    {
+      "number": 3,
+      "ko": "하나님을 사랑하는 것은 이것이니 우리가 그의 계명들을 지키는 것이라 그의 계명들은 무거운 것이 아니로다",
+      "en": "This is love for God: to obey his commands. And his commands are not burdensome,",
+      "de": "Denn das ist die Liebe zu Gott, daß wir seine Gebote halten; und seine Gebote sind nicht schwer.",
+      "zh": "我们遵守　神的诫命，这就是爱他了，并且他的诫命不是难守的。",
+      "ja": "神を愛するとは、神の命令を守ることです。その命令は重荷とはなりません。"
+    },
+    {
+      "number": 4,
+      "ko": "무릇 하나님께로부터 난 자마다 세상을 이기느니라 세상을 이기는 승리는 이것이니 우리의 믿음이니라",
+      "en": "for everyone born of God overcomes the world. This is the victory that has overcome the world, even our faith.",
+      "de": "Denn alles, was von Gott geboren ist, überwindet die Welt; und unser Glaube ist der Sieg, der die Welt überwunden hat.",
+      "zh": "因为凡从　神生的，就胜过世界；使我们胜了世界的，就是我们的信心。",
+      "ja": "なぜなら、神によって生まれた者はみな、世に勝つからです。私たちの信仰、これこそ、世に打ち勝った勝利です。"
+    },
+    {
+      "number": 5,
+      "ko": "예수께서 하나님의 아들이심을 믿는 자가 아니면 세상을 이기는 자가 누구냐",
+      "en": "Who is it that overcomes the world? Only he who believes that Jesus is the Son of God.",
+      "de": "Wer ist aber, der die Welt überwindet, wenn nicht, der da glaubt, daß Jesus Gottes Sohn ist?",
+      "zh": "胜过世界的是谁呢？不是那信耶稣是　神儿子的吗？",
+      "ja": "世に勝つ者とはだれでしょう。イエスを神の御子と信じる者ではありませんか。"
+    },
+    {
+      "number": 6,
+      "ko": "이는 물과 피로 임하신 이시니 곧 예수 그리스도시라 물로만 아니요 물과 피로 임하셨고 증언하는 이는 성령이시니 성령은 진리니라",
+      "en": "This is the one who came by water and blood--Jesus Christ. He did not come by water only, but by water and blood. And it is the Spirit who testifies, because the Spirit is the truth.",
+      "de": "Dieser ist's, der da kommt mit Wasser und Blut, Jesus Christus; nicht mit Wasser allein, sondern mit Wasser und Blut. Und der Geist ist's, der da zeugt; denn der Geist ist die Wahrheit.",
+      "zh": "这借着水和血而来的，就是耶稣基督；不是单用水，乃是用水又用血，",
+      "ja": "このイエス・キリストは、水と血とによって来られた方です。ただ水によってだけでなく、水と血とによって来られたのです。そして、あかしをする方は御霊です。御霊は真理だからです。"
+    },
+    {
+      "number": 7,
+      "ko": "증언하는 이가 셋이니",
+      "en": "For there are three that testify:",
+      "de": "Denn drei sind, die da zeugen: der Geist und das Wasser und das Blut;",
+      "zh": "并且有圣灵作见证，因为圣灵就是真理。",
+      "ja": "あかしするものが三つあります。"
+    },
+    {
+      "number": 8,
+      "ko": "성령과 물과 피라 또한 이 셋은 합하여 하나이니라",
+      "en": "the Spirit, the water and the blood; and the three are in agreement.",
+      "de": "und die drei sind beisammen.",
+      "zh": "作见证的原来有三：就是圣灵、水，与血，这三样也都归于一。",
+      "ja": "御霊と水と血です。この三つが一つとなるのです。"
+    },
+    {
+      "number": 9,
+      "ko": "만일 우리가 사람들의 증언을 받을진대 하나님의 증거는 더욱 크도다 하나님의 증거는 이것이니 그의 아들에 대하여 증언하신 것이니라",
+      "en": "We accept man's testimony, but God's testimony is greater because it is the testimony of God, which he has given about his Son.",
+      "de": "So wir der Menschen Zeugnis annehmen, so ist Gottes Zeugnis größer; denn Gottes Zeugnis ist das, das er gezeugt hat von seinem Sohn.",
+      "zh": "我们既领受人的见证，　神的见证更该领受了，因　神的见证是为他儿子作的。",
+      "ja": "もし、私たちが人間のあかしを受け入れるなら、神のあかしはそれにまさるものです。御子についてあかしされたことが神のあかしだからです。"
+    },
+    {
+      "number": 10,
+      "ko": "하나님의 아들을 믿는 자는 자기 안에 증거가 있고 하나님을 믿지 아니하는 자는 하나님을 거짓말하는 자로 만드나니 이는 하나님께서 그 아들에 대하여 증언하신 증거를 믿지 아니하였음이라",
+      "en": "Anyone who believes in the Son of God has this testimony in his heart. Anyone who does not believe God has made him out to be a liar, because he has not believed the testimony God has given about his Son.",
+      "de": "Wer da glaubt an den Sohn Gottes, der hat solches Zeugnis bei sich. Wer Gott nicht glaubt, der macht ihn zum Lügner; denn er glaubt nicht dem Zeugnis, das Gott zeugt von seinem Sohn.",
+      "zh": "信　神儿子的，就有这见证在他心里；不信　神的，就是将　神当作说谎的，因不信　神为他儿子作的见证。",
+      "ja": "神の御子を信じる者は、このあかしを自分の心の中に持っています。神を信じない者は、神を偽り者とするのです。神が御子についてあかしされたことを信じないからです。"
+    },
+    {
+      "number": 11,
+      "ko": "또 증거는 이것이니 하나님이 우리에게 영생을 주신 것과 이 생명이 그의 아들 안에 있는 그것이니라",
+      "en": "And this is the testimony: God has given us eternal life, and this life is in his Son.",
+      "de": "Und das ist das Zeugnis, daß uns Gott das ewige Leben hat gegeben; und solches Leben ist in seinem Sohn.",
+      "zh": "这见证就是　神赐给我们永生；这永生也是在他儿子里面。",
+      "ja": "そのあかしとは、神が私たちに永遠のいのちを与えられたということ、そしてこのいのちが御子のうちにあるということです。"
+    },
+    {
+      "number": 12,
+      "ko": "아들이 있는 자에게는 생명이 있고 하나님의 아들이 없는 자에게는 생명이 없느니라",
+      "en": "He who has the Son has life; he who does not have the Son of God does not have life.",
+      "de": "Wer den Sohn Gottes hat, der hat das Leben; wer den Sohn Gottes nicht hat, der hat das Leben nicht.",
+      "zh": "人有了　神的儿子就有生命，没有　神的儿子就没有生命。",
+      "ja": "御子を持つ者はいのちを持っており、神の御子を持たない者はいのちを持っていません。"
+    },
+    {
+      "number": 13,
+      "ko": "내가 하나님의 아들의 이름을 믿는 너희에게 이것을 쓰는 것은 너희로 하여금 너희에게 영생이 있음을 알게 하려 함이라",
+      "en": "I write these things to you who believe in the name of the Son of God so that you may know that you have eternal life.",
+      "de": "Solches habe ich euch geschrieben, die ihr glaubet an den Namen des Sohnes Gottes, auf daß ihr wisset, daß ihr das ewige Leben habt, und daß ihr glaubet an den Namen des Sohnes Gottes.",
+      "zh": "我将这些话写给你们信奉　神儿子之名的人，要叫你们知道自己有永生。",
+      "ja": "私が神の御子の名を信じているあなたがたに対してこれらのことを書いたのは、あなたがたが永遠のいのちを持っていることを、あなたがたによくわからせるためです。"
+    },
+    {
+      "number": 14,
+      "ko": "그를 향하여 우리가 가진 바 담대함이 이것이니 그의 뜻대로 무엇을 구하면 들으심이라",
+      "en": "This is the confidence we have in approaching God: that if we ask anything according to his will, he hears us.",
+      "de": "Und das ist die Freudigkeit, die wir haben zu ihm, daß, so wir etwas bitten nach seinem Willen, so hört er uns.",
+      "zh": "我们若照他的旨意求什么，他就听我们，这是我们向他所存坦然无惧的心。",
+      "ja": "何事でも神のみこころにかなう願いをするなら、神はその願いを聞いてくださるということ、これこそ神に対する私たちの確信です。"
+    },
+    {
+      "number": 15,
+      "ko": "우리가 무엇이든지 구하는 바를 들으시는 줄을 안즉 우리가 그에게 구한 그것을 얻은 줄을 또한 아느니라",
+      "en": "And if we know that he hears us--whatever we ask--we know that we have what we asked of him.",
+      "de": "Und so wir wissen, daß er uns hört, was wir bitten, so wissen wir, daß wir die Bitte haben, die wir von ihm gebeten haben.",
+      "zh": "既然知道他听我们一切所求的，就知道我们所求于他的，无不得着。",
+      "ja": "私たちの願う事を神が聞いてくださると知れば、神に願ったその事は、すでにかなえられたと知るのです。"
+    },
+    {
+      "number": 16,
+      "ko": "누구든지 형제가 사망에 이르지 아니하는 죄 범하는 것을 보거든 구하라 그리하면 사망에 이르지 아니하는 범죄자들을 위하여 그에게 생명을 주시리라 사망에 이르는 죄가 있으니 이에 관하여 나는 구하라 하지 않노라",
+      "en": "If anyone sees his brother commit a sin that does not lead to death, he should pray and God will give him life. I refer to those whose sin does not lead to death. There is a sin that leads to death. I am not saying that he should pray about that.",
+      "de": "So jemand sieht seinen Bruder sündigen eine Sünde nicht zum Tode, der mag bitten; so wird er geben das Leben denen, die da sündigen nicht zum Tode. Es gibt eine Sünde zum Tode; für die sage ich nicht, daß jemand bitte.",
+      "zh": "人若看见弟兄犯了不至于死的罪，就当为他祈求，　神必将生命赐给他；有至于死的罪，我不说当为这罪祈求。",
+      "ja": "だれでも兄弟が死に至らない罪を犯しているのを見たなら、神に求めなさい。そうすれば神はその人のために、死に至らない罪を犯している人々に、いのちをお与えになります。死に至る罪があります。この罪については、願うようにとは言いません。"
+    },
+    {
+      "number": 17,
+      "ko": "모든 불의가 죄로되 사망에 이르지 아니하는 죄도 있도다",
+      "en": "All wrongdoing is sin, and there is sin that does not lead to death.",
+      "de": "Alle Untugend ist Sünde; und es ist etliche Sünde nicht zum Tode.",
+      "zh": "凡不义的事都是罪，也有不至于死的罪。",
+      "ja": "不正はみな罪ですが、死に至らない罪があります。"
+    },
+    {
+      "number": 18,
+      "ko": "하나님께로부터 난 자는 다 범죄하지 아니하는 줄을 우리가 아노라 하나님께로부터 나신 자가 그를 지키시매 악한 자가 그를 만지지도 못하느니라",
+      "en": "We know that anyone born of God does not continue to sin; the one who was born of God keeps him safe, and the evil one cannot harm him.",
+      "de": "Wir wissen, daß, wer von Gott geboren ist, der sündigt nicht; sondern wer von Gott geboren ist, der bewahrt sich, und der Arge wird ihn nicht antasten.",
+      "zh": "我们知道凡从　神生的，必不犯罪，从　神生的，必保守自己，那恶者也就无法害他。",
+      "ja": "神によって生まれた者はだれも罪の中に生きないことを、私たちは知っています。神から生まれた方が彼を守っていてくださるので、悪い者は彼に触れることができないのです。"
+    },
+    {
+      "number": 19,
+      "ko": "또 아는 것은 우리는 하나님께 속하고 온 세상은 악한 자 안에 처한 것이며",
+      "en": "We know that we are children of God, and that the whole world is under the control of the evil one.",
+      "de": "Wir wissen, daß wir von Gott sind und die ganze Welt im Argen liegt.",
+      "zh": "我们知道，我们是属　神的，全世界都卧在那恶者手下。",
+      "ja": "私たちは神からの者であり、全世界は悪い者の支配下にあることを知っています。"
+    },
+    {
+      "number": 20,
+      "ko": "또 아는 것은 하나님의 아들이 이르러 우리에게 지각을 주사 우리로 참된 자를 알게 하신 것과 또한 우리가 참된 자 곧 그의 아들 예수 그리스도 안에 있는 것이니 그는 참 하나님이시요 영생이시라",
+      "en": "We know also that the Son of God has come and has given us understanding, so that we may know him who is true. And we are in him who is true--even in his Son Jesus Christ. He is the true God and eternal life.",
+      "de": "Wir wissen aber, daß der Sohn Gottes gekommen ist und hat uns einen Sinn gegeben, daß wir erkennen den Wahrhaftigen; und wir sind in dem Wahrhaftigen, in seinem Sohn Jesus Christus. Dieser ist der wahrhaftige Gott und das ewige Leben.",
+      "zh": "我们也知道，　神的儿子已经来到，且将智慧赐给我们，使我们认识那位真实的，我们也在那位真实的里面，就是在他儿子耶稣基督里面。这是真神，也是永生。",
+      "ja": "しかし、神の御子が来て、真実な方を知る理解力を私たちに与えてくださったことを知っています。それで私たちは、真実な方のうちに、すなわち御子イエス・キリストのうちにいるのです。この方こそ、まことの神、永遠のいのちです。"
+    },
+    {
+      "number": 21,
+      "ko": "자녀들아 너희 자신을 지켜 우상에게서 멀리하라",
+      "en": "Dear children, keep yourselves from idols.",
+      "de": "Kindlein, hütet euch vor den Abgöttern! Amen.",
+      "zh": "小子们哪，你们要自守，远避偶像！",
+      "ja": "子どもたちよ。偶像を警戒しなさい。"
+    }
+  ]
+}

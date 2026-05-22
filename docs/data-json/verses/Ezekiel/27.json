@@ -1,0 +1,294 @@
+{
+  "book": "Ezekiel",
+  "chapter": 27,
+  "verses": [
+    {
+      "number": 1,
+      "ko": "여호와의 말씀이 내게 임하여 이르시되",
+      "en": "The word of the LORD came to me:",
+      "de": "Und des HERRN Wort geschah zu mir und sprach:",
+      "zh": "耶和华的话又临到我说：",
+      "ja": "ヱホバの言また我に臨みて言ふ"
+    },
+    {
+      "number": 2,
+      "ko": "인자야 너는 두로를 위하여 슬픈 노래를 지으라",
+      "en": "\"Son of man, take up a lament concerning Tyre.",
+      "de": "Du Menschenkind, mach eine Wehklage über Tyrus",
+      "zh": "「人子啊，要为泰尔作起哀歌，",
+      "ja": "人の子よ汝ツロのために哀の詞を宣べ"
+    },
+    {
+      "number": 3,
+      "ko": "너는 두로를 향하여 이르기를 바다 어귀에 거주하면서 여러 섬 백성과 거래하는 자여 주 여호와께서 이같이 말씀하시되 두로야 네가 말하기를 나는 온전히 아름답다 하였도다",
+      "en": "Say to Tyre, situated at the gateway to the sea, merchant of peoples on many coasts, 'This is what the Sovereign LORD says: \"'You say, O Tyre, \"I am perfect in beauty.\"",
+      "de": "und sprich zu Tyrus, die da liegt vorn am Meer und mit vielen Inseln der Völker handelt: So spricht der Herr HERR: O Tyrus, du sprichst: Ich bin die Allerschönste.",
+      "zh": "说：你居住海口，是众民的商埠；你的交易通到许多的海岛。主耶和华如此说： 泰尔啊，你曾说： 我是全然美丽的。",
+      "ja": "ツロに言べし汝海の口に居りて諸の國人の商人となり多衆の島々に通ふ者よ主ヱホバかく言たまふツロよ汝言ふ我の美は極れりと"
+    },
+    {
+      "number": 4,
+      "ko": "네 땅이 바다 가운데에 있음이여 너를 지은 자가 네 아름다움을 온전하게 하였도다",
+      "en": "Your domain was on the high seas; your builders brought your beauty to perfection.",
+      "de": "Deine Grenzen sind mitten im Meer und deine Bauleute haben dich aufs allerschönste zugerichtet.",
+      "zh": "你的境界在海中， 造你的使你全然美丽。",
+      "ja": "汝の國は海の中にあり汝を建る者汝の美を盡せり"
+    },
+    {
+      "number": 5,
+      "ko": "스닐의 잣나무로 네 판자를 만들었음이여 너를 위하여 레바논의 백향목을 가져다 돛대를 만들었도다",
+      "en": "They made all your timbers of pine trees from Senir; they took a cedar from Lebanon to make a mast for you.",
+      "de": "Sie haben all dein Tafelwerk aus Zypressenholz vom Senir gemacht und die Zedern vom Libanon führen lassen und deine Mastbäume daraus gemacht",
+      "zh": "他们用示尼珥的松树做你的一切板， 用黎巴嫩的香柏树做桅杆，",
+      "ja": "人セニルの樅をもて船板を作りレバノンより香柏を取て汝のために檣を作り"
+    },
+    {
+      "number": 6,
+      "ko": "바산의 상수리나무로 네 노를 만들었음이여 깃딤 섬 황양목에 상아로 꾸며 갑판을 만들었도다",
+      "en": "Of oaks from Bashan they made your oars; of cypress wood from the coasts of Cyprus they made your deck, inlaid with ivory.",
+      "de": "und deine Ruder von Eichen aus Basan und deine Bänke von Elfenbein, gefaßt in Buchsbaumholz aus den Inseln der Chittiter.",
+      "zh": "用巴珊的橡树做你的桨， 用象牙镶嵌基提海岛的黄杨木为坐板。",
+      "ja": "バシヤンの樫をもて汝の漿を作りキッテムの島より至れる黄楊に象牙を嵌て汝の坐板を作れり"
+    },
+    {
+      "number": 7,
+      "ko": "애굽의 수 놓은 가는 베로 돛을 만들어 깃발을 삼았음이여 엘리사 섬의 청색 자색 베로 차일을 만들었도다",
+      "en": "Fine embroidered linen from Egypt was your sail and served as your banner; your awnings were of blue and purple from the coasts of Elishah.",
+      "de": "Dein Segel war von gestickter, köstlicher Leinwand aus Ägypten, daß es dein Panier wäre, und deine Decken von blauem und rotem Purpur aus den Inseln Elisa.",
+      "zh": "你的篷帆是用埃及绣花细麻布做的， 可以做你的大旗； 你的凉棚是用以利沙岛的蓝色、紫色布做的。",
+      "ja": "汝の帆はエジプトより至れる文布にして旗に用ふべし汝の天遮はエリシヤの島より至れる藍と紫の布なり"
+    },
+    {
+      "number": 8,
+      "ko": "시돈과 아르왓 주민들이 네 사공이 되었음이여 두로야 네 가운데에 있는 지혜자들이 네 선장이 되었도다",
+      "en": "Men of Sidon and Arvad were your oarsmen; your skilled men, O Tyre, were aboard as your seamen.",
+      "de": "Die von Sidon und Arvad waren deine Ruderknechte, und hattest geschickte Leute zu Tyrus, zu schiffen.",
+      "zh": "西顿和亚发的居民作你荡桨的。 泰尔啊，你中间的智慧人作掌舵的。",
+      "ja": "汝の水手はシドンとアルワデの人なりツロよ汝の中にある賢き者汝の舵師となる"
+    },
+    {
+      "number": 9,
+      "ko": "그발의 노인들과 지혜자들이 네 가운데에서 배의 틈을 막는 자가 되었음이여 바다의 모든 배와 그 사공들은 네 가운데에서 무역하였도다",
+      "en": "Veteran craftsmen of Gebal were on board as shipwrights to caulk your seams. All the ships of the sea and their sailors came alongside to trade for your wares.",
+      "de": "Die Ältesten und Klugen von Gebal mußten deine Risse bessern. Alle Schiffe im Meer und ihre Schiffsleute fand man bei dir; die hatten ihren Handel in dir.",
+      "zh": "迦巴勒的老者和聪明人 都在你中间作补缝的； 一切泛海的船只和水手 都在你中间经营交易的事。",
+      "ja": "ゲバルの老人等およびその賢き者汝の中にをりて汝の漏を繕ひ海の諸の船およびその舟子汝の中にありて汝の貨物を交易す"
+    },
+    {
+      "number": 10,
+      "ko": "바사와 룻과 붓이 네 군대 가운데에서 병정이 되었음이여 네 가운데에서 방패와 투구를 달아 네 영광을 나타냈도다",
+      "en": "\"'Men of Persia, Lydia and Put served as soldiers in your army. They hung their shields and helmets on your walls, bringing you splendor.",
+      "de": "Die aus Persien, Lud und Lybien waren dein Kriegsvolk, die ihre Schilde und Helme in dir aufhingen und haben dich so schön geschmückt.",
+      "zh": "「波斯人、路德人、弗人在你军营中作战士；他们在你中间悬挂盾牌和头盔，彰显你的尊荣。",
+      "ja": "ペルシヤ人ルデ人フテ人汝の軍にありて汝の戰士となる彼等汝の中に干と兜を懸け汝に光輝を與ふ"
+    },
+    {
+      "number": 11,
+      "ko": "아르왓 사람과 네 군대는 네 사방 성 위에 있었고 용사들은 네 여러 망대에 있었음이여 네 사방 성 위에 방패를 달아 네 아름다움을 온전하게 하였도다",
+      "en": "Men of Arvad and Helech manned your walls on every side; men of Gammad were in your towers. They hung their shields around your walls; they brought your beauty to perfection.",
+      "de": "Die von Arvad waren unter deinem Heer rings um die Mauern und Wächter auf deinen Türmen; die haben ihre Schilde allenthalben von deinen Mauern herabgehängt und dich so schön geschmückt.",
+      "zh": "亚发人和你的军队都在你四围的墙上，你的望楼也有勇士；他们悬挂盾牌，成全你的美丽。",
+      "ja": "アルワデの人々および汝の軍勢汝の四周の石垣の上にあり勇士等汝の櫓にあり彼等汝の四周の石垣にその楯をかけ汝の美を盡せり"
+    },
+    {
+      "number": 12,
+      "ko": "다시스는 각종 보화가 풍부하므로 너와 거래하였음이여 은과 철과 주석과 납을 네 물품과 바꾸어 갔도다",
+      "en": "\"'Tarshish did business with you because of your great wealth of goods; they exchanged silver, iron, tin and lead for your merchandise.",
+      "de": "Tharsis hat dir mit seinem Handel gehabt und allerlei Waren, Silber, Eisen, Zinn und Blei auf die Märkte gebracht.",
+      "zh": "「他施人因你多有各类的财物，就作你的客商，拿银、铁、锡、铅兑换你的货物。",
+      "ja": "その諸の貨物に富るがためにタルシシ汝と商をなし銀 鐵 錫および鉛をもて汝と交易を爲り"
+    },
+    {
+      "number": 13,
+      "ko": "야완과 두발과 메섹은 네 상인이 되었음이여 사람과 놋그릇을 가지고 네 상품을 바꾸어 갔도다",
+      "en": "\"'Greece, Tubal and Meshech traded with you; they exchanged slaves and articles of bronze for your wares.",
+      "de": "Javan, Thubal und Mesech haben mit dir gehandelt und haben dir leibeigene Leute und Geräte von Erz auf deine Märkte gebracht.",
+      "zh": "雅完人、土巴人、米设人都与你交易；他们用人口和铜器兑换你的货物。",
+      "ja": "ヤワン、トバルおよびメセクは汝の商賈にして人の身と銅の器をもて汝と貿易を行ふ"
+    },
+    {
+      "number": 14,
+      "ko": "도갈마 족속은 말과 군마와 노새를 네 물품과 바꾸었으며",
+      "en": "\"'Men of Beth Togarmah exchanged work horses, war horses and mules for your merchandise.",
+      "de": "Die von Thogarma haben dir Rosse und Wagenpferde und Maulesel auf deine Märkte gebracht.",
+      "zh": "陀迦玛族用马和战马并骡子兑换你的货物。",
+      "ja": "トガルマの族馬と騎馬および騾をもて汝と交易し"
+    },
+    {
+      "number": 15,
+      "ko": "드단 사람은 네 상인이 되었음이여 여러 섬이 너와 거래하여 상아와 박달나무를 네 물품과 바꾸어 갔도다",
+      "en": "\"'The men of Rhodes traded with you, and many coastlands were your customers; they paid you with ivory tusks and ebony.",
+      "de": "Die von Dedan sind deine Händler gewesen, und hast allenthalben in den Inseln gehandelt; die haben dir Elfenbein und Ebenholz verkauft.",
+      "zh": "底但人与你交易，许多海岛作你的码头；他们拿象牙、乌木与你兑换。",
+      "ja": "デダンの人々汝と商をなせり衆の島々汝の手にありて交易し象牙と黑檀をもて汝と貿易せり"
+    },
+    {
+      "number": 16,
+      "ko": "너의 제품이 풍부하므로 아람은 너와 거래하였음이여 남보석과 자색 베와 수 놓은 것과 가는 베와 산호와 홍보석을 네 물품과 바꾸어 갔도다",
+      "en": "\"'Aram did business with you because of your many products; they exchanged turquoise, purple fabric, embroidered work, fine linen, coral and rubies for your merchandise.",
+      "de": "Die Syrer haben bei dir geholt deine Arbeit, was du gemacht hast, und Rubine, Purpur, Teppiche, feine Leinwand und Korallen und Kristalle auf deine Märkte gebracht.",
+      "zh": "亚兰人因你的工作很多，就作你的客商；他们用绿宝石、紫色布绣货、细麻布、珊瑚、红宝石兑换你的货物。",
+      "ja": "汝の製造品の多がためにスリア汝と商をなし赤玉 紫貨 繡貨 細布 珊瑚および瑪瑙をもて汝と交易す"
+    },
+    {
+      "number": 17,
+      "ko": "유다와 이스라엘 땅 사람이 네 상인이 되었음이여 민닛 밀과 과자와 꿀과 기름과 유향을 네 물품과 바꾸어 갔도다",
+      "en": "\"'Judah and Israel traded with you; they exchanged wheat from Minnith and confections, honey, oil and balm for your wares.",
+      "de": "Juda und das Land Israel haben auch mit dir gehandelt und haben Weizen von Minnith und Balsam und Honig und Öl und Mastix auf deine Märkte gebracht.",
+      "zh": "犹大和以色列地的人都与你交易；他们用米匿的麦子、饼、蜜、油、乳香兑换你的货物。",
+      "ja": "ユダとイスラエルの地汝に商をなしミンニテの麥と菓子と蜜と油と乳香をもて汝と交易す"
+    },
+    {
+      "number": 18,
+      "ko": "너의 제품이 많고 각종 보화가 풍부하므로 다메섹이 너와 거래하였음이여 헬본 포도주와 흰 양털을 너와 거래하였도다",
+      "en": "\"'Damascus, because of your many products and great wealth of goods, did business with you in wine from Helbon and wool from Zahar.",
+      "de": "Dazu hat auch Damaskus bei dir geholt deine Arbeit und allerlei Ware um Wein von Helbon und köstliche Wolle.",
+      "zh": "大马士革人因你的工作很多，又因你多有各类的财物，就拿黑本酒和白羊毛与你交易。",
+      "ja": "汝の製造物の多がため諸の貨物の多きがためにダマスコ、ヘルボンの酒と曝毛をもて汝と交易せり"
+    },
+    {
+      "number": 19,
+      "ko": "워단과 야완은 길쌈하는 실로 네 물품을 거래하였음이여 가공한 쇠와 계피와 대나무 제품이 네 상품 중에 있었도다",
+      "en": "\"'Danites and Greeks from Uzal bought your merchandise; they exchanged wrought iron, cassia and calamus for your wares.",
+      "de": "Dan und Javan und Mehusal haben auch auf deine Märkte gebracht Eisenwerk, Kassia und Kalmus, daß du damit handeltest.",
+      "zh": "威但人和雅完人拿纺成的线、亮铁、桂皮、菖蒲兑换你的货物。",
+      "ja": "ウザルのベダンとヤワン熟鐵をもて汝と交易す肉桂と菖蒲汝の市にあり"
+    },
+    {
+      "number": 20,
+      "ko": "드단은 네 상인이 되었음이여 말을 탈 때 까는 천을 너와 거래하였도다",
+      "en": "\"'Dedan traded in saddle blankets with you.",
+      "de": "Dedan hat mit dir gehandelt mit Decken zum Reiten.",
+      "zh": "底但人用高贵的毯子、鞍、屉与你交易。",
+      "ja": "デダン車の毛氈を汝に商へり"
+    },
+    {
+      "number": 21,
+      "ko": "아라비아와 게달의 모든 고관은 네 손아래 상인이 되어 어린 양과 숫양과 염소들, 그것으로 너와 거래하였도다",
+      "en": "\"'Arabia and all the princes of Kedar were your customers; they did business with you in lambs, rams and goats.",
+      "de": "Arabien und alle Fürsten von Kedar haben mit dir gehandelt mit Schafen, Widdern und Böcken.",
+      "zh": "阿拉伯人和基达的一切首领都作你的客商，用羊羔、公绵羊、公山羊与你交易。",
+      "ja": "アラビヤとケダルの君等とは汝の手に在りて商をなし羔羊と牡羊と牡山羊をもて汝と交易す"
+    },
+    {
+      "number": 22,
+      "ko": "스바와 라아마의 상인들도 너의 상인들이 됨이여 각종 극상품 향 재료와 각종 보석과 황금으로 네 물품을 바꾸어 갔도다",
+      "en": "\"'The merchants of Sheba and Raamah traded with you; for your merchandise they exchanged the finest of all kinds of spices and precious stones, and gold.",
+      "de": "Die Kaufleute aus Saba und Ragma haben mit dir gehandelt und allerlei köstliche Spezerei und Edelsteine und Gold auf deine Märkte gebracht.",
+      "zh": "示巴和拉玛的商人与你交易，他们用各类上好的香料、各类的宝石，和黄金兑换你的货物。",
+      "ja": "シバとラアマの商人汝と商をなし諸の貴き香料と諸の寶石と金をもて汝と交易せり"
+    },
+    {
+      "number": 23,
+      "ko": "하란과 간네와 에덴과 스바와 앗수르와 길맛의 장사꾼들도 너의 상인들이라",
+      "en": "\"'Haran, Canneh and Eden and merchants of Sheba, Asshur and Kilmad traded with you.",
+      "de": "Haran und Kanne und Eden samt den Kaufleuten aus Seba, Assur und Kilmad sind auch deine Händler gewesen.",
+      "zh": "哈兰人、干尼人、伊甸人、示巴的商人，和亚述人、基抹人与你交易。",
+      "ja": "ハランとカンネとエデンとシバの商賈とアツスリヤとキルマデ汝と商をなし"
+    },
+    {
+      "number": 24,
+      "ko": "이들이 아름다운 물품 곧 청색 옷과 수 놓은 물품과 빛난 옷을 백향목 상자에 담고 노끈으로 묶어 가지고 너와 거래하여 네 물품을 바꾸어 갔도다",
+      "en": "In your marketplace they traded with you beautiful garments, blue fabric, embroidered work and multicolored rugs with cords twisted and tightly knotted.",
+      "de": "Die haben alle mit dir gehandelt mit köstlichem Gewand, mit purpurnen und gestickten Tüchern, welche sie in köstlichen Kasten, von Zedern gemacht und wohl verwahrt, auf deine Märkte geführt haben.",
+      "zh": "这些商人以美好的货物包在绣花蓝色包袱内，又有华丽的衣服装在香柏木的箱子里，用绳捆着与你交易。",
+      "ja": "華美なる物と紫色なる繡の衣服と香柏の箱の綾を盛て紐にて結たる者とをもて汝の市にあり"
+    },
+    {
+      "number": 25,
+      "ko": "다시스의 배는 떼를 지어 네 화물을 나르니 네가 바다 중심에서 풍부하여 영화가 매우 크도다",
+      "en": "\"'The ships of Tarshish serve as carriers for your wares. You are filled with heavy cargo in the heart of the sea.",
+      "de": "Aber die Tharsisschiffe sind die vornehmsten auf deinen Märkten gewesen. Also bist du sehr reich und prächtig geworden mitten im Meer.",
+      "zh": "他施的船只接连成帮为你运货， 你便在海中丰富极其荣华。",
+      "ja": "タルシシの船汝のために往來して商賣を爲す汝は海の中にありて豐滿にして榮あり"
+    },
+    {
+      "number": 26,
+      "ko": "네 사공이 너를 인도하여 큰 물에 이르게 함이여 동풍이 바다 한가운데에서 너를 무찔렀도다",
+      "en": "Your oarsmen take you out to the high seas. But the east wind will break you to pieces in the heart of the sea.",
+      "de": "Deine Ruderer haben dich oft auf große Wasser geführt; ein Ostwind wird dich mitten auf dem Meer zerbrechen,",
+      "zh": "荡桨的已经把你荡到大水之处， 东风在海中将你打破。",
+      "ja": "水手汝を蕩て大水の中にいたるに海の中にて東風汝を打破る"
+    },
+    {
+      "number": 27,
+      "ko": "네 재물과 상품과 바꾼 물건과 네 사공과 선장과 네 배의 틈을 막는 자와 네 상인과 네 가운데에 있는 모든 용사와 네 가운데에 있는 모든 무리가 네가 패망하는 날에 다 바다 한가운데에 빠질 것임이여",
+      "en": "Your wealth, merchandise and wares, your mariners, seamen and shipwrights, your merchants and all your soldiers, and everyone else on board will sink into the heart of the sea on the day of your shipwreck.",
+      "de": "also daß dein Reichtum, dein Kaufgut, deine Ware, deine Schiffsleute, deine Schiffsherren und die, so deine Risse bessern und die deinen Handel treiben und alle deine Kriegsleute und alles Volk in dir mitten auf dem Meer umkommen werden zur Zeit, wann du untergehst;",
+      "zh": "你的资财、物件、货物、 水手、掌舵的、 补缝的、经营交易的， 并你中间的战士和人民， 在你破坏的日子必都沉在海中。",
+      "ja": "汝の財寶汝の商貨物汝の交易の物汝の舟子汝の舵師汝の漏を繕ふ者汝の貨物を商ふ者汝の中にあるところの凡ての軍人並に汝の中の乗者みな汝の壞るる日に海の中に陷るべし"
+    },
+    {
+      "number": 28,
+      "ko": "네 선장이 부르짖는 소리에 물결이 흔들리리로다",
+      "en": "The shorelands will quake when your seamen cry out.",
+      "de": "daß auch die Anfurten erbeben werden vor dem Geschrei deiner Schiffsherren.",
+      "zh": "你掌舵的呼号之声一发， 郊野都必震动。",
+      "ja": "汝の舵師等の叫號の聲にその處々震ふ"
+    },
+    {
+      "number": 29,
+      "ko": "노를 잡은 모든 자와 사공과 바다의 선장들이 다 배에서 내려 언덕에 서서",
+      "en": "All who handle the oars will abandon their ships; the mariners and all the seamen will stand on the shore.",
+      "de": "Und alle, die an den Rudern ziehen, samt den Schiffsknechten und Meistern werden aus ihren Schiffen ans Land treten",
+      "zh": "凡荡桨的和水手， 并一切泛海掌舵的， 都必下船登岸。",
+      "ja": "凡て棹を執る者舟子および凡て海の舵師その船より下りて陸に立ち"
+    },
+    {
+      "number": 30,
+      "ko": "너를 위하여 크게 소리 질러 통곡하고 티끌을 머리에 덮어쓰며 재 가운데에 뒹굴며",
+      "en": "They will raise their voice and cry bitterly over you; they will sprinkle dust on their heads and roll in ashes.",
+      "de": "und laut über dich schreien, bitterlich klagen und werden Staub auf ihre Häupter werfen und sich in der Asche wälzen.",
+      "zh": "他们必为你放声痛哭， 把尘土撒在头上， 在灰中打滚；",
+      "ja": "汝のために聲を擧げて痛く哭き塵を首に蒙り灰の中に輾轉び"
+    },
+    {
+      "number": 31,
+      "ko": "그들이 다 너를 위하여 머리털을 밀고 굵은 베로 띠를 띠고 마음이 아프게 슬피 통곡하리로다",
+      "en": "They will shave their heads because of you and will put on sackcloth. They will weep over you with anguish of soul and with bitter mourning.",
+      "de": "Sie werden sich kahl scheren über dir und Säcke um sich gürten und von Herzen bitterlich um dich weinen und trauern.",
+      "zh": "又为你使头上光秃， 用麻布束腰， 号咷痛哭， 苦苦悲哀。",
+      "ja": "汝のために髮を剃り麻布を纏ひ汝のために心を痛めて泣き甚く哭くべし"
+    },
+    {
+      "number": 32,
+      "ko": "그들이 통곡할 때에 너를 위하여 슬픈 노래를 불러 애도하여 말하기를 두로와 같이 바다 가운데에서 적막한 자 누구인고",
+      "en": "As they wail and mourn over you, they will take up a lament concerning you: \"Who was ever silenced like Tyre, surrounded by the sea?\"",
+      "de": "Es werden auch ihre Kinder über dich wehklagen: Ach! wer ist jemals auf dem Meer so still geworden wie du, Tyrus?",
+      "zh": "他们哀号的时候， 为你作起哀歌哀哭， 说：有何城如泰尔？ 有何城如她在海中成为寂寞的呢？",
+      "ja": "彼等悲みて汝のために哀の詞を宣べ汝を弔ひて言ふ孰かツロの如くなる海の中に滅びたる者の如くなると"
+    },
+    {
+      "number": 33,
+      "ko": "네 물품을 바다로 실어 낼 때에 네가 여러 백성을 풍족하게 하였음이여 네 재물과 무역품이 많으므로 세상 왕들을 풍부하게 하였었도다",
+      "en": "When your merchandise went out on the seas, you satisfied many nations; with your great wealth and your wares you enriched the kings of the earth.",
+      "de": "Da du deinen Handel auf dem Meer triebst, da machtest du viele Länder reich, ja, mit der Menge deiner Ware und deiner Kaufmannschaft machtest du reich die Könige auf Erden.",
+      "zh": "你由海上运出货物， 就使许多国民充足； 你以许多资财、货物 使地上的君王丰富。",
+      "ja": "汝の商貨の海より出し時は汝衆多の國民を厭しめ汝の衆多の財寶と貨物をもて世の王等を富しめたりしが"
+    },
+    {
+      "number": 34,
+      "ko": "네가 바다 깊은 데에서 파선한 때에 네 무역품과 네 승객이 다 빠졌음이여",
+      "en": "Now you are shattered by the sea in the depths of the waters; your wares and all your company have gone down with you.",
+      "de": "Nun aber bist du vom Meer in die rechten, tiefen Wasser gestürzt, daß dein Handel und all dein Volk in dir umgekommen ist.",
+      "zh": "你在深水中被海浪打破的时候， 你的货物和你中间的一切人民， 就都沉下去了。",
+      "ja": "汝海に壞れて深き水にあらん時は汝の貨物汝の乗人みな陷らん"
+    },
+    {
+      "number": 35,
+      "ko": "섬의 주민들이 너로 말미암아 놀라고 왕들이 심히 두려워하여 얼굴에 근심이 가득하도다",
+      "en": "All who live in the coastlands are appalled at you; their kings shudder with horror and their faces are distorted with fear.",
+      "de": "Alle die auf den Inseln wohnen, erschrecken über dich, und ihre Könige entsetzen sich und sehen jämmerlich.",
+      "zh": "海岛的居民为你惊奇； 他们的君王都甚恐慌， 面带愁容。",
+      "ja": "島々に住る者皆汝に駭かんその君等大に恐れてその面を振はすべし"
+    },
+    {
+      "number": 36,
+      "ko": "많은 민족의 상인들이 다 너를 비웃음이여 네가 공포의 대상이 되고 네가 영원히 다시 있지 못하리라 하셨느니라",
+      "en": "The merchants among the nations hiss at you; you have come to a horrible end and will be no more.'\"",
+      "de": "Die Kaufleute in den Ländern pfeifen dich an, daß du so plötzlich untergegangen bist und nicht mehr aufkommen kannst.",
+      "zh": "各国民中的客商都向你发嘶声； 你令人惊恐， 不再存留于世，直到永远。」",
+      "ja": "國々の商賈汝のために嘶かん汝は人の戒懼となり限りなく失果ん"
+    }
+  ]
+}

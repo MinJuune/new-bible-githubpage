@@ -1,0 +1,262 @@
+{
+  "book": "Romans",
+  "chapter": 1,
+  "verses": [
+    {
+      "number": 1,
+      "ko": "예수 그리스도의 종 바울은 사도로 부르심을 받아 하나님의 복음을 위하여 택정함을 입었으니",
+      "en": "Paul, a servant of Christ Jesus, called to be an apostle and set apart for the gospel of God--",
+      "de": "Paulus, ein Knecht Jesu Christi, berufen zum Apostel, ausgesondert, zu predigen das Evangelium Gottes,",
+      "zh": "耶稣基督的仆人保罗，奉召为使徒，特派传　神的福音。",
+      "ja": "神の福音のために選び分けられ、使徒として召されたキリスト・イエスのしもべパウロ、"
+    },
+    {
+      "number": 2,
+      "ko": "이 복음은 하나님이 선지자들을 통하여 그의 아들에 관하여 성경에 미리 약속하신 것이라",
+      "en": "the gospel he promised beforehand through his prophets in the Holy Scriptures",
+      "de": "welches er zuvor verheißen hat durch seine Propheten in der heiligen Schrift,",
+      "zh": "这福音是　神从前借众先知在圣经上所应许的，",
+      "ja": "――この福音は、神がその預言者たちを通して、聖書において前から約束されたもので、"
+    },
+    {
+      "number": 3,
+      "ko": "그의 아들에 관하여 말하면 육신으로는 다윗의 혈통에서 나셨고",
+      "en": "regarding his Son, who as to his human nature was a descendant of David,",
+      "de": "von seinem Sohn, der geboren ist von dem Samen Davids nach dem Fleisch",
+      "zh": "论到他儿子—我主耶稣基督。按肉体说，是从大卫后裔生的；",
+      "ja": "御子に関することです。御子は、肉によればダビデの子孫として生まれ、"
+    },
+    {
+      "number": 4,
+      "ko": "성결의 영으로는 죽은 자들 가운데서 부활하사 능력으로 하나님의 아들로 선포되셨으니 곧 우리 주 예수 그리스도시니라",
+      "en": "and who through the Spirit of holiness was declared with power to be the Son of God by his resurrection from the dead: Jesus Christ our Lord.",
+      "de": "und kräftig erwiesen als ein Sohn Gottes nach dem Geist, der da heiligt, seit der Zeit, da er auferstanden ist von den Toten, Jesus Christus, unser HERR,",
+      "zh": "按圣善的灵说，因从死里复活，以大能显明是　神的儿子。",
+      "ja": "きよい御霊によれば、死者の中からの復活により、大能によって公に神の御子として示された方、私たちの主イエス・キリストです。"
+    },
+    {
+      "number": 5,
+      "ko": "그로 말미암아 우리가 은혜와 사도의 직분을 받아 그의 이름을 위하여 모든 이방인 중에서 믿어 순종하게 하나니",
+      "en": "Through him and for his name's sake, we received grace and apostleship to call people from among all the Gentiles to the obedience that comes from faith.",
+      "de": "durch welchen wir haben empfangen Gnade und Apostelamt, unter allen Heiden den Gehorsam des Glaubens aufzurichten unter seinem Namen,",
+      "zh": "我们从他受了恩惠并使徒的职分，在万国之中叫人为他的名信服真道；",
+      "ja": "このキリストによって、私たちは恵みと使徒の務めを受けました。それは、御名のためにあらゆる国の人々の中に信仰の従順をもたらすためなのです。"
+    },
+    {
+      "number": 6,
+      "ko": "너희도 그들 중에서 예수 그리스도의 것으로 부르심을 받은 자니라",
+      "en": "And you also are among those who are called to belong to Jesus Christ.",
+      "de": "unter welchen ihr auch seid, die da berufen sind von Jesu Christo,",
+      "zh": "其中也有你们这蒙召属耶稣基督的人。",
+      "ja": "あなたがたも、それらの人々の中にあって、イエス・キリストによって召された人々です。――このパウロから、"
+    },
+    {
+      "number": 7,
+      "ko": "로마에서 하나님의 사랑하심을 받고 성도로 부르심을 받은 모든 자에게 하나님 우리 아버지와 주 예수 그리스도로부터 은혜와 평강이 있기를 원하노라",
+      "en": "To all in Rome who are loved by God and called to be saints: Grace and peace to you from God our Father and from the Lord Jesus Christ.",
+      "de": "allen, die zu Rom sind, den Liebsten Gottes und berufenen Heiligen: Gnade sei mit euch und Friede von Gott, unserm Vater, und dem HERRN Jesus Christus!",
+      "zh": "我写信给你们在罗马、为　神所爱、奉召作圣徒的众人。愿恩惠、平安从我们的父　神并主耶稣基督归与你们！",
+      "ja": "ローマにいるすべての、神に愛されている人々、召された聖徒たちへ。 私たちの父なる神と主イエス・キリストから恵みと平安があなたがたの上にありますように。"
+    },
+    {
+      "number": 8,
+      "ko": "먼저 내가 예수 그리스도로 말미암아 너희 모든 사람에 관하여 내 하나님께 감사함은 너희 믿음이 온 세상에 전파됨이로다",
+      "en": "First, I thank my God through Jesus Christ for all of you, because your faith is being reported all over the world.",
+      "de": "Aufs erste danke ich meinem Gott durch Jesum Christum euer aller halben, daß man von eurem Glauben in aller Welt sagt.",
+      "zh": "第一，我靠着耶稣基督，为你们众人感谢我的　神，因你们的信德传遍了天下。",
+      "ja": "まず第一に、あなたがたすべてのために、私はイエス・キリストによって私の神に感謝します。それは、あなたがたの信仰が全世界に言い伝えられているからです。"
+    },
+    {
+      "number": 9,
+      "ko": "내가 그의 아들의 복음 안에서 내 심령으로 섬기는 하나님이 나의 증인이 되시거니와 항상 내 기도에 쉬지 않고 너희를 말하며",
+      "en": "God, whom I serve with my whole heart in preaching the gospel of his Son, is my witness how constantly I remember you",
+      "de": "Denn Gott ist mein Zeuge, welchem ich diene in meinem Geist am Evangelium von seinem Sohn, daß ich ohne Unterlaß euer gedenke",
+      "zh": "我在他儿子福音上，用心灵所事奉的　神可以见证，我怎样不住地提到你们；",
+      "ja": "私が御子の福音を宣べ伝えつつ霊をもって仕えている神があかししてくださることですが、私はあなたがたのことを思わぬ時はなく、"
+    },
+    {
+      "number": 10,
+      "ko": "어떻게 하든지 이제 하나님의 뜻 안에서 너희에게로 나아갈 좋은 길 얻기를 구하노라",
+      "en": "in my prayers at all times; and I pray that now at last by God's will the way may be opened for me to come to you.",
+      "de": "und allezeit in meinem Gebet flehe, ob sich's einmal zutragen wollte, daß ich zu euch käme durch Gottes Willen.",
+      "zh": "在祷告之间常常恳求，或者照　神的旨意，终能得平坦的道路往你们那里去。",
+      "ja": "いつも祈りのたびごとに、神のみこころによって、何とかして、今度はついに道が開かれて、あなたがたのところに行けるようにと願っています。"
+    },
+    {
+      "number": 11,
+      "ko": "내가 너희 보기를 간절히 원하는 것은 어떤 신령한 은사를 너희에게 나누어 주어 너희를 견고하게 하려 함이니",
+      "en": "I long to see you so that I may impart to you some spiritual gift to make you strong--",
+      "de": "Denn mich verlangt, euch zu sehen, auf daß ich euch mitteile etwas geistlicher Gabe, euch zu stärken;",
+      "zh": "因为我切切地想见你们，要把些属灵的恩赐分给你们，使你们可以坚固；",
+      "ja": "私があなたがたに会いたいと切に望むのは、御霊の賜物をいくらかでもあなたがたに分けて、あなたがたを強くしたいからです。"
+    },
+    {
+      "number": 12,
+      "ko": "이는 곧 내가 너희 가운데서 너희와 나의 믿음으로 말미암아 피차 안위함을 얻으려 함이라",
+      "en": "that is, that you and I may be mutually encouraged by each other's faith.",
+      "de": "das ist, daß ich samt euch getröstet würde durch euren und meinen Glauben, den wir untereinander haben.",
+      "zh": "这样，我在你们中间，因你与我彼此的信心，就可以同得安慰。",
+      "ja": "というよりも、あなたがたの間にいて、あなたがたと私との互いの信仰によって、ともに励ましを受けたいのです。"
+    },
+    {
+      "number": 13,
+      "ko": "형제들아 내가 여러 번 너희에게 가고자 한 것을 너희가 모르기를 원하지 아니하노니 이는 너희 중에서도 다른 이방인 중에서와 같이 열매를 맺게 하려 함이로되 지금까지 길이 막혔도다",
+      "en": "I do not want you to be unaware, brothers, that I planned many times to come to you (but have been prevented from doing so until now) in order that I might have a harvest among you, just as I have had among the other Gentiles.",
+      "de": "Ich will euch aber nicht verhalten, liebe Brüder, daß ich mir oft habe vorgesetzt, zu euch zu kommen (bin aber verhindert bisher), daß ich auch unter euch Frucht schaffte gleichwie unter andern Heiden.",
+      "zh": "弟兄们，我不愿意你们不知道，我屡次定意往你们那里去，要在你们中间得些果子，如同在其余的外邦人中一样；只是到如今仍有阻隔。",
+      "ja": "兄弟たち。ぜひ知っておいていただきたい。私はあなたがたの中でも、ほかの国の人々の中で得たと同じように、いくらかの実を得ようと思って、何度もあなたがたのところに行こうとしたのですが、今なお妨げられているのです。"
+    },
+    {
+      "number": 14,
+      "ko": "헬라인이나 야만인이나 지혜 있는 자나 어리석은 자에게 다 내가 빚진 자라",
+      "en": "I am obligated both to Greeks and non-Greeks, both to the wise and the foolish.",
+      "de": "Ich bin ein Schuldner der Griechen und der Ungriechen, der Weisen und der Unweisen.",
+      "zh": "无论是希腊人、化外人、聪明人、愚拙人，我都欠他们的债，",
+      "ja": "私は、ギリシヤ人にも未開人にも、知識のある人にも知識のない人にも、返さなければならない負債を負っています。"
+    },
+    {
+      "number": 15,
+      "ko": "그러므로 나는 할 수 있는 대로 로마에 있는 너희에게도 복음 전하기를 원하노라",
+      "en": "That is why I am so eager to preach the gospel also to you who are at Rome.",
+      "de": "Darum, soviel an mir ist, bin ich geneigt, auch euch zu Rom das Evangelium zu predigen.",
+      "zh": "所以情愿尽我的力量，将福音也传给你们在罗马的人。",
+      "ja": "ですから、私としては、ローマにいるあなたがたにも、ぜひ福音を伝えたいのです。"
+    },
+    {
+      "number": 16,
+      "ko": "내가 복음을 부끄러워하지 아니하노니 이 복음은 모든 믿는 자에게 구원을 주시는 하나님의 능력이 됨이라 먼저는 유대인에게요 그리고 헬라인에게로다",
+      "en": "I am not ashamed of the gospel, because it is the power of God for the salvation of everyone who believes: first for the Jew, then for the Gentile.",
+      "de": "Denn ich schäme mich des Evangeliums von Christo nicht; denn es ist eine Kraft Gottes, die da selig macht alle, die daran glauben, die Juden vornehmlich und auch die Griechen.",
+      "zh": "我不以福音为耻；这福音本是　神的大能，要救一切相信的，先是犹太人，后是希腊人。",
+      "ja": "私は福音を恥とは思いません。福音は、ユダヤ人をはじめギリシヤ人にも、信じるすべての人にとって、救いを得させる神の力です。"
+    },
+    {
+      "number": 17,
+      "ko": "복음에는 하나님의 의가 나타나서 믿음으로 믿음에 이르게 하나니 기록된 바 오직 의인은 믿음으로 말미암아 살리라 함과 같으니라",
+      "en": "For in the gospel a righteousness from God is revealed, a righteousness that is by faith from first to last, just as it is written: \"The righteous will live by faith.\"",
+      "de": "Sintemal darin offenbart wird die Gerechtigkeit, die vor Gott gilt, welche kommt aus Glauben in Glauben; wie denn geschrieben steht: “Der Gerechte wird seines Glaubens leben.”",
+      "zh": "因为　神的义正在这福音上显明出来；这义是本于信，以至于信。如经上所记：「义人必因信得生。」",
+      "ja": "なぜなら、福音のうちには神の義が啓示されていて、その義は、信仰に始まり信仰に進ませるからです。「義人は信仰によって生きる。」と書いてあるとおりです。"
+    },
+    {
+      "number": 18,
+      "ko": "하나님의 진노가 불의로 진리를 막는 사람들의 모든 경건하지 않음과 불의에 대하여 하늘로부터 나타나나니",
+      "en": "The wrath of God is being revealed from heaven against all the godlessness and wickedness of men who suppress the truth by their wickedness,",
+      "de": "Denn Gottes Zorn vom Himmel wird offenbart über alles gottlose Wesen und Ungerechtigkeit der Menschen, die die Wahrheit in Ungerechtigkeit aufhalten.",
+      "zh": "原来，　神的忿怒从天上显明在一切不虔不义的人身上，就是那些行不义阻挡真理的人。",
+      "ja": "というのは、不義をもって真理をはばんでいる人々のあらゆる不敬虔と不正に対して、神の怒りが天から啓示されているからです。"
+    },
+    {
+      "number": 19,
+      "ko": "이는 하나님을 알 만한 것이 그들 속에 보임이라 하나님께서 이를 그들에게 보이셨느니라",
+      "en": "since what may be known about God is plain to them, because God has made it plain to them.",
+      "de": "Denn was man von Gott weiß, ist ihnen offenbar; denn Gott hat es ihnen offenbart,",
+      "zh": "神的事情，人所能知道的，原显明在人心里，因为　神已经给他们显明。",
+      "ja": "なぜなら、神について知りうることは、彼らに明らかであるからです。それは神が明らかにされたのです。"
+    },
+    {
+      "number": 20,
+      "ko": "창세로부터 그의 보이지 아니하는 것들 곧 그의 영원하신 능력과 신성이 그가 만드신 만물에 분명히 보여 알려졌나니 그러므로 그들이 핑계하지 못할지니라",
+      "en": "For since the creation of the world God's invisible qualities--his eternal power and divine nature--have been clearly seen, being understood from what has been made, so that men are without excuse.",
+      "de": "damit daß Gottes unsichtbares Wesen, das ist seine ewige Kraft und Gottheit, wird ersehen, so man des wahrnimmt, an den Werken, nämlich an der Schöpfung der Welt; also daß sie keine Entschuldigung haben,",
+      "zh": "自从造天地以来，　神的永能和神性是明明可知的，虽是眼不能见，但借着所造之物就可以晓得，叫人无可推诿。",
+      "ja": "神の、目に見えない本性、すなわち神の永遠の力と神性は、世界の創造された時からこのかた、被造物によって知られ、はっきりと認められるのであって、彼らに弁解の余地はないのです。"
+    },
+    {
+      "number": 21,
+      "ko": "하나님을 알되 하나님을 영화롭게도 아니하며 감사하지도 아니하고 오히려 그 생각이 허망하여지며 미련한 마음이 어두워졌나니",
+      "en": "For although they knew God, they neither glorified him as God nor gave thanks to him, but their thinking became futile and their foolish hearts were darkened.",
+      "de": "dieweil sie wußten, daß ein Gott ist, und haben ihn nicht gepriesen als einen Gott noch ihm gedankt, sondern sind in ihrem Dichten eitel geworden, und ihr unverständiges Herz ist verfinstert.",
+      "zh": "因为，他们虽然知道　神，却不当作　神荣耀他，也不感谢他。他们的思念变为虚妄，无知的心就昏暗了。",
+      "ja": "というのは、彼らは、神を知っていながら、その神を神としてあがめず、感謝もせず、かえってその思いはむなしくなり、その無知な心は暗くなったからです。"
+    },
+    {
+      "number": 22,
+      "ko": "스스로 지혜 있다 하나 어리석게 되어",
+      "en": "Although they claimed to be wise, they became fools",
+      "de": "Da sie sich für Weise hielten, sind sie zu Narren geworden",
+      "zh": "自称为聪明，反成了愚拙，",
+      "ja": "彼らは、自分では知者であると言いながら、愚かな者となり、"
+    },
+    {
+      "number": 23,
+      "ko": "썩어지지 아니하는 하나님의 영광을 썩어질 사람과 새와 짐승과 기어다니는 동물 모양의 우상으로 바꾸었느니라",
+      "en": "and exchanged the glory of the immortal God for images made to look like mortal man and birds and animals and reptiles.",
+      "de": "und haben verwandelt die Herrlichkeit des unvergänglichen Gottes in ein Bild gleich dem vergänglichen Menschen und der Vögel und der vierfüßigen und der kriechenden Tiere.",
+      "zh": "将不能朽坏之　神的荣耀变为偶像，仿佛必朽坏的人和飞禽、走兽、昆虫的样式。",
+      "ja": "不滅の神の御栄えを、滅ぶべき人間や、鳥、獣、はうもののかたちに似た物と代えてしまいました。"
+    },
+    {
+      "number": 24,
+      "ko": "그러므로 하나님께서 그들을 마음의 정욕대로 더러움에 내버려 두사 그들의 몸을 서로 욕되게 하게 하셨으니",
+      "en": "Therefore God gave them over in the sinful desires of their hearts to sexual impurity for the degrading of their bodies with one another.",
+      "de": "Darum hat sie auch Gott dahingegeben in ihrer Herzen Gelüste, in Unreinigkeit, zu schänden ihre eigenen Leiber an sich selbst,",
+      "zh": "所以，　神任凭他们逞着心里的情欲行污秽的事，以致彼此玷辱自己的身体。",
+      "ja": "それゆえ、神は、彼らをその心の欲望のままに汚れに引き渡され、そのために彼らは、互いにそのからだをはずかしめるようになりました。"
+    },
+    {
+      "number": 25,
+      "ko": "이는 그들이 하나님의 진리를 거짓 것으로 바꾸어 피조물을 조물주보다 더 경배하고 섬김이라 주는 곧 영원히 찬송할 이시로다 아멘",
+      "en": "They exchanged the truth of God for a lie, and worshiped and served created things rather than the Creator--who is forever praised. Amen.",
+      "de": "sie, die Gottes Wahrheit haben verwandelt in die Lüge und haben geehrt und gedient dem Geschöpfe mehr denn dem Schöpfer, der da gelobt ist in Ewigkeit. Amen.",
+      "zh": "他们将　神的真实变为虚谎，去敬拜事奉受造之物，不敬奉那造物的主—主乃是可称颂的，直到永远。阿们！",
+      "ja": "それは、彼らが神の真理を偽りと取り代え、造り主の代わりに造られた物を拝み、これに仕えたからです。造り主こそ、とこしえにほめたたえられる方です。アーメン。"
+    },
+    {
+      "number": 26,
+      "ko": "이 때문에 하나님께서 그들을 부끄러운 욕심에 내버려 두셨으니 곧 그들의 여자들도 순리대로 쓸 것을 바꾸어 역리로 쓰며",
+      "en": "Because of this, God gave them over to shameful lusts. Even their women exchanged natural relations for unnatural ones.",
+      "de": "Darum hat sie auch Gott dahingegeben in schändliche Lüste: denn ihre Weiber haben verwandelt den natürlichen Brauch in den unnatürlichen;",
+      "zh": "因此，　神任凭他们放纵可羞耻的情欲。他们的女人把顺性的用处变为逆性的用处；",
+      "ja": "こういうわけで、神は彼らを恥ずべき情欲に引き渡されました。すなわち、女は自然の用を不自然なものに代え、"
+    },
+    {
+      "number": 27,
+      "ko": "그와 같이 남자들도 순리대로 여자 쓰기를 버리고 서로 향하여 음욕이 불 일듯 하매 남자가 남자와 더불어 부끄러운 일을 행하여 그들의 그릇됨에 상당한 보응을 그들 자신이 받았느니라",
+      "en": "In the same way the men also abandoned natural relations with women and were inflamed with lust for one another. Men committed indecent acts with other men, and received in themselves the due penalty for their perversion.",
+      "de": "desgleichen auch die Männer haben verlassen den natürlichen Brauch des Weibes und sind aneinander erhitzt in ihren Lüsten und haben Mann mit Mann Schande getrieben und den Lohn ihres Irrtums (wie es denn sein sollte) an sich selbst empfangen.",
+      "zh": "男人也是如此，弃了女人顺性的用处，欲火攻心，彼此贪恋，男和男行可羞耻的事，就在自己身上受这妄为当得的报应。",
+      "ja": "同じように、男も、女の自然な用を捨てて男どうしで情欲に燃え、男が男と恥ずべきことを行なうようになり、こうしてその誤りに対する当然の報いを自分の身に受けているのです。"
+    },
+    {
+      "number": 28,
+      "ko": "또한 그들이 마음에 하나님 두기를 싫어하매 하나님께서 그들을 그 상실한 마음대로 내버려 두사 합당하지 못한 일을 하게 하셨으니",
+      "en": "Furthermore, since they did not think it worthwhile to retain the knowledge of God, he gave them over to a depraved mind, to do what ought not to be done.",
+      "de": "Und gleichwie sie nicht geachtet haben, daß sie Gott erkenneten, hat sie Gott auch dahingegeben in verkehrten Sinn, zu tun, was nicht taugt,",
+      "zh": "他们既然故意不认识　神，　神就任凭他们存邪僻的心，行那些不合理的事；",
+      "ja": "また、彼らが神を知ろうとしたがらないので、神は彼らを良くない思いに引き渡され、そのため彼らは、してはならないことをするようになりました。"
+    },
+    {
+      "number": 29,
+      "ko": "곧 모든 불의, 추악, 탐욕, 악의가 가득한 자요 시기, 살인, 분쟁, 사기, 악독이 가득한 자요 수군수군하는 자요",
+      "en": "They have become filled with every kind of wickedness, evil, greed and depravity. They are full of envy, murder, strife, deceit and malice. They are gossips,",
+      "de": "voll alles Ungerechten, Hurerei, Schalkheit, Geizes, Bosheit, voll Neides, Mordes, Haders, List, giftig, Ohrenbläser,",
+      "zh": "装满了各样不义、邪恶、贪婪、恶毒；满心是嫉妒、凶杀、争竞、诡诈、毒恨；",
+      "ja": "彼らは、あらゆる不義と悪とむさぼりと悪意とに満ちた者、ねたみと殺意と争いと欺きと悪だくみとでいっぱいになった者、陰口を言う者、"
+    },
+    {
+      "number": 30,
+      "ko": "비방하는 자요 하나님께서 미워하시는 자요 능욕하는 자요 교만한 자요 자랑하는 자요 악을 도모하는 자요 부모를 거역하는 자요",
+      "en": "slanderers, God-haters, insolent, arrogant and boastful; they invent ways of doing evil; they disobey their parents;",
+      "de": "Verleumder, Gottesverächter, Frevler, hoffärtig, ruhmredig, Schädliche, den Eltern ungehorsam,",
+      "zh": "又是谗毁的、背后说人的、怨恨　神的、侮慢人的、狂傲的、自夸的、捏造恶事的、违背父母的、",
+      "ja": "そしる者、神を憎む者、人を人と思わぬ者、高ぶる者、大言壮語する者、悪事をたくらむ者、親に逆らう者、"
+    },
+    {
+      "number": 31,
+      "ko": "우매한 자요 배약하는 자요 무정한 자요 무자비한 자라",
+      "en": "they are senseless, faithless, heartless, ruthless.",
+      "de": "Unvernünftige, Treulose, Lieblose, unversöhnlich, unbarmherzig.",
+      "zh": "无知的、背约的、无亲情的、不怜悯人的。",
+      "ja": "わきまえのない者、約束を破る者、情け知らずの者、慈愛のない者です。"
+    },
+    {
+      "number": 32,
+      "ko": "그들이 이같은 일을 행하는 자는 사형에 해당한다고 하나님께서 정하심을 알고도 자기들만 행할 뿐 아니라 또한 그런 일을 행하는 자들을 옳다 하느니라",
+      "en": "Although they know God's righteous decree that those who do such things deserve death, they not only continue to do these very things but also approve of those who practice them.",
+      "de": "Sie wissen Gottes Gerechtigkeit, daß, die solches tun, des Todes würdig sind, und tun es nicht allein, sondern haben auch Gefallen an denen, die es tun.",
+      "zh": "他们虽知道　神判定行这样事的人是当死的，然而他们不但自己去行，还喜欢别人去行。",
+      "ja": "彼らは、そのようなことを行なえば、死罪に当たるという神の定めを知っていながら、それを行なっているだけでなく、それを行なう者に心から同意しているのです。"
+    }
+  ]
+}

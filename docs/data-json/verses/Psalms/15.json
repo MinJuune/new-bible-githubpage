@@ -1,0 +1,46 @@
+{
+  "book": "Psalms",
+  "chapter": 15,
+  "verses": [
+    {
+      "number": 1,
+      "ko": "여호와여 주의 장막에 머무를 자 누구오며 주의 성산에 사는 자 누구오니이까",
+      "en": "A psalm of David. LORD, who may dwell in your sanctuary? Who may live on your holy hill?",
+      "de": "Ein Psalm Davids. HERR, wer wird wohnen in deiner Hütte? Wer wird bleiben auf deinem heiligen Berge?",
+      "zh": "大卫的诗。 耶和华啊，谁能寄居你的帐幕？ 谁能住在你的圣山？",
+      "ja": "ヱホバよなんぢの帷幄のうちにやどらん者はたれぞ なんぢの聖山にすまはんものは誰ぞ"
+    },
+    {
+      "number": 2,
+      "ko": "정직하게 행하며 공의를 실천하며 그의 마음에 진실을 말하며",
+      "en": "He whose walk is blameless and who does what is righteous, who speaks the truth from his heart",
+      "de": "Wer ohne Tadel einhergeht und recht tut und redet die Wahrheit von Herzen;",
+      "zh": "就是行为正直、做事公义、 心里说实话的人。",
+      "ja": "直くあゆみ義をおこなひ そのこころに眞實をいふものぞその人なる"
+    },
+    {
+      "number": 3,
+      "ko": "그의 혀로 남을 허물하지 아니하고 그의 이웃에게 악을 행하지 아니하며 그의 이웃을 비방하지 아니하며",
+      "en": "and has no slander on his tongue, who does his neighbor no wrong and casts no slur on his fellowman,",
+      "de": "wer mit seiner Zunge nicht verleumdet und seinen Nächstem kein Arges tut und seinen Nächsten nicht schmäht;",
+      "zh": "他不以舌头谗谤人， 不恶待朋友， 也不随伙毁谤邻里。",
+      "ja": "かかる人は舌をもてそしらず その友をそこなはず またその隣をはぢしむる言をあげもちひず"
+    },
+    {
+      "number": 4,
+      "ko": "그의 눈은 망령된 자를 멸시하며 여호와를 두려워하는 자들을 존대하며 그의 마음에 서원한 것은 해로울지라도 변하지 아니하며",
+      "en": "who despises a vile man but honors those who fear the LORD, who keeps his oath even when it hurts,",
+      "de": "wer die Gottlosen für nichts achtet, sondern ehrt die Gottesfürchtigen; wer sich selbst zum Schaden schwört und hält es;",
+      "zh": "他眼中藐视匪类， 却尊重那敬畏耶和华的人。 他发了誓，虽然自己吃亏也不更改。",
+      "ja": "惡にしづめるものを見ていとひかろしめ ヱホバをおそるるものをたふとび 誓ひしことはおのれに禍害となるも變ることなし"
+    },
+    {
+      "number": 5,
+      "ko": "이자를 받으려고 돈을 꾸어 주지 아니하며 뇌물을 받고 무죄한 자를 해하지 아니하는 자이니 이런 일을 행하는 자는 영원히 흔들리지 아니하리이다",
+      "en": "who lends his money without usury and does not accept a bribe against the innocent. He who does these things will never be shaken.",
+      "de": "wer sein Geld nicht auf Wucher gibt und nimmt nicht Geschenke gegen den Unschuldigen: wer das tut, der wird wohl bleiben.",
+      "zh": "他不放债取利， 不受贿赂以害无辜。 行这些事的人必永不动摇。",
+      "ja": "貨をかして過たる利をむさぼらず 賄賂をいれて無辜をそこなはざるなり 斯ることどもを行ふものは永遠にうごかさるることなかるべし"
+    }
+  ]
+}

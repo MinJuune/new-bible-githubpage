@@ -1,0 +1,334 @@
+{
+  "book": "Numbers",
+  "chapter": 15,
+  "verses": [
+    {
+      "number": 1,
+      "ko": "여호와께서 모세에게 말씀하여 이르시되",
+      "en": "The LORD said to Moses,",
+      "de": "Und der HERR redete mit Mose und sprach:",
+      "zh": "耶和华对摩西说：",
+      "ja": "茲にヱホバ、モーセに告て言たまはく"
+    },
+    {
+      "number": 2,
+      "ko": "이스라엘 자손에게 말하여 그들에게 이르라 너희는 내가 주어 살게 할 땅에 들어가서",
+      "en": "\"Speak to the Israelites and say to them: 'After you enter the land I am giving you as a home",
+      "de": "Rede mit den Kindern Israel und sprich zu ihnen: Wenn ihr in das Land eurer Wohnung kommt, das ich euch geben werde,",
+      "zh": "「你晓谕以色列人说：你们到了我所赐给你们居住的地，",
+      "ja": "イスラエルの子孫に告て之に言へ我が汝等に與へて住しむる地に汝等到り"
+    },
+    {
+      "number": 3,
+      "ko": "여호와께 화제나 번제나 서원을 갚는 제사나 낙헌제나 정한 절기제에 소나 양을 여호와께 향기롭게 드릴 때에",
+      "en": "and you present to the LORD offerings made by fire, from the herd or the flock, as an aroma pleasing to the LORD--whether burnt offerings or sacrifices, for special vows or freewill offerings or festival offerings--",
+      "de": "und wollt dem HERRN Opfer tun, es sei ein Brandopfer oder ein Opfer zum besonderen Gelübde oder ein freiwilliges Opfer oder euer Festopfer, auf daß ihr dem HERRN einen süßen Geruch machet von Rindern oder von Schafen:",
+      "zh": "若愿意从牛群羊群中取牛羊作火祭，献给耶和华，无论是燔祭是平安祭，为要还特许的愿，或是作甘心祭，或是逢你们节期献的，都要奉给耶和华为馨香之祭。",
+      "ja": "ヱホバに火祭を献る時すなはち願を還す時期又は自意の禮物を爲の時期または汝らの節期にあたりて牛あるひは羊をもて燔祭または犠牲を献げてヱホバに馨しき香を奉つる時は"
+    },
+    {
+      "number": 4,
+      "ko": "그러한 헌물을 드리는 자는 고운 가루 십분의 일에 기름 사분의 일 힌을 섞어 여호와께 소제로 드릴 것이며",
+      "en": "then the one who brings his offering shall present to the LORD a grain offering of a tenth of an ephah of fine flour mixed with a quarter of a hin of oil.",
+      "de": "wer nun seine Gabe dem HERRN opfern will, der soll das Speisopfer tun, ein Zehntel Semmelmehl, mit einem viertel Hin Öl;",
+      "zh": "那献供物的就要将细面伊法十分之一，并油一欣四分之一，调和作素祭，献给耶和华。",
+      "ja": "その禮物をヱホバに献る者もし羔羊をもて燔祭あるひは犠牲となすならば麥粉十分の一に油一ヒンの四分の一を混和たるをその素祭として供へ酒一ヒンの四分の一をその灌祭として供ふべし"
+    },
+    {
+      "number": 5,
+      "ko": "번제나 다른 제사로 드리는 제물이 어린 양이면 전제로 포도주 사분의 일 힌을 준비할 것이요",
+      "en": "With each lamb for the burnt offering or the sacrifice, prepare a quarter of a hin of wine as a drink offering.",
+      "de": "und Wein zum Trankopfer, auch ein viertel Hin, zu dem Brandopfer oder sonst zu dem Opfer, da ein Lamm geopfert wird.",
+      "zh": "无论是燔祭是平安祭，你要为每只绵羊羔，一同预备奠祭的酒一欣四分之一。",
+      "ja": ""
+    },
+    {
+      "number": 6,
+      "ko": "숫양이면 소제로 고운 가루 십분의 이에 기름 삼분의 일 힌을 섞어 준비하고",
+      "en": "\"'With a ram prepare a grain offering of two-tenths of an ephah of fine flour mixed with a third of a hin of oil,",
+      "de": "Wenn aber ein Widder geopfert wird, sollst du das Speisopfer machen aus zwei Zehntel Semmelmehl, mit einem drittel Hin Öl gemengt,",
+      "zh": "为公绵羊预备细面伊法十分之二，并油一欣三分之一，调和作素祭，",
+      "ja": "若また牡羊を之に用ふるならば麥粉十分の二に油一ヒンの三分の一を混和たるをその素祭として供へ"
+    },
+    {
+      "number": 7,
+      "ko": "전제로 포도주 삼분의 일 힌을 드려 여호와 앞에 향기롭게 할 것이요",
+      "en": "and a third of a hin of wine as a drink offering. Offer it as an aroma pleasing to the LORD.",
+      "de": "und Wein zum Trankopfer, auch ein drittel Hin; das sollst du dem HERRN zum süßen Geruch opfern.",
+      "zh": "又用酒一欣三分之一作奠祭，献给耶和华为馨香之祭。",
+      "ja": "また酒一ヒンの三分の一をその灌祭として献げヱホバに馨しき香をたてまつるべし"
+    },
+    {
+      "number": 8,
+      "ko": "번제로나 서원을 갚는 제사로나 화목제로 수송아지를 예비하여 여호와께 드릴 때에는",
+      "en": "\"'When you prepare a young bull as a burnt offering or sacrifice, for a special vow or a fellowship offering to the LORD,",
+      "de": "Willst du aber ein Rind zum Brandopfer oder zum besonderen Gelübdeopfer oder zum Dankopfer dem HERRN machen,",
+      "zh": "你预备公牛作燔祭，或是作平安祭，为要还特许的愿，或是作平安祭，献给耶和华，",
+      "ja": "汝また願還あるひは酬恩祭をヱホバになすに當りて牡牛をもて燔祭あるひは犠牲となすならば"
+    },
+    {
+      "number": 9,
+      "ko": "소제로 고운 가루 십분의 삼 에바에 기름 반 힌을 섞어 그 수송아지와 함께 드리고",
+      "en": "bring with the bull a grain offering of three-tenths of an ephah of fine flour mixed with half a hin of oil.",
+      "de": "so sollst du zu dem Rind ein Speisopfer tun, drei Zehntel Semmelmehl, mit einem halben Hin Öl gemengt,",
+      "zh": "就要把细面伊法十分之三，并油半欣，调和作素祭，和公牛一同献上，",
+      "ja": "麥粉十分の三に油一ヒンの半を混和たるを素祭となしてその牡牛とともに献げ"
+    },
+    {
+      "number": 10,
+      "ko": "전제로 포도주 반 힌을 드려 여호와 앞에 향기로운 화제를 삼을지니라",
+      "en": "Also bring half a hin of wine as a drink offering. It will be an offering made by fire, an aroma pleasing to the LORD.",
+      "de": "und Wein zum Trankopfer, auch ein halbes Hin; das ist ein Opfer dem HERRN zum süßen Geruch.",
+      "zh": "又用酒半欣作奠祭，献给耶和华为馨香的火祭。",
+      "ja": "また酒一ヒンの半をその灌祭として献ぐべし是すなはち火祭にしてヱホバに馨しき香をたてまつる者なり"
+    },
+    {
+      "number": 11,
+      "ko": "수송아지나 숫양이나 어린 숫양이나 어린 염소에는 그 마리 수마다 위와 같이 행하되",
+      "en": "Each bull or ram, each lamb or young goat, is to be prepared in this manner.",
+      "de": "Also sollst du tun mit einem Ochsen, mit einem Widder, mit einem Schaf oder mit einer Ziege.",
+      "zh": "「献公牛、公绵羊、绵羊羔、山羊羔，每只都要这样办理。",
+      "ja": "牡牛あるひは牡羊あるひは羔羊あるひは羔山羊は一匹ごとに斯爲べきなり"
+    },
+    {
+      "number": 12,
+      "ko": "너희가 준비하는 수효를 따라 각기 수효에 맞게 하라",
+      "en": "Do this for each one, for as many as you prepare.",
+      "de": "Darnach die Zahl dieser Opfer ist, darnach soll auch die Zahl der Speisopfer und Trankopfer sein.",
+      "zh": "照你们所预备的数目，按着只数都要这样办理。",
+      "ja": "即ち汝らが献ぐるところの數にてらしその數にしたがひて一匹ごとに斯なすべし"
+    },
+    {
+      "number": 13,
+      "ko": "누구든지 본토 소생이 여호와께 향기로운 화제를 드릴 때에는 이 법대로 할 것이요",
+      "en": "\"'Everyone who is native-born must do these things in this way when he brings an offering made by fire as an aroma pleasing to the LORD.",
+      "de": "Wer ein Einheimischer ist, der soll solches tun, daß er dem HERRN opfere ein Opfer zum süßen Geruch.",
+      "zh": "凡本地人将馨香的火祭献给耶和华，都要这样办理。",
+      "ja": "本國に生れたる者火祭を献げてヱホバに馨しき香をたてまつる時には凡て斯のごとく是等の事を行ふべし"
+    },
+    {
+      "number": 14,
+      "ko": "너희 중에 거류하는 타국인이나 너희 중에 대대로 있는 자나 누구든지 여호와께 향기로운 화제를 드릴 때에는 너희가 하는 대로 그도 그리할 것이라",
+      "en": "For the generations to come, whenever an alien or anyone else living among you presents an offering made by fire as an aroma pleasing to the LORD, he must do exactly as you do.",
+      "de": "Und wenn ein Fremdling bei euch wohnt oder unter euch bei euren Nachkommen ist, und will dem HERRN ein Opfer zum süßen Geruch tun, der soll tun, wie ihr tut.",
+      "zh": "若有外人和你们同居，或有人世世代代住在你们中间，愿意将馨香的火祭献给耶和华，你们怎样办理，他也要照样办理。",
+      "ja": "また汝らの中に寄寓る他國の人あるひは汝らの中に代々住ふところの人火祭をささげてヱホバに馨しき香をたてまつらんとする時は汝らの爲がごとくにその人もなすべきなり"
+    },
+    {
+      "number": 15,
+      "ko": "회중 곧 너희에게나 거류하는 타국인에게나 같은 율례이니 너희의 대대로 영원한 율례라 너희가 어떠한 대로 타국인도 여호와 앞에 그러하리라",
+      "en": "The community is to have the same rules for you and for the alien living among you; this is a lasting ordinance for the generations to come. You and the alien shall be the same before the LORD:",
+      "de": "Der ganzen Gemeinde sei eine Satzung, euch sowohl als den Fremdlingen; eine ewige Satzung soll das sein euren Nachkommen, daß vor dem HERRN der Fremdling sei wie ihr.",
+      "zh": "至于会众，你们和同居的外人都归一例，作为你们世世代代永远的定例，在耶和华面前，你们怎样，寄居的也要怎样。",
+      "ja": "汝ら會衆および汝らの中に寄寓る他國の人は同一の例にしたがふべし是は汝らが代々永く守るべき例なり他國の人のヱホバの前に侍ることは汝等と異るところ無るべきなり"
+    },
+    {
+      "number": 16,
+      "ko": "너희에게나 너희 중에 거류하는 타국인에게나 같은 법도, 같은 규례이니라",
+      "en": "The same laws and regulations will apply both to you and to the alien living among you.'\"",
+      "de": "Ein Gesetz, ein Recht soll euch und dem Fremdling sein, der bei euch wohnt.",
+      "zh": "你们并与你们同居的外人当有一样的条例，一样的典章。」",
+      "ja": "汝らと汝らの中に宿寓る他國の人とは同一の法同一の禮式にしたがふべし"
+    },
+    {
+      "number": 17,
+      "ko": "여호와께서 모세에게 말씀하여 이르시되",
+      "en": "The LORD said to Moses,",
+      "de": "Und der HERR redete mit Mose und sprach:",
+      "zh": "耶和华对摩西说：",
+      "ja": "ヱホバまたモーセに告て言たまはく"
+    },
+    {
+      "number": 18,
+      "ko": "이스라엘 자손에게 말하여 이르라 너희는 내가 인도하는 땅에 들어가거든",
+      "en": "\"Speak to the Israelites and say to them: 'When you enter the land to which I am taking you",
+      "de": "Rede mit den Kindern Israel und sprich zu ihnen: Wenn ihr in das Land kommt, darein ich euch bringen werde,",
+      "zh": "「你晓谕以色列人说：你们到了我所领你们进去的那地，",
+      "ja": "イスラエルの子孫に告てこれに言へ我が汝等を導き往ところの地に汝等いたらん時は"
+    },
+    {
+      "number": 19,
+      "ko": "그 땅의 양식을 먹을 때에 여호와께 거제를 드리되",
+      "en": "and you eat the food of the land, present a portion as an offering to the LORD.",
+      "de": "daß ihr esset von dem Brot im Lande, sollt ihr dem HERRN eine Hebe geben:",
+      "zh": "吃那地的粮食，就要把举祭献给耶和华。",
+      "ja": "その地の食物を食ふにあたりて汝ら擧祭をヱホバにささぐべし"
+    },
+    {
+      "number": 20,
+      "ko": "너희의 처음 익은 곡식 가루 떡을 거제로 타작 마당의 거제 같이 들어 드리라",
+      "en": "Present a cake from the first of your ground meal and present it as an offering from the threshing floor.",
+      "de": "als eures Teiges Erstling sollt ihr einen Kuchen zur Hebe geben; wie die Hebe von der Scheune,",
+      "zh": "你们要用初熟的麦子磨面，做饼当举祭奉献；你们举上，好像举禾场的举祭一样。",
+      "ja": "即ち汝らはその麥粉の初をもてパンを作りてこれを擧祭にそなふべし是は禾場より擧祭をそなふるが如くに擧てそなふべきなり"
+    },
+    {
+      "number": 21,
+      "ko": "너희의 처음 익은 곡식 가루 떡을 대대에 여호와께 거제로 드릴지니라",
+      "en": "Throughout the generations to come you are to give this offering to the LORD from the first of your ground meal.",
+      "de": "also sollt ihr auch dem HERRN eures Teiges Erstling zur Hebe geben bei euren Nachkommen.",
+      "zh": "你们世世代代要用初熟的麦子磨面，当举祭献给耶和华。",
+      "ja": "汝ら代々その麥粉の初をもて擧祭をヱホバにたてまつるべし"
+    },
+    {
+      "number": 22,
+      "ko": "너희가 그릇 범죄하여 여호와가 모세에게 말씀하신 이 모든 명령을 지키지 못하되",
+      "en": "\"'Now if you unintentionally fail to keep any of these commands the LORD gave Moses--",
+      "de": "Und wenn ihr aus Versehen dieser Gebote irgend eins nicht tut, die der HERR zu Mose geredet hat,",
+      "zh": "「你们有错误的时候，不守耶和华所晓谕摩西的这一切命令，",
+      "ja": "汝等もし誤りてヱホバのモーセに告たまへるこの諸の命令を行はず"
+    },
+    {
+      "number": 23,
+      "ko": "곧 여호와께서 모세를 통하여 너희에게 명령한 모든 것을 여호와께서 명령한 날 이후부터 너희 대대에 지키지 못하여",
+      "en": "any of the LORD'S commands to you through him, from the day the LORD gave them and continuing through the generations to come--",
+      "de": "alles, was der HERR euch durch Mose geboten hat, von dem Tage an, da er anfing zu gebieten auf eure Nachkommen;",
+      "zh": "就是耶和华借摩西一切所吩咐你们的，自那日以至你们的世世代代，",
+      "ja": "ヱホバがモーセをもて命じたまひし事等並にその命ずることを始めたまひし日より以來汝らの代々にも命じたまはんところの事等を行はざる事有ん時"
+    },
+    {
+      "number": 24,
+      "ko": "회중이 부지중에 범죄하였거든 온 회중은 수송아지 한 마리를 여호와께 향기로운 화제로 드리고 규례대로 소제와 전제를 드리고 숫염소 한 마리를 속죄제로 드릴 것이라",
+      "en": "and if this is done unintentionally without the community being aware of it, then the whole community is to offer a young bull for a burnt offering as an aroma pleasing to the LORD, along with its prescribed grain offering and drink offering, and a male goat for a sin offering.",
+      "de": "wenn nun ohne Wissen der Gemeinde etwas versehen würde, so soll die ganze Gemeinde einen jungen Farren aus den Rindern zum Brandopfer machen, zum süßen Geruch dem HERRN, samt seinem Speisopfer, wie es recht ist, und einen Ziegenbock zum Sündopfer.",
+      "zh": "若有误行，是会众所不知道的，后来全会众就要将一只公牛犊作燔祭，并照典章把素祭和奠祭一同献给耶和华为馨香之祭，又献一只公山羊作赎罪祭。",
+      "ja": "すなはち會衆誤りて犯す所ありて之を知ざることあらん時は全會衆少き牡牛一匹を燔祭にささげてヱホバに馨しき香とならしめ之にその素祭と灌祭を禮式のごとくに加へまた牡山羊一匹を罪祭にささぐべし"
+    },
+    {
+      "number": 25,
+      "ko": "제사장이 이스라엘 자손의 온 회중을 위하여 속죄하면 그들이 사함을 받으리니 이는 그가 부지중에 범죄함이며 또 부지중에 범죄함으로 말미암아 헌물 곧 화제와 속죄제를 여호와께 드렸음이라",
+      "en": "The priest is to make atonement for the whole Israelite community, and they will be forgiven, for it was not intentional and they have brought to the LORD for their wrong an offering made by fire and a sin offering.",
+      "de": "Und der Priester soll also die ganze Gemeinde der Kinder Israel versöhnen, so wird's ihnen vergeben sein; denn es ist ein Versehen. Und sie sollen bringen solch ihre Gabe zum Opfer dem HERRN und ihr Sündopfer vor dem HERRN über ihr Versehen,",
+      "zh": "祭司要为以色列全会众赎罪，他们就必蒙赦免，因为这是错误。他们又因自己的错误，把供物，就是向耶和华献的火祭和赎罪祭，一并奉到耶和华面前。",
+      "ja": "而して祭司イスラエルの子孫の全會衆のために贖罪を爲べし斯せば是は赦されん是は過誤なればなり彼等はその禮物として火祭をヱホバにささげまたその過誤のために罪祭をヱホバの前にささぐべし"
+    },
+    {
+      "number": 26,
+      "ko": "이스라엘 자손의 온 회중과 그들 중에 거류하는 타국인도 사함을 받을 것은 온 백성이 부지중에 범죄하였음이니라",
+      "en": "The whole Israelite community and the aliens living among them will be forgiven, because all the people were involved in the unintentional wrong.",
+      "de": "so wird's vergeben der ganzen Gemeinde der Kinder Israel, dazu auch dem Fremdling, der unter euch wohnt, weil das ganze Volk an solchem versehen teilhat.",
+      "zh": "以色列全会众和寄居在他们中间的外人就必蒙赦免，因为这罪是百姓误犯的。",
+      "ja": "然せばイスラエルの子孫の會衆みな赦されんまた彼等の中に寄寓る他國の人も然るべし其は民みな誤り犯せるなればなり"
+    },
+    {
+      "number": 27,
+      "ko": "만일 한 사람이 부지중에 범죄하면 일 년 된 암염소로 속죄제를 드릴 것이요",
+      "en": "\"'But if just one person sins unintentionally, he must bring a year-old female goat for a sin offering.",
+      "de": "Wenn aber eine Seele aus Versehen sündigen wird, die soll eine jährige Ziege zum Sündopfer bringen.",
+      "zh": "「若有一个人误犯了罪，他就要献一岁的母山羊作赎罪祭。",
+      "ja": "人もし誤りて罪を犯さば當歳の牝山羊一匹を罪祭に献ぐべし"
+    },
+    {
+      "number": 28,
+      "ko": "제사장은 그 부지중에 범죄한 사람이 부지중에 여호와 앞에 범한 죄를 위하여 속죄하여 그 죄를 속할지니 그리하면 사함을 얻으리라",
+      "en": "The priest is to make atonement before the LORD for the one who erred by sinning unintentionally, and when atonement has been made for him, he will be forgiven.",
+      "de": "Und der Priester soll versöhnen solche Seele, die aus Versehen gesündigt hat, vor dem HERRN, daß er sie versöhne und ihr vergeben werde.",
+      "zh": "那误行的人犯罪的时候，祭司要在耶和华面前为他赎罪，他就必蒙赦免。",
+      "ja": "祭司はまたその誤りて罪を犯せる人が誤りてヱホバの前に罪を獲たるが爲に贖罪をなしてその罪を贖ふべし然せば是は赦されん"
+    },
+    {
+      "number": 29,
+      "ko": "이스라엘 자손 중 본토 소생이든지 그들 중에 거류하는 타국인이든지 누구든 부지중에 범죄한 자에 대한 법이 동일하거니와",
+      "en": "One and the same law applies to everyone who sins unintentionally, whether he is a native-born Israelite or an alien.",
+      "de": "Und es soll ein Gesetz sein für die, so ein Versehen begehen, für den Einheimischen unter den Kindern Israel und für den Fremdling, der unter ihnen wohnt.",
+      "zh": "以色列中的本地人和寄居在他们中间的外人，若误行了什么事，必归一样的条例。",
+      "ja": "イスラエルの子孫の國の者にもあれまた其中に寄寓る他國の人にもあれ凡そ誤りて罪を犯す者には汝らその法を同じからしむべし"
+    },
+    {
+      "number": 30,
+      "ko": "본토인이든지 타국인이든지 고의로 무엇을 범하면 누구나 여호와를 비방하는 자니 그의 백성 중에서 끊어질 것이라",
+      "en": "\"'But anyone who sins defiantly, whether native-born or alien, blasphemes the LORD, and that person must be cut off from his people.",
+      "de": "Wenn aber eine Seele aus Frevel etwas tut, es sei ein Einheimischer oder Fremdling, der hat den HERRN geschmäht. Solche Seele soll ausgerottet werden aus ihrem Volk;",
+      "zh": "但那擅敢行事的，无论是本地人是寄居的，他亵渎了耶和华，必从民中剪除。",
+      "ja": "本國の人にもあれ他國の人にもあれ凡そ擅横に罪を犯す者は是ヱホバを瀆すなればその人はその民の中より絶るべし"
+    },
+    {
+      "number": 31,
+      "ko": "그런 사람은 여호와의 말씀을 멸시하고 그의 명령을 파괴하였은즉 그의 죄악이 자기에게로 돌아가서 온전히 끊어지리라",
+      "en": "Because he has despised the LORD'S word and broken his commands, that person must surely be cut off; his guilt remains on him.'\"",
+      "de": "denn sie hat des HERRN Wort verachtet und sein Gebot lassen fahren. Ja, sie soll ausgerottet werden; die Schuld sei ihr.",
+      "zh": "因他藐视耶和华的言语，违背耶和华的命令，那人总要剪除；他的罪孽要归到他身上。」",
+      "ja": "斯る人はヱホバの言を軽んじその誡命を破るなるが故に必ず絶れその罪を身に承ん"
+    },
+    {
+      "number": 32,
+      "ko": "이스라엘 자손이 광야에 거류할 때에 안식일에 어떤 사람이 나무하는 것을 발견한지라",
+      "en": "While the Israelites were in the desert, a man was found gathering wood on the Sabbath day.",
+      "de": "Als nun die Kinder Israel in der Wüste waren, fanden sie einen Mann Holz lesen am Sabbattage.",
+      "zh": "以色列人在旷野的时候，遇见一个人在安息日捡柴。",
+      "ja": "イスラエルの子孫曠野に居る時安息日に一箇の人の柴を拾ひあつむるを見たり"
+    },
+    {
+      "number": 33,
+      "ko": "그 나무하는 자를 발견한 자들이 그를 모세와 아론과 온 회중 앞으로 끌어왔으나",
+      "en": "Those who found him gathering wood brought him to Moses and Aaron and the whole assembly,",
+      "de": "Und die ihn darob gefunden hatten, da er das Holz las, brachten sie ihn zu Mose und Aaron und vor die ganze Gemeinde.",
+      "zh": "遇见他捡柴的人，就把他带到摩西、亚伦并全会众那里，",
+      "ja": "是においてその柴を拾ひあつむるを見たる者等これをモーセとアロンおよび會衆の許に曳きたりけるが"
+    },
+    {
+      "number": 34,
+      "ko": "어떻게 처치할는지 지시하심을 받지 못한 고로 가두었더니",
+      "en": "and they kept him in custody, because it was not clear what should be done to him.",
+      "de": "Und sie legten ihn gefangen; denn es war nicht klar ausgedrückt, was man mit ihm tun sollte.",
+      "zh": "将他收在监内；因为当怎样办他，还没有指明。",
+      "ja": "之を如何に爲べきか未だ示諭を蒙らざるが故に之を禁錮おけり"
+    },
+    {
+      "number": 35,
+      "ko": "여호와께서 모세에게 이르시되 그 사람을 반드시 죽일지니 온 회중이 진영 밖에서 돌로 그를 칠지니라",
+      "en": "Then the LORD said to Moses, \"The man must die. The whole assembly must stone him outside the camp.\"",
+      "de": "Der HERR aber sprach zu Mose: Der Mann soll des Todes sterben; die ganze Gemeinde soll ihn steinigen draußen vor dem Lager.",
+      "zh": "耶和华吩咐摩西说：「总要把那人治死；全会众要在营外用石头把他打死。」",
+      "ja": "時にヱホバ、モーセに言たまひけるはその人はかならず殺さるべきなり全會衆營の外にて石をもて之を撃べしと"
+    },
+    {
+      "number": 36,
+      "ko": "온 회중이 곧 그를 진영 밖으로 끌어내고 돌로 그를 쳐죽여서 여호와께서 모세에게 명령하신 대로 하니라",
+      "en": "So the assembly took him outside the camp and stoned him to death, as the LORD commanded Moses.",
+      "de": "Da führte die ganze Gemeinde ihn hinaus vor das Lager und steinigten ihn, daß er starb, wie der HERR dem Mose geboten hatte.",
+      "zh": "于是全会众将他带到营外，用石头打死他，是照耶和华所吩咐摩西的。",
+      "ja": "全會衆すなはち之を營の外に曳いだし石をもてこれを撃ころしヱホバのモーセに命じたまへるごとくせり"
+    },
+    {
+      "number": 37,
+      "ko": "여호와께서 모세에게 말씀하여 이르시되",
+      "en": "The LORD said to Moses,",
+      "de": "Und der HERR sprach zu Mose:",
+      "zh": "耶和华晓谕摩西说：",
+      "ja": "ヱホバ亦モーセに告て言たまはく"
+    },
+    {
+      "number": 38,
+      "ko": "이스라엘 자손에게 명령하여 대대로 그들의 옷단 귀에 술을 만들고 청색 끈을 그 귀의 술에 더하라",
+      "en": "\"Speak to the Israelites and say to them: 'Throughout the generations to come you are to make tassels on the corners of your garments, with a blue cord on each tassel.",
+      "de": "Rede mit den Kindern Israel und sprich zu ihnen, daß sie sich Quasten machen an den Zipfeln ihrer Kleider samt allen ihren Nachkommen, und blaue Schnüre auf die Quasten an die Zipfel tun;",
+      "zh": "「你吩咐以色列人，叫他们世世代代在衣服边上做 子，又在底边的 子上钉一根蓝细带子。",
+      "ja": "汝イスラエルの子孫に告げ代々その衣服の裾に襚をつけその裾の襚 の上に靑き紐をほどこすべしと之に命ぜよ"
+    },
+    {
+      "number": 39,
+      "ko": "이 술은 너희가 보고 여호와의 모든 계명을 기억하여 준행하고 너희를 방종하게 하는 자신의 마음과 눈의 욕심을 따라 음행하지 않게 하기 위함이라",
+      "en": "You will have these tassels to look at and so you will remember all the commands of the LORD, that you may obey them and not prostitute yourselves by going after the lusts of your own hearts and eyes.",
+      "de": "und sollen euch die Quasten dazu dienen, daß ihr sie ansehet und gedenket aller Gebote des HERRN und tut sie, daß ihr nicht von eures Herzens Dünken noch von euren Augen euch umtreiben lasset und abgöttisch werdet.",
+      "zh": "你们佩带这 子，好叫你们看见就记念遵行耶和华一切的命令，不随从自己的心意、眼目行邪淫，像你们素常一样；",
+      "ja": "此襚は汝らに之を見てヱホバの諸の誡命を記憶して其をおこなはしめ汝らをしてその放縦にする自己の心と目の欲に從がふこと無らしむるための者なり"
+    },
+    {
+      "number": 40,
+      "ko": "그리하여 너희가 내 모든 계명을 기억하고 행하면 너희의 하나님 앞에 거룩하리라",
+      "en": "Then you will remember to obey all my commands and will be consecrated to your God.",
+      "de": "Darum sollt ihr gedenken und tun alle meine Gebote und heilig sein eurem Gott.",
+      "zh": "使你们记念遵行我一切的命令，成为圣洁，归与你们的　神。",
+      "ja": "斯して汝等吾もろもろの誡命を記憶して之を行ひ汝らの神の前に聖あるべし"
+    },
+    {
+      "number": 41,
+      "ko": "나는 여호와 너희 하나님이라 나는 너희의 하나님이 되려고 너희를 애굽 땅에서 인도해 내었느니라 나는 여호와 너희의 하나님이니라",
+      "en": "I am the LORD your God, who brought you out of Egypt to be your God. I am the LORD your God.'\"",
+      "de": "Ich bin der HERR, euer Gott, der euch aus Ägyptenland geführt hat, daß ich euer Gott wäre, ich, der HERR, euer Gott.",
+      "zh": "「我是耶和华—你们的　神，曾把你们从埃及地领出来，要作你们的　神。我是耶和华—你们的　神。」",
+      "ja": "我は汝らの神ヱホバにして汝らの神とならんとて汝らをエジプトの地より導きいだせし者なり我は汝らの神ヱホバなるぞかし"
+    }
+  ]
+}

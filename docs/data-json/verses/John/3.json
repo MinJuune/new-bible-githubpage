@@ -1,0 +1,294 @@
+{
+  "book": "John",
+  "chapter": 3,
+  "verses": [
+    {
+      "number": 1,
+      "ko": "그런데 바리새인 중에 니고데모라 하는 사람이 있으니 유대인의 지도자라",
+      "en": "Now there was a man of the Pharisees named Nicodemus, a member of the Jewish ruling council.",
+      "de": "Es war aber ein Mensch unter den Pharisäern mit Namen Nikodemus, ein Oberster unter den Juden.",
+      "zh": "有一个法利赛人，名叫尼哥德慕，是犹太人的官。",
+      "ja": "さて、パリサイ人の中にニコデモという人がいた。ユダヤ人の指導者であった。"
+    },
+    {
+      "number": 2,
+      "ko": "그가 밤에 예수께 와서 이르되 랍비여 우리가 당신은 하나님께로부터 오신 선생인 줄 아나이다 하나님이 함께 하시지 아니하시면 당신이 행하시는 이 표적을 아무도 할 수 없음이니이다",
+      "en": "He came to Jesus at night and said, \"Rabbi, we know you are a teacher who has come from God. For no one could perform the miraculous signs you are doing if God were not with him.\"",
+      "de": "Der kam zu Jesu bei der Nacht und sprach zu ihm: Meister, wir wissen, daß du bist ein Lehrer von Gott gekommen; denn niemand kann die Zeichen tun, die du tust, es sei denn Gott mit ihm.",
+      "zh": "这人夜里来见耶稣，说：「拉比，我们知道你是由　神那里来作师傅的；因为你所行的神迹，若没有　神同在，无人能行。」",
+      "ja": "この人が、夜、イエスのもとに来て言った。「先生。私たちは、あなたが神のもとから来られた教師であることを知っています。神がともにおられるのでなければ、あなたがなさるこのようなしるしは、だれも行なうことができません。」"
+    },
+    {
+      "number": 3,
+      "ko": "예수께서 대답하여 이르시되 진실로 진실로 네게 이르노니 사람이 거듭나지 아니하면 하나님의 나라를 볼 수 없느니라",
+      "en": "In reply Jesus declared, \"I tell you the truth, no one can see the kingdom of God unless he is born again.\"",
+      "de": "Jesus antwortete und sprach zu ihm: Wahrlich, wahrlich, ich sage dir: Es sei denn, daß jemand von neuem geboren werde, so kann er das Reich Gottes nicht sehen.",
+      "zh": "耶稣回答说：「我实实在在地告诉你，人若不重生，就不能见　神的国。」",
+      "ja": "イエスは答えて言われた。「まことに、まことに、あなたに告げます。人は、新しく生まれなければ、神の国を見ることはできません。」"
+    },
+    {
+      "number": 4,
+      "ko": "니고데모가 이르되 사람이 늙으면 어떻게 날 수 있사옵나이까 두 번째 모태에 들어갔다가 날 수 있사옵나이까",
+      "en": "\"How can a man be born when he is old?\" Nicodemus asked. \"Surely he cannot enter a second time into his mother's womb to be born!\"",
+      "de": "Nikodemus spricht zu ihm: Wie kann ein Mensch geboren werden wenn er alt ist? Kann er auch wiederum in seiner Mutter Leib gehen und geboren werden?",
+      "zh": "尼哥德慕说：「人已经老了，如何能重生呢？岂能再进母腹生出来吗？」",
+      "ja": "ニコデモは言った。「人は、老年になっていて、どのようにして生まれることができるのですか。もう一度、母の胎にはいって生まれることができましょうか。」"
+    },
+    {
+      "number": 5,
+      "ko": "예수께서 대답하시되 진실로 진실로 네게 이르노니 사람이 물과 성령으로 나지 아니하면 하나님의 나라에 들어갈 수 없느니라",
+      "en": "Jesus answered, \"I tell you the truth, no one can enter the kingdom of God unless he is born of water and the Spirit.",
+      "de": "Jesus antwortete: Wahrlich, wahrlich ich sage dir: Es sei denn daß jemand geboren werde aus Wasser und Geist, so kann er nicht in das Reich Gottes kommen.",
+      "zh": "耶稣说：「我实实在在地告诉你，人若不是从水和圣灵生的，就不能进　神的国。",
+      "ja": "イエスは答えられた。「まことに、まことに、あなたに告げます。人は、水と御霊によって生まれなければ、神の国にはいることができません。"
+    },
+    {
+      "number": 6,
+      "ko": "육으로 난 것은 육이요 영으로 난 것은 영이니",
+      "en": "Flesh gives birth to flesh, but the Spirit gives birth to spirit.",
+      "de": "Was vom Fleisch geboren wird, das ist Fleisch; und was vom Geist geboren wird, das ist Geist.",
+      "zh": "从肉身生的就是肉身；从灵生的就是灵。",
+      "ja": "肉によって生まれた者は肉です。御霊によって生まれた者は霊です。"
+    },
+    {
+      "number": 7,
+      "ko": "내가 네게 거듭나야 하겠다 하는 말을 놀랍게 여기지 말라",
+      "en": "You should not be surprised at my saying, 'You must be born again.'",
+      "de": "Laß dich's nicht wundern, daß ich dir gesagt habe: Ihr müsset von neuem geboren werden.",
+      "zh": "我说：『你们必须重生』，你不要以为希奇。",
+      "ja": "あなたがたは新しく生まれなければならない、とわたしが言ったことを不思議に思ってはなりません。"
+    },
+    {
+      "number": 8,
+      "ko": "바람이 임의로 불매 네가 그 소리는 들어도 어디서 와서 어디로 가는지 알지 못하나니 성령으로 난 사람도 다 그러하니라",
+      "en": "The wind blows wherever it pleases. You hear its sound, but you cannot tell where it comes from or where it is going. So it is with everyone born of the Spirit.\"",
+      "de": "Der Wind bläst, wo er will, und du hörst sein Sausen wohl; aber du weißt nicht, woher er kommt und wohin er fährt. Also ist ein jeglicher, der aus dem Geist geboren ist.",
+      "zh": "风随着意思吹，你听见风的响声，却不晓得从哪里来，往哪里去；凡从圣灵生的，也是如此。」",
+      "ja": "風はその思いのままに吹き、あなたはその音を聞くが、それがどこから来てどこへ行くかを知らない。御霊によって生まれる者もみな、そのとおりです。」"
+    },
+    {
+      "number": 9,
+      "ko": "니고데모가 대답하여 이르되 어찌 그러한 일이 있을 수 있나이까",
+      "en": "\"How can this be?\" Nicodemus asked.",
+      "de": "Nikodemus antwortete und sprach zu ihm: Wie mag solches zugehen?",
+      "zh": "尼哥德慕问他说：「怎能有这事呢？」",
+      "ja": "ニコデモは答えて言った。「どうして、そのようなことがありうるのでしょう。」"
+    },
+    {
+      "number": 10,
+      "ko": "예수께서 그에게 대답하여 이르시되 너는 이스라엘의 선생으로서 이러한 것들을 알지 못하느냐",
+      "en": "\"You are Israel's teacher,\" said Jesus, \"and do you not understand these things?",
+      "de": "Jesus antwortete und sprach zu ihm: Bist du ein Meister in Israel und weißt das nicht?",
+      "zh": "耶稣回答说：「你是以色列人的先生，还不明白这事吗？",
+      "ja": "イエスは答えて言われた。「あなたはイスラエルの教師でありながら、こういうことがわからないのですか。"
+    },
+    {
+      "number": 11,
+      "ko": "진실로 진실로 네게 이르노니 우리는 아는 것을 말하고 본 것을 증언하노라 그러나 너희가 우리의 증언을 받지 아니하는도다",
+      "en": "I tell you the truth, we speak of what we know, and we testify to what we have seen, but still you people do not accept our testimony.",
+      "de": "Wahrlich, wahrlich ich sage dir: Wir reden, was wir wissen, und zeugen, was wir gesehen haben; und ihr nehmt unser Zeugnis nicht an.",
+      "zh": "我实实在在地告诉你，我们所说的是我们知道的；我们所见证的是我们见过的；你们却不领受我们的见证。",
+      "ja": "まことに、まことに、あなたに告げます。わたしたちは、知っていることを話し、見たことをあかししているのに、あなたがたは、わたしたちのあかしを受け入れません。"
+    },
+    {
+      "number": 12,
+      "ko": "내가 땅의 일을 말하여도 너희가 믿지 아니하거든 하물며 하늘의 일을 말하면 어떻게 믿겠느냐",
+      "en": "I have spoken to you of earthly things and you do not believe; how then will you believe if I speak of heavenly things?",
+      "de": "Glaubet ihr nicht, wenn ich euch von irdischen Dingen sage, wie würdet ihr glauben, wenn ich euch von himmlischen Dingen sagen würde?",
+      "zh": "我对你们说地上的事，你们尚且不信，若说天上的事，如何能信呢？",
+      "ja": "あなたがたは、わたしが地上のことを話したとき、信じないくらいなら、天上のことを話したとて、どうして信じるでしょう。"
+    },
+    {
+      "number": 13,
+      "ko": "하늘에서 내려온 자 곧 인자 외에는 하늘에 올라간 자가 없느니라",
+      "en": "No one has ever gone into heaven except the one who came from heaven--the Son of Man.",
+      "de": "Und niemand fährt gen Himmel, denn der vom Himmel herniedergekommen ist, nämlich des Menschen Sohn, der im Himmel ist.",
+      "zh": "除了从天降下、仍旧在天的人子，没有人升过天。",
+      "ja": "だれも天に上った者はいません。しかし天から下った者はいます。すなわち人の子です。"
+    },
+    {
+      "number": 14,
+      "ko": "모세가 광야에서 뱀을 든 것 같이 인자도 들려야 하리니",
+      "en": "Just as Moses lifted up the snake in the desert, so the Son of Man must be lifted up,",
+      "de": "Und wie Mose in der Wüste eine Schlange erhöht hat, also muß des Menschen Sohn erhöht werden,",
+      "zh": "摩西在旷野怎样举蛇，人子也必照样被举起来，",
+      "ja": "モーセが荒野で蛇を上げたように、人の子もまた上げられなければなりません。"
+    },
+    {
+      "number": 15,
+      "ko": "이는 그를 믿는 자마다 영생을 얻게 하려 하심이니라",
+      "en": "that everyone who believes in him may have eternal life.",
+      "de": "auf das alle, die an ihn glauben, nicht verloren werden, sondern das ewige Leben haben.",
+      "zh": "叫一切信他的都得永生。",
+      "ja": "それは、信じる者がみな、人の子にあって永遠のいのちを持つためです。」"
+    },
+    {
+      "number": 16,
+      "ko": "하나님이 세상을 이처럼 사랑하사 독생자를 주셨으니 이는 그를 믿는 자마다 멸망하지 않고 영생을 얻게 하려 하심이라",
+      "en": "\"For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life.",
+      "de": "Also hat Gott die Welt geliebt, daß er seinen eingeborenen Sohn gab, auf daß alle, die an ihn glauben, nicht verloren werden, sondern das ewige Leben haben.",
+      "zh": "「　神爱世人，甚至将他的独生子赐给他们，叫一切信他的，不致灭亡，反得永生。",
+      "ja": "神は、実に、そのひとり子をお与えになったほどに、世を愛された。それは御子を信じる者が、ひとりとして滅びることなく、永遠のいのちを持つためである。"
+    },
+    {
+      "number": 17,
+      "ko": "하나님이 그 아들을 세상에 보내신 것은 세상을 심판하려 하심이 아니요 그로 말미암아 세상이 구원을 받게 하려 하심이라",
+      "en": "For God did not send his Son into the world to condemn the world, but to save the world through him.",
+      "de": "Denn Gott hat seinen Sohn nicht gesandt in die Welt, daß er die Welt richte, sondern daß die Welt durch ihn selig werde.",
+      "zh": "因为　神差他的儿子降世，不是要定世人的罪，乃是要叫世人因他得救。",
+      "ja": "神が御子を世に遣わされたのは、世をさばくためではなく、御子によって世が救われるためである。"
+    },
+    {
+      "number": 18,
+      "ko": "그를 믿는 자는 심판을 받지 아니하는 것이요 믿지 아니하는 자는 하나님의 독생자의 이름을 믿지 아니하므로 벌써 심판을 받은 것이니라",
+      "en": "Whoever believes in him is not condemned, but whoever does not believe stands condemned already because he has not believed in the name of God's one and only Son.",
+      "de": "Wer an ihn glaubt, der wird nicht gerichtet; wer aber nicht glaubt, der ist schon gerichtet, denn er glaubt nicht an den Namen des eingeborenen Sohnes Gottes.",
+      "zh": "信他的人，不被定罪；不信的人，罪已经定了，因为他不信　神独生子的名。",
+      "ja": "御子を信じる者はさばかれない。信じない者は神のひとり子の御名を信じなかったので、すでにさばかれている。"
+    },
+    {
+      "number": 19,
+      "ko": "그 정죄는 이것이니 곧 빛이 세상에 왔으되 사람들이 자기 행위가 악하므로 빛보다 어둠을 더 사랑한 것이니라",
+      "en": "This is the verdict: Light has come into the world, but men loved darkness instead of light because their deeds were evil.",
+      "de": "Das ist aber das Gericht, daß das Licht in die Welt gekommen ist, und die Menschen liebten die Finsternis mehr als das Licht; denn ihre Werke waren böse.",
+      "zh": "光来到世间，世人因自己的行为是恶的，不爱光，倒爱黑暗，定他们的罪就是在此。",
+      "ja": "そのさばきというのは、こうである。光が世に来ているのに、人々は光よりもやみを愛した。その行ないが悪かったからである。"
+    },
+    {
+      "number": 20,
+      "ko": "악을 행하는 자마다 빛을 미워하여 빛으로 오지 아니하나니 이는 그 행위가 드러날까 함이요",
+      "en": "Everyone who does evil hates the light, and will not come into the light for fear that his deeds will be exposed.",
+      "de": "Wer arges tut, der haßt das Licht und kommt nicht an das Licht, auf daß seine Werke nicht gestraft werden.",
+      "zh": "凡作恶的便恨光，并不来就光，恐怕他的行为受责备。",
+      "ja": "悪いことをする者は光を憎み、その行ないが明るみに出されることを恐れて、光のほうに来ない。"
+    },
+    {
+      "number": 21,
+      "ko": "진리를 따르는 자는 빛으로 오나니 이는 그 행위가 하나님 안에서 행한 것임을 나타내려 함이라 하시니라",
+      "en": "But whoever lives by the truth comes into the light, so that it may be seen plainly that what he has done has been done through God.\"",
+      "de": "Wer aber die Wahrheit tut, der kommt an das Licht, daß seine Werke offenbar werden; denn sie sind in Gott getan.",
+      "zh": "但行真理的必来就光，要显明他所行的是靠　神而行。」",
+      "ja": "しかし、真理を行なう者は、光のほうに来る。その行ないが神にあってなされたことが明らかにされるためである。"
+    },
+    {
+      "number": 22,
+      "ko": "그 후에 예수께서 제자들과 유대 땅으로 가서 거기 함께 유하시며 세례를 베푸시더라",
+      "en": "After this, Jesus and his disciples went out into the Judean countryside, where he spent some time with them, and baptized.",
+      "de": "Darnach kam Jesus und seine Jünger in das jüdische Land und hatte daselbst sein Wesen mit ihnen und taufte.",
+      "zh": "这事以后，耶稣和门徒到了犹太地，在那里居住，施洗。",
+      "ja": "その後、イエスは弟子たちと、ユダヤの地に行き、彼らとともにそこに滞在して、バプテスマを授けておられた。"
+    },
+    {
+      "number": 23,
+      "ko": "요한도 살렘 가까운 애논에서 세례를 베푸니 거기 물이 많음이라 그러므로 사람들이 와서 세례를 받더라",
+      "en": "Now John also was baptizing at Aenon near Salim, because there was plenty of water, and people were constantly coming to be baptized.",
+      "de": "Johannes aber taufte auch noch zu Enon, nahe bei Salim, denn es war viel Wasser daselbst; und sie kamen dahin und ließen sich taufen.",
+      "zh": "约翰在靠近撒冷的哀嫩也施洗；因为那里水多，众人都去受洗。（",
+      "ja": "一方ヨハネもサリムに近いアイノンでバプテスマを授けていた。そこには水が多かったからである。人々は次々にやって来て、バプテスマを受けていた。"
+    },
+    {
+      "number": 24,
+      "ko": "요한이 아직 옥에 갇히지 아니하였더라",
+      "en": "(This was before John was put in prison.)",
+      "de": "Denn Johannes war noch nicht ins Gefängnis gelegt.",
+      "zh": "那时约翰还没有下在监里。）",
+      "ja": "――ヨハネは、まだ投獄されていなかったからである。――"
+    },
+    {
+      "number": 25,
+      "ko": "이에 요한의 제자 중에서 한 유대인과 더불어 정결예식에 대하여 변론이 되었더니",
+      "en": "An argument developed between some of John's disciples and a certain Jew over the matter of ceremonial washing.",
+      "de": "Da erhob sich eine Frage unter den Jüngern des Johannes mit den Juden über die Reinigung.",
+      "zh": "约翰的门徒和一个犹太人辩论洁净的礼，",
+      "ja": "それで、ヨハネの弟子たちが、あるユダヤ人ときよめについて論議した。"
+    },
+    {
+      "number": 26,
+      "ko": "그들이 요한에게 가서 이르되 랍비여 선생님과 함께 요단 강 저편에 있던 이 곧 선생님이 증언하시던 이가 세례를 베풀매 사람이 다 그에게로 가더이다",
+      "en": "They came to John and said to him, \"Rabbi, that man who was with you on the other side of the Jordan--the one you testified about--well, he is baptizing, and everyone is going to him.\"",
+      "de": "Und sie kamen zu Johannes und sprachen zu ihm: Meister, der bei dir war jenseit des Jordans, von dem du zeugtest, siehe, der tauft, und jedermann kommt zu ihm.",
+      "zh": "就来见约翰，说：「拉比，从前同你在约旦河外、你所见证的那位，现在施洗，众人都往他那里去了。」",
+      "ja": "彼らはヨハネのところに来て言った。「先生。見てください。ヨルダンの向こう岸であなたといっしょにいて、あなたが証言なさったあの方が、バプテスマを授けておられます。そして、みなあの方のほうへ行きます。」"
+    },
+    {
+      "number": 27,
+      "ko": "요한이 대답하여 이르되 만일 하늘에서 주신 바 아니면 사람이 아무 것도 받을 수 없느니라",
+      "en": "To this John replied, \"A man can receive only what is given him from heaven.",
+      "de": "Johannes antwortete und sprach: Ein Mensch kann nichts nehmen, es werde ihm denn gegeben vom Himmel.",
+      "zh": "约翰说：「若不是从天上赐的，人就不能得什么。",
+      "ja": "ヨハネは答えて言った。「人は、天から与えられるのでなければ、何も受けることはできません。"
+    },
+    {
+      "number": 28,
+      "ko": "내가 말한 바 나는 그리스도가 아니요 그의 앞에 보내심을 받은 자라고 한 것을 증언할 자는 너희니라",
+      "en": "You yourselves can testify that I said, 'I am not the Christ but am sent ahead of him.'",
+      "de": "Ihr selbst seid meine Zeugen, daß ich gesagt habe, ich sei nicht Christus, sondern vor ihm her gesandt.",
+      "zh": "我曾说：『我不是基督，是奉差遣在他前面的』，你们自己可以给我作见证。",
+      "ja": "あなたがたこそ、『私はキリストではなく、その前に遣わされた者である。』と私が言ったことの証人です。"
+    },
+    {
+      "number": 29,
+      "ko": "신부를 취하는 자는 신랑이나 서서 신랑의 음성을 듣는 친구가 크게 기뻐하나니 나는 이러한 기쁨으로 충만하였노라",
+      "en": "The bride belongs to the bridegroom. The friend who attends the bridegroom waits and listens for him, and is full of joy when he hears the bridegroom's voice. That joy is mine, and it is now complete.",
+      "de": "Wer die Braut hat, der ist der Bräutigam; der Freund aber des Bräutigams steht und hört ihm zu und freut sich hoch über des Bräutigams Stimme. Diese meine Freude ist nun erfüllt.",
+      "zh": "娶新妇的就是新郎；新郎的朋友站着，听见新郎的声音就甚喜乐。故此，我这喜乐满足了。",
+      "ja": "花嫁を迎える者は花婿です。そこにいて、花婿のことばに耳を傾けているその友人は、花婿の声を聞いて大いに喜びます。それで、私もその喜びで満たされているのです。"
+    },
+    {
+      "number": 30,
+      "ko": "그는 흥하여야 하겠고 나는 쇠하여야 하리라 하니라",
+      "en": "He must become greater; I must become less.",
+      "de": "Er muß wachsen, ich aber muß abnehmen.",
+      "zh": "他必兴旺，我必衰微。」",
+      "ja": "あの方は盛んになり私は衰えなければなりません。」"
+    },
+    {
+      "number": 31,
+      "ko": "위로부터 오시는 이는 만물 위에 계시고 땅에서 난 이는 땅에 속하여 땅에 속한 것을 말하느니라 하늘로부터 오시는 이는 만물 위에 계시나니",
+      "en": "\"The one who comes from above is above all; the one who is from the earth belongs to the earth, and speaks as one from the earth. The one who comes from heaven is above all.",
+      "de": "Der von obenher kommt, ist über alle. Wer von der Erde ist, der ist von der Erde und redet von der Erde. Der vom Himmel kommt, der ist über alle",
+      "zh": "「从天上来的是在万有之上；从地上来的是属乎地，他所说的也是属乎地。从天上来的是在万有之上。",
+      "ja": "上から来る方は、すべてのものの上におられ、地から出る者は地に属し、地のことばを話す。天から来る方は、すべてのものの上におられる。"
+    },
+    {
+      "number": 32,
+      "ko": "그가 친히 보고 들은 것을 증언하되 그의 증언을 받는 자가 없도다",
+      "en": "He testifies to what he has seen and heard, but no one accepts his testimony.",
+      "de": "und zeugt, was er gesehen und gehört hat; und sein Zeugnis nimmt niemand an.",
+      "zh": "他将所见所闻的见证出来，只是没有人领受他的见证。",
+      "ja": "この方は見たこと、また聞いたことをあかしされるが、だれもそのあかしを受け入れない。"
+    },
+    {
+      "number": 33,
+      "ko": "그의 증언을 받는 자는 하나님이 참되시다는 것을 인쳤느니라",
+      "en": "The man who has accepted it has certified that God is truthful.",
+      "de": "Wer es aber annimmt, der besiegelt's, daß Gott wahrhaftig sei.",
+      "zh": "那领受他见证的，就印上印，证明　神是真的。",
+      "ja": "そのあかしを受け入れた者は、神は真実であるということに確認の印を押したのである。"
+    },
+    {
+      "number": 34,
+      "ko": "하나님이 보내신 이는 하나님의 말씀을 하나니 이는 하나님이 성령을 한량 없이 주심이니라",
+      "en": "For the one whom God has sent speaks the words of God, for God gives the Spirit without limit.",
+      "de": "Denn welchen Gott gesandt hat, der redet Gottes Worte; denn Gott gibt den Geist nicht nach dem Maß.",
+      "zh": "神所差来的就说　神的话，因为　神赐圣灵给他是没有限量的。",
+      "ja": "神がお遣わしになった方は、神のことばを話される。神が御霊を無限に与えられるからである。"
+    },
+    {
+      "number": 35,
+      "ko": "아버지께서 아들을 사랑하사 만물을 다 그의 손에 주셨으니",
+      "en": "The Father loves the Son and has placed everything in his hands.",
+      "de": "Der Vater hat den Sohn lieb und hat ihm alles in seine Hand gegeben.",
+      "zh": "父爱子，已将万有交在他手里。",
+      "ja": "父は御子を愛しておられ、万物を御子の手にお渡しになった。"
+    },
+    {
+      "number": 36,
+      "ko": "아들을 믿는 자에게는 영생이 있고 아들에게 순종하지 아니하는 자는 영생을 보지 못하고 도리어 하나님의 진노가 그 위에 머물러 있느니라",
+      "en": "Whoever believes in the Son has eternal life, but whoever rejects the Son will not see life, for God's wrath remains on him.\"",
+      "de": "Wer an den Sohn glaubt, der hat das ewige Leben. Wer dem Sohn nicht glaubt, der wird das Leben nicht sehen, sondern der Zorn Gottes bleibt über ihm.",
+      "zh": "信子的人有永生；不信子的人得不着永生，　神的震怒常在他身上。」",
+      "ja": "御子を信じる者は永遠のいのちを持つが、御子に聞き従わない者は、いのちを見ることがなく、神の怒りがその上にとどまる。"
+    }
+  ]
+}

@@ -1,0 +1,342 @@
+{
+  "book": "Luke",
+  "chapter": 10,
+  "verses": [
+    {
+      "number": 1,
+      "ko": "그 후에 주께서 따로 칠십 인을 세우사 친히 가시려는 각 동네와 각 지역으로 둘씩 앞서 보내시며",
+      "en": "After this the Lord appointed seventy-two others and sent them two by two ahead of him to every town and place where he was about to go.",
+      "de": "Darnach sonderte der HERR andere siebzig aus und sandte sie je zwei und zwei vor ihm her in alle Städte und Orte, da er wollte hinkommen,",
+      "zh": "这事以后，主又设立七十个人，差遣他们两个两个地在他前面，往自己所要到的各城各地方去，",
+      "ja": "その後、主は、別に七十人を定め、ご自分が行くつもりのすべての町や村へ、ふたりずつ先にお遣わしになった。"
+    },
+    {
+      "number": 2,
+      "ko": "이르시되 추수할 것은 많되 일꾼이 적으니 그러므로 추수하는 주인에게 청하여 추수할 일꾼들을 보내 주소서 하라",
+      "en": "He told them, \"The harvest is plentiful, but the workers are few. Ask the Lord of the harvest, therefore, to send out workers into his harvest field.",
+      "de": "und sprach zu ihnen: Die Ernte ist groß, der Arbeiter aber sind wenige. Bittet den HERRN der Ernte, daß er Arbeiter aussende in seine Ernte.",
+      "zh": "就对他们说：「要收的庄稼多，做工的人少。所以，你们当求庄稼的主打发工人出去收他的庄稼。",
+      "ja": "そして、彼らに言われた。「実りは多いが、働き手が少ない。だから、収穫の主に、収穫のために働き手を送ってくださるように祈りなさい。"
+    },
+    {
+      "number": 3,
+      "ko": "갈지어다 내가 너희를 보냄이 어린 양을 이리 가운데로 보냄과 같도다",
+      "en": "Go! I am sending you out like lambs among wolves.",
+      "de": "Gehet hin; siehe, ich sende euch als die Lämmer mitten unter die Wölfe.",
+      "zh": "你们去吧！我差你们出去，如同羊羔进入狼群。",
+      "ja": "さあ、行きなさい。いいですか。わたしがあなたがたを遣わすのは、狼の中に小羊を送り出すようなものです。"
+    },
+    {
+      "number": 4,
+      "ko": "전대나 배낭이나 신발을 가지지 말며 길에서 아무에게도 문안하지 말며",
+      "en": "Do not take a purse or bag or sandals; and do not greet anyone on the road.",
+      "de": "Tragt keinen Beutel noch Tasche noch Schuhe und grüßet niemand auf der Straße.",
+      "zh": "不要带钱囊，不要带口袋，不要带鞋；在路上也不要问人的安。",
+      "ja": "財布も旅行袋も持たず、くつもはかずに行きなさい。だれにも、道であいさつしてはいけません。"
+    },
+    {
+      "number": 5,
+      "ko": "어느 집에 들어가든지 먼저 말하되 이 집이 평안할지어다 하라",
+      "en": "\"When you enter a house, first say, 'Peace to this house.'",
+      "de": "Wo ihr in ein Haus kommt, da sprecht zuerst: Friede sei in diesem Hause!",
+      "zh": "无论进哪一家，先要说：『愿这一家平安。』",
+      "ja": "どんな家にはいっても、まず、『この家に平安があるように。』と言いなさい。"
+    },
+    {
+      "number": 6,
+      "ko": "만일 평안을 받을 사람이 거기 있으면 너희의 평안이 그에게 머물 것이요 그렇지 않으면 너희에게로 돌아오리라",
+      "en": "If a man of peace is there, your peace will rest on him; if not, it will return to you.",
+      "de": "Und so daselbst wird ein Kind des Friedens sein, so wird euer Friede auf ihm beruhen; wo aber nicht, so wird sich euer Friede wieder zu euch wenden.",
+      "zh": "那里若有当得平安的人，你们所求的平安就必临到那家；不然，就归与你们了。",
+      "ja": "もしそこに平安の子がいたら、あなたがたの祈った平安は、その人の上にとどまります。だが、もしいないなら、その平安はあなたがたに返って来ます。"
+    },
+    {
+      "number": 7,
+      "ko": "그 집에 유하며 주는 것을 먹고 마시라 일꾼이 그 삯을 받는 것이 마땅하니라 이 집에서 저 집으로 옮기지 말라",
+      "en": "Stay in that house, eating and drinking whatever they give you, for the worker deserves his wages. Do not move around from house to house.",
+      "de": "In dem Hause aber bleibet, esset und trinket, was sie haben; denn ein Arbeiter ist seines Lohnes wert. Ihr sollt nicht von einem Hause zum anderen gehen.",
+      "zh": "你们要住在那家，吃喝他们所供给的，因为工人得工价是应当的；不要从这家搬到那家。",
+      "ja": "その家に泊まっていて、出してくれる物を飲み食いしなさい。働く者が報酬を受けるのは、当然だからです。家から家へと渡り歩いてはいけません。"
+    },
+    {
+      "number": 8,
+      "ko": "어느 동네에 들어가든지 너희를 영접하거든 너희 앞에 차려놓는 것을 먹고",
+      "en": "\"When you enter a town and are welcomed, eat what is set before you.",
+      "de": "Und wo ihr in eine Stadt kommt und sie euch aufnehmen, da esset, was euch wird vorgetragen;",
+      "zh": "无论进哪一城，人若接待你们，给你们摆上什么，你们就吃什么。",
+      "ja": "どの町にはいっても、あなたがたを受け入れてくれたら、出される物を食べなさい。"
+    },
+    {
+      "number": 9,
+      "ko": "거기 있는 병자들을 고치고 또 말하기를 하나님의 나라가 너희에게 가까이 왔다 하라",
+      "en": "Heal the sick who are there and tell them, 'The kingdom of God is near you.'",
+      "de": "und heilet die Kranken, die daselbst sind, und saget ihnen: Das Reich Gottes ist nahe zu euch gekommen.",
+      "zh": "要医治那城里的病人，对他们说：『　神的国临近你们了。』",
+      "ja": "そして、その町の病人を直し、彼らに、『神の国が、あなたがたに近づいた。』と言いなさい。"
+    },
+    {
+      "number": 10,
+      "ko": "어느 동네에 들어가든지 너희를 영접하지 아니하거든 그 거리로 나와서 말하되",
+      "en": "But when you enter a town and are not welcomed, go into its streets and say,",
+      "de": "Wo ihr aber in eine Stadt kommt, da sie euch nicht aufnehmen, da geht heraus auf ihre Gassen und sprecht:",
+      "zh": "无论进哪一城，人若不接待你们，你们就到街上去，",
+      "ja": "しかし、町にはいっても、人々があなたがたを受け入れないならば、大通りに出て、こう言いなさい。"
+    },
+    {
+      "number": 11,
+      "ko": "너희 동네에서 우리 발에 묻은 먼지도 너희에게 떨어버리노라 그러나 하나님의 나라가 가까이 온 줄을 알라 하라",
+      "en": "'Even the dust of your town that sticks to our feet we wipe off against you. Yet be sure of this: The kingdom of God is near.'",
+      "de": "Auch den Staub, der sich an uns gehängt hat von eurer Stadt, schlagen wir ab auf euch; doch sollt ihr wissen, daß euch das Reich Gottes nahe gewesen ist.",
+      "zh": "说：『就是你们城里的尘土黏在我们的脚上，我们也当着你们擦去。虽然如此，你们该知道　神的国临近了。』",
+      "ja": "『私たちは足についたこの町のちりも、あなたがたにぬぐい捨てて行きます。しかし、神の国が近づいたことは承知していなさい。』"
+    },
+    {
+      "number": 12,
+      "ko": "내가 너희에게 말하노니 그 날에 소돔이 그 동네보다 견디기 쉬우리라",
+      "en": "I tell you, it will be more bearable on that day for Sodom than for that town.",
+      "de": "Ich sage euch: Es wird Sodom erträglicher gehen an jenem Tage denn solcher Stadt.",
+      "zh": "我告诉你们，当审判的日子，所多玛所受的，比那城还容易受呢！」",
+      "ja": "あなたがたに言うが、その日には、その町よりもソドムのほうがまだ罰が軽いのです。"
+    },
+    {
+      "number": 13,
+      "ko": "화 있을진저 고라신아, 화 있을진저 벳새다야, 너희에게 행한 모든 권능을 두로와 시돈에서 행하였더라면 그들이 벌써 베옷을 입고 재에 앉아 회개하였으리라",
+      "en": "\"Woe to you, Korazin! Woe to you, Bethsaida! For if the miracles that were performed in you had been performed in Tyre and Sidon, they would have repented long ago, sitting in sackcloth and ashes.",
+      "de": "Weh dir Chorazin! Weh dir Bethsaida! Denn wären solche Taten zu Tyrus oder Sidon geschehen, die bei euch geschehen sind, sie hätten vorzeiten im Sack und in der Asche gesessen und Buße getan.",
+      "zh": "「哥拉汛哪，你有祸了！伯赛大啊，你有祸了！因为在你们中间所行的异能若行在泰尔、西顿，他们早已披麻蒙灰，坐在地上悔改了。",
+      "ja": "ああコラジン。ああベツサイダ。おまえたちの間に起こった力あるわざが、もしもツロとシドンでなされたのだったら、彼らはとうの昔に荒布をまとい、灰の中にすわって、悔い改めていただろう。"
+    },
+    {
+      "number": 14,
+      "ko": "심판 때에 두로와 시돈이 너희보다 견디기 쉬우리라",
+      "en": "But it will be more bearable for Tyre and Sidon at the judgment than for you.",
+      "de": "Doch es wird Tyrus und Sidon erträglicher gehen im Gericht als euch.",
+      "zh": "当审判的日子，泰尔、西顿所受的，比你们还容易受呢！",
+      "ja": "しかし、さばきの日には、そのツロとシドンのほうが、まだおまえたちより罰が軽いのだ。"
+    },
+    {
+      "number": 15,
+      "ko": "가버나움아 네가 하늘에까지 높아지겠느냐 음부에까지 낮아지리라",
+      "en": "And you, Capernaum, will you be lifted up to the skies? No, you will go down to the depths.",
+      "de": "Und du, Kapernaum, die du bis an den Himmel erhoben bist, du wirst in die Hölle hinunter gestoßen werden.",
+      "zh": "迦百农啊，你已经升到天上，将来必推下阴间。」",
+      "ja": "カペナウム。どうしておまえが天に上げられることがありえよう。ハデスにまで落とされるのだ。"
+    },
+    {
+      "number": 16,
+      "ko": "너희 말을 듣는 자는 곧 내 말을 듣는 것이요 너희를 저버리는 자는 곧 나를 저버리는 것이요 나를 저버리는 자는 나 보내신 이를 저버리는 것이라 하시니라",
+      "en": "\"He who listens to you listens to me; he who rejects you rejects me; but he who rejects me rejects him who sent me.\"",
+      "de": "Wer euch hört, der hört mich; und wer euch verachtet, der verachtet mich; wer aber mich verachtet, der verachtet den, der mich gesandt hat.",
+      "zh": "又对门徒说：「听从你们的就是听从我；弃绝你们的就是弃绝我；弃绝我的就是弃绝那差我来的。」",
+      "ja": "あなたがたに耳を傾ける者は、わたしに耳を傾ける者であり、あなたがたを拒む者は、わたしを拒む者です。わたしを拒む者は、わたしを遣わされた方を拒む者です。」"
+    },
+    {
+      "number": 17,
+      "ko": "칠십 인이 기뻐하며 돌아와 이르되 주여 주의 이름이면 귀신들도 우리에게 항복하더이다",
+      "en": "The seventy-two returned with joy and said, \"Lord, even the demons submit to us in your name.\"",
+      "de": "Die Siebzig aber kamen wieder mit Freuden und sprachen: HERR, es sind uns auch die Teufel untertan in deinem Namen.",
+      "zh": "那七十个人欢欢喜喜地回来，说：「主啊！因你的名，就是鬼也服了我们。」",
+      "ja": "さて、七十人が喜んで帰って来て、こう言った。「主よ。あなたの御名を使うと、悪霊どもでさえ、私たちに服従します。」"
+    },
+    {
+      "number": 18,
+      "ko": "예수께서 이르시되 사탄이 하늘로부터 번개 같이 떨어지는 것을 내가 보았노라",
+      "en": "He replied, \"I saw Satan fall like lightning from heaven.",
+      "de": "Er sprach aber zu ihnen: Ich sah wohl den Satanas vom Himmel fallen als einen Blitz.",
+      "zh": "耶稣对他们说：「我曾看见撒但从天上坠落，像闪电一样。",
+      "ja": "イエスは言われた。「わたしが見ていると、サタンが、いなずまのように天から落ちました。"
+    },
+    {
+      "number": 19,
+      "ko": "내가 너희에게 뱀과 전갈을 밟으며 원수의 모든 능력을 제어할 권능을 주었으니 너희를 해칠 자가 결코 없으리라",
+      "en": "I have given you authority to trample on snakes and scorpions and to overcome all the power of the enemy; nothing will harm you.",
+      "de": "Sehet, ich habe euch Macht gegeben, zu treten auf Schlangen und Skorpione, und über alle Gewalt des Feindes; und nichts wird euch beschädigen.",
+      "zh": "我已经给你们权柄可以践踏蛇和蝎子，又胜过仇敌一切的能力，断没有什么能害你们。",
+      "ja": "確かに、わたしは、あなたがたに、蛇やさそりを踏みつけ、敵のあらゆる力に打ち勝つ権威を授けたのです。だから、あなたがたに害を加えるものは何一つありません。"
+    },
+    {
+      "number": 20,
+      "ko": "그러나 귀신들이 너희에게 항복하는 것으로 기뻐하지 말고 너희 이름이 하늘에 기록된 것으로 기뻐하라 하시니라",
+      "en": "However, do not rejoice that the spirits submit to you, but rejoice that your names are written in heaven.\"",
+      "de": "Doch darin freuet euch nicht, daß euch die Geister untertan sind. Freuet euch aber, daß eure Namen im Himmel geschrieben sind.",
+      "zh": "然而，不要因鬼服了你们就欢喜，要因你们的名记录在天上欢喜。」",
+      "ja": "だがしかし、悪霊どもがあなたがたに服従するからといって、喜んではなりません。ただあなたがたの名が天に書きしるされていることを喜びなさい。」"
+    },
+    {
+      "number": 21,
+      "ko": "그 때에 예수께서 성령으로 기뻐하시며 이르시되 천지의 주재이신 아버지여 이것을 지혜롭고 슬기 있는 자들에게는 숨기시고 어린 아이들에게는 나타내심을 감사하나이다 옳소이다 이렇게 된 것이 아버지의 뜻이니이다",
+      "en": "At that time Jesus, full of joy through the Holy Spirit, said, \"I praise you, Father, Lord of heaven and earth, because you have hidden these things from the wise and learned, and revealed them to little children. Yes, Father, for this was your good pleasure.",
+      "de": "Zu der Stunde freute sich Jesus im Geist und sprach: Ich preise dich, Vater und HERR des Himmels und der Erde, daß du solches verborgen hast den Weisen und Klugen, und hast es offenbart den Unmündigen. Ja, Vater, also war es wohlgefällig vor dir.",
+      "zh": "正当那时，耶稣被圣灵感动就欢乐，说：「父啊，天地的主，我感谢你！因为你将这些事向聪明通达人就藏起来，向婴孩就显出来。父啊！是的，因为你的美意本是如此。",
+      "ja": "ちょうどこのとき、イエスは、聖霊によって喜びにあふれて言われた。「天地の主であられる父よ。あなたをほめたたえます。これらのことを、賢い者や知恵のある者には隠して、幼子たちに現わしてくださいました。そうです、父よ。これがみこころにかなったことでした。"
+    },
+    {
+      "number": 22,
+      "ko": "내 아버지께서 모든 것을 내게 주셨으니 아버지 외에는 아들이 누구인지 아는 자가 없고 아들과 또 아들의 소원대로 계시를 받는 자 외에는 아버지가 누구인지 아는 자가 없나이다 하시고",
+      "en": "\"All things have been committed to me by my Father. No one knows who the Son is except the Father, and no one knows who the Father is except the Son and those to whom the Son chooses to reveal him.\"",
+      "de": "Es ist mir alles übergeben von meinem Vater. Und niemand weiß, wer der Sohn sei, denn nur der Vater; noch wer der Vater sei, denn nur der Sohn und welchem es der Sohn will offenbaren.",
+      "zh": "一切所有的都是我父交付我的；除了父，没有人知道子是谁；除了子和子所愿意指示的，没有人知道父是谁。」",
+      "ja": "すべてのものが、わたしの父から、わたしに渡されています。それで、子がだれであるかは、父のほかには知る者がありません。また父がだれであるかは、子と、子が父を知らせようと心に定めた人たちのほかは、だれも知る者がありません。」"
+    },
+    {
+      "number": 23,
+      "ko": "제자들을 돌아 보시며 조용히 이르시되 너희가 보는 것을 보는 눈은 복이 있도다",
+      "en": "Then he turned to his disciples and said privately, \"Blessed are the eyes that see what you see.",
+      "de": "Und er wandte sich zu seinen Jüngern und sprach insonderheit: Selig sind die Augen, die da sehen, was ihr sehet.",
+      "zh": "耶稣转身暗暗地对门徒说：「看见你们所看见的，那眼睛就有福了。",
+      "ja": "それからイエスは、弟子たちのほうに向いて、ひそかに言われた。「あなたがたの見ていることを見る目は幸いです。"
+    },
+    {
+      "number": 24,
+      "ko": "내가 너희에게 말하노니 많은 선지자와 임금이 너희가 보는 바를 보고자 하였으되 보지 못하였으며 너희가 듣는 바를 듣고자 하였으되 듣지 못하였느니라",
+      "en": "For I tell you that many prophets and kings wanted to see what you see but did not see it, and to hear what you hear but did not hear it.\"",
+      "de": "Denn ich sage euch: Viele Propheten und Könige wollten sehen, was ihr sehet, und haben's nicht gesehen, und hören, was ihr höret, und haben's nicht gehört.",
+      "zh": "我告诉你们，从前有许多先知和君王要看你们所看的，却没有看见，要听你们所听的，却没有听见。」",
+      "ja": "あなたがたに言いますが、多くの預言者や王たちがあなたがたの見ていることを見たいと願ったのに、見られなかったのです。また、あなたがたの聞いていることを聞きたいと願ったのに、聞けなかったのです。」"
+    },
+    {
+      "number": 25,
+      "ko": "어떤 율법교사가 일어나 예수를 시험하여 이르되 선생님 내가 무엇을 하여야 영생을 얻으리이까",
+      "en": "On one occasion an expert in the law stood up to test Jesus. \"Teacher,\" he asked, \"what must I do to inherit eternal life?\"",
+      "de": "Und siehe, da stand ein Schriftgelehrter auf, versuchte ihn und sprach: Meister, was muß ich tun, daß ich das ewige Leben ererbe?",
+      "zh": "有一个律法师起来试探耶稣， 说：「夫子！我该做什么才可以承受永生？」",
+      "ja": "すると、ある律法の専門家が立ち上がり、イエスをためそうとして言った。「先生。何をしたら永遠のいのちを自分のものとして受けることができるでしょうか。」"
+    },
+    {
+      "number": 26,
+      "ko": "예수께서 이르시되 율법에 무엇이라 기록되었으며 네가 어떻게 읽느냐",
+      "en": "\"What is written in the Law?\" he replied. \"How do you read it?\"",
+      "de": "Er aber sprach zu ihm: Wie steht im Gesetz geschrieben? Wie lieset du?",
+      "zh": "耶稣对他说：「律法上写的是什么？你念的是怎样呢？」",
+      "ja": "イエスは言われた。「律法には、何と書いてありますか。あなたはどう読んでいますか。」"
+    },
+    {
+      "number": 27,
+      "ko": "대답하여 이르되 네 마음을 다하며 목숨을 다하며 힘을 다하며 뜻을 다하여 주 너의 하나님을 사랑하고 또한 네 이웃을 네 자신 같이 사랑하라 하였나이다",
+      "en": "He answered: \"'Love the Lord your God with all your heart and with all your soul and with all your strength and with all your mind'; and, 'Love your neighbor as yourself.'\"",
+      "de": "Er antwortete und sprach: “Du sollst Gott, deinen HERRN, lieben von ganzem Herzen, von ganzer Seele, von allen Kräften und von ganzem Gemüte und deinen Nächsten als dich selbst.”",
+      "zh": "他回答说：「你要尽心、尽性、尽力、尽意爱主—你的　神；又要爱邻舍如同自己。」",
+      "ja": "すると彼は答えて言った。「『心を尽くし、思いを尽くし、力を尽くし、知性を尽くして、あなたの神である主を愛せよ。』また『あなたの隣人をあなた自身のように愛せよ。』とあります。」"
+    },
+    {
+      "number": 28,
+      "ko": "예수께서 이르시되 네 대답이 옳도다 이를 행하라 그러면 살리라 하시니",
+      "en": "\"You have answered correctly,\" Jesus replied. \"Do this and you will live.\"",
+      "de": "Er aber sprach zu ihm: Du hast recht geantwortet; tue das, so wirst du leben.",
+      "zh": "耶稣说：「你回答的是；你这样行，就必得永生。」",
+      "ja": "イエスは言われた。「そのとおりです。それを実行しなさい。そうすれば、いのちを得ます。」"
+    },
+    {
+      "number": 29,
+      "ko": "그 사람이 자기를 옳게 보이려고 예수께 여짜오되 그러면 내 이웃이 누구니이까",
+      "en": "But he wanted to justify himself, so he asked Jesus, \"And who is my neighbor?\"",
+      "de": "Er aber wollte sich selbst rechtfertigen und sprach zu Jesus: “Wer ist denn mein Nächster?”",
+      "zh": "那人要显明自己有理，就对耶稣说：「谁是我的邻舍呢？」",
+      "ja": "しかし彼は、自分の正しさを示そうとしてイエスに言った。「では、私の隣人とは、だれのことですか。」"
+    },
+    {
+      "number": 30,
+      "ko": "예수께서 대답하여 이르시되 어떤 사람이 예루살렘에서 여리고로 내려가다가 강도를 만나매 강도들이 그 옷을 벗기고 때려 거의 죽은 것을 버리고 갔더라",
+      "en": "In reply Jesus said: \"A man was going down from Jerusalem to Jericho, when he fell into the hands of robbers. They stripped him of his clothes, beat him and went away, leaving him half dead.",
+      "de": "Da antwortete Jesus und sprach: Es war ein Mensch, der ging von Jerusalem hinab gen Jericho und fiel unter die Mörder; die zogen ihn aus und schlugen ihn und gingen davon und ließen ihn halbtot liegen.",
+      "zh": "耶稣回答说：「有一个人从耶路撒冷下耶利哥去，落在强盗手中。他们剥去他的衣裳，把他打个半死，就丢下他走了。",
+      "ja": "イエスは答えて言われた。 「ある人が、エルサレムからエリコへ下る道で、強盗に襲われた。強盗どもは、その人の着物をはぎ取り、なぐりつけ、半殺しにして逃げて行った。"
+    },
+    {
+      "number": 31,
+      "ko": "마침 한 제사장이 그 길로 내려가다가 그를 보고 피하여 지나가고",
+      "en": "A priest happened to be going down the same road, and when he saw the man, he passed by on the other side.",
+      "de": "Es begab sich aber ungefähr, daß ein Priester dieselbe Straße hinabzog; und da er ihn sah, ging er vorüber.",
+      "zh": "偶然有一个祭司从这条路下来，看见他就从那边过去了。",
+      "ja": "たまたま、祭司がひとり、その道を下って来たが、彼を見ると、反対側を通り過ぎて行った。"
+    },
+    {
+      "number": 32,
+      "ko": "또 이와 같이 한 레위인도 그 곳에 이르러 그를 보고 피하여 지나가되",
+      "en": "So too, a Levite, when he came to the place and saw him, passed by on the other side.",
+      "de": "Desgleichen auch ein Levit; da er kam zu der Stätte und sah ihn, ging er vorüber.",
+      "zh": "又有一个利未人来到这地方，看见他，也照样从那边过去了。",
+      "ja": "同じようにレビ人も、その場所に来て彼を見ると、反対側を通り過ぎて行った。"
+    },
+    {
+      "number": 33,
+      "ko": "어떤 사마리아 사람은 여행하는 중 거기 이르러 그를 보고 불쌍히 여겨",
+      "en": "But a Samaritan, as he traveled, came where the man was; and when he saw him, he took pity on him.",
+      "de": "Ein Samariter aber reiste und kam dahin; und da er ihn sah, jammerte ihn sein,",
+      "zh": "惟有一个撒马利亚人行路来到那里，看见他就动了慈心，",
+      "ja": "ところが、あるサマリヤ人が、旅の途中、そこに来合わせ、彼を見てかわいそうに思い、"
+    },
+    {
+      "number": 34,
+      "ko": "가까이 가서 기름과 포도주를 그 상처에 붓고 싸매고 자기 짐승에 태워 주막으로 데리고 가서 돌보아 주니라",
+      "en": "He went to him and bandaged his wounds, pouring on oil and wine. Then he put the man on his own donkey, took him to an inn and took care of him.",
+      "de": "ging zu ihm, verband ihm seine Wunden und goß darein Öl und Wein und hob ihn auf sein Tier und führte ihn in die Herberge und pflegte sein.",
+      "zh": "上前用油和酒倒在他的伤处，包裹好了，扶他骑上自己的牲口，带到店里去照应他。",
+      "ja": "近寄って傷にオリーブ油とぶどう酒を注いで、ほうたいをし、自分の家畜に乗せて宿屋に連れて行き、介抱してやった。"
+    },
+    {
+      "number": 35,
+      "ko": "그 이튿날 그가 주막 주인에게 데나리온 둘을 내어 주며 이르되 이 사람을 돌보아 주라 비용이 더 들면 내가 돌아올 때에 갚으리라 하였으니",
+      "en": "The next day he took out two silver coins and gave them to the innkeeper. 'Look after him,' he said, 'and when I return, I will reimburse you for any extra expense you may have.'",
+      "de": "Des anderen Tages reiste er und zog heraus zwei Groschen und gab sie dem Wirte und sprach zu ihm: Pflege sein; und so du was mehr wirst dartun, will ich dir's bezahlen, wenn ich wiederkomme.",
+      "zh": "第二天拿出二钱银子来，交给店主，说：『你且照应他；此外所费用的，我回来必还你。』",
+      "ja": "次の日、彼はデナリ二つを取り出し、宿屋の主人に渡して言った。『介抱してあげてください。もっと費用がかかったら、私が帰りに払います。』"
+    },
+    {
+      "number": 36,
+      "ko": "네 생각에는 이 세 사람 중에 누가 강도 만난 자의 이웃이 되겠느냐",
+      "en": "\"Which of these three do you think was a neighbor to the man who fell into the hands of robbers?\"",
+      "de": "Welcher dünkt dich, der unter diesen Dreien der Nächste sei gewesen dem, der unter die Mörder gefallen war?",
+      "zh": "你想，这三个人哪一个是落在强盗手中的邻舍呢？」",
+      "ja": "この三人の中でだれが、強盗に襲われた者の隣人になったと思いますか。」"
+    },
+    {
+      "number": 37,
+      "ko": "이르되 자비를 베푼 자니이다 예수께서 이르시되 가서 너도 이와 같이 하라 하시니라",
+      "en": "The expert in the law replied, \"The one who had mercy on him.\" Jesus told him, \"Go and do likewise.\"",
+      "de": "Er sprach: Der die Barmherzigkeit an ihn tat. Da sprach Jesus zu ihm: So gehe hin und tue desgleichen!",
+      "zh": "他说：「是怜悯他的。」耶稣说：「你去照样行吧。」",
+      "ja": "彼は言った。「その人にあわれみをかけてやった人です。」するとイエスは言われた。「あなたも行って同じようにしなさい。」"
+    },
+    {
+      "number": 38,
+      "ko": "그들이 길 갈 때에 예수께서 한 마을에 들어가시매 마르다라 이름하는 한 여자가 자기 집으로 영접하더라",
+      "en": "As Jesus and his disciples were on their way, he came to a village where a woman named Martha opened her home to him.",
+      "de": "Es begab sich aber, da sie wandelten, ging er in einen Markt. Da war ein Weib mit Namen Martha, die nahm ihn auf in ihr Haus.",
+      "zh": "他们走路的时候，耶稣进了一个村庄。有一个女人，名叫马大，接他到自己家里。",
+      "ja": "さて、彼らが旅を続けているうち、イエスがある村にはいられると、マルタという女が喜んで家にお迎えした。"
+    },
+    {
+      "number": 39,
+      "ko": "그에게 마리아라 하는 동생이 있어 주의 발치에 앉아 그의 말씀을 듣더니",
+      "en": "She had a sister called Mary, who sat at the Lord's feet listening to what he said.",
+      "de": "Und sie hatte eine Schwester, die hieß Maria; die setzte sich zu Jesu Füßen und hörte seiner Rede zu.",
+      "zh": "她有一个妹子，名叫马利亚，在耶稣脚前坐着听他的道。",
+      "ja": "彼女にマリヤという妹がいたが、主の足もとにすわって、みことばに聞き入っていた。"
+    },
+    {
+      "number": 40,
+      "ko": "마르다는 준비하는 일이 많아 마음이 분주한지라 예수께 나아가 이르되 주여 내 동생이 나 혼자 일하게 두는 것을 생각하지 아니하시나이까 그를 명하사 나를 도와 주라 하소서",
+      "en": "But Martha was distracted by all the preparations that had to be made. She came to him and asked, \"Lord, don't you care that my sister has left me to do the work by myself? Tell her to help me!\"",
+      "de": "Martha aber machte sich viel zu schaffen, ihm zu dienen. Und sie trat hinzu und sprach: HERR, fragst du nicht darnach, daß mich meine Schwester läßt allein dienen? Sage ihr doch, daß sie es auch angreife!",
+      "zh": "马大伺候的事多，心里忙乱，就进前来，说：「主啊，我的妹子留下我一个人伺候，你不在意吗？请吩咐她来帮助我。」",
+      "ja": "ところが、マルタは、いろいろともてなしのために気が落ち着かず、みもとに来て言った。「主よ。妹が私だけにおもてなしをさせているのを、何ともお思いにならないのでしょうか。私の手伝いをするように、妹におっしゃってください。」"
+    },
+    {
+      "number": 41,
+      "ko": "주께서 대답하여 이르시되 마르다야 마르다야 네가 많은 일로 염려하고 근심하나",
+      "en": "\"Martha, Martha,\" the Lord answered, \"you are worried and upset about many things,",
+      "de": "Jesus aber antwortete und sprach zu ihr: Martha, Martha, du hast viel Sorge und Mühe;",
+      "zh": "耶稣回答说：「马大！马大！你为许多的事思虑烦扰，",
+      "ja": "主は答えて言われた。「マルタ、マルタ。あなたは、いろいろなことを心配して、気を使っています。"
+    },
+    {
+      "number": 42,
+      "ko": "몇 가지만 하든지 혹은 한 가지만이라도 족하니라 마리아는 이 좋은 편을 택하였으니 빼앗기지 아니하리라 하시니라",
+      "en": "but only one thing is needed. Mary has chosen what is better, and it will not be taken away from her.\" LUK",
+      "de": "eins aber ist not. Maria hat das gute Teil erwählt; das soll nicht von ihr genommen werden.",
+      "zh": "但是不可少的只有一件；马利亚已经选择那上好的福分，是不能夺去的。」",
+      "ja": "しかし、どうしても必要なことはわずかです。いや、一つだけです。マリヤはその良いほうを選んだのです。彼女からそれを取り上げてはいけません。」"
+    }
+  ]
+}

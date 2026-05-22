@@ -1,0 +1,206 @@
+{
+  "book": "2 Samuel",
+  "chapter": 24,
+  "verses": [
+    {
+      "number": 1,
+      "ko": "여호와께서 다시 이스라엘을 향하여 진노하사 그들을 치시려고 다윗을 격동시키사 가서 이스라엘과 유다의 인구를 조사하라 하신지라",
+      "en": "Again the anger of the LORD burned against Israel, and he incited David against them, saying, \"Go and take a census of Israel and Judah.\"",
+      "de": "Und der Zorn des HERRN ergrimmte abermals wider Israel und er reizte David wider sie, daß er sprach: Gehe hin, zähle Israel und Juda!",
+      "zh": "耶和华又向以色列人发怒，就激动大卫，使他吩咐人去数点以色列人和犹大人。",
+      "ja": "ヱホバ復イスラエルにむかひて怒を發しダビデを感動して彼等に敵對しめ往てイスラエルとユダを數へよと言しめたまふ"
+    },
+    {
+      "number": 2,
+      "ko": "이에 왕이 그 곁에 있는 군사령관 요압에게 이르되 너는 이스라엘 모든 지파 가운데로 다니며 이제 단에서부터 브엘세바까지 인구를 조사하여 백성의 수를 내게 보고하라 하니",
+      "en": "So the king said to Joab and the army commanders with him, \"Go throughout the tribes of Israel from Dan to Beersheba and enroll the fighting men, so that I may know how many there are.\"",
+      "de": "Und der König sprach zu Joab, seinem Feldhauptmann: Gehe umher in allen Stämmen Israels von Dan an bis gen Beer-Seba und zähle das Volk, daß ich wisse, wieviel sein ist!",
+      "zh": "大卫就吩咐跟随他的元帅约押说：「你去走遍以色列众支派，从但直到别是巴，数点百姓，我好知道他们的数目。」",
+      "ja": "王乃ちヨアブおよびヨアブとともにある軍長等にいひけるは請ふイスラエルの諸の支派の中をダンよりベエルシバに至るまで行めぐりて民を核べ我をして民の數を知しめよ"
+    },
+    {
+      "number": 3,
+      "ko": "요압이 왕께 아뢰되 이 백성이 얼마든지 왕의 하나님 여호와께서 백 배나 더하게 하사 내 주 왕의 눈으로 보게 하시기를 원하나이다 그런데 내 주 왕은 어찌하여 이런 일을 기뻐하시나이까 하되",
+      "en": "But Joab replied to the king, \"May the LORD your God multiply the troops a hundred times over, and may the eyes of my lord the king see it. But why does my lord the king want to do such a thing?\"",
+      "de": "Joab sprach zu dem König: Der HERR, dein Gott, tue diesem Volk, wie es jetzt ist, noch hundertmal soviel, daß mein Herr, der König, seiner Augen Lust daran sehe; aber was hat mein Herr König zu dieser Sache Lust?",
+      "zh": "约押对王说：「无论百姓多少，愿耶和华—你的　神再加增百倍，使我主我王亲眼得见。我主我王何必喜悦行这事呢？」",
+      "ja": "ヨアブ王にいひけるは幾何あるともねがはくは汝の神ヱホバ民を百倍に増たまへ而して王わが主の目それを視るにいたれ然りといへども王わが主の此事を悦びたまふは何故ぞやと"
+    },
+    {
+      "number": 4,
+      "ko": "왕의 명령이 요압과 군대 사령관들을 재촉한지라 요압과 사령관들이 이스라엘 인구를 조사하려고 왕 앞에서 물러나",
+      "en": "The king's word, however, overruled Joab and the army commanders; so they left the presence of the king to enroll the fighting men of Israel.",
+      "de": "Aber des Königs Wort stand fest wider Joab und die Hauptleute des Heeres. Also zog Joab aus und die Hauptleute des Heeres von dem König, daß sie das Volk Israel zählten.",
+      "zh": "但王的命令胜过约押和众军长。约押和众军长就从王面前出去，数点以色列的百姓。",
+      "ja": "されど王の言ヨアブと軍長等に勝ければヨアブと軍長等王の前を退きてイスラエルの民を核べに往り"
+    },
+    {
+      "number": 5,
+      "ko": "요단을 건너 갓 골짜기 가운데 성읍 아로엘 오른쪽 곧 야셀 맞은쪽에 이르러 장막을 치고",
+      "en": "After crossing the Jordan, they camped near Aroer, south of the town in the gorge, and then went through Gad and on to Jazer.",
+      "de": "Und sie gingen über den Jordan und lagerten sich zu Aroer, zur Rechten der Stadt, die am Bach Gad liegt, und gen Jaser hin,",
+      "zh": "他们过了约旦河，在迦得谷中、城的右边亚罗珥安营，与雅谢相对，",
+      "ja": "かれらヨルダンを濟りアロエルより即ち河の中の邑より始めてガドにいたりヤゼルにいたり"
+    },
+    {
+      "number": 6,
+      "ko": "길르앗에 이르고 닷딤홋시 땅에 이르고 또 다냐안에 이르러서는 시돈으로 돌아",
+      "en": "They went to Gilead and the region of Tahtim Hodshi, and on to Dan Jaan and around toward Sidon.",
+      "de": "und kamen gen Gilead und ins Niederland Hodsi, und kamen gen Dan-Jaan und um Sidon her,",
+      "zh": "又到了基列和他停·合示地，又到了但·雅安，绕到西顿，",
+      "ja": "ギレアデにいたりタテムホデシの地にいたり又ダニヤンにいたりてシドンに旋り"
+    },
+    {
+      "number": 7,
+      "ko": "두로 견고한 성에 이르고 히위 사람과 가나안 사람의 모든 성읍에 이르고 유다 남쪽으로 나와 브엘세바에 이르니라",
+      "en": "Then they went toward the fortress of Tyre and all the towns of the Hivites and Canaanites. Finally, they went on to Beersheba in the Negev of Judah.",
+      "de": "und kamen zu der festen Stadt Tyrus und allen Städten der Heviter und Kanaaniter, und kamen hinaus an den Mittag Juda's gen Beer-Seba,",
+      "zh": "来到泰尔的保障，并希未人和迦南人的各城，又到犹大南方的别是巴。",
+      "ja": "またツロの城にいたりヒビ人とカナン人の諸の邑にいたりユダの南に出てベエルシバにいたれり"
+    },
+    {
+      "number": 8,
+      "ko": "그들 무리가 국내를 두루 돌아 아홉 달 스무 날 만에 예루살렘에 이르러",
+      "en": "After they had gone through the entire land, they came back to Jerusalem at the end of nine months and twenty days.",
+      "de": "und durchzogen das ganze land und kamen nach neuen Monaten und zwanzig Tagen gen Jerusalem.",
+      "zh": "他们走遍全地，过了九个月零二十天，就回到耶路撒冷。",
+      "ja": "彼等國を徧く行めぐり九月と廿日を經てルサレムに至りぬ"
+    },
+    {
+      "number": 9,
+      "ko": "요압이 백성의 수를 왕께 보고하니 곧 이스라엘에서 칼을 빼는 담대한 자가 팔십만 명이요 유다 사람이 오십만 명이었더라",
+      "en": "Joab reported the number of the fighting men to the king: In Israel there were eight hundred thousand able-bodied men who could handle a sword, and in Judah five hundred thousand.",
+      "de": "Und Joab gab dem König die Summe des Volks, das gezählt war. Und es waren in Israel achthundertmal tausend starke Männer, die das Schwert auszogen, und in Juda fünfhundertmal tausend Mann.",
+      "zh": "约押将百姓的总数奏告于王：以色列拿刀的勇士有八十万；犹大有五十万。",
+      "ja": "ヨアブ人口の數を王に告たり即ちイスラエルに劍を抜く壯士八十萬ありき又ユダの人は五十萬ありき"
+    },
+    {
+      "number": 10,
+      "ko": "다윗이 백성을 조사한 후에 그의 마음에 자책하고 다윗이 여호와께 아뢰되 내가 이 일을 행함으로 큰 죄를 범하였나이다 여호와여 이제 간구하옵나니 종의 죄를 사하여 주옵소서 내가 심히 미련하게 행하였나이다 하니라",
+      "en": "David was conscience-stricken after he had counted the fighting men, and he said to the LORD, \"I have sinned greatly in what I have done. Now, O LORD, I beg you, take away the guilt of your servant. I have done a very foolish thing.\"",
+      "de": "Und das Herz schlug David, nachdem das Volk gezählt war. Und David sprach zum HERRN: Ich habe schwer gesündigt, daß ich das getan habe; und nun, HERR, nimm weg die Missetat deines Knechtes; denn ich habe sehr töricht getan.",
+      "zh": "大卫数点百姓以后，就心中自责，祷告耶和华说：「我行这事大有罪了。耶和华啊，求你除掉仆人的罪孽，因我所行的甚是愚昧。」",
+      "ja": "ダビデ民の數を書し後其心自ら責む是においてダビデ、ヱホバにいふ我これを爲して大に罪を犯したりねがはくはヱホバよ僕の罪を除きたまへ我甚だ愚なる事を爲りと"
+    },
+    {
+      "number": 11,
+      "ko": "다윗이 아침에 일어날 때에 여호와의 말씀이 다윗의 선견자 된 선지자 갓에게 임하여 이르시되",
+      "en": "Before David got up the next morning, the word of the LORD had come to Gad the prophet, David's seer:",
+      "de": "Und da David des Morgens aufstand, kam des HERRN Wort zu Gad, dem Propheten, Davids Seher, und sprach:",
+      "zh": "大卫早晨起来，耶和华的话临到先知迦得，就是大卫的先见，说：",
+      "ja": "ダビデ朝興し時ヱホバの言ダビデの先見者なる預言者ガデに臨みて曰く"
+    },
+    {
+      "number": 12,
+      "ko": "가서 다윗에게 말하기를 여호와께서 이와 같이 말씀하시기를 내가 네게 세 가지를 보이노니 너를 위하여 너는 그 중에서 하나를 택하라 내가 그것을 네게 행하리라 하셨다 하라 하시니",
+      "en": "\"Go and tell David, 'This is what the LORD says: I am giving you three options. Choose one of them for me to carry out against you.'\"",
+      "de": "Gehe hin und rede mit David: So spricht der HERR: Dreierlei bringe ich zu dir; erwähle dir deren eins, daß ich es dir tue.",
+      "zh": "「你去告诉大卫，说耶和华如此说：『我有三样灾，随你选择一样，我好降与你。』」",
+      "ja": "往てダビデに言へヱホバ斯いふ我汝に三を示す汝其一を擇べ我其を汝に爲んと"
+    },
+    {
+      "number": 13,
+      "ko": "갓이 다윗에게 이르러 아뢰어 이르되 왕의 땅에 칠 년 기근이 있을 것이니이까 혹은 왕이 왕의 원수에게 쫓겨 석 달 동안 그들 앞에서 도망하실 것이니이까 혹은 왕의 땅에 사흘 동안 전염병이 있을 것이니이까 왕은 생각하여 보고 나를 보내신 이에게 무엇을 대답하게 하소서 하는지라",
+      "en": "So Gad went to David and said to him, \"Shall there come upon you three years of famine in your land? Or three months of fleeing from your enemies while they pursue you? Or three days of plague in your land? Now then, think it over and decide how I should answer the one who sent me.\"",
+      "de": "Gad kam zu David und sagte es ihm an und sprach zu ihm: Willst du, daß sieben Jahre Teuerung in dein Land komme? oder daß du drei Monate vor deinen Widersachern fliehen müssest und sie dich verfolgen? oder drei Tage Pestilenz in deinem Lande sei? So merke nun und siehe, was ich wieder sagen soll dem, der mich gesandt hat.",
+      "zh": "于是迦得来见大卫，对他说：「你愿意国中有七年的饥荒呢？是在你敌人面前逃跑，被追赶三个月呢？是在你国中有三日的瘟疫呢？现在你要揣摩思想，我好回复那差我来的。」",
+      "ja": "ガデ、ダビデの許にいたりこれに告てこれにいひけるは汝の地に七年の饑饉いたらんか或は汝敵に追れて三月其前に遁んか或は爾の地に三日の疫病あらんか爾考へてわが如何なる答を我を遣はせし者に爲べきかを決めよ"
+    },
+    {
+      "number": 14,
+      "ko": "다윗이 갓에게 이르되 내가 고통 중에 있도다 청하건대 여호와께서는 긍휼이 크시니 우리가 여호와의 손에 빠지고 내가 사람의 손에 빠지지 아니하기를 원하노라 하는지라",
+      "en": "David said to Gad, \"I am in deep distress. Let us fall into the hands of the LORD, for his mercy is great; but do not let me fall into the hands of men.\"",
+      "de": "David sprach zu Gad: Es ist mir sehr angst; aber laß uns in die Hand des HERRN fallen, denn seine Barmherzigkeit ist groß; ich will nicht in der Menschen Hand fallen.",
+      "zh": "大卫对迦得说：「我甚为难！我愿落在耶和华的手里，因为他有丰盛的怜悯。我不愿落在人的手里。」",
+      "ja": "ダビデ、ガデにいひけるは我大に苦しむ請ふ我儕をしてヱホバの手に陷らしめよ其憐憫大なればなり我をして人の手に陷らしむるなかれ"
+    },
+    {
+      "number": 15,
+      "ko": "이에 여호와께서 그 아침부터 정하신 때까지 전염병을 이스라엘에게 내리시니 단에서부터 브엘세바까지 백성의 죽은 자가 칠만 명이라",
+      "en": "So the LORD sent a plague on Israel from that morning until the end of the time designated, and seventy thousand of the people from Dan to Beersheba died.",
+      "de": "Also ließ der HERR Pestilenz in Israel kommen von Morgen an bis zur bestimmten Zeit, daß des Volks starb von Dan an bis gen Beer-Seba siebzigtausend Mann.",
+      "zh": "于是，耶和华降瘟疫与以色列人，自早晨到所定的时候；从但直到别是巴，民间死了七万人。",
+      "ja": "是においてヱホバ朝より集會の時まで疫病をイスラエルに降したまふダンよりベエルシバまでに民の死る者七萬人なり"
+    },
+    {
+      "number": 16,
+      "ko": "천사가 예루살렘을 향하여 그의 손을 들어 멸하려 하더니 여호와께서 이 재앙 내리심을 뉘우치사 백성을 멸하는 천사에게 이르시되 족하다 이제는 네 손을 거두라 하시니 여호와의 사자가 여부스 사람 아라우나의 타작 마당 곁에 있는지라",
+      "en": "When the angel stretched out his hand to destroy Jerusalem, the LORD was grieved because of the calamity and said to the angel who was afflicting the people, \"Enough! Withdraw your hand.\" The angel of the LORD was then at the threshing floor of Araunah the Jebusite.",
+      "de": "Und da der Engel seine Hand ausstreckte über Jerusalem, daß er es verderbte, reute den HERRN das Übel, und er sprach zum Engel, zu dem Verderber im Volk: Es ist genug; laß deine Hand ab! Der Engel aber des HERRN war bei der Tenne Aravnas, des Jebusiters.",
+      "zh": "天使向耶路撒冷伸手要灭城的时候，耶和华后悔，就不降这灾了，吩咐灭民的天使说：「够了！住手吧！」那时耶和华的使者在耶布斯人亚劳拿的禾场那里。",
+      "ja": "天の使其手をエルサレムに伸てこれを滅さんとしたりしがヱホバ此害惡を悔て民を滅す天使にいひたまひけるは足り今汝の手を住めよと時にヱホバの使はヱブス人アラウナの禾場の傍にあり"
+    },
+    {
+      "number": 17,
+      "ko": "다윗이 백성을 치는 천사를 보고 곧 여호와께 아뢰어 이르되 나는 범죄하였고 악을 행하였거니와 이 양 무리는 무엇을 행하였나이까 청하건대 주의 손으로 나와 내 아버지의 집을 치소서 하니라",
+      "en": "When David saw the angel who was striking down the people, he said to the LORD, \"I am the one who has sinned and done wrong. These are but sheep. What have they done? Let your hand fall upon me and my family.\"",
+      "de": "Da aber David den Engel sah, der das Volk schlug, sprach er zum HERRN: Siehe, ich habe gesündigt, ich habe die Missetat getan; was habe diese Schafe getan? Laß deine Hand wider mich und meines Vaters Haus sein!",
+      "zh": "大卫看见灭民的天使，就祷告耶和华说：「我犯了罪，行了恶；但这群羊做了什么呢？愿你的手攻击我和我的父家。」",
+      "ja": "ダビデ民を撃つ天使を見し時ヱホバに申していひけるは嗚呼我は罪を犯したり我は惡き事を爲たり然ども是等の羊群は何を爲たるや請ふ爾の手を我とわが父の家に對たまへと"
+    },
+    {
+      "number": 18,
+      "ko": "이 날에 갓이 다윗에게 이르러 그에게 아뢰되 올라가서 여부스 사람 아라우나의 타작 마당에서 여호와를 위하여 제단을 쌓으소서 하매",
+      "en": "On that day Gad went to David and said to him, \"Go up and build an altar to the LORD on the threshing floor of Araunah the Jebusite.\"",
+      "de": "Und Gad kam zu David zur selben Zeit und sprach zu ihm: Gehe hinauf und richte dem HERRN einen Altar auf in der Tenne Aravnas, des Jebusiters!",
+      "zh": "当日，迦得来见大卫，对他说：「你上去，在耶布斯人亚劳拿的禾场上为耶和华筑一座坛。」",
+      "ja": "此日ガデ、ダビデの所にいたりてかれにいひけるは上りてヱブス人アラウナの禾場にてヱホバに壇を建よ"
+    },
+    {
+      "number": 19,
+      "ko": "다윗이 여호와께서 명령하신 바 갓의 말대로 올라가니라",
+      "en": "So David went up, as the LORD had commanded through Gad.",
+      "de": "Also ging David hinauf, wie Gad ihm gesagt und der HERR ihm geboten hatte.",
+      "zh": "大卫就照着迦得奉耶和华名所说的话上去了。",
+      "ja": "ダビデ、ガデの言に隨ひヱホバの命じたまひしごとくのぼれり"
+    },
+    {
+      "number": 20,
+      "ko": "아라우나가 바라보다가 왕과 그의 부하들이 자기를 향하여 건너옴을 보고 나가서 왕 앞에서 얼굴을 땅에 대고 절하며",
+      "en": "When Araunah looked and saw the king and his men coming toward him, he went out and bowed down before the king with his face to the ground.",
+      "de": "Und da Aravna sich wandte, sah er den König mit seinen Knechten zu ihm herüberkommen und fiel nieder auf sein Angesicht zur Erde",
+      "zh": "亚劳拿观看，见王和他臣仆前来，就迎接出去，脸伏于地，向王下拜，",
+      "ja": "アラウナ觀望て王と其臣僕の己の方に進み來るを見アラウナ出て王のまへに地に伏て拝せり"
+    },
+    {
+      "number": 21,
+      "ko": "이르되 어찌하여 내 주 왕께서 종에게 임하시나이까 하니 다윗이 이르되 네게서 타작 마당을 사서 여호와께 제단을 쌓아 백성에게 내리는 재앙을 그치게 하려 함이라 하는지라",
+      "en": "Araunah said, \"Why has my lord the king come to his servant?\" \"To buy your threshing floor,\" David answered, \"so I can build an altar to the LORD, that the plague on the people may be stopped.\"",
+      "de": "und sprach: Warum kommt mein Herr, der König, zu seinem Knecht? David sprach: Zu kaufen von dir die Tenne und zu bauen dem HERRN einen Altar, daß die Plage vom Volk aufhöre.",
+      "zh": "说：「我主我王为何来到仆人这里呢？」大卫说：「我要买你这禾场，为耶和华筑一座坛，使民间的瘟疫止住。」",
+      "ja": "かくてアラウナいひけるは何に因てか王わが主僕の所にきませるやダビデひけるは汝より禾場を買ひとりヱホバに壇を築きて民に降る災をとどめんとてなり"
+    },
+    {
+      "number": 22,
+      "ko": "아라우나가 다윗에게 아뢰되 원하건대 내 주 왕은 좋게 여기시는 대로 취하여 드리소서 번제에 대하여는 소가 있고 땔 나무에 대하여는 마당질 하는 도구와 소의 멍에가 있나이다",
+      "en": "Araunah said to David, \"Let my lord the king take whatever pleases him and offer it up. Here are oxen for the burnt offering, and here are threshing sledges and ox yokes for the wood.",
+      "de": "Aber Aravna sprach zu David: Mein Herr, der König, nehme und opfere, wie es ihm gefällt: siehe, da ist ein Rind zum Brandopfer und Schleifen und Geschirr vom Ochsen zu Holz.",
+      "zh": "亚劳拿对大卫说：「我主我王，你喜悦用什么，就拿去献祭。看哪，这里有牛可以作燔祭，有打粮的器具和套牛的轭可以当柴烧。",
+      "ja": "アラウナ、ダビデにいひけるはねがはくは王わが主其目に善と見ゆるものを取て献げたまへ燔祭には牛あり薪には打禾車と牛の器ありと"
+    },
+    {
+      "number": 23,
+      "ko": "왕이여 아라우나가 이것을 다 왕께 드리나이다 하고 또 왕께 아뢰되 왕의 하나님 여호와께서 왕을 기쁘게 받으시기를 원하나이다",
+      "en": "O king, Araunah gives all this to the king.\" Araunah also said to him, \"May the LORD your God accept you.\"",
+      "de": "Das alles gab Aravna, der König, dem König. Und Aravna sprach zum König: Der HERR, dein Gott, lasse dich ihm angenehm sein.",
+      "zh": "王啊，这一切，我亚劳拿都奉给你」；又对王说：「愿耶和华—你的　神悦纳你。」",
+      "ja": "アラリナこれを悉く王に奉呈ぐアラウナ又王にねがはくは爾の神ヱホバ爾を受納たまはんことをといふ"
+    },
+    {
+      "number": 24,
+      "ko": "왕이 아라우나에게 이르되 그렇지 아니하다 내가 값을 주고 네게서 사리라 값 없이는 내 하나님 여호와께 번제를 드리지 아니하리라 하고 다윗이 은 오십 세겔로 타작 마당과 소를 사고",
+      "en": "But the king replied to Araunah, \"No, I insist on paying you for it. I will not sacrifice to the LORD my God burnt offerings that cost me nothing.\" So David bought the threshing floor and the oxen and paid fifty shekels of silver for them.",
+      "de": "Aber der König sprach zu Aravna: Nicht also, sondern ich will dir's abkaufen um seinen Preis; denn ich will dem HERRN, meinem Gott, nicht Brandopfer tun, das ich umsonst habe. Also kaufte David die Tenne und das Rind um fünfzig Silberlinge",
+      "zh": "王对亚劳拿说：「不然。我必要按着价值向你买；我不肯用白得之物作燔祭献给耶和华—我的　神。」大卫就用五十舍客勒银子买了那禾场与牛。",
+      "ja": "王アラウナにいひけるは斯すべからず我必ず値をはらひて爾より買とらん我費なしに燔祭をわが神ヱホバに献ぐることをせじとダビデ銀五十シケルにて禾場と牛を買とれり"
+    },
+    {
+      "number": 25,
+      "ko": "그 곳에서 여호와를 위하여 제단을 쌓고 번제와 화목제를 드렸더니 이에 여호와께서 그 땅을 위한 기도를 들으시매 이스라엘에게 내리는 재앙이 그쳤더라",
+      "en": "David built an altar to the LORD there and sacrificed burnt offerings and fellowship offerings. Then the LORD answered prayer in behalf of the land, and the plague on Israel was stopped.",
+      "de": "und baute daselbst dem HERRN einen Altar und opferte Brandopfer und Dankopfer. Und der HERR ward dem Land versöhnt, und die Plage hörte auf von dem Volk Israel.",
+      "zh": "大卫在那里为耶和华筑了一座坛，献燔祭和平安祭。如此，耶和华垂听国民所求的，瘟疫在以色列人中就止住了。",
+      "ja": "ダビデ其處にてヱホバに壇を築き燔祭と酬恩祭を献げたり是においてヱホバ其地のために祈祷を聽たまひて災のイスラエルに降ること止りぬ"
+    }
+  ]
+}

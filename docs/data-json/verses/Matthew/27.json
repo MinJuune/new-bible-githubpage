@@ -1,0 +1,534 @@
+{
+  "book": "Matthew",
+  "chapter": 27,
+  "verses": [
+    {
+      "number": 1,
+      "ko": "새벽에 모든 대제사장과 백성의 장로들이 예수를 죽이려고 함께 의논하고",
+      "en": "Early in the morning, all the chief priests and the elders of the people came to the decision to put Jesus to death.",
+      "de": "Des Morgens aber hielten alle Hohenpriester und die Ältesten des Volks einen Rat über Jesus, daß sie ihn töteten.",
+      "zh": "到了早晨，众祭司长和民间的长老大家商议要治死耶稣，",
+      "ja": "さて、夜が明けると、祭司長、民の長老たち全員は、イエスを死刑にするために協議した。"
+    },
+    {
+      "number": 2,
+      "ko": "결박하여 끌고 가서 총독 빌라도에게 넘겨 주니라",
+      "en": "They bound him, led him away and handed him over to Pilate, the governor.",
+      "de": "Und banden ihn, führten ihn hin und überantworteten ihn dem Landpfleger Pontius Pilatus.",
+      "zh": "就把他捆绑，解去，交给巡抚彼拉多。",
+      "ja": "それから、イエスを縛って連れ出し、総督ピラトに引き渡した。"
+    },
+    {
+      "number": 3,
+      "ko": "그 때에 예수를 판 유다가 그의 정죄됨을 보고 스스로 뉘우쳐 그 은 삼십을 대제사장들과 장로들에게 도로 갖다 주며",
+      "en": "When Judas, who had betrayed him, saw that Jesus was condemned, he was seized with remorse and returned the thirty silver coins to the chief priests and the elders.",
+      "de": "Da das sah Judas, der ihn verraten hatte, daß er verdammt war zum Tode, gereute es ihn, und brachte wieder die dreißig Silberlinge den Hohenpriestern und den Ältesten",
+      "zh": "这时候，卖耶稣的犹大看见耶稣已经定了罪，就后悔，把那三十块钱拿回来给祭司长和长老，说：",
+      "ja": "そのとき、イエスを売ったユダは、イエスが罪に定められたのを知って後悔し、銀貨三十枚を、祭司長、長老たちに返して、"
+    },
+    {
+      "number": 4,
+      "ko": "이르되 내가 무죄한 피를 팔고 죄를 범하였도다 하니 그들이 이르되 그것이 우리에게 무슨 상관이냐 네가 당하라 하거늘",
+      "en": "\"I have sinned,\" he said, \"for I have betrayed innocent blood.\" \"What is that to us?\" they replied. \"That's your responsibility.\"",
+      "de": "und sprach: Ich habe übel getan, daß ich unschuldig Blut verraten habe.",
+      "zh": "「我卖了无辜之人的血是有罪了。」他们说：「那与我们有什么相干？你自己承当吧！」",
+      "ja": "「私は罪を犯した。罪のない人の血を売ったりして。」と言った。しかし、彼らは、「私たちの知ったことか。自分で始末することだ。」と言った。"
+    },
+    {
+      "number": 5,
+      "ko": "유다가 은을 성소에 던져 넣고 물러가서 스스로 목매어 죽은지라",
+      "en": "So Judas threw the money into the temple and left. Then he went away and hanged himself.",
+      "de": "Sie sprachen: Was geht uns das an? Da siehe du zu! Und er warf die Silberlinge in den Tempel, hob sich davon, ging hin und erhängte sich selbst.",
+      "zh": "犹大就把那银钱丢在殿里，出去吊死了。",
+      "ja": "それで、彼は銀貨を神殿に投げ込んで立ち去った。そして、外に出て行って、首をつった。"
+    },
+    {
+      "number": 6,
+      "ko": "대제사장들이 그 은을 거두며 이르되 이것은 핏값이라 성전고에 넣어 둠이 옳지 않다 하고",
+      "en": "The chief priests picked up the coins and said, \"It is against the law to put this into the treasury, since it is blood money.\"",
+      "de": "Aber die Hohenpriester nahmen die Silberlinge und sprachen: Es taugt nicht, daß wir sie in den Gotteskasten legen, denn es ist Blutgeld.",
+      "zh": "祭司长拾起银钱来，说：「这是血价，不可放在库里。」",
+      "ja": "祭司長たちは銀貨を取って、「これを神殿の金庫に入れるのはよくない。血の代価だから。」と言った。"
+    },
+    {
+      "number": 7,
+      "ko": "의논한 후 이것으로 토기장이의 밭을 사서 나그네의 묘지를 삼았으니",
+      "en": "So they decided to use the money to buy the potter's field as a burial place for foreigners.",
+      "de": "Sie hielten aber einen Rat und kauften den Töpfersacker darum zum Begräbnis der Pilger.",
+      "zh": "他们商议，就用那银钱买了窑户的一块田，为要埋葬外乡人。",
+      "ja": "彼らは相談して、その金で陶器師の畑を買い、旅人たちの墓地にした。"
+    },
+    {
+      "number": 8,
+      "ko": "그러므로 오늘날까지 그 밭을 피밭이라 일컫느니라",
+      "en": "That is why it has been called the Field of Blood to this day.",
+      "de": "Daher ist dieser Acker genannt der Blutacker bis auf den heutigen Tag.",
+      "zh": "所以那块田直到今日还叫做「血田」。",
+      "ja": "それで、その畑は、今でも血の畑と呼ばれている。"
+    },
+    {
+      "number": 9,
+      "ko": "이에 선지자 예레미야를 통하여 하신 말씀이 이루어졌나니 일렀으되 그들이 그 가격 매겨진 자 곧 이스라엘 자손 중에서 가격 매긴 자의 가격 곧 은 삼십을 가지고",
+      "en": "Then what was spoken by Jeremiah the prophet was fulfilled: \"They took the thirty silver coins, the price set on him by the people of Israel,",
+      "de": "Da ist erfüllt, was gesagt ist durch den Propheten Jeremia, da er spricht: “Sie haben genommen dreißig Silberlinge, damit bezahlt war der Verkaufte, welchen sie kauften von den Kindern Israel,",
+      "zh": "这就应了先知耶利米的话，说：「他们用那三十块钱，就是被估定之人的价钱，是以色列人中所估定的，",
+      "ja": "そのとき、預言者エレミヤを通して言われた事が成就した。「彼らは銀貨三十枚を取った。イスラエルの人々に値積もりされた人の値段である。"
+    },
+    {
+      "number": 10,
+      "ko": "토기장이의 밭 값으로 주었으니 이는 주께서 내게 명하신 바와 같으니라 하였더라",
+      "en": "and they used them to buy the potter's field, as the Lord commanded me.\"",
+      "de": "und haben sie gegeben um den Töpfersacker, wie mir der HERR befohlen hat.”",
+      "zh": "买了窑户的一块田；这是照着主所吩咐我的。」",
+      "ja": "彼らは、主が私にお命じになったように、その金を払って、陶器師の畑を買った。」"
+    },
+    {
+      "number": 11,
+      "ko": "예수께서 총독 앞에 섰으매 총독이 물어 이르되 네가 유대인의 왕이냐 예수께서 대답하시되 네 말이 옳도다 하시고",
+      "en": "Meanwhile Jesus stood before the governor, and the governor asked him, \"Are you the king of the Jews?\" \"Yes, it is as you say,\" Jesus replied.",
+      "de": "Jesus aber stand vor dem Landpfleger; und der Landpfleger fragte ihn und sprach: Bist du der Juden König? Jesus aber sprach zu ihm: Du sagst es.",
+      "zh": "耶稣站在巡抚面前；巡抚问他说：「你是犹太人的王吗？」耶稣说：「你说的是。」",
+      "ja": "さて、イエスは総督の前に立たれた。すると、総督はイエスに「あなたは、ユダヤ人の王ですか。」と尋ねた。イエスは彼に「そのとおりです。」と言われた。"
+    },
+    {
+      "number": 12,
+      "ko": "대제사장들과 장로들에게 고발을 당하되 아무 대답도 아니하시는지라",
+      "en": "When he was accused by the chief priests and the elders, he gave no answer.",
+      "de": "Und da er verklagt ward von den Hohenpriestern und Ältesten, antwortete er nicht.",
+      "zh": "他被祭司长和长老控告的时候，什么都不回答。",
+      "ja": "しかし、祭司長、長老たちから訴えがなされたときは、何もお答えにならなかった。"
+    },
+    {
+      "number": 13,
+      "ko": "이에 빌라도가 이르되 그들이 너를 쳐서 얼마나 많은 것으로 증언하는지 듣지 못하느냐 하되",
+      "en": "Then Pilate asked him, \"Don't you hear the testimony they are bringing against you?\"",
+      "de": "Da sprach Pilatus zu ihm: Hörst du nicht, wie hart sie dich verklagen?",
+      "zh": "彼拉多就对他说：「他们作见证告你这么多的事，你没有听见吗？」",
+      "ja": "そのとき、ピラトはイエスに言った。「あんなにいろいろとあなたに不利な証言をしているのに、聞こえないのですか。」"
+    },
+    {
+      "number": 14,
+      "ko": "한 마디도 대답하지 아니하시니 총독이 크게 놀라워하더라",
+      "en": "But Jesus made no reply, not even to a single charge--to the great amazement of the governor.",
+      "de": "Und er antwortete ihm nicht auf ein Wort, also daß der Landpfleger sich verwunderte.",
+      "zh": "耶稣仍不回答，连一句话也不说，以致巡抚甚觉希奇。",
+      "ja": "それでも、イエスは、どんな訴えに対しても一言もお答えにならなかった。それには総督も非常に驚いた。"
+    },
+    {
+      "number": 15,
+      "ko": "명절이 되면 총독이 무리의 청원대로 죄수 한 사람을 놓아 주는 전례가 있더니",
+      "en": "Now it was the governor's custom at the Feast to release a prisoner chosen by the crowd.",
+      "de": "Auf das Fest aber hatte der Landpfleger die Gewohnheit, dem Volk einen Gefangenen loszugeben, welchen sie wollten.",
+      "zh": "巡抚有一个常例，每逢这节期，随众人所要的释放一个囚犯给他们。",
+      "ja": "ところで総督は、その祭りには、群衆のために、いつも望みの囚人をひとりだけ赦免してやっていた。"
+    },
+    {
+      "number": 16,
+      "ko": "그 때에 바라바라 하는 유명한 죄수가 있는데",
+      "en": "At that time they had a notorious prisoner, called Barabbas.",
+      "de": "Er hatte aber zu der Zeit einen Gefangenen, einen sonderlichen vor anderen, der hieß Barabbas.",
+      "zh": "当时有一个出名的囚犯叫巴拉巴。",
+      "ja": "そのころ、バラバという名の知れた囚人が捕えられていた。"
+    },
+    {
+      "number": 17,
+      "ko": "그들이 모였을 때에 빌라도가 물어 이르되 너희는 내가 누구를 너희에게 놓아 주기를 원하느냐 바라바냐 그리스도라 하는 예수냐 하니",
+      "en": "So when the crowd had gathered, Pilate asked them, \"Which one do you want me to release to you: Barabbas, or Jesus who is called Christ?\"",
+      "de": "Und da sie versammelt waren, sprach Pilatus zu ihnen: Welchen wollt ihr, daß ich euch losgebe? Barabbas oder Jesus, von dem gesagt wird, er sei Christus?",
+      "zh": "众人聚集的时候，彼拉多就对他们说：「你们要我释放哪一个给你们？是巴拉巴呢？是称为基督的耶稣呢？」",
+      "ja": "それで、彼らが集まったとき、ピラトが言った。「あなたがたは、だれを釈放してほしいのか。バラバか、それともキリストと呼ばれているイエスか。」"
+    },
+    {
+      "number": 18,
+      "ko": "이는 그가 그들의 시기로 예수를 넘겨 준 줄 앎이더라",
+      "en": "For he knew it was out of envy that they had handed Jesus over to him.",
+      "de": "Denn er wußte wohl, daß sie ihn aus Neid überantwortet hatten.",
+      "zh": "巡抚原知道他们是因为嫉妒才把他解了来。",
+      "ja": "ピラトは、彼らがねたみからイエスを引き渡したことに気づいていたのである。"
+    },
+    {
+      "number": 19,
+      "ko": "총독이 재판석에 앉았을 때에 그의 아내가 사람을 보내어 이르되 저 옳은 사람에게 아무 상관도 하지 마옵소서 오늘 꿈에 내가 그 사람으로 인하여 애를 많이 태웠나이다 하더라",
+      "en": "While Pilate was sitting on the judge's seat, his wife sent him this message: \"Don't have anything to do with that innocent man, for I have suffered a great deal today in a dream because of him.\"",
+      "de": "Und da er auf dem Richtstuhl saß, schickte sein Weib zu ihm und ließ ihm sagen: Habe du nichts zu schaffen mit diesem Gerechten; ich habe heute viel erlitten im Traum seinetwegen.",
+      "zh": "正坐堂的时候，他的夫人打发人来说：「这义人的事，你一点不可管，因为我今天在梦中为他受了许多的苦。」",
+      "ja": "また、ピラトが裁判の席に着いていたとき、彼の妻が彼のもとに人をやって言わせた。「あの正しい人にはかかわり合わないでください。ゆうべ、私は夢で、あの人のことで苦しいめに会いましたから。」"
+    },
+    {
+      "number": 20,
+      "ko": "대제사장들과 장로들이 무리를 권하여 바라바를 달라 하게 하고 예수를 죽이자 하게 하였더니",
+      "en": "But the chief priests and the elders persuaded the crowd to ask for Barabbas and to have Jesus executed.",
+      "de": "Aber die Hohenpriester und die Ältesten überredeten das Volk, daß sie um Barabbas bitten sollten und Jesus umbrächten.",
+      "zh": "祭司长和长老挑唆众人，求释放巴拉巴，除灭耶稣。",
+      "ja": "しかし、祭司長、長老たちは、バラバのほうを願うよう、そして、イエスを死刑にするよう、群衆を説きつけた。"
+    },
+    {
+      "number": 21,
+      "ko": "총독이 대답하여 이르되 둘 중의 누구를 너희에게 놓아 주기를 원하느냐 이르되 바라바로소이다",
+      "en": "\"Which of the two do you want me to release to you?\" asked the governor. \"Barabbas,\" they answered.",
+      "de": "Da antwortete nun der Landpfleger und sprach zu ihnen: Welchen wollt ihr unter diesen zweien, den ich euch soll losgeben? Sie sprachen: Barabbas.",
+      "zh": "巡抚对众人说：「这两个人，你们要我释放哪一个给你们呢？」他们说：「巴拉巴。」",
+      "ja": "しかし、総督は彼らに答えて言った。「あなたがたは、ふたりのうちどちらを釈放してほしいのか。」彼らは言った。「バラバだ。」"
+    },
+    {
+      "number": 22,
+      "ko": "빌라도가 이르되 그러면 그리스도라 하는 예수를 내가 어떻게 하랴 그들이 다 이르되 십자가에 못 박혀야 하겠나이다",
+      "en": "\"What shall I do, then, with Jesus who is called Christ?\" Pilate asked. They all answered, \"Crucify him!\"",
+      "de": "Pilatus sprach zu ihnen: Was soll ich denn machen mit Jesus, von dem gesagt wird er sei Christus? Sie sprachen alle: Laß ihn kreuzigen!",
+      "zh": "彼拉多说：「这样，那称为基督的耶稣我怎么办他呢？」他们都说：「把他钉十字架！」",
+      "ja": "ピラトは彼らに言った。「では、キリストと言われているイエスを私はどのようにしようか。」彼らはいっせいに言った。「十字架につけろ。」"
+    },
+    {
+      "number": 23,
+      "ko": "빌라도가 이르되 어찜이냐 무슨 악한 일을 하였느냐 그들이 더욱 소리 질러 이르되 십자가에 못 박혀야 하겠나이다 하는지라",
+      "en": "\"Why? What crime has he committed?\" asked Pilate. But they shouted all the louder, \"Crucify him!\"",
+      "de": "Der Landpfleger sagte: Was hat er denn Übles getan? Sie schrieen aber noch mehr und sprachen: Laß ihn kreuzigen!",
+      "zh": "巡抚说：「为什么呢？他做了什么恶事呢？」他们便极力地喊着说：「把他钉十字架！」",
+      "ja": "だが、ピラトは言った。「あの人がどんな悪い事をしたというのか。」しかし、彼らはますます激しく「十字架につけろ。」と叫び続けた。"
+    },
+    {
+      "number": 24,
+      "ko": "빌라도가 아무 성과도 없이 도리어 민란이 나려는 것을 보고 물을 가져다가 무리 앞에서 손을 씻으며 이르되 이 사람의 피에 대하여 나는 무죄하니 너희가 당하라",
+      "en": "When Pilate saw that he was getting nowhere, but that instead an uproar was starting, he took water and washed his hands in front of the crowd. \"I am innocent of this man's blood,\" he said. \"It is your responsibility!\"",
+      "de": "Da aber Pilatus sah, daß er nichts schaffte, sondern daß ein viel größer Getümmel ward, nahm er Wasser und wusch die Hände vor dem Volk und sprach: Ich bin unschuldig an dem Blut dieses Gerechten, sehet ihr zu!",
+      "zh": "彼拉多见说也无济于事，反要生乱，就拿水在众人面前洗手，说：「流这义人的血，罪不在我，你们承当吧。」",
+      "ja": "そこでピラトは、自分では手の下しようがなく、かえって暴動になりそうなのを見て、群衆の目の前で水を取り寄せ、手を洗って、言った。「この人の血について、私には責任がない。自分たちで始末するがよい。」"
+    },
+    {
+      "number": 25,
+      "ko": "백성이 다 대답하여 이르되 그 피를 우리와 우리 자손에게 돌릴지어다 하거늘",
+      "en": "All the people answered, \"Let his blood be on us and on our children!\"",
+      "de": "Da antwortete das ganze Volk und sprach: Sein Blut komme über uns und unsere Kinder.",
+      "zh": "众人都回答说：「他的血归到我们和我们的子孙身上。」",
+      "ja": "すると、民衆はみな答えて言った。「その人の血は、私たちや子どもたちの上にかかってもいい。」"
+    },
+    {
+      "number": 26,
+      "ko": "이에 바라바는 그들에게 놓아 주고 예수는 채찍질하고 십자가에 못 박히게 넘겨 주니라",
+      "en": "Then he released Barabbas to them. But he had Jesus flogged, and handed him over to be crucified.",
+      "de": "Da gab er ihnen Barabbas los; aber Jesus ließ er geißeln und überantwortete ihn, daß er gekreuzigt würde.",
+      "zh": "于是彼拉多释放巴拉巴给他们，把耶稣鞭打了，交给人钉十字架。",
+      "ja": "そこで、ピラトは彼らのためにバラバを釈放し、イエスをむち打ってから、十字架につけるために引き渡した。"
+    },
+    {
+      "number": 27,
+      "ko": "이에 총독의 군병들이 예수를 데리고 관정 안으로 들어가서 온 군대를 그에게로 모으고",
+      "en": "Then the governor's soldiers took Jesus into the Praetorium and gathered the whole company of soldiers around him.",
+      "de": "Da nahmen die Kriegsknechte des Landpflegers Jesus zu sich in das Richthaus und sammelten über ihn die ganze Schar",
+      "zh": "巡抚的兵就把耶稣带进衙门，叫全营的兵都聚集在他那里。",
+      "ja": "それから、総督の兵士たちは、イエスを官邸の中に連れて行って、イエスの回りに全部隊を集めた。"
+    },
+    {
+      "number": 28,
+      "ko": "그의 옷을 벗기고 홍포를 입히며",
+      "en": "They stripped him and put a scarlet robe on him,",
+      "de": "und zogen ihn aus und legten ihm einen Purpurmantel an",
+      "zh": "他们给他脱了衣服，穿上一件朱红色袍子，",
+      "ja": "そして、イエスの着物を脱がせて、緋色の上着を着せた。"
+    },
+    {
+      "number": 29,
+      "ko": "가시관을 엮어 그 머리에 씌우고 갈대를 그 오른손에 들리고 그 앞에서 무릎을 꿇고 희롱하여 이르되 유대인의 왕이여 평안할지어다 하며",
+      "en": "and then twisted together a crown of thorns and set it on his head. They put a staff in his right hand and knelt in front of him and mocked him. \"Hail, king of the Jews!\" they said.",
+      "de": "und flochten eine Dornenkrone und setzten sie auf sein Haupt und ein Rohr in seine rechte Hand und beugten die Kniee vor ihm und verspotteten ihn und sprachen: Gegrüßet seist du, der Juden König!",
+      "zh": "用荆棘编做冠冕，戴在他头上，拿一根苇子放在他右手里，跪在他面前，戏弄他，说：「恭喜，犹太人的王啊！」",
+      "ja": "それから、いばらで冠を編み、頭にかぶらせ、右手に葦を持たせた。そして、彼らはイエスの前にひざまずいて、からかって言った。「ユダヤ人の王さま。ばんざい。」"
+    },
+    {
+      "number": 30,
+      "ko": "그에게 침 뱉고 갈대를 빼앗아 그의 머리를 치더라",
+      "en": "They spit on him, and took the staff and struck him on the head again and again.",
+      "de": "und spieen ihn an und nahmen das Rohr und schlugen damit sein Haupt.",
+      "zh": "又吐唾沫在他脸上，拿苇子打他的头。",
+      "ja": "また彼らはイエスにつばきをかけ、葦を取り上げてイエスの頭をたたいた。"
+    },
+    {
+      "number": 31,
+      "ko": "희롱을 다 한 후 홍포를 벗기고 도로 그의 옷을 입혀 십자가에 못 박으려고 끌고 나가니라",
+      "en": "After they had mocked him, they took off the robe and put his own clothes on him. Then they led him away to crucify him.",
+      "de": "Und da sie ihn verspottet hatten, zogen sie ihm seine Kleider an und führten ihn hin, daß sie ihn kreuzigten.",
+      "zh": "戏弄完了，就给他脱了袍子，仍穿上他自己的衣服，带他出去，要钉十字架。",
+      "ja": "こんなふうに、イエスをからかったあげく、その着物を脱がせて、もとの着物を着せ、十字架につけるために連れ出した。"
+    },
+    {
+      "number": 32,
+      "ko": "나가다가 시몬이란 구레네 사람을 만나매 그에게 예수의 십자가를 억지로 지워 가게 하였더라",
+      "en": "As they were going out, they met a man from Cyrene, named Simon, and they forced him to carry the cross.",
+      "de": "Und indem sie hinausgingen, fanden sie einen Menschen von Kyrene mit Namen Simon; den zwangen sie, daß er ihm sein Kreuz trug.",
+      "zh": "他们出来的时候，遇见一个古利奈人，名叫西门，就勉强他同去，好背着耶稣的十字架。",
+      "ja": "そして、彼らが出て行くと、シモンというクレネ人を見つけたので、彼らは、この人にイエスの十字架を、むりやりに背負わせた。"
+    },
+    {
+      "number": 33,
+      "ko": "골고다 즉 해골의 곳이라는 곳에 이르러",
+      "en": "They came to a place called Golgotha (which means The Place of the Skull).",
+      "de": "Und da sie an die Stätte kamen mit Namen Golgatha, das ist verdeutscht Schädelstätte,",
+      "zh": "到了一个地方名叫各各他，意思就是「髑髅地」。",
+      "ja": "ゴルゴタという所（「どくろ」と言われている場所）に来てから、"
+    },
+    {
+      "number": 34,
+      "ko": "쓸개 탄 포도주를 예수께 주어 마시게 하려 하였더니 예수께서 맛보시고 마시고자 하지 아니하시더라",
+      "en": "There they offered Jesus wine to drink, mixed with gall; but after tasting it, he refused to drink it.",
+      "de": "gaben sie ihm Essig zu trinken mit Galle vermischt; und da er's schmeckte, wollte er nicht trinken.",
+      "zh": "兵丁拿苦胆调和的酒给耶稣喝；他尝了，就不肯喝。",
+      "ja": "彼らはイエスに、苦みを混ぜたぶどう酒を飲ませようとした。イエスはそれをなめただけで、飲もうとはされなかった。"
+    },
+    {
+      "number": 35,
+      "ko": "그들이 예수를 십자가에 못 박은 후에 그 옷을 제비 뽑아 나누고",
+      "en": "When they had crucified him, they divided up his clothes by casting lots.",
+      "de": "Da sie ihn aber gekreuzigt hatten, teilten sie seine Kleider und warfen das Los darum, auf daß erfüllet würde, was gesagt ist durch den Propheten: “Sie haben meine Kleider unter sich geteilt, und über mein Gewand haben sie das Los geworfen.”",
+      "zh": "他们既将他钉在十字架上，就拈阄分他的衣服，",
+      "ja": "こうして、イエスを十字架につけてから、彼らはくじを引いて、イエスの着物を分け、"
+    },
+    {
+      "number": 36,
+      "ko": "거기 앉아 지키더라",
+      "en": "And sitting down, they kept watch over him there.",
+      "de": "Und sie saßen allda und hüteten sein.",
+      "zh": "又坐在那里看守他。",
+      "ja": "そこにすわって、イエスの見張りをした。"
+    },
+    {
+      "number": 37,
+      "ko": "그 머리 위에 이는 유대인의 왕 예수라 쓴 죄패를 붙였더라",
+      "en": "Above his head they placed the written charge against him: THIS IS JESUS, THE KING OF THE JEWS.",
+      "de": "Und oben zu seinen Häupten setzten sie die Ursache seines Todes, und war geschrieben: Dies ist Jesus, der Juden König.",
+      "zh": "在他头以上安一个牌子，写着他的罪状，说：「这是犹太人的王耶稣。」",
+      "ja": "また、イエスの頭の上には、「これはユダヤ人の王イエスである。」と書いた罪状書きを掲げた。"
+    },
+    {
+      "number": 38,
+      "ko": "이 때에 예수와 함께 강도 둘이 십자가에 못 박히니 하나는 우편에, 하나는 좌편에 있더라",
+      "en": "Two robbers were crucified with him, one on his right and one on his left.",
+      "de": "Und da wurden zwei Mörder mit ihm gekreuzigt, einer zur Rechten und einer zur Linken.",
+      "zh": "当时，有两个强盗和他同钉十字架，一个在右边，一个在左边。",
+      "ja": "そのとき、イエスといっしょに、ふたりの強盗が、ひとりは右に、ひとりは左に、十字架につけられた。"
+    },
+    {
+      "number": 39,
+      "ko": "지나가는 자들은 자기 머리를 흔들며 예수를 모욕하여",
+      "en": "Those who passed by hurled insults at him, shaking their heads",
+      "de": "Die aber vorübergingen, lästerten ihn und schüttelten ihre Köpfe",
+      "zh": "从那里经过的人讥诮他，摇着头，说：",
+      "ja": "道を行く人々は、頭を振りながらイエスをののしって、"
+    },
+    {
+      "number": 40,
+      "ko": "이르되 성전을 헐고 사흘에 짓는 자여 네가 만일 하나님의 아들이어든 자기를 구원하고 십자가에서 내려오라 하며",
+      "en": "and saying, \"You who are going to destroy the temple and build it in three days, save yourself! Come down from the cross, if you are the Son of God!\"",
+      "de": "und sprachen: Der du den Tempel Gottes zerbrichst und baust ihn in drei Tagen, hilf dir selber! Bist du Gottes Sohn, so steig herab von Kreuz.",
+      "zh": "「你这拆毁圣殿、三日又建造起来的，可以救自己吧！你如果是　神的儿子，就从十字架上下来吧！」",
+      "ja": "言った。「神殿を打ちこわして三日で建てる人よ。もし、神の子なら、自分を救ってみろ。十字架から降りて来い。」"
+    },
+    {
+      "number": 41,
+      "ko": "그와 같이 대제사장들도 서기관들과 장로들과 함께 희롱하여 이르되",
+      "en": "In the same way the chief priests, the teachers of the law and the elders mocked him.",
+      "de": "Desgleichen auch die Hohenpriester spotteten sein samt den Schriftgelehrten und Ältesten und sprachen:",
+      "zh": "祭司长和文士并长老也是这样戏弄他，说：",
+      "ja": "同じように、祭司長たちも律法学者、長老たちといっしょになって、イエスをあざけって言った。"
+    },
+    {
+      "number": 42,
+      "ko": "그가 남은 구원하였으되 자기는 구원할 수 없도다 그가 이스라엘의 왕이로다 지금 십자가에서 내려올지어다 그리하면 우리가 믿겠노라",
+      "en": "\"He saved others,\" they said, \"but he can't save himself! He's the King of Israel! Let him come down now from the cross, and we will believe in him.",
+      "de": "Andern hat er geholfen, und kann sich selber nicht helfen. Ist er der König Israels, so steige er nun vom Kreuz, so wollen wir ihm glauben.",
+      "zh": "「他救了别人，不能救自己。他是以色列的王，现在可以从十字架上下来，我们就信他。",
+      "ja": "「彼は他人を救ったが、自分は救えない。イスラエルの王さまなら、今、十字架から降りてもらおうか。そうしたら、われわれは信じるから。"
+    },
+    {
+      "number": 43,
+      "ko": "그가 하나님을 신뢰하니 하나님이 원하시면 이제 그를 구원하실지라 그의 말이 나는 하나님의 아들이라 하였도다 하며",
+      "en": "He trusts in God. Let God rescue him now if he wants him, for he said, 'I am the Son of God.'\"",
+      "de": "Er hat Gott vertraut; der erlöse ihn nun, hat er Lust zu ihm; denn er hat gesagt: Ich bin Gottes Sohn.",
+      "zh": "他倚靠　神，　神若喜悦他，现在可以救他；因为他曾说：『我是　神的儿子。』」",
+      "ja": "彼は神により頼んでいる。もし神のお気に入りなら、いま救っていただくがいい。『わたしは神の子だ。』と言っているのだから。」"
+    },
+    {
+      "number": 44,
+      "ko": "함께 십자가에 못 박힌 강도들도 이와 같이 욕하더라",
+      "en": "In the same way the robbers who were crucified with him also heaped insults on him.",
+      "de": "Desgleichen schmähten ihn auch die Mörder, die mit ihm gekreuzigt waren.",
+      "zh": "那和他同钉的强盗也是这样地讥诮他。",
+      "ja": "イエスといっしょに十字架につけられた強盗どもも、同じようにイエスをののしった。"
+    },
+    {
+      "number": 45,
+      "ko": "제육시로부터 온 땅에 어둠이 임하여 제구시까지 계속되더니",
+      "en": "From the sixth hour until the ninth hour darkness came over all the land.",
+      "de": "Und von der sechsten Stunde an ward eine Finsternis über das ganze Land bis zu der neunten Stunde.",
+      "zh": "从午正到申初，遍地都黑暗了。",
+      "ja": "さて、十二時から、全地が暗くなって、三時まで続いた。"
+    },
+    {
+      "number": 46,
+      "ko": "제구시쯤에 예수께서 크게 소리 질러 이르시되 엘리 엘리 라마 사박다니 하시니 이는 곧 나의 하나님, 나의 하나님, 어찌하여 나를 버리셨나이까 하는 뜻이라",
+      "en": "About the ninth hour Jesus cried out in a loud voice, \"Eloi, Eloi, lama sabachthani?\"--which means, \"My God, my God, why have you forsaken me?\"",
+      "de": "Und um die neunte Stunde schrie Jesus laut und sprach: Eli, Eli, lama asabthani? das heißt: Mein Gott, mein Gott, warum hast du mich verlassen?",
+      "zh": "约在申初，耶稣大声喊着说：「以利！以利！拉马撒巴各大尼？」就是说：「我的　神！我的　神！为什么离弃我？」",
+      "ja": "三時ごろ、イエスは大声で、「エリ、エリ、レマ、サバクタニ。」と叫ばれた。これは、「わが神、わが神。どうしてわたしをお見捨てになったのですか。」という意味である。"
+    },
+    {
+      "number": 47,
+      "ko": "거기 섰던 자 중 어떤 이들이 듣고 이르되 이 사람이 엘리야를 부른다 하고",
+      "en": "When some of those standing there heard this, they said, \"He's calling Elijah.\"",
+      "de": "Etliche aber, die dastanden, da sie das hörten, sprachen sie: Der ruft den Elia.",
+      "zh": "站在那里的人，有的听见就说：「这个人呼叫以利亚呢！」",
+      "ja": "すると、それを聞いて、そこに立っていた人々のうち、ある人たちは、「この人はエリヤを呼んでいる。」と言った。"
+    },
+    {
+      "number": 48,
+      "ko": "그 중의 한 사람이 곧 달려가서 해면을 가져다가 신 포도주에 적시어 갈대에 꿰어 마시게 하거늘",
+      "en": "Immediately one of them ran and got a sponge. He filled it with wine vinegar, put it on a stick, and offered it to Jesus to drink.",
+      "de": "Und alsbald lief einer unter ihnen, nahm einen Schwamm und füllte ihn mit Essig und steckte ihn an ein Rohr und tränkte ihn.",
+      "zh": "内中有一个人赶紧跑去，拿海绒蘸满了醋，绑在苇子上，送给他喝。",
+      "ja": "また、彼らのひとりがすぐ走って行って、海綿を取り、それに酸いぶどう酒を含ませて、葦の棒につけ、イエスに飲ませようとした。"
+    },
+    {
+      "number": 49,
+      "ko": "그 남은 사람들이 이르되 가만 두라 엘리야가 와서 그를 구원하나 보자 하더라3)",
+      "en": "The rest said, \"Now leave him alone. Let's see if Elijah comes to save him.\"",
+      "de": "Die andern aber sprachen: Halt, laß sehen, ob Elia komme und ihm helfe.",
+      "zh": "其余的人说：「且等着，看以利亚来救他不来。」",
+      "ja": "ほかの者たちは、「私たちはエリヤが助けに来るかどうか見ることとしよう。」と言った。"
+    },
+    {
+      "number": 50,
+      "ko": "예수께서 다시 크게 소리 지르시고 영혼이 떠나시니라",
+      "en": "And when Jesus had cried out again in a loud voice, he gave up his spirit.",
+      "de": "Aber Jesus schrie abermals laut und verschied.",
+      "zh": "耶稣又大声喊叫，气就断了。",
+      "ja": "そのとき、イエスはもう一度大声で叫んで、息を引き取られた。"
+    },
+    {
+      "number": 51,
+      "ko": "이에 성소 휘장이 위로부터 아래까지 찢어져 둘이 되고 땅이 진동하며 바위가 터지고",
+      "en": "At that moment the curtain of the temple was torn in two from top to bottom. The earth shook and the rocks split.",
+      "de": "Und siehe da, der Vorhang im Tempel zerriß in zwei Stücke von obenan bis untenaus.",
+      "zh": "忽然，殿里的幔子从上到下裂为两半，地也震动，磐石也崩裂，",
+      "ja": "すると、見よ。神殿の幕が上から下まで真二つに裂けた。そして、地が揺れ動き、岩が裂けた。"
+    },
+    {
+      "number": 52,
+      "ko": "무덤들이 열리며 자던 성도의 몸이 많이 일어나되",
+      "en": "The tombs broke open and the bodies of many holy people who had died were raised to life.",
+      "de": "Und die Erde erbebte, und die Felsen zerrissen, die Gräber taten sich auf, und standen auf viele Leiber der Heiligen, die da schliefen,",
+      "zh": "坟墓也开了，已睡圣徒的身体多有起来的。",
+      "ja": "また、墓が開いて、眠っていた多くの聖徒たちのからだが生き返った。"
+    },
+    {
+      "number": 53,
+      "ko": "예수의 부활 후에 그들이 무덤에서 나와서 거룩한 성에 들어가 많은 사람에게 보이니라",
+      "en": "They came out of the tombs, and after Jesus' resurrection they went into the holy city and appeared to many people.",
+      "de": "und gingen aus den Gräbern nach seiner Auferstehung und kamen in die heilige Stadt und erschienen vielen.",
+      "zh": "到耶稣复活以后，他们从坟墓里出来，进了圣城，向许多人显现。",
+      "ja": "そして、イエスの復活の後に墓から出て来て、聖都にはいって多くの人に現われた。"
+    },
+    {
+      "number": 54,
+      "ko": "백부장과 및 함께 예수를 지키던 자들이 지진과 그 일어난 일들을 보고 심히 두려워하여 이르되 이는 진실로 하나님의 아들이었도다 하더라",
+      "en": "When the centurion and those with him who were guarding Jesus saw the earthquake and all that had happened, they were terrified, and exclaimed, \"Surely he was the Son of God!\"",
+      "de": "Aber der Hauptmann und die bei ihm waren und bewahrten Jesus, da sie sahen das Erdbeben und was da geschah, erschraken sie sehr und sprachen: Wahrlich dieser ist Gottes Sohn gewesen!",
+      "zh": "百夫长和一同看守耶稣的人看见地震并所经历的事，就极其害怕，说：「这真是　神的儿子了！」",
+      "ja": "百人隊長および彼といっしょにイエスの見張りをしていた人々は、地震やいろいろの出来事を見て、非常な恐れを感じ、「この方はまことに神の子であった。」と言った。"
+    },
+    {
+      "number": 55,
+      "ko": "예수를 섬기며 갈릴리에서부터 따라온 많은 여자가 거기 있어 멀리서 바라보고 있으니",
+      "en": "Many women were there, watching from a distance. They had followed Jesus from Galilee to care for his needs.",
+      "de": "Und es waren viele Weiber da, die von ferne zusahen, die da Jesus waren nachgefolgt aus Galiläa und hatten ihm gedient;",
+      "zh": "有好些妇女在那里，远远地观看；她们是从加利利跟随耶稣来服事他的。",
+      "ja": "そこには、遠くからながめている女たちがたくさんいた。イエスに仕えてガリラヤからついて来た女たちであった。"
+    },
+    {
+      "number": 56,
+      "ko": "그 중에는 막달라 마리아와 또 야고보와 요셉의 어머니 마리아와 또 세베대의 아들들의 어머니도 있더라",
+      "en": "Among them were Mary Magdalene, Mary the mother of James and Joses, and the mother of Zebedee's sons.",
+      "de": "unter welchen war Maria Magdalena und Maria, die Mutter der Kinder des Zebedäus.",
+      "zh": "内中有抹大拉的马利亚，又有雅各和约西的母亲马利亚，并有西庇太两个儿子的母亲。",
+      "ja": "その中に、マグダラのマリヤ、ヤコブとヨセフとの母マリヤ、ゼベダイの子らの母がいた。"
+    },
+    {
+      "number": 57,
+      "ko": "저물었을 때에 아리마대의 부자 요셉이라 하는 사람이 왔으니 그도 예수의 제자라",
+      "en": "As evening approached, there came a rich man from Arimathea, named Joseph, who had himself become a disciple of Jesus.",
+      "de": "Am Abend aber kam ein reicher Mann von Arimathia, der hieß Joseph, welcher auch ein Jünger Jesu war.",
+      "zh": "到了晚上，有一个财主，名叫约瑟，是亚利马太来的，他也是耶稣的门徒。",
+      "ja": "夕方になって、アリマタヤの金持ちでヨセフという人が来た。彼もイエスの弟子になっていた。"
+    },
+    {
+      "number": 58,
+      "ko": "빌라도에게 가서 예수의 시체를 달라 하니 이에 빌라도가 내주라 명령하거늘",
+      "en": "Going to Pilate, he asked for Jesus' body, and Pilate ordered that it be given to him.",
+      "de": "Der ging zu Pilatus und bat ihn um den Leib Jesus. Da befahl Pilatus man sollte ihm ihn geben.",
+      "zh": "这人去见彼拉多，求耶稣的身体；彼拉多就吩咐给他。",
+      "ja": "この人はピラトのところに行って、イエスのからだの下げ渡しを願った。そこで、ピラトは、渡すように命じた。"
+    },
+    {
+      "number": 59,
+      "ko": "요셉이 시체를 가져다가 깨끗한 세마포로 싸서",
+      "en": "Joseph took the body, wrapped it in a clean linen cloth,",
+      "de": "Und Joseph nahm den Leib und wickelte ihn in eine reine Leinwand",
+      "zh": "约瑟取了身体，用干净细麻布裹好，",
+      "ja": "ヨセフはそれを取り降ろして、きれいな亜麻布に包み、"
+    },
+    {
+      "number": 60,
+      "ko": "바위 속에 판 자기 새 무덤에 넣어 두고 큰 돌을 굴려 무덤 문에 놓고 가니",
+      "en": "and placed it in his own new tomb that he had cut out of the rock. He rolled a big stone in front of the entrance to the tomb and went away.",
+      "de": "und legte ihn in sein eigenes Grab, welches er hatte lassen in einen Fels hauen, und wälzte einen großen Stein vor die Tür des Grabes und ging davon.",
+      "zh": "安放在自己的新坟墓里，就是他凿在磐石里的。他又把大石头滚到墓门口，就去了。",
+      "ja": "岩を掘って造った自分の新しい墓に納めた。墓の入口には大きな石をころがしかけて帰った。"
+    },
+    {
+      "number": 61,
+      "ko": "거기 막달라 마리아와 다른 마리아가 무덤을 향하여 앉았더라",
+      "en": "Mary Magdalene and the other Mary were sitting there opposite the tomb.",
+      "de": "Es war aber allda Maria Magdalena und die andere Maria, die setzten sich gegen das Grab.",
+      "zh": "有抹大拉的马利亚和那个马利亚在那里，对着坟墓坐着。",
+      "ja": "そこにはマグダラのマリヤとほかのマリヤとが墓のほうを向いてすわっていた。"
+    },
+    {
+      "number": 62,
+      "ko": "그 이튿날은 준비일 다음 날이라 대제사장들과 바리새인들이 함께 빌라도에게 모여 이르되",
+      "en": "The next day, the one after Preparation Day, the chief priests and the Pharisees went to Pilate.",
+      "de": "Des andern Tages, der da folgt nach dem Rüsttage, kamen die Hohenpriester und Pharisäer sämtlich zu Pilatus",
+      "zh": "次日，就是预备日的第二天，祭司长和法利赛人聚集来见彼拉多，说：",
+      "ja": "さて、次の日、すなわち備えの日の翌日、祭司長、パリサイ人たちはピラトのところに集まって、"
+    },
+    {
+      "number": 63,
+      "ko": "주여 저 속이던 자가 살아 있을 때에 말하되 내가 사흘 후에 다시 살아나리라 한 것을 우리가 기억하노니",
+      "en": "\"Sir,\" they said, \"we remember that while he was still alive that deceiver said, 'After three days I will rise again.'",
+      "de": "und sprachen: Herr, wir haben gedacht, daß dieser Verführer sprach, da er noch lebte: Ich will nach drei Tagen auferstehen.",
+      "zh": "「大人，我们记得那诱惑人的还活着的时候曾说：『三日后我要复活。』",
+      "ja": "こう言った。「閣下。あの、人をだます男がまだ生きていたとき、『自分は三日の後によみがえる。』と言っていたのを思い出しました。"
+    },
+    {
+      "number": 64,
+      "ko": "그러므로 명령하여 그 무덤을 사흘까지 굳게 지키게 하소서 그의 제자들이 와서 시체를 도둑질하여 가고 백성에게 말하되 그가 죽은 자 가운데서 살아났다 하면 후의 속임이 전보다 더 클까 하나이다 하니",
+      "en": "So give the order for the tomb to be made secure until the third day. Otherwise, his disciples may come and steal the body and tell the people that he has been raised from the dead. This last deception will be worse than the first.\"",
+      "de": "Darum befiehl, daß man das Grab verwahre bis an den dritten Tag, auf daß nicht seine Jünger kommen und stehlen ihn und sagen dem Volk: Er ist auferstanden von den Toten, und werde der letzte Betrug ärger denn der erste.",
+      "zh": "因此，请吩咐人将坟墓把守妥当，直到第三日，恐怕他的门徒来，把他偷了去，就告诉百姓说：『他从死里复活了。』这样，那后来的迷惑比先前的更利害了！」",
+      "ja": "ですから、三日目まで墓の番をするように命じてください。そうでないと、弟子たちが来て、彼を盗み出して、『死人の中からよみがえった。』と民衆に言うかもしれません。そうなると、この惑わしのほうが、前のばあいより、もっとひどいことになります。」"
+    },
+    {
+      "number": 65,
+      "ko": "빌라도가 이르되 너희에게 경비병이 있으니 가서 힘대로 굳게 지키라 하거늘",
+      "en": "\"Take a guard,\" Pilate answered. \"Go, make the tomb as secure as you know how.\"",
+      "de": "Pilatus sprach zu ihnen: Da habt ihr die Hüter; gehet hin und verwahret, wie ihr wisset.",
+      "zh": "彼拉多说：「你们有看守的兵，去吧！尽你们所能的把守妥当。」",
+      "ja": "ピラトは「番兵を出してやるから、行ってできるだけの番をさせるがよい。」と彼らに言った。"
+    },
+    {
+      "number": 66,
+      "ko": "그들이 경비병과 함께 가서 돌을 인봉하고 무덤을 굳게 지키니라",
+      "en": "So they went and made the tomb secure by putting a seal on the stone and posting the guard.",
+      "de": "Sie gingen hin und verwahrten das Grab mit Hütern und versiegelten den Stein.",
+      "zh": "他们就带着看守的兵同去，封了石头，将坟墓把守妥当。",
+      "ja": "そこで、彼らは行って、石に封印をし、番兵が墓の番をした。"
+    }
+  ]
+}

@@ -1,0 +1,198 @@
+{
+  "book": "Leviticus",
+  "chapter": 21,
+  "verses": [
+    {
+      "number": 1,
+      "ko": "여호와께서 모세에게 이르시되 아론의 자손 제사장들에게 말하여 이르라 그의 백성 중에서 죽은 자를 만짐으로 말미암아 스스로를 더럽히지 말려니와",
+      "en": "The LORD said to Moses, \"Speak to the priests, the sons of Aaron, and say to them: 'A priest must not make himself ceremonially unclean for any of his people who die,",
+      "de": "Und der HERR sprach zu Mose: Sage den Priestern, Aarons Söhnen, und sprich zu ihnen: Ein Priester soll sich an keinem Toten seines Volkes verunreinigen,",
+      "zh": "耶和华对摩西说：「你告诉亚伦子孙作祭司的说：祭司不可为民中的死人沾染自己，",
+      "ja": "ヱホバ、モーセに告て言たまはくアロンの子等なる祭司等に告てこれに言へ民の中の死人のために身を汚す者あるべからず"
+    },
+    {
+      "number": 2,
+      "ko": "그의 살붙이인 그의 어머니나 그의 아버지나 그의 아들이나 그의 딸이나 그의 형제나",
+      "en": "except for a close relative, such as his mother or father, his son or daughter, his brother,",
+      "de": "außer an seinem Blutsfreunde, der ihm am nächsten angehört, als: an seiner Mutter, an seinem Vater, an seinem Sohne, an seiner Tochter, an seinem Bruder",
+      "zh": "除非为他骨肉之亲的父母、儿女、弟兄，",
+      "ja": "但しその骨肉の親のためすなはちその母のため父のため男子のため女子のため兄弟のため"
+    },
+    {
+      "number": 3,
+      "ko": "출가하지 아니한 처녀인 그의 자매로 말미암아서는 몸을 더럽힐 수 있느니라",
+      "en": "or an unmarried sister who is dependent on him since she has no husband--for her he may make himself unclean.",
+      "de": "und an seiner Schwester, die noch eine Jungfrau und noch bei ihm ist und keines Mannes Weib gewesen ist; an der mag er sich verunreinigen.",
+      "zh": "和未曾出嫁、作处女的姊妹，才可以沾染自己。",
+      "ja": "またその姉妹の處女にして未だ夫あらざる者のためには身を汚すも宜し"
+    },
+    {
+      "number": 4,
+      "ko": "제사장은 그의 백성의 어른인즉 자신을 더럽혀 속되게 하지 말지니라",
+      "en": "He must not make himself unclean for people related to him by marriage, and so defile himself.",
+      "de": "Sonst soll er sich nicht verunreinigen an irgend einem, der ihm zugehört unter seinem Volk, daß er sich entheilige.",
+      "zh": "祭司既在民中为首，就不可从俗沾染自己。",
+      "ja": "祭司はその民の中の長者なれば身を汚して褻たる者となるべからず"
+    },
+    {
+      "number": 5,
+      "ko": "제사장들은 머리털을 깎아 대머리 같게 하지 말며 자기의 수염 양쪽을 깎지 말며 살을 베지 말고",
+      "en": "\"'Priests must not shave their heads or shave off the edges of their beards or cut their bodies.",
+      "de": "Sie sollen auch keine Platte machen auf ihrem Haupt noch ihren Bart abscheren und an ihrem Leib kein Mal stechen.",
+      "zh": "不可使头光秃；不可剃除胡须的周围，也不可用刀划身。",
+      "ja": "彼等は髮をそりて頭に毛なき所をつくるべからずその鬚の兩傍を損ずべからずまたその身に傷つくべからず"
+    },
+    {
+      "number": 6,
+      "ko": "그들의 하나님께 대하여 거룩하고 그들의 하나님의 이름을 욕되게 하지 말 것이며 그들은 여호와의 화제 곧 그들의 하나님의 음식을 드리는 자인즉 거룩할 것이라",
+      "en": "They must be holy to their God and must not profane the name of their God. Because they present the offerings made to the LORD by fire, the food of their God, they are to be holy.",
+      "de": "Sie sollen ihrem Gott heilig sein und nicht entheiligen den Namen ihres Gottes. Denn sie opfern des HERRN Opfer, das Brot ihres Gottes; darum sollen sie heilig sein.",
+      "zh": "要归　神为圣，不可亵渎　神的名；因为耶和华的火祭，就是　神的食物，是他们献的，所以他们要成为圣。",
+      "ja": "その神に對て聖あるべくまたその神の名をけがすべからず彼等はヱホバの火祭すなはち其神の食物を献ぐる者なれば聖あるべきなり"
+    },
+    {
+      "number": 7,
+      "ko": "그들은 부정한 창녀나 이혼 당한 여인을 취하지 말지니 이는 그가 여호와 하나님께 거룩함이니라",
+      "en": "\"'They must not marry women defiled by prostitution or divorced from their husbands, because priests are holy to their God.",
+      "de": "Sie sollen keine Hure nehmen noch eine Geschwächte oder die von ihrem Mann verstoßen ist; denn er ist heilig seinem Gott.",
+      "zh": "不可娶妓女或被污的女人为妻，也不可娶被休的妇人为妻，因为祭司是归　神为圣。",
+      "ja": "彼等は妓女または汚れたる女を妻に娶るべからずまた夫に出されたる女を娶るべからず其はその身ヱホバにむかひて聖ければなり"
+    },
+    {
+      "number": 8,
+      "ko": "너는 그를 거룩히 여기라 그는 네 하나님의 음식을 드림이니라 너는 그를 거룩히 여기라 너희를 거룩하게 하는 나 여호와는 거룩함이니라",
+      "en": "Regard them as holy, because they offer up the food of your God. Consider them holy, because I the LORD am holy--I who make you holy.",
+      "de": "Darum sollst du ihn heilig halten, denn er opfert das Brot deines Gottes; er soll dir heilig sein, denn ich bin heilig, der HERR, der euch heiligt.",
+      "zh": "所以你要使他成圣，因为他奉献你　神的食物；你要以他为圣，因为我—使你们成圣的耶和华—是圣的。",
+      "ja": "汝かれをもて聖者とすべし彼は汝の神ヱホバの食物を献ぐる者なればなり汝すなはちこれをもて聖者となすべし其は我ヱホバ汝らを聖別る者聖ければなり"
+    },
+    {
+      "number": 9,
+      "ko": "어떤 제사장의 딸이든지 행음하여 자신을 속되게 하면 그의 아버지를 속되게 함이니 그를 불사를지니라",
+      "en": "\"'If a priest's daughter defiles herself by becoming a prostitute, she disgraces her father; she must be burned in the fire.",
+      "de": "Wenn eines Priesters Tochter anfängt zu huren, die soll man mit Feuer verbrennen; denn sie hat ihren Vater geschändet.",
+      "zh": "祭司的女儿若行淫辱没自己，就辱没了父亲，必用火将她焚烧。",
+      "ja": "祭司の女たる者淫行をなしてその身を汚さば是その父を汚すなり火をもてこれを燒べし"
+    },
+    {
+      "number": 10,
+      "ko": "자기의 형제 중 관유로 부음을 받고 위임되어 그 예복을 입은 대제사장은 그의 머리를 풀지 말며 그의 옷을 찢지 말며",
+      "en": "\"'The high priest, the one among his brothers who has had the anointing oil poured on his head and who has been ordained to wear the priestly garments, must not let his hair become unkempt or tear his clothes.",
+      "de": "Wer Hoherpriester ist unter seinen Brüdern, auf dessen Haupt das Salböl gegossen und dessen Hand gefüllt ist, daß er angezogen würde mit den Kleidern, der soll sein Haupt nicht entblößen und seine Kleider nicht zerreißen",
+      "zh": "「在弟兄中作大祭司、头上倒了膏油、又承接圣职、穿了圣衣的，不可蓬头散发，也不可撕裂衣服。",
+      "ja": "その兄弟の中灌膏を首にそそがれ職に任ぜられて祭司の長となれる者はその頭をあらはすべからずまたその衣服を裂べからず"
+    },
+    {
+      "number": 11,
+      "ko": "어떤 시체에든지 가까이 하지 말지니 그의 부모로 말미암아서도 더러워지게 하지 말며",
+      "en": "He must not enter a place where there is a dead body. He must not make himself unclean, even for his father or mother,",
+      "de": "und soll zu keinem Toten kommen und soll sich weder über Vater noch über Mutter verunreinigen.",
+      "zh": "不可挨近死尸，也不可为父母沾染自己。",
+      "ja": "死人の所に往べからずまたその父のためにも母のためにも身を汚すべからず"
+    },
+    {
+      "number": 12,
+      "ko": "그 성소에서 나오지 말며 그의 하나님의 성소를 속되게 하지 말라 이는 하나님께서 성별하신 관유가 그 위에 있음이니라 나는 여호와이니라",
+      "en": "nor leave the sanctuary of his God or desecrate it, because he has been dedicated by the anointing oil of his God. I am the LORD.",
+      "de": "Aus dem Heiligtum soll er nicht gehen, daß er nicht entheilige das Heiligtum seines Gottes; denn die Weihe des Salböls seines Gottes ist auf ihm. Ich bin der HERR.",
+      "zh": "不可出圣所，也不可亵渎　神的圣所，因为　神膏油的冠冕在他头上。我是耶和华。",
+      "ja": "また聖所より出べからずその神の聖所を褻すべからず其はその神の任職の灌膏首にあればなり我はヱホバなり"
+    },
+    {
+      "number": 13,
+      "ko": "그는 처녀를 데려다가 아내를 삼을지니",
+      "en": "\"'The woman he marries must be a virgin.",
+      "de": "Eine Jungfrau soll er zum Weibe nehmen;",
+      "zh": "他要娶处女为妻。",
+      "ja": "彼妻には處女を娶るべし"
+    },
+    {
+      "number": 14,
+      "ko": "과부나 이혼 당한 여자나 창녀 짓을 하는 더러운 여인을 취하지 말고 자기 백성 중에서 처녀를 취하여 아내를 삼아",
+      "en": "He must not marry a widow, a divorced woman, or a woman defiled by prostitution, but only a virgin from his own people,",
+      "de": "aber keine Witwe noch Verstoßene noch Geschwächte noch Hure, sondern eine Jungfrau seines Volks soll er zum Weibe nehmen,",
+      "zh": "寡妇或是被休的妇人，或是被污为妓的女人，都不可娶；只可娶本民中的处女为妻。",
+      "ja": "寡婦休れたる婦または汚れたる婦妓女等は娶るべからず惟自己の民の中の處女を妻にめとるべし"
+    },
+    {
+      "number": 15,
+      "ko": "그의 자손이 그의 백성 중에서 속되게 하지 말지니 나는 그를 거룩하게 하는 여호와임이니라",
+      "en": "so he will not defile his offspring among his people. I am the LORD, who makes him holy.'\"",
+      "de": "auf daß er nicht seinen Samen entheilige unter seinem Volk; denn ich bin der HERR, der ihn heiligt.",
+      "zh": "不可在民中辱没他的儿女，因为我是叫他成圣的耶和华。」",
+      "ja": "その民の中に自己の子孫を汚すべからずヱホバこれを聖別ればなり"
+    },
+    {
+      "number": 16,
+      "ko": "여호와께서 모세에게 말씀하여 이르시되",
+      "en": "The LORD said to Moses,",
+      "de": "Und der HERR redete mit Mose und sprach:",
+      "zh": "耶和华对摩西说：",
+      "ja": "ヱホバ、モーセに告て言たまはく"
+    },
+    {
+      "number": 17,
+      "ko": "아론에게 말하여 이르라 누구든지 너의 자손 중 대대로 육체에 흠이 있는 자는 그 하나님의 음식을 드리려고 가까이 오지 못할 것이니라",
+      "en": "\"Say to Aaron: 'For the generations to come none of your descendants who has a defect may come near to offer the food of his God.",
+      "de": "Rede mit Aaron und sprich: Wenn an jemand deiner Nachkommen in euren Geschlechtern ein Fehl ist, der soll nicht herzutreten, daß er das Brot seines Gottes opfere.",
+      "zh": "「你告诉亚伦说：你世世代代的后裔，凡有残疾的，都不可近前来献他　神的食物。",
+      "ja": "アロンに告て言へ凡そ汝の歴代の子孫の中身に疵ある者は進みよりてその神ヱホバの食物を献ぐる事を爲べからず"
+    },
+    {
+      "number": 18,
+      "ko": "누구든지 흠이 있는 자는 가까이 하지 못할지니 곧 맹인이나 다리 저는 자나 코가 불완전한 자나 지체가 더한 자나",
+      "en": "No man who has any defect may come near: no man who is blind or lame, disfigured or deformed;",
+      "de": "Denn keiner, an dem ein Fehl ist, soll herzutreten; er sei blind, lahm, mit einer seltsamen Nase, mit ungewöhnlichem Glied,",
+      "zh": "因为凡有残疾的，无论是瞎眼的、瘸腿的、塌鼻子的、肢体有余的、",
+      "ja": "凡て疵ある人は進みよるべからずすなはち瞽者跛者および鼻の缺たる者成餘るところ身にある者"
+    },
+    {
+      "number": 19,
+      "ko": "발 부러진 자나 손 부러진 자나",
+      "en": "no man with a crippled foot or hand,",
+      "de": "oder der an einem Fuß oder einer Hand gebrechlich ist",
+      "zh": "折脚折手的、",
+      "ja": "脚の折たる者手の折たる者"
+    },
+    {
+      "number": 20,
+      "ko": "등 굽은 자나 키 못 자란 자나 눈에 백막이 있는 자나 습진이나 버짐이 있는 자나 고환 상한 자나",
+      "en": "or who is hunchbacked or dwarfed, or who has any eye defect, or who has festering or running sores or damaged testicles.",
+      "de": "oder höckerig ist oder ein Fell auf dem Auge hat oder schielt oder den Grind oder Flechten hat oder der gebrochen ist.",
+      "zh": "驼背的、矮矬的、眼睛有毛病的、长癣的、长疥的，或是损坏肾子的，都不可近前来。",
+      "ja": "傴僂者侏儒目に雲膜ある者疥ある者癬ある者外腎の壞れたる者等は進みよるべからず"
+    },
+    {
+      "number": 21,
+      "ko": "제사장 아론의 자손 중에 흠이 있는 자는 나와 여호와께 화제를 드리지 못할지니 그는 흠이 있은즉 나와서 그의 하나님께 음식을 드리지 못하느니라",
+      "en": "No descendant of Aaron the priest who has any defect is to come near to present the offerings made to the LORD by fire. He has a defect; he must not come near to offer the food of his God.",
+      "de": "Welcher nun von Aarons, des Priesters, Nachkommen einen Fehl an sich hat, der soll nicht herzutreten, zu opfern die Opfer des HERRN; denn er hat einen Fehl, darum soll er zu dem Brot seines Gottes nicht nahen, daß er es opfere.",
+      "zh": "祭司亚伦的后裔，凡有残疾的，都不可近前来，将火祭献给耶和华。他有残疾，不可近前来献　神的食物。",
+      "ja": "凡そ祭司アロンの子孫の中身に疵ある者は進みよりてヱホバの火祭を献ぐべからず彼は身に疵あるなれば進みよりてヱホバの食物を献ぐべからざるなり"
+    },
+    {
+      "number": 22,
+      "ko": "그는 그의 하나님의 음식이 지성물이든지 성물이든지 먹을 것이나",
+      "en": "He may eat the most holy food of his God, as well as the holy food;",
+      "de": "Doch soll er das Brot seines Gottes essen, von dem Heiligen und vom Hochheiligen.",
+      "zh": "神的食物，无论是圣的，至圣的，他都可以吃。",
+      "ja": "神の食物の至聖者も聖者も彼は食ふことを得"
+    },
+    {
+      "number": 23,
+      "ko": "휘장 안에 들어가지 못할 것이요 제단에 가까이 하지 못할지니 이는 그가 흠이 있음이니라 이와 같이 그가 내 성소를 더럽히지 못할 것은 나는 그들을 거룩하게 하는 여호와임이니라",
+      "en": "yet because of his defect, he must not go near the curtain or approach the altar, and so desecrate my sanctuary. I am the LORD, who makes them holy.'\"",
+      "de": "Aber zum Vorhang soll er nicht kommen noch zum Altar nahen, weil der Fehl an ihm ist, daß er nicht entheilige mein Heiligtum; denn ich bin der HERR, der sie heiligt.",
+      "zh": "但不可进到幔子前，也不可就近坛前；因为他有残疾，免得亵渎我的圣所。我是叫他成圣的耶和华。」",
+      "ja": "然ど障蔽の幕に至べからずまた祭壇に近よるべからず其は身に疵あればなり斯かれわが聖所を汚すべからず其は我ヱホバこれを聖別ればなり"
+    },
+    {
+      "number": 24,
+      "ko": "이와 같이 모세가 아론과 그의 아들들과 온 이스라엘 자손에게 말하였더라",
+      "en": "So Moses told this to Aaron and his sons and to all the Israelites.",
+      "de": "Und Mose redete solches zu Aaron und zu seinen Söhnen und zu allen Kindern Israel.",
+      "zh": "于是，摩西晓谕亚伦和亚伦的子孙，并以色列众人。",
+      "ja": "モーセすなはちアロンとその子等およびイスラエルの一切の子孫にこれを告たり"
+    }
+  ]
+}

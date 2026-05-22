@@ -1,0 +1,238 @@
+{
+  "book": "Proverbs",
+  "chapter": 19,
+  "verses": [
+    {
+      "number": 1,
+      "ko": "가난하여도 성실하게 행하는 자는 입술이 패역하고 미련한 자보다 나으니라",
+      "en": "Better a poor man whose walk is blameless than a fool whose lips are perverse.",
+      "de": "Ein Armer, der in seiner Frömmigkeit wandelt, ist besser denn ein Verkehrter mit seinen Lippen, der doch ein Narr ist.",
+      "zh": "行为纯正的贫穷人 胜过乖谬愚妄的富足人。",
+      "ja": "ただしく歩むまづしき者は くちびるの悖れる愚なる者に愈る"
+    },
+    {
+      "number": 2,
+      "ko": "지식 없는 소원은 선하지 못하고 발이 급한 사람은 잘못 가느니라",
+      "en": "It is not good to have zeal without knowledge, nor to be hasty and miss the way.",
+      "de": "Wo man nicht mit Vernunft handelt, da geht's nicht wohl zu; und wer schnell ist mit Füßen, der tut sich Schaden.",
+      "zh": "心无知识的，乃为不善； 脚步急快的，难免犯罪。",
+      "ja": "心に思慮なければ善らず 足にて急ぐものは道にまよふ"
+    },
+    {
+      "number": 3,
+      "ko": "사람이 미련하므로 자기 길을 굽게 하고 마음으로 여호와를 원망하느니라",
+      "en": "A man's own folly ruins his life, yet his heart rages against the LORD.",
+      "de": "Die Torheit eines Menschen verleitet seinen Weg, und doch tobt sein Herz wider den HERRN.",
+      "zh": "人的愚昧倾败他的道； 他的心也抱怨耶和华。",
+      "ja": "人はおのれの痴によりて道につまづき 反て心にヱホバを怨む"
+    },
+    {
+      "number": 4,
+      "ko": "재물은 많은 친구를 더하게 하나 가난한즉 친구가 끊어지느니라",
+      "en": "Wealth brings many friends, but a poor man's friend deserts him.",
+      "de": "Gut macht viele Freunde; aber der Arme wird von seinen Freunden verlassen.",
+      "zh": "财物使朋友增多； 但穷人朋友远离。",
+      "ja": "資財はおほくの友をあつむ されど貧者はその友に疎まる"
+    },
+    {
+      "number": 5,
+      "ko": "거짓 증인은 벌을 면하지 못할 것이요 거짓말을 하는 자도 피하지 못하리라",
+      "en": "A false witness will not go unpunished, and he who pours out lies will not go free.",
+      "de": "Ein falscher Zeuge bleibt nicht ungestraft; und wer Lügen frech redet, wird nicht entrinnen.",
+      "zh": "作假见证的，必不免受罚； 吐出谎言的，终不能逃脱。",
+      "ja": "虚偽の證人は罰をまぬかれず 謊言をはくものは避るることをえず"
+    },
+    {
+      "number": 6,
+      "ko": "너그러운 사람에게는 은혜를 구하는 자가 많고 선물 주기를 좋아하는 자에게는 사람마다 친구가 되느니라",
+      "en": "Many curry favor with a ruler, and everyone is the friend of a man who gives gifts.",
+      "de": "Viele schmeicheln der Person des Fürsten; und alle sind Freunde des, der Geschenke gibt.",
+      "zh": "好施散的，有多人求他的恩情； 爱送礼的，人都为他的朋友。",
+      "ja": "君に媚る者はおほし 凡そ人は贈物を與ふる者の友となるなり"
+    },
+    {
+      "number": 7,
+      "ko": "가난한 자는 그의 형제들에게도 미움을 받거든 하물며 친구야 그를 멀리 하지 아니하겠느냐 따라가며 말하려 할지라도 그들이 없어졌으리라",
+      "en": "A poor man is shunned by all his relatives--how much more do his friends avoid him! Though he pursues them with pleading, they are nowhere to be found.",
+      "de": "Den Armen hassen alle seine Brüder; wie viel mehr halten sich seine Freunde von ihm fern! Und wer sich auf Worte verläßt, dem wird nichts.",
+      "zh": "贫穷人，弟兄都恨他； 何况他的朋友，更远离他！ 他用言语追随，他们却走了。",
+      "ja": "貧者はその兄弟すらも皆これをにくむ 况てその友これに遠ざからざらんや 言をはなちてこれを呼とも去てかへらざるなり"
+    },
+    {
+      "number": 8,
+      "ko": "지혜를 얻는 자는 자기 영혼을 사랑하고 명철을 지키는 자는 복을 얻느니라",
+      "en": "He who gets wisdom loves his own soul; he who cherishes understanding prospers.",
+      "de": "Wer klug wird, liebt sein Leben; und der Verständige findet Gutes.",
+      "zh": "得着智慧的，爱惜生命； 保守聪明的，必得好处。",
+      "ja": "智慧を得る者はおのれの霊魂を愛す 聰明をたもつ者は善福を得ん"
+    },
+    {
+      "number": 9,
+      "ko": "거짓 증인은 벌을 면하지 못할 것이요 거짓말을 뱉는 자는 망할 것이니라",
+      "en": "A false witness will not go unpunished, and he who pours out lies will perish.",
+      "de": "Ein falscher Zeuge bleibt nicht ungestraft; und wer frech Lügen redet, wird umkommen.",
+      "zh": "作假见证的，不免受罚； 吐出谎言的，也必灭亡。",
+      "ja": "虚偽の證人は罰をまぬかれず 謊言をはく者はほろぶべし"
+    },
+    {
+      "number": 10,
+      "ko": "미련한 자가 사치하는 것이 적당하지 못하거든 하물며 종이 방백을 다스림이랴",
+      "en": "It is not fitting for a fool to live in luxury--how much worse for a slave to rule over princes!",
+      "de": "Dem Narren steht nicht wohl an, gute Tage haben, viel weniger einem Knecht, zu herrschen über Fürsten.",
+      "zh": "愚昧人宴乐度日是不合宜的； 何况仆人管辖王子呢？",
+      "ja": "愚なる者の驕奢に居るは適当からず 况て僕にして上に在る者を治むることをや"
+    },
+    {
+      "number": 11,
+      "ko": "노하기를 더디 하는 것이 사람의 슬기요 허물을 용서하는 것이 자기의 영광이니라",
+      "en": "A man's wisdom gives him patience; it is to his glory to overlook an offense.",
+      "de": "Wer geduldig ist, der ist ein kluger Mensch, und ist ihm eine Ehre, daß er Untugend überhören kann.",
+      "zh": "人有见识就不轻易发怒； 宽恕人的过失便是自己的荣耀。",
+      "ja": "聰明は人に怒をしのばしむ 過失を宥すは人の榮譽なり"
+    },
+    {
+      "number": 12,
+      "ko": "왕의 노함은 사자의 부르짖음 같고 그의 은택은 풀 위의 이슬 같으니라",
+      "en": "A king's rage is like the roar of a lion, but his favor is like dew on the grass.",
+      "de": "Die Ungnade des Königs ist wie das Brüllen eines jungen Löwen; aber seine Gnade ist wie der Tau auf dem Grase.",
+      "zh": "王的忿怒好像狮子吼叫； 他的恩典却如草上的甘露。",
+      "ja": "王の怒は獅の吼るが如く その恩典は草の上におく露のごとし"
+    },
+    {
+      "number": 13,
+      "ko": "미련한 아들은 그의 아비의 재앙이요 다투는 아내는 이어 떨어지는 물방울이니라",
+      "en": "A foolish son is his father's ruin, and a quarrelsome wife is like a constant dripping.",
+      "de": "Ein törichter Sohn ist seines Vaters Herzeleid, und ein zänkisches Weib ein stetiges Triefen.",
+      "zh": "愚昧的儿子是父亲的祸患； 妻子的争吵如雨连连滴漏。",
+      "ja": "愚なる子はその父の災禍なり 妻の相爭そふは雨漏のたえぬにひとし"
+    },
+    {
+      "number": 14,
+      "ko": "집과 재물은 조상에게서 상속하거니와 슬기로운 아내는 여호와께로서 말미암느니라",
+      "en": "Houses and wealth are inherited from parents, but a prudent wife is from the LORD.",
+      "de": "Haus und Güter vererben die Eltern; aber ein vernünftiges Weib kommt vom HERRN.",
+      "zh": "房屋钱财是祖宗所遗留的； 惟有贤慧的妻是耶和华所赐的。",
+      "ja": "家と資財とは先祖より承嗣ぐもの 賢き妻はヱホバより賜ふものなり"
+    },
+    {
+      "number": 15,
+      "ko": "게으름이 사람으로 깊이 잠들게 하나니 태만한 사람은 주릴 것이니라",
+      "en": "Laziness brings on deep sleep, and the shiftless man goes hungry.",
+      "de": "Faulheit bringt Schlafen, und eine lässige Seele wird Hunger leiden.",
+      "zh": "懒惰使人沉睡； 懈怠的人必受饥饿。",
+      "ja": "懶惰は人を酣寐せしむ 懈怠人は饑べし"
+    },
+    {
+      "number": 16,
+      "ko": "계명을 지키는 자는 자기의 영혼을 지키거니와 자기의 행실을 삼가지 아니하는 자는 죽으리라",
+      "en": "He who obeys instructions guards his life, but he who is contemptuous of his ways will die.",
+      "de": "Wer das Gebot bewahrt, der bewahrt sein Leben; wer aber seines Weges nicht achtet, wird sterben.",
+      "zh": "谨守诫命的，保全生命； 轻忽己路的，必致死亡。",
+      "ja": "誡命を守るものは自己の霊魂を守るなり その道をかろむるものは死ぬべし"
+    },
+    {
+      "number": 17,
+      "ko": "가난한 자를 불쌍히 여기는 것은 여호와께 꾸어 드리는 것이니 그의 선행을 그에게 갚아 주시리라",
+      "en": "He who is kind to the poor lends to the LORD, and he will reward him for what he has done.",
+      "de": "Wer sich des Armen erbarmt, der leihet dem HERRN; der wird ihm wieder Gutes vergelten.",
+      "zh": "怜悯贫穷的，就是借给耶和华； 他的善行，耶和华必偿还。",
+      "ja": "貧者をあはれむ者はヱホバに貸すなり その施濟はヱホバ償ひたまはん"
+    },
+    {
+      "number": 18,
+      "ko": "네가 네 아들에게 희망이 있은즉 그를 징계하되 죽일 마음은 두지 말지니라",
+      "en": "Discipline your son, for in that there is hope; do not be a willing party to his death.",
+      "de": "Züchtige deinen Sohn, solange Hoffnung da ist; aber laß deine Seele nicht bewegt werden, ihn zu töten.",
+      "zh": "趁有指望，管教你的儿子； 你的心不可任他死亡。",
+      "ja": "望ある間に汝の子を打て これを殺すこころを起すなかれ"
+    },
+    {
+      "number": 19,
+      "ko": "노하기를 맹렬히 하는 자는 벌을 받을 것이라 네가 그를 건져 주면 다시 그런 일이 생기리라",
+      "en": "A hot-tempered man must pay the penalty; if you rescue him, you will have to do it again.",
+      "de": "Großer Grimm muß Schaden leiden; denn willst du ihm steuern, so wird er noch größer.",
+      "zh": "暴怒的人必受刑罚； 你若救他，必须再救。",
+      "ja": "怒ることの烈しき者は罰をうく 汝もしこれを救ふともしばしば然せざるを得じ"
+    },
+    {
+      "number": 20,
+      "ko": "너는 권고를 들으며 훈계를 받으라 그리하면 네가 필경은 지혜롭게 되리라",
+      "en": "Listen to advice and accept instruction, and in the end you will be wise.",
+      "de": "Gehorche dem Rat, und nimm Zucht an, daß du hernach weise seiest.",
+      "zh": "你要听劝教，受训诲， 使你终久有智慧。",
+      "ja": "なんぢ勸をきき訓をうけよ 然ばなんぢの終に智慧あらん"
+    },
+    {
+      "number": 21,
+      "ko": "사람의 마음에는 많은 계획이 있어도 오직 여호와의 뜻만이 완전히 서리라",
+      "en": "Many are the plans in a man's heart, but it is the LORD'S purpose that prevails.",
+      "de": "Es sind viel Anschläge in eines Mannes Herzen; aber der Rat des HERRN besteht.",
+      "zh": "人心多有计谋； 惟有耶和华的筹算才能立定。",
+      "ja": "人の心には多くの計畫あり されど惟ヱホバの旨のみ立べし"
+    },
+    {
+      "number": 22,
+      "ko": "사람은 자기의 인자함으로 남에게 사모함을 받느니라 가난한 자는 거짓말하는 자보다 나으니라",
+      "en": "What a man desires is unfailing love; better to be poor than a liar.",
+      "de": "Ein Mensch hat Lust an seiner Wohltat; und ein Armer ist besser denn ein Lügner.",
+      "zh": "施行仁慈的，令人爱慕； 穷人强如说谎言的。",
+      "ja": "人のよろこびは施濟をするにあり 貧者は謊人に愈る"
+    },
+    {
+      "number": 23,
+      "ko": "여호와를 경외하는 것은 사람으로 생명에 이르게 하는 것이라 경외하는 자는 족하게 지내고 재앙을 당하지 아니하느니라",
+      "en": "The fear of the LORD leads to life: Then one rests content, untouched by trouble.",
+      "de": "Die Furcht des HERRN fördert zum Leben, und wird satt bleiben, daß kein Übel sie heimsuchen wird.",
+      "zh": "敬畏耶和华的，得着生命； 他必恒久知足，不遭祸患。",
+      "ja": "ヱホバを畏るることは人をして生命にいたらしめ かつ恒に飽足りて災禍に遇ざらしむ"
+    },
+    {
+      "number": 24,
+      "ko": "게으른 자는 자기의 손을 그릇에 넣고서도 입으로 올리기를 괴로워하느니라",
+      "en": "The sluggard buries his hand in the dish; he will not even bring it back to his mouth!",
+      "de": "Der Faule verbirgt seine Hand im Topf und bringt sie nicht wieder zum Munde.",
+      "zh": "懒惰人放手在盘子里， 就是向口撤回，他也不肯。",
+      "ja": "惰者はその手を盤にいるるも之をその口に擧ることをだにせず"
+    },
+    {
+      "number": 25,
+      "ko": "거만한 자를 때리라 그리하면 어리석은 자도 지혜를 얻으리라 명철한 자를 견책하라 그리하면 그가 지식을 얻으리라",
+      "en": "Flog a mocker, and the simple will learn prudence; rebuke a discerning man, and he will gain knowledge.",
+      "de": "Schlägt man den Spötter, so wird der Unverständige klug; straft man einen Verständigen, so wird er vernünftig.",
+      "zh": "鞭打亵慢人，愚蒙人必长见识； 责备明哲人，他就明白知识。",
+      "ja": "嘲笑者を打て さらば拙者も愼まん 哲者を譴めよ さらばかれ知識を得ん"
+    },
+    {
+      "number": 26,
+      "ko": "아비를 구박하고 어미를 쫓아내는 자는 부끄러움을 끼치며 능욕을 부르는 자식이니라",
+      "en": "He who robs his father and drives out his mother is a son who brings shame and disgrace.",
+      "de": "Wer Vater verstört und Mutter verjagt, der ist ein schändliches und verfluchtes Kind.",
+      "zh": "虐待父亲、撵出母亲的， 是贻羞致辱之子。",
+      "ja": "父を煩はし母を逐ふは羞赧をきたらし凌辱をまねく子なり"
+    },
+    {
+      "number": 27,
+      "ko": "내 아들아 지식의 말씀에서 떠나게 하는 교훈을 듣지 말지니라",
+      "en": "Stop listening to instruction, my son, and you will stray from the words of knowledge.",
+      "de": "Laß ab, mein Sohn, zu hören die Zucht, und doch abzuirren von vernünftiger Lehre.",
+      "zh": "我儿，不可听了教训 而又偏离知识的言语。",
+      "ja": "わが子よ哲言を離れしむる敎を聽くことを息めよ"
+    },
+    {
+      "number": 28,
+      "ko": "망령된 증인은 정의를 업신여기고 악인의 입은 죄악을 삼키느니라",
+      "en": "A corrupt witness mocks at justice, and the mouth of the wicked gulps down evil.",
+      "de": "Ein loser Zeuge spottet des Rechts, und der Gottlosen Mund verschlingt das Unrecht.",
+      "zh": "匪徒作见证戏笑公平； 恶人的口吞下罪孽。",
+      "ja": "惡き證人は審判を嘲り 惡者の口は惡を呑む"
+    },
+    {
+      "number": 29,
+      "ko": "심판은 거만한 자를 위하여 예비된 것이요 채찍은 어리석은 자의 등을 위하여 예비된 것이니라",
+      "en": "Penalties are prepared for mockers, and beatings for the backs of fools.",
+      "de": "Den Spöttern sind Strafen bereitet, und Schläge auf der Narren Rücken.",
+      "zh": "刑罚是为亵慢人预备的； 鞭打是为愚昧人的背预备的。",
+      "ja": "審判は嘲笑者のために備へられ 鞭は愚なる者の背のために備へらる"
+    }
+  ]
+}

@@ -1,0 +1,382 @@
+{
+  "book": "Leviticus",
+  "chapter": 11,
+  "verses": [
+    {
+      "number": 1,
+      "ko": "여호와께서 모세와 아론에게 말씀하여 이르시되",
+      "en": "The LORD said to Moses and Aaron,",
+      "de": "Und der HERR redete mit Mose und Aaron und sprach zu ihnen:",
+      "zh": "耶和华对摩西、亚伦说：",
+      "ja": "ヱホバ、モーセとアロンに告てこれに言給はく"
+    },
+    {
+      "number": 2,
+      "ko": "이스라엘 자손에게 말하여 이르라 육지의 모든 짐승 중 너희가 먹을 만한 생물은 이러하니",
+      "en": "\"Say to the Israelites: 'Of all the animals that live on land, these are the ones you may eat:",
+      "de": "Redet mit den Kindern Israel und sprecht: Das sind die Tiere, die ihr essen sollt unter allen Tieren auf Erden.",
+      "zh": "「你们晓谕以色列人说，在地上一切走兽中可吃的乃是这些：",
+      "ja": "イスラエルの子孫に告て言へ地の諸の獣畜の中汝らが食ふべき四足は是なり"
+    },
+    {
+      "number": 3,
+      "ko": "모든 짐승 중 굽이 갈라져 쪽발이 되고 새김질하는 것은 너희가 먹되",
+      "en": "You may eat any animal that has a split hoof completely divided and that chews the cud.",
+      "de": "Alles, was die Klauen spaltet und wiederkäut unter den Tieren, das sollt ihr essen.",
+      "zh": "凡蹄分两瓣、倒嚼的走兽，你们都可以吃。",
+      "ja": "凡て獣畜の中蹄の分たる者すなはち蹄の全く分たる反芻者は汝等これを食ふべし"
+    },
+    {
+      "number": 4,
+      "ko": "새김질하는 것이나 굽이 갈라진 짐승 중에도 너희가 먹지 못할 것은 이러하니 낙타는 새김질은 하되 굽이 갈라지지 아니하였으므로 너희에게 부정하고",
+      "en": "\"'There are some that only chew the cud or only have a split hoof, but you must not eat them. The camel, though it chews the cud, does not have a split hoof; it is ceremonially unclean for you.",
+      "de": "Was aber wiederkäut und hat Klauen und spaltet sie doch nicht, wie das Kamel, das ist euch unrein, und ihr sollt's nicht essen.",
+      "zh": "但那倒嚼或分蹄之中不可吃的乃是：骆驼—因为倒嚼不分蹄，就与你们不洁净；",
+      "ja": "但し反芻者と蹄の分たる者の中汝等の食ふべからざる者は是なり即ち駱駝是は反芻ども蹄わかれざれば汝等には汚たる者なり"
+    },
+    {
+      "number": 5,
+      "ko": "사반도 새김질은 하되 굽이 갈라지지 아니하였으므로 너희에게 부정하고",
+      "en": "The coney, though it chews the cud, does not have a split hoof; it is unclean for you.",
+      "de": "Die Kaninchen wiederkäuen wohl, aber sie spalten die Klauen nicht; darum sind sie unrein.",
+      "zh": "沙番—因为倒嚼不分蹄，就与你们不洁净；",
+      "ja": "山鼠是は反芻ども蹄わかれざれば汝等には汚たる者なり"
+    },
+    {
+      "number": 6,
+      "ko": "토끼도 새김질은 하되 굽이 갈라지지 아니하였으므로 너희에게 부정하고",
+      "en": "The rabbit, though it chews the cud, does not have a split hoof; it is unclean for you.",
+      "de": "Der Hase wiederkäut auch, aber er spaltet die Klauen nicht; darum ist er euch unrein.",
+      "zh": "兔子—因为倒嚼不分蹄，就与你们不洁净；",
+      "ja": "兎是は反芻ども蹄わかれざれば汝等には汚たる者なり"
+    },
+    {
+      "number": 7,
+      "ko": "돼지는 굽이 갈라져 쪽발이로되 새김질을 못하므로 너희에게 부정하니",
+      "en": "And the pig, though it has a split hoof completely divided, does not chew the cud; it is unclean for you.",
+      "de": "Und ein Schwein spaltet wohl die Klauen, aber es wiederkäut nicht; darum soll's euch unrein sein.",
+      "zh": "猪—因为蹄分两瓣，却不倒嚼，就与你们不洁净。",
+      "ja": "猪是は蹄あひ分れ蹄まったく分るれども反芻ことをせざれば汝等には汚たる者なり"
+    },
+    {
+      "number": 8,
+      "ko": "너희는 이러한 고기를 먹지 말고 그 주검도 만지지 말라 이것들은 너희에게 부정하니라",
+      "en": "You must not eat their meat or touch their carcasses; they are unclean for you.",
+      "de": "Von dieser Fleisch sollt ihr nicht essen noch ihr Aas anrühren; denn sie sind euch unrein.",
+      "zh": "这些兽的肉，你们不可吃；死的，你们不可摸，都与你们不洁净。",
+      "ja": "汝等是等の者の肉を食ふべからずまたその死體にさはるべからず是等は汝等には汚たる者なり"
+    },
+    {
+      "number": 9,
+      "ko": "물에 있는 모든 것 중에서 너희가 먹을 만한 것은 이것이니 강과 바다와 다른 물에 있는 모든 것 중에서 지느러미와 비늘 있는 것은 너희가 먹되",
+      "en": "\"'Of all the creatures living in the water of the seas and the streams, you may eat any that have fins and scales.",
+      "de": "Dies sollt ihr essen unter dem, was in Wassern ist: alles, was Floßfedern und Schuppen hat in Wassern, im Meer und in Bächen, sollt ihr essen.",
+      "zh": "「水中可吃的乃是这些：凡在水里、海里、河里、有翅有鳞的，都可以吃。",
+      "ja": "水にある諸の族の中汝等の食ふべき者は是なり凡て水の中にをり海河に居る者にして翅と鱗のある者は汝等これを食ふべし"
+    },
+    {
+      "number": 10,
+      "ko": "물에서 움직이는 모든 것과 물에서 사는 모든 것 곧 강과 바다에 있는 것으로서 지느러미와 비늘 없는 모든 것은 너희에게 가증한 것이라",
+      "en": "But all creatures in the seas or streams that do not have fins and scales--whether among all the swarming things or among all the other living creatures in the water--you are to detest.",
+      "de": "Alles aber, was nicht Floßfedern und Schuppen hat im Meer und in Bächen, unter allem, was sich regt in Wassern, und allem, was lebt im Wasser, soll euch eine Scheu sein,",
+      "zh": "凡在海里、河里，并一切水里游动的活物，无翅无鳞的，你们都当以为可憎。",
+      "ja": "凡て水に動く者凡て水に生る者即ち凡て海河にある者にして翅と鱗なき者は是汝等には忌はしき者なり"
+    },
+    {
+      "number": 11,
+      "ko": "이들은 너희에게 가증한 것이니 너희는 그 고기를 먹지 말고 그 주검을 가증히 여기라",
+      "en": "And since you are to detest them, you must not eat their meat and you must detest their carcasses.",
+      "de": "daß ihr von ihrem Fleisch nicht eßt und vor ihrem Aas euch scheut.",
+      "zh": "这些无翅无鳞、以为可憎的，你们不可吃它的肉；死的也当以为可憎。",
+      "ja": "是等は汝等には忌はしき者なり汝等その肉を食ふべからずまたその死體をば忌はしき者となすべし"
+    },
+    {
+      "number": 12,
+      "ko": "수중 생물에 지느러미와 비늘 없는 것은 너희가 혐오할 것이니라",
+      "en": "Anything living in the water that does not have fins and scales is to be detestable to you.",
+      "de": "Denn alles, was nicht Floßfedern und Schuppen hat in Wassern, sollt ihr scheuen.",
+      "zh": "凡水里无翅无鳞的，你们都当以为可憎。",
+      "ja": "凡て水にありて翅も鱗もなき者は汝等には忌はしき者たるべし"
+    },
+    {
+      "number": 13,
+      "ko": "새 중에 너희가 가증히 여길 것은 이것이라 이것들이 가증한즉 먹지 말지니 곧 독수리와 솔개와 물수리와",
+      "en": "\"'These are the birds you are to detest and not eat because they are detestable: the eagle, the vulture, the black vulture,",
+      "de": "Und dies sollt ihr scheuen unter den Vögeln, daß ihr's nicht eßt: den Adler, den Habicht, den Fischaar,",
+      "zh": "「雀鸟中你们当以为可憎、不可吃的乃是：雕、狗头雕、红头雕、",
+      "ja": "鳥の中に汝等が忌はしとすべき者は是なり是をば食ふべからず是は忌はしき者なり即ち鵰黄鷹鳶"
+    },
+    {
+      "number": 14,
+      "ko": "말똥가리와 말똥가리 종류와",
+      "en": "the red kite, any kind of black kite,",
+      "de": "den Geier, den Weih, und was seine Art ist,",
+      "zh": "鹞鹰、小鹰与其类；",
+      "ja": "鸇鷹の類"
+    },
+    {
+      "number": 15,
+      "ko": "까마귀 종류와",
+      "en": "any kind of raven,",
+      "de": "und alle Raben mit ihrer Art,",
+      "zh": "乌鸦与其类；",
+      "ja": "諸の鴉の類"
+    },
+    {
+      "number": 16,
+      "ko": "타조와 타흐마스와 갈매기와 새매 종류와",
+      "en": "the horned owl, the screech owl, the gull, any kind of hawk,",
+      "de": "den Strauß, die Nachteule, den Kuckuck, den Sperber mit seiner Art,",
+      "zh": "鸵鸟、夜鹰、鱼鹰、鹰与其类；",
+      "ja": "駝鳥梟鴎雀鷹の類"
+    },
+    {
+      "number": 17,
+      "ko": "올빼미와 가마우지와 부엉이와",
+      "en": "the little owl, the cormorant, the great owl,",
+      "de": "das Käuzlein, den Schwan, den Uhu,",
+      "zh": "鸮鸟、鸬鹚、猫头鹰、",
+      "ja": "鶴鵜鷺"
+    },
+    {
+      "number": 18,
+      "ko": "흰 올빼미와 사다새와 너새와",
+      "en": "the white owl, the desert owl, the osprey,",
+      "de": "die Fledermaus, die Rohrdommel,",
+      "zh": "角鸱、鹈鹕、秃雕、",
+      "ja": "白鳥鸅鸕大鷹"
+    },
+    {
+      "number": 19,
+      "ko": "황새와 백로 종류와 오디새와 박쥐니라",
+      "en": "the stork, any kind of heron, the hoopoe and the bat.",
+      "de": "den Storch, den Reiher, den Häher mit seiner Art, den Wiedehopf und die Schwalbe.",
+      "zh": "鹳、鹭鸶与其类；戴 与蝙蝠。",
+      "ja": "鶴鸚鵡の類鷸および蝙蝠"
+    },
+    {
+      "number": 20,
+      "ko": "날개가 있고 네 발로 기어 다니는 곤충은 너희가 혐오할 것이로되",
+      "en": "\"'All flying insects that walk on all fours are to be detestable to you.",
+      "de": "Alles auch, was sich regt und Flügel hat und geht auf vier Füßen, das soll euch eine Scheu sein.",
+      "zh": "「凡有翅膀用四足爬行的物，你们都当以为可憎。",
+      "ja": "また凡て羽翼のありて四爬にあるくところの昆蟲は汝等には忌はしき者なり"
+    },
+    {
+      "number": 21,
+      "ko": "다만 날개가 있고 네 발로 기어다니는 모든 곤충 중에 그 발에 뛰는 다리가 있어서 땅에서 뛰는 것은 너희가 먹을지니",
+      "en": "There are, however, some winged creatures that walk on all fours that you may eat: those that have jointed legs for hopping on the ground.",
+      "de": "Doch das sollt ihr essen von allem, was sich regt und Flügel hat und geht auf vier Füßen: was noch zwei Beine hat, womit es auf Erden hüpft;",
+      "zh": "只是有翅膀用四足爬行的物中，有足有腿，在地上蹦跳的，你们还可以吃。",
+      "ja": "但し羽翼のありて四爬にあるく諸の昆蟲の中その足に飛腿のありて地に飛ぶものは汝等これを食ふことを得べし"
+    },
+    {
+      "number": 22,
+      "ko": "곧 그 중에 메뚜기 종류와 베짱이 종류와 귀뚜라미 종류와 팥중이 종류는 너희가 먹으려니와",
+      "en": "Of these you may eat any kind of locust, katydid, cricket or grasshopper.",
+      "de": "von demselben mögt ihr essen die Heuschrecken, als da ist: Arbe mit seiner Art und Solam mit seiner Art und Hargol mit seiner Art und Hagab mit seiner Art.",
+      "zh": "其中有蝗虫、蚂蚱、蟋蟀与其类；蚱蜢与其类；这些你们都可以吃。",
+      "ja": "即ちその中蝗蟲の類大蜢の類小蜢の類螇蚸の類を汝等食ふことを得べし"
+    },
+    {
+      "number": 23,
+      "ko": "오직 날개가 있고 기어다니는 곤충은 다 너희가 혐오할 것이니라",
+      "en": "But all other winged creatures that have four legs you are to detest.",
+      "de": "Aber alles, was sonst Flügel und vier Füße hat, soll euch eine Scheu sein,",
+      "zh": "但是有翅膀有四足的爬物，你们都当以为可憎。",
+      "ja": "凡て羽翼ありて四爬にあるくところの昆蟲はみな汝等には忌はしき者たるなり"
+    },
+    {
+      "number": 24,
+      "ko": "이런 것은 너희를 부정하게 하나니 누구든지 이것들의 주검을 만지면 저녁까지 부정할 것이며",
+      "en": "\"'You will make yourselves unclean by these; whoever touches their carcasses will be unclean till evening.",
+      "de": "und sollt sie unrein achten. Wer solcher Aas anrührt, der wird unrein sein bis auf den Abend.",
+      "zh": "「这些都能使你们不洁净。凡摸了死的，必不洁净到晚上。",
+      "ja": "これ等はなんぢらを汚すなり凡て是等の者の死體に捫る者は晩まで汚るべし"
+    },
+    {
+      "number": 25,
+      "ko": "그 주검을 옮기는 모든 자는 그 옷을 빨지니 저녁까지 부정하리라",
+      "en": "Whoever picks up one of their carcasses must wash his clothes, and he will be unclean till evening.",
+      "de": "Und wer dieser Aase eines tragen wird, soll seine Kleider waschen und wird unrein sein bis auf den Abend.",
+      "zh": "凡拿了死的，必不洁净到晚上，并要洗衣服。",
+      "ja": "凡てその死體を身に携ふる者はその衣服を洗ふべしその身は晩まで汚るるなり"
+    },
+    {
+      "number": 26,
+      "ko": "굽이 갈라진 모든 짐승 중에 쪽발이 아닌 것이나 새김질 아니하는 것의 주검은 다 네게 부정하니 만지는 자는 부정할 것이요",
+      "en": "\"'Every animal that has a split hoof not completely divided or that does not chew the cud is unclean for you; whoever touches the carcass of any of them will be unclean.",
+      "de": "Darum alles Getier, das Klauen hat und spaltet sie nicht und wiederkäuet nicht, das soll euch unrein sein.",
+      "zh": "凡走兽分蹄不成两瓣、也不倒嚼的，是与你们不洁净；凡摸了的就不洁净。",
+      "ja": "凡そ蹄の分れたる獣畜の中その蹄の全く分れざる者あるひは反芻ことをせざる者の死體は汝等には汚穢たるべし凡てこれに捫る者は汚るべし"
+    },
+    {
+      "number": 27,
+      "ko": "네 발로 다니는 모든 짐승 중 발바닥으로 다니는 것은 다 네게 부정하니 그 주검을 만지는 자는 저녁까지 부정할 것이며",
+      "en": "Of all the animals that walk on all fours, those that walk on their paws are unclean for you; whoever touches their carcasses will be unclean till evening.",
+      "de": "Und alles, was auf Tatzen geht unter den Tieren, die auf vier Füßen gehen, soll euch unrein sein; wer ihr Aas anrührt, wird unrein sein bis auf den Abend.",
+      "zh": "凡四足的走兽，用掌行走的，是与你们不洁净；摸其尸的，必不洁净到晚上。",
+      "ja": "四足にてあるく諸の獣畜の中その掌底にて歩む者は皆汝等には汚穢たるべしその死骸に捫る者は晩まで汚るべし"
+    },
+    {
+      "number": 28,
+      "ko": "그 주검을 옮기는 자는 그 옷을 빨지니 저녁까지 부정하리라 그것들이 네게 부정하니라",
+      "en": "Anyone who picks up their carcasses must wash his clothes, and he will be unclean till evening. They are unclean for you.",
+      "de": "Und wer ihr Aas trägt, soll seine Kleider waschen und unrein sein bis auf den Abend; denn solche sind euch unrein.",
+      "zh": "拿其尸的，必不洁净到晚上，并要洗衣服。这些是与你们不洁净的。",
+      "ja": "その死體を身に携ふる者はその衣服を洗ふべしその身は晩まで汚るるなり是等は汝等には汚たる者なり"
+    },
+    {
+      "number": 29,
+      "ko": "땅에 기는 길짐승 중에 네게 부정한 것은 이러하니 곧 두더지와 쥐와 큰 도마뱀 종류와",
+      "en": "\"'Of the animals that move about on the ground, these are unclean for you: the weasel, the rat, any kind of great lizard,",
+      "de": "Diese sollen euch auch unrein sein unter den Tieren, die auf Erden kriechen: das Wiesel, die Maus, die Kröte, ein jegliches mit seiner Art,",
+      "zh": "「地上爬物与你们不洁净的乃是这些：鼬鼠、鼫鼠、蜥蜴与其类；",
+      "ja": "地に匍ところの匍行者の中汝等に汚穢となる者は是なり即ち鼬鼠鼫鼠大蜥蜴の類"
+    },
+    {
+      "number": 30,
+      "ko": "도마뱀붙이와 육지 악어와 도마뱀과 사막 도마뱀과 카멜레온이라",
+      "en": "the gecko, the monitor lizard, the wall lizard, the skink and the chameleon.",
+      "de": "der Igel, der Molch, die Eidechse, die Blindschleiche und der Maulwurf;",
+      "zh": "壁虎、龙子、守宫、蛇医、蝘蜓。",
+      "ja": "蛤蚧龍子守宮蛇醫蝘蜓"
+    },
+    {
+      "number": 31,
+      "ko": "모든 기는 것 중 이것들은 네게 부정하니 그 주검을 만지는 모든 자는 저녁까지 부정할 것이며",
+      "en": "Of all those that move along the ground, these are unclean for you. Whoever touches them when they are dead will be unclean till evening.",
+      "de": "die sind euch unrein unter allem, was da kriecht; wer ihr Aas anrührt, der wird unrein sein bis auf den Abend.",
+      "zh": "这些爬物都是与你们不洁净的。在它死了以后，凡摸了的，必不洁净到晚上。",
+      "ja": "諸の匍者の中是等は汝等には汚穢たるなり凡てその死たるに捫る者は晩まで汚るべし"
+    },
+    {
+      "number": 32,
+      "ko": "이런 것 중 어떤 것의 주검이 나무 그릇에든지 의복에든지 가죽에든지 자루에든지 무엇에 쓰는 그릇에든지 떨어지면 부정하여지리니 물에 담그라 저녁까지 부정하다가 정할 것이며",
+      "en": "When one of them dies and falls on something, that article, whatever its use, will be unclean, whether it is made of wood, cloth, hide or sackcloth. Put it in water; it will be unclean till evening, and then it will be clean.",
+      "de": "Und alles, worauf ein solch totes Aas fällt, das wird unrein, es sei allerlei hölzernes Gefäß oder Kleider oder Fell oder Sack; und alles Gerät, womit man etwas schafft, soll man ins Wasser tun, und es ist unrein bis auf den Abend; alsdann wird's rein.",
+      "zh": "其中死了的，掉在什么东西上，这东西就不洁净，无论是木器、衣服、皮子、口袋，不拘是做什么工用的器皿，须要放在水中，必不洁净到晚上，到晚上才洁净了。",
+      "ja": "是等の者の死て上に墜たる物は何にもあれ汚るべし木の器具にもあれ衣服にもあれ皮革にもあれ嚢袋にもあれ凡そ事に用ふる器は皆これを水にいるべし是は晩まで汚穢ん斯せば是は清まるべし"
+    },
+    {
+      "number": 33,
+      "ko": "그것 중 어떤 것이 어느 질그릇에 떨어지면 그 속에 있는 것이 다 부정하여지나니 너는 그 그릇을 깨뜨리라",
+      "en": "If one of them falls into a clay pot, everything in it will be unclean, and you must break the pot.",
+      "de": "Allerlei irdenes Gefäß, wo solcher Aas hineinfällt, wird alles unrein, was darin ist; und sollt's zerbrechen.",
+      "zh": "若有死了掉在瓦器里的，其中不拘有什么，就不洁净，你们要把这瓦器打破了。",
+      "ja": "また是等の中の者瓦の器におつればその内にある者みな汚るべし汝らその器を毀つべきなり"
+    },
+    {
+      "number": 34,
+      "ko": "먹을 만한 축축한 식물이 거기 담겼으면 부정하여질 것이요 그같은 그릇에 담긴 마실 것도 부정할 것이며",
+      "en": "Any food that could be eaten but has water on it from such a pot is unclean, and any liquid that could be drunk from it is unclean.",
+      "de": "Alle Speise, die man ißt, so solch Wasser hineinkommt, ist unrein; und aller Trank, den man trinkt in allerlei solchem Gefäß, ist unrein.",
+      "zh": "其中一切可吃的食物，沾水的就不洁净，并且那样器皿中一切可喝的，也必不洁净。",
+      "ja": "また水の入たる食ふべき食物も是等によりて汚るべく諸般の器にある飮べき飮物も是等に由て汚るべし"
+    },
+    {
+      "number": 35,
+      "ko": "이런 것의 주검이 물건 위에 떨어지면 그것이 모두 부정하여지리니 화덕이든지 화로이든지 깨뜨려버리라 이것이 부정하여져서 너희에게 부정한 것이 되리라",
+      "en": "Anything that one of their carcasses falls on becomes unclean; an oven or cooking pot must be broken up. They are unclean, and you are to regard them as unclean.",
+      "de": "Und alles, worauf solches Aas fällt, wird unrein, es sei ein Ofen oder Kessel, so soll man's zerbrechen; denn es ist unrein und soll euch unrein sein.",
+      "zh": "其中已死的，若有一点掉在什么物件上，那物件就不洁净，不拘是炉子，是锅台，就要打碎，都不洁净，也必与你们不洁净。",
+      "ja": "是等の者の死體物の上に堕ればその物都て汚るべし爐にもあれ土鍋にもあれ之を毀つべきなり是は汚れて汝等には汚れたる者となればなり"
+    },
+    {
+      "number": 36,
+      "ko": "샘물이나 물이 고인 웅덩이는 부정하여지지 아니하되 그 주검에 닿는 것은 모두 부정하여질 것이요",
+      "en": "A spring, however, or a cistern for collecting water remains clean, but anyone who touches one of these carcasses is unclean.",
+      "de": "Doch die Brunnen und Gruben und Teiche bleiben rein. Wer aber ihr Aas anrührt, ist unrein.",
+      "zh": "但是泉源或是聚水的池子仍是洁净；惟挨了那死的，就不洁净。",
+      "ja": "然ど泉水あるひは塘池水の潴は汚るること無し唯その死體に觸る者汚るべし"
+    },
+    {
+      "number": 37,
+      "ko": "이것들의 주검이 심을 종자에 떨어지면 그것이 정하거니와",
+      "en": "If a carcass falls on any seeds that are to be planted, they remain clean.",
+      "de": "Und ob solch ein Aas fiele auf Samen, den man sät, so ist er doch rein.",
+      "zh": "若是死的，有一点掉在要种的子粒上，子粒仍是洁净；",
+      "ja": "是等の者の死體は播べき種の上に堕るも其は汚るることなし"
+    },
+    {
+      "number": 38,
+      "ko": "만일 종자에 물이 묻었을 때에 그것이 그 위에 떨어지면 너희에게 부정하리라",
+      "en": "But if water has been put on the seed and a carcass falls on it, it is unclean for you.",
+      "de": "Wenn man aber Wasser über den Samen gösse, und fiele darnach ein solch Aas darauf, so würde er euch unrein.",
+      "zh": "若水已经浇在子粒上，那死的有一点掉在上头，这子粒就与你们不洁净。",
+      "ja": "然ど種の上に水のかかれる時にその死體上に堕なば其は汝等には汚たるべし"
+    },
+    {
+      "number": 39,
+      "ko": "너희가 먹을 만한 짐승이 죽은 때에 그 주검을 만지는 자는 저녁까지 부정할 것이며",
+      "en": "\"'If an animal that you are allowed to eat dies, anyone who touches the carcass will be unclean till evening.",
+      "de": "Wenn ein Tier stirbt, das ihr essen mögt: wer das Aas anrührt, der ist unrein bis an den Abend.",
+      "zh": "「你们可吃的走兽若是死了，有人摸它，必不洁净到晚上；",
+      "ja": "汝等が食ふところの獣畜の死たる時はその死體に捫る者は晩まで汚るべし"
+    },
+    {
+      "number": 40,
+      "ko": "그것을 먹는 자는 그 옷을 빨 것이요 저녁까지 부정할 것이며 그 주검을 옮기는 자도 그의 옷을 빨 것이요 저녁까지 부정하리라",
+      "en": "Anyone who eats some of the carcass must wash his clothes, and he will be unclean till evening. Anyone who picks up the carcass must wash his clothes, and he will be unclean till evening.",
+      "de": "Wer von solchem Aas ißt, der soll sein Kleid waschen und wird unrein sein bis an den Abend. Also wer auch trägt ein solch Aas, soll sein Kleid waschen, und ist unrein bis an den Abend",
+      "zh": "有人吃那死了的走兽，必不洁净到晚上，并要洗衣服；拿了死走兽的，必不洁净到晚上，并要洗衣服。",
+      "ja": "その死體を食ふ者はその衣服を濯ふべし其身は晩まで汚るるなりその死體を携ふる者もその衣服を洗ふべしその身は晩まで汚るるなり"
+    },
+    {
+      "number": 41,
+      "ko": "땅에 기어 다니는 모든 길짐승은 가증한즉 먹지 못할지니",
+      "en": "\"'Every creature that moves about on the ground is detestable; it is not to be eaten.",
+      "de": "Was auf Erden schleicht, das soll euch eine Scheu sein, und man soll's nicht essen.",
+      "zh": "「凡地上的爬物是可憎的，都不可吃。",
+      "ja": "地の上に匍ところの諸の匍行物は忌べき者なり食ふべからず"
+    },
+    {
+      "number": 42,
+      "ko": "곧 땅에 기어다니는 모든 기는 것 중에 배로 밀어 다니는 것이나 네 발로 걷는 것이나 여러 발을 가진 것이라 너희가 먹지 말지니 이것들은 가증함이니라",
+      "en": "You are not to eat any creature that moves about on the ground, whether it moves on its belly or walks on all fours or on many feet; it is detestable.",
+      "de": "Alles, was auf dem Bauch kriecht, und alles, was auf vier oder mehr Füßen geht, unter allem, was auf Erden schleicht, sollt ihr nicht essen; denn es soll euch eine Scheu sein.",
+      "zh": "凡用肚子行走的和用四足行走的，或是有许多足的，就是一切爬在地上的，你们都不可吃，因为是可憎的。",
+      "ja": "即ち地に匍ところの諸の匍行物の中凡て腹ばひ行く者四足にて歩く者ならびに多の足を有つ者是等をば汝等食ふべからず是等は忌べき者たるなり"
+    },
+    {
+      "number": 43,
+      "ko": "너희는 기는 바 기어다니는 것 때문에 자기를 가증하게 되게 하지 말며 또한 그것 때문에 스스로 더럽혀 부정하게 되게 하지 말라",
+      "en": "Do not defile yourselves by any of these creatures. Do not make yourselves unclean by means of them or be made unclean by them.",
+      "de": "Macht eure Seelen nicht zum Scheusal und verunreinigt euch nicht an ihnen, daß ihr euch besudelt.",
+      "zh": "你们不可因什么爬物使自己成为可憎的，也不可因这些使自己不洁净，以致染了污秽。",
+      "ja": "汝等は匍ところの匍行物のためにその身を忌はしき者にするなかれ是等をもてその身を汚すなかれ又是等に汚さるるなかれ"
+    },
+    {
+      "number": 44,
+      "ko": "나는 여호와 너희의 하나님이라 내가 거룩하니 너희도 몸을 구별하여 거룩하게 하고 땅에 기는 길짐승으로 말미암아 스스로 더럽히지 말라",
+      "en": "I am the LORD your God; consecrate yourselves and be holy, because I am holy. Do not make yourselves unclean by any creature that moves about on the ground.",
+      "de": "Denn ich bin der HERR, euer Gott. Darum sollt ihr euch heiligen, daß ihr heilig seid, denn ich bin heilig, und sollt eure Seelen nicht verunreinigen an irgend einem kriechenden Tier, das auf Erden schleicht.",
+      "zh": "我是耶和华—你们的　神；所以你们要成为圣洁，因为我是圣洁的。你们也不可在地上的爬物污秽自己。",
+      "ja": "我は汝等の神ヱホバなれば汝等その身を聖潔せよ然ば汝等聖者とならん我聖ければなり汝等は必ず地に匍ところの匍行者をもてその身を汚すことをせざれ"
+    },
+    {
+      "number": 45,
+      "ko": "나는 너희의 하나님이 되려고 너희를 애굽 땅에서 인도하여 낸 여호와라 내가 거룩하니 너희도 거룩할지어다",
+      "en": "I am the LORD who brought you up out of Egypt to be your God; therefore be holy, because I am holy.",
+      "de": "Denn ich bin der HERR, der euch aus Ägyptenland geführt hat, daß ich euer Gott sei. Darum sollt ihr heilig sein, denn ich bin heilig.",
+      "zh": "我是把你们从埃及地领出来的耶和华，要作你们的　神；所以你们要圣洁，因为我是圣洁的。」",
+      "ja": "我は汝等の神とならんとて汝等をエジプトの國より導きいだせしヱホバなり我聖ければ汝等聖潔なるべし"
+    },
+    {
+      "number": 46,
+      "ko": "이는 짐승과 새와 물에서 움직이는 모든 생물과 땅에 기는 모든 길짐승에 대한 규례니",
+      "en": "\"'These are the regulations concerning animals, birds, every living thing that moves in the water and every creature that moves about on the ground.",
+      "de": "Dies ist das Gesetz von den Tieren und Vögeln und allerlei Tieren, die sich regen im Wasser, und allerlei Tieren, die auf Erden schleichen,",
+      "zh": "这是走兽、飞鸟，和水中游动的活物，并地上爬物的条例。",
+      "ja": "是すなはち獣畜と鳥と水に動く諸の生物と地に匍ふ諸の匍行物にかかはるところの例にして"
+    },
+    {
+      "number": 47,
+      "ko": "부정하고 정한 것과 먹을 생물과 먹지 못할 생물을 분별한 것이니라",
+      "en": "You must distinguish between the unclean and the clean, between living creatures that may be eaten and those that may not be eaten.'\"",
+      "de": "daß ihr unterscheiden könnt, was unrein und rein ist, und welches Tier man essen und welches man nicht essen soll.",
+      "zh": "要把洁净的和不洁净的，可吃的与不可吃的活物，都分别出来。",
+      "ja": "汚たる者と潔き者とを分ち食るる生物と食はれざる生物とを分つ者なり"
+    }
+  ]
+}

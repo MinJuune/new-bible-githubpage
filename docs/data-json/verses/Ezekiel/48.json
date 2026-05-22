@@ -1,0 +1,286 @@
+{
+  "book": "Ezekiel",
+  "chapter": 48,
+  "verses": [
+    {
+      "number": 1,
+      "ko": "모든 지파의 이름은 이와 같으니라 북쪽 끝에서부터 헤들론 길을 거쳐 하맛 어귀를 지나서 다메섹 경계선에 있는 하살에논까지 곧 북쪽으로 하맛 경계선에 미치는 땅 동쪽에서 서쪽까지는 단의 몫이요",
+      "en": "\"These are the tribes, listed by name: At the northern frontier, Dan will have one portion; it will follow the Hethlon road to Lebo Hamath; Hazar Enan and the northern border of Damascus next to Hamath will be part of its border from the east side to the west side.",
+      "de": "Dies sind die Namen der Stämme: von Mitternacht, an dem Wege nach Hethlon, gen Hamath und Hazar-Enon und von Damaskus gegen Hamath, das soll Dan für seinen Teil haben von Morgen bis gen Abend.",
+      "zh": "众支派按名所得之地记在下面：从北头，由希特伦往哈马口，到大马士革地界上的哈萨·以难。北边靠着哈马地（各支派的地都有东西的边界），是但的一分。",
+      "ja": "支派の名は是のごとしダンの一分は北の極よりヘテロンの路の傍にいたりハマテにいたり北におもむきてダマスコの界なるハザルエノンにいたりハマテの傍におよぶ是その東の方と西の方なり"
+    },
+    {
+      "number": 2,
+      "ko": "단 경계선 다음으로 동쪽에서 서쪽까지는 아셀의 몫이요",
+      "en": "\"Asher will have one portion; it will border the territory of Dan from east to west.",
+      "de": "Neben Dan soll Asser seinen Teil haben, von Morgen bis gen Abend.",
+      "zh": "挨着但的地界，从东到西，是亚设的一分。",
+      "ja": "アセルの一分はダンの界にそひて東の方より西の方にわたる"
+    },
+    {
+      "number": 3,
+      "ko": "아셀 경계선 다음으로 동쪽에서 서쪽까지는 납달리의 몫이요",
+      "en": "\"Naphtali will have one portion; it will border the territory of Asher from east to west.",
+      "de": "Neben Asser soll Naphthali seinen Teil haben, von Morgen bis gen Abend.",
+      "zh": "挨着亚设的地界，从东到西，是拿弗他利的一分。",
+      "ja": "ナフタリの一分はアセルの界にそひて東の方より西の方にわたる"
+    },
+    {
+      "number": 4,
+      "ko": "납달리 경계선 다음으로 동쪽에서 서쪽까지는 므낫세의 몫이요",
+      "en": "\"Manasseh will have one portion; it will border the territory of Naphtali from east to west.",
+      "de": "Neben Naphthali soll Manasse seinen Teil haben, von Morgen bis gen Abend.",
+      "zh": "挨着拿弗他利的地界，从东到西，是玛拿西的一分。",
+      "ja": "マナセの一分はナフタリの界にそひて東の方より西の方にわたる"
+    },
+    {
+      "number": 5,
+      "ko": "므낫세 경계선 다음으로 동쪽에서 서쪽까지는 에브라임의 몫이요",
+      "en": "\"Ephraim will have one portion; it will border the territory of Manasseh from east to west.",
+      "de": "Neben Manasse soll Ephraim seinen Teil haben, von Morgen bis gen Abend.",
+      "zh": "挨着玛拿西的地界，从东到西，是以法莲的一分。",
+      "ja": "エフライムの一分はマナセの界にそひて東の方より西の方にわたる"
+    },
+    {
+      "number": 6,
+      "ko": "에브라임 경계선 다음으로 동쪽에서 서쪽까지는 르우벤의 몫이요",
+      "en": "\"Reuben will have one portion; it will border the territory of Ephraim from east to west.",
+      "de": "Neben Ephraim soll Ruben seinen Teil haben, von Morgen bis gen Abend.",
+      "zh": "挨着以法莲的地界，从东到西，是吕便的一分。",
+      "ja": "ルペンの一分はエフライムの界にそひて東の方より西の方にわたる"
+    },
+    {
+      "number": 7,
+      "ko": "르우벤 경계선 다음으로 동쪽에서 서쪽까지는 유다의 몫이요",
+      "en": "\"Judah will have one portion; it will border the territory of Reuben from east to west.",
+      "de": "Neben Ruben soll Juda seinen Teil haben, von Morgen bis gen Abend.",
+      "zh": "挨着吕便的地界，从东到西，是犹大的一分。",
+      "ja": "ユダの一分はルベンの界にそひて東の方より西の方にわたる"
+    },
+    {
+      "number": 8,
+      "ko": "유다 경계선 다음으로 동쪽에서 서쪽까지는 너희가 예물로 드릴 땅이라 너비는 이만 오천 척이요 길이는 다른 몫의 동쪽에서 서쪽까지와 같고 성소는 그 중앙에 있을지니",
+      "en": "\"Bordering the territory of Judah from east to west will be the portion you are to present as a special gift. It will be 25,000 cubits wide, and its length from east to west will equal one of the tribal portions; the sanctuary will be in the center of it.",
+      "de": "Neben Juda aber sollt ihr einen Teil absondern, von Morgen bis gen Abend, der fünfundzwanzigtausend Ruten breit und so lang sei, wie sonst ein Teil ist von Morgen bis gen Abend; darin soll das Heiligtum stehen.",
+      "zh": "挨着犹大的地界，从东到西，必有你们所当献的供地，宽二万五千肘。从东界到西界，长短与各分之地相同，圣地当在其中。",
+      "ja": "ユダの界にそひて東の方より西の方にわたる處をもて汝らが献ぐるところの献納地となすべし其廣二萬五千其東の方より西の方にわたる長は他の一の分のごとし聖所はその中にあるべし"
+    },
+    {
+      "number": 9,
+      "ko": "곧 너희가 여호와께 드려 예물로 삼을 땅의 길이는 이만 오천 척이요 너비는 만 척이라",
+      "en": "\"The special portion you are to offer to the LORD will be 25,000 cubits long and 10,000 cubits wide.",
+      "de": "Und davon sollt ihr dem HERRN einen Teil absondern, fünfundzwanzigtausend Ruten lang und zehntausend Ruten breit.",
+      "zh": "你们献与耶和华的供地要长二万五千肘，宽一万肘。",
+      "ja": "即ち汝らがヱホバに献ぐるところの献納地は長二萬五千廣一萬なるべし"
+    },
+    {
+      "number": 10,
+      "ko": "이 드리는 거룩한 땅은 제사장에게 돌릴지니 북쪽으로 길이가 이만 오천 척이요 서쪽으로 너비는 만 척이요 동쪽으로 너비가 만 척이요 남쪽으로 길이가 이만 오천 척이라 그 중앙에 여호와의 성소가 있게 하고",
+      "en": "This will be the sacred portion for the priests. It will be 25,000 cubits long on the north side, 10,000 cubits wide on the west side, 10,000 cubits wide on the east side and 25,000 cubits long on the south side. In the center of it will be the sanctuary of the LORD.",
+      "de": "Und dieser heilige Teil soll den Priestern gehören, nämlich fünfundzwanzigtausend Ruten lang gegen Mitternacht und gegen Mittag und zehntausend breit gegen Morgen und gegen Abend. Und das Heiligtum des HERRN soll mittendarin stehen.",
+      "zh": "这圣供地要归与祭司，北长二万五千肘，西宽一万肘，东宽一万肘，南长二万五千肘。耶和华的圣地当在其中。",
+      "ja": "この聖き献納地は祭司に屬し北は二萬五千西は廣一萬東は廣一萬南は長二萬五千ヱホバの聖所その中にあるべし"
+    },
+    {
+      "number": 11,
+      "ko": "이 땅을 사독의 자손 중에서 거룩하게 구별한 제사장에게 돌릴지어다 그들은 직분을 지키고 이스라엘 족속이 그릇될 때에 레위 사람이 그릇된 것처럼 그릇되지 아니하였느니라",
+      "en": "This will be for the consecrated priests, the Zadokites, who were faithful in serving me and did not go astray as the Levites did when the Israelites went astray.",
+      "de": "Das soll geheiligt sein den Priestern, den Kindern Zadok, welche meine Sitten gehalten haben und sind nicht abgefallen mit den Kindern Israel, wie die Leviten abgefallen sind.",
+      "zh": "这地要归与撒督的子孙中成为圣的祭司，就是那守我所吩咐的。当以色列人走迷的时候，他们不像那些利未人走迷了。",
+      "ja": "ザドクの子孫たる者すなはち我が職守をまもりイスラエルの子孫が迷謬し時にレビ人の迷ひしごとく迷はざりし者の中聖別られて祭司となれる者に是は屬すべし"
+    },
+    {
+      "number": 12,
+      "ko": "땅의 예물 중에서 그들이 예물을 받을지니 레위인의 접경지에 관한 가장 거룩한 예물이니라",
+      "en": "It will be a special gift to them from the sacred portion of the land, a most holy portion, bordering the territory of the Levites.",
+      "de": "Und soll also dieser abgesonderte Teil des geheiligten Landes ihr eigen sein als Hochheiliges neben der Leviten Grenze.",
+      "zh": "这要归与他们为供地，是全地中至圣的。供地挨着利未人的地界。",
+      "ja": "その献げたる地の中より一分の至聖き献納地かれらに屬してレビの境界に沿ふ"
+    },
+    {
+      "number": 13,
+      "ko": "제사장의 경계선을 따라 레위 사람의 몫을 주되 길이는 이만 오천 척이요 너비는 만 척으로 할지니 이 구역의 길이가 이만 오천 척이요 너비가 각기 만 척이라",
+      "en": "\"Alongside the territory of the priests, the Levites will have an allotment 25,000 cubits long and 10,000 cubits wide. Its total length will be 25,000 cubits and its width 10,000 cubits.",
+      "de": "Die Leviten aber sollen neben der Priester Grenze auch fünfundzwanzigtausend Ruten in die Länge und zehntausend Ruten in die Breite haben; denn alle Länge soll fünfunzwanzigtausend und die Breite zehntausend Ruten haben.",
+      "zh": "利未人所得的地要长二万五千肘，宽一万肘，与祭司的地界相等，都长二万五千肘，宽一万肘。",
+      "ja": "レビ人の地は祭司の地にならびて其長二萬五千廣一萬なり即ちその都の長二萬五千その廣一萬なり"
+    },
+    {
+      "number": 14,
+      "ko": "그들이 그 땅을 팔지도 못하며 바꾸지도 못하며 그 땅의 처음 익은 열매를 남에게 주지도 못하리니 이는 여호와께 거룩히 구별한 것임이라",
+      "en": "They must not sell or exchange any of it. This is the best of the land and must not pass into other hands, because it is holy to the LORD.",
+      "de": "Und sollen nichts davon verkaufen noch verändern, damit des Landes Erstling nicht wegkomme; denn es ist dem HERRN geheiligt.",
+      "zh": "这地不可卖，不可换，初熟之物也不可归与别人，因为是归耶和华为圣的。",
+      "ja": "彼らこれを賣べからず換べからず又その地の初實は人にわたすべからず是ヱホバに屬する聖物なればなり"
+    },
+    {
+      "number": 15,
+      "ko": "이 이만 오천 척 다음으로 너비 오천 척은 속된 땅으로 구분하여 성읍을 세우며 거주하는 곳과 전원을 삼되 성읍이 그 중앙에 있게 할지니",
+      "en": "\"The remaining area, 5,000 cubits wide and 25,000 cubits long, will be for the common use of the city, for houses and for pastureland. The city will be in the center of it",
+      "de": "Aber die übrigen fünftausend Ruten in die Breite gegen fünfunzwanzigtausend Ruten in die Länge, das soll gemeines Land sein zur Stadt, darin zu wohnen, und zu Vorstädten; und die Stadt soll mittendarin stehen.",
+      "zh": "这二万五千肘前面所剩下五千肘宽之地要作俗用，作为造城盖房郊野之地。城要在当中。",
+      "ja": "彼二萬五千の處に沿て殘れる廣五千の處は俗地にして邑を建て住家を設くべし又郊地となすべし邑その中にあるべし"
+    },
+    {
+      "number": 16,
+      "ko": "그 크기는 북쪽도 사천오백 척이요 남쪽도 사천오백 척이요 동쪽도 사천오백 척이요 서쪽도 사천오백 척이며",
+      "en": "and will have these measurements: the north side 4,500 cubits, the south side 4,500 cubits, the east side 4,500 cubits, and the west side 4,500 cubits.",
+      "de": "Und das soll ihr Maß sein: viertausend und fünfhundert Ruten gegen Mitternacht und gegen Mittag, desgleichen gegen Morgen und gegen Abend auch viertausend und fünfhundert.",
+      "zh": "城的尺寸乃是如此：北面四千五百肘，南面四千五百肘，东面四千五百肘，西面四千五百肘。",
+      "ja": "その廣狹は左のごとし北の方四千五百南の方四千五百東の方四千五百西の方四千五百"
+    },
+    {
+      "number": 17,
+      "ko": "그 성읍의 들은 북쪽으로 이백오십 척이요 남쪽으로 이백오십 척이요 동쪽으로 이백오십 척이요 서쪽으로 이백오십 척이며",
+      "en": "The pastureland for the city will be 250 cubits on the north, 250 cubits on the south, 250 cubits on the east, and 250 cubits on the west.",
+      "de": "Die Vorstadt aber soll haben zweihundertundfünfzig Ruten gegen Mitternacht und gegen Mittag, desgleichen auch gegen Morgen und gegen Abend zweihundertundfünfzig Ruten.",
+      "zh": "城必有郊野，向北二百五十肘，向南二百五十肘，向东二百五十肘，向西二百五十肘。",
+      "ja": "邑の郊地は北二百五十南二百五十東二百五十西二百五十"
+    },
+    {
+      "number": 18,
+      "ko": "예물을 삼아 거룩히 구별할 땅과 연접하여 남아 있는 땅의 길이는 동쪽으로 만 척이요 서쪽으로 만 척이라 곧 예물을 삼아 거룩하게 구별할 땅과 연접하였으며 그 땅의 소산을 성읍에서 일하는 자의 양식을 삼을지라",
+      "en": "What remains of the area, bordering on the sacred portion and running the length of it, will be 10,000 cubits on the east side and 10,000 cubits on the west side. Its produce will supply food for the workers of the city.",
+      "de": "Aber das übrige an der Länge neben dem Abgesonderten und Geheiligten, nämlich zehntausend Ruten gegen Morgen und zehntausend Ruten gegen Abend, das gehört zum Unterhalt derer, die in der Stadt arbeiten.",
+      "zh": "靠着圣供地的余地，东长一万肘，西长一万肘，要与圣供地相等；其中的土产要作城内工人的食物。",
+      "ja": "聖き献納地にならびて餘れる處の長は東へ一萬西へ一萬なり是は聖き献納地に並びその產物は邑の役人の食物となるべし"
+    },
+    {
+      "number": 19,
+      "ko": "이스라엘 모든 지파 가운데에 그 성읍에서 일하는 자는 그 땅을 경작할지니라",
+      "en": "The workers from the city who farm it will come from all the tribes of Israel.",
+      "de": "Und die Arbeiter aus allen Stämmen Israels sollen in der Stadt arbeiten.",
+      "zh": "所有以色列支派中，在城内做工的，都要耕种这地。",
+      "ja": "邑の役人はイスラエルの諸の支派より出てその職をなすべし"
+    },
+    {
+      "number": 20,
+      "ko": "그런즉 예물로 드리는 땅의 합계는 길이도 이만 오천 척이요 너비도 이만 오천 척이라 너희가 거룩히 구별하여 드릴 땅은 성읍의 기지와 합하여 네모 반듯할 것이니라",
+      "en": "The entire portion will be a square, 25,000 cubits on each side. As a special gift you will set aside the sacred portion, along with the property of the city.",
+      "de": "Also soll die ganze Absonderung fünfundzwanzigtausend Ruten ins Gevierte sein; ein Vierteil der geheiligten Absonderung sei zu eigen der Stadt.",
+      "zh": "你们所献的圣供地连归城之地，是四方的：长二万五千肘，宽二万五千肘。",
+      "ja": "その献納地の惣體は堅二萬五千横二萬五千なりこの聖き献納地の四分の一にあたる處を取て邑の所有となすべし"
+    },
+    {
+      "number": 21,
+      "ko": "거룩하게 구별할 땅과 성읍의 기지 좌우편에 남은 땅은 군주에게 돌릴지니 곧 거룩하게 구별할 땅의 동쪽을 향한 그 경계선 앞 이만 오천 척과 서쪽을 향한 그 경계선 앞 이만 오천 척이라 다른 몫들과 연접한 땅이니 이것을 군주에게 돌릴 것이며 거룩하게 구별할 땅과 성전의 성소가 그 중앙에 있으리라",
+      "en": "\"What remains on both sides of the area formed by the sacred portion and the city property will belong to the prince. It will extend eastward from the 25,000 cubits of the sacred portion to the eastern border, and westward from the 25,000 cubits to the western border. Both these areas running the length of the tribal portions will belong to the prince, and the sacred portion with the temple sanctuary will be in the center of them.",
+      "de": "Was aber noch übrig ist auf beiden Seiten neben dem abgesonderten heiligen Teil und neben der Stadt Teil, nämlich fünfundzwanzigtausend Ruten gegen Morgen und gegen Abend neben den Teilen der Stämme, das soll alles dem Fürsten gehören. Aber der abgesonderte Teil und das Haus des Heiligtums soll mitteninnen sein.",
+      "zh": "圣供地连归城之地，两边的余地要归与王。供地东边，南北二万五千肘，东至东界，西边南北二万五千肘，西至西界，与各分之地相同，都要归王。圣供地和殿的圣地要在其中，",
+      "ja": "聖き献納地と邑の所有との此旁彼旁に餘れる處は君に屬すべし是はすなはち献納地の二萬五千なる所に沿て東の界にいたり西はかの二萬五千なる所にそひて西の界に至りて支派の分と相並ぶ是君に屬すべし聖き献納地と室の聖所とはその中間にあるべし"
+    },
+    {
+      "number": 22,
+      "ko": "그런즉 군주에게 돌려 그에게 속할 땅은 레위 사람의 기업 좌우편과 성읍의 기지 좌우편이며 유다 지경과 베냐민 지경 사이에 있을지니라",
+      "en": "So the property of the Levites and the property of the city will lie in the center of the area that belongs to the prince. The area belonging to the prince will lie between the border of Judah and the border of Benjamin.",
+      "de": "Was aber neben der Leviten Teil und neben der Stadt Teil zwischen der Grenze Juda's und der Grenze Benjamins liegt, das soll dem Fürsten gehören.",
+      "zh": "并且利未人之地，与归城之地的东西两边延长之地（这两地在王地中间），就是在犹大和便雅悯两界中间，要归与王。",
+      "ja": "君に屬する所の中間にあるレビ人の所有と邑の所有の兩傍ユダの境とベニヤミンの境の間にある所は君の所有たり"
+    },
+    {
+      "number": 23,
+      "ko": "그 나머지 모든 지파는 동쪽에서 서쪽까지는 베냐민의 몫이요",
+      "en": "\"As for the rest of the tribes: Benjamin will have one portion; it will extend from the east side to the west side.",
+      "de": "Darnach sollen die andern Stämme sein: Benjamin soll seinen Teil haben, von Morgen bis gen Abend.",
+      "zh": "论到其余的支派，从东到西，是便雅悯的一分。",
+      "ja": "その餘の支派はベニヤミンの一分東の方より西の方にわたる"
+    },
+    {
+      "number": 24,
+      "ko": "베냐민 경계선 다음으로 동쪽에서 서쪽까지는 시므온의 몫이요",
+      "en": "\"Simeon will have one portion; it will border the territory of Benjamin from east to west.",
+      "de": "Aber neben der Grenze Benjamin soll Simeon seinen Teil haben, von Morgen bis gen Abend.",
+      "zh": "挨着便雅悯的地界，从东到西，是西缅的一分。",
+      "ja": "シメオンの一分はベニヤミンの境にそひて東の方より西の方にわたる"
+    },
+    {
+      "number": 25,
+      "ko": "시므온 경계선 다음으로 동쪽에서 서쪽까지는 잇사갈의 몫이요",
+      "en": "\"Issachar will have one portion; it will border the territory of Simeon from east to west.",
+      "de": "Neben der Grenze Simeons soll Isaschar seinen Teil haben, von Morgen bis gen Abend.",
+      "zh": "挨着西缅的地界，从东到西，是以萨迦的一分。",
+      "ja": "イッサカルの一分はシメオンの境にそひて東の方より西の方にわたる"
+    },
+    {
+      "number": 26,
+      "ko": "잇사갈 경계선 다음으로 동쪽에서 서쪽까지는 스불론의 몫이요",
+      "en": "\"Zebulun will have one portion; it will border the territory of Issachar from east to west.",
+      "de": "Neben der Grenze Isaschars soll Sebulon seinen Teil haben, von Morgen bis gen Abend.",
+      "zh": "挨着以萨迦的地界，从东到西，是西布伦的一分。",
+      "ja": "ゼブルンの一分はイッサカルの境にそひて東の方より西の方にわたる"
+    },
+    {
+      "number": 27,
+      "ko": "스불론 경계선 다음으로 동쪽에서 서쪽까지는 갓의 몫이며",
+      "en": "\"Gad will have one portion; it will border the territory of Zebulun from east to west.",
+      "de": "Neben der Grenze Sebulons soll Gad seinen Teil haben, von Morgen bis gen Abend.",
+      "zh": "挨着西布伦的地界，从东到西，是迦得的一分。",
+      "ja": "ガドの一分はゼブルンの境にそひて東の方より西の方にわたる"
+    },
+    {
+      "number": 28,
+      "ko": "갓 경계선 다음으로 남쪽 경계선은 다말에서부터 므리바가데스 샘에 이르고 애굽 시내를 따라 대해에 이르나니",
+      "en": "\"The southern boundary of Gad will run south from Tamar to the waters of Meribah Kadesh, then along the Wadi of Egypt to the Great Sea.",
+      "de": "Aber neben Gad ist die Grenze gegen Mittag von Thamar bis ans Haderwasser zu Kades und an den Bach hinab bis an das große Meer.",
+      "zh": "迦得地的南界是从他玛到米利巴·加低斯的水，延到埃及小河，直到大海。",
+      "ja": "南の方はその界ガドの境界にそひてタマルよりメリボテカデシにおよび河に沿て大海にいたる"
+    },
+    {
+      "number": 29,
+      "ko": "이것은 너희가 제비 뽑아 이스라엘 지파에게 나누어 주어 기업이 되게 할 땅이요 또 이것들은 그들의 몫이니라 주 여호와의 말씀이니라",
+      "en": "\"This is the land you are to allot as an inheritance to the tribes of Israel, and these will be their portions,\" declares the Sovereign LORD.",
+      "de": "Das ist das Land, das ihr austeilen sollt zum Erbteil unter die Stämme Israels; und das sollen ihre Erbteile sein, spricht der Herr HERR.",
+      "zh": "这就是你们要拈阄分给以色列支派为业之地，乃是他们各支派所得之分。这是主耶和华说的。",
+      "ja": "是は汝らが籤をもてイスラエルの支派の中にわかちて產業となすべき地なりその分は斯のごとし主ヱホバこれを言たまふ"
+    },
+    {
+      "number": 30,
+      "ko": "그 성읍의 출입구는 이러하니라 북쪽의 너비가 사천오백 척이라",
+      "en": "\"These will be the exits of the city: Beginning on the north side, which is 4,500 cubits long,",
+      "de": "Und so weit soll die Stadt sein: viertausend und fünfhundert Ruten gegen Mitternacht.",
+      "zh": "城的北面四千五百肘。出城之处如下；",
+      "ja": "邑の出口は斯のごとしすなはち北の方の廣四千五百あり"
+    },
+    {
+      "number": 31,
+      "ko": "그 성읍의 문들은 이스라엘 지파들의 이름을 따를 것인데 북쪽으로 문이 셋이라 하나는 르우벤 문이요 하나는 유다 문이요 하나는 레위 문이며",
+      "en": "the gates of the city will be named after the tribes of Israel. The three gates on the north side will be the gate of Reuben, the gate of Judah and the gate of Levi.",
+      "de": "Und die Tore der Stadt sollen nach den Namen der Stämme Israels genannt werden, drei Toren gegen Mitternacht: das erste Tor Ruben, das zweite Juda, das dritte Levi.",
+      "zh": "城的各门要按以色列支派的名字。北面有三门，一为吕便门，一为犹大门，一为利未门；",
+      "ja": "邑の門はイスラエルの支流の名にしたがひ北に三あり即ちルベンの門一ユダの門一レビの門一"
+    },
+    {
+      "number": 32,
+      "ko": "동쪽의 너비는 사천오백 척이니 또한 문이 셋이라 하나는 요셉 문이요 하나는 베냐민 문이요 하나는 단 문이며",
+      "en": "\"On the east side, which is 4,500 cubits long, will be three gates: the gate of Joseph, the gate of Benjamin and the gate of Dan.",
+      "de": "Also auch gegen Morgen viertausend und fünfhundert Ruten und auch drei Tore: nämlich das erste Tor Joseph, das zweite Benjamin, das dritte Dan.",
+      "zh": "东面四千五百肘，有三门，一为约瑟门，一为便雅悯门，一为但门；",
+      "ja": "東の方も四千五百にして三の門あり即ちヨセフの門一ベニヤミンの門一ダンの門一"
+    },
+    {
+      "number": 33,
+      "ko": "남쪽의 너비는 사천오백 척이니 또한 문이 셋이라 하나는 시므온 문이요 하나는 잇사갈 문이요 하나는 스불론 문이며",
+      "en": "\"On the south side, which measures 4,500 cubits, will be three gates: the gate of Simeon, the gate of Issachar and the gate of Zebulun.",
+      "de": "Gegen Mittag auch also viertausend und fünfhundert Ruten und auch drei Tore: das erste Tor Simeon, das zweite Isaschar, das dritte Sebulon.",
+      "zh": "南面四千五百肘，有三门，一为西缅门，一为以萨迦门，一为西布伦门；",
+      "ja": "南の方も四千五百にして三の門ありすなはちシメオンの門一イツサカルの門一ゼブルンの門一"
+    },
+    {
+      "number": 34,
+      "ko": "서쪽도 사천오백 척이니 또한 문이 셋이라 하나는 갓 문이요 하나는 아셀 문이요 하나는 납달리 문이며",
+      "en": "\"On the west side, which is 4,500 cubits long, will be three gates: the gate of Gad, the gate of Asher and the gate of Naphtali.",
+      "de": "Also auch gegen Abend viertausend und fünfhundert Ruten und drei Tore: ein Tor Gad, das zweite Asser, das dritte Naphthali.",
+      "zh": "西面四千五百肘，有三门，一为迦得门，一为亚设门，一为拿弗他利门。",
+      "ja": "西の方も四千五百にしてその門三あり即ちガドの門一アセルの門一ナフタリの門一"
+    },
+    {
+      "number": 35,
+      "ko": "그 사방의 합계는 만 팔천 척이라 그 날 후로는 그 성읍의 이름을 여호와삼마라 하리라",
+      "en": "\"The distance all around will be 18,000 cubits. \"And the name of the city from that time on will be: THE LORD IS THERE.\"",
+      "de": "Also sollen es um und um achtzehntausend Ruten sein. Und alsdann soll die Stadt genannt werden: “Hier ist der HERR”.",
+      "zh": "城四围共一万八千肘。从此以后，这城的名字必称为「耶和华的所在」。",
+      "ja": "四周は一萬八千あり邑の名は此日よりヱホバ此に在すと云ふ"
+    }
+  ]
+}

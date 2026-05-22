@@ -1,0 +1,278 @@
+{
+  "book": "1 Corinthians",
+  "chapter": 11,
+  "verses": [
+    {
+      "number": 1,
+      "ko": "내가 그리스도를 본받는 자가 된 것 같이 너희는 나를 본받는 자가 되라",
+      "en": "Follow my example, as I follow the example of Christ.",
+      "de": "Seid meine Nachfolger, gleichwie ich Christi!",
+      "zh": "你们该效法我，像我效法基督一样。",
+      "ja": "私がキリストを見ならっているように、あなたがたも私を見ならってください。"
+    },
+    {
+      "number": 2,
+      "ko": "너희가 모든 일에 나를 기억하고 또 내가 너희에게 전하여 준 대로 그 전통을 너희가 지키므로 너희를 칭찬하노라",
+      "en": "I praise you for remembering me in everything and for holding to the teachings, just as I passed them on to you.",
+      "de": "Ich lobe euch, liebe Brüder, daß ihr an mich denkt in allen Stücken und haltet die Weise, wie ich sie euch gegeben habe.",
+      "zh": "我称赞你们，因你们凡事记念我，又坚守我所传给你们的。",
+      "ja": "さて、あなたがたは、何かにつけて私を覚え、また、私があなたがたに伝えたものを、伝えられたとおりに堅く守っているので、私はあなたがたをほめたいと思います。"
+    },
+    {
+      "number": 3,
+      "ko": "그러나 나는 너희가 알기를 원하노니 각 남자의 머리는 그리스도요 여자의 머리는 남자요 그리스도의 머리는 하나님이시라",
+      "en": "Now I want you to realize that the head of every man is Christ, and the head of the woman is man, and the head of Christ is God.",
+      "de": "Ich lasse euch aber wissen, daß Christus ist eines jeglichen Mannes Haupt; der Mann aber ist des Weibes Haupt; Gott aber ist Christi Haupt.",
+      "zh": "我愿意你们知道，基督是各人的头；男人是女人的头；　神是基督的头。",
+      "ja": "しかし、あなたがたに次のことを知っていただきたいのです。すべての男のかしらはキリストであり、女のかしらは男であり、キリストのかしらは神です。"
+    },
+    {
+      "number": 4,
+      "ko": "무릇 남자로서 머리에 무엇을 쓰고 기도나 예언을 하는 자는 그 머리를 욕되게 하는 것이요",
+      "en": "Every man who prays or prophesies with his head covered dishonors his head.",
+      "de": "Ein jeglicher Mann, der betet oder weissagt und hat etwas auf dem Haupt, der schändet sein Haupt.",
+      "zh": "凡男人祷告或是讲道，若蒙着头，就羞辱自己的头。",
+      "ja": "男が、祈りや預言をするとき、頭にかぶり物を着けていたら、自分の頭をはずかしめることになります。"
+    },
+    {
+      "number": 5,
+      "ko": "무릇 여자로서 머리에 쓴 것을 벗고 기도나 예언을 하는 자는 그 머리를 욕되게 하는 것이니 이는 머리를 민 것과 다름이 없음이라",
+      "en": "And every woman who prays or prophesies with her head uncovered dishonors her head--it is just as though her head were shaved.",
+      "de": "Ein Weib aber, das da betet oder weissagt mit unbedecktem Haupt, die schändet ihr Haupt, denn es ist ebensoviel, als wäre es geschoren.",
+      "zh": "凡女人祷告或是讲道，若不蒙着头，就羞辱自己的头，因为这就如同剃了头发一样。",
+      "ja": "しかし、女が、祈りや預言をするとき、頭にかぶり物を着けていなかったら、自分の頭をはずかしめることになります。それは髪をそっているのと全く同じことだからです。"
+    },
+    {
+      "number": 6,
+      "ko": "만일 여자가 머리를 가리지 않거든 깎을 것이요 만일 깎거나 미는 것이 여자에게 부끄러움이 되거든 가릴지니라",
+      "en": "If a woman does not cover her head, she should have her hair cut off; and if it is a disgrace for a woman to have her hair cut or shaved off, she should cover her head.",
+      "de": "Will sie sich nicht bedecken, so schneide man ihr das Haar ab. Nun es aber übel steht, daß ein Weib verschnittenes Haar habe und geschoren sei, so lasset sie das Haupt bedecken.",
+      "zh": "女人若不蒙着头，就该剪了头发；女人若以剪发、剃发为羞愧，就该蒙着头。",
+      "ja": "女がかぶり物を着けないのなら、髪も切ってしまいなさい。髪を切り、頭をそることが女として恥ずかしいことなら、かぶり物を着けなさい。"
+    },
+    {
+      "number": 7,
+      "ko": "남자는 하나님의 형상과 영광이니 그 머리를 마땅히 가리지 않거니와 여자는 남자의 영광이니라",
+      "en": "A man ought not to cover his head, since he is the image and glory of God; but the woman is the glory of man.",
+      "de": "Der Mann aber soll das Haupt nicht bedecken, sintemal er ist Gottes Bild und Ehre; das Weib aber ist des Mannes Ehre.",
+      "zh": "男人本不该蒙着头，因为他是　神的形象和荣耀；但女人是男人的荣耀。",
+      "ja": "男はかぶり物を着けるべきではありません。男は神の似姿であり、神の栄光の現われだからです。女は男の栄光の現われです。"
+    },
+    {
+      "number": 8,
+      "ko": "남자가 여자에게서 난 것이 아니요 여자가 남자에게서 났으며",
+      "en": "For man did not come from woman, but woman from man;",
+      "de": "Denn der Mann ist nicht vom Weibe, sondern das Weib vom Manne.",
+      "zh": "起初，男人不是由女人而出，女人乃是由男人而出；",
+      "ja": "なぜなら、男は女をもとにして造られたのではなくて、女が男をもとにして造られたのであり、"
+    },
+    {
+      "number": 9,
+      "ko": "또 남자가 여자를 위하여 지음을 받지 아니하고 여자가 남자를 위하여 지음을 받은 것이니",
+      "en": "neither was man created for woman, but woman for man.",
+      "de": "Und der Mann ist nicht geschaffen um des Weibes willen, sondern das Weib um des Mannes willen.",
+      "zh": "并且男人不是为女人造的，女人乃是为男人造的。",
+      "ja": "また、男は女のために造られたのではなく、女が男のために造られたのだからです。"
+    },
+    {
+      "number": 10,
+      "ko": "그러므로 여자는 천사들로 말미암아 권세 아래에 있는 표를 그 머리 위에 둘지니라",
+      "en": "For this reason, and because of the angels, the woman ought to have a sign of authority on her head.",
+      "de": "Darum soll das Weib eine Macht auf dem Haupt haben, um der Engel willen.",
+      "zh": "因此，女人为天使的缘故，应当在头上有服权柄的记号。",
+      "ja": "ですから、女は頭に権威のしるしをかぶるべきです。それも御使いたちのためにです。"
+    },
+    {
+      "number": 11,
+      "ko": "그러나 주 안에는 남자 없이 여자만 있지 않고 여자 없이 남자만 있지 아니하니라",
+      "en": "In the Lord, however, woman is not independent of man, nor is man independent of woman.",
+      "de": "Doch ist weder der Mann ohne das Weib, noch das Weib ohne den Mann in dem HERRN;",
+      "zh": "然而照主的安排，女也不是无男，男也不是无女。",
+      "ja": "とはいえ、主にあっては、女は男を離れてあるものではなく、男も女を離れてあるものではありません。"
+    },
+    {
+      "number": 12,
+      "ko": "이는 여자가 남자에게서 난 것 같이 남자도 여자로 말미암아 났음이라 그리고 모든 것은 하나님에게서 났느니라",
+      "en": "For as woman came from man, so also man is born of woman. But everything comes from God.",
+      "de": "denn wie das Weib vom Manne, also kommt auch der Mann durchs Weib; aber alles von Gott.",
+      "zh": "因为女人原是由男人而出，男人也是由女人而出；但万有都是出乎　神。",
+      "ja": "女が男をもとにして造られたように、同様に、男も女によって生まれるのだからです。しかし、すべては神から発しています。"
+    },
+    {
+      "number": 13,
+      "ko": "너희는 스스로 판단하라 여자가 머리를 가리지 않고 하나님께 기도하는 것이 마땅하냐",
+      "en": "Judge for yourselves: Is it proper for a woman to pray to God with her head uncovered?",
+      "de": "Richtet bei euch selbst, ob es wohl steht, daß ein Weib unbedeckt vor Gott bete.",
+      "zh": "你们自己审察，女人祷告　神，不蒙着头是合宜的吗？",
+      "ja": "あなたがたは自分自身で判断しなさい。女が頭に何もかぶらないで神に祈るのは、ふさわしいことでしょうか。"
+    },
+    {
+      "number": 14,
+      "ko": "만일 남자에게 긴 머리가 있으면 자기에게 부끄러움이 되는 것을 본성이 너희에게 가르치지 아니하느냐",
+      "en": "Does not the very nature of things teach you that if a man has long hair, it is a disgrace to him,",
+      "de": "Oder lehrt euch auch nicht die Natur, daß es einem Manne eine Unehre ist, so er das Haar lang wachsen läßt,",
+      "zh": "你们的本性不也指示你们，男人若有长头发，便是他的羞辱吗？",
+      "ja": "自然自体が、あなたがたにこう教えていないでしょうか。男が長い髪をしていたら、それは男として恥ずかしいことであり、"
+    },
+    {
+      "number": 15,
+      "ko": "만일 여자가 긴 머리가 있으면 자기에게 영광이 되나니 긴 머리는 가리는 것을 대신하여 주셨기 때문이니라",
+      "en": "but that if a woman has long hair, it is her glory? For long hair is given to her as a covering.",
+      "de": "und dem Weibe eine Ehre, so sie langes Haar hat? Das Haar ist ihr zur Decke gegeben.",
+      "zh": "但女人有长头发，乃是她的荣耀，因为这头发是给她作盖头的。",
+      "ja": "女が長い髪をしていたら、それは女の光栄であるということです。なぜなら、髪はかぶり物として女に与えられているからです。"
+    },
+    {
+      "number": 16,
+      "ko": "논쟁하려는 생각을 가진 자가 있을지라도 우리에게나 하나님의 모든 교회에는 이런 관례가 없느니라",
+      "en": "If anyone wants to be contentious about this, we have no other practice--nor do the churches of God.",
+      "de": "Ist aber jemand unter euch, der Lust zu zanken hat, der wisse, daß wir solche Weise nicht haben, die Gemeinden Gottes auch nicht.",
+      "zh": "若有人想要辩驳，我们却没有这样的规矩，　神的众教会也是没有的。",
+      "ja": "たとい、このことに異議を唱えたがる人がいても、私たちにはそのような習慣はないし、神の諸教会にもありません。"
+    },
+    {
+      "number": 17,
+      "ko": "내가 명하는 이 일에 너희를 칭찬하지 아니하나니 이는 너희의 모임이 유익이 못되고 도리어 해로움이라",
+      "en": "In the following directives I have no praise for you, for your meetings do more harm than good.",
+      "de": "Ich muß aber dies befehlen: Ich kann's nicht loben, daß ihr nicht auf bessere Weise, sondern auf ärgere Weise zusammenkommt.",
+      "zh": "我现今吩咐你们的话，不是称赞你们；因为你们聚会不是受益，乃是招损。",
+      "ja": "ところで、聞いていただくことがあります。私はあなたがたをほめません。あなたがたの集まりが益にならないで、かえって害になっているからです。"
+    },
+    {
+      "number": 18,
+      "ko": "먼저 너희가 교회에 모일 때에 너희 중에 분쟁이 있다 함을 듣고 어느 정도 믿거니와",
+      "en": "In the first place, I hear that when you come together as a church, there are divisions among you, and to some extent I believe it.",
+      "de": "Zum ersten, wenn ihr zusammenkommt in der Gemeinde, höre ich, es seien Spaltungen unter euch; und zum Teil glaube ich's.",
+      "zh": "第一，我听说，你们聚会的时候彼此分门别类，我也稍微地信这话。",
+      "ja": "まず第一に、あなたがたが教会の集まりをするとき、あなたがたの間には分裂があると聞いています。ある程度は、それを信じます。"
+    },
+    {
+      "number": 19,
+      "ko": "너희 중에 파당이 있어야 너희 중에 옳다 인정함을 받은 자들이 나타나게 되리라",
+      "en": "No doubt there have to be differences among you to show which of you have God's approval.",
+      "de": "Denn es müssen Parteien unter euch sein, auf daß die, so rechtschaffen sind, offenbar unter euch werden.",
+      "zh": "在你们中间不免有分门结党的事，好叫那些有经验的人显明出来。",
+      "ja": "というのは、あなたがたの中でほんとうの信者が明らかにされるためには、分派が起こるのもやむをえないからです。"
+    },
+    {
+      "number": 20,
+      "ko": "그런즉 너희가 함께 모여서 주의 만찬을 먹을 수 없으니",
+      "en": "When you come together, it is not the Lord's Supper you eat,",
+      "de": "Wenn ihr nun zusammenkommt, so hält man da nicht des HERRN Abendmahl.",
+      "zh": "你们聚会的时候，算不得吃主的晚餐；",
+      "ja": "しかし、そういうわけで、あなたがたはいっしょに集まっても、それは主の晩餐を食べるためではありません。"
+    },
+    {
+      "number": 21,
+      "ko": "이는 먹을 때에 각각 자기의 만찬을 먼저 갖다 먹으므로 어떤 사람은 시장하고 어떤 사람은 취함이라",
+      "en": "for as you eat, each of you goes ahead without waiting for anybody else. One remains hungry, another gets drunk.",
+      "de": "Denn so man das Abendmahl halten soll, nimmt ein jeglicher sein eigenes vorhin, und einer ist hungrig, der andere ist trunken.",
+      "zh": "因为吃的时候，各人先吃自己的饭，甚至这个饥饿，那个酒醉。",
+      "ja": "食事のとき、めいめい我先にと自分の食事を済ませるので、空腹な者もおれば、酔っている者もいるというしまつです。"
+    },
+    {
+      "number": 22,
+      "ko": "너희가 먹고 마실 집이 없느냐 너희가 하나님의 교회를 업신여기고 빈궁한 자들을 부끄럽게 하느냐 내가 너희에게 무슨 말을 하랴 너희를 칭찬하랴 이것으로 칭찬하지 않노라",
+      "en": "Don't you have homes to eat and drink in? Or do you despise the church of God and humiliate those who have nothing? What shall I say to you? Shall I praise you for this? Certainly not!",
+      "de": "Habt ihr aber nicht Häuser, da ihr essen und trinken könnt? Oder verachtet ihr die Gemeinde Gottes und beschämet die, so da nichts haben? Was soll ich euch sagen? Soll ich euch loben? Hierin lobe ich euch nicht.",
+      "zh": "你们要吃喝，难道没有家吗？还是藐视　神的教会，叫那没有的羞愧呢？我向你们可怎么说呢？可因此称赞你们吗？我不称赞！",
+      "ja": "飲食のためなら、自分の家があるでしょう。それとも、あなたがたは、神の教会を軽んじ、貧しい人たちをはずかしめたいのですか。私はあなたがたに何と言ったらよいでしょう。ほめるべきでしょうか。このことに関しては、ほめるわけにはいきません。"
+    },
+    {
+      "number": 23,
+      "ko": "내가 너희에게 전한 것은 주께 받은 것이니 곧 주 예수께서 잡히시던 밤에 떡을 가지사",
+      "en": "For I received from the Lord what I also passed on to you: The Lord Jesus, on the night he was betrayed, took bread,",
+      "de": "Ich habe es von dem HERRN empfangen, das ich euch gegeben habe. Denn der HERR Jesus in der Nacht, da er verraten ward, nahm das Brot,",
+      "zh": "我当日传给你们的，原是从主领受的，就是主耶稣被卖的那一夜，拿起饼来，",
+      "ja": "私は主から受けたことを、あなたがたに伝えたのです。すなわち、主イエスは、渡される夜、パンを取り、"
+    },
+    {
+      "number": 24,
+      "ko": "축사하시고 떼어 이르시되 이것은 너희를 위하는 내 몸이니 이것을 행하여 나를 기념하라 하시고",
+      "en": "and when he had given thanks, he broke it and said, \"This is my body, which is for you; do this in remembrance of me.\"",
+      "de": "dankte und brach's und sprach: Nehmet, esset, das ist mein Leib, der für euch gebrochen wird; solches tut zu meinem Gedächtnis.",
+      "zh": "祝谢了，就擘开，说：「这是我的身体，为你们舍的，你们应当如此行，为的是记念我。」",
+      "ja": "感謝をささげて後、それを裂き、こう言われました。「これはあなたがたのための、わたしのからだです。わたしを覚えるために、このようにしなさい。」"
+    },
+    {
+      "number": 25,
+      "ko": "식후에 또한 그와 같이 잔을 가지시고 이르시되 이 잔은 내 피로 세운 새 언약이니 이것을 행하여 마실 때마다 나를 기념하라 하셨으니",
+      "en": "In the same way, after supper he took the cup, saying, \"This cup is the new covenant in my blood; do this, whenever you drink it, in remembrance of me.\"",
+      "de": "Desgleichen auch den Kelch nach dem Abendmahl und sprach: Dieser Kelch ist das neue Testament in meinem Blut; solches tut, so oft ihr's trinket, zu meinem Gedächtnis.",
+      "zh": "饭后，也照样拿起杯来，说：「这杯是用我的血所立的新约，你们每逢喝的时候，要如此行，为的是记念我。」",
+      "ja": "夕食の後、杯をも同じようにして言われました。「この杯は、わたしの血による新しい契約です。これを飲むたびに、わたしを覚えるために、このようにしなさい。」"
+    },
+    {
+      "number": 26,
+      "ko": "너희가 이 떡을 먹으며 이 잔을 마실 때마다 주의 죽으심을 그가 오실 때까지 전하는 것이니라",
+      "en": "For whenever you eat this bread and drink this cup, you proclaim the Lord's death until he comes.",
+      "de": "Denn so oft ihr von diesem Brot esset und von diesem Kelch trinket, sollt ihr des HERRN Tod verkündigen, bis daß er kommt.",
+      "zh": "你们每逢吃这饼，喝这杯，是表明主的死，直等到他来。",
+      "ja": "ですから、あなたがたは、このパンを食べ、この杯を飲むたびに、主が来られるまで、主の死を告げ知らせるのです。"
+    },
+    {
+      "number": 27,
+      "ko": "그러므로 누구든지 주의 떡이나 잔을 합당하지 않게 먹고 마시는 자는 주의 몸과 피에 대하여 죄를 짓는 것이니라",
+      "en": "Therefore, whoever eats the bread or drinks the cup of the Lord in an unworthy manner will be guilty of sinning against the body and blood of the Lord.",
+      "de": "Welcher nun unwürdig von diesem Brot isset oder von dem Kelch des HERRN trinket, der ist schuldig an dem Leib und Blut des HERRN.",
+      "zh": "所以，无论何人，不按理吃主的饼，喝主的杯，就是干犯主的身、主的血了。",
+      "ja": "したがって、もし、ふさわしくないままでパンを食べ、主の杯を飲む者があれば、主のからだと血に対して罪を犯すことになります。"
+    },
+    {
+      "number": 28,
+      "ko": "사람이 자기를 살피고 그 후에야 이 떡을 먹고 이 잔을 마실지니",
+      "en": "A man ought to examine himself before he eats of the bread and drinks of the cup.",
+      "de": "Der Mensch prüfe aber sich selbst, und also esse er von diesem Brot und trinke von diesem Kelch.",
+      "zh": "人应当自己省察，然后吃这饼、喝这杯。",
+      "ja": "ですから、ひとりひとりが自分を吟味して、そのうえでパンを食べ、杯を飲みなさい。"
+    },
+    {
+      "number": 29,
+      "ko": "주의 몸을 분별하지 못하고 먹고 마시는 자는 자기의 죄를 먹고 마시는 것이니라",
+      "en": "For anyone who eats and drinks without recognizing the body of the Lord eats and drinks judgment on himself.",
+      "de": "Denn welcher unwürdig isset und trinket, der isset und trinket sich selber zum Gericht, damit, daß er nicht unterscheidet den Leib des HERRN.",
+      "zh": "因为人吃喝，若不分辨是主的身体，就是吃喝自己的罪了。",
+      "ja": "みからだをわきまえないで、飲み食いするならば、その飲み食いが自分をさばくことになります。"
+    },
+    {
+      "number": 30,
+      "ko": "그러므로 너희 중에 약한 자와 병든 자가 많고 잠자는 자도 적지 아니하니",
+      "en": "That is why many among you are weak and sick, and a number of you have fallen asleep.",
+      "de": "Darum sind auch viele Schwache und Kranke unter euch, und ein gut Teil schlafen.",
+      "zh": "因此，在你们中间有好些软弱的与患病的，死的也不少。",
+      "ja": "そのために、あなたがたの中に、弱い者や病人が多くなり、死んだ者が大ぜいいます。"
+    },
+    {
+      "number": 31,
+      "ko": "우리가 우리를 살폈으면 판단을 받지 아니하려니와",
+      "en": "But if we judged ourselves, we would not come under judgment.",
+      "de": "Denn so wir uns selber richten, so würden wir nicht gerichtet.",
+      "zh": "我们若是先分辨自己，就不至于受审。",
+      "ja": "しかし、もし私たちが自分をさばくなら、さばかれることはありません。"
+    },
+    {
+      "number": 32,
+      "ko": "우리가 판단을 받는 것은 주께 징계를 받는 것이니 이는 우리로 세상과 함께 정죄함을 받지 않게 하려 하심이라",
+      "en": "When we are judged by the Lord, we are being disciplined so that we will not be condemned with the world.",
+      "de": "Wenn wir aber gerichtet werden, so werden wir vom HERRN gezüchtigt, auf daß wir nicht samt der Welt verdammt werden.",
+      "zh": "我们受审的时候，乃是被主惩治，免得我们和世人一同定罪。",
+      "ja": "しかし、私たちがさばかれるのは、主によって懲らしめられるのであって、それは、私たちが、この世とともに罪に定められることのないためです。"
+    },
+    {
+      "number": 33,
+      "ko": "그런즉 내 형제들아 먹으러 모일 때에 서로 기다리라",
+      "en": "So then, my brothers, when you come together to eat, wait for each other.",
+      "de": "Darum, meine lieben Brüder, wenn ihr zusammenkommt, zu essen, so harre einer des andern.",
+      "zh": "所以我弟兄们，你们聚会吃的时候，要彼此等待。",
+      "ja": "ですから、兄弟たち。食事に集まるときは、互いに待ち合わせなさい。"
+    },
+    {
+      "number": 34,
+      "ko": "만일 누구든지 시장하거든 집에서 먹을지니 이는 너희의 모임이 판단 받는 모임이 되지 않게 하려 함이라 그밖의 일들은 내가 언제든지 갈 때에 바로잡으리라",
+      "en": "If anyone is hungry, he should eat at home, so that when you meet together it may not result in judgment. And when I come I will give further directions.",
+      "de": "Hungert aber jemand, der esse daheim, auf daß ihr nicht euch zum Gericht zusammenkommt. Das andere will ich ordnen, wenn ich komme.",
+      "zh": "若有人饥饿，可以在家里先吃，免得你们聚会，自己取罪。其余的事，我来的时候再安排。",
+      "ja": "空腹な人は家で食べなさい。それは、あなたがたが集まることによって、さばきを受けることにならないためです。その他のことについては、私が行ったときに決めましょう。"
+    }
+  ]
+}

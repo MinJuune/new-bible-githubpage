@@ -1,0 +1,596 @@
+[
+  {
+    "id": "Genesis",
+    "en": "Genesis",
+    "de": "1. Mose",
+    "zh": "创世记",
+    "ja": "創世記",
+    "ko": "창세기",
+    "testament": "OT"
+  },
+  {
+    "id": "Exodus",
+    "en": "Exodus",
+    "de": "2. Mose",
+    "zh": "出埃及记",
+    "ja": "出エジプト記",
+    "ko": "출애굽기",
+    "testament": "OT"
+  },
+  {
+    "id": "Leviticus",
+    "en": "Leviticus",
+    "de": "3. Mose",
+    "zh": "利未记",
+    "ja": "レビ記",
+    "ko": "레위기",
+    "testament": "OT"
+  },
+  {
+    "id": "Numbers",
+    "en": "Numbers",
+    "de": "4. Mose",
+    "zh": "民数记",
+    "ja": "民数記",
+    "ko": "민수기",
+    "testament": "OT"
+  },
+  {
+    "id": "Deuteronomy",
+    "en": "Deuteronomy",
+    "de": "5. Mose",
+    "zh": "申命记",
+    "ja": "申命記",
+    "ko": "신명기",
+    "testament": "OT"
+  },
+  {
+    "id": "Joshua",
+    "en": "Joshua",
+    "de": "Josua",
+    "zh": "约书亚记",
+    "ja": "ヨシュア記",
+    "ko": "여호수아",
+    "testament": "OT"
+  },
+  {
+    "id": "Judges",
+    "en": "Judges",
+    "de": "Richter",
+    "zh": "士师记",
+    "ja": "士師記",
+    "ko": "사사기",
+    "testament": "OT"
+  },
+  {
+    "id": "Ruth",
+    "en": "Ruth",
+    "de": "Ruth",
+    "zh": "路得记",
+    "ja": "ルツ記",
+    "ko": "룻기",
+    "testament": "OT"
+  },
+  {
+    "id": "1 Samuel",
+    "en": "1 Samuel",
+    "de": "1. Samuel",
+    "zh": "撒母耳记上",
+    "ja": "サムエル記Ⅰ",
+    "ko": "사무엘상",
+    "testament": "OT"
+  },
+  {
+    "id": "2 Samuel",
+    "en": "2 Samuel",
+    "de": "2. Samuel",
+    "zh": "撒母耳记下",
+    "ja": "サムエル記Ⅱ",
+    "ko": "사무엘하",
+    "testament": "OT"
+  },
+  {
+    "id": "1 Kings",
+    "en": "1 Kings",
+    "de": "1. Könige",
+    "zh": "列王纪上",
+    "ja": "列王記Ⅰ",
+    "ko": "열왕기상",
+    "testament": "OT"
+  },
+  {
+    "id": "2 Kings",
+    "en": "2 Kings",
+    "de": "2. Könige",
+    "zh": "列王纪下",
+    "ja": "列王記Ⅱ",
+    "ko": "열왕기하",
+    "testament": "OT"
+  },
+  {
+    "id": "1 Chronicles",
+    "en": "1 Chronicles",
+    "de": "1. Chronik",
+    "zh": "历代志上",
+    "ja": "歴代誌Ⅰ",
+    "ko": "역대상",
+    "testament": "OT"
+  },
+  {
+    "id": "2 Chronicles",
+    "en": "2 Chronicles",
+    "de": "2. Chronik",
+    "zh": "历代志下",
+    "ja": "歴代誌Ⅱ",
+    "ko": "역대하",
+    "testament": "OT"
+  },
+  {
+    "id": "Ezra",
+    "en": "Ezra",
+    "de": "Esra",
+    "zh": "以斯拉记",
+    "ja": "エズラ記",
+    "ko": "에스라",
+    "testament": "OT"
+  },
+  {
+    "id": "Nehemiah",
+    "en": "Nehemiah",
+    "de": "Nehemia",
+    "zh": "尼希米记",
+    "ja": "ネヘミヤ記",
+    "ko": "느헤미야",
+    "testament": "OT"
+  },
+  {
+    "id": "Esther",
+    "en": "Esther",
+    "de": "Esther",
+    "zh": "以斯帖记",
+    "ja": "エステル記",
+    "ko": "에스더",
+    "testament": "OT"
+  },
+  {
+    "id": "Job",
+    "en": "Job",
+    "de": "Hiob",
+    "zh": "约伯记",
+    "ja": "ヨブ記",
+    "ko": "욥기",
+    "testament": "OT"
+  },
+  {
+    "id": "Psalms",
+    "en": "Psalms",
+    "de": "Psalmen",
+    "zh": "诗篇",
+    "ja": "詩篇",
+    "ko": "시편",
+    "testament": "OT"
+  },
+  {
+    "id": "Proverbs",
+    "en": "Proverbs",
+    "de": "Sprüche",
+    "zh": "箴言",
+    "ja": "箴言",
+    "ko": "잠언",
+    "testament": "OT"
+  },
+  {
+    "id": "Ecclesiastes",
+    "en": "Ecclesiastes",
+    "de": "Prediger",
+    "zh": "传道书",
+    "ja": "伝道者の書",
+    "ko": "전도서",
+    "testament": "OT"
+  },
+  {
+    "id": "Song of Songs",
+    "en": "Song of Songs",
+    "de": "Hohelied",
+    "zh": "雅歌",
+    "ja": "雅歌",
+    "ko": "아가",
+    "testament": "OT"
+  },
+  {
+    "id": "Isaiah",
+    "en": "Isaiah",
+    "de": "Jesaja",
+    "zh": "以赛亚书",
+    "ja": "イザヤ書",
+    "ko": "이사야",
+    "testament": "OT"
+  },
+  {
+    "id": "Jeremiah",
+    "en": "Jeremiah",
+    "de": "Jeremia",
+    "zh": "耶利米书",
+    "ja": "エレミヤ書",
+    "ko": "예레미야",
+    "testament": "OT"
+  },
+  {
+    "id": "Lamentations",
+    "en": "Lamentations",
+    "de": "Klagelieder",
+    "zh": "耶利米哀歌",
+    "ja": "哀歌",
+    "ko": "예레미야애가",
+    "testament": "OT"
+  },
+  {
+    "id": "Ezekiel",
+    "en": "Ezekiel",
+    "de": "Hesekiel",
+    "zh": "以西结书",
+    "ja": "エゼキエル書",
+    "ko": "에스겔",
+    "testament": "OT"
+  },
+  {
+    "id": "Daniel",
+    "en": "Daniel",
+    "de": "Daniel",
+    "zh": "但以理书",
+    "ja": "ダニエル書",
+    "ko": "다니엘",
+    "testament": "OT"
+  },
+  {
+    "id": "Hosea",
+    "en": "Hosea",
+    "de": "Hosea",
+    "zh": "何西阿书",
+    "ja": "ホセア書",
+    "ko": "호세아",
+    "testament": "OT"
+  },
+  {
+    "id": "Joel",
+    "en": "Joel",
+    "de": "Joel",
+    "zh": "约珥书",
+    "ja": "ヨエル書",
+    "ko": "요엘",
+    "testament": "OT"
+  },
+  {
+    "id": "Amos",
+    "en": "Amos",
+    "de": "Amos",
+    "zh": "阿摩司书",
+    "ja": "アモス書",
+    "ko": "아모스",
+    "testament": "OT"
+  },
+  {
+    "id": "Obadiah",
+    "en": "Obadiah",
+    "de": "Obadja",
+    "zh": "俄巴底亚书",
+    "ja": "オバデヤ書",
+    "ko": "오바댜",
+    "testament": "OT"
+  },
+  {
+    "id": "Jonah",
+    "en": "Jonah",
+    "de": "Jona",
+    "zh": "约拿书",
+    "ja": "ヨナ書",
+    "ko": "요나",
+    "testament": "OT"
+  },
+  {
+    "id": "Micah",
+    "en": "Micah",
+    "de": "Micha",
+    "zh": "弥迦书",
+    "ja": "ミカ書",
+    "ko": "미가",
+    "testament": "OT"
+  },
+  {
+    "id": "Nahum",
+    "en": "Nahum",
+    "de": "Nahum",
+    "zh": "那鸿书",
+    "ja": "ナホム書",
+    "ko": "나훔",
+    "testament": "OT"
+  },
+  {
+    "id": "Habakkuk",
+    "en": "Habakkuk",
+    "de": "Habakuk",
+    "zh": "哈巴谷书",
+    "ja": "ハバクク書",
+    "ko": "하박국",
+    "testament": "OT"
+  },
+  {
+    "id": "Zephaniah",
+    "en": "Zephaniah",
+    "de": "Zephanja",
+    "zh": "西番雅书",
+    "ja": "ゼパニヤ書",
+    "ko": "스바냐",
+    "testament": "OT"
+  },
+  {
+    "id": "Haggai",
+    "en": "Haggai",
+    "de": "Haggai",
+    "zh": "哈该书",
+    "ja": "ハガイ書",
+    "ko": "학개",
+    "testament": "OT"
+  },
+  {
+    "id": "Zechariah",
+    "en": "Zechariah",
+    "de": "Sacharja",
+    "zh": "撒迦利亚书",
+    "ja": "ゼカリヤ書",
+    "ko": "스가랴",
+    "testament": "OT"
+  },
+  {
+    "id": "Malachi",
+    "en": "Malachi",
+    "de": "Maleachi",
+    "zh": "玛拉基书",
+    "ja": "マラキ書",
+    "ko": "말라기",
+    "testament": "OT"
+  },
+  {
+    "id": "Matthew",
+    "en": "Matthew",
+    "de": "Matthäus",
+    "zh": "马太福音",
+    "ja": "マタイの福音書",
+    "ko": "마태복음",
+    "testament": "NT"
+  },
+  {
+    "id": "Mark",
+    "en": "Mark",
+    "de": "Markus",
+    "zh": "马可福音",
+    "ja": "マルコの福音書",
+    "ko": "마가복음",
+    "testament": "NT"
+  },
+  {
+    "id": "Luke",
+    "en": "Luke",
+    "de": "Lukas",
+    "zh": "路加福音",
+    "ja": "ルカの福音書",
+    "ko": "누가복음",
+    "testament": "NT"
+  },
+  {
+    "id": "John",
+    "en": "John",
+    "de": "Johannes",
+    "zh": "约翰福音",
+    "ja": "ヨハネの福音書",
+    "ko": "요한복음",
+    "testament": "NT"
+  },
+  {
+    "id": "Acts",
+    "en": "Acts",
+    "de": "Apostelgeschichte",
+    "zh": "使徒行传",
+    "ja": "使徒の働き",
+    "ko": "사도행전",
+    "testament": "NT"
+  },
+  {
+    "id": "Romans",
+    "en": "Romans",
+    "de": "Römer",
+    "zh": "罗马书",
+    "ja": "ローマ人への手紙",
+    "ko": "로마서",
+    "testament": "NT"
+  },
+  {
+    "id": "1 Corinthians",
+    "en": "1 Corinthians",
+    "de": "1. Korinther",
+    "zh": "哥林多前书",
+    "ja": "コリント人への手紙第一",
+    "ko": "고린도전서",
+    "testament": "NT"
+  },
+  {
+    "id": "2 Corinthians",
+    "en": "2 Corinthians",
+    "de": "2. Korinther",
+    "zh": "哥林多后书",
+    "ja": "コリント人への手紙第二",
+    "ko": "고린도후서",
+    "testament": "NT"
+  },
+  {
+    "id": "Galatians",
+    "en": "Galatians",
+    "de": "Galater",
+    "zh": "加拉太书",
+    "ja": "ガラテヤ人への手紙",
+    "ko": "갈라디아서",
+    "testament": "NT"
+  },
+  {
+    "id": "Ephesians",
+    "en": "Ephesians",
+    "de": "Epheser",
+    "zh": "以弗所书",
+    "ja": "エペソ人への手紙",
+    "ko": "에베소서",
+    "testament": "NT"
+  },
+  {
+    "id": "Philippians",
+    "en": "Philippians",
+    "de": "Philipper",
+    "zh": "腓立比书",
+    "ja": "ピリピ人への手紙",
+    "ko": "빌립보서",
+    "testament": "NT"
+  },
+  {
+    "id": "Colossians",
+    "en": "Colossians",
+    "de": "Kolosser",
+    "zh": "歌罗西书",
+    "ja": "コロサイ人への手紙",
+    "ko": "골로새서",
+    "testament": "NT"
+  },
+  {
+    "id": "1 Thessalonians",
+    "en": "1 Thessalonians",
+    "de": "1. Thessalonicher",
+    "zh": "帖撒罗尼迦前书",
+    "ja": "テサロニケ人への手紙第一",
+    "ko": "데살로니가전서",
+    "testament": "NT"
+  },
+  {
+    "id": "2 Thessalonians",
+    "en": "2 Thessalonians",
+    "de": "2. Thessalonicher",
+    "zh": "帖撒罗尼迦后书",
+    "ja": "テサロニケ人への手紙第二",
+    "ko": "데살로니가후서",
+    "testament": "NT"
+  },
+  {
+    "id": "1 Timothy",
+    "en": "1 Timothy",
+    "de": "1. Timotheus",
+    "zh": "提摩太前书",
+    "ja": "テモテへの手紙第一",
+    "ko": "디모데전서",
+    "testament": "NT"
+  },
+  {
+    "id": "2 Timothy",
+    "en": "2 Timothy",
+    "de": "2. Timotheus",
+    "zh": "提摩太后书",
+    "ja": "テモテへの手紙第二",
+    "ko": "디모데후서",
+    "testament": "NT"
+  },
+  {
+    "id": "Titus",
+    "en": "Titus",
+    "de": "Titus",
+    "zh": "提多书",
+    "ja": "テトスへの手紙",
+    "ko": "디도서",
+    "testament": "NT"
+  },
+  {
+    "id": "Philemon",
+    "en": "Philemon",
+    "de": "Philemon",
+    "zh": "腓利门书",
+    "ja": "ピレモンへの手紙",
+    "ko": "빌레몬서",
+    "testament": "NT"
+  },
+  {
+    "id": "Hebrews",
+    "en": "Hebrews",
+    "de": "Hebräer",
+    "zh": "希伯来书",
+    "ja": "ヘブル人への手紙",
+    "ko": "히브리서",
+    "testament": "NT"
+  },
+  {
+    "id": "James",
+    "en": "James",
+    "de": "Jakobus",
+    "zh": "雅各书",
+    "ja": "ヤコブの手紙",
+    "ko": "야고보서",
+    "testament": "NT"
+  },
+  {
+    "id": "1 Peter",
+    "en": "1 Peter",
+    "de": "1. Petrus",
+    "zh": "彼得前书",
+    "ja": "ペテロの手紙第一",
+    "ko": "베드로전서",
+    "testament": "NT"
+  },
+  {
+    "id": "2 Peter",
+    "en": "2 Peter",
+    "de": "2. Petrus",
+    "zh": "彼得后书",
+    "ja": "ペテロの手紙第二",
+    "ko": "베드로후서",
+    "testament": "NT"
+  },
+  {
+    "id": "1 John",
+    "en": "1 John",
+    "de": "1. Johannes",
+    "zh": "约翰一书",
+    "ja": "ヨハネの手紙第一",
+    "ko": "요한일서",
+    "testament": "NT"
+  },
+  {
+    "id": "2 John",
+    "en": "2 John",
+    "de": "2. Johannes",
+    "zh": "约翰二书",
+    "ja": "ヨハネの手紙第二",
+    "ko": "요한이서",
+    "testament": "NT"
+  },
+  {
+    "id": "3 John",
+    "en": "3 John",
+    "de": "3. Johannes",
+    "zh": "约翰三书",
+    "ja": "ヨハネの手紙第三",
+    "ko": "요한삼서",
+    "testament": "NT"
+  },
+  {
+    "id": "Jude",
+    "en": "Jude",
+    "de": "Judas",
+    "zh": "犹大书",
+    "ja": "ユダの手紙",
+    "ko": "유다서",
+    "testament": "NT"
+  },
+  {
+    "id": "Revelation",
+    "en": "Revelation",
+    "de": "Offenbarung",
+    "zh": "启示录",
+    "ja": "ヨハネの黙示録",
+    "ko": "요한계시록",
+    "testament": "NT"
+  }
+]

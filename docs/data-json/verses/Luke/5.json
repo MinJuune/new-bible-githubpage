@@ -1,0 +1,318 @@
+{
+  "book": "Luke",
+  "chapter": 5,
+  "verses": [
+    {
+      "number": 1,
+      "ko": "무리가 몰려와서 하나님의 말씀을 들을새 예수는 게네사렛 호숫가에 서서",
+      "en": "One day as Jesus was standing by the Lake of Gennesaret, with the people crowding around him and listening to the word of God,",
+      "de": "Es begab sich aber, da sich das Volk zu ihm drängte, zu hören das Wort Gottes, daß er stand am See Genezareth",
+      "zh": "耶稣站在革尼撒勒湖边，众人拥挤他，要听　神的道。",
+      "ja": "群衆がイエスに押し迫るようにして神のことばを聞いたとき、イエスはゲネサレ湖の岸べに立っておられたが、"
+    },
+    {
+      "number": 2,
+      "ko": "호숫가에 배 두 척이 있는 것을 보시니 어부들은 배에서 나와서 그물을 씻는지라",
+      "en": "he saw at the water's edge two boats, left there by the fishermen, who were washing their nets.",
+      "de": "und sah zwei Schiffe am See stehen, die Fischer aber waren ausgetreten und wuschen ihre Netze.",
+      "zh": "他见有两只船湾在湖边；打鱼的人却离开船洗网去了。",
+      "ja": "岸べに小舟が二そうあるのをご覧になった。漁師たちは、その舟から降りて網を洗っていた。"
+    },
+    {
+      "number": 3,
+      "ko": "예수께서 한 배에 오르시니 그 배는 시몬의 배라 육지에서 조금 떼기를 청하시고 앉으사 배에서 무리를 가르치시더니",
+      "en": "He got into one of the boats, the one belonging to Simon, and asked him to put out a little from shore. Then he sat down and taught the people from the boat.",
+      "de": "Da trat er in der Schiffe eines, welches Simons war, und bat ihn, daß er's ein wenig vom Lande führte. Und er setzte sich und lehrte das Volk aus dem Schiff.",
+      "zh": "有一只船是西门的，耶稣就上去，请他把船撑开，稍微离岸，就坐下，从船上教训众人。",
+      "ja": "イエスは、そのうちの一つの、シモンの持ち舟に乗り、陸から少し漕ぎ出すように頼まれた。そしてイエスはすわって、舟から群衆を教えられた。"
+    },
+    {
+      "number": 4,
+      "ko": "말씀을 마치시고 시몬에게 이르시되 깊은 데로 가서 그물을 내려 고기를 잡으라",
+      "en": "When he had finished speaking, he said to Simon, \"Put out into deep water, and let down the nets for a catch.\"",
+      "de": "Und als er hatte aufgehört zu reden, sprach er zu Simon: Fahre auf die Höhe und werfet eure Netze aus, daß ihr einen Zug tut.",
+      "zh": "讲完了，对西门说：「把船开到水深之处，下网打鱼。」",
+      "ja": "話が終わると、シモンに、「深みに漕ぎ出して、網をおろして魚をとりなさい。」と言われた。"
+    },
+    {
+      "number": 5,
+      "ko": "시몬이 대답하여 이르되 선생님 우리들이 밤이 새도록 수고하였으되 잡은 것이 없지마는 말씀에 의지하여 내가 그물을 내리리이다 하고",
+      "en": "Simon answered, \"Master, we've worked hard all night and haven't caught anything. But because you say so, I will let down the nets.\"",
+      "de": "Und Simon antwortete und sprach zu ihm: Meister, wir haben die ganze Nacht gearbeitet und nichts gefangen, aber auf dein Wort will ich das Netz auswerfen.",
+      "zh": "西门说：「夫子，我们整夜劳力，并没有打着什么。但依从你的话，我就下网。」",
+      "ja": "するとシモンが答えて言った。「先生。私たちは、夜通し働きましたが、何一つとれませんでした。でもおことばどおり、網をおろしてみましょう。」"
+    },
+    {
+      "number": 6,
+      "ko": "그렇게 하니 고기를 잡은 것이 심히 많아 그물이 찢어지는지라",
+      "en": "When they had done so, they caught such a large number of fish that their nets began to break.",
+      "de": "Und da sie das taten, beschlossen sie eine große Menge Fische, und ihr Netz zerriß.",
+      "zh": "他们下了网，就圈住许多鱼，网险些裂开，",
+      "ja": "そして、そのとおりにすると、たくさんの魚がはいり、網は破れそうになった。"
+    },
+    {
+      "number": 7,
+      "ko": "이에 다른 배에 있는 동무들에게 손짓하여 와서 도와 달라 하니 그들이 와서 두 배에 채우매 잠기게 되었더라",
+      "en": "So they signaled their partners in the other boat to come and help them, and they came and filled both boats so full that they began to sink.",
+      "de": "Und sie winkten ihren Gesellen, die im andern Schiff waren, daß sie kämen und hülfen ihnen ziehen. Und sie kamen und füllten beide Schiffe voll, also daß sie sanken.",
+      "zh": "便招呼那只船上的同伴来帮助。他们就来，把鱼装满了两只船，甚至船要沉下去。",
+      "ja": "そこで別の舟にいた仲間の者たちに合図をして、助けに来てくれるように頼んだ。彼らがやって来て、そして魚を両方の舟いっぱいに上げたところ、二そうとも沈みそうになった。"
+    },
+    {
+      "number": 8,
+      "ko": "시몬 베드로가 이를 보고 예수의 무릎 아래에 엎드려 이르되 주여 나를 떠나소서 나는 죄인이로소이다 하니",
+      "en": "When Simon Peter saw this, he fell at Jesus' knees and said, \"Go away from me, Lord; I am a sinful man!\"",
+      "de": "Da das Simon Petrus sah, fiel er Jesu zu den Knieen und sprach: HERR, gehe von mir hinaus! ich bin ein sündiger Mensch.",
+      "zh": "西门·彼得看见，就俯伏在耶稣膝前，说：「主啊，离开我，我是个罪人！」",
+      "ja": "これを見たシモン・ペテロは、イエスの足もとにひれ伏して、「主よ。私のような者から離れてください。私は、罪深い人間ですから。」と言った。"
+    },
+    {
+      "number": 9,
+      "ko": "이는 자기 및 자기와 함께 있는 모든 사람이 고기 잡힌 것으로 말미암아 놀라고",
+      "en": "For he and all his companions were astonished at the catch of fish they had taken,",
+      "de": "Denn es war ihn ein Schrecken angekommen, ihn und alle, die mit ihm waren, über diesen Fischzug, den sie miteinander getan hatten;",
+      "zh": "他和一切同在的人都惊讶这一网所打的鱼。",
+      "ja": "それは、大漁のため、彼もいっしょにいたみなの者も、ひどく驚いたからである。"
+    },
+    {
+      "number": 10,
+      "ko": "세베대의 아들로서 시몬의 동업자인 야고보와 요한도 놀랐음이라 예수께서 시몬에게 이르시되 무서워하지 말라 이제 후로는 네가 사람을 취하리라 하시니",
+      "en": "and so were James and John, the sons of Zebedee, Simon's partners. Then Jesus said to Simon, \"Don't be afraid; from now on you will catch men.\"",
+      "de": "desgleichen auch Jakobus und Johannes, die Söhne des Zebedäus, Simons Gesellen. Und Jesus sprach zu Simon: Fürchte dich nicht; denn von nun an wirst du Menschen fangen.",
+      "zh": "他的伙伴西庇太的儿子雅各、约翰，也是这样。耶稣对西门说：「不要怕！从今以后，你要得人了。」",
+      "ja": "シモンの仲間であったゼベダイの子ヤコブやヨハネも同じであった。イエスはシモンにこう言われた。「こわがらなくてもよい。これから後、あなたは人間をとるようになるのです。」"
+    },
+    {
+      "number": 11,
+      "ko": "그들이 배들을 육지에 대고 모든 것을 버려 두고 예수를 따르니라",
+      "en": "So they pulled their boats up on shore, left everything and followed him.",
+      "de": "Und sie führten die Schiffe zu Lande und verließen alles und folgten ihm nach.",
+      "zh": "他们把两只船拢了岸，就撇下所有的，跟从了耶稣。",
+      "ja": "彼らは、舟を陸に着けると、何もかも捨てて、イエスに従った。"
+    },
+    {
+      "number": 12,
+      "ko": "예수께서 한 동네에 계실 때에 온 몸에 나병 들린 사람이 있어 예수를 보고 엎드려 구하여 이르되 주여 원하시면 나를 깨끗하게 하실 수 있나이다 하니",
+      "en": "While Jesus was in one of the towns, a man came along who was covered with leprosy. When he saw Jesus, he fell with his face to the ground and begged him, \"Lord, if you are willing, you can make me clean.\"",
+      "de": "Und es begab sich, da er in einer Stadt war, siehe, da war ein Mann voll Aussatz. Da der Jesum sah, fiel er auf sein Angesicht und bat ihn und sprach: HERR, willst du, so kannst du mich reinigen.",
+      "zh": "有一回，耶稣在一个城里，有人满身长了大麻风，看见他，就俯伏在地，求他说：「主若肯，必能叫我洁净了。」",
+      "ja": "さて、イエスがある町におられたとき、全身らい病の人がいた。イエスを見ると、ひれ伏してお願いした。「主よ。お心一つで、私はきよくしていただけます。」"
+    },
+    {
+      "number": 13,
+      "ko": "예수께서 손을 내밀어 그에게 대시며 이르시되 내가 원하노니 깨끗함을 받으라 하신대 나병이 곧 떠나니라",
+      "en": "Jesus reached out his hand and touched the man. \"I am willing,\" he said. \"Be clean!\" And immediately the leprosy left him.",
+      "de": "Und er streckte die Hand aus und rührte ihn an und sprach: Ich will's tun; sei gereinigt! Und alsobald ging der Aussatz von ihm.",
+      "zh": "耶稣伸手摸他，说：「我肯，你洁净了吧！」大麻风立刻就离了他的身。",
+      "ja": "イエスは手を伸ばして、彼にさわり、「わたしの心だ。きよくなれ。」と言われた。すると、すぐに、そのらい病が消えた。"
+    },
+    {
+      "number": 14,
+      "ko": "예수께서 그를 경고하시되 아무에게도 이르지 말고 가서 제사장에게 네 몸을 보이고 또 네가 깨끗하게 됨으로 인하여 모세가 명한 대로 예물을 드려 그들에게 입증하라 하셨더니",
+      "en": "Then Jesus ordered him, \"Don't tell anyone, but go, show yourself to the priest and offer the sacrifices that Moses commanded for your cleansing, as a testimony to them.\"",
+      "de": "Und er gebot ihm, daß er's niemand sagen sollte; sondern “gehe hin und zeige dich dem Priester und opfere für deine Reinigung, wie Mose geboten, ihnen zum Zeugnis”.",
+      "zh": "耶稣嘱咐他：「你切不可告诉人，只要去把身体给祭司察看，又要为你得了洁净，照摩西所吩咐的献上礼物，对众人作证据。」",
+      "ja": "イエスは、彼にこう命じられた。「だれにも話してはいけない。ただ祭司のところに行って、自分を見せなさい。そして人々へのあかしのため、モーセが命じたように、あなたのきよめの供え物をしなさい。」"
+    },
+    {
+      "number": 15,
+      "ko": "예수의 소문이 더욱 퍼지매 수많은 무리가 말씀도 듣고 자기 병도 고침을 받고자 하여 모여 오되",
+      "en": "Yet the news about him spread all the more, so that crowds of people came to hear him and to be healed of their sicknesses.",
+      "de": "Es kam aber die Sage von ihm immer weiter aus, und kam viel Volks zusammen, daß sie ihn hörten und durch ihn gesund würden von ihren Krankheiten.",
+      "zh": "但耶稣的名声越发传扬出去。有极多的人聚集来听道，也指望医治他们的病。",
+      "ja": "しかし、イエスのうわさは、ますます広まり、多くの人の群れが、話を聞きに、また、病気を直してもらいに集まって来た。"
+    },
+    {
+      "number": 16,
+      "ko": "예수는 물러가사 한적한 곳에서 기도하시니라",
+      "en": "But Jesus often withdrew to lonely places and prayed.",
+      "de": "Er aber entwich in die Wüste und betete.",
+      "zh": "耶稣却退到旷野去祷告。",
+      "ja": "しかし、イエスご自身は、よく荒野に退いて祈っておられた。"
+    },
+    {
+      "number": 17,
+      "ko": "하루는 가르치실 때에 갈릴리의 각 마을과 유대와 예루살렘에서 온 바리새인과 율법교사들이 앉았는데 병을 고치는 주의 능력이 예수와 함께 하더라",
+      "en": "One day as he was teaching, Pharisees and teachers of the law, who had come from every village of Galilee and from Judea and Jerusalem, were sitting there. And the power of the Lord was present for him to heal the sick.",
+      "de": "Und es begab sich auf einen Tag, daß er lehrte; und es saßen da die Pharisäer und Schriftgelehrten, die da gekommen waren aus allen Märkten in Galiläa und Judäa und von Jerusalem. Und die Kraft des HERRN ging von ihm, und er half jedermann.",
+      "zh": "有一天，耶稣教训人，有法利赛人和教法师在旁边坐着；他们是从加利利各乡村和犹太并耶路撒冷来的。主的能力与耶稣同在，使他能医治病人。",
+      "ja": "ある日のこと、イエスが教えておられると、パリサイ人と律法の教師たちも、そこにすわっていた。彼らは、ガリラヤとユダヤとのすべての村々や、エルサレムから来ていた。イエスは、主の御力をもって、病気を直しておられた。"
+    },
+    {
+      "number": 18,
+      "ko": "한 중풍병자를 사람들이 침상에 메고 와서 예수 앞에 들여놓고자 하였으나",
+      "en": "Some men came carrying a paralytic on a mat and tried to take him into the house to lay him before Jesus.",
+      "de": "Und, siehe, etliche Männer brachten einen Menschen auf seinem Bette, der war gichtbrüchig; und sie suchten, wie sie ihn hineinbrächten und vor ihn legten.",
+      "zh": "有人用褥子抬着一个瘫子，要抬进去放在耶稣面前，",
+      "ja": "するとそこに、男たちが、中風をわずらっている人を、床のままで運んで来た。そして、何とかして家の中に運び込み、イエスの前に置こうとしていた。"
+    },
+    {
+      "number": 19,
+      "ko": "무리 때문에 메고 들어갈 길을 얻지 못한지라 지붕에 올라가 기와를 벗기고 병자를 침상째 무리 가운데로 예수 앞에 달아 내리니",
+      "en": "When they could not find a way to do this because of the crowd, they went up on the roof and lowered him on his mat through the tiles into the middle of the crowd, right in front of Jesus.",
+      "de": "Und da sie vor dem Volk nicht fanden, an welchen Ort sie ihn hineinbrächten, stiegen sie auf das Dach und ließen ihn durch die Ziegel hernieder mit dem Bettlein mitten unter sie, vor Jesum.",
+      "zh": "却因人多，寻不出法子抬进去，就上了房顶，从瓦间把他连褥子缒到当中，正在耶稣面前。",
+      "ja": "しかし、大ぜい人がいて、どうにも病人を運び込む方法が見つからないので、屋上に上って屋根の瓦をはがし、そこから彼の寝床を、ちょうど人々の真中のイエスの前に、つり降ろした。"
+    },
+    {
+      "number": 20,
+      "ko": "예수께서 그들의 믿음을 보시고 이르시되 이 사람아 네 죄 사함을 받았느니라 하시니",
+      "en": "When Jesus saw their faith, he said, \"Friend, your sins are forgiven.\"",
+      "de": "Und da er ihren Glauben sah, sprach er zu ihm: Mensch, deine Sünden sind dir vergeben.",
+      "zh": "耶稣见他们的信心，就对瘫子说：「你的罪赦了。」",
+      "ja": "彼らの信仰を見て、イエスは「友よ。あなたの罪は赦されました。」と言われた。"
+    },
+    {
+      "number": 21,
+      "ko": "서기관과 바리새인들이 생각하여 이르되 이 신성 모독 하는 자가 누구냐 오직 하나님 외에 누가 능히 죄를 사하겠느냐",
+      "en": "The Pharisees and the teachers of the law began thinking to themselves, \"Who is this fellow who speaks blasphemy? Who can forgive sins but God alone?\"",
+      "de": "Und die Schriftgelehrten und Pharisäer fingen an, zu denken und sprachen: Wer ist der, daß er Gotteslästerungen redet? Wer kann Sünden vergeben denn allein Gott?",
+      "zh": "文士和法利赛人就议论说：「这说僭妄话的是谁？除了　神以外，谁能赦罪呢？」",
+      "ja": "ところが、律法学者、パリサイ人たちは、理屈を言い始めた。「神をけがすことを言うこの人は、いったい何者だ。神のほかに、だれが罪を赦すことができよう。」"
+    },
+    {
+      "number": 22,
+      "ko": "예수께서 그 생각을 아시고 대답하여 이르시되 너희 마음에 무슨 생각을 하느냐",
+      "en": "Jesus knew what they were thinking and asked, \"Why are you thinking these things in your hearts?",
+      "de": "Da aber Jesus ihre Gedanken merkte, antwortete er und sprach zu ihnen: Was denket ihr in euren Herzen?",
+      "zh": "耶稣知道他们所议论的，就说：「你们心里议论的是什么呢？",
+      "ja": "その理屈を見抜いておられたイエスは、彼らに言われた。「なぜ、心の中でそんな理屈を言っているのか。"
+    },
+    {
+      "number": 23,
+      "ko": "네 죄 사함을 받았느니라 하는 말과 일어나 걸어가라 하는 말이 어느 것이 쉽겠느냐",
+      "en": "Which is easier: to say, 'Your sins are forgiven,' or to say, 'Get up and walk'?",
+      "de": "Welches ist leichter: zu sagen: Dir sind deine Sünden vergeben, oder zu sagen: Stehe auf und wandle?",
+      "zh": "或说『你的罪赦了』，或说『你起来行走』，哪一样容易呢？",
+      "ja": "『あなたの罪は赦された。』と言うのと、『起きて歩け。』と言うのと、どちらがやさしいか。"
+    },
+    {
+      "number": 24,
+      "ko": "그러나 인자가 땅에서 죄를 사하는 권세가 있는 줄을 너희로 알게 하리라 하시고 중풍병자에게 말씀하시되 내가 네게 이르노니 일어나 네 침상을 가지고 집으로 가라 하시매",
+      "en": "But that you may know that the Son of Man has authority on earth to forgive sins....\" He said to the paralyzed man, \"I tell you, get up, take your mat and go home.\"",
+      "de": "Auf das ihr aber wisset, daß des Menschen Sohn Macht hat, auf Erden Sünden zu vergeben, (sprach er zu dem Gichtbrüchigen): Ich sage dir stehe auf und hebe dein Bettlein auf und gehe heim!",
+      "zh": "但要叫你们知道，人子在地上有赦罪的权柄。」就对瘫子说：「我吩咐你，起来，拿你的褥子回家去吧！」",
+      "ja": "人の子が地上で罪を赦す権威を持っていることを、あなたがたに悟らせるために。」と言って、中風の人に、「あなたに命じる。起きなさい。寝床をたたんで、家に帰りなさい。」と言われた。"
+    },
+    {
+      "number": 25,
+      "ko": "그 사람이 그들 앞에서 곧 일어나 그 누웠던 것을 가지고 하나님께 영광을 돌리며 자기 집으로 돌아가니",
+      "en": "Immediately he stood up in front of them, took what he had been lying on and went home praising God.",
+      "de": "Und alsbald stand er auf vor ihren Augen und hob das Bettlein auf, darauf er gelegen hatte, und ging heim und pries Gott.",
+      "zh": "那人当众人面前立刻起来，拿着他所躺卧的褥子回家去，归荣耀与　神。",
+      "ja": "すると彼は、たちどころに人々の前で立ち上がり、寝ていた床をたたんで、神をあがめながら自分の家に帰った。"
+    },
+    {
+      "number": 26,
+      "ko": "모든 사람이 놀라 하나님께 영광을 돌리며 심히 두려워하여 이르되 오늘 우리가 놀라운 일을 보았다 하니라",
+      "en": "Everyone was amazed and gave praise to God. They were filled with awe and said, \"We have seen remarkable things today.\"",
+      "de": "Und sie entsetzten sich alle und priesen Gott und wurden voll Furcht und sprachen: Wir haben heute seltsame Dinge gesehen.",
+      "zh": "众人都惊奇，也归荣耀与　神，并且满心惧怕，说：「我们今日看见非常的事了。」",
+      "ja": "人々はみな、ひどく驚き、神をあがめ、恐れに満たされて、「私たちは、きょう、驚くべきことを見た。」と言った。"
+    },
+    {
+      "number": 27,
+      "ko": "그 후에 예수께서 나가사 레위라 하는 세리가 세관에 앉아 있는 것을 보시고 나를 따르라 하시니",
+      "en": "After this, Jesus went out and saw a tax collector by the name of Levi sitting at his tax booth. \"Follow me,\" Jesus said to him,",
+      "de": "Und darnach ging er aus und sah einen Zöllner mit Namen Levi am Zoll sitzen und sprach zu ihm: Folge mir nach!",
+      "zh": "这事以后，耶稣出去，看见一个税吏，名叫利未，坐在税关上，就对他说：「你跟从我来。」",
+      "ja": "この後、イエスは出て行き、収税所にすわっているレビという取税人に目を留めて、「わたしについて来なさい。」と言われた。"
+    },
+    {
+      "number": 28,
+      "ko": "그가 모든 것을 버리고 일어나 따르니라",
+      "en": "and Levi got up, left everything and followed him.",
+      "de": "Und er verließ alles, stand auf und folgte ihm nach.",
+      "zh": "他就撇下所有的，起来，跟从了耶稣。",
+      "ja": "するとレビは、何もかも捨て、立ち上がってイエスに従った。"
+    },
+    {
+      "number": 29,
+      "ko": "레위가 예수를 위하여 자기 집에서 큰 잔치를 하니 세리와 다른 사람이 많이 함께 앉아 있는지라",
+      "en": "Then Levi held a great banquet for Jesus at his house, and a large crowd of tax collectors and others were eating with them.",
+      "de": "Und Levi richtete ihm ein großes Mahl zu in seinem Hause, und viele Zöllner und andere saßen mit ihm zu Tisch.",
+      "zh": "利未在自己家里为耶稣大摆筵席，有许多税吏和别人与他们一同坐席。",
+      "ja": "そこでレビは、自分の家でイエスのために大ぶるまいをしたが、取税人たちや、ほかに大ぜいの人たちが食卓に着いていた。"
+    },
+    {
+      "number": 30,
+      "ko": "바리새인과 그들의 서기관들이 그 제자들을 비방하여 이르되 너희가 어찌하여 세리와 죄인과 함께 먹고 마시느냐",
+      "en": "But the Pharisees and the teachers of the law who belonged to their sect complained to his disciples, \"Why do you eat and drink with tax collectors and 'sinners'?\"",
+      "de": "Und die Schriftgelehrten und Pharisäer murrten wider seine Jünger und sprachen: Warum esset und trinket ihr mit den Zöllnern und Sündern?",
+      "zh": "法利赛人和文士就向耶稣的门徒发怨言说：「你们为什么和税吏并罪人一同吃喝呢？」",
+      "ja": "すると、パリサイ人やその派の律法学者たちが、イエスの弟子たちに向かって、つぶやいて言った。「なぜ、あなたがたは、取税人や罪人どもといっしょに飲み食いするのですか。」"
+    },
+    {
+      "number": 31,
+      "ko": "예수께서 대답하여 이르시되 건강한 자에게는 의사가 쓸 데 없고 병든 자에게라야 쓸 데 있나니",
+      "en": "Jesus answered them, \"It is not the healthy who need a doctor, but the sick.",
+      "de": "Und Jesus antwortete und sprach zu ihnen: Die Gesunden bedürfen des Arztes nicht, sondern die Kranken.",
+      "zh": "耶稣对他们说：「无病的人用不着医生；有病的人才用得着。",
+      "ja": "そこで、イエスは答えて言われた。「医者を必要とするのは丈夫な者ではなく、病人です。"
+    },
+    {
+      "number": 32,
+      "ko": "내가 의인을 부르러 온 것이 아니요 죄인을 불러 회개시키러 왔노라",
+      "en": "I have not come to call the righteous, but sinners to repentance.\"",
+      "de": "Ich bin gekommen zu rufen die Sünder zur Buße, und nicht die Gerechten.",
+      "zh": "我来本不是召义人悔改，乃是召罪人悔改。」",
+      "ja": "わたしは正しい人を招くためではなく、罪人を招いて、悔い改めさせるために来たのです。」"
+    },
+    {
+      "number": 33,
+      "ko": "그들이 예수께 말하되 요한의 제자는 자주 금식하며 기도하고 바리새인의 제자들도 또한 그리하되 당신의 제자들은 먹고 마시나이다",
+      "en": "They said to him, \"John's disciples often fast and pray, and so do the disciples of the Pharisees, but yours go on eating and drinking.\"",
+      "de": "Und sie sprachen zu ihm: Warum fasten des Johannes Jünger so oft und beten so viel, desgleichen der Pharisäer Jünger; aber deine Jünger essen und trinken?",
+      "zh": "他们说：「约翰的门徒屡次禁食祈祷，法利赛人的门徒也是这样；惟独你的门徒又吃又喝。」",
+      "ja": "彼らはイエスに言った。「ヨハネの弟子たちは、よく断食をしており、祈りもしています。また、パリサイ人の弟子たちも同じなのに、あなたの弟子たちは食べたり飲んだりしています。」"
+    },
+    {
+      "number": 34,
+      "ko": "예수께서 그들에게 이르시되 혼인 집 손님들이 신랑과 함께 있을 때에 너희가 그 손님으로 금식하게 할 수 있느냐",
+      "en": "Jesus answered, \"Can you make the guests of the bridegroom fast while he is with them?",
+      "de": "Er sprach aber zu ihnen: Ihr könnt die Hochzeitleute nicht zu fasten treiben, solange der Bräutigam bei ihnen ist.",
+      "zh": "耶稣对他们说：「新郎和陪伴之人同在的时候，岂能叫陪伴之人禁食呢？",
+      "ja": "イエスは彼らに言われた。「花婿がいっしょにいるのに、花婿につき添う友だちに断食させることが、あなたがたにできますか。"
+    },
+    {
+      "number": 35,
+      "ko": "그러나 그 날에 이르러 그들이 신랑을 빼앗기리니 그 날에는 금식할 것이니라",
+      "en": "But the time will come when the bridegroom will be taken from them; in those days they will fast.\"",
+      "de": "Es wird aber die Zeit kommen, daß der Bräutigam von ihnen genommen wird; dann werden sie fasten.",
+      "zh": "但日子将到，新郎要离开他们，那日他们就要禁食了。」",
+      "ja": "しかし、やがてその時が来て、花婿が取り去られたら、その日には彼らは断食します。」"
+    },
+    {
+      "number": 36,
+      "ko": "또 비유하여 이르시되 새 옷에서 한 조각을 찢어 낡은 옷에 붙이는 자가 없나니 만일 그렇게 하면 새 옷을 찢을 뿐이요 또 새 옷에서 찢은 조각이 낡은 것에 어울리지 아니하리라",
+      "en": "He told them this parable: \"No one tears a patch from a new garment and sews it on an old one. If he does, he will have torn the new garment, and the patch from the new will not match the old.",
+      "de": "Und er sagte zu ihnen ein Gleichnis: Niemand flickt einen Lappen von einem neuen Kleid auf ein altes Kleid; sonst zerreißt er das neue, und der Lappen vom neuen reimt sich nicht auf das alte.",
+      "zh": "耶稣又设一个比喻，对他们说：「没有人把新衣服撕下一块来补在旧衣服上；若是这样，就把新的撕破了，并且所撕下来的那块新的和旧的也不相称。",
+      "ja": "イエスはまた一つのたとえを彼らに話された。「だれも、新しい着物から布切れを引き裂いて、古い着物に継ぎをするようなことはしません。そんなことをすれば、その新しい着物を裂くことになるし、また新しいのを引き裂いた継ぎ切れも、古い物には合わないのです。"
+    },
+    {
+      "number": 37,
+      "ko": "새 포도주를 낡은 가죽 부대에 넣는 자가 없나니 만일 그렇게 하면 새 포도주가 부대를 터뜨려 포도주가 쏟아지고 부대도 못쓰게 되리라",
+      "en": "And no one pours new wine into old wineskins. If he does, the new wine will burst the skins, the wine will run out and the wineskins will be ruined.",
+      "de": "Und niemand faßt Most in alte Schläuche; sonst zerreißt der Most die Schläuche und wird verschüttet, und die Schläuche kommen um.",
+      "zh": "也没有人把新酒装在旧皮袋里；若是这样，新酒必将皮袋裂开，酒便漏出来，皮袋也就坏了。",
+      "ja": "また、だれも新しいぶどう酒を古い皮袋に入れるようなことはしません。そんなことをすれば、新しいぶどう酒は皮袋を張り裂き、ぶどう酒は流れ出て、皮袋もだめになってしまいます。"
+    },
+    {
+      "number": 38,
+      "ko": "새 포도주는 새 부대에 넣어야 할 것이니라",
+      "en": "No, new wine must be poured into new wineskins.",
+      "de": "Sondern den Most soll man in neue Schläuche fassen, so werden sie beide erhalten.",
+      "zh": "但新酒必须装在新皮袋里。",
+      "ja": "新しいぶどう酒は新しい皮袋に入れなければなりません。"
+    },
+    {
+      "number": 39,
+      "ko": "묵은 포도주를 마시고 새 것을 원하는 자가 없나니 이는 묵은 것이 좋다 함이니라",
+      "en": "And no one after drinking old wine wants the new, for he says, 'The old is better.'\"",
+      "de": "Und niemand ist, der vom alten trinkt und wolle bald den neuen; denn er spricht: Der alte ist milder.",
+      "zh": "没有人喝了陈酒又想喝新的；他总说陈的好。」",
+      "ja": "また、だれでも古いぶどう酒を飲んでから、新しい物を望みはしません。『古い物は良い。』と言うのです。」"
+    }
+  ]
+}

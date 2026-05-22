@@ -1,0 +1,286 @@
+{
+  "book": "Exodus",
+  "chapter": 35,
+  "verses": [
+    {
+      "number": 1,
+      "ko": "모세가 이스라엘 자손의 온 회중을 모으고 그들에게 이르되 여호와께서 너희에게 명령하사 행하게 하신 말씀이 이러하니라",
+      "en": "Moses assembled the whole Israelite community and said to them, \"These are the things the LORD has commanded you to do:",
+      "de": "Und Mose versammelte die ganze Gemeinde der Kinder Israel und sprach zu ihnen: Das ist's, was der HERR geboten hat, das ihr tun sollt:",
+      "zh": "摩西招聚以色列全会众，对他们说：「这是耶和华所吩咐的话，叫你们照着行：",
+      "ja": "モーセ、イスラエルの子孫の會衆を盡く集てこれに言ふ是はヱホバが爲せと命じたまへる言なり"
+    },
+    {
+      "number": 2,
+      "ko": "엿새 동안은 일하고 일곱째 날은 너희를 위한 거룩한 날이니 여호와께 엄숙한 안식일이라 누구든지 이 날에 일하는 자는 죽일지니",
+      "en": "For six days, work is to be done, but the seventh day shall be your holy day, a Sabbath of rest to the LORD. Whoever does any work on it must be put to death.",
+      "de": "Sechs Tage sollt ihr arbeiten; den siebenten Tag aber sollt ihr heilig halten als einen Sabbat der Ruhe des HERRN. Wer an dem arbeitet, soll sterben.",
+      "zh": "六日要做工，第七日乃为圣日，当向耶和华守为安息圣日。凡这日之内做工的，必把他治死。",
+      "ja": "即ち六日の間は働作を爲べし第七日は汝等の聖日ヱホバの大安息日なり凡てこの日に働作をなす者は殺さるべし"
+    },
+    {
+      "number": 3,
+      "ko": "안식일에는 너희의 모든 처소에서 불도 피우지 말지니라",
+      "en": "Do not light a fire in any of your dwellings on the Sabbath day.\"",
+      "de": "Ihr sollt kein Feuer anzünden am Sabbattag in allen euren Wohnungen.",
+      "zh": "当安息日，不可在你们一切的住处生火。」",
+      "ja": "安息日には汝等の一切の住處に火をたく可らず"
+    },
+    {
+      "number": 4,
+      "ko": "모세가 이스라엘 자손의 온 회중에게 말하여 이르되 여호와께서 명령하신 일이 이러하니라 이르시기를",
+      "en": "Moses said to the whole Israelite community, \"This is what the LORD has commanded:",
+      "de": "Und Mose sprach zu der ganzen Gemeinde der Kinder Israel: Das ist's, was der HERR geboten hat:",
+      "zh": "摩西对以色列全会众说：「耶和华所吩咐的是这样：",
+      "ja": "モーセ、イスラエルの子孫の會衆に徧く告て言ふ是はヱホバの命じたまへるところの事なり"
+    },
+    {
+      "number": 5,
+      "ko": "너희의 소유 중에서 너희는 여호와께 드릴 것을 택하되 마음에 원하는 자는 누구든지 그것을 가져다가 여호와께 드릴지니 곧 금과 은과 놋과",
+      "en": "From what you have, take an offering for the LORD. Everyone who is willing is to bring to the LORD an offering of gold, silver and bronze;",
+      "de": "Gebt unter euch ein Hebopfer dem HERRN, also daß das Hebopfer des HERRN ein jeglicher willig bringe, Gold, Silber, Erz,",
+      "zh": "你们中间要拿礼物献给耶和华，凡乐意献的可以拿耶和华的礼物来，就是金、银、铜，",
+      "ja": "曰く汝等が有る物の中より汝等ヱホバに献ぐる者を取べし凡て心より願ふ者に其を携へきたりてヱホバに献ぐべし即ち金 銀 銅"
+    },
+    {
+      "number": 6,
+      "ko": "청색 자색 홍색 실과 가는 베 실과 염소 털과",
+      "en": "blue, purple and scarlet yarn and fine linen; goat hair;",
+      "de": "blauen und roten Purpur, Scharlach, weiße Leinwand und Ziegenhaar,",
+      "zh": "蓝色、紫色、朱红色线，细麻，山羊毛，",
+      "ja": "靑 紫 紅の線 麻糸 山羊の毛"
+    },
+    {
+      "number": 7,
+      "ko": "붉은 물 들인 숫양의 가죽과 해달의 가죽과 조각목과",
+      "en": "ram skins dyed red and hides of sea cows; acacia wood;",
+      "de": "rötliche Widderfelle, Dachsfelle und Akazienholz,",
+      "zh": "染红的公羊皮，海狗皮，皂荚木，",
+      "ja": "赤染の牡羊の皮 貛の皮 合歓木"
+    },
+    {
+      "number": 8,
+      "ko": "등유와 및 관유에 드는 향품과 분향할 향을 만드는 향품과",
+      "en": "olive oil for the light; spices for the anointing oil and for the fragrant incense;",
+      "de": "Öl zur Lampe und Spezerei zur Salbe und zu gutem Räuchwerk,",
+      "zh": "点灯的油，并做膏油和香的香料，",
+      "ja": "燈油 灌膏と馨しき香をつくる香物"
+    },
+    {
+      "number": 9,
+      "ko": "호마노며 에봇과 흉패에 물릴 보석이니라",
+      "en": "and onyx stones and other gems to be mounted on the ephod and breastpiece.",
+      "de": "Onyxsteine und eingefaßte Steine zum Leibrock und zum Amtschild.",
+      "zh": "红玛瑙与别样的宝石，可以镶嵌在以弗得和胸牌上。」",
+      "ja": "葱珩 エポデと胸牌に嵌る玉"
+    },
+    {
+      "number": 10,
+      "ko": "무릇 너희 중 마음이 지혜로운 자는 와서 여호와께서 명령하신 것을 다 만들지니",
+      "en": "\"All who are skilled among you are to come and make everything the LORD has commanded:",
+      "de": "Und wer unter euch verständig ist, der komme und mache, was der HERR geboten hat:",
+      "zh": "「你们中间凡心里有智慧的都要来做耶和华一切所吩咐的：",
+      "ja": "凡て汝等の中の心に智慧ある者來りてヱホバの命じたまひし者を悉く造るべし"
+    },
+    {
+      "number": 11,
+      "ko": "곧 성막과 천막과 그 덮개와 그 갈고리와 그 널판과 그 띠와 그 기둥과 그 받침과",
+      "en": "the tabernacle with its tent and its covering, clasps, frames, crossbars, posts and bases;",
+      "de": "nämlich die Wohnung mit ihrer Hütte und Decke, Haken, Brettern, Riegeln, Säulen und Füßen;",
+      "zh": "就是帐幕和帐幕的罩棚，并帐幕的盖、钩子、板、闩、柱子、带卯的座，",
+      "ja": "即ち幕屋その天幕その頂蓋その鈎その版その横木その柱その座"
+    },
+    {
+      "number": 12,
+      "ko": "증거궤와 그 채와 속죄소와 그 가리는 휘장과",
+      "en": "the ark with its poles and the atonement cover and the curtain that shields it;",
+      "de": "die Lade mit ihren Stangen, den Gnadenstuhl und Vorhang;",
+      "zh": "柜和柜的杠，施恩座和遮掩柜的幔子，",
+      "ja": "かの櫃とその杠 贖罪所 障蔽の幕"
+    },
+    {
+      "number": 13,
+      "ko": "상과 그 채와 그 모든 기구와 진설병과",
+      "en": "the table with its poles and all its articles and the bread of the Presence;",
+      "de": "den Tisch mit seinen Stangen und allem seinem Geräte und die Schaubrote;",
+      "zh": "桌子和桌子的杠与桌子的一切器具，并陈设饼，",
+      "ja": "案子とその杠およびその諸の器具供前のパン"
+    },
+    {
+      "number": 14,
+      "ko": "불 켜는 등잔대와 그 기구와 그 등잔과 등유와",
+      "en": "the lampstand that is for light with its accessories, lamps and oil for the light;",
+      "de": "den Leuchter, zu leuchten, und sein Gerät und seine Lampen und das Öl zum Licht;",
+      "zh": "灯台和灯台的器具，灯盏并点灯的油，",
+      "ja": "燈明の臺その器具とその盞および燈火の油"
+    },
+    {
+      "number": 15,
+      "ko": "분향단과 그 채와 관유와 분향할 향품과 성막 문의 휘장과",
+      "en": "the altar of incense with its poles, the anointing oil and the fragrant incense; the curtain for the doorway at the entrance to the tabernacle;",
+      "de": "den Räucheraltar mit seinen Stangen, die Salbe und Spezerei zum Räuchwerk; das Tuch vor der Wohnung Tür;",
+      "zh": "香坛和坛的杠，膏油和馨香的香料，并帐幕门口的帘子，",
+      "ja": "香壇とその杠 灌膏 馨しき香 幕屋の入口の幔"
+    },
+    {
+      "number": 16,
+      "ko": "번제단과 그 놋 그물과 그 채와 그 모든 기구와 물두멍과 그 받침과",
+      "en": "the altar of burnt offering with its bronze grating, its poles and all its utensils; the bronze basin with its stand;",
+      "de": "den Brandopferaltar mit seinem ehernen Gitter, Stangen und allem seinem Geräte; das Handfaß mit seinem Fuße;",
+      "zh": "燔祭坛和坛的铜网，坛的杠并坛的一切器具，洗濯盆和盆座，",
+      "ja": "燔祭の壇およびその銅の網その杠その諸の器具洗盤とその臺"
+    },
+    {
+      "number": 17,
+      "ko": "뜰의 포장과 그 기둥과 그 받침과 뜰 문의 휘장과",
+      "en": "the curtains of the courtyard with its posts and bases, and the curtain for the entrance to the courtyard;",
+      "de": "den Umhang des Vorhofs mit seinen Säulen und Füßen und das Tuch des Tors am Vorhof;",
+      "zh": "院子的帷子和帷子的柱子，带卯的座和院子的门帘，",
+      "ja": "庭の幕その柱その座庭の口の幔"
+    },
+    {
+      "number": 18,
+      "ko": "장막 말뚝과 뜰의 말뚝과 그 줄과",
+      "en": "the tent pegs for the tabernacle and for the courtyard, and their ropes;",
+      "de": "die Nägel der Wohnung und des Vorhofs mit ihren Seilen;",
+      "zh": "帐幕的橛子并院子的橛子，和这两处的绳子，",
+      "ja": "幕屋の釘庭の釘およびその紐"
+    },
+    {
+      "number": 19,
+      "ko": "성소에서 섬기기 위하여 정교하게 만든 옷 곧 제사 직분을 행할 때에 입는 제사장 아론의 거룩한 옷과 그의 아들들의 옷이니라",
+      "en": "the woven garments worn for ministering in the sanctuary--both the sacred garments for Aaron the priest and the garments for his sons when they serve as priests.\"",
+      "de": "die Kleider des Amts zum Dienst im Heiligen, die heiligen Kleider Aarons, des Priesters, mit den Kleidern seiner Söhne zum Priestertum.",
+      "zh": "精工做的礼服和祭司亚伦并他儿子在圣所用以供祭司职分的圣衣。」",
+      "ja": "聖所にて職をなすところの供職の衣即ち祭司の職をなす時に用ふる者なる祭司アロンの聖衣および其子等の衣服"
+    },
+    {
+      "number": 20,
+      "ko": "이스라엘 자손의 온 회중이 모세 앞에서 물러갔더니",
+      "en": "Then the whole Israelite community withdrew from Moses' presence,",
+      "de": "Da ging die ganze Gemeinde der Kinder Israel aus von Mose.",
+      "zh": "以色列全会众从摩西面前退去。",
+      "ja": "斯てイスラエルの子孫の會衆みなモーセの前を離れて去しが"
+    },
+    {
+      "number": 21,
+      "ko": "마음이 감동된 모든 자와 자원하는 모든 자가 와서 회막을 짓기 위하여 그 속에서 쓸 모든 것을 위하여, 거룩한 옷을 위하여 예물을 가져다가 여호와께 드렸으니",
+      "en": "and everyone who was willing and whose heart moved him came and brought an offering to the LORD for the work on the Tent of Meeting, for all its service, and for the sacred garments.",
+      "de": "Und alle, die es gern und willig gaben, kamen und brachten das Hebopfer dem HERRN zum Werk der Hütte des Stifts und zu allem ihren Dienst und zu den heiligen Kleidern.",
+      "zh": "凡心里受感和甘心乐意的都拿耶和华的礼物来，用以做会幕和其中一切的使用，又用以做圣衣。",
+      "ja": "凡て心に感じたる者凡て心より願ふ者は來りてヱホバへの献納物を携へいたり集會の幕屋とその諸の用に供へ又聖衣のために供へたり"
+    },
+    {
+      "number": 22,
+      "ko": "곧 마음에 원하는 남녀가 와서 팔찌와 귀고리와 가락지와 목걸이와 여러 가지 금품을 가져다가 사람마다 여호와께 금 예물을 드렸으며",
+      "en": "All who were willing, men and women alike, came and brought gold jewelry of all kinds: brooches, earrings, rings and ornaments. They all presented their gold as a wave offering to the LORD.",
+      "de": "Es brachten aber beide, Mann und Weib, wer's willig tat, Spangen, Ohrringe, Ringe und Geschmeide und allerlei goldenes Gerät. Dazu brachte jedermann Gold zum Webeopfer dem HERRN.",
+      "zh": "凡心里乐意献礼物的，连男带女，各将金器，就是胸前针、耳环、打印的戒指，和手钏带来献给耶和华。",
+      "ja": "即ち凡て心より願ふ者は男女ともに環釦 耳環 指環 頸玉 諸の金の物を携へいたれり又凡て金の献納物をヱホバに爲す者も然せり"
+    },
+    {
+      "number": 23,
+      "ko": "무릇 청색 자색 홍색 실과 가는 베 실과 염소 털과 붉은 물 들인 숫양의 가죽과 해달의 가죽이 있는 자도 가져왔으며",
+      "en": "Everyone who had blue, purple or scarlet yarn or fine linen, or goat hair, ram skins dyed red or hides of sea cows brought them.",
+      "de": "Und wer bei sich fand blauen und roten Purpur, Scharlach, weiße Leinwand, Ziegenhaar, rötliche Widderfelle und Dachsfelle, der brachte es.",
+      "zh": "凡有蓝色、紫色、朱红色线，细麻，山羊毛，染红的公羊皮，海狗皮的，都拿了来；",
+      "ja": "凡て靑 紫 紅の線および麻絲 山羊の毛 赤染の牡羊の皮 貛の皮ある者は是を携へいたり"
+    },
+    {
+      "number": 24,
+      "ko": "은과 놋으로 예물을 삼는 모든 자가 가져다가 여호와께 드렸으며 섬기는 일에 소용되는 조각목이 있는 모든 자는 가져왔으며",
+      "en": "Those presenting an offering of silver or bronze brought it as an offering to the LORD, and everyone who had acacia wood for any part of the work brought it.",
+      "de": "Und wer Silber und Erz hob, der brachte es zur Hebe dem HERRN. Und wer Akazienholz bei sich fand, der brachte es zu allerlei Werk des Gottesdienstes.",
+      "zh": "凡献银子和铜给耶和华为礼物的都拿了来；凡有皂荚木可做什么使用的也拿了来。",
+      "ja": "凡て銀および銅の献納物をなす者はこれを携へきたりてヱホバに献げ又物を造るに用ふべき合歓木ある者は其を携へいたれり"
+    },
+    {
+      "number": 25,
+      "ko": "마음이 슬기로운 모든 여인은 손수 실을 빼고 그 뺀 청색 자색 홍색 실과 가는 베 실을 가져왔으며",
+      "en": "Every skilled woman spun with her hands and brought what she had spun--blue, purple or scarlet yarn or fine linen.",
+      "de": "Und welche verständige Weiber waren, die spannen mit ihren Händen und brachten ihr Gespinnst, blauen und roten Purpur, Scharlach und weiße Leinwand.",
+      "zh": "凡心中有智慧的妇女亲手纺线，把所纺的蓝色、紫色、朱红色线，和细麻都拿了来。",
+      "ja": "また凡て心に智慧ある婦女等はその手をもて紡ぐことをなしその紡ぎたる者なる靑紫 紅の線および麻絲を携へきたり"
+    },
+    {
+      "number": 26,
+      "ko": "마음에 감동을 받아 슬기로운 모든 여인은 염소 털로 실을 뽑았으며",
+      "en": "And all the women who were willing and had the skill spun the goat hair.",
+      "de": "Und welche Weiber solche Arbeit konnten und willig dazu waren, die spannen Ziegenhaare.",
+      "zh": "凡有智慧、心里受感的妇女就纺山羊毛。",
+      "ja": "凡て智慧ありて心に感じたる婦人は山羊の毛を紡げり"
+    },
+    {
+      "number": 27,
+      "ko": "모든 족장은 호마노와 및 에봇과 흉패에 물릴 보석을 가져왔으며",
+      "en": "The leaders brought onyx stones and other gems to be mounted on the ephod and breastpiece.",
+      "de": "Die Fürsten aber brachten Onyxsteine und eingefaßte Steine zum Leibrock und zum Schild",
+      "zh": "众官长把红玛瑙和别样的宝石，可以镶嵌在以弗得与胸牌上的，都拿了来；",
+      "ja": "又長たる者どもは葱珩およびエポデと胸牌に嵌べき玉を携へいたり"
+    },
+    {
+      "number": 28,
+      "ko": "등불과 관유와 분향할 향에 소용되는 기름과 향품을 가져왔으니",
+      "en": "They also brought spices and olive oil for the light and for the anointing oil and for the fragrant incense.",
+      "de": "und Spezerei und Öl zu den Lichtern und zur Salbe und zum guten Räuchwerk.",
+      "zh": "又拿香料做香，拿油点灯，做膏油。",
+      "ja": "燈火と灌膏と馨しき香とに用ふる香物と油を携へいたれり"
+    },
+    {
+      "number": 29,
+      "ko": "마음에 자원하는 남녀는 누구나 여호와께서 모세의 손을 빌어 명령하신 모든 것을 만들기 위하여 물품을 드렸으니 이것이 이스라엘 자손이 여호와께 자원하여 드린 예물이니라",
+      "en": "All the Israelite men and women who were willing brought to the LORD freewill offerings for all the work the LORD through Moses had commanded them to do.",
+      "de": "Also brachte die Kinder Israel willig, beide, Mann und Weib, zu allerlei Werk, das der HERR geboten hatte durch Mose, daß man's machen sollte.",
+      "zh": "以色列人，无论男女，凡甘心乐意献礼物给耶和华的，都将礼物拿来，做耶和华借摩西所吩咐的一切工。",
+      "ja": "斯イスラエルの子孫悦んでヱホバに獻納物をなせり即ちヱホバがモーセに藉て爲せと命じたまひし諸の工事をなさしむるために物を携へきたらんと心より願ふところの男女は皆是のごとくになしたり"
+    },
+    {
+      "number": 30,
+      "ko": "모세가 이스라엘 자손에게 이르되 볼지어다 여호와께서 유다 지파 훌의 손자요 우리의 아들인 브살렐을 지명하여 부르시고",
+      "en": "Then Moses said to the Israelites, \"See, the LORD has chosen Bezalel son of Uri, the son of Hur, of the tribe of Judah,",
+      "de": "Und Mose sprach zu den Kindern Israel: Sehet, der HERR hat mit Namen berufen den Bezaleel, den Sohn Uris, des Sohnes Hur, vom Stamme Juda,",
+      "zh": "摩西对以色列人说：「犹大支派中，户珥的孙子、乌利的儿子比撒列，耶和华已经提他的名召他，",
+      "ja": "モーセ、イスラエルの子孫に言ふ視よヱホバ、ユダの支派のホルの子なるウリの子ベザレルを名指て召たまひ"
+    },
+    {
+      "number": 31,
+      "ko": "하나님의 영을 그에게 충만하게 하여 지혜와 총명과 지식으로 여러 가지 일을 하게 하시되",
+      "en": "and he has filled him with the Spirit of God, with skill, ability and knowledge in all kinds of crafts--",
+      "de": "und hat ihn erfüllt mit dem Geist Gottes, daß er weise, verständig, geschickt sei zu allerlei Werk,",
+      "zh": "又以　神的灵充满了他，使他有智慧、聪明、知识，能做各样的工，",
+      "ja": "神の霊をこれに充して智慧と了知と知識と諸の類の工事に長しめ"
+    },
+    {
+      "number": 32,
+      "ko": "금과 은과 놋으로 제작하는 기술을 고안하게 하시며",
+      "en": "to make artistic designs for work in gold, silver and bronze,",
+      "de": "kunstreich zu arbeiten an Gold, Silber und Erz,",
+      "zh": "能想出巧工，用金、银、铜制造各物，",
+      "ja": "奇巧を盡して金銀および銅の作をなすことを得せしめ"
+    },
+    {
+      "number": 33,
+      "ko": "보석을 깎아 물리며 나무를 새기는 여러 가지 정교한 일을 하게 하셨고",
+      "en": "to cut and set stones, to work in wood and to engage in all kinds of artistic craftsmanship.",
+      "de": "Edelsteine zu schneiden und einzusetzen, Holz zu zimmern, zu machen allerlei kunstreiche Arbeit.",
+      "zh": "又能刻宝石，可以镶嵌，能雕刻木头，能做各样的巧工。",
+      "ja": "玉を切り嵌め木に彫刻みて諸の類の工をなすことを得せしめ"
+    },
+    {
+      "number": 34,
+      "ko": "또 그와 단 지파 아히사막의 아들 오홀리압을 감동시키사 가르치게 하시며",
+      "en": "And he has given both him and Oholiab son of Ahisamach, of the tribe of Dan, the ability to teach others.",
+      "de": "Und hat ihm ins Herz gegeben, zu unterweisen, ihm und Oholiab, dem Sohn Ahisamachs, vom Stamme Dan.",
+      "zh": "耶和华又使他，和但支派中亚希撒抹的儿子亚何利亚伯，心里灵明，能教导人。",
+      "ja": "彼の心を明かにして敎ふることを得せしめたまふ彼とダンの支派のアヒサマクの子アホリアブ倶に然り"
+    },
+    {
+      "number": 35,
+      "ko": "지혜로운 마음을 그들에게 충만하게 하사 여러 가지 일을 하게 하시되 조각하는 일과 세공하는 일과 청색 자색 홍색 실과 가는 베 실로 수 놓는 일과 짜는 일과 그 외에 여러 가지 일을 하게 하시고 정교한 일을 고안하게 하셨느니라",
+      "en": "He has filled them with skill to do all kinds of work as craftsmen, designers, embroiderers in blue, purple and scarlet yarn and fine linen, and weavers--all of them master craftsmen and designers.",
+      "de": "Er hat ihr Herz mit Weisheit erfüllt, zu machen allerlei Werk, zu schneiden, zu wirken und zu sticken mit blauem und rotem Purpur, Scharlach und weißer Leinwand, und mit Weben, daß sie machen allerlei Werk und kunstreiche Arbeit erfinden.",
+      "zh": "耶和华使他们的心满有智慧，能做各样的工，无论是雕刻的工，巧匠的工，用蓝色、紫色、朱红色线，和细麻、绣花的工，并机匠的工，他们都能做，也能想出奇巧的工。",
+      "ja": "斯智慧の心を彼等に充して諸の類の工事をなすことを得せしめたまふ即ち彫刻文織および靑紫紅の絲と麻絲の刺繍並に機織等凡て諸の類の工をなすことを得せしめ奇巧をこれに盡さしめたまふなり"
+    }
+  ]
+}

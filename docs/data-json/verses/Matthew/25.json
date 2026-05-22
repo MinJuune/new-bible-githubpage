@@ -1,0 +1,374 @@
+{
+  "book": "Matthew",
+  "chapter": 25,
+  "verses": [
+    {
+      "number": 1,
+      "ko": "그 때에 천국은 마치 등을 들고 신랑을 맞으러 나간 열 처녀와 같다 하리니",
+      "en": "\"At that time the kingdom of heaven will be like ten virgins who took their lamps and went out to meet the bridegroom.",
+      "de": "Dann wird das Himmelreich gleich sein zehn Jungfrauen, die ihre Lampen nahmen und gingen aus, dem Bräutigam entgegen.",
+      "zh": "「那时，天国好比十个童女拿着灯出去迎接新郎。",
+      "ja": "そこで、天の御国は、たとえて言えば、それぞれがともしびを持って、花婿を出迎える十人の娘のようです。"
+    },
+    {
+      "number": 2,
+      "ko": "그 중의 다섯은 미련하고 다섯은 슬기 있는 자라",
+      "en": "Five of them were foolish and five were wise.",
+      "de": "Aber fünf unter ihnen waren töricht, und fünf waren klug.",
+      "zh": "其中有五个是愚拙的，五个是聪明的。",
+      "ja": "そのうち五人は愚かで、五人は賢かった。"
+    },
+    {
+      "number": 3,
+      "ko": "미련한 자들은 등을 가지되 기름을 가지지 아니하고",
+      "en": "The foolish ones took their lamps but did not take any oil with them.",
+      "de": "Die törichten nahmen Öl in ihren Lampen; aber sie nahmen nicht Öl mit sich.",
+      "zh": "愚拙的拿着灯，却不预备油；",
+      "ja": "愚かな娘たちは、ともしびは持っていたが、油を用意しておかなかった。"
+    },
+    {
+      "number": 4,
+      "ko": "슬기 있는 자들은 그릇에 기름을 담아 등과 함께 가져갔더니",
+      "en": "The wise, however, took oil in jars along with their lamps.",
+      "de": "Die klugen aber nahmen Öl in ihren Gefäßen samt ihren Lampen.",
+      "zh": "聪明的拿着灯，又预备油在器皿里。",
+      "ja": "賢い娘たちは、自分のともしびといっしょに、入れ物に油を入れて持っていた。"
+    },
+    {
+      "number": 5,
+      "ko": "신랑이 더디 오므로 다 졸며 잘새",
+      "en": "The bridegroom was a long time in coming, and they all became drowsy and fell asleep.",
+      "de": "Da nun der Bräutigam verzog, wurden sie alle schläfrig und schliefen ein.",
+      "zh": "新郎迟延的时候，她们都打盹，睡着了。",
+      "ja": "花婿が来るのが遅れたので、みな、うとうとして眠り始めた。"
+    },
+    {
+      "number": 6,
+      "ko": "밤중에 소리가 나되 보라 신랑이로다 맞으러 나오라 하매",
+      "en": "\"At midnight the cry rang out: 'Here's the bridegroom! Come out to meet him!'",
+      "de": "Zur Mitternacht aber ward ein Geschrei: Siehe, der Bräutigam kommt; geht aus ihm entgegen!",
+      "zh": "半夜有人喊着说：『新郎来了，你们出来迎接他！』",
+      "ja": "ところが、夜中になって、『そら、花婿だ。迎えに出よ。』と叫ぶ声がした。"
+    },
+    {
+      "number": 7,
+      "ko": "이에 그 처녀들이 다 일어나 등을 준비할새",
+      "en": "\"Then all the virgins woke up and trimmed their lamps.",
+      "de": "Da standen diese Jungfrauen alle auf und schmückten ihre Lampen.",
+      "zh": "那些童女就都起来收拾灯。",
+      "ja": "娘たちは、みな起きて、自分のともしびを整えた。"
+    },
+    {
+      "number": 8,
+      "ko": "미련한 자들이 슬기 있는 자들에게 이르되 우리 등불이 꺼져가니 너희 기름을 좀 나눠 달라 하거늘",
+      "en": "The foolish ones said to the wise, 'Give us some of your oil; our lamps are going out.'",
+      "de": "Die törichten aber sprachen zu den klugen: Gebt uns von eurem Öl, denn unsere Lampen verlöschen.",
+      "zh": "愚拙的对聪明的说：『请分点油给我们，因为我们的灯要灭了。』",
+      "ja": "ところが愚かな娘たちは、賢い娘たちに言った。『油を少し私たちに分けてください。私たちのともしびは消えそうです。』"
+    },
+    {
+      "number": 9,
+      "ko": "슬기 있는 자들이 대답하여 이르되 우리와 너희가 쓰기에 다 부족할까 하노니 차라리 파는 자들에게 가서 너희 쓸 것을 사라 하니",
+      "en": "\"'No,' they replied, 'there may not be enough for both us and you. Instead, go to those who sell oil and buy some for yourselves.'",
+      "de": "Da antworteten die klugen und sprachen: Nicht also, auf daß nicht uns und euch gebreche; geht aber hin zu den Krämern und kauft für euch selbst.",
+      "zh": "聪明的回答说：『恐怕不够你我用的；不如你们自己到卖油的那里去买吧。』",
+      "ja": "しかし、賢い娘たちは答えて言った。『いいえ、あなたがたに分けてあげるにはとうてい足りません。それよりも店に行って、自分のをお買いなさい。』"
+    },
+    {
+      "number": 10,
+      "ko": "그들이 사러 간 사이에 신랑이 오므로 준비하였던 자들은 함께 혼인 잔치에 들어가고 문은 닫힌지라",
+      "en": "\"But while they were on their way to buy the oil, the bridegroom arrived. The virgins who were ready went in with him to the wedding banquet. And the door was shut.",
+      "de": "Und da sie hingingen, zu kaufen, kam der Bräutigam; und die bereit waren, gingen mit ihm hinein zur Hochzeit, und die Tür ward verschlossen.",
+      "zh": "她们去买的时候，新郎到了。那预备好了的，同他进去坐席，门就关了。",
+      "ja": "そこで、買いに行くと、その間に花婿が来た。用意のできていた娘たちは、彼といっしょに婚礼の祝宴に行き、戸がしめられた。"
+    },
+    {
+      "number": 11,
+      "ko": "그 후에 남은 처녀들이 와서 이르되 주여 주여 우리에게 열어 주소서",
+      "en": "\"Later the others also came. 'Sir! Sir!' they said. 'Open the door for us!'",
+      "de": "Zuletzt kamen auch die anderen Jungfrauen und sprachen: Herr, Herr, tu uns auf!",
+      "zh": "其余的童女随后也来了，说：『主啊，主啊，给我们开门！』",
+      "ja": "そのあとで、ほかの娘たちも来て、『ご主人さま、ご主人さま。あけてください。』と言った。"
+    },
+    {
+      "number": 12,
+      "ko": "대답하여 이르되 진실로 너희에게 이르노니 내가 너희를 알지 못하노라 하였느니라",
+      "en": "\"But he replied, 'I tell you the truth, I don't know you.'",
+      "de": "Er antwortete aber und sprach: Wahrlich ich sage euch: Ich kenne euch nicht.",
+      "zh": "他却回答说：『我实在告诉你们，我不认识你们。』",
+      "ja": "しかし、彼は答えて、『確かなところ、私はあなたがたを知りません。』と言った。"
+    },
+    {
+      "number": 13,
+      "ko": "그런즉 깨어 있으라 너희는 그 날과 그 때를 알지 못하느니라",
+      "en": "\"Therefore keep watch, because you do not know the day or the hour.",
+      "de": "Darum wachet; denn ihr wisset weder Tag noch Stunde, in welcher des Menschen Sohn kommen wird.",
+      "zh": "所以，你们要警醒；因为那日子，那时辰，你们不知道。」",
+      "ja": "だから、目をさましていなさい。あなたがたは、その日、その時を知らないからです。"
+    },
+    {
+      "number": 14,
+      "ko": "또 어떤 사람이 타국에 갈 때 그 종들을 불러 자기 소유를 맡김과 같으니",
+      "en": "\"Again, it will be like a man going on a journey, who called his servants and entrusted his property to them.",
+      "de": "Gleichwie ein Mensch, der über Land zog, rief seine Knechte und tat ihnen seine Güter aus;",
+      "zh": "「天国又好比一个人要往外国去，就叫了仆人来，把他的家业交给他们，",
+      "ja": "天の御国は、しもべたちを呼んで、自分の財産を預け、旅に出て行く人のようです。"
+    },
+    {
+      "number": 15,
+      "ko": "각각 그 재능대로 한 사람에게는 금 다섯 달란트를, 한 사람에게는 두 달란트를, 한 사람에게는 한 달란트를 주고 떠났더니",
+      "en": "To one he gave five talents of money, to another two talents, and to another one talent, each according to his ability. Then he went on his journey.",
+      "de": "und einem gab er fünf Zentner, dem andern zwei, dem dritten einen, einem jedem nach seinem Vermögen, und zog bald hinweg.",
+      "zh": "按着各人的才干给他们银子：一个给了五千，一个给了二千，一个给了一千，就往外国去了。",
+      "ja": "彼は、おのおのその能力に応じて、ひとりには五タラント、ひとりには二タラント、もうひとりには一タラントを渡し、それから旅に出かけた。"
+    },
+    {
+      "number": 16,
+      "ko": "다섯 달란트 받은 자는 바로 가서 그것으로 장사하여 또 다섯 달란트를 남기고",
+      "en": "The man who had received the five talents went at once and put his money to work and gained five more.",
+      "de": "Da ging der hin, der fünf Zentner empfangen hatte, und handelte mit ihnen und gewann andere fünf Zentner.",
+      "zh": "那领五千的随即拿去做买卖，另外赚了五千。",
+      "ja": "五タラント預かった者は、すぐに行って、それで商売をして、さらに五タラントもうけた。"
+    },
+    {
+      "number": 17,
+      "ko": "두 달란트 받은 자도 그같이 하여 또 두 달란트를 남겼으되",
+      "en": "So also, the one with the two talents gained two more.",
+      "de": "Desgleichen, der zwei Zentner empfangen hatte, gewann auch zwei andere.",
+      "zh": "那领二千的也照样另赚了二千。",
+      "ja": "同様に、二タラント預かった者も、さらに二タラントもうけた。"
+    },
+    {
+      "number": 18,
+      "ko": "한 달란트 받은 자는 가서 땅을 파고 그 주인의 돈을 감추어 두었더니",
+      "en": "But the man who had received the one talent went off, dug a hole in the ground and hid his master's money.",
+      "de": "Der aber einen empfangen hatte, ging hin und machte eine Grube in die Erde und verbarg seines Herrn Geld.",
+      "zh": "但那领一千的去掘开地，把主人的银子埋藏了。",
+      "ja": "ところが、一タラント預かった者は、出て行くと、地を掘って、その主人の金を隠した。"
+    },
+    {
+      "number": 19,
+      "ko": "오랜 후에 그 종들의 주인이 돌아와 그들과 결산할새",
+      "en": "\"After a long time the master of those servants returned and settled accounts with them.",
+      "de": "Über eine lange Zeit kam der Herr dieser Knechte und hielt Rechenschaft mit ihnen.",
+      "zh": "过了许久，那些仆人的主人来了，和他们算帐。",
+      "ja": "さて、よほどたってから、しもべたちの主人が帰って来て、彼らと清算をした。"
+    },
+    {
+      "number": 20,
+      "ko": "다섯 달란트 받았던 자는 다섯 달란트를 더 가지고 와서 이르되 주인이여 내게 다섯 달란트를 주셨는데 보소서 내가 또 다섯 달란트를 남겼나이다",
+      "en": "The man who had received the five talents brought the other five. 'Master,' he said, 'you entrusted me with five talents. See, I have gained five more.'",
+      "de": "Da trat herzu, der fünf Zentner empfangen hatte, und legte andere fünf Zentner dar und sprach: Herr, du hast mir fünf Zentner ausgetan; siehe da, ich habe damit andere fünf Zentner gewonnen.",
+      "zh": "那领五千银子的又带着那另外的五千来，说：『主啊，你交给我五千银子。请看，我又赚了五千。』",
+      "ja": "すると、五タラント預かった者が来て、もう五タラント差し出して言った。『ご主人さま。私に五タラント預けてくださいましたが、ご覧ください。私はさらに五タラントもうけました。』"
+    },
+    {
+      "number": 21,
+      "ko": "그 주인이 이르되 잘하였도다 착하고 충성된 종아 네가 적은 일에 충성하였으매 내가 많은 것을 네게 맡기리니 네 주인의 즐거움에 참여할지어다 하고",
+      "en": "\"His master replied, 'Well done, good and faithful servant! You have been faithful with a few things; I will put you in charge of many things. Come and share your master's happiness!'",
+      "de": "Da sprach sein Herr zu ihm: Ei, du frommer und getreuer Knecht, du bist über wenigem getreu gewesen, ich will dich über viel setzen; gehe ein zu deines Herrn Freude!",
+      "zh": "主人说：『好，你这又良善又忠心的仆人，你在不多的事上有忠心，我要把许多事派你管理；可以进来享受你主人的快乐。』",
+      "ja": "その主人は彼に言った。『よくやった。良い忠実なしもべだ。あなたは、わずかな物に忠実だったから、私はあなたにたくさんの物を任せよう。主人の喜びをともに喜んでくれ。』"
+    },
+    {
+      "number": 22,
+      "ko": "두 달란트 받았던 자도 와서 이르되 주인이여 내게 두 달란트를 주셨는데 보소서 내가 또 두 달란트를 남겼나이다",
+      "en": "\"The man with the two talents also came. 'Master,' he said, 'you entrusted me with two talents; see, I have gained two more.'",
+      "de": "Da trat auch herzu, der zwei Zentner erhalten hatte, und sprach: Herr, du hast mir zwei Zentner gegeben; siehe da, ich habe mit ihnen zwei andere gewonnen.",
+      "zh": "那领二千的也来，说：『主啊，你交给我二千银子。请看，我又赚了二千。』",
+      "ja": "二タラントの者も来て言った。『ご主人さま。私は二タラント預かりましたが、ご覧ください。さらに二タラントもうけました。』"
+    },
+    {
+      "number": 23,
+      "ko": "그 주인이 이르되 잘하였도다 착하고 충성된 종아 네가 적은 일에 충성하였으매 내가 많은 것을 네게 맡기리니 네 주인의 즐거움에 참여할지어다 하고",
+      "en": "\"His master replied, 'Well done, good and faithful servant! You have been faithful with a few things; I will put you in charge of many things. Come and share your master's happiness!'",
+      "de": "Sein Herr sprach zu ihm: Ei du frommer und getreuer Knecht, du bist über wenigem getreu gewesen, ich will dich über viel setzen; gehe ein zu deines Herrn Freude!",
+      "zh": "主人说：『好，你这又良善又忠心的仆人，你在不多的事上有忠心，我要把许多事派你管理；可以进来享受你主人的快乐。』",
+      "ja": "その主人は彼に言った。『よくやった。良い忠実なしもべだ。あなたは、わずかな物に忠実だったから、私はあなたにたくさんの物を任せよう。主人の喜びをともに喜んでくれ。』"
+    },
+    {
+      "number": 24,
+      "ko": "한 달란트 받았던 자는 와서 이르되 주인이여 당신은 굳은 사람이라 심지 않은 데서 거두고 헤치지 않은 데서 모으는 줄을 내가 알았으므로",
+      "en": "\"Then the man who had received the one talent came. 'Master,' he said, 'I knew that you are a hard man, harvesting where you have not sown and gathering where you have not scattered seed.",
+      "de": "Da trat auch herzu, der einen Zentner empfangen hatte, und sprach: Herr, ich wußte, das du ein harter Mann bist: du schneidest, wo du nicht gesät hast, und sammelst, wo du nicht gestreut hast;",
+      "zh": "那领一千的也来，说：『主啊，我知道你是忍心的人，没有种的地方要收割，没有散的地方要聚敛，",
+      "ja": "ところが、一タラント預かっていた者も来て、言った。『ご主人さま。あなたは、蒔かない所から刈り取り、散らさない所から集めるひどい方だとわかっていました。"
+    },
+    {
+      "number": 25,
+      "ko": "두려워하여 나가서 당신의 달란트를 땅에 감추어 두었었나이다 보소서 당신의 것을 가지셨나이다",
+      "en": "So I was afraid and went out and hid your talent in the ground. See, here is what belongs to you.'",
+      "de": "und fürchtete mich, ging hin und verbarg deinen Zentner in die Erde. Siehe, da hast du das Deine.",
+      "zh": "我就害怕，去把你的一千银子埋藏在地里。请看，你的原银子在这里。』",
+      "ja": "私はこわくなり、出て行って、あなたの一タラントを地の中に隠しておきました。さあどうぞ、これがあなたの物です。』"
+    },
+    {
+      "number": 26,
+      "ko": "그 주인이 대답하여 이르되 악하고 게으른 종아 나는 심지 않은 데서 거두고 헤치지 않은 데서 모으는 줄로 네가 알았느냐",
+      "en": "\"His master replied, 'You wicked, lazy servant! So you knew that I harvest where I have not sown and gather where I have not scattered seed?",
+      "de": "Sein Herr aber antwortete und sprach zu ihm: Du Schalk und fauler Knecht! wußtest du, daß ich schneide, da ich nicht gesät habe, und sammle, da ich nicht gestreut habe?",
+      "zh": "主人回答说：『你这又恶又懒的仆人，你既知道我没有种的地方要收割，没有散的地方要聚敛，",
+      "ja": "ところが、主人は彼に答えて言った。『悪いなまけ者のしもべだ。私が蒔かない所から刈り取り、散らさない所から集めることを知っていたというのか。"
+    },
+    {
+      "number": 27,
+      "ko": "그러면 네가 마땅히 내 돈을 취리하는 자들에게나 맡겼다가 내가 돌아와서 내 원금과 이자를 받게 하였을 것이니라 하고",
+      "en": "Well then, you should have put my money on deposit with the bankers, so that when I returned I would have received it back with interest.",
+      "de": "So solltest du mein Geld zu den Wechslern getan haben, und wenn ich gekommen wäre, hätte ich das Meine zu mir genommen mit Zinsen.",
+      "zh": "就当把我的银子放给兑换银钱的人，到我来的时候，可以连本带利收回。",
+      "ja": "だったら、おまえはその私の金を、銀行に預けておくべきだった。そうすれば私は帰って来たときに、利息がついて返してもらえたのだ。"
+    },
+    {
+      "number": 28,
+      "ko": "그에게서 그 한 달란트를 빼앗아 열 달란트 가진 자에게 주라",
+      "en": "\"'Take the talent from him and give it to the one who has the ten talents.",
+      "de": "Darum nehmt von ihm den Zentner und gebt es dem, der zehn Zentner hat.",
+      "zh": "夺过他这一千来，给那有一万的。",
+      "ja": "だから、そのタラントを彼から取り上げて、それを十タラント持っている者にやりなさい。』"
+    },
+    {
+      "number": 29,
+      "ko": "무릇 있는 자는 받아 풍족하게 되고 없는 자는 그 있는 것까지 빼앗기리라",
+      "en": "For everyone who has will be given more, and he will have an abundance. Whoever does not have, even what he has will be taken from him.",
+      "de": "Denn wer da hat, dem wird gegeben werden, und er wird die Fülle haben; wer aber nicht hat, dem wird auch, was er hat, genommen werden.",
+      "zh": "因为凡有的，还要加给他，叫他有余；没有的，连他所有的也要夺过来。",
+      "ja": "だれでも持っている者は、与えられて豊かになり、持たない者は、持っているものまでも取り上げられるのです。"
+    },
+    {
+      "number": 30,
+      "ko": "이 무익한 종을 바깥 어두운 데로 내쫓으라 거기서 슬피 울며 이를 갈리라 하니라",
+      "en": "And throw that worthless servant outside, into the darkness, where there will be weeping and gnashing of teeth.'",
+      "de": "Und den unnützen Knecht werft hinaus in die Finsternis; da wird sein Heulen und Zähneklappen.",
+      "zh": "把这无用的仆人丢在外面黑暗里；在那里必要哀哭切齿了。』」",
+      "ja": "役に立たぬしもべは、外の暗やみに追い出しなさい。そこで泣いて歯ぎしりするのです。"
+    },
+    {
+      "number": 31,
+      "ko": "인자가 자기 영광으로 모든 천사와 함께 올 때에 자기 영광의 보좌에 앉으리니",
+      "en": "\"When the Son of Man comes in his glory, and all the angels with him, he will sit on his throne in heavenly glory.",
+      "de": "Wenn aber des Menschen Sohn kommen wird in seiner Herrlichkeit und alle heiligen Engel mit ihm, dann wird er sitzen auf dem Stuhl seiner Herrlichkeit,",
+      "zh": "「当人子在他荣耀里、同着众天使降临的时候，要坐在他荣耀的宝座上。",
+      "ja": "人の子が、その栄光を帯びて、すべての御使いたちを伴って来るとき、人の子はその栄光の位に着きます。"
+    },
+    {
+      "number": 32,
+      "ko": "모든 민족을 그 앞에 모으고 각각 구분하기를 목자가 양과 염소를 구분하는 것 같이 하여",
+      "en": "All the nations will be gathered before him, and he will separate the people one from another as a shepherd separates the sheep from the goats.",
+      "de": "und werden vor ihm alle Völker versammelt werden. Und er wird sie voneinander scheiden, gleich als ein Hirte die Schafe von den Böcken scheidet,",
+      "zh": "万民都要聚集在他面前。他要把他们分别出来，好像牧羊的分别绵羊山羊一般，",
+      "ja": "そして、すべての国々の民が、その御前に集められます。彼は、羊飼いが羊と山羊とを分けるように、彼らをより分け、"
+    },
+    {
+      "number": 33,
+      "ko": "양은 그 오른편에 염소는 왼편에 두리라",
+      "en": "He will put the sheep on his right and the goats on his left.",
+      "de": "und wird die Schafe zu seiner Rechten stellen und die Böcke zu seiner Linken.",
+      "zh": "把绵羊安置在右边，山羊在左边。",
+      "ja": "羊を自分の右に、山羊を左に置きます。"
+    },
+    {
+      "number": 34,
+      "ko": "그 때에 임금이 그 오른편에 있는 자들에게 이르시되 내 아버지께 복 받을 자들이여 나아와 창세로부터 너희를 위하여 예비된 나라를 상속받으라",
+      "en": "\"Then the King will say to those on his right, 'Come, you who are blessed by my Father; take your inheritance, the kingdom prepared for you since the creation of the world.",
+      "de": "Da wird dann der König sagen zu denen zu seiner Rechten: Kommt her, ihr Gesegneten meines Vaters ererbt das Reich, das euch bereitet ist von Anbeginn der Welt!",
+      "zh": "于是王要向那右边的说：『你们这蒙我父赐福的，可来承受那创世以来为你们所预备的国；",
+      "ja": "そうして、王は、その右にいる者たちに言います。『さあ、わたしの父に祝福された人たち。世の初めから、あなたがたのために備えられた御国を継ぎなさい。"
+    },
+    {
+      "number": 35,
+      "ko": "내가 주릴 때에 너희가 먹을 것을 주었고 목마를 때에 마시게 하였고 나그네 되었을 때에 영접하였고",
+      "en": "For I was hungry and you gave me something to eat, I was thirsty and you gave me something to drink, I was a stranger and you invited me in,",
+      "de": "Denn ich bin hungrig gewesen, und ihr habt mich gespeist. Ich bin durstig gewesen, und ihr habt mich getränkt. Ich bin Gast gewesen, und ihr habt mich beherbergt.",
+      "zh": "因为我饿了，你们给我吃，渴了，你们给我喝；我作客旅，你们留我住；",
+      "ja": "あなたがたは、わたしが空腹であったとき、わたしに食べる物を与え、わたしが渇いていたとき、わたしに飲ませ、わたしが旅人であったとき、わたしに宿を貸し、"
+    },
+    {
+      "number": 36,
+      "ko": "헐벗었을 때에 옷을 입혔고 병들었을 때에 돌보았고 옥에 갇혔을 때에 와서 보았느니라",
+      "en": "I needed clothes and you clothed me, I was sick and you looked after me, I was in prison and you came to visit me.'",
+      "de": "Ich bin nackt gewesen und ihr habt mich bekleidet. Ich bin krank gewesen, und ihr habt mich besucht. Ich bin gefangen gewesen, und ihr seid zu mir gekommen.",
+      "zh": "我赤身露体，你们给我穿；我病了，你们看顾我；我在监里，你们来看我。』",
+      "ja": "わたしが裸のとき、わたしに着る物を与え、わたしが病気をしたとき、わたしを見舞い、わたしが牢にいたとき、わたしをたずねてくれたからです。』"
+    },
+    {
+      "number": 37,
+      "ko": "이에 의인들이 대답하여 이르되 주여 우리가 어느 때에 주께서 주리신 것을 보고 음식을 대접하였으며 목마르신 것을 보고 마시게 하였나이까",
+      "en": "\"Then the righteous will answer him, 'Lord, when did we see you hungry and feed you, or thirsty and give you something to drink?",
+      "de": "Dann werden ihm die Gerechten antworten und sagen: Wann haben wir dich hungrig gesehen und haben dich gespeist? oder durstig und haben dich getränkt?",
+      "zh": "义人就回答说：『主啊，我们什么时候见你饿了，给你吃，渴了，给你喝？",
+      "ja": "すると、その正しい人たちは、答えて言います。『主よ。いつ、私たちは、あなたが空腹なのを見て、食べる物を差し上げ、渇いておられるのを見て、飲ませてあげましたか。"
+    },
+    {
+      "number": 38,
+      "ko": "어느 때에 나그네 되신 것을 보고 영접하였으며 헐벗으신 것을 보고 옷 입혔나이까",
+      "en": "When did we see you a stranger and invite you in, or needing clothes and clothe you?",
+      "de": "Wann haben wir dich als einen Gast gesehen und beherbergt? oder nackt und dich bekleidet?",
+      "zh": "什么时候见你作客旅，留你住，或是赤身露体，给你穿？",
+      "ja": "いつ、あなたが旅をしておられるときに、泊まらせてあげ、裸なのを見て、着る物を差し上げましたか。"
+    },
+    {
+      "number": 39,
+      "ko": "어느 때에 병드신 것이나 옥에 갇히신 것을 보고 가서 뵈었나이까 하리니",
+      "en": "When did we see you sick or in prison and go to visit you?'",
+      "de": "Wann haben wir dich krank oder gefangen gesehen und sind zu dir gekommen?",
+      "zh": "又什么时候见你病了，或是在监里，来看你呢？』",
+      "ja": "また、いつ、私たちは、あなたのご病気やあなたが牢におられるのを見て、おたずねしましたか。』"
+    },
+    {
+      "number": 40,
+      "ko": "임금이 대답하여 이르시되 내가 진실로 너희에게 이르노니 너희가 여기 내 형제 중에 지극히 작은 자 하나에게 한 것이 곧 내게 한 것이니라 하시고",
+      "en": "\"The King will reply, 'I tell you the truth, whatever you did for one of the least of these brothers of mine, you did for me.'",
+      "de": "Und der König wird antworten und sagen zu ihnen: Wahrlich ich sage euch: Was ihr getan habt einem unter diesen meinen geringsten Brüdern, das habt ihr mir getan.",
+      "zh": "王要回答说：『我实在告诉你们，这些事你们既做在我这弟兄中一个最小的身上，就是做在我身上了。』",
+      "ja": "すると、王は彼らに答えて言います。『まことに、あなたがたに告げます。あなたがたが、これらのわたしの兄弟たち、しかも最も小さい者たちのひとりにしたのは、わたしにしたのです。』"
+    },
+    {
+      "number": 41,
+      "ko": "또 왼편에 있는 자들에게 이르시되 저주를 받은 자들아 나를 떠나 마귀와 그 사자들을 위하여 예비된 영원한 불에 들어가라",
+      "en": "\"Then he will say to those on his left, 'Depart from me, you who are cursed, into the eternal fire prepared for the devil and his angels.",
+      "de": "Dann wird er auch sagen zu denen zur Linken: Gehet hin von mir, ihr Verfluchten, in das ewige Feuer, das bereitet ist dem Teufel und seinen Engeln!",
+      "zh": "王又要向那左边的说：『你们这被咒诅的人，离开我！进入那为魔鬼和他的使者所预备的永火里去！",
+      "ja": "それから、王はまた、その左にいる者たちに言います。『のろわれた者ども。わたしから離れて、悪魔とその使いたちのために用意された永遠の火にはいれ。"
+    },
+    {
+      "number": 42,
+      "ko": "내가 주릴 때에 너희가 먹을 것을 주지 아니하였고 목마를 때에 마시게 하지 아니하였고",
+      "en": "For I was hungry and you gave me nothing to eat, I was thirsty and you gave me nothing to drink,",
+      "de": "Ich bin hungrig gewesen, und ihr habt mich nicht gespeist. Ich bin durstig gewesen, und ihr habt mich nicht getränkt.",
+      "zh": "因为我饿了，你们不给我吃，渴了，你们不给我喝；",
+      "ja": "おまえたちは、わたしが空腹であったとき、食べる物をくれず、渇いていたときにも飲ませず、"
+    },
+    {
+      "number": 43,
+      "ko": "나그네 되었을 때에 영접하지 아니하였고 헐벗었을 때에 옷 입히지 아니하였고 병들었을 때와 옥에 갇혔을 때에 돌보지 아니하였느니라 하시니",
+      "en": "I was a stranger and you did not invite me in, I needed clothes and you did not clothe me, I was sick and in prison and you did not look after me.'",
+      "de": "Ich bin ein Gast gewesen, und ihr habt mich nicht beherbergt. Ich bin nackt gewesen, und ihr habt mich nicht bekleidet. Ich bin krank und gefangen gewesen, und ihr habt mich nicht besucht.",
+      "zh": "我作客旅，你们不留我住；我赤身露体，你们不给我穿；我病了，我在监里，你们不来看顾我。』",
+      "ja": "わたしが旅人であったときにも泊まらせず、裸であったときにも着る物をくれず、病気のときや牢にいたときにもたずねてくれなかった。』"
+    },
+    {
+      "number": 44,
+      "ko": "그들도 대답하여 이르되 주여 우리가 어느 때에 주께서 주리신 것이나 목마르신 것이나 나그네 되신 것이나 헐벗으신 것이나 병드신 것이나 옥에 갇히신 것을 보고 공양하지 아니하더이까",
+      "en": "\"They also will answer, 'Lord, when did we see you hungry or thirsty or a stranger or needing clothes or sick or in prison, and did not help you?'",
+      "de": "Da werden sie ihm antworten und sagen: HERR, wann haben wir dich gesehen hungrig oder durstig oder als einen Gast oder nackt oder krank oder gefangen und haben dir nicht gedient?",
+      "zh": "他们也要回答说：『主啊，我们什么时候见你饿了，或渴了，或作客旅，或赤身露体，或病了，或在监里，不伺候你呢？』",
+      "ja": "そのとき、彼らも答えて言います。『主よ。いつ、私たちは、あなたが空腹であり、渇き、旅をし、裸であり、病気をし、牢におられるのを見て、お世話をしなかったのでしょうか。』"
+    },
+    {
+      "number": 45,
+      "ko": "이에 임금이 대답하여 이르시되 내가 진실로 너희에게 이르노니 이 지극히 작은 자 하나에게 하지 아니한 것이 곧 내게 하지 아니한 것이니라 하시리니",
+      "en": "\"He will reply, 'I tell you the truth, whatever you did not do for one of the least of these, you did not do for me.'",
+      "de": "Dann wird er ihnen antworten und sagen: Wahrlich ich sage euch: Was ihr nicht getan habt einem unter diesen Geringsten, das habt ihr mir auch nicht getan.",
+      "zh": "王要回答说：『我实在告诉你们，这些事你们既不做在我这弟兄中一个最小的身上，就是不做在我身上了。』",
+      "ja": "すると、王は彼らに答えて言います。『まことに、おまえたちに告げます。おまえたちが、この最も小さい者たちのひとりにしなかったのは、わたしにしなかったのです。』"
+    },
+    {
+      "number": 46,
+      "ko": "그들은 영벌에, 의인들은 영생에 들어가리라 하시니라",
+      "en": "\"Then they will go away to eternal punishment, but the righteous to eternal life.\"",
+      "de": "Und sie werden in die ewige Pein gehen, aber die Gerechten in das ewige Leben.",
+      "zh": "这些人要往永刑里去；那些义人要往永生里去。」",
+      "ja": "こうして、この人たちは永遠の刑罰にはいり、正しい人たちは永遠のいのちにはいるのです。」"
+    }
+  ]
+}

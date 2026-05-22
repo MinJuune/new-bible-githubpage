@@ -1,0 +1,214 @@
+{
+  "book": "Numbers",
+  "chapter": 8,
+  "verses": [
+    {
+      "number": 1,
+      "ko": "여호와께서 또 모세에게 말씀하여 이르시되",
+      "en": "The LORD said to Moses,",
+      "de": "Und der HERR redete mit Mose und sprach:",
+      "zh": "耶和华晓谕摩西说：",
+      "ja": "ヱホバまたモーセに告て言たまはく"
+    },
+    {
+      "number": 2,
+      "ko": "아론에게 말하여 이르라 등불을 켤 때에는 일곱 등잔을 등잔대 앞으로 비추게 할지니라 하시매",
+      "en": "\"Speak to Aaron and say to him, 'When you set up the seven lamps, they are to light the area in front of the lampstand.'\"",
+      "de": "Rede mit Aaron und sprich zu ihm: Wenn du Lampen aufsetzt, sollst du sie also setzen, daß alle sieben vorwärts von dem Leuchter scheinen.",
+      "zh": "「你告诉亚伦说：点灯的时候，七盏灯都要向灯台前面发光。」",
+      "ja": "アロンに告て之に言へ汝燈火を燃す時は七の燈盞をして均く燈臺の前を照さしむべし"
+    },
+    {
+      "number": 3,
+      "ko": "아론이 그리하여 등불을 등잔대 앞으로 비추도록 켰으니 여호와께서 모세에게 명령하심과 같았더라",
+      "en": "Aaron did so; he set up the lamps so that they faced forward on the lampstand, just as the LORD commanded Moses.",
+      "de": "Und Aaron tat also und setzte die Lampen auf, vorwärts von dem Leuchter zu scheinen, wie der HERR dem Mose geboten hatte.",
+      "zh": "亚伦便这样行。他点灯台上的灯，使灯向前发光，是照耶和华所吩咐摩西的。",
+      "ja": "アロンすなはち然なし燈火を燈臺の前の方にむけて燃せりヱホバのモーセに命じたまへる如し"
+    },
+    {
+      "number": 4,
+      "ko": "이 등잔대의 제작법은 이러하니 곧 금을 쳐서 만든 것인데 밑판에서 그 꽃까지 쳐서 만든 것이라 모세가 여호와께서 자기에게 보이신 양식을 따라 이 등잔대를 만들었더라",
+      "en": "This is how the lampstand was made: It was made of hammered gold--from its base to its blossoms. The lampstand was made exactly like the pattern the LORD had shown Moses.",
+      "de": "Der Leuchter aber war getriebenes Gold, beide, sein Schaft und seine Blumen; nach dem Gesicht, das der HERR dem Mose gezeigt hatte, also machte er den Leuchter.",
+      "zh": "这灯台的做法是用金子锤出来的，连座带花都是锤出来的。摩西制造灯台，是照耶和华所指示的样式。",
+      "ja": "燈臺の作法は是のごとし是は槌にて椎て作れる者即ちその臺座よりその花まで槌にて椎て作れる者なりモーセ、ヱホバの己に示したまへる式樣にてらしてこの燈臺を作れり"
+    },
+    {
+      "number": 5,
+      "ko": "여호와께서 모세에게 말씀하여 이르시되",
+      "en": "The LORD said to Moses:",
+      "de": "Und der HERR redete mit Mose und sprach:",
+      "zh": "耶和华晓谕摩西说：",
+      "ja": "ヱホバ、モーセに告て言たまはく"
+    },
+    {
+      "number": 6,
+      "ko": "이스라엘 자손 중에서 레위인을 데려다가 정결하게 하라",
+      "en": "\"Take the Levites from among the other Israelites and make them ceremonially clean.",
+      "de": "Nimm die Leviten aus den Kindern Israel und reinige sie.",
+      "zh": "「你从以色列人中选出利未人来，洁净他们。",
+      "ja": "レビ人をイスラエルの子孫の中より取てこれを潔めよ"
+    },
+    {
+      "number": 7,
+      "ko": "너는 이같이 하여 그들을 정결하게 하되 곧 속죄의 물을 그들에게 뿌리고 그들에게 그들의 전신을 삭도로 밀게 하고 그 의복을 빨게 하여 몸을 정결하게 하고",
+      "en": "To purify them, do this: Sprinkle the water of cleansing on them; then have them shave their whole bodies and wash their clothes, and so purify themselves.",
+      "de": "Also sollst du aber mit ihnen tun, daß du sie reinigst: du sollst Sündwasser auf sie sprengen, und sie sollen alle ihre Haare rein abscheren und ihre Kleider waschen, so sind sie rein.",
+      "zh": "洁净他们当这样行：用除罪水弹在他们身上，又叫他们用剃头刀刮全身，洗衣服，洁净自己。",
+      "ja": "汝かく彼らに爲て之を潔むべし即ち罪を潔むる水を彼等に灑ぎかけ彼等にその身をことごとく剃しめその衣服を洗はしめて之を潔め"
+    },
+    {
+      "number": 8,
+      "ko": "또 그들에게 수송아지 한 마리를 번제물로, 기름 섞은 고운 가루를 그 소제물로 가져오게 하고 그 외에 너는 또 수송아지 한 마리를 속죄제물로 가져오고",
+      "en": "Have them take a young bull with its grain offering of fine flour mixed with oil; then you are to take a second young bull for a sin offering.",
+      "de": "Dann sollen sie nehmen einen jungen Farren und sein Speisopfer, Semmelmehl, mit Öl gemengt; und einen andern jungen Farren sollst du zum Sündopfer nehmen.",
+      "zh": "然后叫他们取一只公牛犊，并同献的素祭，就是调油的细面；你要另取一只公牛犊作赎罪祭。",
+      "ja": "而して彼等に若き牡牛一匹と麥粉に油を和たる者を取しめよ汝また別に若き牡牛を罪祭のために取べし"
+    },
+    {
+      "number": 9,
+      "ko": "레위인을 회막 앞에 나오게 하고 이스라엘 자손의 온 회중을 모으고",
+      "en": "Bring the Levites to the front of the Tent of Meeting and assemble the whole Israelite community.",
+      "de": "Und sollst die Leviten vor die Hütte des Stifts bringen und die ganze Gemeinde der Kinder Israel versammeln",
+      "zh": "将利未人奉到会幕前，招聚以色列全会众。",
+      "ja": "斯て汝レビ人を集會の幕屋の前に携きたりてイスラエルの子孫の全會を集め"
+    },
+    {
+      "number": 10,
+      "ko": "레위인을 여호와 앞에 나오게 하고 이스라엘 자손이 그들에게 안수하게 한 후에",
+      "en": "You are to bring the Levites before the LORD, and the Israelites are to lay their hands on them.",
+      "de": "und die Leviten vor den HERRN bringen; und die Kinder Israel sollen ihre Hände auf die Leviten legen,",
+      "zh": "将利未人奉到耶和华面前，以色列人要按手在他们头上。",
+      "ja": "而してレビ人をヱホバの前に進ましめてイスラエルの子孫に其手をレビ人の上に按しむべし"
+    },
+    {
+      "number": 11,
+      "ko": "아론이 이스라엘 자손을 위하여 레위인을 흔들어 바치는 제물로 여호와 앞에 드릴지니 이는 그들에게 여호와께 봉사하게 하기 위함이라",
+      "en": "Aaron is to present the Levites before the LORD as a wave offering from the Israelites, so that they may be ready to do the work of the LORD.",
+      "de": "und Aaron soll die Leviten vor dem HERRN weben als Webeopfer von den Kindern Israel, auf daß sie dienen mögen in dem Amt des HERRN.",
+      "zh": "亚伦也将他们奉到耶和华面前，为以色列人当作摇祭，使他们好办耶和华的事。",
+      "ja": "而してイスラエルの子孫の爲にレビ人を搖祭となしてヱホバの前に献ぐべし是彼らをしてヱホバの勤務を爲しめんためなり"
+    },
+    {
+      "number": 12,
+      "ko": "레위인으로 수송아지들의 머리에 안수하게 하고 네가 그 하나는 속죄제물로, 하나는 번제물로 여호와께 드려 레위인을 속죄하고",
+      "en": "\"After the Levites lay their hands on the heads of the bulls, use the one for a sin offering to the LORD and the other for a burnt offering, to make atonement for the Levites.",
+      "de": "Und die Leviten sollen ihre Hände aufs Haupt der Farren legen, und einer soll zum Sündopfer, der andere zum Brandopfer dem HERRN gemacht werden, die Leviten zu versöhnen.",
+      "zh": "利未人要按手在那两只牛的头上；你要将一只作赎罪祭，一只作燔祭，献给耶和华，为利未人赎罪。",
+      "ja": "斯て汝レビ人にその手をかの牛の頭に按しめその一を燔祭となしてヱホバに献げ之をもてレビ人のために贖罪をなすべし"
+    },
+    {
+      "number": 13,
+      "ko": "레위인을 아론과 그의 아들들 앞에 세워 여호와께 요제로 드릴지니라",
+      "en": "Have the Levites stand in front of Aaron and his sons and then present them as a wave offering to the LORD.",
+      "de": "Und sollst die Leviten vor Aaron und seine Söhne stellen und vor dem HERRN weben,",
+      "zh": "你也要使利未人站在亚伦和他儿子面前，将他们当作摇祭奉给耶和华。",
+      "ja": "即ちレビ人をアロンとその子等の前に立しめ之を搖祭となしてヱホバに献ぐべし"
+    },
+    {
+      "number": 14,
+      "ko": "너는 이같이 이스라엘 자손 중에서 레위인을 구별하라 그리하면 그들이 내게 속할 것이라",
+      "en": "In this way you are to set the Levites apart from the other Israelites, and the Levites will be mine.",
+      "de": "und sollst sie also aussondern von den Kindern Israel, daß sie mein seien.",
+      "zh": "「这样，你从以色列人中将利未人分别出来，利未人便要归我。",
+      "ja": "汝レビ人をイスラエルの子孫の中より區分ちレビ人をしてわが所屬とならしむべし"
+    },
+    {
+      "number": 15,
+      "ko": "네가 그들을 정결하게 하여 요제로 드린 후에 그들이 회막에 들어가서 봉사할 것이니라",
+      "en": "\"After you have purified the Levites and presented them as a wave offering, they are to come to do their work at the Tent of Meeting.",
+      "de": "Darnach sollen sie hineingehen, daß sie dienen in der Hütte des Stifts. Also sollst du sie reinigen und weben;",
+      "zh": "此后利未人要进去办会幕的事，你要洁净他们，将他们当作摇祭奉上；",
+      "ja": "斯て後レビ人は入て集會の幕屋の役事をなすべし汝かれらを潔め之を献げて搖祭となすべし"
+    },
+    {
+      "number": 16,
+      "ko": "그들은 이스라엘 자손 중에서 내게 온전히 드린 바 된 자라 이스라엘 자손 중 모든 초태생 곧 모든 처음 태어난 자 대신 내가 그들을 취하였나니",
+      "en": "They are the Israelites who are to be given wholly to me. I have taken them as my own in place of the firstborn, the first male offspring from every Israelite woman.",
+      "de": "denn sie sind mein Geschenk von den Kindern Israel, und ich habe sie mir genommen für alles, was die Mutter bricht, nämlich für die Erstgeburt aller Kinder Israel.",
+      "zh": "因为他们是从以色列人中全然给我的，我拣选他们归我，是代替以色列人中一切头生的。",
+      "ja": "彼らはイスラエルの子孫の中よりして我に献げらるる者なりイスラエルの子孫の中なる始に生れたる者すなはちその首出子の代に我かれらを取なり"
+    },
+    {
+      "number": 17,
+      "ko": "이스라엘 자손 중에 처음 태어난 것은 사람이든지 짐승이든지 다 내게 속하였음은 내가 애굽 땅에서 모든 처음 태어난 자를 치던 날에 그들을 내게 구별하였음이라",
+      "en": "Every firstborn male in Israel, whether man or animal, is mine. When I struck down all the firstborn in Egypt, I set them apart for myself.",
+      "de": "Denn alle Erstgeburt unter den Kindern Israel ist mein, der Menschen und des Viehes, seit der Zeit ich alle Erstgeburt in Ägyptenland schlug und heiligte sie mir",
+      "zh": "以色列人中一切头生的，连人带牲畜，都是我的。我在埃及地击杀一切头生的那天，将他们分别为圣归我。",
+      "ja": "イスラエルの子孫の中の首出子は人たるも獣たるも凡てわが所屬となるべし其は我エジプトの地において首出子を盡く撃ころしたる時に彼等を聖者となして我に屬せしめたればなり"
+    },
+    {
+      "number": 18,
+      "ko": "이러므로 내가 이스라엘 자손 중 모든 처음 태어난 자 대신 레위인을 취하였느니라",
+      "en": "And I have taken the Levites in place of all the firstborn sons in Israel.",
+      "de": "und nahm die Leviten an für alle Erstgeburt unter den Kindern Israel",
+      "zh": "我拣选利未人代替以色列人中一切头生的。",
+      "ja": "是をもて我イスラエルの子孫の中の一切の首出子の代にレビ人を取なり"
+    },
+    {
+      "number": 19,
+      "ko": "내가 이스라엘 자손 중에서 레위인을 취하여 그들을 아론과 그의 아들들에게 주어 그들로 회막에서 이스라엘 자손을 대신하여 봉사하게 하며 또 이스라엘 자손을 위하여 속죄하게 하였나니 이는 이스라엘 자손이 성소에 가까이 할 때에 그들 중에 재앙이 없게 하려 하였음이니라",
+      "en": "Of all the Israelites, I have given the Levites as gifts to Aaron and his sons to do the work at the Tent of Meeting on behalf of the Israelites and to make atonement for them so that no plague will strike the Israelites when they go near the sanctuary.\"",
+      "de": "und gab sie zum Geschenk Aaron und seinen Söhnen aus den Kindern Israel, daß sie dienen im Amt der Kinder Israel in der Hütte des Stifts, die Kinder Israel zu versöhnen, auf daß nicht unter den Kindern Israel sei eine Plage, so sie sich nahen wollten zum Heiligtum.",
+      "zh": "我从以色列人中将利未人当作赏赐给亚伦和他的儿子，在会幕中办以色列人的事，又为以色列人赎罪，免得他们挨近圣所，有灾殃临到他们中间。」",
+      "ja": "我イスラエルの子孫の中よりレビ人を取て之をアロンとその子等に與へ之をして集合の幕屋においてイスラエルの子孫に代てその役事を爲しめまたイスラエルの子孫のために贖罪をなさしめん是イスラエルの子孫が聖所に近く時にイスラエルの子孫の中に災害の起ざらんためなり"
+    },
+    {
+      "number": 20,
+      "ko": "모세와 아론과 이스라엘 자손의 온 회중이 여호와께서 레위인에 대하여 모세에게 명령하신 것을 다 따라 레위인에게 행하였으되 곧 이스라엘 자손이 그와 같이 그들에게 행하였더라",
+      "en": "Moses, Aaron and the whole Israelite community did with the Levites just as the LORD commanded Moses.",
+      "de": "Und Mose mit Aaron samt der ganzen Gemeinde der Kinder Israel taten mit den Leviten alles, wie der HERR dem Mose geboten hatte.",
+      "zh": "摩西、亚伦，并以色列全会众便向利未人如此行。凡耶和华指着利未人所吩咐摩西的，以色列人就向他们这样行。",
+      "ja": "モーセとアロンおよびイスラエルの子孫の全會衆ヱホバがレビ人の事につきてモーセに命じたまへる所に悉くしたがひてレビ人におこなへり即ちイスラエルの子孫かくの如く彼等に行ひたり"
+    },
+    {
+      "number": 21,
+      "ko": "레위인이 이에 죄에서 스스로 깨끗하게 하고 그들의 옷을 빨매 아론이 그들을 여호와 앞에 요제로 드리고 그가 또 그들을 위하여 속죄하여 정결하게 한",
+      "en": "The Levites purified themselves and washed their clothes. Then Aaron presented them as a wave offering before the LORD and made atonement for them to purify them.",
+      "de": "Und die Leviten entsündigten sich und wuschen ihre Kleider, und Aaron webte sie vor dem HERRN und versöhnte sie, daß sie rein wurden.",
+      "zh": "于是利未人洁净自己，除了罪，洗了衣服；亚伦将他们当作摇祭奉到耶和华面前，又为他们赎罪，洁净他们。",
+      "ja": "レビ人是に於てその身を潔め衣服を洗ひたればアロンかれらをヱホバの前に献て搖祭となしアロンまた彼らのために贖罪をなして之を潔めたり"
+    },
+    {
+      "number": 22,
+      "ko": "후에 레위인이 회막에 들어가서 아론과 그의 아들들 앞에서 봉사하니라 여호와께서 레위인의 일에 대하여 모세에게 명령하게 하신 것을 따라 그와 같이 그들에게 행하였더라",
+      "en": "After that, the Levites came to do their work at the Tent of Meeting under the supervision of Aaron and his sons. They did with the Levites just as the LORD commanded Moses.",
+      "de": "Darnach gingen sie hinein, daß sie ihr Amt täten in der Hütte des Stifts vor Aaron und seinen Söhnen. Wie der HERR dem Mose geboten hatte über die Leviten, also taten sie mit ihnen.",
+      "zh": "然后利未人进去，在亚伦和他儿子面前，在会幕中办事。耶和华指着利未人怎样吩咐摩西，以色列人就怎样向他们行了。",
+      "ja": "斯て後レビ人は集會の幕屋に入てアロンとその子等の前にてその役事を爲り彼等はレビ人の事につきてヱホバのモーセに命じたまへる所に循ひて斯のごとく之を行ひたり"
+    },
+    {
+      "number": 23,
+      "ko": "여호와께서 또 모세에게 말씀하여 이르시되",
+      "en": "The LORD said to Moses,",
+      "de": "Und der HERR redete mit Mose und sprach:",
+      "zh": "耶和华晓谕摩西说：",
+      "ja": "ヱホバまたモーセに告て言たまはく"
+    },
+    {
+      "number": 24,
+      "ko": "레위인은 이같이 할지니 곧 이십오 세 이상으로는 회막에 들어가서 복무하고 봉사할 것이요",
+      "en": "\"This applies to the Levites: Men twenty-five years old or more shall come to take part in the work at the Tent of Meeting,",
+      "de": "Das ist's, was den Leviten gebührt: von fünfundzwanzig Jahren und darüber taugen sie zum Amt und Dienst in der Hütte des Stifts;",
+      "zh": "「利未人是这样：从二十五岁以外，他们要前来任职，办会幕的事。",
+      "ja": "レビ人は斯なすべし即ち二十五歳以上の者は軍団に入て集會の幕屋の役事をなすべし"
+    },
+    {
+      "number": 25,
+      "ko": "오십 세부터는 그 일을 쉬어 봉사하지 아니할 것이나",
+      "en": "but at the age of fifty, they must retire from their regular service and work no longer.",
+      "de": "aber von dem fünfzigsten Jahr an sollen sie ledig sein vom Amt des Dienstes und sollen nicht mehr dienen,",
+      "zh": "到了五十岁要停工退任，不再办事，",
+      "ja": "然ど五十歳よりは軍団を退きて休み重て役事をなすべからず"
+    },
+    {
+      "number": 26,
+      "ko": "그의 형제와 함께 회막에서 돕는 직무를 지킬 것이요 일하지 아니할 것이라 너는 레위인의 직무에 대하여 이같이 할지니라",
+      "en": "They may assist their brothers in performing their duties at the Tent of Meeting, but they themselves must not do the work. This, then, is how you are to assign the responsibilities of the Levites.\"",
+      "de": "sondern ihren Brüdern helfen des Dienstes warten an der Hütte des Stifts; des Amts aber sollen sie nicht pflegen. Also sollst du mit den Leviten tun, daß ein jeglicher seines Dienstes warte.",
+      "zh": "只要在会幕里，和他们的弟兄一同伺候，谨守所吩咐的，不再办事了。至于所吩咐利未人的，你要这样向他们行。」",
+      "ja": "唯集會の幕屋においてその兄弟等をつかさどり且伺ひ守ることを勤むべし役事を爲すべからず汝レビ人をしてその職務をなさしむるには斯のごとくなすべし"
+    }
+  ]
+}

@@ -1,0 +1,238 @@
+{
+  "book": "Proverbs",
+  "chapter": 22,
+  "verses": [
+    {
+      "number": 1,
+      "ko": "많은 재물보다 명예를 택할 것이요 은이나 금보다 은총을 더욱 택할 것이니라",
+      "en": "A good name is more desirable than great riches; to be esteemed is better than silver or gold.",
+      "de": "Ein guter Ruf ist köstlicher denn großer Reichtum, und Gunst besser denn Silber und Gold.",
+      "zh": "美名胜过大财； 恩宠强如金银。",
+      "ja": "嘉名は大なる富にまさり恩寵は銀また金よりも佳し"
+    },
+    {
+      "number": 2,
+      "ko": "가난한 자와 부한 자가 함께 살거니와 그 모두를 지으신 이는 여호와시니라",
+      "en": "Rich and poor have this in common: The LORD is the Maker of them all.",
+      "de": "Reiche und Arme müssen untereinander sein; der HERR hat sie alle gemacht.",
+      "zh": "富户穷人在世相遇， 都为耶和华所造。",
+      "ja": "富者と貧者と偕に世にをる 凡て之を造りし者はヱホバなり"
+    },
+    {
+      "number": 3,
+      "ko": "슬기로운 자는 재앙을 보면 숨어 피하여도 어리석은 자는 나가다가 해를 받느니라",
+      "en": "A prudent man sees danger and takes refuge, but the simple keep going and suffer for it.",
+      "de": "Der Kluge sieht das Unglück und verbirgt sich; die Unverständigen gehen hindurch und werden beschädigt.",
+      "zh": "通达人见祸藏躲； 愚蒙人前往受害。",
+      "ja": "賢者は災禍を見てみづから避け 拙者はすすみて罰をうく"
+    },
+    {
+      "number": 4,
+      "ko": "겸손과 여호와를 경외함의 보상은 재물과 영광과 생명이니라",
+      "en": "Humility and the fear of the LORD bring wealth and honor and life.",
+      "de": "Wo man leidet in des HERRN Furcht, da ist Reichtum, Ehre und Leben.",
+      "zh": "敬畏耶和华心存谦卑， 就得富有、尊荣、生命为赏赐。",
+      "ja": "謙遜とヱホバを畏るる事との報は富と尊貴と生命となり"
+    },
+    {
+      "number": 5,
+      "ko": "패역한 자의 길에는 가시와 올무가 있거니와 영혼을 지키는 자는 이를 멀리 하느니라",
+      "en": "In the paths of the wicked lie thorns and snares, but he who guards his soul stays far from them.",
+      "de": "Stachel und Stricke sind auf dem Wege des Verkehrten; wer sich aber davon fernhält, bewahrt sein Leben.",
+      "zh": "乖僻人的路上有荆棘和网罗； 保守自己生命的，必要远离。",
+      "ja": "悖れる者の途には荊棘と罟とあり 霊魂を守る者は遠くこれを離れん"
+    },
+    {
+      "number": 6,
+      "ko": "마땅히 행할 길을 아이에게 가르치라 그리하면 늙어도 그것을 떠나지 아니하리라",
+      "en": "Train a child in the way he should go, and when he is old he will not turn from it.",
+      "de": "Wie man einen Knaben gewöhnt, so läßt er nicht davon, wenn er alt wird.",
+      "zh": "教养孩童，使他走当行的道， 就是到老他也不偏离。",
+      "ja": "子をその道に從ひて敎へよ 然ばその老たる時も之を離れじ"
+    },
+    {
+      "number": 7,
+      "ko": "부자는 가난한 자를 주관하고 빚진 자는 채주의 종이 되느니라",
+      "en": "The rich rule over the poor, and the borrower is servant to the lender.",
+      "de": "Der Reiche herrscht über die Armen; und wer borgt, ist des Leihers Knecht.",
+      "zh": "富户管辖穷人； 欠债的是债主的仆人。",
+      "ja": "富者は貧者を治め借者は貸人の僕となる"
+    },
+    {
+      "number": 8,
+      "ko": "악을 뿌리는 자는 재앙을 거두리니 그 분노의 기세가 쇠하리라",
+      "en": "He who sows wickedness reaps trouble, and the rod of his fury will be destroyed.",
+      "de": "Wer Unrecht sät, der wird Mühsal ernten und wird durch die Rute seiner Bosheit umkommen.",
+      "zh": "撒罪孽的，必收灾祸； 他逞怒的杖也必废掉。",
+      "ja": "惡を播くものは禍害を穡り その怒の杖は廢るべし"
+    },
+    {
+      "number": 9,
+      "ko": "선한 눈을 가진 자는 복을 받으리니 이는 양식을 가난한 자에게 줌이니라",
+      "en": "A generous man will himself be blessed, for he shares his food with the poor.",
+      "de": "Ein gütiges Auge wird gesegnet; denn er gibt von seinem Brot den Armen.",
+      "zh": "眼目慈善的，就必蒙福， 因他将食物分给穷人。",
+      "ja": "人を見て惠む者はまた惠まる 此はその糧を貧者に與ふればなり"
+    },
+    {
+      "number": 10,
+      "ko": "거만한 자를 쫓아내면 다툼이 쉬고 싸움과 수욕이 그치느니라",
+      "en": "Drive out the mocker, and out goes strife; quarrels and insults are ended.",
+      "de": "Treibe den Spötter aus, so geht der Zank weg, so hört auf Hader und Schmähung.",
+      "zh": "赶出亵慢人，争端就消除； 纷争和羞辱也必止息。",
+      "ja": "嘲笑者を逐へば爭論も亦さり 且闘諍も恥辱もやむ"
+    },
+    {
+      "number": 11,
+      "ko": "마음의 정결을 사모하는 자의 입술에는 덕이 있으므로 임금이 그의 친구가 되느니라",
+      "en": "He who loves a pure heart and whose speech is gracious will have the king for his friend.",
+      "de": "Wer ein treues Herz und liebliche Rede hat, des Freund ist der König.",
+      "zh": "喜爱清心的人因他嘴上的恩言， 王必与他为友。",
+      "ja": "心の潔きを愛する者はその口唇に憐憫をもてり 王その友とならん"
+    },
+    {
+      "number": 12,
+      "ko": "여호와의 눈은 지식 있는 사람을 지키시나 사악한 사람의 말은 패하게 하시느니라",
+      "en": "The eyes of the LORD keep watch over knowledge, but he frustrates the words of the unfaithful.",
+      "de": "Die Augen des HERRN behüten guten Rat; aber die Worte des Verächters verkehrt er.",
+      "zh": "耶和华的眼目眷顾聪明人， 却倾败奸诈人的言语。",
+      "ja": "ヱホバの目は知識ある者を守る 彼は悖れる者の言を敗りたまふ"
+    },
+    {
+      "number": 13,
+      "ko": "게으른 자는 말하기를 사자가 밖에 있은즉 내가 나가면 거리에서 찢기겠다 하느니라",
+      "en": "The sluggard says, \"There is a lion outside!\" or, \"I will be murdered in the streets!\"",
+      "de": "Der Faule spricht: Es ist ein Löwe draußen, ich möchte erwürgt werden auf der Gasse.",
+      "zh": "懒惰人说：外头有狮子； 我在街上就必被杀。",
+      "ja": "惰者はいふ獅そとにあり われ衢にて殺されんと"
+    },
+    {
+      "number": 14,
+      "ko": "음녀의 입은 깊은 함정이라 여호와의 노를 당한 자는 거기 빠지리라",
+      "en": "The mouth of an adulteress is a deep pit; he who is under the LORD'S wrath will fall into it.",
+      "de": "Der Huren Mund ist eine Tiefe Grube; wem der HERR ungnädig ist, der fällt hinein.",
+      "zh": "淫妇的口为深坑； 耶和华所憎恶的，必陷在其中。",
+      "ja": "妓婦の口は深き坑なり ヱホバに憎まるる者これに陷らん"
+    },
+    {
+      "number": 15,
+      "ko": "아이의 마음에는 미련한 것이 얽혔으나 징계하는 채찍이 이를 멀리 쫓아내리라",
+      "en": "Folly is bound up in the heart of a child, but the rod of discipline will drive it far from him.",
+      "de": "Torheit steckt dem Knaben im Herzen; aber die Rute der Zucht wird sie fern von ihm treiben.",
+      "zh": "愚蒙迷住孩童的心， 用管教的杖可以远远赶除。",
+      "ja": "痴なること子の心の中に繋がる 懲治の鞭これを逐いだす"
+    },
+    {
+      "number": 16,
+      "ko": "이익을 얻으려고 가난한 자를 학대하는 자와 부자에게 주는 자는 가난하여질 뿐이니라",
+      "en": "He who oppresses the poor to increase his wealth and he who gives gifts to the rich--both come to poverty.",
+      "de": "Wer dem Armen Unrecht tut, daß seines Guts viel werde, der wird auch einem Reichen geben, und Mangel haben.",
+      "zh": "欺压贫穷为要利己的， 并送礼与富户的，都必缺乏。",
+      "ja": "貧者を虐げて自らを富さんとする者と富者に與ふる者とは遂にかならず貧しくなる"
+    },
+    {
+      "number": 17,
+      "ko": "너는 귀를 기울여 지혜 있는 자의 말씀을 들으며 내 지식에 마음을 둘지어다",
+      "en": "Pay attention and listen to the sayings of the wise; apply your heart to what I teach,",
+      "de": "Neige deine Ohren und höre die Worte der Weisen und nimm zu Herzen meine Lehre.",
+      "zh": "你须侧耳听受智慧人的言语， 留心领会我的知识。",
+      "ja": "汝の耳を傾ぶけて智慧ある者の言をきき且なんぢの心をわが知識に用ゐよ"
+    },
+    {
+      "number": 18,
+      "ko": "이것을 네 속에 보존하며 네 입술 위에 함께 있게 함이 아름다우니라",
+      "en": "for it is pleasing when you keep them in your heart and have all of them ready on your lips.",
+      "de": "Denn es wird dir sanft tun, wo du sie wirst im Sinne behalten und sie werden miteinander durch deinen Mund wohl geraten.",
+      "zh": "你若心中存记， 嘴上咬定，这便为美。",
+      "ja": "之を汝の腹にたもちて 盡くなんぢの口唇にそなはらしめば樂しかるべし"
+    },
+    {
+      "number": 19,
+      "ko": "내가 네게 여호와를 의뢰하게 하려 하여 이것을 오늘 특별히 네게 알게 하였노니",
+      "en": "So that your trust may be in the LORD, I teach you today, even you.",
+      "de": "Daß deine Hoffnung sei auf den HERRN, erinnere ich dich an solches heute dir zugut.",
+      "zh": "我今日以此特特指教你， 为要使你倚靠耶和华。",
+      "ja": "汝をしてヱホバに倚賴ましめんが爲にわれ今日これを汝に敎ふ"
+    },
+    {
+      "number": 20,
+      "ko": "내가 모략과 지식의 아름다운 것을 너를 위해 기록하여",
+      "en": "Have I not written thirty sayings for you, sayings of counsel and knowledge,",
+      "de": "Habe ich dir's nicht mannigfaltig vorgeschrieben mit Rat und Lehren,",
+      "zh": "谋略和知识的美事， 我岂没有写给你吗？",
+      "ja": "われ勸言と知識とをふくみたる勝れし言を汝の爲に録ししにあらずや"
+    },
+    {
+      "number": 21,
+      "ko": "네가 진리의 확실한 말씀을 깨닫게 하며 또 너를 보내는 자에게 진리의 말씀으로 회답하게 하려 함이 아니냐",
+      "en": "teaching you true and reliable words, so that you can give sound answers to him who sent you?",
+      "de": "daß ich dir zeigte einen gewissen Grund der Wahrheit, daß du recht antworten könntest denen, die dich senden?",
+      "zh": "要使你知道真言的实理， 你好将真言回复那打发你来的人。",
+      "ja": "これ汝をして眞の言の確實なることを暁らしめ 且なんぢを遣しし者に眞の言を持歸らしめん爲なり"
+    },
+    {
+      "number": 22,
+      "ko": "약한 자를 그가 약하다고 탈취하지 말며 곤고한 자를 성문에서 압제하지 말라",
+      "en": "Do not exploit the poor because they are poor and do not crush the needy in court,",
+      "de": "Beraube den Armen nicht, ob er wohl arm ist, und unterdrücke den Elenden nicht im Tor.",
+      "zh": "贫穷人，你不可因他贫穷就抢夺他的物， 也不可在城门口欺压困苦人；",
+      "ja": "弱き者を弱きがために掠むることなかれ 艱難者を門にて壓つくること勿れ"
+    },
+    {
+      "number": 23,
+      "ko": "대저 여호와께서 신원하여 주시고 또 그를 노략하는 자의 생명을 빼앗으시리라",
+      "en": "for the LORD will take up their case and will plunder those who plunder them.",
+      "de": "Denn der HERR wird ihre Sache führen und wird ihre Untertreter untertreten.",
+      "zh": "因耶和华必为他辨屈； 抢夺他的，耶和华必夺取那人的命。",
+      "ja": "そはヱホバその訴を糺し且かれらを害ふものの生命をそこなはん"
+    },
+    {
+      "number": 24,
+      "ko": "노를 품는 자와 사귀지 말며 울분한 자와 동행하지 말지니",
+      "en": "Do not make friends with a hot-tempered man, do not associate with one easily angered,",
+      "de": "Geselle dich nicht zum Zornigen und halte dich nicht zu einem grimmigen Mann;",
+      "zh": "好生气的人，不可与他结交； 暴怒的人，不可与他来往；",
+      "ja": "怒る者と交ること勿れ 憤ほる人とともに往ことなかれ"
+    },
+    {
+      "number": 25,
+      "ko": "그의 행위를 본받아 네 영혼을 올무에 빠뜨릴까 두려움이니라",
+      "en": "or you may learn his ways and get yourself ensnared.",
+      "de": "du möchtest seinen Weg lernen und an deiner Seele Schaden nehmen.",
+      "zh": "恐怕你效法他的行为， 自己就陷在网罗里。",
+      "ja": "恐くは汝その道に效ひてみづから罟に陷らん"
+    },
+    {
+      "number": 26,
+      "ko": "너는 사람과 더불어 손을 잡지 말며 남의 빚에 보증을 서지 말라",
+      "en": "Do not be a man who strikes hands in pledge or puts up security for debts;",
+      "de": "Sei nicht bei denen, die ihre Hand verhaften und für Schuld Bürge werden;",
+      "zh": "不要与人击掌， 不要为欠债的作保。",
+      "ja": "なんぢ人と手をうつ者となることなかれ 人の負債の保證をなすこと勿れ"
+    },
+    {
+      "number": 27,
+      "ko": "만일 갚을 것이 네게 없으면 네 누운 침상도 빼앗길 것이라 네가 어찌 그리하겠느냐",
+      "en": "if you lack the means to pay, your very bed will be snatched from under you.",
+      "de": "denn wo du es nicht hast, zu bezahlen, so wird man dir dein Bett unter dir wegnehmen.",
+      "zh": "你若没有什么偿还， 何必使人夺去你睡卧的床呢？",
+      "ja": "汝もし償ふべきものあらずば人なんぢの下なる臥牀までも奪ひ取ん 是豈よからんや"
+    },
+    {
+      "number": 28,
+      "ko": "네 선조가 세운 옛 지계석을 옮기지 말지니라",
+      "en": "Do not move an ancient boundary stone set up by your forefathers.",
+      "de": "Verrücke nicht die vorigen Grenzen, die deine Väter gemacht haben.",
+      "zh": "你先祖所立的地界， 你不可挪移。",
+      "ja": "なんぢの先祖がたてし古き地界を移すこと勿れ"
+    },
+    {
+      "number": 29,
+      "ko": "네가 자기의 일에 능숙한 사람을 보았느냐 이러한 사람은 왕 앞에 설 것이요 천한 자 앞에 서지 아니하리라",
+      "en": "Do you see a man skilled in his work? He will serve before kings; he will not serve before obscure men.",
+      "de": "Siehst du einen Mann behend in seinem Geschäft, der wird vor den Königen stehen und wird nicht stehen vor den Unedlen.",
+      "zh": "你看见办事殷勤的人吗？ 他必站在君王面前， 必不站在下贱人面前。",
+      "ja": "汝その業に巧なる人を見るか 斯る人は王の前に立ん かならず賤者の前にたたじ"
+    }
+  ]
+}

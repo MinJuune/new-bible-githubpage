@@ -1,0 +1,326 @@
+{
+  "book": "Psalms",
+  "chapter": 37,
+  "verses": [
+    {
+      "number": 1,
+      "ko": "악을 행하는 자들 때문에 불평하지 말며 불의를 행하는 자들을 시기하지 말지어다",
+      "en": "Of David. Do not fret because of evil men or be envious of those who do wrong;",
+      "de": "Ein Psalm Davids. Erzürne dich nicht über die Bösen; sei nicht neidisch auf die Übeltäter.",
+      "zh": "大卫的诗。 不要为作恶的心怀不平， 也不要向那行不义的生出嫉妒。",
+      "ja": "惡をなすものの故をもて心をなやめ 不義をおこなふ者にむかひて嫉をおこすなかれ"
+    },
+    {
+      "number": 2,
+      "ko": "그들은 풀과 같이 속히 베임을 당할 것이며 푸른 채소 같이 쇠잔할 것임이로다",
+      "en": "for like the grass they will soon wither, like green plants they will soon die away.",
+      "de": "Denn wie das Gras werden sie bald abgehauen, und wie das grüne Kraut werden sie verwelken.",
+      "zh": "因为他们如草快被割下， 又如青菜快要枯干。",
+      "ja": "かれらはやがて草のごとくかりとられ靑菜のごとく打萎るべければなり"
+    },
+    {
+      "number": 3,
+      "ko": "여호와를 의뢰하고 선을 행하라 땅에 머무는 동안 그의 성실을 먹을 거리로 삼을지어다",
+      "en": "Trust in the LORD and do good; dwell in the land and enjoy safe pasture.",
+      "de": "Hoffe auf den HERRN und tue Gutes; bleibe im Lande und nähre dich redlich.",
+      "zh": "你当倚靠耶和华而行善， 住在地上，以他的信实为粮；",
+      "ja": "ヱホバによりたのみて善をおこなへ この國にとどまり眞實をもて糧とせよ"
+    },
+    {
+      "number": 4,
+      "ko": "또 여호와를 기뻐하라 그가 네 마음의 소원을 네게 이루어 주시리로다",
+      "en": "Delight yourself in the LORD and he will give you the desires of your heart.",
+      "de": "Habe Deine Lust am HERRN; der wird dir geben, was dein Herz wünschet.",
+      "zh": "又要以耶和华为乐， 他就将你心里所求的赐给你。",
+      "ja": "ヱホバによりて歓喜をなせ ヱホバはなんぢが心のねがひを汝にあたへたまはん"
+    },
+    {
+      "number": 5,
+      "ko": "네 길을 여호와께 맡기라 그를 의지하면 그가 이루시고",
+      "en": "Commit your way to the LORD; trust in him and he will do this:",
+      "de": "Befiehl dem HERRN deine Wege und hoffe auf ihn; er wird's wohl machen",
+      "zh": "当将你的事交托耶和华， 并倚靠他，他就必成全。",
+      "ja": "なんぢの途をヱホバにゆだねよ 彼によりたのまば之をなしとげ"
+    },
+    {
+      "number": 6,
+      "ko": "네 의를 빛 같이 나타내시며 네 공의를 정오의 빛 같이 하시리로다",
+      "en": "He will make your righteousness shine like the dawn, the justice of your cause like the noonday sun.",
+      "de": "und wird deine Gerechtigkeit hervorbringen wie das Licht und dein Recht wie den Mittag.",
+      "zh": "他要使你的公义如光发出， 使你的公平明如正午。",
+      "ja": "光のごとくなんぢの義をあきらかにし午日のごとくなんぢの訟をあきらかにしたまはん"
+    },
+    {
+      "number": 7,
+      "ko": "여호와 앞에 잠잠하고 참고 기다리라 자기 길이 형통하며 악한 꾀를 이루는 자 때문에 불평하지 말지어다",
+      "en": "Be still before the LORD and wait patiently for him; do not fret when men succeed in their ways, when they carry out their wicked schemes.",
+      "de": "Sei stille dem HERRN und warte auf ihn; erzürne dich nicht über den, dem sein Mutwille glücklich fortgeht.",
+      "zh": "你当默然倚靠耶和华，耐性等候他； 不要因那道路通达的和那恶谋成就的心怀不平。",
+      "ja": "なんぢヱホバのまへに口をつぐみ忍びてこれを俟望め おのが途をあゆみて榮るものの故をもて あしき謀略をとぐる人の故をもて心をなやむるなかれ"
+    },
+    {
+      "number": 8,
+      "ko": "분을 그치고 노를 버리며 불평하지 말라 오히려 악을 만들 뿐이라",
+      "en": "Refrain from anger and turn from wrath; do not fret--it leads only to evil.",
+      "de": "Steh ab vom Zorn und laß den Grimm, erzürne dich nicht, daß du nicht auch übel tust.",
+      "zh": "当止住怒气，离弃忿怒； 不要心怀不平，以致作恶。",
+      "ja": "怒をやめ忿恚をすてよ 心をなやむるなかれ これ惡をおこなふ方にうつらん"
+    },
+    {
+      "number": 9,
+      "ko": "진실로 악을 행하는 자들은 끊어질 것이나 여호와를 소망하는 자들은 땅을 차지하리로다",
+      "en": "For evil men will be cut off, but those who hope in the LORD will inherit the land.",
+      "de": "Denn die Bösen werden ausgerottet; die aber des HERRN harren, werden das Land erben.",
+      "zh": "因为作恶的必被剪除； 惟有等候耶和华的必承受地土。",
+      "ja": "そは惡をおこなふものは斷滅され ヱホバを俟望むものは國をつぐべければなり"
+    },
+    {
+      "number": 10,
+      "ko": "잠시 후에는 악인이 없어지리니 네가 그 곳을 자세히 살필지라도 없으리로다",
+      "en": "A little while, and the wicked will be no more; though you look for them, they will not be found.",
+      "de": "Es ist noch um ein kleines, so ist der Gottlose nimmer; und wenn du nach seiner Stätte sehen wirst, wird er weg sein.",
+      "zh": "还有片时，恶人要归于无有； 你就是细察他的住处也要归于无有。",
+      "ja": "あしきものは久しからずしてうせん なんぢ細密にその處をおもひみるともあることなからん"
+    },
+    {
+      "number": 11,
+      "ko": "그러나 온유한 자들은 땅을 차지하며 풍성한 화평으로 즐거워하리로다",
+      "en": "But the meek will inherit the land and enjoy great peace.",
+      "de": "Aber die Elenden werden das Land erben und Lust haben in großem Frieden.",
+      "zh": "但谦卑人必承受地土， 以丰盛的平安为乐。",
+      "ja": "されど謙だるものは國をつぎ また平安のゆたかなるを樂まん"
+    },
+    {
+      "number": 12,
+      "ko": "악인이 의인 치기를 꾀하고 그를 향하여 그의 이를 가는도다",
+      "en": "The wicked plot against the righteous and gnash their teeth at them;",
+      "de": "Der Gottlose droht dem Gerechten und beißt seine Zähne zusammen über ihn.",
+      "zh": "恶人设谋害义人， 又向他咬牙。",
+      "ja": "惡きものは義きものにさからはんとて謀略をめぐらし之にむかひて切歯す"
+    },
+    {
+      "number": 13,
+      "ko": "그러나 주께서 그를 비웃으시리니 그의 날이 다가옴을 보심이로다",
+      "en": "but the Lord laughs at the wicked, for he knows their day is coming.",
+      "de": "Aber der Herr lacht sein; denn er sieht, daß sein Tag kommt.",
+      "zh": "主要笑他， 因见他受罚的日子将要来到。",
+      "ja": "主はあしきものを笑ひたまはん かれが日のきたるを見たまへばなり"
+    },
+    {
+      "number": 14,
+      "ko": "악인이 칼을 빼고 활을 당겨 가난하고 궁핍한 자를 엎드러뜨리며 행위가 정직한 자를 죽이고자 하나",
+      "en": "The wicked draw the sword and bend the bow to bring down the poor and needy, to slay those whose ways are upright.",
+      "de": "Die Gottlosen ziehen das Schwert aus und spannen ihren Bogen, daß sie fällen den Elenden und Armen und schlachten die Frommen.",
+      "zh": "恶人已经弓上弦，刀出鞘， 要打倒困苦穷乏的人， 要杀害行动正直的人。",
+      "ja": "あしきものは劍をぬき弓をはりて苦しむものと貧しきものとをたふし行ひなほきものを殺さんとせり"
+    },
+    {
+      "number": 15,
+      "ko": "그들의 칼은 오히려 그들의 양심을 찌르고 그들의 활은 부러지리로다",
+      "en": "But their swords will pierce their own hearts, and their bows will be broken.",
+      "de": "Aber ihr Schwert wird in ihr Herz gehen, und ihr Bogen wird zerbrechen.",
+      "zh": "他们的刀必刺入自己的心； 他们的弓必被折断。",
+      "ja": "されどその劍はおのが胸をさしその弓はをらるべし"
+    },
+    {
+      "number": 16,
+      "ko": "의인의 적은 소유가 악인의 풍부함보다 낫도다",
+      "en": "Better the little that the righteous have than the wealth of many wicked;",
+      "de": "Das wenige, das ein Gerechter hat, ist besser als das große Gut vieler Gottlosen.",
+      "zh": "一个义人所有的虽少， 强过许多恶人的富余。",
+      "ja": "義人のもてるもののすくなきは多くの惡きものの豊かなるにまされり"
+    },
+    {
+      "number": 17,
+      "ko": "악인의 팔은 부러지나 의인은 여호와께서 붙드시는도다",
+      "en": "for the power of the wicked will be broken, but the LORD upholds the righteous.",
+      "de": "Denn der Gottlosen Arm wird zerbrechen; aber der HERR erhält die Gerechten.",
+      "zh": "因为恶人的膀臂必被折断； 但耶和华是扶持义人。",
+      "ja": "そは惡きものの臂はをらるれどヱホバは義きものを扶持たまへばなり"
+    },
+    {
+      "number": 18,
+      "ko": "여호와께서 온전한 자의 날을 아시나니 그들의 기업은 영원하리로다",
+      "en": "The days of the blameless are known to the LORD, and their inheritance will endure forever.",
+      "de": "Der HERR kennt die Tage der Frommen, und ihr Gut wird ewiglich bleiben.",
+      "zh": "耶和华知道完全人的日子； 他们的产业要存到永远。",
+      "ja": "ヱホバは完全もののもろもろの日をしりたまふ かれらの嗣業はかぎりなく久しからん"
+    },
+    {
+      "number": 19,
+      "ko": "그들은 환난 때에 부끄러움을 당하지 아니하며 기근의 날에도 풍족할 것이나",
+      "en": "In times of disaster they will not wither; in days of famine they will enjoy plenty.",
+      "de": "Sie werden nicht zu Schanden in der bösen Zeit, und in der Teuerung werden sie genug haben.",
+      "zh": "他们在急难的时候不致羞愧， 在饥荒的日子必得饱足。",
+      "ja": "かれらは禍害にあふとき愧をおはず饑饉の日にもあくことを得ん"
+    },
+    {
+      "number": 20,
+      "ko": "악인들은 멸망하고 여호와의 원수들은 어린 양의 기름 같이 타서 연기가 되어 없어지리로다",
+      "en": "But the wicked will perish: The LORD'S enemies will be like the beauty of the fields, they will vanish--vanish like smoke.",
+      "de": "Denn die Gottlosen werden umkommen; und die Feinde des HERRN, wenn sie gleich sind wie köstliche Aue, werden sie doch vergehen, wie der Rauch vergeht.",
+      "zh": "恶人却要灭亡。 耶和华的仇敌要像羊羔的脂油； 他们要消灭，要如烟消灭。",
+      "ja": "あしき者ははろびヱホバのあたは牧場のさかえの枯るがごとくうせ烟のごとく消ゆかん"
+    },
+    {
+      "number": 21,
+      "ko": "악인은 꾸고 갚지 아니하나 의인은 은혜를 베풀고 주는도다",
+      "en": "The wicked borrow and do not repay, but the righteous give generously;",
+      "de": "Der Gottlose borgt und bezahlt nicht; der Gerechte aber ist barmherzig und gibt.",
+      "zh": "恶人借贷而不偿还； 义人却恩待人，并且施舍。",
+      "ja": "あしき者はものかりて償はず 義きものは惠ありて施しあたふ"
+    },
+    {
+      "number": 22,
+      "ko": "주의 복을 받은 자들은 땅을 차지하고 주의 저주를 받은 자들은 끊어지리로다",
+      "en": "those the LORD blesses will inherit the land, but those he curses will be cut off.",
+      "de": "Denn seine Gesegneten erben das Land; aber seine Verfluchten werden ausgerottet.",
+      "zh": "蒙耶和华赐福的必承受地土； 被他咒诅的必被剪除。",
+      "ja": "神のことほぎたまふ人は國をつぎ 神ののろひたまふ人は斷滅さるべし"
+    },
+    {
+      "number": 23,
+      "ko": "여호와께서 사람의 걸음을 정하시고 그의 길을 기뻐하시나니",
+      "en": "If the LORD delights in a man's way, he makes his steps firm;",
+      "de": "Von dem HERRN wird solches Mannes Gang gefördert, und er hat Lust an seinem Wege.",
+      "zh": "义人的脚步被耶和华立定； 他的道路，耶和华也喜爱。",
+      "ja": "人のあゆみはヱホバによりて定めらる そのゆく途をヱホバよろこびたまへり"
+    },
+    {
+      "number": 24,
+      "ko": "그는 넘어지나 아주 엎드러지지 아니함은 여호와께서 그의 손으로 붙드심이로다",
+      "en": "though he stumble, he will not fall, for the LORD upholds him with his hand.",
+      "de": "Fällt er, so wird er nicht weggeworfen; denn der HERR hält ihn bei der Hand.",
+      "zh": "他虽失脚也不至全身仆倒， 因为耶和华用手搀扶他。",
+      "ja": "縦ひその人たふるることありとも全くうちふせらるることなし ヱホバかれが手をたすけ支へたまへばなり"
+    },
+    {
+      "number": 25,
+      "ko": "내가 어려서부터 늙기까지 의인이 버림을 당하거나 그의 자손이 걸식함을 보지 못하였도다",
+      "en": "I was young and now I am old, yet I have never seen the righteous forsaken or their children begging bread.",
+      "de": "Ich bin jung gewesen und alt geworden und habe noch nie gesehen den Gerechten verlassen oder seinen Samen nach Brot gehen.",
+      "zh": "我从前年幼，现在年老， 却未见过义人被弃， 也未见过他的后裔讨饭。",
+      "ja": "われむかし年わかくして今おいたれど 義者のすてられ或はその裔の糧こひありくを見しことなし"
+    },
+    {
+      "number": 26,
+      "ko": "그는 종일토록 은혜를 베풀고 꾸어 주니 그의 자손이 복을 받는도다",
+      "en": "They are always generous and lend freely; their children will be blessed.",
+      "de": "Er ist allezeit barmherzig und leihet gerne, und sein Same wird gesegnet sein.",
+      "zh": "他终日恩待人，借给人； 他的后裔也蒙福！",
+      "ja": "ただしきものは終日めぐみありて貸あたふ その裔はさいはひなり"
+    },
+    {
+      "number": 27,
+      "ko": "악에서 떠나 선을 행하라 그리하면 영원히 살리니",
+      "en": "Turn from evil and do good; then you will dwell in the land forever.",
+      "de": "Laß vom Bösen und tue Gutes und bleibe wohnen immerdar.",
+      "zh": "你当离恶行善， 就可永远安居。",
+      "ja": "惡をはなれて善をなせ 然ばなんぢの住居とこしへならん"
+    },
+    {
+      "number": 28,
+      "ko": "여호와께서 정의를 사랑하시고 그의 성도를 버리지 아니하심이로다 그들은 영원히 보호를 받으나 악인의 자손은 끊어지리로다",
+      "en": "For the LORD loves the just and will not forsake his faithful ones. They will be protected forever, but the offspring of the wicked will be cut off;",
+      "de": "Denn der HERR hat das Recht lieb und verläßt seine Heiligen nicht; ewiglich werden sie bewahrt; aber der Gottlosen Same wird ausgerottet.",
+      "zh": "因为，耶和华喜爱公平， 不撇弃他的圣民； 他们永蒙保佑， 但恶人的后裔必被剪除。",
+      "ja": "ヱホバは公平をこのみ その聖徒をすてたまはざればなり かれらは永遠にまもりたすけらるれど惡きもののすゑは斷滅さるべし"
+    },
+    {
+      "number": 29,
+      "ko": "의인이 땅을 차지함이여 거기서 영원히 살리로다",
+      "en": "the righteous will inherit the land and dwell in it forever.",
+      "de": "Die Gerechten erben das Land und bleiben ewiglich darin.",
+      "zh": "义人必承受地土， 永居其上。",
+      "ja": "ただしきものは國をつぎ その中にすまひてとこしへに及ばん"
+    },
+    {
+      "number": 30,
+      "ko": "의인의 입은 지혜로우며 그의 혀는 정의를 말하며",
+      "en": "The mouth of the righteous man utters wisdom, and his tongue speaks what is just.",
+      "de": "Der Mund des Gerechten redet die Weisheit, und seine Zunge lehrt das Recht.",
+      "zh": "义人的口谈论智慧； 他的舌头讲说公平。",
+      "ja": "ただしきものの口は智慧をかたり その舌は公平をのぶ"
+    },
+    {
+      "number": 31,
+      "ko": "그의 마음에는 하나님의 법이 있으니 그의 걸음은 실족함이 없으리로다",
+      "en": "The law of his God is in his heart; his feet do not slip.",
+      "de": "Das Gesetz seines Gottes ist in seinem Herzen; seine Tritte gleiten nicht.",
+      "zh": "神的律法在他心里； 他的脚总不滑跌。",
+      "ja": "かれが神の法はそのこころにあり そのあゆみは一歩だにすべることあらじ"
+    },
+    {
+      "number": 32,
+      "ko": "악인이 의인을 엿보아 살해할 기회를 찾으나",
+      "en": "The wicked lie in wait for the righteous, seeking their very lives;",
+      "de": "Der Gottlose lauert auf den Gerechten und gedenkt ihn zu töten.",
+      "zh": "恶人窥探义人， 想要杀他。",
+      "ja": "あしきものは義者をひそみうかがひて之をころさんとはかる"
+    },
+    {
+      "number": 33,
+      "ko": "여호와는 그를 악인의 손에 버려 두지 아니하시고 재판 때에도 정죄하지 아니하시리로다",
+      "en": "but the LORD will not leave them in their power or let them be condemned when brought to trial.",
+      "de": "Aber der HERR läßt ihn nicht in seinen Händen und verdammt ihn nicht, wenn er verurteilt wird.",
+      "zh": "耶和华必不撇他在恶人手中； 当审判的时候，也不定他的罪。",
+      "ja": "ヱホバは義者をあしきものの手にのこしおきたまはず 審判のときに罰ひたまふことなし"
+    },
+    {
+      "number": 34,
+      "ko": "여호와를 바라고 그의 도를 지키라 그리하면 네가 땅을 차지하게 하실 것이라 악인이 끊어질 때에 네가 똑똑히 보리로다",
+      "en": "Wait for the LORD and keep his way. He will exalt you to inherit the land; when the wicked are cut off, you will see it.",
+      "de": "Harre auf den HERRN und halte seinen Weg, so wird er dich erhöhen, daß du das Land erbest; du wirst es sehen, daß die Gottlosen ausgerottet werden.",
+      "zh": "你当等候耶和华，遵守他的道， 他就抬举你，使你承受地土； 恶人被剪除的时候，你必看见。",
+      "ja": "ヱホバを俟望みてその途をまもれ さらば汝をあげて國をつがせたまはん なんぢ惡者のたちほろぼさるる時にこれをみん"
+    },
+    {
+      "number": 35,
+      "ko": "내가 악인의 큰 세력을 본즉 그 본래의 땅에 서 있는 나무 잎이 무성함과 같으나",
+      "en": "I have seen a wicked and ruthless man flourishing like a green tree in its native soil,",
+      "de": "Ich habe gesehen einen Gottlosen, der war trotzig und breitete sich aus und grünte wie ein Lorbeerbaum.",
+      "zh": "我见过恶人大有势力， 好像一棵青翠树在本土生发。",
+      "ja": "我あしきものの猛くしてはびこれるを見るに生立たる地にさかえしげれる樹のごとし"
+    },
+    {
+      "number": 36,
+      "ko": "내가 지나갈 때에 그는 없어졌나니 내가 찾아도 발견하지 못하였도다",
+      "en": "but he soon passed away and was no more; though I looked for him, he could not be found.",
+      "de": "Da man vorüberging, siehe, da war er dahin; ich fragte nach ihm, da ward er nirgend gefunden.",
+      "zh": "有人从那里经过，不料，他没有了； 我也寻找他，却寻不着。",
+      "ja": "然れどもかれは逝ゆけり 視よたちまちに無なりぬ われ之をたづねしかど邁ことをえざりき"
+    },
+    {
+      "number": 37,
+      "ko": "온전한 사람을 살피고 정직한 자를 볼지어다 모든 화평한 자의 미래는 평안이로다",
+      "en": "Consider the blameless, observe the upright; there is a future for the man of peace.",
+      "de": "Bleibe fromm und halte dich recht; denn solchem wird's zuletzt wohl gehen.",
+      "zh": "你要细察那完全人，观看那正直人， 因为和平人有好结局。",
+      "ja": "完人に目をそそぎ直人をみよ 和平なる人には後あれど"
+    },
+    {
+      "number": 38,
+      "ko": "범죄자들은 함께 멸망하리니 악인의 미래는 끊어질 것이나",
+      "en": "But all sinners will be destroyed; the future of the wicked will be cut off.",
+      "de": "Die Übertreter aber werden vertilgt miteinander, und die Gottlosen werden zuletzt ausgerottet.",
+      "zh": "至于犯法的人，必一同灭绝； 恶人终必剪除。",
+      "ja": "罪ををかすものらは共にほろぼされ惡きものの後はかならず斷るべければなり"
+    },
+    {
+      "number": 39,
+      "ko": "의인들의 구원은 여호와로부터 오나니 그는 환난 때에 그들의 요새이시로다",
+      "en": "The salvation of the righteous comes from the LORD; he is their stronghold in time of trouble.",
+      "de": "Aber der HERR hilft den Gerechten; der ist ihre Stärke in der Not.",
+      "zh": "但义人得救是由于耶和华； 他在患难时作他们的营寨。",
+      "ja": "ただしきものの救はヱホバよりいづ ヱホバはかれらが辛苦のときの保砦なり"
+    },
+    {
+      "number": 40,
+      "ko": "여호와께서 그들을 도와 건지시되 악인들에게서 건져 구원하심은 그를 의지한 까닭이로다",
+      "en": "The LORD helps them and delivers them; he delivers them from the wicked and saves them, because they take refuge in him.",
+      "de": "Und der HERR wird ihnen beistehen und wird sie erretten; er wird sie von dem Gottlosen erretten und ihnen helfen; denn sie trauen auf ihn.",
+      "zh": "耶和华帮助他们，解救他们； 他解救他们脱离恶人，把他们救出来， 因为他们投靠他。",
+      "ja": "ヱホバはかれらを助け かれらを解脱ちたまふ ヱホバはかれらを惡者よりときはなちて救ひたまふ かれらはヱホバをその避所とすればなり"
+    }
+  ]
+}

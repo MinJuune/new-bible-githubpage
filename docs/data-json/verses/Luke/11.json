@@ -1,0 +1,438 @@
+{
+  "book": "Luke",
+  "chapter": 11,
+  "verses": [
+    {
+      "number": 1,
+      "ko": "예수께서 한 곳에서 기도하시고 마치시매 제자 중 하나가 여짜오되 주여 요한이 자기 제자들에게 기도를 가르친 것과 같이 우리에게도 가르쳐 주옵소서",
+      "en": "One day Jesus was praying in a certain place. When he finished, one of his disciples said to him, \"Lord, teach us to pray, just as John taught his disciples.\"",
+      "de": "Und es begab sich, daß er war an einem Ort und betete. Und da er aufgehört hatte, sprach seiner Jünger einer zu ihm: HERR, lehre uns beten, wie auch Johannes seine Jünger lehrte.",
+      "zh": "耶稣在一个地方祷告；祷告完了，有个门徒对他说：「求主教导我们祷告，像约翰教导他的门徒。」",
+      "ja": "さて、イエスはある所で祈っておられた。その祈りが終わると、弟子のひとりが、イエスに言った。「主よ。ヨハネが弟子たちに教えたように、私たちにも祈りを教えてください。」"
+    },
+    {
+      "number": 2,
+      "ko": "예수께서 이르시되 너희는 기도할 때에 이렇게 하라 아버지여 이름이 거룩히 여김을 받으시오며 나라가 임하시오며",
+      "en": "He said to them, \"When you pray, say: \"'Father, hallowed be your name, your kingdom come.",
+      "de": "Und er sprach zu ihnen: Wenn ihr betet, so sprecht: Unser Vater im Himmel, dein Name werde geheiligt. Dein Reich komme. Dein Wille geschehe auf Erden wie im Himmel.",
+      "zh": "耶稣说：「你们祷告的时候，要说： 我们在天上的父： 愿人都尊你的名为圣。 愿你的国降临； 愿你的旨意行在地上， 如同行在天上。",
+      "ja": "そこでイエスは、彼らに言われた。「祈るときには、こう言いなさい。 『父よ。御名があがめられますように。 御国が来ますように。"
+    },
+    {
+      "number": 3,
+      "ko": "우리에게 날마다 일용할 양식을 주시옵고",
+      "en": "Give us each day our daily bread.",
+      "de": "Gib uns unser täglich Brot immerdar.",
+      "zh": "我们日用的饮食， 天天赐给我们。",
+      "ja": "私たちの日ごとの糧を毎日お与えください。"
+    },
+    {
+      "number": 4,
+      "ko": "우리가 우리에게 죄 지은 모든 사람을 용서하오니 우리 죄도 사하여 주시옵고 우리를 시험에 들게 하지 마시옵소서 하라",
+      "en": "Forgive us our sins, for we also forgive everyone who sins against us. And lead us not into temptation.'\"",
+      "de": "Und vergib uns unsre Sünden, denn auch wir vergeben allen, die uns schuldig sind. Und führe uns nicht in Versuchung, sondern erlöse uns von dem Übel.",
+      "zh": "赦免我们的罪， 因为我们也赦免凡亏欠我们的人。 不叫我们遇见试探； 救我们脱离凶恶。」",
+      "ja": "私たちの罪をお赦しください。私たちも私たちに負いめのある者をみな赦します。 私たちを試みに会わせないでください。』」"
+    },
+    {
+      "number": 5,
+      "ko": "또 이르시되 너희 중에 누가 벗이 있는데 밤중에 그에게 가서 말하기를 벗이여 떡 세 덩이를 내게 꾸어 달라",
+      "en": "Then he said to them, \"Suppose one of you has a friend, and he goes to him at midnight and says, 'Friend, lend me three loaves of bread,",
+      "de": "Und er sprach zu ihnen: Welcher ist unter euch, der einen Freund hat und ginge zu ihm zu Mitternacht und spräche zu ihm: Lieber Freund, leihe mir drei Brote;",
+      "zh": "耶稣又说：「你们中间谁有一个朋友半夜到他那里去，说：『朋友！请借给我三个饼；",
+      "ja": "また、イエスはこう言われた。「あなたがたのうち、だれかに友だちがいるとして、真夜中にその人のところに行き、『君。パンを三つ貸してくれ。"
+    },
+    {
+      "number": 6,
+      "ko": "내 벗이 여행중에 내게 왔으나 내가 먹일 것이 없노라 하면",
+      "en": "because a friend of mine on a journey has come to me, and I have nothing to set before him.'",
+      "de": "denn es ist mein Freund zu mir gekommen von der Straße, und ich habe nicht, was ich ihm vorlege;",
+      "zh": "因为我有一个朋友行路，来到我这里，我没有什么给他摆上。』",
+      "ja": "友人が旅の途中、私のうちへ来たのだが、出してやるものがないのだ。』と言ったとします。"
+    },
+    {
+      "number": 7,
+      "ko": "그가 안에서 대답하여 이르되 나를 괴롭게 하지 말라 문이 이미 닫혔고 아이들이 나와 함께 침실에 누웠으니 일어나 네게 줄 수가 없노라 하겠느냐",
+      "en": "\"Then the one inside answers, 'Don't bother me. The door is already locked, and my children are with me in bed. I can't get up and give you anything.'",
+      "de": "und er drinnen würde antworten und sprechen: Mache mir keine Unruhe! die Tür ist schon zugeschlossen, und meine Kindlein sind bei mir in der Kammer; ich kann nicht aufstehen und dir geben.",
+      "zh": "那人在里面回答说：『不要搅扰我，门已经关闭，孩子们也同我在床上了，我不能起来给你。』",
+      "ja": "すると、彼は家の中からこう答えます。『めんどうをかけないでくれ。もう戸締まりもしてしまったし、子どもたちも私も寝ている。起きて、何かをやることはできない。』"
+    },
+    {
+      "number": 8,
+      "ko": "내가 너희에게 말하노니 비록 벗 됨으로 인하여서는 일어나서 주지 아니할지라도 그 간청함을 인하여 일어나 그 요구대로 주리라",
+      "en": "I tell you, though he will not get up and give him the bread because he is his friend, yet because of the man's boldness he will get up and give him as much as he needs.",
+      "de": "Ich sage euch: Und ob er nicht aufsteht und gibt ihm, darum daß er sein Freund ist, so wird er doch um seines unverschämten Geilens willen aufstehen und ihm geben, wieviel er bedarf.",
+      "zh": "我告诉你们，虽不因他是朋友起来给他，但因他情词迫切地直求，就必起来照他所需用的给他。",
+      "ja": "あなたがたに言いますが、彼は友だちだからということで起きて何かを与えることはしないにしても、あくまで頼み続けるなら、そのためには起き上がって、必要な物を与えるでしょう。"
+    },
+    {
+      "number": 9,
+      "ko": "내가 또 너희에게 이르노니 구하라 그러면 너희에게 주실 것이요 찾으라 그러면 찾아낼 것이요 문을 두드리라 그러면 너희에게 열릴 것이니",
+      "en": "\"So I say to you: Ask and it will be given to you; seek and you will find; knock and the door will be opened to you.",
+      "de": "Und ich sage euch auch: Bittet, so wird euch gegeben; suchet, so werdet ihr finden; klopfet an, so wird euch aufgetan.",
+      "zh": "我又告诉你们，你们祈求，就给你们；寻找，就寻见；叩门，就给你们开门。",
+      "ja": "わたしは、あなたがたに言います。求めなさい。そうすれば与えられます。捜しなさい。そうすれば見つかります。たたきなさい。そうすれば開かれます。"
+    },
+    {
+      "number": 10,
+      "ko": "구하는 이마다 받을 것이요 찾는 이는 찾아낼 것이요 두드리는 이에게는 열릴 것이니라",
+      "en": "For everyone who asks receives; he who seeks finds; and to him who knocks, the door will be opened.",
+      "de": "Denn wer da bittet, der nimmt; und wer da sucht, der findet; und wer da anklopft, dem wird aufgetan.",
+      "zh": "因为，凡祈求的，就得着；寻找的，就寻见；叩门的，就给他开门。",
+      "ja": "だれであっても、求める者は受け、捜す者は見つけ出し、たたく者には開かれます。"
+    },
+    {
+      "number": 11,
+      "ko": "너희 중에 아버지 된 자로서 누가 아들이 생선을 달라 하는데 생선 대신에 뱀을 주며",
+      "en": "\"Which of you fathers, if your son asks for a fish, will give him a snake instead?",
+      "de": "Wo bittet unter euch ein Sohn den Vater ums Brot, der ihm einen Stein dafür biete? und, so er um einen Fisch bittet, der ihm eine Schlange für den Fisch biete?",
+      "zh": "你们中间作父亲的，谁有儿子求饼，反给他石头呢？求鱼，反拿蛇当鱼给他呢？",
+      "ja": "あなたがたの中で、子どもが魚を下さいと言うときに、魚の代わりに蛇を与えるような父親が、いったいいるでしょうか。"
+    },
+    {
+      "number": 12,
+      "ko": "알을 달라 하는데 전갈을 주겠느냐",
+      "en": "Or if he asks for an egg, will give him a scorpion?",
+      "de": "oder, so er um ein Ei bittet, der ihm einen Skorpion dafür biete?",
+      "zh": "求鸡蛋，反给他蝎子呢？",
+      "ja": "卵を下さいと言うのに、だれが、さそりを与えるでしょう。"
+    },
+    {
+      "number": 13,
+      "ko": "너희가 악할지라도 좋은 것을 자식에게 줄 줄 알거든 하물며 너희 하늘 아버지께서 구하는 자에게 성령을 주시지 않겠느냐 하시니라",
+      "en": "If you then, though you are evil, know how to give good gifts to your children, how much more will your Father in heaven give the Holy Spirit to those who ask him!\"",
+      "de": "So denn ihr, die ihr arg seid, könnet euren Kindern gute Gaben geben, wie viel mehr wird der Vater im Himmel den heiligen Geist geben denen, die ihn bitten!",
+      "zh": "你们虽然不好，尚且知道拿好东西给儿女；何况天父，岂不更将圣灵给求他的人吗？」",
+      "ja": "してみると、あなたがたも、悪い者ではあっても、自分の子どもには良い物を与えることを知っているのです。とすれば、なおのこと、天の父が、求める人たちに、どうして聖霊を下さらないことがありましょう。」"
+    },
+    {
+      "number": 14,
+      "ko": "예수께서 한 말 못하게 하는 귀신을 쫓아내시니 귀신이 나가매 말 못하는 사람이 말하는지라 무리들이 놀랍게 여겼으나",
+      "en": "Jesus was driving out a demon that was mute. When the demon left, the man who had been mute spoke, and the crowd was amazed.",
+      "de": "Und er trieb einen Teufel aus, der war stumm. Und es geschah, da der Teufel ausfuhr, da redete der Stumme. Und das Volk verwunderte sich.",
+      "zh": "耶稣赶出一个叫人哑巴的鬼；鬼出去了，哑巴就说出话来；众人都希奇。",
+      "ja": "イエスは悪霊、それもおしの悪霊を追い出しておられた。悪霊が出て行くと、おしがものを言い始めたので、群衆は驚いた。"
+    },
+    {
+      "number": 15,
+      "ko": "그 중에 더러는 말하기를 그가 귀신의 왕 바알세불을 힘입어 귀신을 쫓아낸다 하고",
+      "en": "But some of them said, \"By Beelzebub, the prince of demons, he is driving out demons.\"",
+      "de": "Etliche aber unter ihnen sprachen: Er treibt die Teufel aus durch Beelzebub, den Obersten der Teufel.",
+      "zh": "内中却有人说：「他是靠着鬼王别西卜赶鬼。」",
+      "ja": "しかし、彼らのうちには、「悪霊どものかしらベルゼブルによって、悪霊どもを追い出しているのだ。」と言う者もいた。"
+    },
+    {
+      "number": 16,
+      "ko": "또 더러는 예수를 시험하여 하늘로부터 오는 표적을 구하니",
+      "en": "Others tested him by asking for a sign from heaven.",
+      "de": "Die andern aber versuchten ihn und begehrten ein Zeichen von ihm vom Himmel.",
+      "zh": "又有人试探耶稣，向他求从天上来的神迹。",
+      "ja": "また、イエスをためそうとして、彼に天からのしるしを求める者もいた。"
+    },
+    {
+      "number": 17,
+      "ko": "예수께서 그들의 생각을 아시고 이르시되 스스로 분쟁하는 나라마다 황폐하여지며 스스로 분쟁하는 집은 무너지느니라",
+      "en": "Jesus knew their thoughts and said to them: \"Any kingdom divided against itself will be ruined, and a house divided against itself will fall.",
+      "de": "Er aber erkannte ihre Gedanken und sprach zu ihnen: Ein jeglich Reich, so es mit sich selbst uneins wird, das wird wüst; und ein Haus fällt über das andere.",
+      "zh": "他晓得他们的意念，便对他们说：「凡一国自相纷争，就成为荒场；凡一家自相纷争，就必败落。",
+      "ja": "しかし、イエスは、彼らの心を見抜いて言われた。「どんな国でも、内輪もめしたら荒れすたれ、家にしても、内輪で争えばつぶれます。"
+    },
+    {
+      "number": 18,
+      "ko": "너희 말이 내가 바알세불을 힘입어 귀신을 쫓아낸다 하니 만일 사탄이 스스로 분쟁하면 그의 나라가 어떻게 서겠느냐",
+      "en": "If Satan is divided against himself, how can his kingdom stand? I say this because you claim that I drive out demons by Beelzebub.",
+      "de": "Ist denn der Satanas auch mit sich selbst uneins, wie will sein Reich bestehen? dieweil ihr sagt, ich treibe die Teufel aus durch Beelzebub.",
+      "zh": "若撒但自相纷争，他的国怎能站得住呢？因为你们说我是靠着别西卜赶鬼。",
+      "ja": "サタンも、もし仲間割れしたのだったら、どうしてサタンの国が立ち行くことができましょう。それなのにあなたがたは、わたしがベルゼブルによって悪霊どもを追い出していると言います。"
+    },
+    {
+      "number": 19,
+      "ko": "내가 바알세불을 힘입어 귀신을 쫓아내면 너희 아들들은 누구를 힘입어 쫓아내느냐 그러므로 그들이 너희 재판관이 되리라",
+      "en": "Now if I drive out demons by Beelzebub, by whom do your followers drive them out? So then, they will be your judges.",
+      "de": "So aber ich die Teufel durch Beelzebub austreibe, durch wen treiben sie eure Kinder aus? Darum werden sie eure Richter sein.",
+      "zh": "我若靠着别西卜赶鬼，你们的子弟赶鬼又靠着谁呢？这样，他们就要断定你们的是非。",
+      "ja": "もしもわたしが、ベルゼブルによって悪霊どもを追い出しているのなら、あなたがたの仲間は、だれによって追い出すのですか。だから、あなたがたの仲間が、あなたがたをさばく人となるのです。"
+    },
+    {
+      "number": 20,
+      "ko": "그러나 내가 만일 하나님의 손을 힘입어 귀신을 쫓아낸다면 하나님의 나라가 이미 너희에게 임하였느니라",
+      "en": "But if I drive out demons by the finger of God, then the kingdom of God has come to you.",
+      "de": "So ich aber durch Gottes Finger die Teufel austreibe, so kommt ja das Reich Gottes zu euch.",
+      "zh": "我若靠着　神的能力赶鬼，这就是　神的国临到你们了。",
+      "ja": "しかし、わたしが、神の指によって悪霊どもを追い出しているのなら、神の国はあなたがたに来ているのです。"
+    },
+    {
+      "number": 21,
+      "ko": "강한 자가 무장을 하고 자기 집을 지킬 때에는 그 소유가 안전하되",
+      "en": "\"When a strong man, fully armed, guards his own house, his possessions are safe.",
+      "de": "Wenn ein starker Gewappneter seinen Palast bewahrt, so bleibt das seine mit Frieden.",
+      "zh": "壮士披挂整齐，看守自己的住宅，他所有的都平安无事；",
+      "ja": "強い人が十分に武装して自分の家を守っているときには、その持ち物は安全です。"
+    },
+    {
+      "number": 22,
+      "ko": "더 강한 자가 와서 그를 굴복시킬 때에는 그가 믿던 무장을 빼앗고 그의 재물을 나누느니라",
+      "en": "But when someone stronger attacks and overpowers him, he takes away the armor in which the man trusted and divides up the spoils.",
+      "de": "Wenn aber ein Stärkerer über ihn kommt und überwindet ihn, so nimmt er ihm seinen Harnisch, darauf er sich verließ, und teilt den Raub aus.",
+      "zh": "但有一个比他更壮的来，胜过他，就夺去他所倚靠的盔甲兵器，又分了他的赃。",
+      "ja": "しかし、もっと強い者が襲って来て彼に打ち勝つと、彼の頼みにしていた武具を奪い、分捕り品を分けます。"
+    },
+    {
+      "number": 23,
+      "ko": "나와 함께 하지 아니하는 자는 나를 반대하는 자요 나와 함께 모으지 아니하는 자는 헤치는 자니라",
+      "en": "\"He who is not with me is against me, and he who does not gather with me, scatters.",
+      "de": "Wer nicht mit mir ist, der ist wider mich; und wer nicht mit mir sammelt, der zerstreut.",
+      "zh": "不与我相合的，就是敌我的；不同我收聚的，就是分散的。」",
+      "ja": "わたしの味方でない者はわたしに逆らう者であり、わたしとともに集めない者は散らす者です。"
+    },
+    {
+      "number": 24,
+      "ko": "더러운 귀신이 사람에게서 나갔을 때에 물 없는 곳으로 다니며 쉬기를 구하되 얻지 못하고 이에 이르되 내가 나온 내 집으로 돌아가리라 하고",
+      "en": "\"When an evil spirit comes out of a man, it goes through arid places seeking rest and does not find it. Then it says, 'I will return to the house I left.'",
+      "de": "Wenn der unsaubere Geist von dem Menschen ausfährt, so durchwandelt er dürre Stätten, sucht Ruhe und findet sie nicht, so spricht er: Ich will wieder umkehren in mein Haus, daraus ich gegangen bin.",
+      "zh": "「污鬼离了人身，就在无水之地过来过去，寻求安歇之处；既寻不着，便说：『我要回到我所出来的屋里去。』",
+      "ja": "汚れた霊が人から出て行って、水のない所をさまよいながら、休み場を捜します。一つも見つからないので、『出て来た自分の家に帰ろう。』と言います。"
+    },
+    {
+      "number": 25,
+      "ko": "가서 보니 그 집이 청소되고 수리되었거늘",
+      "en": "When it arrives, it finds the house swept clean and put in order.",
+      "de": "Und wenn er kommt, so findet er's gekehrt und geschmückt.",
+      "zh": "到了，就看见里面打扫干净，修饰好了，",
+      "ja": "帰って見ると、家は、掃除をしてきちんとかたづいていました。"
+    },
+    {
+      "number": 26,
+      "ko": "이에 가서 저보다 더 악한 귀신 일곱을 데리고 들어가서 거하니 그 사람의 나중 형편이 전보다 더 심하게 되느니라",
+      "en": "Then it goes and takes seven other spirits more wicked than itself, and they go in and live there. And the final condition of that man is worse than the first.\"",
+      "de": "Dann geht er hin und nimmt sieben Geister zu sich, die ärger sind denn er selbst; und wenn sie hineinkommen, wohnen sie da, und es wird hernach mit demselben Menschen ärger denn zuvor.",
+      "zh": "便去另带了七个比自己更恶的鬼来，都进去住在那里。那人末后的景况比先前更不好了。」",
+      "ja": "そこで、出かけて行って、自分よりも悪いほかの霊を七つ連れて来て、みなはいり込んでそこに住みつくのです。そうなると、その人の後の状態は、初めよりもさらに悪くなります。」"
+    },
+    {
+      "number": 27,
+      "ko": "이 말씀을 하실 때에 무리 중에서 한 여자가 음성을 높여 이르되 당신을 밴 태와 당신을 먹인 젖이 복이 있나이다 하니",
+      "en": "As Jesus was saying these things, a woman in the crowd called out, \"Blessed is the mother who gave you birth and nursed you.\"",
+      "de": "Und es begab sich, da er solches redete, erhob ein Weib im Volk die Stimme und sprach zu ihm: Selig ist der Leib, der dich getragen hat, und die Brüste, die du gesogen hast.",
+      "zh": "耶稣正说这话的时候，众人中间有一个女人大声说：「怀你胎的和乳养你的有福了！」",
+      "ja": "イエスが、これらのことを話しておられると、群衆の中から、ひとりの女が声を張り上げてイエスに言った。「あなたを産んだ腹、あなたが吸った乳房は幸いです。」"
+    },
+    {
+      "number": 28,
+      "ko": "예수께서 이르시되 오히려 하나님의 말씀을 듣고 지키는 자가 복이 있느니라 하시니라",
+      "en": "He replied, \"Blessed rather are those who hear the word of God and obey it.\"",
+      "de": "Er aber sprach: Ja, selig sind, die das Wort Gottes hören und bewahren.",
+      "zh": "耶稣说：「是，却还不如听　神之道而遵守的人有福。」",
+      "ja": "しかし、イエスは言われた。「いや、幸いなのは、神のことばを聞いてそれを守る人たちです。」"
+    },
+    {
+      "number": 29,
+      "ko": "무리가 모였을 때에 예수께서 말씀하시되 이 세대는 악한 세대라 표적을 구하되 요나의 표적 밖에는 보일 표적이 없나니",
+      "en": "As the crowds increased, Jesus said, \"This is a wicked generation. It asks for a miraculous sign, but none will be given it except the sign of Jonah.",
+      "de": "Das Volk aber drang hinzu. Da fing er an und sagte: Dies ist eine arge Art; sie begehrt ein Zeichen, und es wird ihr kein Zeichen gegeben denn nur das Zeichen des Propheten Jona.",
+      "zh": "当众人聚集的时候，耶稣开讲说：「这世代是一个邪恶的世代。他们求看神迹，除了约拿的神迹以外，再没有神迹给他们看。",
+      "ja": "さて、群衆の数がふえて来ると、イエスは話し始められた。「この時代は悪い時代です。しるしを求めているが、ヨナのしるしのほかには、しるしは与えられません。"
+    },
+    {
+      "number": 30,
+      "ko": "요나가 니느웨 사람들에게 표적이 됨과 같이 인자도 이 세대에 그러하리라",
+      "en": "For as Jonah was a sign to the Ninevites, so also will the Son of Man be to this generation.",
+      "de": "Denn wie Jona ein Zeichen war den Niniviten, also wird des Menschen Sohn sein diesem Geschlecht.",
+      "zh": "约拿怎样为尼尼微人成了神迹，人子也要照样为这世代的人成了神迹。",
+      "ja": "というのは、ヨナがニネベの人々のために、しるしとなったように、人の子がこの時代のために、しるしとなるからです。"
+    },
+    {
+      "number": 31,
+      "ko": "심판 때에 남방 여왕이 일어나 이 세대 사람을 정죄하리니 이는 그가 솔로몬의 지혜로운 말을 들으려고 땅 끝에서 왔음이거니와 솔로몬보다 더 큰 이가 여기 있으며",
+      "en": "The Queen of the South will rise at the judgment with the men of this generation and condemn them; for she came from the ends of the earth to listen to Solomon's wisdom, and now one greater than Solomon is here.",
+      "de": "Die Königin von Mittag wird auftreten vor dem Gericht mit den Leuten dieses Geschlechts und wird sie verdammen; denn sie kam von der Welt Ende, zu hören die Weisheit Salomos. Und siehe, hier ist mehr denn Salomo.",
+      "zh": "当审判的时候，南方的女王要起来定这世代的罪；因为她从地极而来，要听所罗门的智慧话。看哪，在这里有一人比所罗门更大。",
+      "ja": "南の女王が、さばきのときに、この時代の人々とともに立って、彼らを罪に定めます。なぜなら、彼女はソロモンの知恵を聞くために地の果てから来たからです。しかし、見なさい。ここにソロモンよりもまさった者がいるのです。"
+    },
+    {
+      "number": 32,
+      "ko": "심판 때에 니느웨 사람들이 일어나 이 세대 사람을 정죄하리니 이는 그들이 요나의 전도를 듣고 회개하였음이거니와 요나보다 더 큰 이가 여기 있느니라",
+      "en": "The men of Nineveh will stand up at the judgment with this generation and condemn it; for they repented at the preaching of Jonah, and now one greater than Jonah is here.",
+      "de": "Die Leute von Ninive werden auftreten vor dem Gericht mit diesem Geschlecht und werden's verdammen; denn sie taten Buße nach der Predigt des Jona. Und siehe, hier ist mehr denn Jona.",
+      "zh": "当审判的时候，尼尼微人要起来定这世代的罪，因为尼尼微人听了约拿所传的就悔改了。看哪，在这里有一人比约拿更大。」",
+      "ja": "ニネベの人々が、さばきのときに、この時代の人々とともに立って、この人々を罪に定めます。なぜなら、ニネベの人々はヨナの説教で悔い改めたからです。しかし、見なさい。ここにヨナよりもまさった者がいるのです。"
+    },
+    {
+      "number": 33,
+      "ko": "누구든지 등불을 켜서 움 속에나 말 아래에 두지 아니하고 등경 위에 두나니 이는 들어가는 자로 그 빛을 보게 하려 함이라",
+      "en": "\"No one lights a lamp and puts it in a place where it will be hidden, or under a bowl. Instead he puts it on its stand, so that those who come in may see the light.",
+      "de": "Niemand zündet ein Licht an und setzt es an einen heimlichen Ort, auch nicht unter einen Scheffel, sondern auf den Leuchter, auf daß, wer hineingeht, das Licht sehe.",
+      "zh": "「没有人点灯放在地窨子里，或是斗底下，总是放在灯台上，使进来的人得见亮光。",
+      "ja": "だれも、あかりをつけてから、それを穴倉や、枡の下に置く者はいません。燭台の上に置きます。はいって来る人々に、その光が見えるためです。"
+    },
+    {
+      "number": 34,
+      "ko": "네 몸의 등불은 눈이라 네 눈이 성하면 온 몸이 밝을 것이요 만일 나쁘면 네 몸도 어두우리라",
+      "en": "Your eye is the lamp of your body. When your eyes are good, your whole body also is full of light. But when they are bad, your body also is full of darkness.",
+      "de": "Das Auge ist des Leibes Licht. Wenn nun dein Auge einfältig ist, so ist dein ganzer Leib licht; so aber dein Auge ein Schalk ist, so ist auch dein Leib finster.",
+      "zh": "你眼睛就是身上的灯。你的眼睛若了亮，全身就光明；眼睛若昏花，全身就黑暗。",
+      "ja": "からだのあかりは、あなたの目です。目が健全なら、あなたの全身も明るいが、しかし、目が悪いと、からだも暗くなります。"
+    },
+    {
+      "number": 35,
+      "ko": "그러므로 네 속에 있는 빛이 어둡지 아니한가 보라",
+      "en": "See to it, then, that the light within you is not darkness.",
+      "de": "So schaue darauf, daß nicht das Licht in dir Finsternis sei.",
+      "zh": "所以，你要省察，恐怕你里头的光或者黑暗了。",
+      "ja": "だから、あなたのうちの光が、暗やみにならないように、気をつけなさい。"
+    },
+    {
+      "number": 36,
+      "ko": "네 온 몸이 밝아 조금도 어두운 데가 없으면 등불의 빛이 너를 비출 때와 같이 온전히 밝으리라 하시니라",
+      "en": "Therefore, if your whole body is full of light, and no part of it dark, it will be completely lighted, as when the light of a lamp shines on you.\"",
+      "de": "Wenn nun dein Leib ganz licht ist, daß er kein Stück von Finsternis hat, so wird er ganz licht sein, wie wenn ein Licht mit hellem Blitz dich erleuchtet.",
+      "zh": "若是你全身光明，毫无黑暗，就必全然光明，如同灯的明光照亮你。」",
+      "ja": "もし、あなたの全身が明るくて何の暗い部分もないなら、その全身はちょうどあかりが輝いて、あなたを照らすときのように明るく輝きます。」"
+    },
+    {
+      "number": 37,
+      "ko": "예수께서 말씀하실 때에 한 바리새인이 자기와 함께 점심 잡수시기를 청하므로 들어가 앉으셨더니",
+      "en": "When Jesus had finished speaking, a Pharisee invited him to eat with him; so he went in and reclined at the table.",
+      "de": "Da er aber in der Rede war, bat ihn ein Pharisäer, daß er mit ihm das Mittagsmahl äße. Und er ging hinein und setzte sich zu Tische.",
+      "zh": "说话的时候，有一个法利赛人请耶稣同他吃饭，耶稣就进去坐席。",
+      "ja": "イエスが話し終えられると、ひとりのパリサイ人が、食事をいっしょにしてください、とお願いした。そこでイエスは家にはいって、食卓に着かれた。"
+    },
+    {
+      "number": 38,
+      "ko": "잡수시기 전에 손 씻지 아니하심을 그 바리새인이 보고 이상히 여기는지라",
+      "en": "But the Pharisee, noticing that Jesus did not first wash before the meal, was surprised.",
+      "de": "Da das der Pharisäer sah, verwunderte er sich, daß er sich nicht vor dem Essen gewaschen hätte.",
+      "zh": "这法利赛人看见耶稣饭前不洗手便诧异。",
+      "ja": "そのパリサイ人は、イエスが食事の前に、まずきよめの洗いをなさらないのを見て、驚いた。"
+    },
+    {
+      "number": 39,
+      "ko": "주께서 이르시되 너희 바리새인은 지금 잔과 대접의 겉은 깨끗이 하나 너희 속에는 탐욕과 악독이 가득하도다",
+      "en": "Then the Lord said to him, \"Now then, you Pharisees clean the outside of the cup and dish, but inside you are full of greed and wickedness.",
+      "de": "Der HERR aber sprach zu ihm: Ihr Pharisäer haltet die Becher und Schüsseln auswendig reinlich, aber euer Inwendiges ist voll Raubes und Bosheit.",
+      "zh": "主对他说：「如今你们法利赛人洗净杯盘的外面，你们里面却满了勒索和邪恶。",
+      "ja": "すると、主は言われた。「なるほど、あなたがたパリサイ人は、杯や大皿の外側はきよめるが、その内側は、強奪と邪悪とでいっぱいです。"
+    },
+    {
+      "number": 40,
+      "ko": "어리석은 자들아 겉을 만드신 이가 속도 만들지 아니하셨느냐",
+      "en": "You foolish people! Did not the one who made the outside make the inside also?",
+      "de": "Ihr Narren, meinet ihr, daß es inwendig rein sei, wenn's auswendig rein ist?",
+      "zh": "无知的人哪，造外面的，不也造里面吗？",
+      "ja": "愚かな人たち。外側を造られた方は、内側も造られたのではありませんか。"
+    },
+    {
+      "number": 41,
+      "ko": "그러나 그 안에 있는 것으로 구제하라 그리하면 모든 것이 너희에게 깨끗하리라",
+      "en": "But give what is inside the dish to the poor, and everything will be clean for you.",
+      "de": "Doch gebt Almosen von dem, was da ist, siehe, so ist's euch alles rein.",
+      "zh": "只要把里面的施舍给人，凡物于你们就都洁净了。",
+      "ja": "とにかく、うちのものを施しに用いなさい。そうすれば、いっさいが、あなたがたにとってきよいものとなります。"
+    },
+    {
+      "number": 42,
+      "ko": "화 있을진저 너희 바리새인이여 너희가 박하와 운향과 모든 채소의 십일조는 드리되 공의와 하나님께 대한 사랑은 버리는도다 그러나 이것도 행하고 저것도 버리지 말아야 할지니라",
+      "en": "\"Woe to you Pharisees, because you give God a tenth of your mint, rue and all other kinds of garden herbs, but you neglect justice and the love of God. You should have practiced the latter without leaving the former undone.",
+      "de": "Aber weh euch Pharisäern, daß ihr verzehnt die Minze und Raute und allerlei Kohl, und geht vorbei an dem Gericht und an der Liebe Gottes! Dies sollte man tun und jenes nicht lassen.",
+      "zh": "「你们法利赛人有祸了！因为你们将薄荷、芸香并各样菜蔬献上十分之一，那公义和爱　神的事反倒不行了。这原是你们当行的；那也是不可不行的。",
+      "ja": "だが、忌まわしいものだ。パリサイ人。あなたがたは、はっか、うん香、あらゆる野菜などの十分の一を納めているが、公義と神への愛とはなおざりにしています。これこそ、実行しなければならない事がらです。ただし他のほうも、なおざりにしてはいけません。"
+    },
+    {
+      "number": 43,
+      "ko": "화 있을진저 너희 바리새인이여 너희가 회당의 높은 자리와 시장에서 문안 받는 것을 기뻐하는도다",
+      "en": "\"Woe to you Pharisees, because you love the most important seats in the synagogues and greetings in the marketplaces.",
+      "de": "Weh euch Pharisäern, daß ihr gerne obenan sitzt in den Schulen und wollt gegrüßt sein auf dem Markte.",
+      "zh": "你们法利赛人有祸了！因为你们喜爱会堂里的首位，又喜爱人在街市上问你们的安。",
+      "ja": "忌まわしいものだ。パリサイ人。あなたがたは、会堂の上席や、市場であいさつされることが好きです。"
+    },
+    {
+      "number": 44,
+      "ko": "화 있을진저 너희여 너희는 평토장한 무덤 같아서 그 위를 밟는 사람이 알지 못하느니라",
+      "en": "\"Woe to you, because you are like unmarked graves, which men walk over without knowing it.\"",
+      "de": "Weh euch, Schriftgelehrte und Pharisäer, ihr Heuchler, daß ihr seid wie die verdeckten Totengräber, darüber die Leute laufen, und kennen sie nicht!",
+      "zh": "你们有祸了！因为你们如同不显露的坟墓，走在上面的人并不知道。」",
+      "ja": "忌まわしいことだ。あなたがたは、人目につかぬ墓のようで、その上を歩く人々も気がつかない。」"
+    },
+    {
+      "number": 45,
+      "ko": "한 율법교사가 예수께 대답하여 이르되 선생님 이렇게 말씀하시니 우리까지 모욕하심이니이다",
+      "en": "One of the experts in the law answered him, \"Teacher, when you say these things, you insult us also.\"",
+      "de": "Da antwortete einer von den Schriftgelehrten und sprach zu ihm: Meister, mit den Worten schmähst du uns auch.",
+      "zh": "律法师中有一个回答耶稣说：「夫子！你这样说也把我们糟蹋了。」",
+      "ja": "すると、ある律法の専門家が、答えて言った。「先生。そのようなことを言われることは、私たちをも侮辱することです。」"
+    },
+    {
+      "number": 46,
+      "ko": "이르시되 화 있을진저 또 너희 율법교사여 지기 어려운 짐을 사람에게 지우고 너희는 한 손가락도 이 짐에 대지 않는도다",
+      "en": "Jesus replied, \"And you experts in the law, woe to you, because you load people down with burdens they can hardly carry, and you yourselves will not lift one finger to help them.",
+      "de": "Er aber sprach: Und weh auch euch Schriftgelehrten! denn ihr beladet die Menschen mit unerträglichen Lasten, und ihr rührt sie nicht mit einem Finger an.",
+      "zh": "耶稣说：「你们律法师也有祸了！因为你们把难担的担子放在人身上，自己一个指头却不肯动。",
+      "ja": "しかし、イエスは言われた。「あなたがた律法の専門家たちも忌まわしいものだ。あなたがたは、人々には負いきれない荷物を負わせるが、自分は、その荷物に指一本もさわろうとはしない。"
+    },
+    {
+      "number": 47,
+      "ko": "화 있을진저 너희는 선지자들의 무덤을 만드는도다 그들을 죽인 자도 너희 조상들이로다",
+      "en": "\"Woe to you, because you build tombs for the prophets, and it was your forefathers who killed them.",
+      "de": "Weh euch! denn ihr baut der Propheten Gräber; eure Väter aber haben sie getötet.",
+      "zh": "你们有祸了！因为你们修造先知的坟墓，那先知正是你们的祖宗所杀的。",
+      "ja": "忌まわしいことだ。あなたがたは、預言者たちの墓を建てている。しかし、あなたがたの先祖は預言者たちを殺したのです。"
+    },
+    {
+      "number": 48,
+      "ko": "이와 같이 그들은 죽이고 너희는 무덤을 만드니 너희가 너희 조상의 행한 일에 증인이 되어 옳게 여기는도다",
+      "en": "So you testify that you approve of what your forefathers did; they killed the prophets, and you build their tombs.",
+      "de": "So bezeugt ihr und willigt in eurer Väter Werke; denn sie töteten sie, so baut ihr ihre Gräber.",
+      "zh": "可见你们祖宗所做的事，你们又证明又喜欢；因为他们杀了先知，你们修造先知的坟墓。",
+      "ja": "そのようにして、あなたがたは、自分の先祖のしたことの証人となり、それを認めています。なぜなら、あなたがたの先祖が預言者たちを殺し、あなたがたがその墓を建てているからです。"
+    },
+    {
+      "number": 49,
+      "ko": "그러므로 하나님의 지혜가 일렀으되 내가 선지자와 사도들을 그들에게 보내리니 그 중에서 더러는 죽이며 또 박해하리라 하였느니라",
+      "en": "Because of this, God in his wisdom said, 'I will send them prophets and apostles, some of whom they will kill and others they will persecute.'",
+      "de": "Darum spricht die Weisheit Gottes: Ich will Propheten und Apostel zu ihnen senden, und derselben werden sie etliche töten und verfolgen;",
+      "zh": "所以　神用智慧曾说：『我要差遣先知和使徒到他们那里去，有的他们要杀害，有的他们要逼迫』，",
+      "ja": "だから、神の知恵もこう言いました。『わたしは預言者たちや使徒たちを彼らに遣わすが、彼らは、そのうちのある者を殺し、ある者を迫害する。"
+    },
+    {
+      "number": 50,
+      "ko": "창세 이후로 흘린 모든 선지자의 피를 이 세대가 담당하되",
+      "en": "Therefore this generation will be held responsible for the blood of all the prophets that has been shed since the beginning of the world,",
+      "de": "auf daß gefordert werde von diesem Geschlecht aller Propheten Blut, das vergossen ist, seit der Welt Grund gelegt ist,",
+      "zh": "使创世以来所流众先知血的罪都要问在这世代的人身上，",
+      "ja": "それは、アベルの血から、祭壇と神の家との間で殺されたザカリヤの血に至るまでの、世の初めから流されたすべての預言者の血の責任を、この時代が問われるためである。そうだ。わたしは言う。この時代はその責任を問われる。』"
+    },
+    {
+      "number": 51,
+      "ko": "곧 아벨의 피로부터 제단과 성전 사이에서 죽임을 당한 사가랴의 피까지 하리라 내가 너희에게 이르노니 과연 이 세대가 담당하리라",
+      "en": "from the blood of Abel to the blood of Zechariah, who was killed between the altar and the sanctuary. Yes, I tell you, this generation will be held responsible for it all.",
+      "de": "von Abels Blut an bis auf das Blut des Zacharias, der umkam zwischen dem Altar und Tempel. Ja, ich sage euch: Es wird gefordert werden von diesem Geschlecht.",
+      "zh": "就是从亚伯的血起，直到被杀在坛和殿中间撒迦利亚的血为止。我实在告诉你们，这都要问在这世代的人身上。",
+      "ja": "忌まわしいものだ。律法の専門家たち。あなたがたは、知識のかぎを持ち去り、自分もはいらず、はいろうとする人々をも妨げたのです。」"
+    },
+    {
+      "number": 52,
+      "ko": "화 있을진저 너희 율법교사여 너희가 지식의 열쇠를 가져가서 너희도 들어가지 않고 또 들어가고자 하는 자도 막았느니라 하시니라",
+      "en": "\"Woe to you experts in the law, because you have taken away the key to knowledge. You yourselves have not entered, and you have hindered those who were entering.\"",
+      "de": "Weh euch Schriftgelehrten! denn ihr habt den Schlüssel der Erkenntnis weggenommen. Ihr kommt nicht hinein und wehret denen, die hinein wollen.",
+      "zh": "你们律法师有祸了！因为你们把知识的钥匙夺了去，自己不进去，正要进去的人你们也阻挡他们。」",
+      "ja": "イエスがそこを出て行かれると、律法学者、パリサイ人たちのイエスに対する激しい敵対と、いろいろのことについてのしつこい質問攻めとが始まった。"
+    },
+    {
+      "number": 53,
+      "ko": "거기서 나오실 때에 서기관과 바리새인들이 거세게 달려들어 여러 가지 일을 따져 묻고",
+      "en": "When Jesus left there, the Pharisees and the teachers of the law began to oppose him fiercely and to besiege him with questions,",
+      "de": "Da er aber solches zu ihnen sagte, fingen an die Schriftgelehrten und Pharisäer, hart auf ihn zu dringen und ihm mit mancherlei Fragen zuzusetzen,",
+      "zh": "耶稣从那里出来，文士和法利赛人就极力地催逼他，引动他多说话，",
+      "ja": "彼らは、イエスの口から出ることに、言いがかりをつけようと、ひそかに計った。"
+    },
+    {
+      "number": 54,
+      "ko": "그 입에서 나오는 말을 책잡고자 하여 노리고 있더라",
+      "en": "waiting to catch him in something he might say.",
+      "de": "und lauerten auf ihn und suchten, ob sie etwas erjagen könnten aus seinem Munde, daß sie eine Sache wider ihn hätten.",
+      "zh": "私下窥听，要拿他的话柄。",
+      "ja": ""
+    }
+  ]
+}

@@ -1,0 +1,278 @@
+{
+  "book": "1 Kings",
+  "chapter": 4,
+  "verses": [
+    {
+      "number": 1,
+      "ko": "솔로몬 왕이 온 이스라엘의 왕이 되었고",
+      "en": "So King Solomon ruled over all Israel.",
+      "de": "Also war Salomo König über ganz Israel.",
+      "zh": "所罗门作以色列众人的王。",
+      "ja": "ソロモン王はイスラエルの全地に王たり"
+    },
+    {
+      "number": 2,
+      "ko": "그의 신하들은 이러하니라 사독의 아들 아사리아는 제사장이요",
+      "en": "And these were his chief officials: Azariah son of Zadok--the priest;",
+      "de": "Und dies waren seine Fürsten: Asarja, der Sohn Zadoks, des Priesters,",
+      "zh": "他的臣子记在下面：撒督的儿子亚撒利雅作祭司，",
+      "ja": "其有る群卿は左の如しザドクの子アザリヤは相國"
+    },
+    {
+      "number": 3,
+      "ko": "시사의 아들 엘리호렙과 아히야는 서기관이요 아힐룻의 아들 여호사밧은 사관이요",
+      "en": "Elihoreph and Ahijah, sons of Shisha--secretaries; Jehoshaphat son of Ahilud--recorder;",
+      "de": "Elihoreph und Ahija, die Söhne Sisas, waren Schreiber. Josaphat, der Sohn Ahiluds, war Kanzler.",
+      "zh": "示沙的两个儿子以利何烈、亚希亚作书记，亚希律的儿子约沙法作史官，",
+      "ja": "シシヤの子エリホレフとアヒヤは書記官アヒルデの子ヨシヤパテは史官"
+    },
+    {
+      "number": 4,
+      "ko": "여호야다의 아들 브나야는 군사령관이요 사독과 아비아달은 제사장이요",
+      "en": "Benaiah son of Jehoiada--commander in chief; Zadok and Abiathar--priests;",
+      "de": "Benaja, der Sohn Jojadas, war Feldhauptmann. Zadok und Abjathar waren Priester.",
+      "zh": "耶何耶大的儿子比拿雅作元帅，撒督和亚比亚他作祭司长，",
+      "ja": "ヱホヤダの子ベナヤは軍の長ザドクとアビヤタルは祭司"
+    },
+    {
+      "number": 5,
+      "ko": "나단의 아들 아사리아는 지방 관장의 두령이요 나단의 아들 사붓은 제사장이니 왕의 벗이요",
+      "en": "Azariah son of Nathan--in charge of the district officers; Zabud son of Nathan--a priest and personal adviser to the king;",
+      "de": "Asarja, der Sohn Nathans, war über die Amtleute. Sabud, der Sohn Nathans, war Priester, des Königs Freund.",
+      "zh": "拿单的儿子亚撒利雅作众吏长，王的朋友拿单的儿子撒布得作领袖，",
+      "ja": "ナタンの子アザリヤは代官の長ナタンの子ザブデは大臣にして王の友たり"
+    },
+    {
+      "number": 6,
+      "ko": "아히살은 궁내대신이요 압다의 아들 아도니람은 노동 감독관이더라",
+      "en": "Ahishar--in charge of the palace; Adoniram son of Abda--in charge of forced labor.",
+      "de": "Ahisar war Hofmeister. Adoniram, der Sohn Abdas, war Rentmeister.",
+      "zh": "亚希煞作家宰，亚比大的儿子亚多尼兰掌管服苦的人。",
+      "ja": "アヒシヤルは宮内卿アブダの子アドニラムは徴募長なり"
+    },
+    {
+      "number": 7,
+      "ko": "솔로몬이 또 온 이스라엘에 열두 지방 관장을 두매 그 사람들이 왕과 왕실을 위하여 양식을 공급하되 각기 일 년에 한 달씩 양식을 공급하였으니",
+      "en": "Solomon also had twelve district governors over all Israel, who supplied provisions for the king and the royal household. Each one had to provide supplies for one month in the year.",
+      "de": "Und Salomo hatte zwölf Amtleute über ganz Israel, die den König und sein Haus versorgten. Ein jeder hatte des Jahres eine Monat lang zu versorgen;",
+      "zh": "所罗门在以色列全地立了十二个官吏，使他们供给王和王家的食物，每年各人供给一月。",
+      "ja": "ソロモン又イスラエルの全地に十二の代官を置り其人々王と其家のために食物を備へたり即ち各一年に一月宛食物を備へたり"
+    },
+    {
+      "number": 8,
+      "ko": "그들의 이름은 이러하니라 에브라임 산지에는 벤훌이요",
+      "en": "These are their names: Ben-Hur--in the hill country of Ephraim;",
+      "de": "und hießen also: Der Sohn Hurs auf dem Gebirge Ephraim;",
+      "zh": "他们的名字记在下面：在以法莲山地有便·户珥；",
+      "ja": "其名左のごとしエフライムの山地にはベンホル"
+    },
+    {
+      "number": 9,
+      "ko": "마가스와 사알빔과 벧세메스와 엘론벧하난에는 벤데겔이요",
+      "en": "Ben-Deker--in Makaz, Shaalbim, Beth Shemesh and Elon Bethhanan;",
+      "de": "der Sohn Dekers zu Makaz und zu Saalbim und zu Beth-Semes und zu Elon und Beth-Hanan;",
+      "zh": "在玛迦斯、沙宾、伯·示麦、以伦·伯·哈南有便·底甲；",
+      "ja": "マカヅとシヤラビムとベテシメシとエロンベテハナンにはベンデケル"
+    },
+    {
+      "number": 10,
+      "ko": "아룹봇에는 벤헤셋이니 소고와 헤벨 온 땅을 그가 주관하였으며",
+      "en": "Ben-Hesed--in Arubboth (Socoh and all the land of Hepher were his);",
+      "de": "der Sohn Heseds zu Arubboth, und hatte dazu Socho und das ganze Land Hepher;",
+      "zh": "在亚鲁泊有便·希悉，他管理梭哥和希弗全地；",
+      "ja": "アルポテにはベンヘセデありシヨコとヘベルの全地とは彼擔任り"
+    },
+    {
+      "number": 11,
+      "ko": "나밧 돌 높은 땅 온 지방에는 벤아비나답이니 그는 솔로몬의 딸 다밧을 아내로 삼았으며",
+      "en": "Ben-Abinadab--in Naphoth Dor (he was married to Taphath daughter of Solomon);",
+      "de": "der Sohn Abinadabs über die ganze Herrschaft zu Dor, und hatte Taphath, Salomos Tochter zum Weibe;",
+      "zh": "在多珥山冈有便·亚比拿达，他娶了所罗门的女儿她法为妻；",
+      "ja": "ドルの高地の全部にはベンアヒナダブあり彼はソロモンの女タパテを妻とせり"
+    },
+    {
+      "number": 12,
+      "ko": "다아낙과 므깃도와 이스르엘 아래 사르단 가에 있는 벧스안 온 땅은 아힐룻의 아들 바아나가 맡았으니 벧스안에서부터 아벨므홀라에 이르고 욕느암 바깥까지 미쳤으며",
+      "en": "Baana son of Ahilud--in Taanach and Megiddo, and in all of Beth Shan next to Zarethan below Jezreel, from Beth Shan to Abel Meholah across to Jokmeam;",
+      "de": "Baana, der Sohn Ahiluds, zu Thaanach und zu Megiddo und über ganz Beth-Sean, welches liegt neben Zarthan unter Jesreel, von Beth-Sean bis an Abel-Mehola, bis jenseit Jokmeams;",
+      "zh": "在他纳和米吉多，并靠近撒拉他拿、耶斯列下边的伯·善全地，从伯·善到亚伯·米何拉直到约念之外，有亚希律的儿子巴拿；",
+      "ja": "アルヒデの子バアナはタアナクとメギドとヱズレルの下にザルタナの邊にあるベテシヤンの全地とを擔任てベテシヤンよりアベルメホラにいたりヨクネアムの外にまで及ぶ"
+    },
+    {
+      "number": 13,
+      "ko": "길르앗 라못에는 벤게벨이니 그는 길르앗에 있는 므낫세의 아들 야일의 모든 마을을 주관하였고 또 바산 아르곱 땅의 성벽과 놋빗장 있는 육십 개의 큰 성읍을 주관하였으며",
+      "en": "Ben-Geber--in Ramoth Gilead (the settlements of Jair son of Manasseh in Gilead were his, as well as the district of Argob in Bashan and its sixty large walled cities with bronze gate bars);",
+      "de": "der Sohn Gebers zu Ramoth in Gilead, und hatte die Flecken Jairs, des Sohnes Manasses, in Gilead und hatte die Gegend Argob, die in Basan liegt, sechzig große Städte, vermauert und mit ehernen Riegeln;",
+      "zh": "在基列的拉末有便·基别，他管理在基列的玛拿西子孙睚珥的城邑，巴珊的亚珥歌伯地的大城六十座，都有城墙和铜闩；",
+      "ja": "ギレアデのラモテにはベンゲベルあり彼はギレアデにあるマナセの子ヤイルの諸村を擔任ち又バシヤンなるアルゴブの地にある石垣と銅の關を有る大なる城六十を擔任り"
+    },
+    {
+      "number": 14,
+      "ko": "마하나임에는 잇도의 아들 아히나답이요",
+      "en": "Ahinadab son of Iddo--in Mahanaim;",
+      "de": "Ahinadab, der Sohn Iddos, zu Mahanaim;",
+      "zh": "在玛哈念有易多的儿子亚希拿达；",
+      "ja": "イドの子アヒナダブはマハナイムを擔任り"
+    },
+    {
+      "number": 15,
+      "ko": "납달리에는 아히마아스이니 그는 솔로몬의 딸 바스맛을 아내로 삼았으며",
+      "en": "Ahimaaz--in Naphtali (he had married Basemath daughter of Solomon);",
+      "de": "Ahimaaz in Naphthali, und der nahm auch Salomos Tochter Basmath zum Weibe;",
+      "zh": "在拿弗他利有亚希玛斯，他也娶了所罗门的一个女儿巴实抹为妻；",
+      "ja": "ナフタリにはアヒマアズあり彼もソロモンの女バスマテを妻に娶れり"
+    },
+    {
+      "number": 16,
+      "ko": "아셀과 아롯에는 후새의 아들 바아나요",
+      "en": "Baana son of Hushai--in Asher and in Aloth;",
+      "de": "Baana, der Sohn Husais, in Asser und zu Aloth;",
+      "zh": "在亚设和亚禄有户筛的儿子巴拿；",
+      "ja": "アセルとアロテにはホシヤイの子バアナあり"
+    },
+    {
+      "number": 17,
+      "ko": "잇사갈에는 바루아의 아들 여호사밧이요",
+      "en": "Jehoshaphat son of Paruah--in Issachar;",
+      "de": "Josaphat, der Sohn Paruahs, in Isaschar;",
+      "zh": "在以萨迦有帕路亚的儿子约沙法；",
+      "ja": "イツサカルにはパルアの子ヨシヤパテあり"
+    },
+    {
+      "number": 18,
+      "ko": "베냐민에는 엘라의 아들 시므이요",
+      "en": "Shimei son of Ela--in Benjamin;",
+      "de": "Simei, der Sohn Elas, in Benjamin;",
+      "zh": "在便雅悯有以拉的儿子示每；",
+      "ja": "ベニヤミンにはエラの子シメイあり"
+    },
+    {
+      "number": 19,
+      "ko": "아모리 사람의 왕 시혼과 바산 왕 옥의 나라 길르앗 땅에는 우리의 아들 게벨이니 그 땅에서는 그 한 사람만 지방 관장이 되었더라",
+      "en": "Geber son of Uri--in Gilead (the country of Sihon king of the Amorites and the country of Og king of Bashan). He was the only governor over the district.",
+      "de": "Geber, der Sohn Uris, im Lande Gilead, im Lande Sihons, des Königs der Amoriter und Ogs, des Königs von Basan (ein Amtmann war in demselben Lande).",
+      "zh": "在基列地，就是从前属亚摩利王西宏和巴珊王噩之地，有乌利的儿子基别一人管理。",
+      "ja": "アモリ人の王シホンの地およびバシヤンの王オグの地なるギレアデの地にはウリの子ゲベルあり其地にありし代官は唯彼一人のみ"
+    },
+    {
+      "number": 20,
+      "ko": "유다와 이스라엘의 인구가 바닷가의 모래 같이 많게 되매 먹고 마시며 즐거워하였으며",
+      "en": "The people of Judah and Israel were as numerous as the sand on the seashore; they ate, they drank and they were happy.",
+      "de": "Juda aber und Israel, deren war viel wie der Sand am Meer, und sie aßen und tranken und waren fröhlich.",
+      "zh": "犹大人和以色列人如同海边的沙那样多，都吃喝快乐。",
+      "ja": "ユダとイスラエルの人は多くして濱の沙の多きがごとくなりしが飮食して樂めり"
+    },
+    {
+      "number": 21,
+      "ko": "솔로몬이 그 강에서부터 블레셋 사람의 땅에 이르기까지와 애굽 지경에 미치기까지의 모든 나라를 다스리므로 솔로몬이 사는 동안에 그 나라들이 조공을 바쳐 섬겼더라",
+      "en": "And Solomon ruled over all the kingdoms from the River to the land of the Philistines, as far as the border of Egypt. These countries brought tribute and were Solomon's subjects all his life.",
+      "de": "5:1 Also war Salomo ein Herr über alle Königreiche, von dem Strom an bis zu der Philister Lande und bis an die Grenze Ägyptens, die ihm Geschenke zubrachten und ihm dienten sein Leben lang.",
+      "zh": "所罗门统管诸国，从大河到非利士地，直到埃及的边界。所罗门在世的日子，这些国都进贡服事他。",
+      "ja": "ソロモンは河よりペリシテ人の地にいたるまでとエジプトの境に及ぶまでの諸國を治めたれば皆禮物を餽りてソロモンの一生の間事へたり"
+    },
+    {
+      "number": 22,
+      "ko": "솔로몬의 하루의 음식물은 가는 밀가루가 삼십 고르요 굵은 밀가루가 육십 고르요",
+      "en": "Solomon's daily provisions were thirty cors of fine flour and sixty cors of meal,",
+      "de": "5:2 Und Salomo mußte täglich zur Speisung haben dreißig Kor Semmelmehl, sechzig Kor anderes Mehl,",
+      "zh": "所罗门每日所用的食物：细面三十歌珥，粗面六十歌珥，",
+      "ja": "偖ソロモンの一日の食物は細麺三十石粗麺六十石"
+    },
+    {
+      "number": 23,
+      "ko": "살진 소가 열 마리요 초장의 소가 스무 마리요 양이 백 마리이며 그 외에 수사슴과 노루와 암사슴과 살진 새들이었더라",
+      "en": "ten head of stall-fed cattle, twenty of pasture-fed cattle and a hundred sheep and goats, as well as deer, gazelles, roebucks and choice fowl.",
+      "de": "5:3 zehn gemästete Rinder und zwanzig Weiderinder und hundert Schafe, ausgenommen Hirsche und Rehe und Gemsen und gemästetes Federvieh.",
+      "zh": "肥牛十只，草场的牛二十只，羊一百只，还有鹿、羚羊、狍子，并肥禽。",
+      "ja": "肥牛十牧場の牛二十羊一百其外に牡鹿羚羊小鹿および肥たる禽あり"
+    },
+    {
+      "number": 24,
+      "ko": "솔로몬이 그 강 건너편을 딥사에서부터 가사까지 모두, 그 강 건너편의 왕을 모두 다스리므로 그가 사방에 둘린 민족과 평화를 누렸으니",
+      "en": "For he ruled over all the kingdoms west of the River, from Tiphsah to Gaza, and had peace on all sides.",
+      "de": "5:4 Denn er herrschte im ganzen Lande diesseit des Stromes, von Tiphsah bis gen Gaza, über alle Könige diesseit des Stromes, und hatte Frieden von allen seinen Untertanen umher,",
+      "zh": "所罗门管理大河西边的诸王，以及从提弗萨直到迦萨的全地，四境尽都平安。",
+      "ja": "其はソロモン河の此方をテフサよりガザまで盡く治めたればなり即ち河の此方の諸王を悉く統治たり彼は四方の臣僕より平安を得たりき"
+    },
+    {
+      "number": 25,
+      "ko": "솔로몬이 사는 동안에 유다와 이스라엘이 단에서부터 브엘세바에 이르기까지 각기 포도나무 아래와 무화과나무 아래에서 평안히 살았더라",
+      "en": "During Solomon's lifetime Judah and Israel, from Dan to Beersheba, lived in safety, each man under his own vine and fig tree.",
+      "de": "5:5 daß Juda und Israel sicher wohnten, ein jeglicher unter seinem Weinstock und unter seinem Feigenbaum, von Dan bis gen Beer-Seba, solange Salomo lebte.",
+      "zh": "所罗门在世的日子，从但到别是巴的犹大人和以色列人都在自己的葡萄树下和无花果树下安然居住。",
+      "ja": "ソロモンの一生の間ユダとイスラエルはダンよりベエルシバに至るまで安然に各其葡萄樹の下と無花果樹の下に住り"
+    },
+    {
+      "number": 26,
+      "ko": "솔로몬의 병거의 말 외양간이 사만이요 마병이 만 이천 명이며",
+      "en": "Solomon had four thousand stalls for chariot horses, and twelve thousand horses.",
+      "de": "5:6 Und Salomo hatte vierzigtausend Wagenpferde und zwölftausend Reisige.",
+      "zh": "所罗门有套车的马四万，还有马兵一万二千。",
+      "ja": "ソロモン戰車の馬の厩四千騎兵一萬二千を有り"
+    },
+    {
+      "number": 27,
+      "ko": "그 지방 관장들은 각각 자기가 맡은 달에 솔로몬 왕과 왕의 상에 참여하는 모든 자를 위하여 먹을 것을 공급하여 부족함이 없게 하였으며",
+      "en": "The district officers, each in his month, supplied provisions for King Solomon and all who came to the king's table. They saw to it that nothing was lacking.",
+      "de": "5:7 Und die Amtleute versorgten den König Salomo und alles, was zum Tisch des Königs gehörte, ein jeglicher in seinem Monat, und ließen nichts fehlen.",
+      "zh": "那十二个官吏各按各月供给所罗门王，并一切与他同席之人的食物，一无所缺。",
+      "ja": "彼代官等各其月にソロモン王のためおよび總てソロモン王の席に來る者の爲に食を備へて缺るとこるなからしめたり"
+    },
+    {
+      "number": 28,
+      "ko": "또 그들이 각기 직무를 따라 말과 준마에게 먹일 보리와 꼴을 그 말들이 있는 곳으로 가져왔더라",
+      "en": "They also brought to the proper place their quotas of barley and straw for the chariot horses and the other horses.",
+      "de": "5:8 Auch Gerste und Stroh für die Rosse und Renner brachten sie an den Ort, da er war, ein jeglicher nach seinem Befehl.",
+      "zh": "众人各按各分，将养马与快马的大麦和干草送到官吏那里。",
+      "ja": "又彼等各其職に循ひて馬および疾足の馬に食する大麥と蒭蕘を其馬の在る處に携へ來れり"
+    },
+    {
+      "number": 29,
+      "ko": "하나님이 솔로몬에게 지혜와 총명을 심히 많이 주시고 또 넓은 마음을 주시되 바닷가의 모래 같이 하시니",
+      "en": "God gave Solomon wisdom and very great insight, and a breadth of understanding as measureless as the sand on the seashore.",
+      "de": "5:9 Und Gott gab Salomo sehr große Weisheit und Verstand und reichen Geist wie Sand, der am Ufer des Meeres liegt,",
+      "zh": "神赐给所罗门极大的智慧聪明和广大的心，如同海沙不可测量。",
+      "ja": "神ソロモンに智慧と聰明を甚だ多く賜ひ又廣大き心を賜ふ海濱の沙のごとし"
+    },
+    {
+      "number": 30,
+      "ko": "솔로몬의 지혜가 동쪽 모든 사람의 지혜와 애굽의 모든 지혜보다 뛰어난지라",
+      "en": "Solomon's wisdom was greater than the wisdom of all the men of the East, and greater than all the wisdom of Egypt.",
+      "de": "5:10 daß die Weisheit Salomos größer war denn aller, die gegen Morgen wohnen, und aller Ägypter Weisheit.",
+      "zh": "所罗门的智慧超过东方人和埃及人的一切智慧。",
+      "ja": "ソロモンの智慧は東洋の人々の智慧とエジプトの諸の智慧よりも大なりき"
+    },
+    {
+      "number": 31,
+      "ko": "그는 모든 사람보다 지혜로워서 예스라 사람 에단과 마홀의 아들 헤만과 갈골과 다르다보다 나으므로 그의 이름이 사방 모든 나라에 들렸더라",
+      "en": "He was wiser than any other man, including Ethan the Ezrahite--wiser than Heman, Calcol and Darda, the sons of Mahol. And his fame spread to all the surrounding nations.",
+      "de": "5:11 Und er war weiser denn alle Menschen, auch weiser denn Ethan, der Esrahiter, Heman, Chalkol und Darda, die Söhne Mahols, und war berühmt unter allen Heiden umher.",
+      "zh": "他的智慧胜过万人，胜过以斯拉人以探，并玛曷的儿子希幔、甲各、达大的智慧。他的名声传扬在四围的列国。",
+      "ja": "彼は凡の人よりも賢くエズラ人エタンよりも又マホルの子なるヘマンとカルコルおよびダルダよりも賢くして其名四方の諸國に聞えたり"
+    },
+    {
+      "number": 32,
+      "ko": "그가 잠언 삼천 가지를 말하였고 그의 노래는 천다섯 편이며",
+      "en": "He spoke three thousand proverbs and his songs numbered a thousand and five.",
+      "de": "5:12 Und er redete dreitausend Sprüche, und seine Lieder waren tausendundfünf.",
+      "zh": "他作箴言三千句，诗歌一千零五首。",
+      "ja": "彼箴言三千を説り又其詩歌は一千五首あり"
+    },
+    {
+      "number": 33,
+      "ko": "그가 또 초목에 대하여 말하되 레바논의 백향목으로부터 담에 나는 우슬초까지 하고 그가 또 짐승과 새와 기어다니는 것과 물고기에 대하여 말한지라",
+      "en": "He described plant life, from the cedar of Lebanon to the hyssop that grows out of walls. He also taught about animals and birds, reptiles and fish.",
+      "de": "5:13 Und er redete von Bäumen, von der Zeder an auf dem Libanon bis an Isop, der aus der Wand wächst. Auch redete er von Vieh, von Vögeln, von Gewürm und von Fischen.",
+      "zh": "他讲论草木，自黎巴嫩的香柏树直到墙上长的牛膝草，又讲论飞禽走兽、昆虫水族。",
+      "ja": "彼又草木の事を論じてレバノンの香柏より墻に生る苔に迄及べり彼亦獣と鳥と匐行物と魚の事を論じたり"
+    },
+    {
+      "number": 34,
+      "ko": "사람들이 솔로몬의 지혜를 들으러 왔으니 이는 그의 지혜의 소문을 들은 천하 모든 왕들이 보낸 자들이더라",
+      "en": "Men of all nations came to listen to Solomon's wisdom, sent by all the kings of the world, who had heard of his wisdom.",
+      "de": "5:14 Und es kamen aus allen Völkern, zu hören die Weisheit Salomos, von allen Königen auf Erden, die von seiner Weisheit gehört hatten.",
+      "zh": "天下列王听见所罗门的智慧，就都差人来听他的智慧话。",
+      "ja": "諸の國の人々ソロモンの智慧を聽んとて來り天下の諸の王ソロモンの智慧を聞及びて人を遣はせり"
+    }
+  ]
+}

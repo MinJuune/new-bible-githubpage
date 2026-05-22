@@ -1,0 +1,358 @@
+{
+  "book": "1 Samuel",
+  "chapter": 25,
+  "verses": [
+    {
+      "number": 1,
+      "ko": "사무엘이 죽으매 온 이스라엘 무리가 모여 그를 두고 슬피 울며 라마 그의 집에서 그를 장사한지라 다윗이 일어나 바란 광야로 내려가니라",
+      "en": "Now Samuel died, and all Israel assembled and mourned for him; and they buried him at his home in Ramah. Then David moved down into the Desert of Maon.",
+      "de": "Und Samuel starb; und das ganze Israel versammelte sich und trug Leid um ihn, und sie begruben ihn in seinem Hause zu Rama. David aber machte sich auf und zog hinab in die Wüste Pharan.",
+      "zh": "撒母耳死了，以色列众人聚集，为他哀哭，将他葬在拉玛—他自己的坟墓里。 大卫起身，下到巴兰的旷野。",
+      "ja": "爰にサムエル死にしかばイスラエル人皆あつまりて之をかなしみラマにあるその家にてこれを葬むれりダビデたちてバランの野にくだる"
+    },
+    {
+      "number": 2,
+      "ko": "마온에 한 사람이 있는데 그의 생업이 갈멜에 있고 심히 부하여 양이 삼천 마리요 염소가 천 마리이므로 그가 갈멜에서 그의 양 털을 깎고 있었으니",
+      "en": "A certain man in Maon, who had property there at Carmel, was very wealthy. He had a thousand goats and three thousand sheep, which he was shearing in Carmel.",
+      "de": "Und es war ein Mann zu Maon und sein Wesen zu Karmel; und der Mann war sehr großen Vermögens und hatte dreitausend Schafe und tausend Ziegen. Und es begab sich eben, daß er seine Schafe schor zu Karmel.",
+      "zh": "在玛云有一个人，他的产业在迦密，是一个大富户，有三千绵羊，一千山羊；他正在迦密剪羊毛。",
+      "ja": "マオンに一箇の人あり其所有はカルメルにあり其人甚だ大なる者にして三千の羊と一千の山羊をもちしがカルメルにて羊の毛を剪り居たり"
+    },
+    {
+      "number": 3,
+      "ko": "그 사람의 이름은 나발이요 그의 아내의 이름은 아비가일이라 그 여자는 총명하고 용모가 아름다우나 남자는 완고하고 행실이 악하며 그는 갈렙 족속이었더라",
+      "en": "His name was Nabal and his wife's name was Abigail. She was an intelligent and beautiful woman, but her husband, a Calebite, was surly and mean in his dealings.",
+      "de": "Und er hieß Nabal; sein Weib aber hieß Abigail und war ein Weib von guter Vernunft und schön von Angesicht; der Mann aber war hart und boshaft in seinem Tun und war einer von Kaleb.",
+      "zh": "那人名叫拿八，是迦勒族的人；他的妻名叫亚比该，是聪明俊美的妇人。拿八为人刚愎凶恶。",
+      "ja": "其人の名はナバルといひ其妻の名はアビガルといふアビガルは賢く顔美き婦なりされど其夫は剛愎にして其爲すところ惡かりきかれはカレブの人なり"
+    },
+    {
+      "number": 4,
+      "ko": "다윗이 나발이 자기 양 털을 깎는다 함을 광야에서 들은지라",
+      "en": "While David was in the desert, he heard that Nabal was shearing sheep.",
+      "de": "Da nun David in der Wüste hörte, daß Nabal seine Schafe schor,",
+      "zh": "大卫在旷野听见说拿八剪羊毛，",
+      "ja": "ダビデ野にありてナバルが其羊の毛を剪りをるを聞き"
+    },
+    {
+      "number": 5,
+      "ko": "다윗이 이에 소년 열 명을 보내며 그 소년들에게 이르되 너희는 갈멜로 올라가 나발에게 이르러 내 이름으로 그에게 문안하고",
+      "en": "So he sent ten young men and said to them, \"Go up to Nabal at Carmel and greet him in my name.",
+      "de": "sandte er aus zehn Jünglinge und sprach zu ihnen: Gehet hinauf gen Karmel; und wenn ihr zu Nabal kommt, so grüßet ihn von mir freundlich",
+      "zh": "大卫就打发十个仆人，吩咐他们说：「你们上迦密去见拿八，提我的名问他安。",
+      "ja": "ダビデ十人の少者を遣はすダビデ其少者にいひけるはカルメルにのぼりナバルにいたりわが名をもてかれに安否をとひ"
+    },
+    {
+      "number": 6,
+      "ko": "그 부하게 사는 자에게 이르기를 너는 평강하라 네 집도 평강하라 네 소유의 모든 것도 평강하라",
+      "en": "Say to him: 'Long life to you! Good health to you and your household! And good health to all that is yours!",
+      "de": "und sprecht: Glück zu! Friede sei mit dir und deinem Hause und mit allem, was du hast!",
+      "zh": "要对那富户如此说：『愿你平安，愿你家平安，愿你一切所有的都平安。",
+      "ja": "かくのごとくいへ願くは壽ながかれ爾平安なれ爾の家やすらかなれ爾が有ところの物みなやすらかなれ"
+    },
+    {
+      "number": 7,
+      "ko": "네게 양 털 깎는 자들이 있다 함을 이제 내가 들었노라 네 목자들이 우리와 함께 있었으나 우리가 그들을 해하지 아니하였고 그들이 갈멜에 있는 동안에 그들의 것을 하나도 잃지 아니하였나니",
+      "en": "\"'Now I hear that it is sheep-shearing time. When your shepherds were with us, we did not mistreat them, and the whole time they were at Carmel nothing of theirs was missing.",
+      "de": "Ich habe gehört, daß du Schafscherer hast. Nun, deine Hirten, die du hast, sind mit uns gewesen; wir haben sie nicht verhöhnt, und hat ihnen nichts gefehlt an der Zahl, solange sie zu Karmel gewesen sind",
+      "zh": "现在我听说有人为你剪羊毛，你的牧人在迦密的时候和我们在一处，我们没有欺负他们，他们也未曾失落什么。",
+      "ja": "我爾が羊毛を剪せをるを聞り爾の牧羊者は我らとともにありしが我らこれを害せざりきまたかれらがカルメルにありしあひだかれらの物何も失たることなし"
+    },
+    {
+      "number": 8,
+      "ko": "네 소년들에게 물으면 그들이 네게 말하리라 그런즉 내 소년들이 네게 은혜를 얻게 하라 우리가 좋은 날에 왔은즉 네 손에 있는 대로 네 종들과 네 아들 다윗에게 주기를 원하노라 하더라 하라",
+      "en": "Ask your own servants and they will tell you. Therefore be favorable toward my young men, since we come at a festive time. Please give your servants and your son David whatever you can find for them.'\"",
+      "de": "frage deine Jünglinge darum, die werden dir's sagen, und laß die Jünglinge Gnade finden vor deinen Augen; denn wir sind auf einen guten Tag gekommen. Gib deinen Knechten und deinem Sohn David, was deine Hand findet.",
+      "zh": "可以问你的仆人，他们必告诉你。所以愿我的仆人在你眼前蒙恩，因为是在好日子来的。求你随手取点赐与仆人和你儿子大卫。』」",
+      "ja": "爾の少者に問へかれら爾につげん願くは少者をして爾のまへに恩をえせしめよ我ら吉日に來る請ふ爾の手にあるところの物を爾の僕らおよび爾の子ダビデにあたへよ"
+    },
+    {
+      "number": 9,
+      "ko": "다윗의 소년들이 가서 다윗의 이름으로 이 모든 말을 나발에게 말하기를 마치매",
+      "en": "When David's men arrived, they gave Nabal this message in David's name. Then they waited.",
+      "de": "Und da die Jünglinge Davids hinkamen und in Davids Namen alle diese Worte mit Nabal geredet hatten, hörten sie auf.",
+      "zh": "大卫的仆人到了，将这话提大卫的名都告诉了拿八，就住了口。",
+      "ja": "ダビデの少者いたりダビデの名をもって是らのことばの如くナバルに語りてやめり"
+    },
+    {
+      "number": 10,
+      "ko": "나발이 다윗의 사환들에게 대답하여 이르되 다윗은 누구며 이새의 아들은 누구냐 요즈음에 각기 주인에게서 억지로 떠나는 종이 많도다",
+      "en": "Nabal answered David's servants, \"Who is this David? Who is this son of Jesse? Many servants are breaking away from their masters these days.",
+      "de": "Aber Nabal antwortete den Knechten Davids und sprach: Wer ist David? und wer ist der Sohn Isais? Es werden jetzt der Knechte viel, die sich von ihren Herren reißen.",
+      "zh": "拿八回答大卫的仆人说：「大卫是谁？耶西的儿子是谁？近来悖逆主人奔逃的仆人甚多，",
+      "ja": "ナバル、ダビデの僕にこたへていひけるはダビデは誰なるヱサイの子は誰なる此頃は主人をすてて遁逃るる僕おほし"
+    },
+    {
+      "number": 11,
+      "ko": "내가 어찌 내 떡과 물과 내 양 털 깎는 자를 위하여 잡은 고기를 가져다가 어디서 왔는지도 알지 못하는 자들에게 주겠느냐 한지라",
+      "en": "Why should I take my bread and water, and the meat I have slaughtered for my shearers, and give it to men coming from who knows where?\"",
+      "de": "Sollte ich mein Brot, Wasser und Fleisch nehmen, das ich für meine Scherer geschlachtet habe, und den Leuten geben, die ich nicht kenne, wo sie her sind?",
+      "zh": "我岂可将饮食和为我剪羊毛人所宰的肉给我不知道从哪里来的人呢？」",
+      "ja": "我あにわがパンと水およびわが羊毛をきる者のために殺したる肉をとりて何處よりか知れざるところの人々にあたふべけんや"
+    },
+    {
+      "number": 12,
+      "ko": "이에 다윗의 소년들이 돌아서 자기 길로 행하여 돌아와 이 모든 말을 그에게 전하매",
+      "en": "David's men turned around and went back. When they arrived, they reported every word.",
+      "de": "Da kehrten sich die Jünglinge Davids wieder auf ihren Weg; und da sie wieder zu ihm kamen, sagten sie ihm solches alles.",
+      "zh": "大卫的仆人就转身从原路回去，照这话告诉大卫。",
+      "ja": "ダビデの少者ふりかへりて其道に就き歸りきたりて此等の言のごとくダビデに告ぐ"
+    },
+    {
+      "number": 13,
+      "ko": "다윗이 자기 사람들에게 이르되 너희는 각기 칼을 차라 하니 각기 칼을 차매 다윗도 자기 칼을 차고 사백 명 가량은 데리고 올라가고 이백 명은 소유물 곁에 있게 하니라",
+      "en": "David said to his men, \"Put on your swords!\" So they put on their swords, and David put on his. About four hundred men went up with David, while two hundred stayed with the supplies.",
+      "de": "Da sprach David zu seinen Männern: Gürte ein jeglicher sein Schwert um sich und David gürtete sein Schwert auch um sich, und zogen hinauf bei vierhundert Mann; aber zweihundert blieben bei dem Geräte.",
+      "zh": "大卫向跟随他的人说：「你们各人都要带上刀！」众人就都带上刀，大卫也带上刀。跟随大卫上去的约有四百人，留下二百人看守器具。",
+      "ja": "是においてダビデ其從者に爾らおのおの劍を帶よと言ければ各劍をおぶダビデもまた劍をおぶ而して四百人ばかりダビデにしたがひて上り二百人は輜重のところに止れり"
+    },
+    {
+      "number": 14,
+      "ko": "하인들 가운데 하나가 나발의 아내 아비가일에게 말하여 이르되 다윗이 우리 주인에게 문안하러 광야에서 전령들을 보냈거늘 주인이 그들을 모욕하였나이다",
+      "en": "One of the servants told Nabal's wife Abigail: \"David sent messengers from the desert to give our master his greetings, but he hurled insults at them.",
+      "de": "Aber der Abigail, Nabals Weib, sagte an der Jünglinge einer und sprach: Siehe, David hat Boten gesandt aus der Wüste, unsern Herrn zu grüßen; er aber schnaubte sie an.",
+      "zh": "有拿八的一个仆人告诉拿八的妻亚比该说：「大卫从旷野打发使者来问我主人的安，主人却辱骂他们。",
+      "ja": "時にひとりの少者ナバルの妻アビガルに告ていひけるは視よダビデ野より使者をおくりて我らの主人を祝したるに主人かれらを詈れり"
+    },
+    {
+      "number": 15,
+      "ko": "우리가 들에 있어 그들과 상종할 동안에 그 사람들이 우리를 매우 선대하였으므로 우리가 다치거나 잃은 것이 없었으니",
+      "en": "Yet these men were very good to us. They did not mistreat us, and the whole time we were out in the fields near them nothing was missing.",
+      "de": "Und sie sind uns doch sehr nützliche Leute gewesen und haben uns nicht verhöhnt, und hat uns nichts gefehlt an der Zahl, solange wir bei ihnen gewandelt haben, wenn wir auf dem Felde waren;",
+      "zh": "但是那些人待我们甚好；我们在田野与他们来往的时候，没有受他们的欺负，也未曾失落什么。",
+      "ja": "されどかの人々はわれらに甚だ善くなし我らは害をかうむらず亦われら野にありし時かれらとともにをるあひだはなにをも失なはざりき"
+    },
+    {
+      "number": 16,
+      "ko": "우리가 양을 지키는 동안에 그들이 우리와 함께 있어 밤낮 우리에게 담이 되었음이라",
+      "en": "Night and day they were a wall around us all the time we were herding our sheep near them.",
+      "de": "sondern sie sind unsre Mauern gewesen Tag und Nacht, solange wir die Schafe bei ihnen gehütet haben.",
+      "zh": "我们在他们那里牧羊的时候，他们昼夜作我们的保障。",
+      "ja": "我らが羊をかひて彼らとともにありしあひだ彼らは日夜われらの墻となれり"
+    },
+    {
+      "number": 17,
+      "ko": "그런즉 이제 당신은 어떻게 할지를 알아 생각하실지니 이는 다윗이 우리 주인과 주인의 온 집을 해하기로 결정하였음이니이다 주인은 불량한 사람이라 더불어 말할 수 없나이다 하는지라",
+      "en": "Now think it over and see what you can do, because disaster is hanging over our master and his whole household. He is such a wicked man that no one can talk to him.\"",
+      "de": "So merke nun und siehe, was du tust; denn es ist gewiß ein Unglück vorhanden über unsern Herrn und über sein ganzes Haus; und er ist ein heilloser Mann, dem niemand etwas sagen darf.",
+      "zh": "所以你当筹划，看怎样行才好；不然，祸患定要临到我主人和他全家。他性情凶暴，无人敢与他说话。」",
+      "ja": "されば爾今しりてなにをなさんかを考ふべし其はわれらの主人および主人の全家に定めて害きたるべければなり主人は邪魔なる者にして語ることをえずと"
+    },
+    {
+      "number": 18,
+      "ko": "아비가일이 급히 떡 이백 덩이와 포도주 두 가죽 부대와 잡아서 요리한 양 다섯 마리와 볶은 곡식 다섯 세아와 건포도 백 송이와 무화과 뭉치 이백 개를 가져다가 나귀들에게 싣고",
+      "en": "Abigail lost no time. She took two hundred loaves of bread, two skins of wine, five dressed sheep, five seahs of roasted grain, a hundred cakes of raisins and two hundred cakes of pressed figs, and loaded them on donkeys.",
+      "de": "Da eilte Abigail und nahm zweihundert Brote und zwei Krüge Wein und fünf gekochte Schafe und fünf Scheffel Mehl und hundert Rosinenkuchen und zweihundert Feigenkuchen und lud's auf Esel",
+      "zh": "亚比该急忙将二百饼，两皮袋酒，五只收拾好了的羊，五细亚烘好了的穗子，一百葡萄饼，二百无花果饼，都驮在驴上，",
+      "ja": "アビガルいそぎパン二百酒の革嚢二旣に調へたる羊五烘麥五セア乾葡萄百球乾無花果の團塊二百を取て驢馬にのせ"
+    },
+    {
+      "number": 19,
+      "ko": "소년들에게 이르되 나를 앞서 가라 나는 너희 뒤에 가리라 하고 그의 남편 나발에게는 말하지 아니하니라",
+      "en": "Then she told her servants, \"Go on ahead; I'll follow you.\" But she did not tell her husband Nabal.",
+      "de": "und sprach zu ihren Jünglingen: Geht vor mir hin; siehe, ich will kommen hernach. Und sie sagte ihrem Mann Nabal nichts davon.",
+      "zh": "对仆人说：「你们前头走，我随着你们去。」这事她却没有告诉丈夫拿八。",
+      "ja": "其少者にいひけるは我先に進め視よ我爾らの後にゆくと然ど其夫ナバルには告げざりき"
+    },
+    {
+      "number": 20,
+      "ko": "아비가일이 나귀를 타고 산 호젓한 곳을 따라 내려가더니 다윗과 그의 사람들이 자기에게로 내려오는 그들과 마주치니라",
+      "en": "As she came riding her donkey into a mountain ravine, there were David and his men descending toward her, and she met them.",
+      "de": "Und als sie nun auf dem Esel ritt und hinabzog im Dunkel des Berges, siehe, da kam David und seine Männer hinab ihr entgegen, daß sie auf sie stieß.",
+      "zh": "亚比该骑着驴，正下山坡，见大卫和跟随他的人从对面下来，亚比该就迎接他们。",
+      "ja": "アビガル驢馬にのりて山の僻處にくだれる時視よダビデと其從者かれにむかひてくだりければかれ其人々にあふ"
+    },
+    {
+      "number": 21,
+      "ko": "다윗이 이미 말하기를 내가 이 자의 소유물을 광야에서 지켜 그 모든 것을 하나도 손실이 없게 한 것이 진실로 허사라 그가 악으로 나의 선을 갚는도다",
+      "en": "David had just said, \"It's been useless--all my watching over this fellow's property in the desert so that nothing of his was missing. He has paid me back evil for good.",
+      "de": "David aber hatte geredet: Wohlan, ich habe umsonst behütet alles, was dieser hat in der Wüste, daß nichts gefehlt hat an allem, was er hat; und er bezahlt mir Gutes mit Bösem.",
+      "zh": "大卫曾说：「我在旷野为那人看守所有的，以致他一样不失落，实在是徒然了！他向我以恶报善。",
+      "ja": "ダビデかつていひけるは誠にわれ徒に此人の野にて有る物をみなまもりてその物をして何もうせざらしめたりかれは惡をもてわが善にむくゆ"
+    },
+    {
+      "number": 22,
+      "ko": "내가 그에게 속한 모든 남자 가운데 한 사람이라도 아침까지 남겨 두면 하나님은 다윗에게 벌을 내리시고 또 내리시기를 원하노라 하였더라",
+      "en": "May God deal with David, be it ever so severely, if by morning I leave alive one male of all who belong to him!\"",
+      "de": "Gott tue dies und noch mehr den Feinden Davids, wo ich diesem bis zum lichten Morgen übriglasse einen, der männlich ist, aus allem, was er hat.",
+      "zh": "凡属拿八的男丁，我若留一个到明日早晨，愿　神重重降罚与我！」",
+      "ja": "ねがはくは神ダビデの敵にかくなしまた重ねてかくなしたまへ明晨までに我はナバルに屬する總ての物の中ひとりの男をものこさざるべし"
+    },
+    {
+      "number": 23,
+      "ko": "아비가일이 다윗을 보고 급히 나귀에서 내려 다윗 앞에 엎드려 그의 얼굴을 땅에 대니라",
+      "en": "When Abigail saw David, she quickly got off her donkey and bowed down before David with her face to the ground.",
+      "de": "Da nun Abigail David sah, stieg sie eilend vom Esel und fiel vor David auf ihr Antlitz und beugte sich nieder zur Erde",
+      "zh": "亚比该见大卫，便急忙下驴，在大卫面前脸伏于地叩拜，",
+      "ja": "アビガル、ダビデを視しとき急ぎ驢馬よりおりダビデのまへに地に俯して拝し"
+    },
+    {
+      "number": 24,
+      "ko": "그가 다윗의 발에 엎드려 이르되 내 주여 원하건대 이 죄악을 나 곧 내게로 돌리시고 여종에게 주의 귀에 말하게 하시고 이 여종의 말을 들으소서",
+      "en": "She fell at his feet and said: \"My lord, let the blame be on me alone. Please let your servant speak to you; hear what your servant has to say.",
+      "de": "und fiel zu seinen Füßen und sprach: Ach, mein Herr, mein sei die Missetat, und laß deine Magd reden vor deinen Ohren und höre die Worte deiner Magd!",
+      "zh": "俯伏在大卫的脚前，说：「我主啊，愿这罪归我！求你容婢女向你进言，更求你听婢女的话。",
+      "ja": "其足もとにふしていひけるはわが主よ此咎を我に歸したまへ但し婢をして爾の耳にいふことを得さしめ婢のことばを聽たまへ"
+    },
+    {
+      "number": 25,
+      "ko": "원하옵나니 내 주는 이 불량한 사람 나발을 개의치 마옵소서 그의 이름이 그에게 적당하니 그의 이름이 나발이라 그는 미련한 자니이다 여종은 내 주께서 보내신 소년들을 보지 못하였나이다",
+      "en": "May my lord pay no attention to that wicked man Nabal. He is just like his name--his name is Fool, and folly goes with him. But as for me, your servant, I did not see the men my master sent.",
+      "de": "Mein Herr setze nicht sein Herz wider diesen Nabal, den heillosen Mann; denn er ist ein Narr, wie sein Name heißt, und Narrheit ist bei ihm. Ich aber, deine Magd, habe die Jünglinge meines Herrn nicht gesehen, die du gesandt hast.",
+      "zh": "我主不要理这坏人拿八，他的性情与他的名相称；他名叫拿八，他为人果然愚顽。但我主所打发的仆人，婢女并没有看见。",
+      "ja": "ねがはくは我主この邪なる人ナバル(愚)の事を意に介むなかれ其はかれは其名の如くなればなりかれの名はナバルにしてかれは愚なりわれなんぢの婢はわが主のつかはせし少ものを見ざりき"
+    },
+    {
+      "number": 26,
+      "ko": "내 주여 여호와께서 살아 계심을 두고 맹세하노니 내 주도 살아 계시거니와 내 주의 손으로 피를 흘려 친히 보복하시는 일을 여호와께서 막으셨으니 내 주의 원수들과 내 주를 해하려 하는 자들은 나발과 같이 되기를 원하나이다",
+      "en": "\"Now since the LORD has kept you, my master, from bloodshed and from avenging yourself with your own hands, as surely as the LORD lives and as you live, may your enemies and all who intend to harm my master be like Nabal.",
+      "de": "Nun aber, mein Herr, so wahr der HERR lebt und so wahr deine Seele lebt, der HERR hat dich verhindert, daß du nicht kämst in Blutschuld und dir mit eigener Hand hilfst. So müssen nun werden wie Nabal deine Feinde und die meinem Herrn übelwollen.",
+      "zh": "我主啊，耶和华既然阻止你亲手报仇，取流血的罪，所以我指着永生的耶和华、又敢在你面前起誓说：『愿你的仇敌和谋害你的人都像拿八一样。』",
+      "ja": "さればわがしゆよヱホバはいくまたなんぢのたましひはいくヱホバなんぢのきたりて血をながしまた爾がみづから仇をむくゆるを阻めたまへりねがはくは爾の敵たるものおよびわが主に害をくはへんとする者はナバルのごとくなれ"
+    },
+    {
+      "number": 27,
+      "ko": "여종이 내 주께 가져온 이 예물을 내 주를 따르는 이 소년들에게 주게 하시고",
+      "en": "And let this gift, which your servant has brought to my master, be given to the men who follow you.",
+      "de": "Hier ist der Segen, den deine Magd meinem Herrn hergebracht hat; den gib den Jünglingen, die unter meinem Herrn wandeln.",
+      "zh": "如今求你将婢女送来的礼物给跟随你的仆人。",
+      "ja": "さて仕女がわが主にもちきたりしこの禮物をねがはくはわが主の足迹にあゆむ少者にたてまつらしめたまへ"
+    },
+    {
+      "number": 28,
+      "ko": "주의 여종의 허물을 용서하여 주옵소서 여호와께서 반드시 내 주를 위하여 든든한 집을 세우시리니 이는 내 주께서 여호와의 싸움을 싸우심이요 내 주의 일생에 내 주에게서 악한 일을 찾을 수 없음이니이다",
+      "en": "Please forgive your servant's offense, for the LORD will certainly make a lasting dynasty for my master, because he fights the LORD'S battles. Let no wrongdoing be found in you as long as you live.",
+      "de": "Vergib deiner Magd die Übertretung. Denn der HERR wird meinem Herrn ein beständiges Haus machen; denn du führst des HERRN Kriege; und laß kein Böses an dir gefunden werden dein Leben lang.",
+      "zh": "求你饶恕婢女的罪过。耶和华必为我主建立坚固的家，因我主为耶和华争战；并且在你平生的日子查不出有什么过来。",
+      "ja": "請ふ婢の過をゆるしたまへヱホバ必ずわが主のために堅き家を立たまはん是はわが主ヱホバの軍に戰ふにより又世にいでてよりこのかた爾の身に惡きこと見えざるによりてなり"
+    },
+    {
+      "number": 29,
+      "ko": "사람이 일어나서 내 주를 쫓아 내 주의 생명을 찾을지라도 내 주의 생명은 내 주의 하나님 여호와와 함께 생명 싸개 속에 싸였을 것이요 내 주의 원수들의 생명은 물매로 던지듯 여호와께서 그것을 던지시리이다",
+      "en": "Even though someone is pursuing you to take your life, the life of my master will be bound securely in the bundle of the living by the LORD your God. But the lives of your enemies he will hurl away as from the pocket of a sling.",
+      "de": "Und wenn sich ein Mensch erheben wird, dich zu verfolgen, und nach deiner Seele steht, so wird die Seele meines Herrn eingebunden sein im Bündlein der Lebendigen bei dem HERRN, deinem Gott; aber die Seele deiner Feinde wird geschleudert werden mit der Schleuder.",
+      "zh": "虽有人起来追逼你，寻索你的性命，你的性命却在耶和华—你的　神那里蒙保护，如包裹宝器一样；你仇敌的性命，耶和华必抛去，如用机弦甩石一样。",
+      "ja": "人たちて爾を追ひ爾の生命を求むれどもわが主の生命は爾の神ヱホバとともに生命の包裏の中に包みあり爾の敵の生命は投石器のうちより投すつる如くヱホバこれをなげすてたまはん"
+    },
+    {
+      "number": 30,
+      "ko": "여호와께서 내 주에 대하여 하신 말씀대로 모든 선을 내 주에게 행하사 내 주를 이스라엘의 지도자로 세우실 때에",
+      "en": "When the LORD has done for my master every good thing he promised concerning him and has appointed him leader over Israel,",
+      "de": "Wenn denn der HERR all das Gute meinem Herrn tun wird, was er dir geredet hat, und gebieten, daß du ein Herzog seist über Israel,",
+      "zh": "我主现在若不亲手报仇流无辜人的血，到了耶和华照所应许你的话赐福与你，立你作以色列的王，那时我主必不至心里不安，觉得良心有亏。耶和华赐福与我主的时候，求你记念婢女。」",
+      "ja": "ヱホバその爾につきて語りたまひし諸の善き事をわが主になして爾をイスラエルの主宰に命じたまはん時にいたりて"
+    },
+    {
+      "number": 31,
+      "ko": "내 주께서 무죄한 피를 흘리셨다든지 내 주께서 친히 보복하셨다든지 함으로 말미암아 슬퍼하실 것도 없고 내 주의 마음에 걸리는 것도 없으시리니 다만 여호와께서 내 주를 후대하실 때에 원하건대 내 주의 여종을 생각하소서 하니라",
+      "en": "my master will not have on his conscience the staggering burden of needless bloodshed or of having avenged himself. And when the LORD has brought my master success, remember your servant.\"",
+      "de": "so wird's dem Herzen meines Herrn nicht ein Anstoß noch Ärgernis sein, daß du Blut vergossen ohne Ursache und dir selber geholfen; so wird der HERR meinem Herrn wohltun und wirst an deine Magd gedenken.",
+      "zh": "大卫对亚比该说：「耶和华—以色列的　神是应当称颂的，因为他今日使你来迎接我。",
+      "ja": "爾の故なくして血をながしたることも又わが主のみづから其仇をむくいし事も爾の憂となることなくまたわが主の心の責となることなかるべし但しヱホバのわが主に善くなしたまふ時にいたらばねがはくは婢を憶たまへ"
+    },
+    {
+      "number": 32,
+      "ko": "다윗이 아비가일에게 이르되 오늘 너를 보내어 나를 영접하게 하신 이스라엘의 하나님 여호와를 찬송할지로다",
+      "en": "David said to Abigail, \"Praise be to the LORD, the God of Israel, who has sent you today to meet me.",
+      "de": "Da sprach David zu Abigail: Gelobt sei der HERR, der Gott Israels, der dich heutigestages hat mir entgegengesandt;",
+      "zh": "你和你的见识也当称赞；因为你今日拦阻我亲手报仇、流人的血。",
+      "ja": "ダビデ、アビガルにいふ今日汝をつかはして我をむかへしめたまふイスラエルの神ヱホバは頌美べきかな"
+    },
+    {
+      "number": 33,
+      "ko": "또 네 지혜를 칭찬할지며 또 네게 복이 있을지로다 오늘 내가 피를 흘릴 것과 친히 복수하는 것을 네가 막았느니라",
+      "en": "May you be blessed for your good judgment and for keeping me from bloodshed this day and from avenging myself with my own hands.",
+      "de": "und gesegnet sei deine Rede, und gesegnet seist du, daß du mir heute gewehrt hast, daß ich nicht in Blutschuld gekommen bin und mir mit eigener Hand geholfen habe.",
+      "zh": "我指着阻止我加害于你的耶和华—以色列永生的　神起誓，你若不速速地来迎接我，到明日早晨，凡属拿八的男丁必定不留一个。」",
+      "ja": "また汝の智慧はほむべきかな又汝はほむべきかな汝今日わがきたりて血をながし自ら仇をむくゆるを止めたり"
+    },
+    {
+      "number": 34,
+      "ko": "나를 막아 너를 해하지 않게 하신 이스라엘의 하나님 여호와의 살아 계심을 두고 맹세하노니 네가 급히 와서 나를 영접하지 아니하였더면 밝는 아침에는 과연 나발에게 한 남자도 남겨 두지 아니하였으리라 하니라",
+      "en": "Otherwise, as surely as the LORD, the God of Israel, lives, who has kept me from harming you, if you had not come quickly to meet me, not one male belonging to Nabal would have been left alive by daybreak.\"",
+      "de": "Wahrlich, so wahr der HERR, der Gott Israels, lebt, der mich verhindert hat, daß ich nicht übel an dir täte: wärst du nicht eilend mir begegnet, so wäre dem Nabal nicht übriggeblieben bis auf diesen lichten Morgen einer, der männlich ist.",
+      "zh": "大卫受了亚比该送来的礼物，就对她说：「我听了你的话，准了你的情面，你可以平平安安地回家吧！」",
+      "ja": "わが汝を害するを阻めたまひしイスラエルの神ヱホバは生く誠にもし汝いそぎて我を來り迎ずば必ず翌朝までにナバルの所にひとりの男ものこらざりしならんと"
+    },
+    {
+      "number": 35,
+      "ko": "다윗이 그가 가져온 것을 그의 손에서 받고 그에게 이르되 네 집으로 평안히 올라가라 내가 네 말을 듣고 네 청을 허락하노라",
+      "en": "Then David accepted from her hand what she had brought him and said, \"Go home in peace. I have heard your words and granted your request.\"",
+      "de": "Also nahm David von ihrer Hand, was sie gebracht hatte und sprach zu ihr: Zieh mit Frieden hinauf in dein Haus; siehe, ich habe deiner Stimme gehorcht und deine Person angesehen.",
+      "zh": "亚比该到拿八那里，见他在家里设摆筵席，如同王的筵席；拿八快乐大醉。亚比该无论大小事都没有告诉他，就等到次日早晨。",
+      "ja": "ダビデ、アビガルの携へきたりし物を其手より受てかれにいひけるは安かに汝の家にかへりのぼれ視よわれ汝の言をききいれて汝の顔を立たり"
+    },
+    {
+      "number": 36,
+      "ko": "아비가일이 나발에게로 돌아오니 그가 왕의 잔치와 같은 잔치를 그의 집에 배설하고 크게 취하여 마음에 기뻐하므로 아비가일이 밝는 아침까지는 아무 말도 하지 아니하다가",
+      "en": "When Abigail went to Nabal, he was in the house holding a banquet like that of a king. He was in high spirits and very drunk. So she told him nothing until daybreak.",
+      "de": "Da aber Abigail zu Nabal kam, siehe, da hatte er ein Mahl zugerichtet in seinem Hause wie eines Königs Mahl, und sein Herz war guter Dinge bei ihm selbst, und er war sehr trunken. Sie aber sagte ihm nichts, weder klein noch groß bis an den lichten Morgen.",
+      "zh": "到了早晨，拿八醒了酒，他的妻将这些事都告诉他，他就魂不附体，身僵如石头一般。",
+      "ja": "かくてアビガル、ナバルにいたりて視にかれは家に酒宴を設け居たり王の酒宴のごとしナバルの心これがために樂みて甚だしく酔たればアビガル多少をいはず何をも翌朝までかれにつげざりき"
+    },
+    {
+      "number": 37,
+      "ko": "아침에 나발이 포도주에서 깬 후에 그의 아내가 그에게 이 일을 말하매 그가 낙담하여 몸이 돌과 같이 되었더니",
+      "en": "Then in the morning, when Nabal was sober, his wife told him all these things, and his heart failed him and he became like a stone.",
+      "de": "Da es aber Morgen ward und der Wein von Nabal gekommen war, sagte ihm sein Weib solches. Da erstarb sein Herz in seinem Leibe, daß er ward wie ein Stein.",
+      "zh": "过了十天，耶和华击打拿八，他就死了。",
+      "ja": "朝にいたりナバルの酒のさめたる時妻かれに是等の事をつげたるに彼の心そのうちに死て其身石のごとくなりぬ"
+    },
+    {
+      "number": 38,
+      "ko": "한 열흘 후에 여호와께서 나발을 치시매 그가 죽으니라",
+      "en": "About ten days later, the LORD struck Nabal and he died.",
+      "de": "Und über zehn Tage schlug ihn der HERR, daß er starb.",
+      "zh": "大卫听见拿八死了，就说：「应当称颂耶和华，因他伸了拿八羞辱我的冤，又阻止仆人行恶；也使拿八的恶归到拿八的头上。」于是大卫打发人去，与亚比该说，要娶她为妻。",
+      "ja": "十日ばかりありてヱホバ、ナバルを撃ちたまひければ死り"
+    },
+    {
+      "number": 39,
+      "ko": "나발이 죽었다 함을 다윗이 듣고 이르되 나발에게 당한 나의 모욕을 갚아 주사 종으로 악한 일을 하지 않게 하신 여호와를 찬송할지로다 여호와께서 나발의 악행을 그의 머리에 돌리셨도다 하니라 다윗이 아비가일을 자기 아내로 삼으려고 사람을 보내어 그에게 말하게 하매",
+      "en": "When David heard that Nabal was dead, he said, \"Praise be to the LORD, who has upheld my cause against Nabal for treating me with contempt. He has kept his servant from doing wrong and has brought Nabal's wrongdoing down on his own head.\" Then David sent word to Abigail, asking her to become his wife.",
+      "de": "Da das David hörte, daß Nabal tot war, sprach er: Gelobt sei der HERR, der meine Schmach gerächt hat an Nabal und seinen Knecht abgehalten hat von dem Übel; und der HERR hat dem Nabal das Übel auf seinen Kopf vergolten. Und David sandte hin und ließ mit Abigail reden, daß er sie zum Weibe nähme.",
+      "zh": "大卫的仆人到了迦密见亚比该，对她说：「大卫打发我们来见你，想要娶你为妻。」",
+      "ja": "ダビデ、ナバルの死たるを聞ていひけるはヱホバは頌美べきかなヱホバわが蒙むりたる恥辱の訟を理してナバルにむくい僕を阻めて惡をおこなはざらしめたまふ其はヱホバ、ナバルの惡を其首に歸し賜へばなりと爰にダビデ、アビガルを妻にめとらんとて人を遣はしてこれとかたらはしむ"
+    },
+    {
+      "number": 40,
+      "ko": "다윗의 전령들이 갈멜에 가서 아비가일에게 이르러 그에게 말하여 이르되 다윗이 당신을 아내로 삼고자 하여 우리를 당신께 보내더이다 하니",
+      "en": "His servants went to Carmel and said to Abigail, \"David has sent us to you to take you to become his wife.\"",
+      "de": "Und da die Knechte Davids zu Abigail kamen gen Karmel, redeten sie mit ihr und sprachen: David hat uns zu dir gesandt, daß er dich zum Weibe nehme.",
+      "zh": "亚比该就起来，俯伏在地，说：「我情愿作婢女，洗我主仆人的脚。」",
+      "ja": "ダビデの僕カルメルにをるアビガルの許にいたりてこれにかたりいひけるはダビデ汝を妻にめとらんとて我らを汝に遣はすと"
+    },
+    {
+      "number": 41,
+      "ko": "아비가일이 일어나 몸을 굽혀 얼굴을 땅에 대고 이르되 내 주의 여종은 내 주의 전령들의 발 씻길 종이니이다 하고",
+      "en": "She bowed down with her face to the ground and said, \"Here is your maidservant, ready to serve you and wash the feet of my master's servants.\"",
+      "de": "Sie stand auf und fiel nieder auf ihr Angesicht zur Erde und sprach: Siehe, hier ist deine Magd, daß sie diene den Knechten meines Herrn und ihre Füße wasche.",
+      "zh": "亚比该立刻起身，骑上驴，带着五个使女，跟从大卫的使者去了，就作了大卫的妻。",
+      "ja": "アビガルたちて地にふして拝しいひけるは視よ婢はわが主の僕等の足を洗ふ仕女なりと"
+    },
+    {
+      "number": 42,
+      "ko": "아비가일이 급히 일어나서 나귀를 타고 그를 뒤따르는 처녀 다섯과 함께 다윗의 전령들을 따라가서 다윗의 아내가 되니라",
+      "en": "Abigail quickly got on a donkey and, attended by her five maids, went with David's messengers and became his wife.",
+      "de": "Und Abigail eilte und machte sich auf und ritt auf einem Esel, und fünf Dirnen, die unter ihr waren, und zog den Boten Davids nach und ward sein Weib.",
+      "zh": "大卫先娶了耶斯列人亚希暖，她们二人都作了他的妻。",
+      "ja": "アビガルいそぎたちて驢馬に乗り五人の侍女とともにダビデの使者にしたがひゆきてダビデの妻となる"
+    },
+    {
+      "number": 43,
+      "ko": "다윗이 또 이스르엘 아히노암을 아내로 맞았더니 그들 두 사람이 그의 아내가 되니라",
+      "en": "David had also married Ahinoam of Jezreel, and they both were his wives.",
+      "de": "Auch hatte David Ahinoam von Jesreel genommen; und waren beide seine Weiber.",
+      "zh": "扫罗已将他的女儿米甲，就是大卫的妻，给了迦琳人拉亿的儿子帕提为妻。",
+      "ja": "ダビデまたヱズレルのアヒノアムを娶れり彼ら二人ダビデの妻となる"
+    },
+    {
+      "number": 44,
+      "ko": "사울이 그의 딸 다윗의 아내 미갈을 갈림에 사는 라이스의 아들 발디에게 주었더라",
+      "en": "But Saul had given his daughter Michal, David's wife, to Paltiel son of Laish, who was from Gallim.",
+      "de": "Saul aber hatte Michal seine Tochter, Davids Weib, Phalti, dem Sohn des Lais von Gallim, gegeben.",
+      "zh": "",
+      "ja": "但しサウルはダビデの妻なりし其女ミカルをガリムの人なるライシの子パルテにあたへたり"
+    }
+  ]
+}
