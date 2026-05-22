@@ -183,8 +183,8 @@ function renderHome() {
           <strong>HOLY BIBLE</strong>
         </div>
         <div class="cover-title">
-          <span>다국어 성경</span>
-          <h1>다국어<br>성경</h1>
+          <span>Multilingual-Bible</span>
+          <h1>Multilingual-<br>Bible</h1>
         </div>
         <img class="home-illustration" src="./assets/home-illustration.png" alt="" loading="eager">
         <div class="home-actions">

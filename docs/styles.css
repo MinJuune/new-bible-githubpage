@@ -165,12 +165,13 @@ button:disabled {
 }
 
 .cover-title h1 {
-  max-width: 330px;
+  max-width: 340px;
   margin: 0;
   color: var(--ink);
-  font-size: clamp(48px, 15vw, 76px);
+  font-size: clamp(42px, 12vw, 64px);
   font-weight: 950;
   line-height: 0.96;
+  overflow-wrap: anywhere;
 }
 
 .cover-title h1::after {
