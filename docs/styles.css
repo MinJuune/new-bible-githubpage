@@ -168,10 +168,10 @@ button:disabled {
   max-width: 340px;
   margin: 0;
   color: var(--ink);
-  font-size: clamp(42px, 12vw, 64px);
+  font-size: clamp(28px, 7.6vw, 34px);
   font-weight: 950;
-  line-height: 0.96;
-  overflow-wrap: anywhere;
+  line-height: 1.04;
+  white-space: nowrap;
 }
 
 .cover-title h1::after {
@@ -185,7 +185,7 @@ button:disabled {
   display: block;
   width: min(100%, 318px);
   max-height: 176px;
-  margin: clamp(44px, 8vh, 76px) auto clamp(24px, 5vh, 42px);
+  margin: clamp(52px, 9vh, 84px) auto clamp(28px, 5vh, 44px);
   object-fit: contain;
 }
 

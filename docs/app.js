@@ -184,7 +184,7 @@ function renderHome() {
         </div>
         <div class="cover-title">
           <span>Multilingual-Bible</span>
-          <h1>Multilingual-<br>Bible</h1>
+          <h1>Multilingual-Bible</h1>
         </div>
         <img class="home-illustration" src="./assets/home-illustration.png" alt="" loading="eager">
         <div class="home-actions">
