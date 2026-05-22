@@ -8,7 +8,7 @@
       "en": "There is a time for everything, and a season for every activity under heaven:",
       "de": "Ein jegliches hat seine Zeit, und alles Vornehmen unter dem Himmel hat seine Stunde.",
       "zh": "凡事都有定期， 天下万务都有定时。",
-      "ja": "天が下の萬の事には期あり 萬の事務には時あり"
+      "ja": "天が下のすべての事には季節があり、すべてのわざには時がある。"
     },
     {
       "number": 2,
@@ -16,7 +16,7 @@
       "en": "a time to be born and a time to die, a time to plant and a time to uproot,",
       "de": "Geboren werden und sterben, pflanzen und ausrotten, was gepflanzt ist,",
       "zh": "生有时，死有时； 栽种有时，拔出所栽种的也有时；",
-      "ja": "生るるに時あり死るに時あり 植るに時あり植たる者を抜に時あり"
+      "ja": "生るるに時があり、死ぬるに時があり、植えるに時があり、植えたものを抜くに時があり、"
     },
     {
       "number": 3,
@@ -24,7 +24,7 @@
       "en": "a time to kill and a time to heal, a time to tear down and a time to build,",
       "de": "würgen und heilen, brechen und bauen,",
       "zh": "杀戮有时，医治有时； 拆毁有时，建造有时；",
-      "ja": "殺すに時あり醫すに時あり 毀つに時あり建るに時あり"
+      "ja": "殺すに時があり、いやすに時があり、こわすに時があり、建てるに時があり、"
     },
     {
       "number": 4,
@@ -32,7 +32,7 @@
       "en": "a time to weep and a time to laugh, a time to mourn and a time to dance,",
       "de": "weinen und lachen, klagen und tanzen,",
       "zh": "哭有时，笑有时； 哀恸有时，跳舞有时；",
-      "ja": "泣に時あり笑ふに時あり 悲むに時あり躍るに時あり"
+      "ja": "泣くに時があり、笑うに時があり、悲しむに時があり、踊るに時があり、"
     },
     {
       "number": 5,
@@ -40,7 +40,7 @@
       "en": "a time to scatter stones and a time to gather them, a time to embrace and a time to refrain,",
       "de": "Stein zerstreuen und Steine sammeln, herzen und ferne sein von Herzen,",
       "zh": "抛掷石头有时，堆聚石头有时； 怀抱有时，不怀抱有时；",
-      "ja": "石を擲つに時あり石を斂むるに時あり 懐くに時あり懐くことをせざるに時あり"
+      "ja": "石を投げるに時があり、石を集めるに時があり、抱くに時があり、抱くことをやめるに時があり、"
     },
     {
       "number": 6,
@@ -48,7 +48,7 @@
       "en": "a time to search and a time to give up, a time to keep and a time to throw away,",
       "de": "suchen und verlieren, behalten und wegwerfen,",
       "zh": "寻找有时，失落有时； 保守有时，舍弃有时；",
-      "ja": "得に時あり失ふに時あり 保つに時あり棄るに時あり"
+      "ja": "捜すに時があり、失うに時があり、保つに時があり、捨てるに時があり、"
     },
     {
       "number": 7,
@@ -56,7 +56,7 @@
       "en": "a time to tear and a time to mend, a time to be silent and a time to speak,",
       "de": "zerreißen und zunähen, schweigen und reden,",
       "zh": "撕裂有时，缝补有时； 静默有时，言语有时；",
-      "ja": "裂に時あり縫に時あり 默すに時あり語るに時あり"
+      "ja": "裂くに時があり、縫うに時があり、黙るに時があり、語るに時があり、"
     },
     {
       "number": 8,
@@ -64,7 +64,7 @@
       "en": "a time to love and a time to hate, a time for war and a time for peace.",
       "de": "lieben und hassen, Streit und Friede hat seine Zeit.",
       "zh": "喜爱有时，恨恶有时； 争战有时，和好有时。",
-      "ja": "愛しむに時あり惡むに時あり 戰ふに時あり和ぐに時あり"
+      "ja": "愛するに時があり、憎むに時があり、戦うに時があり、和らぐに時がある。"
     },
     {
       "number": 9,
@@ -72,7 +72,7 @@
       "en": "What does the worker gain from his toil?",
       "de": "Man arbeite, wie man will, so hat man doch keinen Gewinn davon.",
       "zh": "这样看来，做事的人在他的劳碌上有什么益处呢？",
-      "ja": "働く者はその勞して爲ところよりして何の益を得んや"
+      "ja": "働く者はその労することにより、なんの益を得るか。"
     },
     {
       "number": 10,
@@ -80,7 +80,7 @@
       "en": "I have seen the burden God has laid on men.",
       "de": "Ich sah die Mühe, die Gott den Menschen gegeben hat, daß sie darin geplagt werden.",
       "zh": "我见　神叫世人劳苦，使他们在其中受经练。",
-      "ja": "我神が世の人にさづけて身をこれに勞せしめたまふところの事件を視たり"
+      "ja": "わたしは神が人の子らに与えて、ほねおらせられる仕事を見た。"
     },
     {
       "number": 11,
@@ -88,7 +88,7 @@
       "en": "He has made everything beautiful in its time. He has also set eternity in the hearts of men; yet they cannot fathom what God has done from beginning to end.",
       "de": "Er aber tut alles fein zu seiner Zeit und läßt ihr Herz sich ängsten, wie es gehen solle in der Welt; denn der Mensch kann doch nicht treffen das Werk, das Gott tut, weder Anfang noch Ende.",
       "zh": "神造万物，各按其时成为美好，又将永生安置在世人心里。然而　神从始至终的作为，人不能参透。",
-      "ja": "神の爲したまふところは皆その時に適ひて美麗しかり 神はまた人の心に永遠をおもふの思念を賦けたまへり 然ば人は神のなしたまふ作爲を始より終まで知明むることを得ざるなり"
+      "ja": "神のなされることは皆その時にかなって美しい。神はまた人の心に永遠を思う思いを授けられた。それでもなお、人は神のなされるわざを初めから終りまで見きわめることはできない。"
     },
     {
       "number": 12,
@@ -96,7 +96,7 @@
       "en": "I know that there is nothing better for men than to be happy and do good while they live.",
       "de": "Darum merkte ich, daß nichts Besseres darin ist denn fröhlich sein und sich gütlich tun in seinem Leben.",
       "zh": "我知道世人，莫强如终身喜乐行善；",
-      "ja": "我知る人の中にはその世にある時に快樂をなし善をおこなふより外に善事はあらず"
+      "ja": "わたしは知っている。人にはその生きながらえている間、楽しく愉快に過ごすよりほかに良い事はない。"
     },
     {
       "number": 13,
@@ -104,7 +104,7 @@
       "en": "That everyone may eat and drink, and find satisfaction in all his toil--this is the gift of God.",
       "de": "Denn ein jeglicher Mensch, der da ißt und trinkt und hat guten Mut in aller seiner Arbeit, das ist eine Gabe Gottes.",
       "zh": "并且人人吃喝，在他一切劳碌中享福，这也是　神的恩赐。",
-      "ja": "また人はみな食飮をなしその勞苦によりて逸樂を得べきなり 是すなはち神の賜物たり"
+      "ja": "またすべての人が食い飲みし、そのすべての労苦によって楽しみを得ることは神の賜物である。"
     },
     {
       "number": 14,
@@ -112,7 +112,7 @@
       "en": "I know that everything God does will endure forever; nothing can be added to it and nothing taken from it. God does it so that men will revere him.",
       "de": "Ich merkte, daß alles, was Gott tut, das besteht immer: man kann nichts dazutun noch abtun; und solches tut Gott, daß man sich vor ihm fürchten soll.",
       "zh": "我知道　神一切所做的都必永存；无所增添，无所减少。　神这样行，是要人在他面前存敬畏的心。",
-      "ja": "我知る凡て神のなしたまふ事は限なく存せん 是は加ふべき所なく是は減すべきところ無し 神の之をなしたまふは人をしてその前に畏れしめんがためなり"
+      "ja": "わたしは知っている。すべて神がなさる事は永遠に変ることがなく、これに加えることも、これから取ることもできない。神がこのようにされるのは、人々が神の前に恐れをもつようになるためである。"
     },
     {
       "number": 15,
@@ -120,7 +120,7 @@
       "en": "Whatever is has already been, and what will be has been before; and God will call the past to account.",
       "de": "Was geschieht, das ist zuvor geschehen, und was geschehen wird, ist auch zuvor geschehen; und Gott sucht wieder auf, was vergangen ist.",
       "zh": "现今的事早先就有了，将来的事早已也有了，并且　神使已过的事重新再来。",
-      "ja": "昔ありたる者は今もあり 後にあらん者は旣にありし者なり 神はその遂やられし者を索めたまふ"
+      "ja": "今あるものは、すでにあったものである。後にあるものも、すでにあったものである。神は追いやられたものを尋ね求められる。"
     },
     {
       "number": 16,
@@ -128,7 +128,7 @@
       "en": "And I saw something else under the sun: In the place of judgment--wickedness was there, in the place of justice--wickedness was there.",
       "de": "Weiter sah ich unter der Sonne Stätten des Gerichts, da war ein gottlos Wesen, und Stätten der Gerechtigkeit, da waren Gottlose.",
       "zh": "我又见日光之下，在审判之处有奸恶，在公义之处也有奸恶。",
-      "ja": "我また日の下を見るに審判をおこなふ所に邪曲なる事あり 公義を行ふところに邪曲なる事あり"
+      "ja": "わたしはまた、日の下を見たが、さばきを行う所にも不正があり、公義を行う所にも不正がある。"
     },
     {
       "number": 17,
@@ -136,7 +136,7 @@
       "en": "I thought in my heart, \"God will bring to judgment both the righteous and the wicked, for there will be a time for every activity, a time for every deed.\"",
       "de": "Da dachte ich in meinem Herzen: Gott muß richten den Gerechten und den Gottlosen; denn es hat alles Vornehmen seine Zeit und alle Werke.",
       "zh": "我心里说，　神必审判义人和恶人；因为在那里，各样事务，一切工作，都有定时。",
-      "ja": "我すなはち心に謂けらく神は義者と惡者とを鞫きたまはん 彼處において萬の事と萬の所爲に時あるなり"
+      "ja": "わたしは心に言った、「神は正しい者と悪い者とをさばかれる。神はすべての事と、すべてのわざに、時を定められたからである」と。"
     },
     {
       "number": 18,
@@ -144,7 +144,7 @@
       "en": "I also thought, \"As for men, God tests them so that they may see that they are like the animals.",
       "de": "Ich sprach in meinem Herzen: Es geschieht wegen der Menschenkinder, auf daß Gott sie prüfe und sie sehen, daß sie an sich selbst sind wie das Vieh.",
       "zh": "我心里说，这乃为世人的缘故，是　神要试验他们，使他们觉得自己不过像兽一样。",
-      "ja": "我また心に謂けらく是事あるは是世の人のためなり 即ち神は斯世の人を撿して之にその獣のごとくなることを自ら暁らしめ給ふなり"
+      "ja": "わたしはまた、人の子らについて心に言った、「神は彼らをためして、彼らに自分たちが獣にすぎないことを悟らせられるのである」と。"
     },
     {
       "number": 19,
@@ -152,7 +152,7 @@
       "en": "Man's fate is like that of the animals; the same fate awaits them both: As one dies, so dies the other. All have the same breath; man has no advantage over the animal. Everything is meaningless.",
       "de": "Denn es geht dem Menschen wie dem Vieh: wie dies stirbt, so stirbt er auch, und haben alle einerlei Odem, und der Mensch hat nichts mehr als das Vieh; denn es ist alles eitel.",
       "zh": "因为世人遭遇的，兽也遭遇，所遭遇的都是一样：这个怎样死，那个也怎样死，气息都是一样。人不能强于兽，都是虚空。",
-      "ja": "世の人に臨むところの事はまた獣にも臨む この二者に臨むところの事は同一にして是も死ば彼も死るなり 皆同一の呼吸に依れり 人は獣にまさる所なし皆空なり"
+      "ja": "人の子らに臨むところは獣にも臨むからである。すなわち一様に彼らに臨み、これの死ぬように、彼も死ぬのである。彼らはみな同様の息をもっている。人は獣にまさるところがない。すべてのものは空だからである。"
     },
     {
       "number": 20,
@@ -160,7 +160,7 @@
       "en": "All go to the same place; all come from dust, and to dust all return.",
       "de": "Es fährt alles an einen Ort; es ist alles von Staub gemacht und wird wieder zu Staub.",
       "zh": "都归一处，都是出于尘土，也都归于尘土。",
-      "ja": "皆一の所に往く 皆塵より出で皆塵にかへるなり"
+      "ja": "みな一つ所に行く。皆ちりから出て、皆ちりに帰る。"
     },
     {
       "number": 21,
@@ -168,7 +168,7 @@
       "en": "Who knows if the spirit of man rises upward and if the spirit of the animal goes down into the earth?\"",
       "de": "Wer weiß, ob der Odem der Menschen aufwärts fahre und der Odem des Viehes abwärts unter die Erde fahre?",
       "zh": "谁知道人的灵是往上升，兽的魂是下入地呢？",
-      "ja": "誰か人の魂の上に昇り獣の魂の地にくだることを知ん"
+      "ja": "だれが知るか、人の子らの霊は上にのぼり、獣の霊は地にくだるかを。"
     },
     {
       "number": 22,
@@ -176,7 +176,7 @@
       "en": "So I saw that there is nothing better for a man than to enjoy his work, because that is his lot. For who can bring him to see what will happen after him?",
       "de": "So sah ich denn, daß nichts Besseres ist, als daß ein Mensch fröhlich sei in seiner Arbeit; denn das ist sein Teil. Denn wer will ihn dahin bringen, daß er sehe, was nach ihm geschehen wird?",
       "zh": "故此，我见人莫强如在他经营的事上喜乐，因为这是他的分。他身后的事谁能使他回来得见呢？",
-      "ja": "然ば人はその動作によりて逸樂をなすに如はなし 是その分なればなり 我これを見る その身の後の事は誰かこれを携へゆきて見さしむる者あらんや"
+      "ja": "それで、わたしは見た、人はその働きによって楽しむにこした事はない。これが彼の分だからである。だれが彼をつれていって、その後の、どうなるかを見させることができようか。"
     }
   ]
 }

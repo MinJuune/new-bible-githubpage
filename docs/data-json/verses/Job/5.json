@@ -8,7 +8,7 @@
       "en": "\"Call if you will, but who will answer you? To which of the holy ones will you turn?",
       "de": "Rufe doch! was gilts, ob einer dir antworte? Und an welchen von den Heiligen willst du dich wenden?",
       "zh": "你且呼求，有谁答应你？ 诸圣者之中，你转向哪一位呢？",
-      "ja": "請ふなんぢ龥びて看よ 誰か汝に應ふる者ありや 聖者の中にて誰に汝むかはんとするや"
+      "ja": "試みに呼んでみよ、だれかあなたに答える者があるか。どの聖者にあなたは頼もうとするのか。"
     },
     {
       "number": 2,
@@ -16,7 +16,7 @@
       "en": "Resentment kills a fool, and envy slays the simple.",
       "de": "Einen Toren aber erwürgt wohl der Unmut, und den Unverständigen tötet der Eifer.",
       "zh": "忿怒害死愚妄人； 嫉妒杀死痴迷人。",
-      "ja": "夫愚なる者は憤恨のために身を殺し 癡き者は嫉媢のために己を死しむ"
+      "ja": "確かに、憤りは愚かな者を殺し、ねたみはあさはかな者を死なせる。"
     },
     {
       "number": 3,
@@ -24,7 +24,7 @@
       "en": "I myself have seen a fool taking root, but suddenly his house was cursed.",
       "de": "Ich sah einen Toren eingewurzelt, und ich fluchte plötzlich seinem Hause.",
       "zh": "我曾见愚妄人扎下根， 但我忽然咒诅他的住处。",
-      "ja": "我みづから愚なる者のその根を張るを見たりしがすみやかにその家を詛へり"
+      "ja": "わたしは愚かな者の根を張るのを見た、しかしわたしは、にわかにそのすみかをのろった。"
     },
     {
       "number": 4,
@@ -32,7 +32,7 @@
       "en": "His children are far from safety, crushed in court without a defender.",
       "de": "Seine Kinder werden fern sein vom Heil und werden zerschlagen werden im Tor, da kein Erretter sein wird.",
       "zh": "他的儿女远离稳妥的地步， 在城门口被压，并无人搭救。",
-      "ja": "その子等は助援を獲ることなく 門にて惱まさる 之を救ふ者なし"
+      "ja": "その子らは安きを得ず、町の門でしえたげられても、これを救う者がない。"
     },
     {
       "number": 5,
@@ -40,7 +40,7 @@
       "en": "The hungry consume his harvest, taking it even from among thorns, and the thirsty pant after his wealth.",
       "de": "Seine Ernte wird essen der Hungrige und auch aus den Hecken sie holen, und sein Gut werden die Durstigen aussaufen.",
       "zh": "他的庄稼有饥饿的人吃尽了， 就是在荆棘里的也抢去了； 他的财宝有网罗张口吞灭了。",
-      "ja": "その穡とれる物は饑たる人これを食ひ 荊棘の籬の中にありてもなほ之を奪ひいだし 羂をその所有物にむかひて口を張る"
+      "ja": "その収穫は飢えた人が食べ、いばらの中からさえ、これを奪う。また、かわいた者はその財産をあえぎ求める。"
     },
     {
       "number": 6,
@@ -48,7 +48,7 @@
       "en": "For hardship does not spring from the soil, nor does trouble sprout from the ground.",
       "de": "Denn Mühsal aus der Erde nicht geht und Unglück aus dem Acker nicht wächst;",
       "zh": "祸患原不是从土中出来； 患难也不是从地里发生。",
-      "ja": "災禍は塵より起らず 艱難は土より出ず"
+      "ja": "苦しみは、ちりから起るものでなく、悩みは土から生じるものでない。"
     },
     {
       "number": 7,
@@ -56,7 +56,7 @@
       "en": "Yet man is born to trouble as surely as sparks fly upward.",
       "de": "sondern der Mensch wird zu Unglück geboren, wie die Vögel schweben, emporzufliegen.",
       "zh": "人生在世必遇患难， 如同火星飞腾。",
-      "ja": "人の生れて艱難をうくるは火の子の上に飛がごとし"
+      "ja": "人が生れて悩みを受けるのは、火の子が上に飛ぶにひとしい。"
     },
     {
       "number": 8,
@@ -64,7 +64,7 @@
       "en": "\"But if it were I, I would appeal to God; I would lay my cause before him.",
       "de": "Ich aber würde zu Gott mich wenden und meine Sache vor ihn bringen,",
       "zh": "至于我，我必仰望　神， 把我的事情托付他。",
-      "ja": "もし我ならんには我は必らず神に告求め 我事を神に任せん"
+      "ja": "しかし、わたしであるならば、神に求め、神に、わたしの事をまかせる。"
     },
     {
       "number": 9,
@@ -72,7 +72,7 @@
       "en": "He performs wonders that cannot be fathomed, miracles that cannot be counted.",
       "de": "der große Dinge tut, die nicht zu erforschen sind, und Wunder, die nicht zu zählen sind:",
       "zh": "他行大事不可测度， 行奇事不可胜数：",
-      "ja": "神は大にして測りがたき事を行ひたまふ 其不思議なる事を爲たまふこと數しれず"
+      "ja": "彼は大いなる事をされるかたで、測り知れない、その不思議なみわざは数えがたい。"
     },
     {
       "number": 10,
@@ -80,7 +80,7 @@
       "en": "He bestows rain on the earth; he sends water upon the countryside.",
       "de": "der den Regen aufs Land gibt und läßt Wasser kommen auf die Gefilde;",
       "zh": "降雨在地上， 赐水于田里；",
-      "ja": "雨を地の上に降し 水を野に遣り"
+      "ja": "彼は地に雨を降らせ、野に水を送られる。"
     },
     {
       "number": 11,
@@ -88,7 +88,7 @@
       "en": "The lowly he sets on high, and those who mourn are lifted to safety.",
       "de": "der die Niedrigen erhöht und den Betrübten emporhilft.",
       "zh": "将卑微的安置在高处， 将哀痛的举到稳妥之地；",
-      "ja": "卑き者を高く擧げ 憂ふる者を引興して幸福ならしめたまふ"
+      "ja": "彼は低い者を高くあげ、悲しむ者を引き上げて、安全にされる。"
     },
     {
       "number": 12,
@@ -96,7 +96,7 @@
       "en": "He thwarts the plans of the crafty, so that their hands achieve no success.",
       "de": "Er macht zunichte die Anschläge der Listigen, daß es ihre Hand nicht ausführen kann;",
       "zh": "破坏狡猾人的计谋， 使他们所谋的不得成就。",
-      "ja": "神は狡しき者の謀計を敗り 之をして何事をもその手に成就ること能はざらしめ"
+      "ja": "彼は悪賢い者の計りごとを敗られる。それで何事もその手になし遂げることはできない。"
     },
     {
       "number": 13,
@@ -104,7 +104,7 @@
       "en": "He catches the wise in their craftiness, and the schemes of the wily are swept away.",
       "de": "er fängt die Weisen in ihrer Listigkeit und stürzt der Verkehrten Rat,",
       "zh": "他叫有智慧的中了自己的诡计， 使狡诈人的计谋速速灭亡。",
-      "ja": "慧き者をその自分の詭計によりて執へ 邪なる者の謀計をして敗れしむ"
+      "ja": "彼は賢い者を、彼ら自身の悪巧みによって捕え、曲った者の計りごとをくつがえされる。"
     },
     {
       "number": 14,
@@ -112,7 +112,7 @@
       "en": "Darkness comes upon them in the daytime; at noon they grope as in the night.",
       "de": "daß sie des Tages in der Finsternis laufen und tappen am Mittag wie in der Nacht.",
       "zh": "他们白昼遇见黑暗， 午间摸索如在夜间。",
-      "ja": "彼らは晝も暗黑に遇ひ 卓午にも夜の如くに摸り惑はん"
+      "ja": "彼らは昼も、やみに会い、真昼にも、夜のように手探りする。"
     },
     {
       "number": 15,
@@ -120,7 +120,7 @@
       "en": "He saves the needy from the sword in their mouth; he saves them from the clutches of the powerful.",
       "de": "Er hilft den Armen von dem Schwert, von ihrem Munde und von der Hand des Mächtigen,",
       "zh": "神拯救穷乏人 脱离他们口中的刀和强暴人的手。",
-      "ja": "神は惱める者を救ひてかれらが口の劍を免かれしめ 強き者の手を免かれしめたまふ"
+      "ja": "彼は貧しい者を彼らの口のつるぎから救い、また強い者の手から救われる。"
     },
     {
       "number": 16,
@@ -128,7 +128,7 @@
       "en": "So the poor have hope, and injustice shuts its mouth.",
       "de": "und ist des Armen Hoffnung, daß die Bosheit wird ihren Mund müssen zuhalten.",
       "zh": "这样，贫寒的人有指望， 罪孽之辈必塞口无言。",
-      "ja": "是をもて弱き者望あり 惡き者口を閉づ"
+      "ja": "それゆえ乏しい者に望みがあり、不義はその口を閉じる。"
     },
     {
       "number": 17,
@@ -136,7 +136,7 @@
       "en": "\"Blessed is the man whom God corrects; so do not despise the discipline of the Almighty.",
       "de": "Siehe, selig ist der Mensch, den Gott straft; darum weigere dich der Züchtigung des Allmächtigen nicht.",
       "zh": "神所惩治的人是有福的！ 所以你不可轻看全能者的管教。",
-      "ja": "神の懲したまふ人は幸福なり 然ば汝全能者の儆責を輕んずる勿れ"
+      "ja": "見よ、神に戒められる人はさいわいだ。それゆえ全能者の懲しめを軽んじてはならない。"
     },
     {
       "number": 18,
@@ -144,7 +144,7 @@
       "en": "For he wounds, but he also binds up; he injures, but his hands also heal.",
       "de": "Denn er verletzt und verbindet; er zerschlägt und seine Hand heilt.",
       "zh": "因为他打破，又缠裹； 他击伤，用手医治。",
-      "ja": "神は傷け又裹み 撃ていため又その手をもて善醫したまふ"
+      "ja": "彼は傷つけ、また包み、撃ち、またその手をもっていやされる。"
     },
     {
       "number": 19,
@@ -152,7 +152,7 @@
       "en": "From six calamities he will rescue you; in seven no harm will befall you.",
       "de": "Aus sechs Trübsalen wird er dich erretten, und in der siebenten wird dich kein Übel rühren:",
       "zh": "你六次遭难，他必救你； 就是七次，灾祸也无法害你。",
-      "ja": "彼はなんぢを六の艱難の中にて救ひたまふ 七の中にても災禍なんぢにのぞまじ"
+      "ja": "彼はあなたを六つの悩みから救い、七つのうちでも、災はあなたに触れることがない。"
     },
     {
       "number": 20,
@@ -160,7 +160,7 @@
       "en": "In famine he will ransom you from death, and in battle from the stroke of the sword.",
       "de": "in der Teuerung wird er dich vom Tod erlösen und im Kriege von des Schwertes Hand;",
       "zh": "在饥荒中，他必救你脱离死亡； 在争战中，他必救你脱离刀剑的权力。",
-      "ja": "饑饉の時にはなんぢを救ひて死を免れしめ 戰爭の時には劍の手を免れしめたまふ"
+      "ja": "ききんの時には、あなたをあがなって、死を免れさせ、いくさの時には、つるぎの力を免れさせられる。"
     },
     {
       "number": 21,
@@ -168,7 +168,7 @@
       "en": "You will be protected from the lash of the tongue, and need not fear when destruction comes.",
       "de": "Er wird dich verbergen vor der Geißel Zunge, daß du dich nicht fürchtest vor dem Verderben, wenn es kommt;",
       "zh": "你必被隐藏，不受口舌之害； 灾殃临到，你也不惧怕。",
-      "ja": "汝は舌にて鞭たるる時にも隱るることを得 壞滅の來る時にも懼るること有じ"
+      "ja": "あなたは舌をもってむち打たれる時にも、おおい隠され、滅びが来る時でも、恐れることはない。"
     },
     {
       "number": 22,
@@ -176,7 +176,7 @@
       "en": "You will laugh at destruction and famine, and need not fear the beasts of the earth.",
       "de": "im Verderben und im Hunger wirst du lachen und dich vor den wilden Tieren im Lande nicht fürchten;",
       "zh": "你遇见灾害饥馑，就必嬉笑； 地上的野兽，你也不惧怕。",
-      "ja": "汝は壞滅と饑饉を笑ひ地の獸をも懼るること無るべし"
+      "ja": "あなたは滅びと、ききんとを笑い、地の獣をも恐れることはない。"
     },
     {
       "number": 23,
@@ -184,7 +184,7 @@
       "en": "For you will have a covenant with the stones of the field, and the wild animals will be at peace with you.",
       "de": "sondern sein Bund wird sein mit den Steinen auf dem Felde, und die wilden Tiere im Lande werden Frieden mit dir halten.",
       "zh": "因为你必与田间的石头立约； 田里的野兽也必与你和好。",
-      "ja": "田野の石なんぢと相結び野の獸なんぢと和がん"
+      "ja": "あなたは野の石と契約を結び、野の獣はあなたと和らぐからである。"
     },
     {
       "number": 24,
@@ -192,7 +192,7 @@
       "en": "You will know that your tent is secure; you will take stock of your property and find nothing missing.",
       "de": "Und du wirst erfahren, daß deine Hütte Frieden hat, und wirst deine Behausung versorgen und nichts vermissen,",
       "zh": "你必知道你帐棚平安， 要查看你的羊圈，一无所失；",
-      "ja": "汝はおのが幕屋の安然なるを知ん 汝の住處を見まはるに缺たる者なからん"
+      "ja": "あなたは自分の天幕の安全なことを知り、自分の家畜のおりを見回っても、欠けた物がなく、"
     },
     {
       "number": 25,
@@ -200,7 +200,7 @@
       "en": "You will know that your children will be many, and your descendants like the grass of the earth.",
       "de": "und wirst erfahren, daß deines Samens wird viel werden und deine Nachkommen wie das Gras auf Erden,",
       "zh": "也必知道你的后裔将来发达， 你的子孙像地上的青草。",
-      "ja": "汝また汝の子等の多くなり 汝の裔の地の草の如くになるを知ん"
+      "ja": "また、あなたの子孫の多くなり、そのすえが地の草のようになるのを知るであろう。"
     },
     {
       "number": 26,
@@ -208,7 +208,7 @@
       "en": "You will come to the grave in full vigor, like sheaves gathered in season.",
       "de": "und wirst im Alter zum Grab kommen, wie Garben eingeführt werden zu seiner Zeit.",
       "zh": "你必寿高年迈才归坟墓， 好像禾捆到时收藏。",
-      "ja": "汝は遐齡におよびて墓にいらん 宛然麥束を時にいたりて運びあぐるごとくなるべし"
+      "ja": "あなたは高齢に達して墓に入る、あたかも麦束をその季節になって打ち場に運びあげるようになるであろう。"
     },
     {
       "number": 27,
@@ -216,7 +216,7 @@
       "en": "\"We have examined this, and it is true. So hear it and apply it to yourself.\"",
       "de": "Siehe, das haben wir erforscht und ist also; dem gehorche und merke du dir's.",
       "zh": "这理，我们已经考察，本是如此。 你须要听，要知道是与自己有益。",
-      "ja": "視よ我らが尋ね明めし所かくのごとし 汝これを聽て自ら知れよ"
+      "ja": "見よ、われわれの尋ねきわめた所はこのとおりだ。あなたはこれを聞いて、みずから知るがよい」。"
     }
   ]
 }

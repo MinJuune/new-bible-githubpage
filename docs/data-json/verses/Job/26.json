@@ -8,7 +8,7 @@
       "en": "Then Job replied:",
       "de": "Hiob antwortete und sprach:",
       "zh": "约伯回答说：",
-      "ja": "ヨブこたへて曰く"
+      "ja": "そこでヨブは答えて言った、"
     },
     {
       "number": 2,
@@ -16,7 +16,7 @@
       "en": "\"How you have helped the powerless! How you have saved the arm that is feeble!",
       "de": "Wie stehest du dem bei, der keine Kraft hat, hilfst dem, der keine Stärke in den Armen hat!",
       "zh": "无能的人蒙你何等的帮助！ 膀臂无力的人蒙你何等的拯救！",
-      "ja": "なんぢ能力なき者を如何に助けしや 氣力なきものを如何に救ひしや"
+      "ja": "「あなたは力のない者をどれほど助けたかしれない。気力のない腕をどれほど救ったかしれない。"
     },
     {
       "number": 3,
@@ -24,7 +24,7 @@
       "en": "What advice you have offered to one without wisdom! And what great insight you have displayed!",
       "de": "Wie gibst du Rat dem, der keine Weisheit hat, und tust kund Verstandes die Fülle!",
       "zh": "无智慧的人蒙你何等的指教！ 你向他多显大知识！",
-      "ja": "智慧なき者を如何に誨へしや 穎悟の道を如何に多く示ししや"
+      "ja": "知恵のない者をどれほど教えたかしれない。悟りをどれほど多く示したかしれない。"
     },
     {
       "number": 4,
@@ -32,7 +32,7 @@
       "en": "Who has helped you utter these words? And whose spirit spoke from your mouth?",
       "de": "Zu wem redest du? und wes Odem geht von dir aus?",
       "zh": "你向谁发出言语来？ 谁的灵从你而出？",
-      "ja": "なんぢ誰にむかひて言語を出ししや なんぢより出しは誰が靈なるや"
+      "ja": "あなたはだれの助けによって言葉をだしたのか。あなたから出たのはだれの霊なのか。"
     },
     {
       "number": 5,
@@ -40,7 +40,7 @@
       "en": "\"The dead are in deep anguish, those beneath the waters and all that live in them.",
       "de": "Die Toten ängsten sich tief unter den Wassern und denen, die darin wohnen.",
       "zh": "在大水和水族以下的阴魂战兢。",
-      "ja": "陰靈水またその中に居る者の下に慄ふ"
+      "ja": "亡霊は水およびその中に住むものの下に震う。"
     },
     {
       "number": 6,
@@ -48,7 +48,7 @@
       "en": "Death is naked before God; Destruction lies uncovered.",
       "de": "Das Grab ist aufgedeckt vor ihm, und der Abgrund hat keine Decke.",
       "zh": "在　神面前，阴间显露； 灭亡也不得遮掩。",
-      "ja": "かれの御前には陰府も顯露なり 滅亡の坑も蔽ひ匿す所なし"
+      "ja": "神の前では陰府も裸である。滅びの穴もおおい隠すものはない。"
     },
     {
       "number": 7,
@@ -56,7 +56,7 @@
       "en": "He spreads out the northern skies over empty space; he suspends the earth over nothing.",
       "de": "Er breitet aus die Mitternacht über das Leere und hängt die Erde an nichts.",
       "zh": "神将北极铺在空中， 将大地悬在虚空；",
-      "ja": "彼は北の天を虚空に張り 地を物なき所に懸けたまふ"
+      "ja": "彼は北の天を空間に張り、地を何もない所に掛けられる。"
     },
     {
       "number": 8,
@@ -64,7 +64,7 @@
       "en": "He wraps up the waters in his clouds, yet the clouds do not burst under their weight.",
       "de": "Er faßt das Wasser zusammen in seine Wolken, und die Wolken zerreißen darunter nicht.",
       "zh": "将水包在密云中， 云却不破裂；",
-      "ja": "水を濃雲の中に包みたまふてその下の雲裂ず"
+      "ja": "彼は水を濃い雲の中に包まれるが、その下の雲は裂けない。"
     },
     {
       "number": 9,
@@ -72,7 +72,7 @@
       "en": "He covers the face of the full moon, spreading his clouds over it.",
       "de": "Er verhüllt seinen Stuhl und breitet seine Wolken davor.",
       "zh": "遮蔽他的宝座， 将云铺在其上；",
-      "ja": "御寳座の面を隱して雲をその上に展べ"
+      "ja": "彼は月のおもてをおおい隠して、雲をその上にのべ、"
     },
     {
       "number": 10,
@@ -80,7 +80,7 @@
       "en": "He marks out the horizon on the face of the waters for a boundary between light and darkness.",
       "de": "Er hat um das Wasser ein Ziel gesetzt, bis wo Licht und Finsternis sich scheiden.",
       "zh": "在水面的周围划出界限， 直到光明黑暗的交界。",
-      "ja": "水の面に界を設けて光と暗とに限を立たまふ"
+      "ja": "水のおもてに円を描いて、光とやみとの境とされた。"
     },
     {
       "number": 11,
@@ -88,7 +88,7 @@
       "en": "The pillars of the heavens quake, aghast at his rebuke.",
       "de": "Die Säulen des Himmels zittern und entsetzen sich vor seinem Schelten.",
       "zh": "天的柱子因他的斥责震动惊奇。",
-      "ja": "かれ叱咤たまへば天の柱震ひかつ怖る"
+      "ja": "彼が戒めると、天の柱は震い、かつ驚く。"
     },
     {
       "number": 12,
@@ -96,7 +96,7 @@
       "en": "By his power he churned up the sea; by his wisdom he cut Rahab to pieces.",
       "de": "Von seiner Kraft wird das Meer plötzlich ungestüm, und durch seinen Verstand zerschmettert er Rahab.",
       "zh": "他以能力搅动大海； 他借知识打伤拉哈伯，",
-      "ja": "その權能をもて海を靜め その智慧をもてラハブを撃碎き"
+      "ja": "彼はその力をもって海を静め、その知恵をもってラハブを打ち砕き、"
     },
     {
       "number": 13,
@@ -104,7 +104,7 @@
       "en": "By his breath the skies became fair; his hand pierced the gliding serpent.",
       "de": "Am Himmel wird's schön durch seinen Wind, und seine Hand durchbohrt die flüchtige Schlange.",
       "zh": "借他的灵使天有妆饰； 他的手刺杀快蛇。",
-      "ja": "その氣嘘をもて天を輝かせ 其手をもて逃る蛇を衝とほしたまふ"
+      "ja": "その息をもって天を晴れわたらせ、その手をもって逃げるへびを突き通される。"
     },
     {
       "number": 14,
@@ -112,7 +112,7 @@
       "en": "And these are but the outer fringe of his works; how faint the whisper we hear of him! Who then can understand the thunder of his power?\"",
       "de": "Siehe, also geht sein Tun, und nur ein geringes Wörtlein davon haben wir vernommen. Wer will aber den Donner seiner Macht verstehen?",
       "zh": "看哪，这不过是　神工作的些微； 我们所听于他的是何等细微的声音！ 他大能的雷声谁能明透呢？",
-      "ja": "視よ是等はただその御工作の端なるのみ 我らが聞ところの者は如何にも微細なる耳語ならずや 然どその權能の雷轟に至りては誰かこれを曉らんや"
+      "ja": "見よ、これらはただ彼の道の端にすぎない。われわれが彼について聞く所はいかにかすかなささやきであろう。しかし、その力のとどろきに至っては、だれが悟ることができるか」。"
     }
   ]
 }

@@ -8,7 +8,7 @@
       "en": "For the director of music. A song. A psalm. Shout with joy to God, all the earth!",
       "de": "Ein Psalmlied, vorzusingen. Jauchzet Gott, alle Lande!",
       "zh": "一篇诗歌，交与伶长。 全地都当向　神欢呼！",
-      "ja": "全地よ神にむかひて歓びよばはれ"
+      "ja": "全地よ、神にむかって喜び呼ばわれ。"
     },
     {
       "number": 2,
@@ -16,7 +16,7 @@
       "en": "Sing the glory of his name; make his praise glorious!",
       "de": "Lobsinget zu Ehren seinem Namen; rühmet ihn herrlich!",
       "zh": "歌颂他名的荣耀！ 用赞美的言语将他的荣耀发明！",
-      "ja": "その名の榮光をうたへその頌美をさかえしめよ"
+      "ja": "そのみ名の栄光を歌え。栄えあるさんびをささげよ。"
     },
     {
       "number": 3,
@@ -24,7 +24,7 @@
       "en": "Say to God, \"How awesome are your deeds! So great is your power that your enemies cringe before you.",
       "de": "Sprechet zu Gott: “Wie wunderbar sind deine Werke! es wird deinen Feinden fehlen vor deiner großen Macht.",
       "zh": "当对　神说：你的作为何等可畏！ 因你的大能，仇敌要投降你。",
-      "ja": "かみに告まつれ 汝のもろもろの功用はおそるべきかな大なる力によりてなんぢの仇はなんぢに畏れしたがひ"
+      "ja": "神に告げよ。「あなたのもろもろのみわざは恐るべきかな。大いなるみ力によって、あなたの敵はみ前に屈服し、"
     },
     {
       "number": 4,
@@ -32,7 +32,7 @@
       "en": "All the earth bows down to you; they sing praise to you, they sing praise to your name.\" Selah",
       "de": "Alles Land bete dich an und lobsinge dir, lobsinge deinem Namen.” (Sela.)",
       "zh": "全地要敬拜你，歌颂你， 要歌颂你的名。 （细拉）",
-      "ja": "全地はなんぢを拝みてうたひ名をほめうたはんと セラ"
+      "ja": "全地はあなたを拝み、あなたをほめうたい、み名をほめうたうであろう」と。[セラ"
     },
     {
       "number": 5,
@@ -40,7 +40,7 @@
       "en": "Come and see what God has done, how awesome his works in man's behalf!",
       "de": "Kommet her und sehet an die Werke Gottes, der so wunderbar ist in seinem Tun unter den Menschenkindern.",
       "zh": "你们来看　神所行的， 他向世人所做之事是可畏的。",
-      "ja": "來りて神のみわざをみよ 人の子輩にむかひて作たまふことはおそるべきかな"
+      "ja": "来て、神のみわざを見よ。人の子らにむかってなされることは恐るべきかな。"
     },
     {
       "number": 6,
@@ -48,7 +48,7 @@
       "en": "He turned the sea into dry land, they passed through the waters on foot--come, let us rejoice in him.",
       "de": "Er verwandelt das Meer ins Trockene, daß man zu Fuß über das Wasser ging; dort freuten wir uns sein.",
       "zh": "他将海变成干地，众民步行过河； 我们在那里因他欢喜。",
-      "ja": "神はうみをかへて乾ける地となしたまへり ひとびと歩行にて河をわたりき その處にてわれらは神をよろこべり"
+      "ja": "神は海を変えて、かわいた地とされた。人々は徒歩で川を渡った。その所でわれらは神を喜んだ。"
     },
     {
       "number": 7,
@@ -56,7 +56,7 @@
       "en": "He rules forever by his power, his eyes watch the nations--let not the rebellious rise up against him. Selah",
       "de": "Er herrscht mit seiner Gewalt ewiglich; seine Augen schauen auf die Völker. Die Abtrünnigen werden sich nicht erhöhen können. (Sela.)",
       "zh": "他用权能治理万民，直到永远。 他的眼睛鉴察列邦； 悖逆的人不可自高。 （细拉）",
-      "ja": "神はその大能をもてとこしへに統治め その目は諸國をみたまふ そむく者みづからを崇むべからず セラ"
+      "ja": "神は大能をもって、とこしえに統べ治め、その目はもろもろの国民を監視される。そむく者はみずからを高くしてはならない。[セラ"
     },
     {
       "number": 8,
@@ -64,7 +64,7 @@
       "en": "Praise our God, O peoples, let the sound of his praise be heard;",
       "de": "Lobet, ihr Völker, unsern Gott; lasset seinen Ruhm weit erschallen,",
       "zh": "万民哪，你们当称颂我们的　神， 使人得听赞美他的声音。",
-      "ja": "もろもろの民よ われらの神をほめまつれ神をほめたたふる聲をきこえしめよ"
+      "ja": "もろもろの民よ、われらの神をほめよ。神をほめたたえる声を聞えさせよ。"
     },
     {
       "number": 9,
@@ -72,7 +72,7 @@
       "en": "he has preserved our lives and kept our feet from slipping.",
       "de": "der unsre Seelen im Leben erhält und läßt unsre Füße nicht gleiten.",
       "zh": "他使我们的性命存活， 也不叫我们的脚摇动。",
-      "ja": "神はわれらの霊魂をながらへしめ われらの足のうごかさるることをゆるしたまはず"
+      "ja": "神はわれらを生きながらえさせ、われらの足のすべるのをゆるされない。"
     },
     {
       "number": 10,
@@ -80,7 +80,7 @@
       "en": "For you, O God, tested us; you refined us like silver.",
       "de": "Denn, Gott, du hast uns versucht und geläutert wie das Silber geläutert wird;",
       "zh": "神啊，你曾试验我们， 熬炼我们，如熬炼银子一样。",
-      "ja": "神よなんぢはわれらを試みて白銀をねるごとくにわれらを錬たまひたればなり"
+      "ja": "神よ、あなたはわれらを試み、しろがねを練るように、われらを練られた。"
     },
     {
       "number": 11,
@@ -88,7 +88,7 @@
       "en": "You brought us into prison and laid burdens on our backs.",
       "de": "du hast uns lassen in den Turm werfen; du hast auf unsere Lenden eine Last gelegt;",
       "zh": "你使我们进入网罗， 把重担放在我们的身上。",
-      "ja": "汝われらを網にひきいれ われらの腰におもき荷をおき"
+      "ja": "あなたはわれらを網にひきいれ、われらの腰に重き荷を置き、"
     },
     {
       "number": 12,
@@ -96,7 +96,7 @@
       "en": "You let men ride over our heads; we went through fire and water, but you brought us to a place of abundance.",
       "de": "du hast Menschen lassen über unser Haupt fahren; wir sind in Feuer und Wasser gekommen: aber du hast uns ausgeführt und erquickt.",
       "zh": "你使人坐车轧我们的头； 我们经过水火， 你却使我们到丰富之地。",
-      "ja": "人々をわれらの首のうへに騎こえしめたまひき われらは火のなか水のなかをすぎゆけり されど汝その中よりわれらをひきいたし豊盛なる處にいたらしめたまへり"
+      "ja": "人々にわれらの頭の上を乗り越えさせられた。われらは火の中、水の中を通った。しかしあなたはわれらを広い所に導き出された。"
     },
     {
       "number": 13,
@@ -104,7 +104,7 @@
       "en": "I will come to your temple with burnt offerings and fulfill my vows to you--",
       "de": "Darum will ich mit Brandopfern gehen in dein Haus und dir meine Gelübde bezahlen,",
       "zh": "我要用燔祭进你的殿， 向你还我的愿，",
-      "ja": "われ燔祭をもてなんぢの家にゆかん 迫りくるしみたるときにわが口唇のいひいでわが口ののべし誓をなんぢに償はん"
+      "ja": "わたしは燔祭をもってあなたの家に行き、わたしの誓いをあなたに果します。"
     },
     {
       "number": 14,
@@ -112,7 +112,7 @@
       "en": "vows my lips promised and my mouth spoke when I was in trouble.",
       "de": "wie ich meine Lippen habe aufgetan und mein Mund geredet hat in meiner Not.",
       "zh": "就是在急难时我嘴唇所发的、 口中所许的。",
-      "ja": ""
+      "ja": "これはわたしが悩みにあったとき、わたしのくちびるの言い出したもの、わたしの口が約束したものです。"
     },
     {
       "number": 15,
@@ -120,7 +120,7 @@
       "en": "I will sacrifice fat animals to you and an offering of rams; I will offer bulls and goats. Selah",
       "de": "Ich will dir Brandopfer bringen von feisten Schafen samt dem Rauch von Widdern; ich will opfern Rinder mit Böcken. (Sela.)",
       "zh": "我要把肥牛作燔祭， 将公羊的香祭献给你， 又把公牛和山羊献上。 （细拉）",
-      "ja": "われ肥たるものを燔祭とし牡羊を馨香として汝にささげ牡牛と牡山羊とをそなへまつらん セラ"
+      "ja": "わたしは肥えたものの燔祭を雄羊のいけにえの煙と共にあなたにささげ、雄牛と雄やぎとをささげます。[セラ"
     },
     {
       "number": 16,
@@ -128,7 +128,7 @@
       "en": "Come and listen, all you who fear God; let me tell you what he has done for me.",
       "de": "Kommet her, höret zu alle, die ihr Gott fürchtet; ich will erzählen, was er an meiner Seele getan hat.",
       "zh": "凡敬畏　神的人，你们都来听！ 我要述说他为我所行的事。",
-      "ja": "神をおそるる人よ みな來りてきけ われ神のわがたましひのために作たまへることをのべん"
+      "ja": "すべて神を恐れる者よ、来て聞け。神がわたしのためになされたことを告げよう。"
     },
     {
       "number": 17,
@@ -136,7 +136,7 @@
       "en": "I cried out to him with my mouth; his praise was on my tongue.",
       "de": "Zu ihm rief ich mit meinem Munde, und pries ihn mit meiner Zunge.",
       "zh": "我曾用口求告他； 我的舌头也称他为高。",
-      "ja": "われわが口をもて神によばはり また舌をもてあがむ"
+      "ja": "わたしは声をあげて神に呼ばわり、わが舌をもって神をあがめた。"
     },
     {
       "number": 18,
@@ -144,7 +144,7 @@
       "en": "If I had cherished sin in my heart, the Lord would not have listened;",
       "de": "Wo ich Unrechtes vorhätte in meinem Herzen, so würde der Herr nicht hören;",
       "zh": "我若心里注重罪孽， 主必不听。",
-      "ja": "然るにわが心にしれる不義あらば主はわれにききたまふまじ"
+      "ja": "もしわたしが心に不義をいだいていたならば、主はお聞きにならないであろう。"
     },
     {
       "number": 19,
@@ -152,7 +152,7 @@
       "en": "but God has surely listened and heard my voice in prayer.",
       "de": "aber Gott hat mich erhört und gemerkt auf mein Flehen.",
       "zh": "但　神实在听见了； 他侧耳听了我祷告的声音。",
-      "ja": "されどまことに神はききたまへり聖意をわがいのりの聲にとめたまへり"
+      "ja": "しかし、まことに神はお聞きになり、わが祈の声にみこころをとめられた。"
     },
     {
       "number": 20,
@@ -160,7 +160,7 @@
       "en": "Praise be to God, who has not rejected my prayer or withheld his love from me!",
       "de": "Gelobt sei Gott, der mein Gebet nicht verwirft noch seine Güte von mir wendet.",
       "zh": "神是应当称颂的！ 他并没有推却我的祷告， 也没有叫他的慈爱离开我。",
-      "ja": "神はほむべきかな わが祈をしりぞけず その憐憫をわれよりとりのぞきたまはざりき"
+      "ja": "神はほむべきかな。神はわが祈をしりぞけず、そのいつくしみをわたしから取り去られなかった。"
     }
   ]
 }

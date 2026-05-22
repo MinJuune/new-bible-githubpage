@@ -8,7 +8,7 @@
       "en": "A psalm of David. O LORD, hear my prayer, listen to my cry for mercy; in your faithfulness and righteousness come to my relief.",
       "de": "Ein Psalm Davids. HERR, erhöre mein Gebet, vernimm mein Flehen um deiner Wahrheit willen, erhöre mich um deiner Gerechtigkeit willen",
       "zh": "大卫的诗。 耶和华啊，求你听我的祷告， 留心听我的恳求， 凭你的信实和公义应允我。",
-      "ja": "ヱホバよねがはくはわが祈をきき わが懇求にみみをかたぶけたまへ なんぢの眞實なんぢの公義をもて我にこたへたまへ"
+      "ja": "主よ、わが祈を聞き、わが願いに耳を傾けてください。あなたの真実と、あなたの正義とをもって、わたしにお答えください。"
     },
     {
       "number": 2,
@@ -16,7 +16,7 @@
       "en": "Do not bring your servant into judgment, for no one living is righteous before you.",
       "de": "und gehe nicht ins Gericht mit deinem Knechte; denn vor dir ist kein Lebendiger gerecht.",
       "zh": "求你不要审问仆人； 因为在你面前，凡活着的人没有一个是义的。",
-      "ja": "汝のしもべの審判にかかつらひたまふなかれ そはいけるもの一人だにみまへに義とせらるるはなし"
+      "ja": "あなたのしもべのさばきにたずさわらないでください。生ける者はひとりもみ前に義とされないからです。"
     },
     {
       "number": 3,
@@ -24,7 +24,7 @@
       "en": "The enemy pursues me, he crushes me to the ground; he makes me dwell in darkness like those long dead.",
       "de": "Denn der Feind verfolgt meine Seele und schlägt mein Leben zu Boden; er legt mich ins Finstere wie die, so längst tot sind.",
       "zh": "原来仇敌逼迫我， 将我打倒在地， 使我住在幽暗之处， 像死了许久的人一样。",
-      "ja": "仇はわがたましひを迫めわが生命を地にうちすて 死てひさしく世を經たるもののごとく我をくらき所にすまはせたり"
+      "ja": "敵はわたしをせめ、わがいのちを地に踏みにじり、死んで久しく時を経た者のようにわたしを暗い所に住まわせました。"
     },
     {
       "number": 4,
@@ -32,7 +32,7 @@
       "en": "So my spirit grows faint within me; my heart within me is dismayed.",
       "de": "Und mein Geist ist in mir geängstet; mein Herz ist mir in meinem Leibe verzehrt.",
       "zh": "所以，我的灵在我里面发昏； 我的心在我里面凄惨。",
-      "ja": "又わがたましひはわが衷にきえうせんとし わが心はわがうちに曠さびれたり"
+      "ja": "それゆえ、わが霊はわがうちに消えうせようとし、わが心はわがうちに荒れさびれています。"
     },
     {
       "number": 5,
@@ -40,7 +40,7 @@
       "en": "I remember the days of long ago; I meditate on all your works and consider what your hands have done.",
       "de": "Ich gedenke an die vorigen Zeiten; ich rede von allen deinen Taten und sage von den Werken deiner Hände.",
       "zh": "我追想古时之日， 思想你的一切作为， 默念你手的工作。",
-      "ja": "われはいにしへの日をおもひいで 汝のおこなひたまひし一切のことを考へ なんぢの手のみわざをおもふ"
+      "ja": "わたしはいにしえの日を思い出し、あなたが行われたすべての事を考え、あなたのみ手のわざを思います。"
     },
     {
       "number": 6,
@@ -48,7 +48,7 @@
       "en": "I spread out my hands to you; my soul thirsts for you like a parched land. Selah",
       "de": "Ich breite meine Hände aus zu dir; meine Seele dürstet nach dir wie ein dürres Land. (Sela.)",
       "zh": "我向你举手； 我的心渴想你， 如干旱之地盼雨一样。 （细拉）",
-      "ja": "われ汝にむかひてわが手をのべ わがたましひは燥きおとろへたる地のごとく汝をしたへり セラ"
+      "ja": "わたしはあなたにむかって手を伸べ、わが魂は、かわききった地のようにあなたを慕います。[セラ"
     },
     {
       "number": 7,
@@ -56,7 +56,7 @@
       "en": "Answer me quickly, O LORD; my spirit fails. Do not hide your face from me or I will be like those who go down to the pit.",
       "de": "HERR, erhöre mich bald, mein Geist vergeht; verbirg dein Antlitz nicht von mir, daß ich nicht gleich werde denen, die in die Grube fahren.",
       "zh": "耶和华啊，求你速速应允我！ 我心神耗尽！ 不要向我掩面， 免得我像那些下坑的人一样。",
-      "ja": "ヱホバよ速かにわれにこたへたまへ わが霊魂はおとろふ われに聖顔をかくしたまふなかれ おそらくはわれ穴にくだるもののごとくならん"
+      "ja": "主よ、すみやかにわたしにお答えください。わが霊は衰えます。わたしにみ顔を隠さないでください。さもないと、わたしは穴にくだる者のようになるでしょう。"
     },
     {
       "number": 8,
@@ -64,7 +64,7 @@
       "en": "Let the morning bring me word of your unfailing love, for I have put my trust in you. Show me the way I should go, for to you I lift up my soul.",
       "de": "Laß mich frühe hören deine Gnade; denn ich hoffe auf dich. Tue mir kund den Weg, darauf ich gehen soll; denn mich verlangt nach dir.",
       "zh": "求你使我清晨得听你慈爱之言， 因我倚靠你； 求你使我知道当行的路， 因我的心仰望你。",
-      "ja": "朝になんぢの仁慈をきかしめたまへ われ汝によりたのめばなり わが歩むべき途をしらせたまへ われわが霊魂をなんぢに擧ればなり"
+      "ja": "あしたに、あなたのいつくしみを聞かせてください。わたしはあなたに信頼します。わが歩むべき道を教えてください。わが魂はあなたを仰ぎ望みます。"
     },
     {
       "number": 9,
@@ -72,7 +72,7 @@
       "en": "Rescue me from my enemies, O LORD, for I hide myself in you.",
       "de": "Errette mich, mein Gott, von meinen Feinden; zu dir habe ich Zuflucht.",
       "zh": "耶和华啊，求你救我脱离我的仇敌！ 我往你那里藏身。",
-      "ja": "ヱホバよねがはくは我をわが仇よりたすけ出したまへ われ匿れんとして汝にはしりゆく"
+      "ja": "主よ、わたしをわが敵から助け出してください。わたしは避け所を得るためにあなたのもとにのがれました。"
     },
     {
       "number": 10,
@@ -80,7 +80,7 @@
       "en": "Teach me to do your will, for you are my God; may your good Spirit lead me on level ground.",
       "de": "Lehre mich tun nach deinem Wohlgefallen, denn du bist mein Gott; dein guter Geist führe mich auf ebener Bahn.",
       "zh": "求你指教我遵行你的旨意， 因你是我的　神。 你的灵本为善； 求你引我到平坦之地。",
-      "ja": "汝はわが神なり われに聖旨をおこなふことををしへたまへ 惠ふかき聖霊をもて我をたひらかなる國にみちびきたまへ"
+      "ja": "あなたのみむねを行うことを教えてください。あなたはわが神です。恵みふかい、みたまをもってわたしを平らかな道に導いてください。"
     },
     {
       "number": 11,
@@ -88,7 +88,7 @@
       "en": "For your name's sake, O LORD, preserve my life; in your righteousness, bring me out of trouble.",
       "de": "HERR, erquicke mich um deines Namens willen; führe meine Seele aus der Not um deiner Gerechtigkeit willen",
       "zh": "耶和华啊，求你为你的名将我救活， 凭你的公义，将我从患难中领出来，",
-      "ja": "ヱホバよねがはくは聖名のために我をいかし なんぢの義によりてわがたましひを患難よりいだしたまへ"
+      "ja": "主よ、み名のために、わたしを生かし、あなたの義によって、わたしを悩みから救い出してください。"
     },
     {
       "number": 12,
@@ -96,7 +96,7 @@
       "en": "In your unfailing love, silence my enemies; destroy all my foes, for I am your servant.",
       "de": "und verstöre meine Feinde um deiner Güte willen und bringe alle um, die meine Seele ängsten; denn ich bin dein Knecht.",
       "zh": "凭你的慈爱剪除我的仇敌， 灭绝一切苦待我的人， 因我是你的仆人。",
-      "ja": "又なんぢの仁慈によりてわが仇をたち 霊魂をくるしむる者をことごとく滅したまへ そは我なんぢの僕なり"
+      "ja": "また、あなたのいつくしみによって、わが敵を断ち、わがあだをことごとく滅ぼしてください。わたしはあなたのしもべです。"
     }
   ]
 }

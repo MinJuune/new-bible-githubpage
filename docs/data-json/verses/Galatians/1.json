@@ -8,7 +8,7 @@
       "en": "Paul, an apostle--sent not from men nor by man, but by Jesus Christ and God the Father, who raised him from the dead--",
       "de": "Paulus, ein Apostel (nicht von Menschen, auch nicht durch Menschen, sondern durch Jesum Christum und Gott, den Vater, der ihn auferweckt hat von den Toten),",
       "zh": "作使徒的保罗（不是由于人，也不是借着人，乃是借着耶稣基督，与叫他从死里复活的父　神）",
-      "ja": "使徒となったパウロ――私が使徒となったのは、人間から出たことでなく、また人間の手を通したことでもなく、イエス・キリストと、キリストを死者の中からよみがえらせた父なる神によったのです。――"
+      "ja": "人々からでもなく、人によってでもなく、イエス・キリストと彼を死人の中からよみがえらせた父なる神とによって立てられた使徒パウロ、"
     },
     {
       "number": 2,
@@ -16,7 +16,7 @@
       "en": "and all the brothers with me, To the churches in Galatia:",
       "de": "und alle Brüder, die bei mir sind, den Gemeinden in Galatien:",
       "zh": "和一切与我同在的众弟兄，写信给加拉太的各教会。",
-      "ja": "および私とともにいるすべての兄弟たちから、ガラテヤの諸教会へ。"
+      "ja": "ならびにわたしと共にいる兄弟たち一同から、ガラテヤの諸教会へ。"
     },
     {
       "number": 3,
@@ -24,7 +24,7 @@
       "en": "Grace and peace to you from God our Father and the Lord Jesus Christ,",
       "de": "Gnade sei mit euch und Friede von Gott, dem Vater, und unserm HERRN Jesus Christus,",
       "zh": "愿恩惠、平安从父　神与我们的主耶稣基督归与你们！",
-      "ja": "どうか、私たちの父なる神と主イエス・キリストから、恵みと平安があなたがたの上にありますように。"
+      "ja": "わたしたちの父なる神と主イエス・キリストから、恵みと平安とが、あなたがたにあるように。"
     },
     {
       "number": 4,
@@ -32,7 +32,7 @@
       "en": "who gave himself for our sins to rescue us from the present evil age, according to the will of our God and Father,",
       "de": "der sich selbst für unsere Sünden gegeben hat, daß er uns errettete von dieser gegenwärtigen, argen Welt nach dem Willen Gottes und unseres Vaters,",
       "zh": "基督照我们父　神的旨意，为我们的罪舍己，要救我们脱离这罪恶的世代。",
-      "ja": "キリストは、今の悪の世界から私たちを救い出そうとして、私たちの罪のためにご自身をお捨てになりました。私たちの神であり父である方のみこころによったのです。"
+      "ja": "キリストは、わたしたちの父なる神の御旨に従い、わたしたちを今の悪の世から救い出そうとして、ご自身をわたしたちの罪のためにささげられたのである。"
     },
     {
       "number": 5,
@@ -40,7 +40,7 @@
       "en": "to whom be glory for ever and ever. Amen.",
       "de": "welchem sei Ehre von Ewigkeit zu Ewigkeit! Amen.",
       "zh": "但愿荣耀归于　神，直到永永远远。阿们！",
-      "ja": "どうか、この神に栄光がとこしえにありますように。アーメン。"
+      "ja": "栄光が世々限りなく神にあるように、アァメン。"
     },
     {
       "number": 6,
@@ -48,7 +48,7 @@
       "en": "I am astonished that you are so quickly deserting the one who called you by the grace of Christ and are turning to a different gospel--",
       "de": "Mich wundert, daß ihr euch so bald abwenden lasset von dem, der euch berufen hat in die Gnade Christi, zu einem anderen Evangelium,",
       "zh": "我希奇你们这么快离开那借着基督之恩召你们的，去从别的福音。",
-      "ja": "私は、キリストの恵みをもってあなたがたを召してくださったその方を、あなたがたがそんなにも急に見捨てて、ほかの福音に移って行くのに驚いています。"
+      "ja": "あなたがたがこんなにも早く、あなたがたをキリストの恵みの内へお招きになったかたから離れて、違った福音に落ちていくことが、わたしには不思議でならない。"
     },
     {
       "number": 7,
@@ -56,7 +56,7 @@
       "en": "which is really no gospel at all. Evidently some people are throwing you into confusion and are trying to pervert the gospel of Christ.",
       "de": "so doch kein anderes ist, außer, daß etliche sind, die euch verwirren und wollen das Evangelium Christi verkehren.",
       "zh": "那并不是福音，不过有些人搅扰你们，要把基督的福音更改了。",
-      "ja": "ほかの福音といっても、もう一つ別に福音があるのではありません。あなたがたをかき乱す者たちがいて、キリストの福音を変えてしまおうとしているだけです。"
+      "ja": "それは福音というべきものではなく、ただ、ある種の人々があなたがたをかき乱し、キリストの福音を曲げようとしているだけのことである。"
     },
     {
       "number": 8,
@@ -64,7 +64,7 @@
       "en": "But even if we or an angel from heaven should preach a gospel other than the one we preached to you, let him be eternally condemned!",
       "de": "Aber so auch wir oder ein Engel vom Himmel euch würde Evangelium predigen anders, denn das wir euch gepredigt haben, der sei verflucht!",
       "zh": "但无论是我们，是天上来的使者，若传福音给你们，与我们所传给你们的不同，他就应当被咒诅。",
-      "ja": "しかし、私たちであろうと、天の御使いであろうと、もし私たちが宣べ伝えた福音に反することをあなたがたに宣べ伝えるなら、その者はのろわれるべきです。"
+      "ja": "しかし、たといわたしたちであろうと、天からの御使であろうと、わたしたちが宣べ伝えた福音に反することをあなたがたに宣べ伝えるなら、その人はのろわるべきである。"
     },
     {
       "number": 9,
@@ -72,7 +72,7 @@
       "en": "As we have already said, so now I say again: If anybody is preaching to you a gospel other than what you accepted, let him be eternally condemned!",
       "de": "Wie wir jetzt gesagt haben, so sagen wir abermals: So jemand euch Evangelium predigt anders, denn das ihr empfangen habt, der sei verflucht!",
       "zh": "我们已经说了，现在又说，若有人传福音给你们，与你们所领受的不同，他就应当被咒诅。",
-      "ja": "私たちが前に言ったように、今もう一度私は言います。もしだれかが、あなたがたの受けた福音に反することを、あなたがたに宣べ伝えているなら、その者はのろわれるべきです。"
+      "ja": "わたしたちが前に言っておいたように、今わたしは重ねて言う。もしある人が、あなたがたの受けいれた福音に反することを宣べ伝えているなら、その人はのろわるべきである。"
     },
     {
       "number": 10,
@@ -80,7 +80,7 @@
       "en": "Am I now trying to win the approval of men, or of God? Or am I trying to please men? If I were still trying to please men, I would not be a servant of Christ.",
       "de": "Predige ich denn jetzt Menschen oder Gott zu Dienst? Oder gedenke ich, Menschen gefällig zu sein? Wenn ich den Menschen noch gefällig wäre, so wäre ich Christi Knecht nicht.",
       "zh": "我现在是要得人的心呢？还是要得　神的心呢？我岂是讨人的喜欢吗？若仍旧讨人的喜欢，我就不是基督的仆人了。",
-      "ja": "いま私は人に取り入ろうとしているのでしょうか。いや。神に、でしょう。あるいはまた、人の歓心を買おうと努めているのでしょうか。もし私がいまなお人の歓心を買おうとするようなら、私はキリストのしもべとは言えません。"
+      "ja": "今わたしは、人に喜ばれようとしているのか、それとも、神に喜ばれようとしているのか。あるいは、人の歓心を買おうと努めているのか。もし、今もなお人の歓心を買おうとしているとすれば、わたしはキリストの僕ではあるまい。"
     },
     {
       "number": 11,
@@ -88,7 +88,7 @@
       "en": "I want you to know, brothers, that the gospel I preached is not something that man made up.",
       "de": "Ich tue euch aber kund, liebe Brüder, daß das Evangelium, das von mir gepredigt ist, nicht menschlich ist.",
       "zh": "弟兄们，我告诉你们，我素来所传的福音不是出于人的意思。",
-      "ja": "兄弟たちよ。私はあなたがたに知らせましょう。私が宣べ伝えた福音は、人間によるものではありません。"
+      "ja": "兄弟たちよ。あなたがたに、はっきり言っておく。わたしが宣べ伝えた福音は人間によるものではない。"
     },
     {
       "number": 12,
@@ -96,7 +96,7 @@
       "en": "I did not receive it from any man, nor was I taught it; rather, I received it by revelation from Jesus Christ.",
       "de": "Denn ich habe es von keinem Menschen empfangen noch gelernt, sondern durch die Offenbarung Jesu Christi.",
       "zh": "因为我不是从人领受的，也不是人教导我的，乃是从耶稣基督启示来的。",
-      "ja": "私はそれを人間からは受けなかったし、また教えられもしませんでした。ただイエス・キリストの啓示によって受けたのです。"
+      "ja": "わたしは、それを人間から受けたのでも教えられたのでもなく、ただイエス・キリストの啓示によったのである。"
     },
     {
       "number": 13,
@@ -104,7 +104,7 @@
       "en": "For you have heard of my previous way of life in Judaism, how intensely I persecuted the church of God and tried to destroy it.",
       "de": "Denn ihr habt ja wohl gehört meinen Wandel weiland im Judentum, wie ich über die Maßen die Gemeinde Gottes verfolgte und verstörte",
       "zh": "你们听见我从前在犹太教中所行的事，怎样极力逼迫残害　神的教会。",
-      "ja": "以前ユダヤ教徒であったころの私の行動は、あなたがたがすでに聞いているところです。私は激しく神の教会を迫害し、これを滅ぼそうとしました。"
+      "ja": "ユダヤ教を信じていたころのわたしの行動については、あなたがたはすでによく聞いている。すなわち、わたしは激しく神の教会を迫害し、また荒しまわっていた。"
     },
     {
       "number": 14,
@@ -112,7 +112,7 @@
       "en": "I was advancing in Judaism beyond many Jews of my own age and was extremely zealous for the traditions of my fathers.",
       "de": "und nahm zu im Judentum über viele meinesgleichen in meinem Geschlecht und eiferte über die Maßen um das väterliche Gesetz.",
       "zh": "我又在犹太教中，比我本国许多同岁的人更有长进，为我祖宗的遗传更加热心。",
-      "ja": "また私は、自分と同族で同年輩の多くの者たちに比べ、はるかにユダヤ教に進んでおり、先祖からの伝承に人一倍熱心でした。"
+      "ja": "そして、同国人の中でわたしと同年輩の多くの者にまさってユダヤ教に精進し、先祖たちの言伝えに対して、だれよりもはるかに熱心であった。"
     },
     {
       "number": 15,
@@ -120,7 +120,7 @@
       "en": "But when God, who set me apart from birth and called me by his grace, was pleased",
       "de": "Da es aber Gott wohl gefiel, der mich von meiner Mutter Leibe an hat ausgesondert und berufen durch seine Gnade,",
       "zh": "然而，那把我从母腹里分别出来、又施恩召我的　神，",
-      "ja": "けれども、生まれたときから私を選び分け、恵みをもって召してくださった方が、"
+      "ja": "ところが、母の胎内にある時からわたしを聖別し、み恵みをもってわたしをお召しになったかたが、"
     },
     {
       "number": 16,
@@ -128,7 +128,7 @@
       "en": "to reveal his Son in me so that I might preach him among the Gentiles, I did not consult any man,",
       "de": "daß er seinen Sohn offenbarte in mir, daß ich ihn durchs Evangelium verkündigen sollte unter den Heiden: alsobald fuhr ich zu und besprach mich nicht darüber mit Fleisch und Blut,",
       "zh": "既然乐意将他儿子启示在我心里，叫我把他传在外邦人中，我就没有与属血气的人商量，",
-      "ja": "異邦人の間に御子を宣べ伝えさせるために、御子を私のうちに啓示することをよしとされたとき、私はすぐに、人には相談せず、"
+      "ja": "異邦人の間に宣べ伝えさせるために、御子をわたしの内に啓示して下さった時、わたしは直ちに、血肉に相談もせず、"
     },
     {
       "number": 17,
@@ -136,7 +136,7 @@
       "en": "nor did I go up to Jerusalem to see those who were apostles before I was, but I went immediately into Arabia and later returned to Damascus.",
       "de": "kam auch nicht gen Jerusalem zu denen, die vor mir Apostel waren, sondern zog hin nach Arabien und kam wiederum gen Damaskus.",
       "zh": "也没有上耶路撒冷去见那些比我先作使徒的，惟独往阿拉伯去，后又回到大马士革。",
-      "ja": "先輩の使徒たちに会うためにエルサレムにも上らず、アラビヤに出て行き、またダマスコに戻りました。"
+      "ja": "また先輩の使徒たちに会うためにエルサレムにも上らず、アラビヤに出て行った。それから再びダマスコに帰った。"
     },
     {
       "number": 18,
@@ -144,7 +144,7 @@
       "en": "Then after three years, I went up to Jerusalem to get acquainted with Peter and stayed with him fifteen days.",
       "de": "Darnach über drei Jahre kam ich nach Jerusalem, Petrus zu schauen, und blieb fünfzehn Tage bei ihm.",
       "zh": "过了三年，才上耶路撒冷去见矶法，和他同住了十五天。",
-      "ja": "それから三年後に、私はケパをたずねてエルサレムに上り、彼のもとに十五日間滞在しました。"
+      "ja": "その後三年たってから、わたしはケパをたずねてエルサレムに上り、彼のもとに十五日間、滞在した。"
     },
     {
       "number": 19,
@@ -152,7 +152,7 @@
       "en": "I saw none of the other apostles--only James, the Lord's brother.",
       "de": "Der andern Apostel aber sah ich keinen außer Jakobus, des HERRN Bruder.",
       "zh": "至于别的使徒，除了主的兄弟雅各，我都没有看见。",
-      "ja": "しかし、主の兄弟ヤコブは別として、ほかの使徒にはだれにも会いませんでした。"
+      "ja": "しかし、主の兄弟ヤコブ以外には、ほかのどの使徒にも会わなかった。"
     },
     {
       "number": 20,
@@ -160,7 +160,7 @@
       "en": "I assure you before God that what I am writing you is no lie.",
       "de": "Was ich euch aber schreibe, siehe, Gott weiß, ich lüge nicht!",
       "zh": "我写给你们的不是谎话，这是我在　神面前说的。",
-      "ja": "私があなたがたに書いていることには、神の御前で申しますが、偽りはありません。"
+      "ja": "ここに書いていることは、神のみまえで言うが、決して偽りではない。"
     },
     {
       "number": 21,
@@ -168,7 +168,7 @@
       "en": "Later I went to Syria and Cilicia.",
       "de": "Darnach kam ich in die Länder Syrien und Zilizien.",
       "zh": "以后我到了叙利亚和基利家境内。",
-      "ja": "それから、私はシリヤおよびキリキヤの地方に行きました。"
+      "ja": "その後、わたしはシリヤとキリキヤとの地方に行った。"
     },
     {
       "number": 22,
@@ -176,7 +176,7 @@
       "en": "I was personally unknown to the churches of Judea that are in Christ.",
       "de": "Ich war aber unbekannt von Angesicht den christlichen Gemeinden in Judäa.",
       "zh": "那时，犹太信基督的各教会都没有见过我的面。",
-      "ja": "しかし、キリストにあるユダヤの諸教会には顔を知られていませんでした。"
+      "ja": "しかし、キリストにあるユダヤの諸教会には、顔を知られていなかった。"
     },
     {
       "number": 23,
@@ -184,7 +184,7 @@
       "en": "They only heard the report: \"The man who formerly persecuted us is now preaching the faith he once tried to destroy.\"",
       "de": "Sie hatten aber allein gehört, daß, der uns weiland verfolgte, der predigt jetzt den Glauben, welchen er weiland verstörte,",
       "zh": "不过听说那从前逼迫我们的，现在传扬他原先所残害的真道。",
-      "ja": "けれども、「以前私たちを迫害した者が、そのとき滅ぼそうとした信仰を今は宣べ伝えている。」と聞いてだけはいたので、"
+      "ja": "ただ彼らは、「かつて自分たちを迫害した者が、以前には撲滅しようとしていたその信仰を、今は宣べ伝えている」と聞き、"
     },
     {
       "number": 24,
@@ -192,7 +192,7 @@
       "en": "And they praised God because of me.",
       "de": "und priesen Gott über mir.",
       "zh": "他们就为我的缘故，归荣耀给　神。",
-      "ja": "彼らは私のことで神をあがめていました。"
+      "ja": "わたしのことで、神をほめたたえた。"
     }
   ]
 }

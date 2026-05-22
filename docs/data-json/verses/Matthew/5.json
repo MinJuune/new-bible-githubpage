@@ -8,7 +8,7 @@
       "en": "Now when he saw the crowds, he went up on a mountainside and sat down. His disciples came to him,",
       "de": "Da er aber das Volk sah, ging er auf einen Berg und setzte sich; und seine Jünger traten zu ihm,",
       "zh": "耶稣看见这许多的人，就上了山，既已坐下，门徒到他跟前来，",
-      "ja": "この群衆を見て、イエスは山に登り、おすわりになると、弟子たちがみもとに来た。"
+      "ja": "イエスはこの群衆を見て、山に登り、座につかれると、弟子たちがみもとに近寄ってきた。"
     },
     {
       "number": 2,
@@ -16,7 +16,7 @@
       "en": "and he began to teach them, saying:",
       "de": "Und er tat seinen Mund auf, lehrte sie und sprach:",
       "zh": "他就开口教训他们，说：",
-      "ja": "そこで、イエスは口を開き、彼らに教えて、言われた。"
+      "ja": "そこで、イエスは口を開き、彼らに教えて言われた。"
     },
     {
       "number": 3,
@@ -24,7 +24,7 @@
       "en": "\"Blessed are the poor in spirit, for theirs is the kingdom of heaven.",
       "de": "Selig sind, die da geistlich arm sind; denn das Himmelreich ist ihr.",
       "zh": "虚心的人有福了！ 因为天国是他们的。",
-      "ja": "「心の貧しい者は幸いです。天の御国はその人のものだからです。"
+      "ja": "「こころの貧しい人たちは、さいわいである、天国は彼らのものである。"
     },
     {
       "number": 4,
@@ -32,7 +32,7 @@
       "en": "Blessed are those who mourn, for they will be comforted.",
       "de": "Selig sind, die da Leid tragen; denn sie sollen getröstet werden.",
       "zh": "哀恸的人有福了！ 因为他们必得安慰。",
-      "ja": "悲しむ者は幸いです。その人は慰められるからです。"
+      "ja": "悲しんでいる人たちは、さいわいである、彼らは慰められるであろう。"
     },
     {
       "number": 5,
@@ -40,7 +40,7 @@
       "en": "Blessed are the meek, for they will inherit the earth.",
       "de": "Selig sind die Sanftmütigen; denn sie werden das Erdreich besitzen.",
       "zh": "温柔的人有福了！ 因为他们必承受地土。",
-      "ja": "柔和な者は幸いです。その人は地を相続するからです。"
+      "ja": "柔和な人たちは、さいわいである、彼らは地を受けつぐであろう。"
     },
     {
       "number": 6,
@@ -48,7 +48,7 @@
       "en": "Blessed are those who hunger and thirst for righteousness, for they will be filled.",
       "de": "Selig sind, die da hungert und dürstet nach der Gerechtigkeit; denn sie sollen satt werden.",
       "zh": "饥渴慕义的人有福了！ 因为他们必得饱足。",
-      "ja": "義に飢え渇いている者は幸いです。その人は満ち足りるからです。"
+      "ja": "義に飢えかわいている人たちは、さいわいである、彼らは飽き足りるようになるであろう。"
     },
     {
       "number": 7,
@@ -56,7 +56,7 @@
       "en": "Blessed are the merciful, for they will be shown mercy.",
       "de": "Selig sind die Barmherzigen; denn sie werden Barmherzigkeit erlangen.",
       "zh": "怜恤人的人有福了！ 因为他们必蒙怜恤。",
-      "ja": "あわれみ深い者は幸いです。その人はあわれみを受けるからです。"
+      "ja": "あわれみ深い人たちは、さいわいである、彼らはあわれみを受けるであろう。"
     },
     {
       "number": 8,
@@ -64,7 +64,7 @@
       "en": "Blessed are the pure in heart, for they will see God.",
       "de": "Selig sind, die reines Herzens sind; denn sie werden Gott schauen.",
       "zh": "清心的人有福了！ 因为他们必得见　神。",
-      "ja": "心のきよい者は幸いです。その人は神を見るからです。"
+      "ja": "心の清い人たちは、さいわいである、彼らは神を見るであろう。"
     },
     {
       "number": 9,
@@ -72,7 +72,7 @@
       "en": "Blessed are the peacemakers, for they will be called sons of God.",
       "de": "Selig sind die Friedfertigen; denn sie werden Gottes Kinder heißen.",
       "zh": "使人和睦的人有福了！ 因为他们必称为　神的儿子。",
-      "ja": "平和をつくる者は幸いです。その人は神の子どもと呼ばれるからです。"
+      "ja": "平和をつくり出す人たちは、さいわいである、彼らは神の子と呼ばれるであろう。"
     },
     {
       "number": 10,
@@ -80,7 +80,7 @@
       "en": "Blessed are those who are persecuted because of righteousness, for theirs is the kingdom of heaven.",
       "de": "Selig sind, die um Gerechtigkeit willen verfolgt werden; denn das Himmelreich ist ihr.",
       "zh": "为义受逼迫的人有福了！ 因为天国是他们的。",
-      "ja": "義のために迫害されている者は幸いです。天の御国はその人のものだからです。"
+      "ja": "義のために迫害されてきた人たちは、さいわいである、天国は彼らのものである。"
     },
     {
       "number": 11,
@@ -88,7 +88,7 @@
       "en": "\"Blessed are you when people insult you, persecute you and falsely say all kinds of evil against you because of me.",
       "de": "Selig seid ihr, wenn euch die Menschen um meinetwillen schmähen und verfolgen und reden allerlei Übles gegen euch, so sie daran lügen.",
       "zh": "「人若因我辱骂你们，逼迫你们，捏造各样坏话毁谤你们，你们就有福了！",
-      "ja": "わたしのために、ののしられたり、迫害されたり、また、ありもしないことで悪口雑言を言われたりするとき、あなたがたは幸いです。"
+      "ja": "わたしのために人々があなたがたをののしり、また迫害し、あなたがたに対し偽って様々の悪口を言う時には、あなたがたは、さいわいである。"
     },
     {
       "number": 12,
@@ -96,7 +96,7 @@
       "en": "Rejoice and be glad, because great is your reward in heaven, for in the same way they persecuted the prophets who were before you.",
       "de": "Seid fröhlich und getrost; es wird euch im Himmel wohl belohnt werden. Denn also haben sie verfolgt die Propheten, die vor euch gewesen sind.",
       "zh": "应当欢喜快乐，因为你们在天上的赏赐是大的。在你们以前的先知，人也是这样逼迫他们。」",
-      "ja": "喜びなさい。喜びおどりなさい。天においてあなたがたの報いは大きいのだから。あなたがたより前に来た預言者たちも、そのように迫害されました。"
+      "ja": "喜び、よろこべ、天においてあなたがたの受ける報いは大きい。あなたがたより前の預言者たちも、同じように迫害されたのである。"
     },
     {
       "number": 13,
@@ -104,7 +104,7 @@
       "en": "\"You are the salt of the earth. But if the salt loses its saltiness, how can it be made salty again? It is no longer good for anything, except to be thrown out and trampled by men.",
       "de": "Ihr seid das Salz der Erde. Wo nun das Salz dumm wird, womit soll man's salzen? Es ist hinfort zu nichts nütze, denn das man es hinausschütte und lasse es die Leute zertreten.",
       "zh": "「你们是世上的盐。盐若失了味，怎能叫它再咸呢？以后无用，不过丢在外面，被人践踏了。",
-      "ja": "あなたがたは、地の塩です。もし塩が塩けをなくしたら、何によって塩けをつけるのでしょう。もう何の役にも立たず、外に捨てられて、人々に踏みつけられるだけです。"
+      "ja": "あなたがたは、地の塩である。もし塩のききめがなくなったら、何によってその味が取りもどされようか。もはや、なんの役にも立たず、ただ外に捨てられて、人々にふみつけられるだけである。"
     },
     {
       "number": 14,
@@ -112,7 +112,7 @@
       "en": "\"You are the light of the world. A city on a hill cannot be hidden.",
       "de": "Ihr seid das Licht der Welt. Es kann die Stadt, die auf einem Berge liegt, nicht verborgen sein.",
       "zh": "你们是世上的光。城造在山上是不能隐藏的。",
-      "ja": "あなたがたは、世界の光です。山の上にある町は隠れる事ができません。"
+      "ja": "あなたがたは、世の光である。山の上にある町は隠れることができない。"
     },
     {
       "number": 15,
@@ -120,7 +120,7 @@
       "en": "Neither do people light a lamp and put it under a bowl. Instead they put it on its stand, and it gives light to everyone in the house.",
       "de": "Man zündet auch nicht ein Licht an und setzt es unter einen Scheffel, sondern auf einen Leuchter; so leuchtet es denn allen, die im Hause sind.",
       "zh": "人点灯，不放在斗底下，是放在灯台上，就照亮一家的人。",
-      "ja": "また、あかりをつけて、それを枡の下に置く者はありません。燭台の上に置きます。そうすれば、家にいる人々全部を照らします。"
+      "ja": "また、あかりをつけて、それを枡の下におく者はいない。むしろ燭台の上において、家の中のすべてのものを照させるのである。"
     },
     {
       "number": 16,
@@ -128,7 +128,7 @@
       "en": "In the same way, let your light shine before men, that they may see your good deeds and praise your Father in heaven.",
       "de": "Also laßt euer Licht leuchten vor den Leuten, daß sie eure guten Werke sehen und euren Vater im Himmel preisen.",
       "zh": "你们的光也当这样照在人前，叫他们看见你们的好行为，便将荣耀归给你们在天上的父。」",
-      "ja": "このように、あなたがたの光を人々の前で輝かせ、人々があなたがたの良い行ないを見て、天におられるあなたがたの父をあがめるようにしなさい。"
+      "ja": "そのように、あなたがたの光を人々の前に輝かし、そして、人々があなたがたのよいおこないを見て、天にいますあなたがたの父をあがめるようにしなさい。"
     },
     {
       "number": 17,
@@ -136,7 +136,7 @@
       "en": "\"Do not think that I have come to abolish the Law or the Prophets; I have not come to abolish them but to fulfill them.",
       "de": "Ihr sollt nicht wähnen, daß ich gekommen bin, das Gesetz oder die Propheten aufzulösen; ich bin nicht gekommen, aufzulösen, sondern zu erfüllen.",
       "zh": "「莫想我来要废掉律法和先知。我来不是要废掉，乃是要成全。",
-      "ja": "わたしが来たのは律法や預言者を廃棄するためだと思ってはなりません。廃棄するためにではなく、成就するために来たのです。"
+      "ja": "わたしが律法や預言者を廃するためにきた、と思ってはならない。廃するためではなく、成就するためにきたのである。"
     },
     {
       "number": 18,
@@ -144,7 +144,7 @@
       "en": "I tell you the truth, until heaven and earth disappear, not the smallest letter, not the least stroke of a pen, will by any means disappear from the Law until everything is accomplished.",
       "de": "Denn ich sage euch wahrlich: Bis daß Himmel und Erde zergehe, wird nicht zergehen der kleinste Buchstabe noch ein Tüttel vom Gesetz, bis daß es alles geschehe.",
       "zh": "我实在告诉你们，就是到天地都废去了，律法的一点一画也不能废去，都要成全。",
-      "ja": "まことに、あなたがたに告げます。天地が滅びうせない限り、律法の中の一点一画でも決してすたれることはありません。全部が成就されます。"
+      "ja": "よく言っておく。天地が滅び行くまでは、律法の一点、一画もすたることはなく、ことごとく全うされるのである。"
     },
     {
       "number": 19,
@@ -152,7 +152,7 @@
       "en": "Anyone who breaks one of the least of these commandments and teaches others to do the same will be called least in the kingdom of heaven, but whoever practices and teaches these commands will be called great in the kingdom of heaven.",
       "de": "Wer nun eines von diesen kleinsten Geboten auflöst und lehrt die Leute also, der wird der Kleinste heißen im Himmelreich; wer es aber tut und lehrt, der wird groß heißen im Himmelreich.",
       "zh": "所以，无论何人废掉这诫命中最小的一条，又教训人这样做，他在天国要称为最小的。但无论何人遵行这诫命，又教训人遵行，他在天国要称为大的。",
-      "ja": "だから、戒めのうち最も小さいものの一つでも、これを破ったり、また破るように人に教えたりする者は、天の御国で、最も小さい者と呼ばれます。しかし、それを守り、また守るように教える者は、天の御国で、偉大な者と呼ばれます。"
+      "ja": "それだから、これらの最も小さいいましめの一つでも破り、またそうするように人に教えたりする者は、天国で最も小さい者と呼ばれるであろう。しかし、これをおこないまたそう教える者は、天国で大いなる者と呼ばれるであろう。"
     },
     {
       "number": 20,
@@ -160,7 +160,7 @@
       "en": "For I tell you that unless your righteousness surpasses that of the Pharisees and the teachers of the law, you will certainly not enter the kingdom of heaven.",
       "de": "Denn ich sage euch: Es sei denn eure Gerechtigkeit besser als der Schriftgelehrten und Pharisäer, so werdet ihr nicht in das Himmelreich kommen.",
       "zh": "我告诉你们，你们的义若不胜于文士和法利赛人的义，断不能进天国。」",
-      "ja": "まことに、あなたがたに告げます。もしあなたがたの義が、律法学者やパリサイ人の義にまさるものでないなら、あなたがたは決して天の御国に、はいれません。"
+      "ja": "わたしは言っておく。あなたがたの義が律法学者やパリサイ人の義にまさっていなければ、決して天国に、はいることはできない。"
     },
     {
       "number": 21,
@@ -168,7 +168,7 @@
       "en": "\"You have heard that it was said to the people long ago, 'Do not murder, and anyone who murders will be subject to judgment.'",
       "de": "Ihr habt gehört, daß zu den Alten gesagt ist: “Du sollst nicht töten; wer aber tötet, der soll des Gerichts schuldig sein.”",
       "zh": "「你们听见有吩咐古人的话，说：『不可杀人』；又说：『凡杀人的难免受审判。』",
-      "ja": "昔の人々に、『人を殺してはならない。人を殺す者はさばきを受けなければならない。』と言われたのを、あなたがたは聞いています。"
+      "ja": "昔の人々に『殺すな。殺す者は裁判を受けねばならない』と言われていたことは、あなたがたの聞いているところである。"
     },
     {
       "number": 22,
@@ -176,7 +176,7 @@
       "en": "But I tell you that anyone who is angry with his brother will be subject to judgment. Again, anyone who says to his brother, 'Raca,' is answerable to the Sanhedrin. But anyone who says, 'You fool!' will be in danger of the fire of hell.",
       "de": "Ich aber sage euch: Wer mit seinem Bruder zürnet, der ist des Gerichts schuldig; wer aber zu seinem Bruder sagt: Racha! der ist des Rats schuldig; wer aber sagt: Du Narr! der ist des höllischen Feuers schuldig.",
       "zh": "只是我告诉你们，凡向弟兄动怒的，难免受审断；凡骂弟兄是拉加的，难免公会的审断；凡骂弟兄是魔利的，难免地狱的火。",
-      "ja": "しかし、わたしはあなたがたに言います。兄弟に向かって腹を立てる者は、だれでもさばきを受けなければなりません。兄弟に向かって『能なし。』と言うような者は、最高議会に引き渡されます。また、『ばか者。』と言うような者は燃えるゲヘナに投げ込まれます。"
+      "ja": "しかし、わたしはあなたがたに言う。兄弟に対して怒る者は、だれでも裁判を受けねばならない。兄弟にむかって愚か者と言う者は、議会に引きわたされるであろう。また、ばか者と言う者は、地獄の火に投げ込まれるであろう。"
     },
     {
       "number": 23,
@@ -184,7 +184,7 @@
       "en": "\"Therefore, if you are offering your gift at the altar and there remember that your brother has something against you,",
       "de": "Darum, wenn du deine Gabe auf dem Altar opferst und wirst allda eingedenk, daß dein Bruder etwas wider dich habe,",
       "zh": "所以，你在祭坛上献礼物的时候，若想起弟兄向你怀怨，",
-      "ja": "だから、祭壇の上に供え物をささげようとしているとき、もし兄弟に恨まれていることをそこで思い出したなら、"
+      "ja": "だから、祭壇に供え物をささげようとする場合、兄弟が自分に対して何かうらみをいだいていることを、そこで思い出したなら、"
     },
     {
       "number": 24,
@@ -192,7 +192,7 @@
       "en": "leave your gift there in front of the altar. First go and be reconciled to your brother; then come and offer your gift.",
       "de": "so laß allda vor dem Altar deine Gabe und gehe zuvor hin und versöhne dich mit deinem Bruder, und alsdann komm und opfere deine Gabe.",
       "zh": "就把礼物留在坛前，先去同弟兄和好，然后来献礼物。",
-      "ja": "供え物はそこに、祭壇の前に置いたままにして、出て行って、まずあなたの兄弟と仲直りをしなさい。それから、来て、その供え物をささげなさい。"
+      "ja": "その供え物を祭壇の前に残しておき、まず行ってその兄弟と和解し、それから帰ってきて、供え物をささげることにしなさい。"
     },
     {
       "number": 25,
@@ -200,7 +200,7 @@
       "en": "\"Settle matters quickly with your adversary who is taking you to court. Do it while you are still with him on the way, or he may hand you over to the judge, and the judge may hand you over to the officer, and you may be thrown into prison.",
       "de": "Sei willfährig deinem Widersacher bald, dieweil du noch bei ihm auf dem Wege bist, auf daß dich der Widersacher nicht dermaleinst überantworte dem Richter, und der Richter überantworte dich dem Diener, und wirst in den Kerker geworfen.",
       "zh": "你同告你的对头还在路上，就赶紧与他和息，恐怕他把你送给审判官，审判官交付衙役，你就下在监里了。",
-      "ja": "あなたを告訴する者とは、あなたが彼といっしょに途中にある間に早く仲良くなりなさい。そうでないと、告訴する者は、あなたを裁判官に引き渡し、裁判官は下役に引き渡して、あなたはついに牢に入れられることになります。"
+      "ja": "あなたを訴える者と一緒に道を行く時には、その途中で早く仲直りをしなさい。そうしないと、その訴える者はあなたを裁判官にわたし、裁判官は下役にわたし、そして、あなたは獄に入れられるであろう。"
     },
     {
       "number": 26,
@@ -208,7 +208,7 @@
       "en": "I tell you the truth, you will not get out until you have paid the last penny.",
       "de": "Ich sage dir wahrlich: Du wirst nicht von dannen herauskommen, bis du auch den letzten Heller bezahlest.",
       "zh": "我实在告诉你，若有一文钱没有还清，你断不能从那里出来。」",
-      "ja": "まことに、あなたに告げます。あなたは最後の一コドラントを支払うまでは、そこから出ては来られません。"
+      "ja": "よくあなたに言っておく。最後の一コドラントを支払ってしまうまでは、決してそこから出てくることはできない。"
     },
     {
       "number": 27,
@@ -216,7 +216,7 @@
       "en": "\"You have heard that it was said, 'Do not commit adultery.'",
       "de": "Ihr habt gehört, daß zu den Alten gesagt ist: “Du sollst nicht ehebrechen.”",
       "zh": "「你们听见有话说：『不可奸淫。』",
-      "ja": "『姦淫してはならない。』と言われたのを、あなたがたは聞いています。"
+      "ja": "『姦淫するな』と言われていたことは、あなたがたの聞いているところである。"
     },
     {
       "number": 28,
@@ -224,7 +224,7 @@
       "en": "But I tell you that anyone who looks at a woman lustfully has already committed adultery with her in his heart.",
       "de": "Ich aber sage euch: Wer ein Weib ansieht, ihrer zu begehren, der hat schon mit ihr die Ehe gebrochen in seinem Herzen.",
       "zh": "只是我告诉你们，凡看见妇女就动淫念的，这人心里已经与她犯奸淫了。",
-      "ja": "しかし、わたしはあなたがたに言います。だれでも情欲をいだいて女を見る者は、すでに心の中で姦淫を犯したのです。"
+      "ja": "しかし、わたしはあなたがたに言う。だれでも、情欲をいだいて女を見る者は、心の中ですでに姦淫をしたのである。"
     },
     {
       "number": 29,
@@ -232,7 +232,7 @@
       "en": "If your right eye causes you to sin, gouge it out and throw it away. It is better for you to lose one part of your body than for your whole body to be thrown into hell.",
       "de": "Ärgert dich aber dein rechtes Auge, so reiß es aus und wirf's von dir. Es ist dir besser, daß eins deiner Glieder verderbe, und nicht der ganze Leib in die Hölle geworfen werde.",
       "zh": "若是你的右眼叫你跌倒，就剜出来丢掉，宁可失去百体中的一体，不叫全身丢在地狱里。",
-      "ja": "もし、右の目が、あなたをつまずかせるなら、えぐり出して、捨ててしまいなさい。からだの一部を失っても、からだ全体ゲヘナに投げ込まれるよりは、よいからです。"
+      "ja": "もしあなたの右の目が罪を犯させるなら、それを抜き出して捨てなさい。五体の一部を失っても、全身が地獄に投げ入れられない方が、あなたにとって益である。"
     },
     {
       "number": 30,
@@ -240,7 +240,7 @@
       "en": "And if your right hand causes you to sin, cut it off and throw it away. It is better for you to lose one part of your body than for your whole body to go into hell.",
       "de": "Ärgert dich deine rechte Hand, so haue sie ab und wirf sie von dir. Es ist dir besser, daß eins deiner Glieder verderbe, und nicht der ganze Leib in die Hölle geworfen werde.",
       "zh": "若是右手叫你跌倒，就砍下来丢掉，宁可失去百体中的一体，不叫全身下入地狱。」",
-      "ja": "もし、右の手があなたをつまずかせるなら、切って、捨ててしまいなさい。からだの一部を失っても、からだ全体ゲヘナに落ちるよりは、よいからです。"
+      "ja": "もしあなたの右の手が罪を犯させるなら、それを切って捨てなさい。五体の一部を失っても、全身が地獄に落ち込まない方が、あなたにとって益である。"
     },
     {
       "number": 31,
@@ -248,7 +248,7 @@
       "en": "\"It has been said, 'Anyone who divorces his wife must give her a certificate of divorce.'",
       "de": "Es ist auch gesagt: “Wer sich von seinem Weibe scheidet, der soll ihr geben einen Scheidebrief.”",
       "zh": "「又有话说：『人若休妻，就当给她休书。』",
-      "ja": "また『だれでも、妻を離別する者は、妻に離婚状を与えよ。』と言われています。"
+      "ja": "また『妻を出す者は離縁状を渡せ』と言われている。"
     },
     {
       "number": 32,
@@ -256,7 +256,7 @@
       "en": "But I tell you that anyone who divorces his wife, except for marital unfaithfulness, causes her to become an adulteress, and anyone who marries the divorced woman commits adultery.",
       "de": "Ich aber sage euch: Wer sich von seinem Weibe scheidet (es sei denn um Ehebruch), der macht, daß sie die Ehe bricht; und wer eine Abgeschiedene freit, der bricht die Ehe.",
       "zh": "只是我告诉你们，凡休妻的，若不是为淫乱的缘故，就是叫她作淫妇了；人若娶这被休的妇人，也是犯奸淫了。」",
-      "ja": "しかし、わたしはあなたがたに言います。だれであっても、不貞以外の理由で妻を離別する者は、妻に姦淫を犯させるのです。また、だれでも、離別された女と結婚すれば、姦淫を犯すのです。"
+      "ja": "しかし、わたしはあなたがたに言う。だれでも、不品行以外の理由で自分の妻を出す者は、姦淫を行わせるのである。また出された女をめとる者も、姦淫を行うのである。"
     },
     {
       "number": 33,
@@ -264,7 +264,7 @@
       "en": "\"Again, you have heard that it was said to the people long ago, 'Do not break your oath, but keep the oaths you have made to the Lord.'",
       "de": "Ihr habt weiter gehört, daß zu den Alten gesagt ist: “Du sollst keinen falschen Eid tun und sollst Gott deinen Eid halten.”",
       "zh": "「你们又听见有吩咐古人的话，说：『不可背誓，所起的誓总要向主谨守。』",
-      "ja": "さらにまた、昔の人々に、『偽りの誓いを立ててはならない。あなたの誓ったことを主に果たせ。』と言われていたのを、あなたがたは聞いています。"
+      "ja": "また昔の人々に『いつわり誓うな、誓ったことは、すべて主に対して果せ』と言われていたことは、あなたがたの聞いているところである。"
     },
     {
       "number": 34,
@@ -272,7 +272,7 @@
       "en": "But I tell you, Do not swear at all: either by heaven, for it is God's throne;",
       "de": "Ich aber sage euch, daß ihr überhaupt nicht schwören sollt, weder bei dem Himmel, denn er ist Gottes Stuhl,",
       "zh": "只是我告诉你们，什么誓都不可起。不可指着天起誓，因为天是　神的座位；",
-      "ja": "しかし、わたしはあなたがたに言います。決して誓ってはいけません。すなわち、天をさして誓ってはいけません。そこは神の御座だからです。"
+      "ja": "しかし、わたしはあなたがたに言う。いっさい誓ってはならない。天をさして誓うな。そこは神の御座であるから。"
     },
     {
       "number": 35,
@@ -280,7 +280,7 @@
       "en": "or by the earth, for it is his footstool; or by Jerusalem, for it is the city of the Great King.",
       "de": "noch bei der Erde, denn sie ist seiner Füße Schemel, noch bei Jerusalem, denn sie ist des großen Königs Stadt.",
       "zh": "不可指着地起誓，因为地是他的脚凳；也不可指着耶路撒冷起誓，因为耶路撒冷是大君的京城；",
-      "ja": "地をさして誓ってもいけません。そこは神の足台だからです。エルサレムをさして誓ってもいけません。そこは偉大な王の都だからです。"
+      "ja": "また地をさして誓うな。そこは神の足台であるから。またエルサレムをさして誓うな。それは『大王の都』であるから。"
     },
     {
       "number": 36,
@@ -288,7 +288,7 @@
       "en": "And do not swear by your head, for you cannot make even one hair white or black.",
       "de": "Auch sollst du nicht bei deinem Haupt schwören, denn du vermagst nicht ein einziges Haar schwarz oder weiß zu machen.",
       "zh": "又不可指着你的头起誓，因为你不能使一根头发变黑变白了。",
-      "ja": "あなたの頭をさして誓ってもいけません。あなたは、一本の髪の毛すら、白くも黒くもできないからです。"
+      "ja": "また、自分の頭をさして誓うな。あなたは髪の毛一すじさえ、白くも黒くもすることができない。"
     },
     {
       "number": 37,
@@ -296,7 +296,7 @@
       "en": "Simply let your 'Yes' be 'Yes,' and your 'No,' 'No'; anything beyond this comes from the evil one.",
       "de": "Eure Rede aber sei: Ja, ja; nein, nein. Was darüber ist, das ist vom Übel.",
       "zh": "你们的话，是，就说是；不是，就说不是；若再多说就是出于那恶者。」",
-      "ja": "だから、あなたがたは、『はい。』は『はい。』、『いいえ。』は『いいえ。』とだけ言いなさい。それ以上のことは悪いことです。"
+      "ja": "あなたがたの言葉は、ただ、しかり、しかり、否、否、であるべきだ。それ以上に出ることは、悪から来るのである。"
     },
     {
       "number": 38,
@@ -304,7 +304,7 @@
       "en": "\"You have heard that it was said, 'Eye for eye, and tooth for tooth.'",
       "de": "Ihr habt gehört, daß da gesagt ist: “Auge um Auge, Zahn um Zahn.”",
       "zh": "「你们听见有话说：『以眼还眼，以牙还牙。』",
-      "ja": "『目には目で、歯には歯で。』と言われたのを、あなたがたは聞いています。"
+      "ja": "『目には目を、歯には歯を』と言われていたことは、あなたがたの聞いているところである。"
     },
     {
       "number": 39,
@@ -312,7 +312,7 @@
       "en": "But I tell you, Do not resist an evil person. If someone strikes you on the right cheek, turn to him the other also.",
       "de": "Ich aber sage euch, daß ihr nicht widerstreben sollt dem Übel; sondern, so dir jemand einen Streich gibt auf deinen rechten Backen, dem biete den andern auch dar.",
       "zh": "只是我告诉你们，不要与恶人作对。有人打你的右脸，连左脸也转过来由他打；",
-      "ja": "しかし、わたしはあなたがたに言います。悪い者に手向かってはいけません。あなたの右の頬を打つような者には、左の頬も向けなさい。"
+      "ja": "しかし、わたしはあなたがたに言う。悪人に手向かうな。もし、だれかがあなたの右の頬を打つなら、ほかの頬をも向けてやりなさい。"
     },
     {
       "number": 40,
@@ -320,7 +320,7 @@
       "en": "And if someone wants to sue you and take your tunic, let him have your cloak as well.",
       "de": "Und so jemand mit dir rechten will und deinen Rock nehmen, dem laß auch den Mantel.",
       "zh": "有人想要告你，要拿你的里衣，连外衣也由他拿去；",
-      "ja": "あなたを告訴して下着を取ろうとする者には、上着もやりなさい。"
+      "ja": "あなたを訴えて、下着を取ろうとする者には、上着をも与えなさい。"
     },
     {
       "number": 41,
@@ -328,7 +328,7 @@
       "en": "If someone forces you to go one mile, go with him two miles.",
       "de": "Und so dich jemand nötigt eine Meile, so gehe mit ihm zwei.",
       "zh": "有人强逼你走一里路，你就同他走二里；",
-      "ja": "あなたに一ミリオン行けと強いるような者とは、いっしょに二ミリオン行きなさい。"
+      "ja": "もし、だれかが、あなたをしいて一マイル行かせようとするなら、その人と共に二マイル行きなさい。"
     },
     {
       "number": 42,
@@ -336,7 +336,7 @@
       "en": "Give to the one who asks you, and do not turn away from the one who wants to borrow from you.",
       "de": "Gib dem, der dich bittet, und wende dich nicht von dem, der dir abborgen will.",
       "zh": "有求你的，就给他；有向你借贷的，不可推辞。」",
-      "ja": "求める者には与え、借りようとする者は断わらないようにしなさい。"
+      "ja": "求める者には与え、借りようとする者を断るな。"
     },
     {
       "number": 43,
@@ -344,7 +344,7 @@
       "en": "\"You have heard that it was said, 'Love your neighbor and hate your enemy.'",
       "de": "Ihr habt gehört, daß gesagt ist: “Du sollst deinen Nächsten lieben und deinen Feind hassen.”",
       "zh": "「你们听见有话说：『当爱你的邻舍，恨你的仇敌。』",
-      "ja": "『自分の隣人を愛し、自分の敵を憎め。』と言われたのを、あなたがたは聞いています。"
+      "ja": "『隣り人を愛し、敵を憎め』と言われていたことは、あなたがたの聞いているところである。"
     },
     {
       "number": 44,
@@ -352,7 +352,7 @@
       "en": "But I tell you: Love your enemies and pray for those who persecute you,",
       "de": "Ich aber sage euch: Liebet eure Feinde; segnet, die euch fluchen; tut wohl denen, die euch hassen; bittet für die, so euch beleidigen und verfolgen,",
       "zh": "只是我告诉你们，要爱你们的仇敌，为那逼迫你们的祷告。",
-      "ja": "しかし、わたしはあなたがたに言います。自分の敵を愛し、迫害する者のために祈りなさい。"
+      "ja": "しかし、わたしはあなたがたに言う。敵を愛し、迫害する者のために祈れ。"
     },
     {
       "number": 45,
@@ -360,7 +360,7 @@
       "en": "that you may be sons of your Father in heaven. He causes his sun to rise on the evil and the good, and sends rain on the righteous and the unrighteous.",
       "de": "auf daß ihr Kinder seid eures Vater im Himmel; denn er läßt seine Sonne aufgehen über die Bösen und über die Guten und läßt regnen über Gerechte und Ungerechte.",
       "zh": "这样就可以作你们天父的儿子；因为他叫日头照好人，也照歹人；降雨给义人，也给不义的人。",
-      "ja": "それでこそ、天におられるあなたがたの父の子どもになれるのです。天の父は、悪い人にも良い人にも太陽を上らせ、正しい人にも正しくない人にも雨を降らせてくださるからです。"
+      "ja": "こうして、天にいますあなたがたの父の子となるためである。天の父は、悪い者の上にも良い者の上にも、太陽をのぼらせ、正しい者にも正しくない者にも、雨を降らして下さるからである。"
     },
     {
       "number": 46,
@@ -368,7 +368,7 @@
       "en": "If you love those who love you, what reward will you get? Are not even the tax collectors doing that?",
       "de": "Denn so ihr liebet, die euch lieben, was werdet ihr für Lohn haben? Tun nicht dasselbe auch die Zöllner?",
       "zh": "你们若单爱那爱你们的人，有什么赏赐呢？就是税吏不也是这样行吗？",
-      "ja": "自分を愛してくれる者を愛したからといって、何の報いが受けられるでしょう。取税人でも、同じことをしているではありませんか。"
+      "ja": "あなたがたが自分を愛する者を愛したからとて、なんの報いがあろうか。そのようなことは取税人でもするではないか。"
     },
     {
       "number": 47,
@@ -376,7 +376,7 @@
       "en": "And if you greet only your brothers, what are you doing more than others? Do not even pagans do that?",
       "de": "Und so ihr euch nur zu euren Brüdern freundlich tut, was tut ihr Sonderliches? Tun nicht die Zöllner auch also?",
       "zh": "你们若单请你弟兄的安，比人有什么长处呢？就是外邦人不也是这样行吗？",
-      "ja": "また、自分の兄弟にだけあいさつしたからといって、どれだけまさったことをしたのでしょう。異邦人でも同じことをするではありませんか。"
+      "ja": "兄弟だけにあいさつをしたからとて、なんのすぐれた事をしているだろうか。そのようなことは異邦人でもしているではないか。"
     },
     {
       "number": 48,
@@ -384,7 +384,7 @@
       "en": "Be perfect, therefore, as your heavenly Father is perfect.",
       "de": "Darum sollt ihr vollkommen sein, gleichwie euer Vater im Himmel vollkommen ist.",
       "zh": "所以，你们要完全，像你们的天父完全一样。」",
-      "ja": "だから、あなたがたは、天の父が完全なように、完全でありなさい。"
+      "ja": "それだから、あなたがたの天の父が完全であられるように、あなたがたも完全な者となりなさい。"
     }
   ]
 }

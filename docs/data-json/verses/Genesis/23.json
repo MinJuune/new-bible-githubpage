@@ -8,7 +8,7 @@
       "en": "Sarah lived to be a hundred and twenty-seven years old.",
       "de": "Sara ward hundertsiebenundzwanzig Jahre alt",
       "zh": "撒拉享寿一百二十七岁，这是撒拉一生的岁数。",
-      "ja": "サラ百二十七歳なりき是即ちサラの齡の年なり"
+      "ja": "サラの一生は百二十七年であった。これがサラの生きながらえた年である。"
     },
     {
       "number": 2,
@@ -16,7 +16,7 @@
       "en": "She died at Kiriath Arba (that is, Hebron) in the land of Canaan, and Abraham went to mourn for Sarah and to weep over her.",
       "de": "und starb in Kirjat-Arba, das Hebron heißt, im Lande Kanaan. Da kam Abraham, daß er sie beklagte und beweinte.",
       "zh": "撒拉死在迦南地的基列·亚巴，就是希伯 。亚伯拉罕为她哀恸哭号。",
-      "ja": "サラ、キリアテアルバにて死り是はカナンの地のヘブロンなりアブラハム至りてサラのために哀み且哭り"
+      "ja": "サラはカナンの地のキリアテ・アルバすなわちヘブロンで死んだ。アブラハムは中にはいってサラのために悲しみ泣いた。"
     },
     {
       "number": 3,
@@ -24,7 +24,7 @@
       "en": "Then Abraham rose from beside his dead wife and spoke to the Hittites. He said,",
       "de": "Darnach stand er auf von seiner Leiche und redete mit den Kindern Heth und sprach:",
       "zh": "后来亚伯拉罕从死人面前起来，对赫人说：",
-      "ja": "斯てアブラハム死人の前より起ち出てヘテの子孫に語りて言けるは"
+      "ja": "アブラハムは死人のそばから立って、ヘテの人々に言った、"
     },
     {
       "number": 4,
@@ -32,7 +32,7 @@
       "en": "\"I am an alien and a stranger among you. Sell me some property for a burial site here so I can bury my dead.\"",
       "de": "Ich bin ein Fremder und Einwohner bei euch; gebt mir ein Erbbegräbnis bei euch, daß ich meinen Toten begrabe, der vor mir liegt.",
       "zh": "「我在你们中间是外人，是寄居的。求你们在这里给我一块地，我好埋葬我的死人，使她不在我眼前。」",
-      "ja": "我は汝等の中の賓旅なり寄居者なり請ふ汝等の中にて我は墓地を與へて吾が所有となし我をして吾が死人を出し葬ることを得せしめよ"
+      "ja": "「わたしはあなたがたのうちの旅の者で寄留者ですが、わたしの死人を出して葬るため、あなたがたのうちにわたしの所有として一つの墓地をください」。"
     },
     {
       "number": 5,
@@ -40,7 +40,7 @@
       "en": "The Hittites replied to Abraham,",
       "de": "Da antworteten Abraham die Kinder Heth und sprachen zu ihm:",
       "zh": "赫人回答亚伯拉罕说：",
-      "ja": "ヘテの子孫アブラハムに應て之に言ふ"
+      "ja": "ヘテの人々はアブラハムに答えて言った、"
     },
     {
       "number": 6,
@@ -48,7 +48,7 @@
       "en": "\"Sir, listen to us. You are a mighty prince among us. Bury your dead in the choicest of our tombs. None of us will refuse you his tomb for burying your dead.\"",
       "de": "Höre uns, lieber Herr! Du bist ein Fürst Gottes unter uns, begrabe deinen Toten in unsern vornehmsten Gräbern; kein Mensch soll dir unter uns wehren, daß du in seinem Grabe begrabest deinen Toten.",
       "zh": "「我主请听。你在我们中间是一位尊大的王子，只管在我们最好的坟地里埋葬你的死人；我们没有一人不容你在他的坟地里埋葬你的死人。」",
-      "ja": "我主よ我等に聽たまへ我等の中にありて汝は神の如き君なり我等の墓地の佳者を擇みて汝の死人を葬れ我等の中一人も其墓地を汝にをしみて汝をしてその死人を葬らしめざる者なかるべし"
+      "ja": "「わが主よ、お聞きなさい。あなたはわれわれのうちにおられて、神のような主君です。われわれの墓地の最も良い所にあなたの死人を葬りなさい。その墓地を拒んで、あなたにその死人を葬らせない者はわれわれのうちには、ひとりもないでしょう」。"
     },
     {
       "number": 7,
@@ -56,7 +56,7 @@
       "en": "Then Abraham rose and bowed down before the people of the land, the Hittites.",
       "de": "Da stand Abraham auf und bückte sich vor dem Volk des Landes, vor den Kindern Heth.",
       "zh": "亚伯拉罕就起来，向那地的赫人下拜，",
-      "ja": "是に於てアブラハム起ち其地の民ヘテの子孫に對て躬を鞠む"
+      "ja": "アブラハムは立ちあがり、その地の民ヘテの人々に礼をして、"
     },
     {
       "number": 8,
@@ -64,7 +64,7 @@
       "en": "He said to them, \"If you are willing to let me bury my dead, then listen to me and intercede with Ephron son of Zohar on my behalf",
       "de": "Und er redete mit ihnen und sprach: Gefällt es euch, daß ich meinen Toten, der vor mir liegt, begrabe, so hört mich und bittet für mich Ephron, den Sohn Zohars,",
       "zh": "对他们说：「你们若有意叫我埋葬我的死人，使她不在我眼前，就请听我的话，为我求琐辖的儿子以弗 ；",
-      "ja": "而して彼等と語ひて言けるは若我をしてわが死人を出し葬るを得せしむる事汝等の意ならば請ふ我に聽て吾ためにゾハルの子エフロンに求め"
+      "ja": "彼らに言った、「もしわたしの死人を葬るのに同意されるなら、わたしの願いをいれて、わたしのためにゾハルの子エフロンに頼み、"
     },
     {
       "number": 9,
@@ -72,7 +72,7 @@
       "en": "so he will sell me the cave of Machpelah, which belongs to him and is at the end of his field. Ask him to sell it to me for the full price as a burial site among you.\"",
       "de": "daß er mir gebe seine zwiefache Höhle, die er hat am Ende seines Ackers; er gebe sie mir um Geld, soviel sie wert ist, unter euch zum Erbbegräbnis.",
       "zh": "把田头上那麦比拉洞给我；他可以按着足价卖给我，作我在你们中间的坟地。」",
-      "ja": "彼をして其野の極端に有るマクペラの洞穴を我に與へしめよ彼其十分の値を取て之を我に與へ汝等の中にてわが所有なる墓地となさば善し"
+      "ja": "彼が持っている畑の端のマクペラのほら穴をじゅうぶんな代価でわたしに与え、あなたがたのうちに墓地を持たせてください」。"
     },
     {
       "number": 10,
@@ -80,7 +80,7 @@
       "en": "Ephron the Hittite was sitting among his people and he replied to Abraham in the hearing of all the Hittites who had come to the gate of his city.",
       "de": "Ephron aber saß unter den Kindern Heth. Da antwortete Ephron, der Hethiter, Abraham, daß zuhörten die Kinder Heth, vor allen, die zu seiner Stadt Tor aus und ein gingen, und sprach:",
       "zh": "当时以弗 正坐在赫人中间。于是，赫人以弗 在城门出入的赫人面前对亚伯拉罕说：",
-      "ja": "時にエフロン、ヘテの子孫の中に坐しゐたりヘテ人エフロン、ヘテの子孫即ち凡て其邑の門に入る者の聽る前にてアブラハムに應へて言けるは"
+      "ja": "時にエフロンはヘテの人々のうちにすわっていた。そこでヘテびとエフロンはヘテの人々、すなわちすべてその町の門にはいる人々の聞いているところで、アブラハムに答えて言った、"
     },
     {
       "number": 11,
@@ -88,7 +88,7 @@
       "en": "\"No, my lord,\" he said. \"Listen to me; I give you the field, and I give you the cave that is in it. I give it to you in the presence of my people. Bury your dead.\"",
       "de": "Nein, mein Herr, sondern höre mir zu! Ich schenke dir den Acker und die Höhle darin dazu und übergebe dir's vor den Augen der Kinder meines Volkes, zu begraben deinen Toten.",
       "zh": "「不然，我主请听。我送给你这块田，连田间的洞也送给你，在我同族的人面前都给你，可以埋葬你的死人。」",
-      "ja": "吾主よ我に聽たまへ其野は我汝に與ふ又其中の洞穴も我之を汝に與ふ我吾民なる衆人の前にて之を汝にあたふ汝の死人を葬れ"
+      "ja": "「いいえ、わが主よ、お聞きなさい。わたしはあの畑をあなたにさしあげます。またその中にあるほら穴もさしあげます。わたしの民の人々の前で、それをさしあげます。あなたの死人を葬りなさい」。"
     },
     {
       "number": 12,
@@ -96,7 +96,7 @@
       "en": "Again Abraham bowed down before the people of the land",
       "de": "Da bückte sich Abraham vor dem Volk des Landes",
       "zh": "亚伯拉罕就在那地的人民面前下拜，",
-      "ja": "是に於てアブラハム其地の民の前に躬を鞠たり"
+      "ja": "アブラハムはその地の民の前で礼をし、"
     },
     {
       "number": 13,
@@ -104,7 +104,7 @@
       "en": "and he said to Ephron in their hearing, \"Listen to me, if you will. I will pay the price of the field. Accept it from me so I can bury my dead there.\"",
       "de": "und redete mit Ephron, daß zuhörte das Volk des Landes, und sprach: Willst du mir ihn lassen, so bitte ich, nimm von mir das Geld für den Acker, das ich dir gebe, so will ich meinen Toten daselbst begraben.",
       "zh": "在他们面前对以弗 说：「你若应允，请听我的话。我要把田价给你，求你收下，我就在那里埋葬我的死人。」",
-      "ja": "而して彼其地の民に聽る前にてエフロンに語りて言けるは汝若之を肯はば請ふ吾に聽け我其野の値を汝に償はん汝之を吾より取れ我わが死人を彼處に葬らん"
+      "ja": "その地の民の聞いているところでエフロンに言った、「あなたがそれを承諾されるなら、お聞きなさい。わたしはその畑の代価を払います。お受け取りください。わたしの死人をそこに葬りましょう」。"
     },
     {
       "number": 14,
@@ -112,7 +112,7 @@
       "en": "Ephron answered Abraham,",
       "de": "Ephron antwortete Abraham und sprach zu ihm:",
       "zh": "以弗 回答亚伯拉罕说：",
-      "ja": "エフロン、アブラハムに答て曰けるは"
+      "ja": "エフロンはアブラハムに答えて言った、"
     },
     {
       "number": 15,
@@ -120,7 +120,7 @@
       "en": "\"Listen to me, my lord; the land is worth four hundred shekels of silver, but what is that between me and you? Bury your dead.\"",
       "de": "Mein Herr, höre doch mich! Das Feld ist vierhundert Lot Silber wert; was ist das aber zwischen mir und dir? Begrabe nur deinen Toten!",
       "zh": "「我主请听。值四百舍客勒银子的一块田，在你我中间还算什么呢？只管埋葬你的死人吧！」",
-      "ja": "わが主よ我に聽たまへ彼地は銀四百シケルに當る是は我と汝の間に豈道に足んや然ば汝の死人を葬れ"
+      "ja": "「わが主よ、お聞きなさい。あの地は銀四百シケルですが、これはわたしとあなたの間で、なにほどのことでしょう。あなたの死人を葬りなさい」。"
     },
     {
       "number": 16,
@@ -128,7 +128,7 @@
       "en": "Abraham agreed to Ephron's terms and weighed out for him the price he had named in the hearing of the Hittites: four hundred shekels of silver, according to the weight current among the merchants.",
       "de": "Abraham gehorchte Ephron und wog ihm das Geld dar, das er gesagt hatte, daß zuhörten die Kinder Heth, vierhundert Lot Silber, das im Kauf gang und gäbe war.",
       "zh": "亚伯拉罕听从了以弗 ，照着他在赫人面前所说的话，把买卖通用的银子平了四百舍客勒给以弗 。",
-      "ja": "アブラハム、エフロンの言に從ひエフロンがヘテの子孫の聽る前にて言たる所の銀を秤り商買の中の通用銀四百シケルを之に與へたり"
+      "ja": "そこでアブラハムはエフロンの言葉にしたがい、エフロンがヘテの人々の聞いているところで言った銀、すなわち商人の通用銀四百シケルを量ってエフロンに与えた。"
     },
     {
       "number": 17,
@@ -136,7 +136,7 @@
       "en": "So Ephron's field in Machpelah near Mamre--both the field and the cave in it, and all the trees within the borders of the field--was deeded",
       "de": "Also ward Ephrons Acker, darin die zwiefache Höhle ist, Mamre gegenüber, Abraham zum eigenen Gut bestätigt mit der Höhle darin und mit allen Bäumen auf dem Acker umher,",
       "zh": "于是，麦比拉、幔利前、以弗 的那块田和其中的洞，并田间四围的树木，",
-      "ja": "マムレの前なるマクペラに在るエフロンの野は野も其中の洞穴も野の中と其四周の堺にある樹も皆"
+      "ja": "こうしてマムレの前のマクペラにあるエフロンの畑は、畑も、その中のほら穴も、畑の中およびその周囲の境にあるすべての木も皆、"
     },
     {
       "number": 18,
@@ -144,7 +144,7 @@
       "en": "to Abraham as his property in the presence of all the Hittites who had come to the gate of the city.",
       "de": "daß die Kinder Heth zusahen und alle, die zu seiner Stadt Tor aus und ein gingen.",
       "zh": "都定准归与亚伯拉罕，乃是他在赫人面前并城门出入的人面前买妥的。",
-      "ja": "ヘテの子孫の前即ち凡て其邑に入る者の前にてアブラハムの所有と定りぬ"
+      "ja": "ヘテの人々の前、すなわちその町の門にはいるすべての人々の前で、アブラハムの所有と決まった。"
     },
     {
       "number": 19,
@@ -152,7 +152,7 @@
       "en": "Afterward Abraham buried his wife Sarah in the cave in the field of Machpelah near Mamre (which is at Hebron) in the land of Canaan.",
       "de": "Darnach begrub Abraham Sara, sein Weib, in der Höhle des Ackers, die zwiefach ist, Mamre gegenüber, das ist Hebron, im Lande Kanaan.",
       "zh": "此后，亚伯拉罕把他妻子撒拉埋葬在迦南地幔利前的麦比拉田间的洞里。（幔利就是希伯 ）。",
-      "ja": "厥後アブラハム其妻サラをマムレの前なるマクペラの野の洞穴に葬れり是即ちカナンの地のヘブロンなり"
+      "ja": "その後、アブラハムはその妻サラをカナンの地にあるマムレ、すなわちヘブロンの前のマクペラの畑のほら穴に葬った。"
     },
     {
       "number": 20,
@@ -160,7 +160,7 @@
       "en": "So the field and the cave in it were deeded to Abraham by the Hittites as a burial site.",
       "de": "Also ward bestätigt der Acker und die Höhle darin Abraham zum Erbbegräbnis von den Kindern Heth.",
       "zh": "从此，那块田和田间的洞就借着赫人定准归与亚伯拉罕作坟地。",
-      "ja": "斯く其野と其中の洞穴はヘテの子孫之をアブラハムの所有なる墓地と定めたり"
+      "ja": "このように畑とその中にあるほら穴とはヘテの人々によってアブラハムの所有の墓地と定められた。"
     }
   ]
 }

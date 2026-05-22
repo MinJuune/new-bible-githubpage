@@ -8,7 +8,7 @@
       "en": "Then Samuel took a flask of oil and poured it on Saul's head and kissed him, saying, \"Has not the LORD anointed you leader over his inheritance?",
       "de": "Da nahm Samuel ein Ölglas und goß auf sein Haupt und küßte ihn und sprach: Siehst du, daß dich der HERR zum Fürsten über sein Erbteil gesalbt hat?",
       "zh": "撒母耳拿瓶膏油倒在扫罗的头上，与他亲嘴，说：「这不是耶和华膏你作他产业的君吗？",
-      "ja": "サムエルすなはち膏の瓶をとりてサウルの頭に沃ぎ口接して曰けるはヱホバ汝をたてて其產業の長となしたまふにあらずや"
+      "ja": "その時サムエルは油のびんを取って、サウルの頭に注ぎ、彼に口づけして言った、「主はあなたに油を注いで、その民イスラエルの君とされたではありませんか。あなたは主の民を治め、周囲の敵の手から彼らを救わなければならない。主があなたに油を注いで、その嗣業の君とされたことの、しるしは次のとおりです。"
     },
     {
       "number": 2,
@@ -16,7 +16,7 @@
       "en": "When you leave me today, you will meet two men near Rachel's tomb, at Zelzah on the border of Benjamin. They will say to you, 'The donkeys you set out to look for have been found. And now your father has stopped thinking about them and is worried about you. He is asking, \"What shall I do about my son?\"'",
       "de": "Wenn du jetzt von mir gehst, so wirst du zwei Männer finden bei dem Grabe Rahels, in der Grenze Benjamins, zu Zelzah; die werden dir sagen: Die Eselinnen sind gefunden, die du zu suchen bist gegangen; und siehe, dein Vater hat die Esel aus der Acht gelassen und sorgt um euch und spricht: Was soll ich um meinen Sohn tun?",
       "zh": "你今日与我离别之后，在便雅悯境内的泄撒，靠近拉结的坟墓，要遇见两个人。他们必对你说：『你去找的那几头驴已经找着了。现在你父亲不为驴挂心，反为你担忧，说：我为儿子怎么才好呢？』",
-      "ja": "汝今日我をはなれて去りゆく時ベニヤミンの境のゼルザにあるラケルの墓のかたはらにて二人の人にあふべしかれら汝にいはん汝がたづねにゆきし驢馬は見あたりぬ汝の父驢馬のことをすてて汝らのことをおもひわづらひわが子の事をいかがすべきやといへりと"
+      "ja": "あなたがきょう、わたしを離れて、去って行くとき、ベニヤミンの領地のゼルザにあるラケルの墓のかたわらで、ふたりの人に会うでしょう。そして彼らはあなたに言います、『あなたが捜しに行かれたろばは見つかりました。いま父上は、ろばよりもあなたがたの事を心配して、「わが子のことは、どうしよう」と言っておられます』。"
     },
     {
       "number": 3,
@@ -24,7 +24,7 @@
       "en": "\"Then you will go on from there until you reach the great tree of Tabor. Three men going up to God at Bethel will meet you there. One will be carrying three young goats, another three loaves of bread, and another a skin of wine.",
       "de": "Und wenn du dich von da weiter wendest, so wirst du kommen zu der Eiche Thabor; daselbst werden dich antreffen drei Männer, die hinaufgehen zu Gott gen Beth-El. Einer trägt drei Böcklein, der andere drei Laibe Brot, der dritte einen Krug mit Wein.",
       "zh": "你从那里往前行，到了他泊的橡树那里，必遇见三个往伯特利去拜　神的人：一个带着三只山羊羔，一个带着三个饼，一个带着一皮袋酒。",
-      "ja": "其處より汝尚すすみてタボルの橡の樹のところにいたらんに彼處にてベテルにのぼり神にまうでんとする三人の者汝にあはん一人は三頭の山羊羔を携へ一人は三團のパンをたづさへ一人は一嚢の酒をたづさふ"
+      "ja": "あなたが、そこからなお進んで、タボルのかしの木の所へ行くと、そこでベテルに上って神を拝もうとする三人の者に会うでしょう。ひとりは三頭の子やぎを連れ、ひとりは三つのパンを携え、ひとりは、ぶどう酒のはいった皮袋一つを携えている。"
     },
     {
       "number": 4,
@@ -32,7 +32,7 @@
       "en": "They will greet you and offer you two loaves of bread, which you will accept from them.",
       "de": "Und sie werden dich freundlich grüßen und dir zwei Brote geben. Die sollst du von ihren Händen nehmen.",
       "zh": "他们必问你安，给你两个饼，你就从他们手中接过来。",
-      "ja": "かれら汝に安否をとひ二團のパンを汝にあたへん汝之を其手よりうくべし"
+      "ja": "彼らはあなたにあいさつし、二つのパンをくれるでしょう。あなたはそれを、その手から受けなければならない。"
     },
     {
       "number": 5,
@@ -40,7 +40,7 @@
       "en": "\"After that you will go to Gibeah of God, where there is a Philistine outpost. As you approach the town, you will meet a procession of prophets coming down from the high place with lyres, tambourines, flutes and harps being played before them, and they will be prophesying.",
       "de": "Darnach wirst du kommen zu dem Hügel Gottes, da der Philister Schildwacht ist; und wenn du daselbst in die Stadt kommst, wird dir begegnen ein Haufe Propheten, von der Hütte herabkommend, und vor ihnen her Psalter und Pauke und Flöte und Harfe, und sie werden weissagen.",
       "zh": "此后你到　神的山，在那里有非利士人的防兵。你到了城的时候，必遇见一班先知从邱坛下来，前面有鼓瑟的、击鼓的、吹笛的、弹琴的，他们都受感说话。",
-      "ja": "其の後汝神のギベアにいたらん其處にペリシテ人の代官あり汝彼處にゆきて邑にいるとき一群の預言者の瑟と鼗と笛と琴を前に執らせて預言しつつ崇邱をくだるにあはん"
+      "ja": "その後、あなたは神のギベアへ行く。そこはペリシテびとの守備兵のいる所である。あなたはその所へ行って、町にはいる時、立琴、手鼓、笛、琴を執る人々を先に行かせて、預言しながら高き所から降りてくる一群の預言者に会うでしょう。"
     },
     {
       "number": 6,
@@ -48,7 +48,7 @@
       "en": "The Spirit of the LORD will come upon you in power, and you will prophesy with them; and you will be changed into a different person.",
       "de": "Und der Geist des HERRN wird über dich geraten, daß du mit ihnen weissagst; da wirst du ein anderer Mann werden.",
       "zh": "耶和华的灵必大大感动你，你就与他们一同受感说话；你要变为新人。",
-      "ja": "其の時神のみたま汝にのぞみて汝かれらとともに預言し變りて新しき人とならん"
+      "ja": "その時、主の霊があなたの上にもはげしく下って、あなたは彼らと一緒に預言し、変って新しい人となるでしょう。"
     },
     {
       "number": 7,
@@ -56,7 +56,7 @@
       "en": "Once these signs are fulfilled, do whatever your hand finds to do, for God is with you.",
       "de": "Wenn dir nun diese Zeichen kommen, so tue, was dir unter die Hand kommt; denn Gott ist mit dir.",
       "zh": "这兆头临到你，你就可以趁时而做，因为　神与你同在。",
-      "ja": "是らの徴汝の身におこらば手のあたるにまかせて事を爲すべし神汝とともにいませばなり"
+      "ja": "これらのしるしが、あなたの身に起ったならば、あなたは手当たりしだいになんでもしなさい。神があなたと一緒におられるからです。"
     },
     {
       "number": 8,
@@ -64,7 +64,7 @@
       "en": "\"Go down ahead of me to Gilgal. I will surely come down to you to sacrifice burnt offerings and fellowship offerings, but you must wait seven days until I come to you and tell you what you are to do.\"",
       "de": "Du sollst aber vor mir hinabgehen gen Gilgal; siehe, da will ich zu dir hinabkommen, zu opfern Brandopfer und Dankopfer. Sieben Tage sollst du harren, bis ich zu dir komme und dir kundtue, was du tun sollst.",
       "zh": "你当在我以先下到吉甲，我也必下到那里献燔祭和平安祭。你要等候七日，等我到了那里，指示你当行的事。」",
-      "ja": "汝我にさきだちてギルガルにくだるべし我汝の許にくだりて燔祭を供へ酬恩祭を献げんわが汝のもとに至り汝の爲すべきことを示すまで汝七日のあひだ待つべし"
+      "ja": "あなたはわたしに先立ってギルガルに下らなければならない。わたしはあなたのもとに下っていって、燔祭を供え、酬恩祭をささげるでしょう。わたしがあなたのもとに行って、あなたのしなければならない事をあなたに示すまで、七日のあいだ待たなければならない」。"
     },
     {
       "number": 9,
@@ -72,7 +72,7 @@
       "en": "As Saul turned to leave Samuel, God changed Saul's heart, and all these signs were fulfilled that day.",
       "de": "Und da er seine Schultern wandte, daß er von Samuel ginge, gab Gott ihm ein anderes Herz, und alle diese Zeichen kamen auf denselben Tag.",
       "zh": "扫罗转身离别撒母耳，　神就赐他一个新心。当日这一切兆头都应验了。",
-      "ja": "サケウル背をかへしてサムエルを離れし時神之に新しき心をあたへたまふしかして此しるし皆其日におこれり"
+      "ja": "サウルが背をかえしてサムエルを離れたとき、神は彼に新しい心を与えられた。これらのしるしは皆その日に起った。"
     },
     {
       "number": 10,
@@ -80,7 +80,7 @@
       "en": "When they arrived at Gibeah, a procession of prophets met him; the Spirit of God came upon him in power, and he joined in their prophesying.",
       "de": "Und da sie kamen an den Hügel, siehe, da kam ihm ein Prophetenhaufe entgegen; und der Geist Gottes geriet über ihn, daß er unter ihnen weissagte.",
       "zh": "扫罗到了那山，有一班先知遇见他，　神的灵大大感动他，他就在先知中受感说话。",
-      "ja": "ふたり彼處にゆきてギベアにいたれるときみよ一群の預言者これにあふしかして神の霊サウルにのぞみてサウルかれらの中にありて預言せり"
+      "ja": "彼らはギベアにきた時、預言者の一群に出会った。そして神の霊が、はげしくサウルの上に下り、彼は彼らのうちにいて預言した。"
     },
     {
       "number": 11,
@@ -88,7 +88,7 @@
       "en": "When all those who had formerly known him saw him prophesying with the prophets, they asked each other, \"What is this that has happened to the son of Kish? Is Saul also among the prophets?\"",
       "de": "Da ihn aber sahen alle, die ihn vormals gekannt hatten, daß er mit den Propheten weissagte, sprachen sie alle untereinander: Was ist dem Sohn des Kis geschehen? Ist Saul auch unter den Propheten?",
       "zh": "素来认识扫罗的，看见他和先知一同受感说话，就彼此说：「基士的儿子遇见什么了？扫罗也列在先知中吗？」",
-      "ja": "素よりサウルを識る人々サウルの預言者と偕に預言するを見て互ひにいひけるはキシの子サウル今何事にあふやサウルも預言者の中にあるやと"
+      "ja": "もとからサウルを知っていた人々はみな、サウルが預言者たちと共に預言するのを見て互に言った、「キシの子に何事が起ったのか。サウルもまた預言者たちのうちにいるのか」。"
     },
     {
       "number": 12,
@@ -96,7 +96,7 @@
       "en": "A man who lived there answered, \"And who is their father?\" So it became a saying: \"Is Saul also among the prophets?\"",
       "de": "Und einer daselbst antwortete und sprach: Wer ist ihr Vater? Daher ist das Sprichwort gekommen: Ist Saul auch unter den Propheten?",
       "zh": "那地方有一个人说：「这些人的父亲是谁呢？」此后有句俗语说：「扫罗也列在先知中吗？」",
-      "ja": "其處の人ひとり答へて彼等の父は誰ぞやといふ是故にサウルも預言者の中にあるやといふは諺となれり"
+      "ja": "その所のひとりの者が答えた、「彼らの父はだれなのか」。それで「サウルもまた預言者たちのうちにいるのか」というのが、ことわざとなった。"
     },
     {
       "number": 13,
@@ -104,7 +104,7 @@
       "en": "After Saul stopped prophesying, he went to the high place.",
       "de": "Und da er ausgeweisagt hatte, kam er auf die Höhe.",
       "zh": "扫罗受感说话已毕，就上邱坛去了。",
-      "ja": "サウル預言を終て崇邱にいたるに"
+      "ja": "サウルは預言することを終えて、高き所へ行った。"
     },
     {
       "number": 14,
@@ -112,7 +112,7 @@
       "en": "Now Saul's uncle asked him and his servant, \"Where have you been?\" \"Looking for the donkeys,\" he said. \"But when we saw they were not to be found, we went to Samuel.\"",
       "de": "Es sprach aber Sauls Vetter zu ihm und zu seinem Knecht: Wo seid ihr hingegangen? Sie antworteten: Die Eselinnen zu suchen; und da wir sahen, daß sie nicht da waren kamen wir zu Samuel.",
       "zh": "扫罗的叔叔问扫罗和他仆人说：「你们往哪里去了？」回答说：「找驴去了。我们见没有驴，就到了撒母耳那里。」",
-      "ja": "サウルの叔父サウルと僕にいひけるは汝ら何處にゆきしやサウルいひけるは驢馬を尋ねに出しが何處にもをらざるを見てサムエルの許にいたれり"
+      "ja": "サウルのおじが、サウルとそのしもべとに言った、「あなたがたは、どこへ行ったのか」。サウルは言った、「ろばを捜しにいったのですが、どこにもいないので、サムエルのもとに行きました」。"
     },
     {
       "number": 15,
@@ -120,7 +120,7 @@
       "en": "Saul's uncle said, \"Tell me what Samuel said to you.\"",
       "de": "Da sprach der Vetter Sauls: Sage mir, was sagte euch Samuel?",
       "zh": "扫罗的叔叔说：「请将撒母耳向你们所说的话告诉我。」",
-      "ja": "サウルの叔父いひけるはサムエルは汝に何をいひしか請ふ我につげよ"
+      "ja": "サウルのおじは言った、「サムエルが、どんなことを言ったか、どうぞ話してください」。"
     },
     {
       "number": 16,
@@ -128,7 +128,7 @@
       "en": "Saul replied, \"He assured us that the donkeys had been found.\" But he did not tell his uncle what Samuel had said about the kingship.",
       "de": "Saul antwortete seinem Vetter: Er sagte uns, daß die Eselinnen gefunden wären. Aber von dem Königreich sagte er ihm nicht, was Samuel gesagt hatte.",
       "zh": "扫罗对他叔叔说：「他明明地告诉我们驴已经找着了。」至于撒母耳所说的国事，扫罗却没有告诉叔叔。",
-      "ja": "サウル叔父にいひけるは明かに驢馬の見あたりしを告げたりと然れどもサムエルが言る國王の事はこれにつげざりき"
+      "ja": "サウルはおじに言った、「ろばが見つかったと、はっきり、わたしたちに言いました」。しかしサムエルが言った王国のことについて、おじには何も告げなかった。"
     },
     {
       "number": 17,
@@ -136,7 +136,7 @@
       "en": "Samuel summoned the people of Israel to the LORD at Mizpah",
       "de": "Samuel aber berief das Volk zum HERRN gen Mizpa",
       "zh": "撒母耳将百姓招聚到米斯巴耶和华那里，",
-      "ja": "サムエル民をミヅパにてヱホバのまへに集め"
+      "ja": "さて、サムエルは民をミヅパで主の前に集め、"
     },
     {
       "number": 18,
@@ -144,7 +144,7 @@
       "en": "and said to them, \"This is what the LORD, the God of Israel, says: 'I brought Israel up out of Egypt, and I delivered you from the power of Egypt and all the kingdoms that oppressed you.'",
       "de": "und sprach zu den Kinder Israel: So sagt der HERR, der Gott Israels: Ich habe Israel aus Ägypten geführt und euch von der Ägypter Hand errettet und von der Hand aller Königreiche, die euch zwangen.",
       "zh": "对他们说：「耶和华—以色列的　神如此说：『我领你们以色列人出埃及，救你们脱离埃及人的手，又救你们脱离欺压你们各国之人的手。』",
-      "ja": "イスラエルの子孫にいひけるはイスラエルの神ヱホバ斯くいひたまふ我イスラエルをみちびきてエジプトより出し汝らをエジプト人の手および凡て汝らを虐遇る國人の手より救ひいだせり"
+      "ja": "イスラエルの人々に言った、「イスラエルの神、主はこう仰せられる、『わたしはイスラエルをエジプトから導き出し、あなたがたをエジプトびとの手、およびすべてあなたがたをしえたげる王国の手から救い出した』。"
     },
     {
       "number": 19,
@@ -152,7 +152,7 @@
       "en": "But you have now rejected your God, who saves you out of all your calamities and distresses. And you have said, 'No, set a king over us.' So now present yourselves before the LORD by your tribes and clans.\"",
       "de": "Und ihr habt euren Gott verworfen, der euch aus all eurem Unglück und Trübsal geholfen hat, und sprecht zu ihm: Setze einen König über uns. Wohlan! so tretet nun vor den HERRN nach euren Stämmen und Freundschaften.",
       "zh": "你们今日却厌弃了救你们脱离一切灾难的　神，说：『求你立一个王治理我们。』现在你们应当按着支派、宗族都站在耶和华面前。」",
-      "ja": "然るに汝らおのれを患難と難苦のうちより救ひいだしたる汝らの神を棄て且否われらに王をたてよといへり是故にいま汝等の支派と群にしたがひてヱホバのまへに出よ"
+      "ja": "しかしあなたがたは、きょう、あなたがたをその悩みと苦しみの中から救われるあなたがたの神を捨て、その上、『いいえ、われわれの上に王を立てよ』と言う。それゆえ今、あなたがたは、部族にしたがい、また氏族にしたがって、主の前に出なさい」。"
     },
     {
       "number": 20,
@@ -160,7 +160,7 @@
       "en": "When Samuel brought all the tribes of Israel near, the tribe of Benjamin was chosen.",
       "de": "Da nun Samuel alle Stämme Israels herzubrachte, ward getroffen der Stamm Benjamin.",
       "zh": "于是，撒母耳使以色列众支派近前来掣签，就掣出便雅悯支派来；",
-      "ja": "サムエル、イスラエルの諸の支派を呼よせし時ベニヤミンの支派籤にあたりぬ"
+      "ja": "こうしてサムエルがイスラエルのすべての部族を呼び寄せた時、ベニヤミンの部族が、くじに当った。"
     },
     {
       "number": 21,
@@ -168,7 +168,7 @@
       "en": "Then he brought forward the tribe of Benjamin, clan by clan, and Matri's clan was chosen. Finally Saul son of Kish was chosen. But when they looked for him, he was not to be found.",
       "de": "Und da er den Stamm Benjamin herzubrachte mit seinen Geschlechtern, ward getroffen das Geschlecht Matris, und ward getroffen Saul, der Sohn des Kis. Und sie suchten ihn; aber sie fanden ihn nicht.",
       "zh": "又使便雅悯支派按着宗族近前来，就掣出玛特利族，从其中又掣出基士的儿子扫罗。众人寻找他却寻不着，",
-      "ja": "またベニヤミンの支派を其族のかずにしたがひて呼よせしときマテリの族籤にあたりキシの子サウル籤にあたれり人々かれを尋ねしかども見出ざれば"
+      "ja": "またベニヤミンの部族をその氏族にしたがって呼び寄せた時、マテリの氏族が、くじに当り、マテリの氏族を人ごとに呼び寄せた時、キシの子サウルが、くじに当った。しかし人々が彼を捜した時、見つからなかった。"
     },
     {
       "number": 22,
@@ -176,7 +176,7 @@
       "en": "So they inquired further of the LORD, \"Has the man come here yet?\" And the LORD said, \"Yes, he has hidden himself among the baggage.\"",
       "de": "Da fragten sie weiter den HERRN: Wird er auch noch kommen? Der HERR antwortete: Siehe, er hat sich bei dem Geräte versteckt.",
       "zh": "就问耶和华说：「那人到这里来了没有？」耶和华说：「他藏在器具中了。」",
-      "ja": "またヱホバに其人は此に來るや否やを問しにヱホバ答たまはく視よ彼は行李のあひだにかくると"
+      "ja": "そこでまた主に「その人はここにきているのですか」と問うと、主は言われた、「彼は荷物の間に隠れている」。"
     },
     {
       "number": 23,
@@ -184,7 +184,7 @@
       "en": "They ran and brought him out, and as he stood among the people he was a head taller than any of the others.",
       "de": "Da liefen sie hin und holten ihn von dort. Und da er unter das Volk trat, war er eines Hauptes länger denn alles Volk.",
       "zh": "众人就跑去从那里领出他来。他站在百姓中间，身体比众民高过一头。",
-      "ja": "人々はせゆきて彼を其處よりつれきたれり彼民の中にたつに肩より以上民の何の人よりも高かりき"
+      "ja": "人々は走って行って、彼をそこから連れてきた。彼は民の中に立ったが、肩から上は、民のどの人よりも高かった。"
     },
     {
       "number": 24,
@@ -192,7 +192,7 @@
       "en": "Samuel said to all the people, \"Do you see the man the LORD has chosen? There is no one like him among all the people.\" Then the people shouted, \"Long live the king!\"",
       "de": "Und Samuel sprach zu allem Volk: Da seht ihr, welchen der HERR erwählt hat; denn ihm ist keiner gleich in allem Volk. Da jauchzte das Volk und sprach: Glück zu dem König!",
       "zh": "撒母耳对众民说：「你们看耶和华所拣选的人，众民中有可比他的吗？」众民就大声欢呼说：「愿王万岁！」",
-      "ja": "サムエル民にいひけるは汝らヱホバの擇みたまひし人を見るか民のうちに是人の如き者とし民みなよばはりいひけるは願くは王いのちながかれ"
+      "ja": "サムエルはすべての民に言った、「主が選ばれた人をごらんなさい。民のうちに彼のような人はないではありませんか」。民はみな「王万歳」と叫んだ。"
     },
     {
       "number": 25,
@@ -200,7 +200,7 @@
       "en": "Samuel explained to the people the regulations of the kingship. He wrote them down on a scroll and deposited it before the LORD. Then Samuel dismissed the people, each to his own home.",
       "de": "Samuel aber sagte dem Volk alle Rechte des Königreiches und schrieb es in ein Buch und legte es vor den HERRN. Und Samuel ließ alles Volk gehen, einen jeglichen in sein Haus.",
       "zh": "撒母耳将国法对百姓说明，又记在书上，放在耶和华面前，然后遣散众民，各回各家去了。",
-      "ja": "時にサムエル王國の典章を民にしめして之を書にしるし之をヱホバのまへに蔵めたりしかしてサムエル民をことごとく其家にかへらしむ"
+      "ja": "その時サムエルは王国のならわしを民に語り、それを書にしるして、主の前におさめた。こうしてサムエルはすべての民をそれぞれ家に帰らせた。"
     },
     {
       "number": 26,
@@ -208,7 +208,7 @@
       "en": "Saul also went to his home in Gibeah, accompanied by valiant men whose hearts God had touched.",
       "de": "Und Saul ging auch heim gen Gibea, und ging mit ihm des Heeres ein Teil, welcher Herz Gott rührte.",
       "zh": "扫罗往基比亚回家去，有　神感动的一群人跟随他。",
-      "ja": "サウルもまたギベアの家にかへるに神に心を感ぜられたる勇士等これとともにゆけり"
+      "ja": "サウルもまたギベアにある彼の家に帰った。そして神にその心を動かされた勇士たちも彼と共に行った。"
     },
     {
       "number": 27,
@@ -216,7 +216,7 @@
       "en": "But some troublemakers said, \"How can this fellow save us?\" They despised him and brought him no gifts. But Saul kept silent.",
       "de": "Aber etliche lose Leute sprachen: Was sollte uns dieser helfen? und verachteten ihn und brachten ihm kein Geschenk. Er aber tat, als hörte er's nicht.",
       "zh": "但有些匪徒说：「这人怎能救我们呢？」就藐视他，没有送他礼物；扫罗却不理会。",
-      "ja": "然れども邪なる人々は彼人いかで我らを救はんやといひて之を蔑視り之に禮物をおくらざりしかどサウルは唖のごとくせり"
+      "ja": "しかし、よこしまな人々は「この男がどうしてわれわれを救うことができよう」と言って、彼を軽んじ、贈り物をしなかった。しかしサウルは黙っていた。"
     }
   ]
 }

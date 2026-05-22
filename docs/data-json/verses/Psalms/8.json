@@ -8,7 +8,7 @@
       "en": "For the director of music. According to gittith. A psalm of David. O LORD, our Lord, how majestic is your name in all the earth! You have set your glory above the heavens.",
       "de": "Ein Psalm Davids, vorzusingen, auf der Gittith. HERR, unser Herrscher, wie herrlich ist dein Name in allen Landen, du, den man lobt im Himmel!",
       "zh": "大卫的诗，交与伶长。用迦特乐器。 耶和华—我们的主啊， 你的名在全地何其美！ 你将你的荣耀彰显于天。",
-      "ja": "われらの主ヱホバよなんぢの名は地にあまねくして尊きかな その榮光を天におきたまへり"
+      "ja": "主、われらの主よ、あなたの名は地にあまねく、いかに尊いことでしょう。あなたの栄光は天の上にあり、"
     },
     {
       "number": 2,
@@ -16,7 +16,7 @@
       "en": "From the lips of children and infants you have ordained praise because of your enemies, to silence the foe and the avenger.",
       "de": "Aus dem Munde der jungen Kinder und Säuglinge hast du eine Macht zugerichtet um deiner Feinde willen, daß du vertilgest den Feind und den Rachgierigen.",
       "zh": "你因敌人的缘故， 从婴孩和吃奶的口中， 建立了能力， 使仇敌和报仇的闭口无言。",
-      "ja": "なんぢは嬰兒ちのみごの口により力の基をおきて敵にそなへたまへり こは仇人とうらみを報るものを鎭靜めんがためなり"
+      "ja": "みどりごと、ちのみごとの口によって、ほめたたえられています。あなたは敵と恨みを晴らす者とを静めるため、あだに備えて、とりでを設けられました。"
     },
     {
       "number": 3,
@@ -24,7 +24,7 @@
       "en": "When I consider your heavens, the work of your fingers, the moon and the stars, which you have set in place,",
       "de": "Wenn ich sehe die Himmel, deiner Finger Werk, den Mond und die Sterne, die du bereitet hast:",
       "zh": "我观看你指头所造的天， 并你所陈设的月亮星宿，",
-      "ja": "我なんぢの指のわざなる天を觀なんぢの設けたまへる月と星とをみるに"
+      "ja": "わたしは、あなたの指のわざなる天を見、あなたが設けられた月と星とを見て思います。"
     },
     {
       "number": 4,
@@ -32,7 +32,7 @@
       "en": "what is man that you are mindful of him, the son of man that you care for him?",
       "de": "was ist der Mensch, daß du seiner gedenkst, und des Menschenkind, daß du sich seiner annimmst?",
       "zh": "便说：人算什么，你竟顾念他！ 世人算什么，你竟眷顾他！",
-      "ja": "世人はいかなるものなればこれを聖念にとめたまふや 人の子はいかなるものなればこれを顧みたまふや"
+      "ja": "人は何者なので、これをみ心にとめられるのですか、人の子は何者なので、これを顧みられるのですか。"
     },
     {
       "number": 5,
@@ -40,7 +40,7 @@
       "en": "You made him a little lower than the heavenly beings and crowned him with glory and honor.",
       "de": "Du hast ihn wenig niedriger gemacht denn Gott, und mit Ehre und Schmuck hast du ihn gekrönt.",
       "zh": "你叫他比天使微小一点， 并赐他荣耀尊贵为冠冕。",
-      "ja": "只すこしく人を神よりも卑つくりて榮と尊貴とをかうぶらせ"
+      "ja": "ただ少しく人を神よりも低く造って、栄えと誉とをこうむらせ、"
     },
     {
       "number": 6,
@@ -48,7 +48,7 @@
       "en": "You made him ruler over the works of your hands; you put everything under his feet:",
       "de": "Du hast ihn zum Herrn gemacht über deiner Hände Werk; alles hast du unter seine Füße getan:",
       "zh": "你派他管理你手所造的， 使万物，就是一切的牛羊、 田野的兽、空中的鸟、海里的鱼， 凡经行海道的，都服在他的脚下。",
-      "ja": "またこれに手のわざを治めしめ萬物をその足下におきたまへり"
+      "ja": "これにみ手のわざを治めさせ、よろずの物をその足の下におかれました。"
     },
     {
       "number": 7,
@@ -56,7 +56,7 @@
       "en": "all flocks and herds, and the beasts of the field,",
       "de": "Schafe und Ochsen allzumal, dazu auch die wilden Tiere,",
       "zh": "耶和华—我们的主啊， 你的名在全地何其美！",
-      "ja": "すべての羊うしまた野の獣"
+      "ja": "すべての羊と牛、また野の獣、"
     },
     {
       "number": 8,
@@ -64,7 +64,7 @@
       "en": "the birds of the air, and the fish of the sea, all that swim the paths of the seas.",
       "de": "die Vögel unter dem Himmel und die Fische im Meer und was im Meer geht.",
       "zh": "",
-      "ja": "そらの鳥うみの魚もろもろの海路をかよふものをまで皆しかなせり"
+      "ja": "空の鳥と海の魚、海路を通うものまでも。"
     },
     {
       "number": 9,
@@ -72,7 +72,7 @@
       "en": "O LORD, our Lord, how majestic is your name in all the earth!",
       "de": "HERR, unser Herrscher, wie herrlich ist dein Name in allen Landen!",
       "zh": "",
-      "ja": "われらの主ヱホバよなんぢの名は地にあまねくして尊きかな"
+      "ja": "主、われらの主よ、あなたの名は地にあまねく、いかに尊いことでしょう。"
     }
   ]
 }

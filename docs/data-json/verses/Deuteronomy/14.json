@@ -8,7 +8,7 @@
       "en": "You are the children of the LORD your God. Do not cut yourselves or shave the front of your heads for the dead,",
       "de": "Ihr seid die Kinder des HERRN, eures Gottes; ihr sollt euch nicht Male stechen noch kahl scheren über den Augen über einem Toten.",
       "zh": "「你们是耶和华—你们　神的儿女。不可为死人用刀划身，也不可将额上剃光；",
-      "ja": "汝らは汝等の神ヱホバの子等なり汝ら死る者のために己が身に傷くべからずまた己が目の間にあたる頂の髮を剃べからず"
+      "ja": "あなたがたはあなたがたの神、主の子供である。死んだ人のために自分の身に傷をつけてはならない。また額の髪をそってはならない。"
     },
     {
       "number": 2,
@@ -16,7 +16,7 @@
       "en": "for you are a people holy to the LORD your God. Out of all the peoples on the face of the earth, the LORD has chosen you to be his treasured possession.",
       "de": "Denn du bist ein heiliges Volk dem HERRN, deinem Gott; und der HERR hat dich erwählt, daß du sein Eigentum seist, aus allen Völkern, die auf Erden sind.",
       "zh": "因为你归耶和华—你　神为圣洁的民，耶和华从地上的万民中拣选你特作自己的子民。」",
-      "ja": "其は汝は汝の神ヱホバの聖民なればなりヱホバは地の面の諸の民の中より汝を擇びて己の寶の民となし給へり"
+      "ja": "あなたはあなたの神、主の聖なる民だからである。主は地のおもてのすべての民のうちからあなたを選んで、自分の宝の民とされた。"
     },
     {
       "number": 3,
@@ -24,7 +24,7 @@
       "en": "Do not eat any detestable thing.",
       "de": "Du sollst keine Greuel essen.",
       "zh": "「凡可憎的物都不可吃。",
-      "ja": "汝穢はしき物は何をも食ふ勿れ"
+      "ja": "忌むべき物は、どんなものでも食べてはならない。"
     },
     {
       "number": 4,
@@ -32,7 +32,7 @@
       "en": "These are the animals you may eat: the ox, the sheep, the goat,",
       "de": "Das sind aber die Tiere, die ihr essen sollt: Ochs, Schaf, Ziege,",
       "zh": "可吃的牲畜就是牛、绵羊、山羊、",
-      "ja": "汝らが食ふべき獣畜は是なり即ち牛 羊 山羊"
+      "ja": "あなたがたの食べることができる獣は次のとおりである。すなわち牛、羊、やぎ、"
     },
     {
       "number": 5,
@@ -40,7 +40,7 @@
       "en": "the deer, the gazelle, the roe deer, the wild goat, the ibex, the antelope and the mountain sheep.",
       "de": "Hirsch, Reh, Büffel, Steinbock, Gemse, Auerochs und Elen;",
       "zh": "鹿、羚羊、狍子、野山羊、麋鹿、黄羊、青羊。",
-      "ja": "牡鹿 羚羊 小鹿 麣 麞 麈 麖など"
+      "ja": "雄じか、かもしか、こじか、野やぎ、くじか、おおじか、野羊など、"
     },
     {
       "number": 6,
@@ -48,7 +48,7 @@
       "en": "You may eat any animal that has a split hoof divided in two and that chews the cud.",
       "de": "und alles Tier, das seine Klauen spaltet und wiederkäut, sollt ihr essen.",
       "zh": "凡分蹄成为两瓣又倒嚼的走兽，你们都可以吃。",
-      "ja": "凡て獣畜の中蹄の分れ割て二つの蹄を成る反芻獣は汝ら之を食ふべし"
+      "ja": "獣のうち、すべて、ひずめの分れたもの、ひずめが二つに切れたもので、反芻するものは食べることができる。"
     },
     {
       "number": 7,
@@ -56,7 +56,7 @@
       "en": "However, of those that chew the cud or that have a split hoof completely divided you may not eat the camel, the rabbit or the coney. Although they chew the cud, they do not have a split hoof; they are ceremonially unclean for you.",
       "de": "Das sollt ihr aber nicht essen von dem, das wiederkäut, und von dem, das die Klauen spaltet: das Kamel, der Hase und Kaninchen, die wiederkäuen und doch ihre Klauen nicht spalten, sollen euch unrein sein;",
       "zh": "但那些倒嚼或是分蹄之中不可吃的乃是骆驼、兔子、沙番—因为是倒嚼不分蹄，就与你们不洁净；",
-      "ja": "但し反芻者と蹄の分れたる者の中汝らの食ふべからざる者は是なり即ち駱駝 兎および山鼠是らは反芻ども蹄わかれざれば汝らには汚れたる者なり"
+      "ja": "ただし、反芻するものと、ひずめの分れたもののうち、次のものは食べてはならない。すなわち、らくだ、野うさぎ、および岩だぬき、これらは反芻するけれども、ひずめが分れていないから汚れたものである。"
     },
     {
       "number": 8,
@@ -64,7 +64,7 @@
       "en": "The pig is also unclean; although it has a split hoof, it does not chew the cud. You are not to eat their meat or touch their carcasses.",
       "de": "das Schwein, ob es wohl die Klauen spaltet, so wiederkäut es doch nicht: es soll euch unrein sein. Ihr Fleisch sollt ihr nicht essen, und ihr Aas sollt ihr nicht anrühren,",
       "zh": "猪—因为是分蹄却不倒嚼，就与你们不洁净。这些兽的肉，你们不可吃，死的也不可摸。",
-      "ja": "また豚是は蹄わかるれども反芻ことをせざれば汝らには汚たる者なり汝ら是等の物の肉を食ふべからずまたその死體に捫るべからず"
+      "ja": "また豚、これは、ひずめが分れているけれども、反芻しないから、汚れたものである。その肉を食べてはならない。またその死体に触れてはならない。"
     },
     {
       "number": 9,
@@ -72,7 +72,7 @@
       "en": "Of all the creatures living in the water, you may eat any that has fins and scales.",
       "de": "Das ist, was ihr essen sollt von allem, das in Wassern ist: alles, was Floßfedern und Schuppen hat, sollt ihr essen.",
       "zh": "「水中可吃的乃是这些：凡有翅有鳞的都可以吃；",
-      "ja": "水にをる諸の物の中是のごとき者を汝ら食ふべし即ち凡て翅と鱗のある者は皆汝ら之を食ふべし"
+      "ja": "水の中にいるすべての物のうち、次のものは食べることができる。すなわち、すべて、ひれと、うろこのあるものは、食べることができる。"
     },
     {
       "number": 10,
@@ -80,7 +80,7 @@
       "en": "But anything that does not have fins and scales you may not eat; for you it is unclean.",
       "de": "Was aber keine Floßfedern noch Schuppen hat, sollt ihr nicht essen; denn es ist euch unrein.",
       "zh": "凡无翅无鳞的都不可吃，是与你们不洁净。",
-      "ja": "凡て翅と鱗のあらざる者は汝らこれを食ふべからず是は汝らには汚たる者なり"
+      "ja": "すべて、ひれと、うろこのないものは、食べてはならない。これは汚れたものである。"
     },
     {
       "number": 11,
@@ -88,7 +88,7 @@
       "en": "You may eat any clean bird.",
       "de": "Alle reinen Vögel esset.",
       "zh": "「凡洁净的鸟，你们都可以吃。",
-      "ja": "また凡て潔き鳥は皆汝らこれを食ふべし"
+      "ja": "すべて清い鳥は食べることができる。"
     },
     {
       "number": 12,
@@ -96,7 +96,7 @@
       "en": "But these you may not eat: the eagle, the vulture, the black vulture,",
       "de": "Das sind aber die ihr nicht essen sollt: der Adler, der Habicht, der Fischaar,",
       "zh": "不可吃的乃是雕、狗头雕、红头雕、",
-      "ja": "但し是等は食ふべからず即ち鵰黄鷹鳶"
+      "ja": "ただし、次のものは食べてはならない。すなわち、はげわし、ひげはげわし、みさご、"
     },
     {
       "number": 13,
@@ -104,7 +104,7 @@
       "en": "the red kite, the black kite, any kind of falcon,",
       "de": "der Taucher, der Weih, der Geier mit seiner Art",
       "zh": "鹯、小鹰、鹞鹰与其类，",
-      "ja": "鸇鷹 黑鷹の類"
+      "ja": "黒とび、はやぶさ、とびの類。"
     },
     {
       "number": 14,
@@ -112,7 +112,7 @@
       "en": "any kind of raven,",
       "de": "und alle Raben mit ihrer Art,",
       "zh": "乌鸦与其类，",
-      "ja": "各種の鴉の類"
+      "ja": "各種のからすの類。"
     },
     {
       "number": 15,
@@ -120,7 +120,7 @@
       "en": "the horned owl, the screech owl, the gull, any kind of hawk,",
       "de": "der Strauß, die Nachteule, der Kuckuck, der Sperber mit seiner Art,",
       "zh": "鸵鸟、夜鹰、鱼鹰、鹰与其类，",
-      "ja": "駝鳥 梟 鴎 雀鷹の類"
+      "ja": "だちょう、夜たか、かもめ、たかの類。"
     },
     {
       "number": 16,
@@ -128,7 +128,7 @@
       "en": "the little owl, the great owl, the white owl,",
       "de": "das Käuzlein, der Uhu, die Fledermaus,",
       "zh": "鸮鸟、猫头鹰、角鸱、",
-      "ja": "鸛 鷺 白鳥"
+      "ja": "ふくろう、みみずく、むらさきばん、"
     },
     {
       "number": 17,
@@ -136,7 +136,7 @@
       "en": "the desert owl, the osprey, the cormorant,",
       "de": "die Rohrdommel, der Storch, der Schwan,",
       "zh": "鹈鹕、秃雕、鸬鹚、",
-      "ja": "鸅鸕 大鷹 鵜"
+      "ja": "ペリカン、はげたか、う、"
     },
     {
       "number": 18,
@@ -144,7 +144,7 @@
       "en": "the stork, any kind of heron, the hoopoe and the bat.",
       "de": "der Reiher, der Häher mit seiner Art, der Wiedehopf, die Schwalbe.",
       "zh": "鹳、鹭鸶与其类，戴 与蝙蝠。",
-      "ja": "鶴 鸚鵡の類 鷸および蝙蝠"
+      "ja": "こうのとり、さぎの類。やつがしら、こうもり。"
     },
     {
       "number": 19,
@@ -152,7 +152,7 @@
       "en": "All flying insects that swarm are unclean to you; do not eat them.",
       "de": "Und alles was Flügel hat und kriecht, soll euch unrein sein, und sollt es nicht essen.",
       "zh": "凡有翅膀爬行的物是与你们不洁净，都不可吃。",
-      "ja": "また凡て羽翼ありて匍ところの者は汝らには汚たる者なり汝らこれを食ふべからず"
+      "ja": "またすべて羽があって這うものは汚れたものである。それを食べてはならない。"
     },
     {
       "number": 20,
@@ -160,7 +160,7 @@
       "en": "But any winged creature that is clean you may eat.",
       "de": "Die reinen Vögel sollt ihr essen.",
       "zh": "凡洁净的鸟，你们都可以吃。",
-      "ja": "凡て羽翼をもて飛ところの潔き物は汝らこれを食ふべし"
+      "ja": "すべて翼のある清いものは食べることができる。"
     },
     {
       "number": 21,
@@ -168,7 +168,7 @@
       "en": "Do not eat anything you find already dead. You may give it to an alien living in any of your towns, and he may eat it, or you may sell it to a foreigner. But you are a people holy to the LORD your God. Do not cook a young goat in its mother's milk.",
       "de": "Ihr sollt kein Aas essen-dem Fremdling in deinem Tor magst du es geben, daß er's esse oder daß er's verkaufe einem Ausländer; denn du bist ein heiliges Volk dem HERRN, deinem Gott. Du sollst das Böcklein nicht kochen in der Milch seiner Mutter.",
       "zh": "「凡自死的，你们都不可吃，可以给你城里寄居的吃，或卖与外人吃，因为你是归耶和华—你　神为圣洁的民。 「不可用山羊羔母的奶煮山羊羔。」",
-      "ja": "凡そ自ら死たる者は汝ら食ふべからず汝の門の内にをる他國の人に之を與へて食しかべし又これを異邦人に賣も可し汝は汝の神ヱホバの聖民なればなり汝山羊羔をその母の乳にて煮べからず"
+      "ja": "すべて自然に死んだものは食べてはならない。町の内におる寄留の他国人に、それを与えて食べさせることができる。またそれを外国人に売ってもよい。あなたはあなたの神、主の聖なる民だからである。子やぎをその母の乳で煮てはならない。"
     },
     {
       "number": 22,
@@ -176,7 +176,7 @@
       "en": "Be sure to set aside a tenth of all that your fields produce each year.",
       "de": "Du sollst alle Jahre den Zehnten absondern alles Ertrages deiner Saat, der aus deinem Acker kommt,",
       "zh": "「你要把你撒种所产的，就是你田地每年所出的，十分取一分；",
-      "ja": "汝かならず年々に田畝に種蒔て獲ところの產物の什一を取べし"
+      "ja": "あなたは毎年、畑に種をまいて獲るすべての産物の十分の一を必ず取り分けなければならない。"
     },
     {
       "number": 23,
@@ -184,7 +184,7 @@
       "en": "Eat the tithe of your grain, new wine and oil, and the firstborn of your herds and flocks in the presence of the LORD your God at the place he will choose as a dwelling for his Name, so that you may learn to revere the LORD your God always.",
       "de": "und sollst davon essen vor dem HERRN, deinem Gott, an dem Ort, den er erwählt, daß sein Name daselbst wohne, nämlich vom Zehnten deines Getreides, deines Mostes, deines Öls und von der Erstgeburt deiner Rinder und deiner Schafe, auf daß du lernst fürchten den HERRN, deinen Gott, dein Leben lang.",
       "zh": "又要把你的五谷、新酒、和油的十分之一，并牛群羊群中头生的，吃在耶和华—你　神面前，就是他所选择要立为他名的居所。这样，你可以学习时常敬畏耶和华—你的　神。",
-      "ja": "而して汝の神ヱホバの前すなはちヱホバのその名を置んとて擇びたまはん處において汝の穀物と酒と油の什一を食ひまた汝の牛羊の首出を食ひ斯して汝の神ヱホバを常に畏るることを學ぶべし"
+      "ja": "そしてあなたの神、主の前、すなわち主がその名を置くために選ばれる場所で、穀物と、ぶどう酒と、油との十分の一と、牛、羊のういごを食べ、こうして常にあなたの神、主を恐れることを学ばなければならない。"
     },
     {
       "number": 24,
@@ -192,7 +192,7 @@
       "en": "But if that place is too distant and you have been blessed by the LORD your God and cannot carry your tithe (because the place where the LORD will choose to put his Name is so far away),",
       "de": "Wenn aber des Weges dir zu viel ist, daß du solches hintragen kannst, darum daß der Ort dir zu ferne ist, den der HERR, dein Gott, erwählt hat, daß er seinen Namen daselbst wohnen lasse (denn der HERR, dein Gott, hat dich gesegnet):",
       "zh": "当耶和华—你　神赐福与你的时候，耶和华—你　神所选择要立为他名的地方若离你太远，那路也太长，使你不能把这物带到那里去，",
-      "ja": "但しその路行に勝がたくして之を携へいたること能はざる時または汝の神ヱホバのその名を置んとて擇びたまへる處汝を離るること餘りに遠き時は汝もし汝の神ヱホバの恩惠に潤ふ身ならば"
+      "ja": "ただし、その道があまりに遠く、あなたの神、主がその名を置くために選ばれる場所が、非常に遠く離れていて、あなたの神、主があなたを恵まれるとき、それを携えて行くことができないならば、"
     },
     {
       "number": 25,
@@ -200,7 +200,7 @@
       "en": "then exchange your tithe for silver, and take the silver with you and go to the place the LORD your God will choose.",
       "de": "so gib's hin um Geld und fasse das Geld in deine Hand und gehe an den Ort, den der HERR, dein Gott, erwählt hat,",
       "zh": "你就可以换成银子，将银子包起来，拿在手中，往耶和华—你　神所要选择的地方去。",
-      "ja": "その物を金に易へその金を包みて手に執り汝の神ヱホバの擇びたまへる處に往き"
+      "ja": "あなたはその物を金に換え、その金を包んで手に取り、あなたの神、主が選ばれる場所に行き、"
     },
     {
       "number": 26,
@@ -208,7 +208,7 @@
       "en": "Use the silver to buy whatever you like: cattle, sheep, wine or other fermented drink, or anything you wish. Then you and your household shall eat there in the presence of the LORD your God and rejoice.",
       "de": "und gib das Geld um alles, was deiner Seele gelüstet, es sei um Rinder, Schafe, Wein, starken Trank oder um alles, das deine Seele wünscht, und iß daselbst vor dem HERRN, deinem Gott, und sei fröhlich, du und dein Haus",
       "zh": "你用这银子，随心所欲，或买牛羊，或买清酒浓酒，凡你心所想的都可以买；你和你的家属在耶和华—你　神的面前吃喝快乐。",
-      "ja": "凡て汝の心の好む物をその金に易べし即ち牛羊葡萄酒濃酒など凡て汝が心に欲する物をもとめ其處にて汝の神ヱホバの前にこれを食ひ汝と汝の家族ともに樂むべし"
+      "ja": "その金をすべてあなたの好む物に換えなければならない。すなわち牛、羊、ぶどう酒、濃い酒など、すべてあなたの欲する物に換え、その所であなたの神、主の前でそれを食べ、家族と共に楽しまなければならない。"
     },
     {
       "number": 27,
@@ -216,7 +216,7 @@
       "en": "And do not neglect the Levites living in your towns, for they have no allotment or inheritance of their own.",
       "de": "und der Levit, der in deinem Tor ist (den sollst du nicht verlassen, denn er hat kein Teil noch Erbe mit dir).",
       "zh": "「住在你城里的利未人，你不可丢弃他，因为他在你们中间无分无业。",
-      "ja": "汝の門の内にをるレビ人を棄る勿れ是は汝の中間に分なく產業なき者なればなり"
+      "ja": "町の内におるレビびとを捨ててはならない。彼はあなたがたのうちに分がなく、嗣業を持たない者だからである。"
     },
     {
       "number": 28,
@@ -224,7 +224,7 @@
       "en": "At the end of every three years, bring all the tithes of that year's produce and store it in your towns,",
       "de": "Alle drei Jahre sollst du aussondern den Zehnten deines Ertrages desselben Jahrs und sollst's lassen in deinem Tor.",
       "zh": "每逢三年的末一年，你要将本年的土产十分之一都取出来，积存在你的城中。",
-      "ja": "三年の末に到る毎にその年の產物の十分の一を盡く持出してこれを汝の門の内に儲蓄ふべし"
+      "ja": "三年の終りごとに、その年の産物の十分の一を、ことごとく持ち出して、町の内にたくわえ、"
     },
     {
       "number": 29,
@@ -232,7 +232,7 @@
       "en": "so that the Levites (who have no allotment or inheritance of their own) and the aliens, the fatherless and the widows who live in your towns may come and eat and be satisfied, and so that the LORD your God may bless you in all the work of your hands.",
       "de": "So soll kommen der Levit (der kein Teil noch Erbe mit dir hat) und der Fremdling und der Waise und die Witwe, die in deinem Tor sind, und essen und sich sättigen, auf daß dich der HERR, dein Gott, segne in allen Werken deiner Hand, die du tust.",
       "zh": "在你城里无分无业的利未人，和你城里寄居的，并孤儿寡妇，都可以来，吃得饱足。这样，耶和华—你的　神必在你手里所办的一切事上赐福与你。」",
-      "ja": "然る時は汝の中間に分なく產業なきレビ人および汝の門の内にをる他國の人と孤子と寡婦など來りてこれを食ひて飽ん斯せば汝の神ヱホバ汝が手をもて爲ところの諸の事において汝に福祉を賜ふべし"
+      "ja": "あなたがたのうちに分け前がなく、嗣業を持たないレビびと、および町の内におる寄留の他国人と、孤児と、寡婦を呼んで、それを食べさせ、満足させなければならない。そうすれば、あなたの神、主はあなたが手で行うすべての事にあなたを祝福されるであろう。"
     }
   ]
 }

@@ -8,7 +8,7 @@
       "en": "Solomon's Song of Songs.",
       "de": "Das Hohelied Salomos.",
       "zh": "所罗门的歌，是歌中的雅歌。",
-      "ja": "これはソロモンの雅歌なり"
+      "ja": "ソロモンの雅歌"
     },
     {
       "number": 2,
@@ -16,7 +16,7 @@
       "en": "Let him kiss me with the kisses of his mouth--for your love is more delightful than wine.",
       "de": "Er küsse mich mit dem Kusse seines Mundes; denn deine Liebe ist lieblicher als Wein.",
       "zh": "愿他用口与我亲嘴； 因你的爱情比酒更美。",
-      "ja": "ねがはしきは彼その口の接吻をもて我にくちつけせんことなり 汝の愛は酒よりもまさりぬ"
+      "ja": "どうか、あなたの口の口づけをもって、わたしに口づけしてください。あなたの愛はぶどう酒にまさり、"
     },
     {
       "number": 3,
@@ -24,7 +24,7 @@
       "en": "Pleasing is the fragrance of your perfumes; your name is like perfume poured out. No wonder the maidens love you!",
       "de": "Es riechen deine Salben köstlich; dein Name ist eine ausgeschüttete Salbe, darum lieben dich die Jungfrauen.",
       "zh": "你的膏油馨香； 你的名如同倒出来的香膏， 所以众童女都爱你。",
-      "ja": "なんぢの香膏は其香味たへに馨しくなんぢの名はそそがれたる香膏のごとし 是をもて女子等なんぢを愛す"
+      "ja": "あなたのにおい油はかんばしく、あなたの名は注がれたにおい油のようです。それゆえ、おとめたちはあなたを愛するのです。"
     },
     {
       "number": 4,
@@ -32,7 +32,7 @@
       "en": "Take me away with you--let us hurry! Let the king bring me into his chambers. We rejoice and delight in you; we will praise your love more than wine. How right they are to adore you!",
       "de": "Zieh mich dir nach, so laufen wir. Der König führte mich in seine Kammern. Wir freuen uns und sind fröhlich über dir; wir gedenken an deine Liebe mehr denn an den Wein. Die Frommen lieben dich.",
       "zh": "愿你吸引我，我们就快跑跟随你。 王带我进了内室， 我们必因你欢喜快乐。 我们要称赞你的爱情， 胜似称赞美酒。 他们爱你是理所当然的。",
-      "ja": "われを引たまへ われら汝にしたがひて走らん 王われをたづさへてその後宮にいれたまへり 我らは汝によりて歡び樂しみ酒よりも勝りてなんぢの愛をほめたたふ 彼らは直きこころをもて汝を愛す"
+      "ja": "あなたのあとについて、行かせてください。わたしたちは急いでまいりましょう。王はわたしをそのへやに連れて行かれた。わたしたちは、あなたによって喜び楽しみ、ぶどう酒にまさって、あなたの愛をほめたたえます。おとめたちは真心をもってあなたを愛します。"
     },
     {
       "number": 5,
@@ -40,7 +40,7 @@
       "en": "Dark am I, yet lovely, O daughters of Jerusalem, dark like the tents of Kedar, like the tent curtains of Solomon.",
       "de": "Ich bin schwarz, aber gar lieblich, ihr Töchter Jerusalems, wie die Hütten Kedars, wie die Teppiche Salomos.",
       "zh": "耶路撒冷的众女子啊， 我虽然黑，却是秀美， 如同基达的帐棚， 好像所罗门的幔子。",
-      "ja": "ヱルサレムの女子等よ われは黑けれどもなほ美はし ケダルの天幕のごとく またソロモンの帷帳に似たり"
+      "ja": "エルサレムの娘たちよ、わたしは黒いけれども美しい。ケダルの天幕のように、ソロモンのとばりのように。"
     },
     {
       "number": 6,
@@ -48,7 +48,7 @@
       "en": "Do not stare at me because I am dark, because I am darkened by the sun. My mother's sons were angry with me and made me take care of the vineyards; my own vineyard I have neglected.",
       "de": "Seht mich nicht an, daß ich so schwarz bin; denn die Sonne hat mich so verbrannt. Meiner Mutter Kinder zürnen mit mir. Sie haben mich zur Hüterin der Weinberge gesetzt; aber meinen eigenen Weinberg habe ich nicht behütet.",
       "zh": "不要因日头把我晒黑了就轻看我。 我同母的弟兄向我发怒， 他们使我看守葡萄园； 我自己的葡萄园却没有看守。",
-      "ja": "われ色くろきが故に日のわれを燒たるが故に我を視るなかれ わが母の子等われを怒りて我に葡萄園をまもらしめたり 我はおのが葡萄園をまもらざりき"
+      "ja": "わたしが日に焼けているがために、日がわたしを焼いたがために、わたしを見つめてはならない。わが母の子らは怒って、わたしにぶどう園を守らせた。しかし、わたしは自分のぶどう園を守らなかった。"
     },
     {
       "number": 7,
@@ -56,7 +56,7 @@
       "en": "Tell me, you whom I love, where you graze your flock and where you rest your sheep at midday. Why should I be like a veiled woman beside the flocks of your friends?",
       "de": "Sage mir an, du, den meine Seele liebt, wo du weidest, wo du ruhest im Mittage, daß ich nicht hin und her gehen müsse bei den Herden deiner Gesellen.",
       "zh": "我心所爱的啊，求你告诉我， 你在何处牧羊？ 晌午在何处使羊歇卧？ 我何必在你同伴的羊群旁边 好像蒙着脸的人呢？",
-      "ja": "わが心の愛する者よなんぢは何處にてなんぢの群を牧ひ 午時いづこにて之を息まするや請ふわれに告よ なんぞ面を覆へる者の如くしてなんぢが伴侶の群のかたはらにをるべけんや"
+      "ja": "わが魂の愛する者よ、あなたはどこで、あなたの群れを養い、昼の時にどこで、それを休ませるのか、わたしに告げてください。どうして、わたしはさまよう者のように、あなたの仲間の群れのかたわらに、いなければならないのですか。"
     },
     {
       "number": 8,
@@ -64,7 +64,7 @@
       "en": "If you do not know, most beautiful of women, follow the tracks of the sheep and graze your young goats by the tents of the shepherds.",
       "de": "Weiß du es nicht, du schönste unter den Weibern, so gehe hinaus auf die Fußtapfen der Schafe und weide deine Zicklein bei den Hirtenhäusern.",
       "zh": "你这女子中极美丽的， 你若不知道， 只管跟随羊群的脚踪去， 把你的山羊羔牧放在牧人帐棚的旁边。",
-      "ja": "婦女の最も美はしき者よ なんぢ若しらずば群の足跡にしたがひて出ゆき 牧羊者の天幕のかたはらにて汝の羔山羊を牧へ"
+      "ja": "女のうちの最も美しい者よ、あなたが知らないなら、群れの足跡に従っていって、羊飼たちの天幕のかたわらで、あなたの子やぎを飼いなさい。"
     },
     {
       "number": 9,
@@ -72,7 +72,7 @@
       "en": "I liken you, my darling, to a mare harnessed to one of the chariots of Pharaoh.",
       "de": "Ich vergleiche dich, meine Freundin, meinem Gespann an den Wagen Pharaos.",
       "zh": "我的佳偶， 我将你比法老车上套的骏马。",
-      "ja": "わが佳耦よ 我なんぢをパロの車の馬に譬ふ"
+      "ja": "わが愛する者よ、わたしはあなたをパロの車の雌馬になぞらえる。"
     },
     {
       "number": 10,
@@ -80,7 +80,7 @@
       "en": "Your cheeks are beautiful with earrings, your neck with strings of jewels.",
       "de": "Deine Backen stehen lieblich in den Kettchen und dein Hals in den Schnüren.",
       "zh": "你的两腮因发辫而秀美； 你的颈项因珠串而华丽。",
-      "ja": "なんぢの臉には鏈索を垂れ なんぢの頭には珠玉を陳ねて至も美はし"
+      "ja": "あなたのほおは美しく飾られ、あなたの首は宝石をつらねた首飾で美しい。"
     },
     {
       "number": 11,
@@ -88,7 +88,7 @@
       "en": "We will make you earrings of gold, studded with silver.",
       "de": "Wir wollen dir goldene Kettchen machen mit silbernen Pünktlein.",
       "zh": "我们要为你编上金辫，镶上银钉。",
-      "ja": "われら白銀の星をつけたる黄金の鏈索をなんぢのために造らん"
+      "ja": "われわれは銀を散らした金の飾り物を、あなたのために造ろう。"
     },
     {
       "number": 12,
@@ -96,7 +96,7 @@
       "en": "While the king was at his table, my perfume spread its fragrance.",
       "de": "Da der König sich herwandte, gab meine Narde ihren Geruch.",
       "zh": "王正坐席的时候， 我的哪哒香膏发出香味。",
-      "ja": "王其席につきたまふ時 わがナルダ其香味をいだせり"
+      "ja": "王がその席に着かれたとき、わたしのナルドはそのかおりを放った。"
     },
     {
       "number": 13,
@@ -104,7 +104,7 @@
       "en": "My lover is to me a sachet of myrrh resting between my breasts.",
       "de": "Mein Freund ist mir ein Büschel Myrrhen, das zwischen meinen Brüsten hanget.",
       "zh": "我以我的良人为一袋没药， 常在我怀中。",
-      "ja": "わが愛する者は我にとりてはわが胸のあひだにおきたる沒藥の袋のごとし"
+      "ja": "わが愛する者は、わたしにとっては、わたしの乳ぶさの間にある没薬の袋のようです。"
     },
     {
       "number": 14,
@@ -112,7 +112,7 @@
       "en": "My lover is to me a cluster of henna blossoms from the vineyards of En Gedi.",
       "de": "Mein Freund ist mir eine Traube von Zyperblumen in den Weinbergen zu Engedi.",
       "zh": "我以我的良人为一棵凤仙花， 在隐·基底葡萄园中。",
-      "ja": "わが愛する者はわれにとりてはエンゲデの園にあるコペルの英華のごとし"
+      "ja": "わが愛する者は、わたしにとっては、エンゲデのぶどう園にあるヘンナ樹の花ぶさのようです。"
     },
     {
       "number": 15,
@@ -120,7 +120,7 @@
       "en": "How beautiful you are, my darling! Oh, how beautiful! Your eyes are doves.",
       "de": "Siehe, meine Freundin, du bist schön; schön bist du, deine Augen sind wie Taubenaugen.",
       "zh": "我的佳偶，你甚美丽！你甚美丽！ 你的眼好像鸽子眼。",
-      "ja": "ああ美はしきかな わが佳耦よ ああうるはしきかな なんぢの目は鴿のごとし"
+      "ja": "わが愛する者よ、見よ、あなたは美しい、見よ、あなたは美しい、あなたの目ははとのようだ。"
     },
     {
       "number": 16,
@@ -128,7 +128,7 @@
       "en": "How handsome you are, my lover! Oh, how charming! And our bed is verdant.",
       "de": "Siehe, mein Freund, du bist schön und lieblich. Unser Bett grünt,",
       "zh": "我的良人哪，你甚美丽可爱！ 我们以青草为床榻，",
-      "ja": "わが愛する者よ ああなんぢは美はしくまた樂しきかな われらの牀は靑緑なり"
+      "ja": "わが愛する者よ、見よ、あなたは美しく、まことにりっぱです。わたしたちの床は緑、"
     },
     {
       "number": 17,
@@ -136,7 +136,7 @@
       "en": "The beams of our house are cedars; our rafters are firs.",
       "de": "unserer Häuser Balken sind Zedern, unser Getäfel Zypressen.",
       "zh": "以香柏树为房屋的栋梁， 以松树为椽子。",
-      "ja": "われらの家の棟梁は香柏 その垂木は松の木なり"
+      "ja": "わたしたちの家の梁は香柏、そのたるきはいとすぎです。"
     }
   ]
 }

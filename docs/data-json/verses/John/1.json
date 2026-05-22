@@ -8,7 +8,7 @@
       "en": "In the beginning was the Word, and the Word was with God, and the Word was God.",
       "de": "Im Anfang war das Wort, und das Wort war bei Gott, und Gott war das Wort.",
       "zh": "太初有道，道与　神同在，道就是　神。",
-      "ja": "初めに、ことばがあった。ことばは神とともにあった。ことばは神であった。"
+      "ja": "初めに言があった。言は神と共にあった。言は神であった。"
     },
     {
       "number": 2,
@@ -16,7 +16,7 @@
       "en": "He was with God in the beginning.",
       "de": "Dasselbe war im Anfang bei Gott.",
       "zh": "这道太初与　神同在。",
-      "ja": "この方は、初めに神とともにおられた。"
+      "ja": "この言は初めに神と共にあった。"
     },
     {
       "number": 3,
@@ -24,7 +24,7 @@
       "en": "Through him all things were made; without him nothing was made that has been made.",
       "de": "Alle Dinge sind durch dasselbe gemacht, und ohne dasselbe ist nichts gemacht, was gemacht ist.",
       "zh": "万物是借着他造的；凡被造的，没有一样不是借着他造的。",
-      "ja": "すべてのものは、この方によって造られた。造られたもので、この方によらずにできたものは一つもない。"
+      "ja": "すべてのものは、これによってできた。できたもののうち、一つとしてこれによらないものはなかった。"
     },
     {
       "number": 4,
@@ -32,7 +32,7 @@
       "en": "In him was life, and that life was the light of men.",
       "de": "In ihm war das Leben, und das Leben war das Licht der Menschen.",
       "zh": "生命在他里头，这生命就是人的光。",
-      "ja": "この方にいのちがあった。このいのちは人の光であった。"
+      "ja": "この言に命があった。そしてこの命は人の光であった。"
     },
     {
       "number": 5,
@@ -40,7 +40,7 @@
       "en": "The light shines in the darkness, but the darkness has not understood it.",
       "de": "Und das Licht scheint in der Finsternis, und die Finsternis hat's nicht begriffen.",
       "zh": "光照在黑暗里，黑暗却不接受光。",
-      "ja": "光はやみの中に輝いている。やみはこれに打ち勝たなかった。"
+      "ja": "光はやみの中に輝いている。そして、やみはこれに勝たなかった。"
     },
     {
       "number": 6,
@@ -48,7 +48,7 @@
       "en": "There came a man who was sent from God; his name was John.",
       "de": "Es ward ein Mensch von Gott gesandt, der hieß Johannes.",
       "zh": "有一个人，是从　神那里差来的，名叫约翰。",
-      "ja": "神から遣わされたヨハネという人が現われた。"
+      "ja": "ここにひとりの人があって、神からつかわされていた。その名をヨハネと言った。"
     },
     {
       "number": 7,
@@ -56,7 +56,7 @@
       "en": "He came as a witness to testify concerning that light, so that through him all men might believe.",
       "de": "Dieser kam zum Zeugnis, daß er von dem Licht zeugte, auf daß sie alle durch ihn glaubten.",
       "zh": "这人来，为要作见证，就是为光作见证，叫众人因他可以信。",
-      "ja": "この人はあかしのために来た。光についてあかしするためであり、すべての人が彼によって信じるためである。"
+      "ja": "この人はあかしのためにきた。光についてあかしをし、彼によってすべての人が信じるためである。"
     },
     {
       "number": 8,
@@ -64,7 +64,7 @@
       "en": "He himself was not the light; he came only as a witness to the light.",
       "de": "Er war nicht das Licht, sondern daß er zeugte von dem Licht.",
       "zh": "他不是那光，乃是要为光作见证。",
-      "ja": "彼は光ではなかった。ただ光についてあかしするために来たのである。"
+      "ja": "彼は光ではなく、ただ、光についてあかしをするためにきたのである。"
     },
     {
       "number": 9,
@@ -72,7 +72,7 @@
       "en": "The true light that gives light to every man was coming into the world.",
       "de": "Das war das wahrhaftige Licht, welches alle Menschen erleuchtet, die in diese Welt kommen.",
       "zh": "那光是真光，照亮一切生在世上的人。",
-      "ja": "すべての人を照らすそのまことの光が世に来ようとしていた。"
+      "ja": "すべての人を照すまことの光があって、世にきた。"
     },
     {
       "number": 10,
@@ -80,7 +80,7 @@
       "en": "He was in the world, and though the world was made through him, the world did not recognize him.",
       "de": "Es war in der Welt, und die Welt ist durch dasselbe gemacht; und die Welt kannte es nicht.",
       "zh": "他在世界，世界也是借着他造的，世界却不认识他。",
-      "ja": "この方はもとから世におられ、世はこの方によって造られたのに、世はこの方を知らなかった。"
+      "ja": "彼は世にいた。そして、世は彼によってできたのであるが、世は彼を知らずにいた。"
     },
     {
       "number": 11,
@@ -88,7 +88,7 @@
       "en": "He came to that which was his own, but his own did not receive him.",
       "de": "Er kam in sein Eigentum; und die Seinen nahmen ihn nicht auf.",
       "zh": "他到自己的地方来，自己的人倒不接待他。",
-      "ja": "この方はご自分のくにに来られたのに、ご自分の民は受け入れなかった。"
+      "ja": "彼は自分のところにきたのに、自分の民は彼を受けいれなかった。"
     },
     {
       "number": 12,
@@ -96,7 +96,7 @@
       "en": "Yet to all who received him, to those who believed in his name, he gave the right to become children of God--",
       "de": "Wie viele ihn aber aufnahmen, denen gab er Macht, Kinder Gottes zu werden, die an seinen Namen glauben;",
       "zh": "凡接待他的，就是信他名的人，他就赐他们权柄作　神的儿女。",
-      "ja": "しかし、この方を受け入れた人々、すなわち、その名を信じた人々には、神の子どもとされる特権をお与えになった。"
+      "ja": "しかし、彼を受けいれた者、すなわち、その名を信じた人々には、彼は神の子となる力を与えたのである。"
     },
     {
       "number": 13,
@@ -104,7 +104,7 @@
       "en": "children born not of natural descent, nor of human decision or a husband's will, but born of God.",
       "de": "welche nicht von dem Geblüt noch von dem Willen des Fleisches noch von dem Willen eines Mannes, sondern von Gott geboren sind.",
       "zh": "这等人不是从血气生的，不是从情欲生的，也不是从人意生的，乃是从　神生的。",
-      "ja": "この人々は、血によってではなく、肉の欲求や人の意欲によってでもなく、ただ、神によって生まれたのである。"
+      "ja": "それらの人は、血すじによらず、肉の欲によらず、また、人の欲にもよらず、ただ神によって生れたのである。"
     },
     {
       "number": 14,
@@ -112,7 +112,7 @@
       "en": "The Word became flesh and made his dwelling among us. We have seen his glory, the glory of the One and Only, who came from the Father, full of grace and truth.",
       "de": "Und das Wort ward Fleisch und wohnte unter uns, und wir sahen seine Herrlichkeit, eine Herrlichkeit als des eingeborenen Sohnes vom Vater, voller Gnade und Wahrheit.",
       "zh": "道成了肉身，住在我们中间，充充满满地有恩典有真理。我们也见过他的荣光，正是父独生子的荣光。",
-      "ja": "ことばは人となって、私たちの間に住まわれた。私たちはこの方の栄光を見た。父のみもとから来られたひとり子としての栄光である。この方は恵みとまことに満ちておられた。"
+      "ja": "そして言は肉体となり、わたしたちのうちに宿った。わたしたちはその栄光を見た。それは父のひとり子としての栄光であって、めぐみとまこととに満ちていた。"
     },
     {
       "number": 15,
@@ -120,7 +120,7 @@
       "en": "John testifies concerning him. He cries out, saying, \"This was he of whom I said, 'He who comes after me has surpassed me because he was before me.'\"",
       "de": "Johannes zeugt von ihm, ruft und spricht: Dieser war es, von dem ich gesagt habe: Nach mir wird kommen, der vor mir gewesen ist; denn er war eher als ich.",
       "zh": "约翰为他作见证，喊着说：「这就是我曾说：『那在我以后来的，反成了在我以前的，因他本来在我以前。』」",
-      "ja": "ヨハネはこの方について証言し、叫んで言った。「『私のあとから来る方は、私にまさる方である。私より先におられたからである。』と私が言ったのは、この方のことです。」"
+      "ja": "ヨハネは彼についてあかしをし、叫んで言った、「『わたしのあとに来るかたは、わたしよりもすぐれたかたである。わたしよりも先におられたからである』とわたしが言ったのは、この人のことである」。"
     },
     {
       "number": 16,
@@ -128,7 +128,7 @@
       "en": "From the fullness of his grace we have all received one blessing after another.",
       "de": "Und von seiner Fülle haben wir alle genommen Gnade um Gnade.",
       "zh": "从他丰满的恩典里，我们都领受了，而且恩上加恩。",
-      "ja": "私たちはみな、この方の満ち満ちた豊かさの中から、恵みの上にさらに恵みを受けたのである。"
+      "ja": "わたしたちすべての者は、その満ち満ちているものの中から受けて、めぐみにめぐみを加えられた。"
     },
     {
       "number": 17,
@@ -136,7 +136,7 @@
       "en": "For the law was given through Moses; grace and truth came through Jesus Christ.",
       "de": "Denn das Gesetz ist durch Moses gegeben; die Gnade und Wahrheit ist durch Jesum Christum geworden.",
       "zh": "律法本是借着摩西传的；恩典和真理都是由耶稣基督来的。",
-      "ja": "というのは、律法はモーセによって与えられ、恵みとまことはイエス・キリストによって実現したからである。"
+      "ja": "律法はモーセをとおして与えられ、めぐみとまこととは、イエス・キリストをとおしてきたのである。"
     },
     {
       "number": 18,
@@ -144,7 +144,7 @@
       "en": "No one has ever seen God, but God the One and Only, who is at the Father's side, has made him known.",
       "de": "Niemand hat Gott je gesehen; der eingeborene Sohn, der in des Vaters Schoß ist, der hat es uns verkündigt.",
       "zh": "从来没有人看见　神，只有在父怀里的独生子将他表明出来。",
-      "ja": "いまだかつて神を見た者はいない。父のふところにおられるひとり子の神が、神を説き明かされたのである。"
+      "ja": "神を見た者はまだひとりもいない。ただ父のふところにいるひとり子なる神だけが、神をあらわしたのである。"
     },
     {
       "number": 19,
@@ -152,7 +152,7 @@
       "en": "Now this was John's testimony when the Jews of Jerusalem sent priests and Levites to ask him who he was.",
       "de": "Und dies ist das Zeugnis des Johannes, da die Juden sandten von Jerusalem Priester und Leviten, daß sie ihn fragten: Wer bist du?",
       "zh": "约翰所作的见证记在下面：犹太人从耶路撒冷差祭司和利未人到约翰那里，问他说：「你是谁？」",
-      "ja": "ヨハネの証言は、こうである。ユダヤ人たちが祭司とレビ人をエルサレムからヨハネのもとに遣わして、「あなたはどなたですか。」と尋ねさせた。"
+      "ja": "さて、ユダヤ人たちが、エルサレムから祭司たちやレビ人たちをヨハネのもとにつかわして、「あなたはどなたですか」と問わせたが、その時ヨハネが立てたあかしは、こうであった。"
     },
     {
       "number": 20,
@@ -160,7 +160,7 @@
       "en": "He did not fail to confess, but confessed freely, \"I am not the Christ.\"",
       "de": "Und er bekannte und leugnete nicht; und er bekannte: Ich bin nicht Christus.",
       "zh": "他就明说，并不隐瞒，明说：「我不是基督。」",
-      "ja": "彼は告白して否まず、「私はキリストではありません。」と言明した。"
+      "ja": "すなわち、彼は告白して否まず、「わたしはキリストではない」と告白した。"
     },
     {
       "number": 21,
@@ -168,7 +168,7 @@
       "en": "They asked him, \"Then who are you? Are you Elijah?\" He said, \"I am not.\" \"Are you the Prophet?\" He answered, \"No.\"",
       "de": "Und sie fragten ihn: Was denn? Bist du Elia? Er sprach: Ich bin's nicht. Bist du der Prophet? Und er antwortete: Nein!",
       "zh": "他们又问他说：「这样，你是谁呢？是以利亚吗？」他说：「我不是。」「是那先知吗？」他回答说：「不是。」",
-      "ja": "また、彼らは聞いた。「では、いったい何ですか。あなたはエリヤですか。」彼は言った。「そうではありません。」「あなたはあの預言者ですか。」彼は答えた。「違います。」"
+      "ja": "そこで、彼らは問うた、「それでは、どなたなのですか、あなたはエリヤですか」。彼は「いや、そうではない」と言った。「では、あの預言者ですか」。彼は「いいえ」と答えた。"
     },
     {
       "number": 22,
@@ -176,7 +176,7 @@
       "en": "Finally they said, \"Who are you? Give us an answer to take back to those who sent us. What do you say about yourself?\"",
       "de": "Da sprachen sie zu ihm: Was bist du denn? Daß wir Antwort geben denen, die uns gesandt haben. Was sagst du von dir selbst?",
       "zh": "于是他们说：「你到底是谁，叫我们好回复差我们来的人。你自己说，你是谁？」",
-      "ja": "そこで、彼らは言った。「あなたはだれですか。私たちを遣わした人々に返事をしたいのですが、あなたは自分を何だと言われるのですか。」"
+      "ja": "そこで、彼らは言った、「あなたはどなたですか。わたしたちをつかわした人々に、答を持って行けるようにしていただきたい。あなた自身をだれだと考えるのですか」。"
     },
     {
       "number": 23,
@@ -184,7 +184,7 @@
       "en": "John replied in the words of Isaiah the prophet, \"I am the voice of one calling in the desert, 'Make straight the way for the Lord.'\"",
       "de": "Er sprach: Ich bin eine Stimme eines Predigers in der Wüste: Richtet den Weg des HERRN! wie der Prophet Jesaja gesagt hat.",
       "zh": "他说：「我就是那在旷野有人声喊着说：『修直主的道路』，正如先知以赛亚所说的。」",
-      "ja": "彼は言った。「私は、預言者イザヤが言ったように『主の道をまっすぐにせよ。』と荒野で叫んでいる者の声です。」"
+      "ja": "彼は言った、「わたしは、預言者イザヤが言ったように、『主の道をまっすぐにせよと荒野で呼ばわる者の声』である」。"
     },
     {
       "number": 24,
@@ -192,7 +192,7 @@
       "en": "Now some Pharisees who had been sent",
       "de": "Und die gesandt waren, die waren von den Pharisäern.",
       "zh": "那些人是法利赛人差来的；",
-      "ja": "彼らは、パリサイ人の中から遣わされたのであった。"
+      "ja": "つかわされた人たちは、パリサイ人であった。"
     },
     {
       "number": 25,
@@ -200,7 +200,7 @@
       "en": "questioned him, \"Why then do you baptize if you are not the Christ, nor Elijah, nor the Prophet?\"",
       "de": "Und sie fragten ihn und sprachen zu ihm: Warum taufst du denn, so du nicht Christus bist noch Elia noch der Prophet?",
       "zh": "他们就问他说：「你既不是基督，不是以利亚，也不是那先知，为什么施洗呢？」",
-      "ja": "彼らはまた尋ねて言った。「キリストでもなく、エリヤでもなく、またあの預言者でもないなら、なぜ、あなたはバプテスマを授けているのですか。」"
+      "ja": "彼らはヨハネに問うて言った、「では、あなたがキリストでもエリヤでもまたあの預言者でもないのなら、なぜバプテスマを授けるのですか」。"
     },
     {
       "number": 26,
@@ -208,7 +208,7 @@
       "en": "\"I baptize with water,\" John replied, \"but among you stands one you do not know.",
       "de": "Johannes antwortete ihnen und sprach: Ich taufe mit Wasser; aber er ist mitten unter euch getreten, den ihr nicht kennt.",
       "zh": "约翰回答说：「我是用水施洗，但有一位站在你们中间，是你们不认识的，",
-      "ja": "ヨハネは答えて言った。「私は水でバプテスマを授けているが、あなたがたの中に、あなたがたの知らない方が立っておられます。"
+      "ja": "ヨハネは彼らに答えて言った、「わたしは水でバプテスマを授けるが、あなたがたの知らないかたが、あなたがたの中に立っておられる。"
     },
     {
       "number": 27,
@@ -216,7 +216,7 @@
       "en": "He is the one who comes after me, the thongs of whose sandals I am not worthy to untie.\"",
       "de": "Der ist's, der nach mir kommen wird, welcher vor mir gewesen ist, des ich nicht wert bin, daß ich seine Schuhriemen auflöse.",
       "zh": "就是那在我以后来的，我给他解鞋带也不配。」",
-      "ja": "その方は私のあとから来られる方で、私はその方のくつのひもを解く値うちもありません。」"
+      "ja": "それがわたしのあとにあとにおいでになる方であって、わたしはその人のくつのひもを解く値うちもない」。"
     },
     {
       "number": 28,
@@ -224,7 +224,7 @@
       "en": "This all happened at Bethany on the other side of the Jordan, where John was baptizing.",
       "de": "Dies geschah zu Bethabara jenseit des Jordans, wo Johannes taufte.",
       "zh": "这是在约旦河外伯大尼，约翰施洗的地方作的见证。",
-      "ja": "この事があったのは、ヨルダンの向こう岸のベタニヤであって、ヨハネはそこでバプテスマを授けていた。"
+      "ja": "これらのことは、ヨハネがバプテスマを授けていたヨルダンの向こうのベタニヤであったのである。"
     },
     {
       "number": 29,
@@ -232,7 +232,7 @@
       "en": "The next day John saw Jesus coming toward him and said, \"Look, the Lamb of God, who takes away the sin of the world!",
       "de": "Des andern Tages sieht Johannes Jesum zu ihm kommen und spricht: Siehe, das ist Gottes Lamm, welches der Welt Sünde trägt!",
       "zh": "次日，约翰看见耶稣来到他那里，就说：「看哪，　神的羔羊，除去世人罪孽的！",
-      "ja": "その翌日、ヨハネは自分のほうにイエスが来られるのを見て言った。「見よ、世の罪を取り除く神の小羊。"
+      "ja": "その翌日、ヨハネはイエスが自分の方にこられるのを見て言った、「見よ、世の罪を取り除く神の小羊。"
     },
     {
       "number": 30,
@@ -240,7 +240,7 @@
       "en": "This is the one I meant when I said, 'A man who comes after me has surpassed me because he was before me.'",
       "de": "Dieser ist's, von dem ich gesagt habe: Nach mir kommt ein Mann, welcher vor mir gewesen ist; denn er war eher denn ich.",
       "zh": "这就是我曾说：『有一位在我以后来、反成了在我以前的，因他本来在我以前。』",
-      "ja": "私が『私のあとから来る人がある。その方は私にまさる方である。私より先におられたからだ。』と言ったのは、この方のことです。"
+      "ja": "『わたしのあとに来るかたは、わたしよりもすぐれたかたである。わたしよりも先におられたからである』とわたしが言ったのは、この人のことである。"
     },
     {
       "number": 31,
@@ -248,7 +248,7 @@
       "en": "I myself did not know him, but the reason I came baptizing with water was that he might be revealed to Israel.\"",
       "de": "Und ich kannte ihn nicht; sondern auf daß er offenbar würde in Israel, darum bin ich gekommen, zu taufen mit Wasser.",
       "zh": "我先前不认识他，如今我来用水施洗，为要叫他显明给以色列人。」",
-      "ja": "私もこの方を知りませんでした。しかし、この方がイスラエルに明らかにされるために、私は来て、水でバプテスマを授けているのです。」"
+      "ja": "わたしはこのかたを知らなかった。しかし、このかたがイスラエルに現れてくださるそのことのために、わたしはきて、水でバプテスマを授けているのである」。"
     },
     {
       "number": 32,
@@ -256,7 +256,7 @@
       "en": "Then John gave this testimony: \"I saw the Spirit come down from heaven as a dove and remain on him.",
       "de": "Und Johannes zeugte und sprach: Ich sah, daß der Geist herabfuhr wie eine Taube vom Himmel und blieb auf ihm.",
       "zh": "约翰又作见证说：「我曾看见圣灵，仿佛鸽子从天降下，住在他的身上。",
-      "ja": "またヨハネは証言して言った。「御霊が鳩のように天から下って、この方の上にとどまられるのを私は見ました。"
+      "ja": "ヨハネはまたあかしをして言った、「わたしは、御霊がはとのように天から下って、彼の上にとどまるのを見た。"
     },
     {
       "number": 33,
@@ -264,7 +264,7 @@
       "en": "I would not have known him, except that the one who sent me to baptize with water told me, 'The man on whom you see the Spirit come down and remain is he who will baptize with the Holy Spirit.'",
       "de": "Und ich kannte ihn nicht; aber der mich sandte, zu taufen mit Wasser, der sprach zu mir: Auf welchen du sehen wirst den Geist herabfahren und auf ihm bleiben, der ist's, der mit dem heiligen Geist tauft.",
       "zh": "我先前不认识他，只是那差我来用水施洗的、对我说：『你看见圣灵降下来，住在谁的身上，谁就是用圣灵施洗的。』",
-      "ja": "私もこの方を知りませんでした。しかし、水でバプテスマを授けさせるために私を遣わされた方が、私に言われました。『聖霊がある方の上に下って、その上にとどまられるのがあなたに見えたなら、その方こそ、聖霊によってバプテスマを授ける方である。』"
+      "ja": "わたしはこの人を知らなかった。しかし、水でバプテスマを授けるようにと、わたしをおつかわしになったそのかたが、わたしに言われた、『ある人の上に、御霊が下ってとどまるのを見たら、その人こそは、御霊によってバプテスマを授けるかたである』。"
     },
     {
       "number": 34,
@@ -272,7 +272,7 @@
       "en": "I have seen and I testify that this is the Son of God.\"",
       "de": "Und ich sah es und zeugte, daß dieser ist Gottes Sohn.",
       "zh": "我看见了，就证明这是　神的儿子。」",
-      "ja": "私はそれを見たのです。それで、この方が神の子であると証言しているのです。」"
+      "ja": "わたしはそれを見たので、このかたこそ神の子であると、あかしをしたのである」。"
     },
     {
       "number": 35,
@@ -280,7 +280,7 @@
       "en": "The next day John was there again with two of his disciples.",
       "de": "Des andern Tages stand abermals Johannes und zwei seiner Jünger.",
       "zh": "再次日，约翰同两个门徒站在那里。",
-      "ja": "その翌日、またヨハネは、ふたりの弟子とともに立っていたが、"
+      "ja": "その翌日、ヨハネはまたふたりの弟子たちと一緒に立っていたが、"
     },
     {
       "number": 36,
@@ -288,7 +288,7 @@
       "en": "When he saw Jesus passing by, he said, \"Look, the Lamb of God!\"",
       "de": "Und als er Jesum sah wandeln, sprach er: Siehe, das ist Gottes Lamm!",
       "zh": "他见耶稣行走，就说：「看哪，这是　神的羔羊！」",
-      "ja": "イエスが歩いて行かれるのを見て、「見よ、神の小羊。」と言った。"
+      "ja": "イエスが歩いておられるのに目をとめて言った、「見よ、神の小羊」。"
     },
     {
       "number": 37,
@@ -296,7 +296,7 @@
       "en": "When the two disciples heard him say this, they followed Jesus.",
       "de": "Und die zwei Jünger hörten ihn reden und folgten Jesu nach.",
       "zh": "两个门徒听见他的话，就跟从了耶稣。",
-      "ja": "ふたりの弟子は、彼がそう言うのを聞いて、イエスについて行った。"
+      "ja": "そのふたりの弟子は、ヨハネがそう言うのを聞いて、イエスについて行った。"
     },
     {
       "number": 38,
@@ -304,7 +304,7 @@
       "en": "Turning around, Jesus saw them following and asked, \"What do you want?\" They said, \"Rabbi\" (which means Teacher), \"where are you staying?\"",
       "de": "Jesus aber wandte sich um und sah sie nachfolgen und sprach zu ihnen: Was suchet ihr? Sie aber sprachen zu ihm: Meister, wo bist du zur Herberge?",
       "zh": "耶稣转过身来，看见他们跟着，就问他们说：「你们要什么？」他们说：「拉比，在哪里住？」（拉比翻出来就是夫子。）",
-      "ja": "イエスは振り向いて、彼らがついて来るのを見て、言われた。「あなたがたは何を求めているのですか。」彼らは言った。「ラビ（訳して言えば、先生）。今どこにお泊まりですか。」"
+      "ja": "イエスはふり向き、彼らがついてくるのを見て言われた、「何か願いがあるのか」。彼らは言った、「ラビ（訳して言えば、先生）どこにおとまりなのですか」。"
     },
     {
       "number": 39,
@@ -312,7 +312,7 @@
       "en": "\"Come,\" he replied, \"and you will see.\" So they went and saw where he was staying, and spent that day with him. It was about the tenth hour.",
       "de": "Er sprach zu ihnen: Kommt und sehet's! Sie kamen und sahen's und blieben den Tag bei ihm. Es war aber um die zehnte Stunde.",
       "zh": "耶稣说：「你们来看。」他们就去看他在哪里住，这一天便与他同住；那时约有申正了。",
-      "ja": "イエスは彼らに言われた。「来なさい。そうすればわかります。」そこで、彼らはついて行って、イエスの泊まっておられる所を知った。そして、その日彼らはイエスといっしょにいた。時は十時ごろであった。"
+      "ja": "イエスは彼らに言われた、「きてごらんなさい。そうしたらわかるだろう」。そこで彼らはついて行って、イエスの泊まっておられる所を見た。そして、その日はイエスのところに泊まった。時は午後四時ごろであった。"
     },
     {
       "number": 40,
@@ -328,7 +328,7 @@
       "en": "The first thing Andrew did was to find his brother Simon and tell him, \"We have found the Messiah\" (that is, the Christ).",
       "de": "Der findet am ersten seinen Bruder Simon und spricht zu ihm: Wir haben den Messias gefunden (welches ist verdolmetscht: der Gesalbte),",
       "zh": "他先找着自己的哥哥西门，对他说：「我们遇见弥赛亚了。」（弥赛亚翻出来就是基督。）",
-      "ja": "彼はまず自分の兄弟シモンを見つけて、「私たちはメシヤ（訳して言えば、キリスト）に会った。」と言った。"
+      "ja": "彼はまず自分の兄弟シモンに出会って言った、「わたしたちはメシヤ（訳せば、キリスト）にいま出会った」。"
     },
     {
       "number": 42,
@@ -336,7 +336,7 @@
       "en": "And he brought him to Jesus. Jesus looked at him and said, \"You are Simon son of John. You will be called Cephas\" (which, when translated, is Peter).",
       "de": "und führte ihn zu Jesu. Da ihn Jesus sah, sprach er: Du bist Simon, Jona's Sohn; du sollst Kephas (Fels) heißen.",
       "zh": "于是领他去见耶稣。耶稣看着他，说：「你是约翰的儿子西门，你要称为矶法。」（矶法翻出来就是彼得。）",
-      "ja": "彼はシモンをイエスのもとに連れて来た。イエスはシモンに目を留めて言われた。「あなたはヨハネの子シモンです。あなたをケパ（訳すとペテロ）と呼ぶことにします。」"
+      "ja": "そしてシモンをイエスのもとにつれてきた。イエスは彼に目をとめて言われた、「あなたはヨハネの子シモンである。あなたをケパ（訳せば、ペテロ）と呼ぶことにする」。"
     },
     {
       "number": 43,
@@ -344,7 +344,7 @@
       "en": "The next day Jesus decided to leave for Galilee. Finding Philip, he said to him, \"Follow me.\"",
       "de": "Des andern Tages wollte Jesus wieder nach Galiläa ziehen und findet Philippus und spricht zu ihm: Folge mir nach!",
       "zh": "又次日，耶稣想要往加利利去，遇见腓力，就对他说：「来跟从我吧。」",
-      "ja": "その翌日、イエスはガリラヤに行こうとされた。そして、ピリポを見つけて「わたしに従って来なさい。」と言われた。"
+      "ja": "その翌日、イエスはガリラヤに行こうとされたが、ピリポに出会って言われた、「わたしに従ってきなさい」。"
     },
     {
       "number": 44,
@@ -352,7 +352,7 @@
       "en": "Philip, like Andrew and Peter, was from the town of Bethsaida.",
       "de": "Philippus aber war von Bethsaida, aus der Stadt des Andreas und Petrus.",
       "zh": "这腓力是伯赛大人，和安得烈、彼得同城。",
-      "ja": "ピリポは、ベツサイダの人で、アンデレやペテロと同じ町の出身であった。"
+      "ja": "ピリポは、アンデレとペテロとの町ベツサイダの人であった。"
     },
     {
       "number": 45,
@@ -360,7 +360,7 @@
       "en": "Philip found Nathanael and told him, \"We have found the one Moses wrote about in the Law, and about whom the prophets also wrote--Jesus of Nazareth, the son of Joseph.\"",
       "de": "Philippus findet Nathanael und spricht zu ihm: Wir haben den gefunden, von welchem Moses im Gesetz und die Propheten geschrieben haben, Jesum, Joseph's Sohn von Nazareth.",
       "zh": "腓力找着拿但业，对他说：「摩西在律法上所写的和众先知所记的那一位，我们遇见了，就是约瑟的儿子拿撒勒人耶稣。」",
-      "ja": "彼はナタナエルを見つけて言った。「私たちは、モーセが律法の中に書き、預言者たちも書いている方に会いました。ナザレの人で、ヨセフの子イエスです。」"
+      "ja": "このピリポがナタナエルに出会って言った、「わたしたちは、モーセが律法の中にしるしており、預言者たちがしるしていた人、ヨセフの子、ナザレのイエスにいま出会った」。"
     },
     {
       "number": 46,
@@ -368,7 +368,7 @@
       "en": "\"Nazareth! Can anything good come from there?\" Nathanael asked. \"Come and see,\" said Philip.",
       "de": "Und Nathanael sprach zu ihm: Was kann von Nazareth Gutes kommen? Philippus spricht zu ihm: Komm und sieh es!",
       "zh": "拿但业对他说：「拿撒勒还能出什么好的吗？」腓力说：「你来看！」",
-      "ja": "ナタナエルは彼に言った。「ナザレから何の良いものが出るだろう。」ピリポは言った。「来て、そして、見なさい。」"
+      "ja": "ナタナエルは彼に言った、「ナザレから、なんのよいものが出ようか」。ピリポは彼に言った、「きて見なさい」。"
     },
     {
       "number": 47,
@@ -376,7 +376,7 @@
       "en": "When Jesus saw Nathanael approaching, he said of him, \"Here is a true Israelite, in whom there is nothing false.\"",
       "de": "Jesus sah Nathanael zu sich kommen und spricht von ihm: Siehe, ein rechter Israeliter, in welchem kein Falsch ist.",
       "zh": "耶稣看见拿但业来，就指着他说：「看哪，这是个真以色列人，他心里是没有诡诈的。」",
-      "ja": "イエスはナタナエルが自分のほうに来るのを見て、彼について言われた。「これこそ、ほんとうのイスラエル人だ。彼のうちには偽りがない。」"
+      "ja": "イエスはナタナエルが自分の方に来るのを見て、彼について言われた、「見よ、あの人こそ、ほんとうのイスラエル人である。その心には偽りがない」。"
     },
     {
       "number": 48,
@@ -384,7 +384,7 @@
       "en": "\"How do you know me?\" Nathanael asked. Jesus answered, \"I saw you while you were still under the fig tree before Philip called you.\"",
       "de": "Nathanael spricht zu ihm: Woher kennst du mich? Jesus antwortete und sprach zu ihm: Ehe denn dich Philippus rief, da du unter dem Feigenbaum warst, sah ich dich.",
       "zh": "拿但业对耶稣说：「你从哪里知道我呢？」耶稣回答说：「腓力还没有招呼你，你在无花果树底下，我就看见你了。」",
-      "ja": "ナタナエルはイエスに言った。「どうして私をご存じなのですか。」イエスは言われた。「わたしは、ピリポがあなたを呼ぶ前に、あなたがいちじくの木の下にいるのを見たのです。」"
+      "ja": "ナタナエルは言った、「どうしてわたしをご存じなのですか」。イエスは答えて言われた、「ピリポがあなたを呼ぶ前に、わたしはあなたが、いちじくの木の下にいるのを見た」。"
     },
     {
       "number": 49,
@@ -392,7 +392,7 @@
       "en": "Then Nathanael declared, \"Rabbi, you are the Son of God; you are the King of Israel.\"",
       "de": "Nathanael antwortete und spricht zu ihm: Rabbi, du bist Gottes Sohn, du bist der König von Israel!",
       "zh": "拿但业说：「拉比，你是　神的儿子，你是以色列的王！」",
-      "ja": "ナタナエルは答えた。「先生。あなたは神の子です。あなたはイスラエルの王です。」"
+      "ja": "ナタナエルは答えた、「先生、あなたは神の子です。あなたはイスラエルの王です」。"
     },
     {
       "number": 50,
@@ -400,7 +400,7 @@
       "en": "Jesus said, \"You believe because I told you I saw you under the fig tree. You shall see greater things than that.\"",
       "de": "Jesus antwortete und sprach zu ihm: Du glaubst, weil ich dir gesagt habe, daß ich dich gesehen habe unter dem Feigenbaum; du wirst noch Größeres denn das sehen.",
       "zh": "耶稣对他说：「因为我说『在无花果树底下看见你』，你就信吗？你将要看见比这更大的事」；",
-      "ja": "イエスは答えて言われた。「あなたがいちじくの木の下にいるのを見た、とわたしが言ったので、あなたは信じるのですか。あなたは、それよりもさらに大きなことを見ることになります。」"
+      "ja": "イエスは答えて言われた、「あなたが、いちじくの木の下にいるのを見たと、わたしが言ったので信じるのか。これよりも、もっと大きなことを、あなたは見るであろう」。"
     },
     {
       "number": 51,
@@ -408,7 +408,7 @@
       "en": "He then added, \"I tell you the truth, you shall see heaven open, and the angels of God ascending and descending on the Son of Man.\"",
       "de": "Und spricht zu ihm: Wahrlich, wahrlich ich sage euch: Von nun an werdet ihr den Himmel offen sehen und die Engel Gottes hinauf und herab fahren auf des Menschen Sohn.",
       "zh": "又说：「我实实在在地告诉你们，你们将要看见天开了，　神的使者上去下来在人子身上。」",
-      "ja": "そして言われた。「まことに、まことに、あなたがたに告げます。天が開けて、神の御使いたちが人の子の上を上り下りするのを、あなたがたはいまに見ます。」"
+      "ja": "また言われた、「よくよくあなたがたに言っておく。天が開けて、神の御使たちが人の子の上に上り下りするのを、あなたがたは見るであろう」。"
     }
   ]
 }

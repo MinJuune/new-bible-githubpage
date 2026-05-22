@@ -8,7 +8,7 @@
       "en": "A good name is better than fine perfume, and the day of death better than the day of birth.",
       "de": "Ein guter Ruf ist besser denn gute Salbe, und der Tag des Todes denn der Tag der Geburt.",
       "zh": "名誉强如美好的膏油；人死的日子胜过人生的日子。",
-      "ja": "名は美膏に愈り 死る日は生るる日に愈る"
+      "ja": "良き名は良き油にまさり、死ぬる日は生るる日にまさる。"
     },
     {
       "number": 2,
@@ -16,7 +16,7 @@
       "en": "It is better to go to a house of mourning than to go to a house of feasting, for death is the destiny of every man; the living should take this to heart.",
       "de": "Es ist besser in das Klagehaus gehen, denn in ein Trinkhaus; in jenem ist das Ende aller Menschen, und der Lebendige nimmt's zu Herzen.",
       "zh": "往遭丧的家去， 强如往宴乐的家去； 因为死是众人的结局， 活人也必将这事放在心上。",
-      "ja": "哀傷の家に入は宴樂の家に入に愈る 其は一切の人の終かくのごとくなればなり 生る者またこれをその心にとむるあらん"
+      "ja": "悲しみの家にはいるのは、宴会の家にはいるのにまさる。死はすべての人の終りだからである。生きている者は、これを心にとめる。"
     },
     {
       "number": 3,
@@ -24,7 +24,7 @@
       "en": "Sorrow is better than laughter, because a sad face is good for the heart.",
       "de": "Es ist Trauern besser als Lachen; denn durch Trauern wird das Herz gebessert.",
       "zh": "忧愁强如喜笑； 因为面带愁容，终必使心喜乐。",
-      "ja": "悲哀は嬉笑に愈る 其は面に憂色を帶るなれば心も善にむかへばなり"
+      "ja": "悲しみは笑いにまさる。顔に憂いをもつことによって、心は良くなるからである。"
     },
     {
       "number": 4,
@@ -32,7 +32,7 @@
       "en": "The heart of the wise is in the house of mourning, but the heart of fools is in the house of pleasure.",
       "de": "Das Herz der Weisen ist im Klagehause, und das Herz der Narren im Hause der Freude.",
       "zh": "智慧人的心在遭丧之家； 愚昧人的心在快乐之家。",
-      "ja": "賢き者の心は哀傷の家にあり 愚なる者の心は喜樂の家にあり"
+      "ja": "賢い者の心は悲しみの家にあり、愚かな者の心は楽しみの家にある。"
     },
     {
       "number": 5,
@@ -40,7 +40,7 @@
       "en": "It is better to heed a wise man's rebuke than to listen to the song of fools.",
       "de": "Es ist besser hören das Schelten der Weisen, denn hören den Gesang der Narren.",
       "zh": "听智慧人的责备， 强如听愚昧人的歌唱。",
-      "ja": "賢き者の勸責を聽は愚なる者の歌詠を聽に愈るなり"
+      "ja": "賢い者の戒めを聞くのは、愚かな者の歌を聞くのにまさる。"
     },
     {
       "number": 6,
@@ -48,7 +48,7 @@
       "en": "Like the crackling of thorns under the pot, so is the laughter of fools. This too is meaningless.",
       "de": "Denn das Lachen der Narren ist wie das Krachen der Dornen unter den Töpfen; und das ist auch eitel.",
       "zh": "愚昧人的笑声， 好像锅下烧荆棘的爆声； 这也是虚空。",
-      "ja": "愚なる者の笑は釜の下に焚る荊棘の聲のごとし是また空なり"
+      "ja": "愚かな者の笑いはかまの下に燃えるいばらの音のようである。これもまた空である。"
     },
     {
       "number": 7,
@@ -56,7 +56,7 @@
       "en": "Extortion turns a wise man into a fool, and a bribe corrupts the heart.",
       "de": "Ein Widerspenstiger macht einen Weisen unwillig und verderbt ein mildtätiges Herz.",
       "zh": "勒索使智慧人变为愚妄； 贿赂能败坏人的慧心。",
-      "ja": "賢き人も虐待る事によりて狂するに至るあり賄賂は人の心を壞なふ"
+      "ja": "たしかに、しえたげは賢い人を愚かにし、まいないは人の心をそこなう。"
     },
     {
       "number": 8,
@@ -64,7 +64,7 @@
       "en": "The end of a matter is better than its beginning, and patience is better than pride.",
       "de": "Das Ende eines Dinges ist besser denn sein Anfang. Ein geduldiger Geist ist besser denn ein hoher Geist.",
       "zh": "事情的终局强如事情的起头； 存心忍耐的，胜过居心骄傲的。",
-      "ja": "事の終はその始よりも善し 容忍心ある者は傲慢心ある者に勝る"
+      "ja": "事の終りはその初めよりも良い。耐え忍ぶ心は、おごり高ぶる心にまさる。"
     },
     {
       "number": 9,
@@ -72,7 +72,7 @@
       "en": "Do not be quickly provoked in your spirit, for anger resides in the lap of fools.",
       "de": "Sei nicht schnellen Gemütes zu zürnen; denn Zorn ruht im Herzen eines Narren.",
       "zh": "你不要心里急躁恼怒， 因为恼怒存在愚昧人的怀中。",
-      "ja": "汝氣を急くして怒るなかれ 怒は愚なる者の胸にやどるなり"
+      "ja": "気をせきたてて怒るな。怒りは愚かな者の胸に宿るからである。"
     },
     {
       "number": 10,
@@ -80,7 +80,7 @@
       "en": "Do not say, \"Why were the old days better than these?\" For it is not wise to ask such questions.",
       "de": "Sprich nicht: Was ist's, daß die vorigen Tage besser waren als diese? denn du fragst solches nicht weislich.",
       "zh": "不要说： 先前的日子强过如今的日子， 是什么缘故呢？ 你这样问，不是出于智慧。",
-      "ja": "昔の今にまさるは何故ぞやと汝言なかれ 汝の斯る問をなすは是智慧よりいづる者にあらざるなり"
+      "ja": "「昔が今よりもよかったのはなぜか」と言うな。あなたがこれを問うのは知恵から出るのではない。"
     },
     {
       "number": 11,
@@ -88,7 +88,7 @@
       "en": "Wisdom, like an inheritance, is a good thing and benefits those who see the sun.",
       "de": "Weisheit ist gut mit einem Erbgut und hilft, daß sich einer der Sonne freuen kann.",
       "zh": "智慧和产业并好， 而且见天日的人得智慧更为有益。",
-      "ja": "智慧の上に財產をかぬれば善し 然れば日を見る者等に利益おほかるべし"
+      "ja": "知恵に財産が伴うのは良い。それは日を見る者どもに益がある。"
     },
     {
       "number": 12,
@@ -96,7 +96,7 @@
       "en": "Wisdom is a shelter as money is a shelter, but the advantage of knowledge is this: that wisdom preserves the life of its possessor.",
       "de": "Denn die Weisheit beschirmt, so beschirmt Geld auch; aber die Weisheit gibt das Leben dem, der sie hat.",
       "zh": "因为智慧护庇人， 好像银钱护庇人一样。 惟独智慧能保全智慧人的生命。 这就是知识的益处。",
-      "ja": "智慧も身の護庇となり銀子も身の護庇となる 然ど智惠はまたこれを有る者に生命を保しむ 是知識の殊勝たるところなり"
+      "ja": "知恵が身を守るのは、金銭が身を守るようである。しかし、知恵はこれを持つ者に生命を保たせる。これが知識のすぐれた所である。"
     },
     {
       "number": 13,
@@ -104,7 +104,7 @@
       "en": "Consider what God has done: Who can straighten what he has made crooked?",
       "de": "Siehe an die Werke Gottes; denn wer kann das schlicht machen, was er krümmt?",
       "zh": "你要察看　神的作为； 因　神使为曲的，谁能变为直呢？",
-      "ja": "汝神の作爲を考ふべし 神の曲たまひし者は誰かこれを直くすることを得ん"
+      "ja": "神のみわざを考えみよ。神の曲げられたものを、だれがまっすぐにすることができるか。"
     },
     {
       "number": 14,
@@ -112,7 +112,7 @@
       "en": "When times are good, be happy; but when times are bad, consider: God has made the one as well as the other. Therefore, a man cannot discover anything about his future.",
       "de": "Am guten Tage sei guter Dinge, und den bösen Tag nimm auch für gut; denn diesen schafft Gott neben jenem, daß der Mensch nicht wissen soll, was künftig ist.",
       "zh": "遇亨通的日子你当喜乐；遭患难的日子你当思想；因为　神使这两样并列，为的是叫人查不出身后有什么事。",
-      "ja": "幸福ある日には樂め 禍患ある日には考へよ 神はこの二者をあひ交錯て降したまふ 是は人をしてその後の事を知ることなからしめんためなり"
+      "ja": "順境の日には楽しめ、逆境の日には考えよ。神は人に将来どういう事があるかを、知らせないために、彼とこれとを等しく造られたのである。"
     },
     {
       "number": 15,
@@ -120,7 +120,7 @@
       "en": "In this meaningless life of mine I have seen both of these: a righteous man perishing in his righteousness, and a wicked man living long in his wickedness.",
       "de": "Allerlei habe ich gesehen in den Tagen meiner Eitelkeit. Da ist ein Gerechter, und geht unter mit seiner Gerechtigkeit; und ein Gottloser, der lange lebt in seiner Bosheit.",
       "zh": "有义人行义，反致灭亡；有恶人行恶，倒享长寿。这都是我在虚度之日中所见过的。",
-      "ja": "我この空の世にありて各樣の事を見たり 義人の義をおこなひて亡ぶるあり 惡人の惡をおこなひて長壽あり"
+      "ja": "わたしはこのむなしい人生において、もろもろの事を見た。そこには義人がその義によって滅びることがあり、悪人がその悪によって長生きすることがある。"
     },
     {
       "number": 16,
@@ -128,7 +128,7 @@
       "en": "Do not be overrighteous, neither be overwise--why destroy yourself?",
       "de": "Sei nicht allzu gerecht und nicht allzu weise, daß du dich nicht verderbest.",
       "zh": "不要行义过分，也不要过于自逞智慧，何必自取败亡呢？",
-      "ja": "汝義に過るなかれまた賢に過るなかれ 汝なんぞ身を滅すべけんや"
+      "ja": "あなたは義に過ぎてはならない。また賢きに過ぎてはならない。あなたはどうして自分を滅ぼしてよかろうか。"
     },
     {
       "number": 17,
@@ -136,7 +136,7 @@
       "en": "Do not be overwicked, and do not be a fool--why die before your time?",
       "de": "Sei nicht allzu gottlos und narre nicht, daß du nicht sterbest zur Unzeit.",
       "zh": "不要行恶过分，也不要为人愚昧，何必不到期而死呢？",
-      "ja": "汝惡に過るなかれまた愚なる勿れ 汝なんぞ時いたらざるに死べけんや"
+      "ja": "悪に過ぎてはならない。また愚かであってはならない。あなたはどうして、自分の時のこないのに、死んでよかろうか。"
     },
     {
       "number": 18,
@@ -144,7 +144,7 @@
       "en": "It is good to grasp the one and not let go of the other. The man who fears God will avoid all extremes.",
       "de": "Es ist gut, daß du dies fassest und jenes auch nicht aus deiner Hand lässest; denn wer Gott fürchtet, der entgeht dem allem.",
       "zh": "你持守这个为美，那个也不要松手；因为敬畏　神的人，必从这两样出来。",
-      "ja": "汝此を執は善しまた彼にも手を放すなかれ 神を畏む者はこの一切の者の中より逃れ出るなり"
+      "ja": "あなたがこれを執るのはよい、また彼から手を引いてはならない。神をかしこむ者は、このすべてからのがれ出るのである。"
     },
     {
       "number": 19,
@@ -152,7 +152,7 @@
       "en": "Wisdom makes one wise man more powerful than ten rulers in a city.",
       "de": "Die Weisheit stärkt den Weisen mehr denn zehn Gewaltige, die in der Stadt sind.",
       "zh": "智慧使有智慧的人比城中十个官长更有能力。",
-      "ja": "智慧の智者を幇くることは邑の豪雄者十人にまさるなり"
+      "ja": "知恵が知者を強くするのは、十人のつかさが町におるのにまさる。"
     },
     {
       "number": 20,
@@ -160,7 +160,7 @@
       "en": "There is not a righteous man on earth who does what is right and never sins.",
       "de": "Denn es ist kein Mensch so gerecht auf Erden, daß er Gutes tue und nicht sündige.",
       "zh": "时常行善而不犯罪的义人，世上实在没有。",
-      "ja": "正義して善をおこなひ罪を犯すことなき人は世にあることなし"
+      "ja": "善を行い、罪を犯さない正しい人は世にいない。"
     },
     {
       "number": 21,
@@ -168,7 +168,7 @@
       "en": "Do not pay attention to every word people say, or you may hear your servant cursing you--",
       "de": "Gib auch nicht acht auf alles, was man sagt, daß du nicht hören müssest deinen Knecht dir fluchen.",
       "zh": "人所说的一切话，你不要放在心上，恐怕听见你的仆人咒诅你。",
-      "ja": "人の言出す言詞には凡て心をとむる勿れ 恐くは汝の僕の汝を詛ふを聞こともあらん"
+      "ja": "人の語るすべての事に心をとめてはならない。これはあなたが、自分のしもべのあなたをのろう言葉を聞かないためである。"
     },
     {
       "number": 22,
@@ -176,7 +176,7 @@
       "en": "for you know in your heart that many times you yourself have cursed others.",
       "de": "Denn dein Herz weiß, daß du andern oftmals geflucht hast.",
       "zh": "因为你心里知道，自己也曾屡次咒诅别人。",
-      "ja": "汝も屡人を詛ふことあるは汝の心に知ところなり"
+      "ja": "あなたもまた、しばしば他人をのろったのを自分の心に知っているからである。"
     },
     {
       "number": 23,
@@ -184,7 +184,7 @@
       "en": "All this I tested by wisdom and I said, \"I am determined to be wise\"--but this was beyond me.",
       "de": "Solches alles habe ich versucht mit Weisheit. Ich gedachte, ich will weise sein; sie blieb aber ferne von mir.",
       "zh": "我曾用智慧试验这一切事；我说，要得智慧，智慧却离我远。",
-      "ja": "我智慧をもてこの一切の事を試み我は智者とならんと謂たりしが遠くおよばざるなり"
+      "ja": "わたしは知恵をもってこのすべての事を試みて、「わたしは知者となろう」と言ったが、遠く及ばなかった。"
     },
     {
       "number": 24,
@@ -192,7 +192,7 @@
       "en": "Whatever wisdom may be, it is far off and most profound--who can discover it?",
       "de": "Alles, was da ist, das ist ferne und sehr tief; wer will's finden?",
       "zh": "万事之理，离我甚远，而且最深，谁能测透呢？",
-      "ja": "事物の理は遠くして甚だ深し 誰かこれを究むることを得ん"
+      "ja": "物事の理は遠く、また、はなはだ深い。だれがこれを見いだすことができよう。"
     },
     {
       "number": 25,
@@ -200,7 +200,7 @@
       "en": "So I turned my mind to understand, to investigate and to search out wisdom and the scheme of things and to understand the stupidity of wickedness and the madness of folly.",
       "de": "Ich kehrte mein Herz, zu erfahren und erforschen und zu suchen Weisheit und Kunst, zu erfahren der Gottlosen Torheit und Irrtum der Tollen,",
       "zh": "我转念，一心要知道，要考察，要寻求智慧和万事的理由；又要知道邪恶为愚昧，愚昧为狂妄。",
-      "ja": "我は身をめぐらし心をもちひて物を知り事を探り 智慧と道理を索めんとし 又惡の愚たると愚癡の狂妄たるを知んとせり"
+      "ja": "わたしは、心を転じて、物を知り、事を探り、知恵と道理を求めようとし、また悪の愚かなこと、愚痴の狂気であることを知ろうとした。"
     },
     {
       "number": 26,
@@ -208,7 +208,7 @@
       "en": "I find more bitter than death the woman who is a snare, whose heart is a trap and whose hands are chains. The man who pleases God will escape her, but the sinner she will ensnare.",
       "de": "und fand, daß bitterer sei denn der Tod ein solches Weib, dessen Herz Netz und Strick ist und deren Hände Bande sind. Wer Gott gefällt, der wird ihr entrinnen; aber der Sünder wird durch sie gefangen.",
       "zh": "我得知有等妇人比死还苦：她的心是网罗，手是锁链。凡蒙　神喜悦的人必能躲避她；有罪的人却被她缠住了。",
-      "ja": "我了れり 婦人のその心羅と網のごとくその手縲絏のごとくなる者は是死よりも苦き者なり 神の悦びたまふ者は之を避ることを得ん罪人は之に執らるべし"
+      "ja": "わたしは、その心が、わなと網のような女、その手が、かせのような女は、死よりも苦い者であることを見いだした。神を喜ばす者は彼女からのがれる。しかし罪びとは彼女に捕えられる。"
     },
     {
       "number": 27,
@@ -216,7 +216,7 @@
       "en": "\"Look,\" says the Teacher, \"this is what I have discovered: \"Adding one thing to another to discover the scheme of things--",
       "de": "Schau, das habe ich gefunden, spricht der Prediger, eins nach dem andern, daß ich Erkenntnis fände.",
       "zh": "传道者说：「看哪，一千男子中，我找到一个正直人，但众女子中，没有找到一个。」我将这事一一比较，要寻求其理，我心仍要寻找，却未曾找到。",
-      "ja": "傳道者言ふ 視よ我その數を知んとして一々に算へてつひに此事を了る"
+      "ja": "伝道者は言う、見よ、その数を知ろうとして、いちいち数えて、わたしが得たものはこれである。"
     },
     {
       "number": 28,
@@ -224,7 +224,7 @@
       "en": "while I was still searching but not finding--I found one upright man among a thousand, but not one upright woman among them all.",
       "de": "Und meine Seele sucht noch und hat's nicht gefunden: unter tausend habe ich einen Mann gefunden; aber ein Weib habe ich unter den allen nicht gefunden.",
       "zh": "我所找到的只有一件，就是　神造人原是正直，但他们寻出许多巧计。",
-      "ja": "我なほ尋ねて得ざる者は是なり 我千人の中には一箇の男子を得たれども その數の中には一箇の女子をも得ざるなり"
+      "ja": "わたしはなおこれを求めたけれども、得なかった。わたしは千人のうちにひとりの男子を得たけれども、そのすべてのうちに、ひとりの女子をも得なかった。"
     },
     {
       "number": 29,
@@ -232,7 +232,7 @@
       "en": "This only have I found: God made mankind upright, but men have gone in search of many schemes.\"",
       "de": "Allein schaue das: ich habe gefunden, daß Gott den Menschen hat aufrichtig gemacht; aber sie suchen viele Künste.",
       "zh": "",
-      "ja": "我了れるところは唯是のみ 即ち神は人を正直者に造りたまひしに人衆多の計略を案出せしなり"
+      "ja": "見よ、わたしが得た事は、ただこれだけである。すなわち、神は人を正しい者に造られたけれども、人は多くの計略を考え出した事である。"
     }
   ]
 }

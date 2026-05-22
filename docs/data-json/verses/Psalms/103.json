@@ -8,7 +8,7 @@
       "en": "Of David. Praise the LORD, O my soul; all my inmost being, praise his holy name.",
       "de": "Ein Psalm Davids. Lobe den HERRN, meine Seele, und was in mir ist, seinen heiligen Namen!",
       "zh": "大卫的诗。 我的心哪，你要称颂耶和华！ 凡在我里面的，也要称颂他的圣名！",
-      "ja": "わが霊魂よヱホバをほめまつれ わが衷なるすべてのものよそのきよき名をほめまつれ"
+      "ja": "わがたましいよ、主をほめよ。わがうちなるすべてのものよ、その聖なるみ名をほめよ。"
     },
     {
       "number": 2,
@@ -16,7 +16,7 @@
       "en": "Praise the LORD, O my soul, and forget not all his benefits--",
       "de": "Lobe den HERRN, meine Seele, und vergiß nicht, was er dir Gutes getan hat:",
       "zh": "我的心哪，你要称颂耶和华！ 不可忘记他的一切恩惠！",
-      "ja": "わがたましひよヱホバを讃まつれ そのすべての恩惠をわするるなかれ"
+      "ja": "わがたましいよ、主をほめよ。そのすべてのめぐみを心にとめよ。"
     },
     {
       "number": 3,
@@ -24,7 +24,7 @@
       "en": "who forgives all your sins and heals all your diseases,",
       "de": "der dir alle deine Sünden vergibt und heilet alle deine Gebrechen,",
       "zh": "他赦免你的一切罪孽， 医治你的一切疾病。",
-      "ja": "ヱホバはなんぢがすべての不義をゆるし汝のすべての疾をいやし"
+      "ja": "主はあなたのすべての不義をゆるし、あなたのすべての病をいやし、"
     },
     {
       "number": 4,
@@ -32,7 +32,7 @@
       "en": "who redeems your life from the pit and crowns you with love and compassion,",
       "de": "der dein Leben vom Verderben erlöst, der dich krönt mit Gnade und Barmherzigkeit,",
       "zh": "他救赎你的命脱离死亡， 以仁爱和慈悲为你的冠冕。",
-      "ja": "なんぢの生命をほろびより贖ひいだし 仁慈と憐憫とを汝にかうぶらせ"
+      "ja": "あなたのいのちを墓からあがないいだし、いつくしみと、あわれみとをあなたにこうむらせ、"
     },
     {
       "number": 5,
@@ -40,7 +40,7 @@
       "en": "who satisfies your desires with good things so that your youth is renewed like the eagle's.",
       "de": "der deinen Mund fröhlich macht, und du wieder jung wirst wie ein Adler.",
       "zh": "他用美物使你所愿的得以知足， 以致你如鹰返老还童。",
-      "ja": "なんぢの口を嘉物にてあかしめたまふ 斯てなんぢは壯ぎて鷲のごとく新になるなり"
+      "ja": "あなたの生きながらえるかぎり、良き物をもってあなたを飽き足らせられる。こうしてあなたは若返って、わしのように新たになる。"
     },
     {
       "number": 6,
@@ -48,7 +48,7 @@
       "en": "The LORD works righteousness and justice for all the oppressed.",
       "de": "Der HERR schafft Gerechtigkeit und Gericht allen, die Unrecht leiden.",
       "zh": "耶和华施行公义， 为一切受屈的人伸冤。",
-      "ja": "ヱホバはすべて虐げらるる者のために公義と審判とをおこなひたまふ"
+      "ja": "主はすべてしえたげられる者のために正義と公正とを行われる。"
     },
     {
       "number": 7,
@@ -56,7 +56,7 @@
       "en": "He made known his ways to Moses, his deeds to the people of Israel:",
       "de": "Er hat seine Wege Mose wissen lassen, die Kinder Israel sein Tun.",
       "zh": "他使摩西知道他的法则， 叫以色列人晓得他的作为。",
-      "ja": "おのれの途をモーセにしらしめ おのれの作爲をイスラエルの子輩にしらしめ給へり"
+      "ja": "主はおのれの道をモーセに知らせ、おのれのしわざをイスラエルの人々に知らせられた。"
     },
     {
       "number": 8,
@@ -64,7 +64,7 @@
       "en": "The LORD is compassionate and gracious, slow to anger, abounding in love.",
       "de": "Barmherzig und gnädig ist der HERR, geduldig und von großer Güte.",
       "zh": "耶和华有怜悯，有恩典， 不轻易发怒，且有丰盛的慈爱。",
-      "ja": "ヱホバはあはれみと恩惠にみちて怒りたまふことおそく仁慈ゆたかにましませり"
+      "ja": "主はあわれみに富み、めぐみふかく、怒ること遅く、いつくしみ豊かでいらせられる。"
     },
     {
       "number": 9,
@@ -72,7 +72,7 @@
       "en": "He will not always accuse, nor will he harbor his anger forever;",
       "de": "Er wird nicht immer hadern noch ewiglich Zorn halten.",
       "zh": "他不长久责备， 也不永远怀怒。",
-      "ja": "恒にせむることをせず永遠にいかりを懐きたまはざるなり"
+      "ja": "主は常に責めることをせず、また、とこしえに怒りをいだかれない。"
     },
     {
       "number": 10,
@@ -80,7 +80,7 @@
       "en": "he does not treat us as our sins deserve or repay us according to our iniquities.",
       "de": "Er handelt nicht mit uns nach unsern Sünden und vergilt uns nicht nach unsrer Missetat.",
       "zh": "他没有按我们的罪过待我们， 也没有照我们的罪孽报应我们。",
-      "ja": "ヱホバはわれらの罪の量にしたがひて我儕をあしらひたまはず われらの不義のかさにしたがひて報いたまはざりき"
+      "ja": "主はわれらの罪にしたがってわれらをあしらわず、われらの不義にしたがって報いられない。"
     },
     {
       "number": 11,
@@ -88,7 +88,7 @@
       "en": "For as high as the heavens are above the earth, so great is his love for those who fear him;",
       "de": "Denn so hoch der Himmel über der Erde ist, läßt er seine Gnade walten über die, so ihn fürchten.",
       "zh": "天离地何等的高， 他的慈爱向敬畏他的人也是何等的大！",
-      "ja": "ヱホバをおそるるものにヱホバの賜ふそのあはれみは大にして 天の地よりも高きがごとし"
+      "ja": "天が地よりも高いように、主がおのれを恐れる者に賜わるいつくしみは大きい、"
     },
     {
       "number": 12,
@@ -96,7 +96,7 @@
       "en": "as far as the east is from the west, so far has he removed our transgressions from us.",
       "de": "So ferne der Morgen ist vom Abend, läßt er unsre Übertretungen von uns sein.",
       "zh": "东离西有多远， 他叫我们的过犯离我们也有多远！",
-      "ja": "そのわれらより愆をとほざけたまふことは東の西より遠きがごとし"
+      "ja": "東が西から遠いように、主はわれらのとがをわれらから遠ざけられる。"
     },
     {
       "number": 13,
@@ -104,7 +104,7 @@
       "en": "As a father has compassion on his children, so the LORD has compassion on those who fear him;",
       "de": "Wie sich ein Vater über Kinder erbarmt, so erbarmt sich der HERR über die, so ihn fürchten.",
       "zh": "父亲怎样怜恤他的儿女， 耶和华也怎样怜恤敬畏他的人！",
-      "ja": "ヱホバの己をおそるる者をあはれみたまふことは父がその子をあはれむが如し"
+      "ja": "父がその子供をあわれむように、主はおのれを恐れる者をあわれまれる。"
     },
     {
       "number": 14,
@@ -112,7 +112,7 @@
       "en": "for he knows how we are formed, he remembers that we are dust.",
       "de": "Denn er kennt, was für ein Gemächte wir sind; er gedenkt daran, daß wir Staub sind.",
       "zh": "因为他知道我们的本体， 思念我们不过是尘土。",
-      "ja": "ヱホバは我儕のつくられし状をしり われらの塵なることを念ひ給へばなり"
+      "ja": "主はわれらの造られたさまを知り、われらのちりであることを覚えていられるからである。"
     },
     {
       "number": 15,
@@ -120,7 +120,7 @@
       "en": "As for man, his days are like grass, he flourishes like a flower of the field;",
       "de": "Ein Mensch ist in seinem Leben wie Gras, er blüht wie eine Blume auf dem Feld;",
       "zh": "至于世人，他的年日如草一样。 他发旺如野地的花，",
-      "ja": "人のよはひは草のごとく その榮はのの花のごとし"
+      "ja": "人は、そのよわいは草のごとく、その栄えは野の花にひとしい。"
     },
     {
       "number": 16,
@@ -128,7 +128,7 @@
       "en": "the wind blows over it and it is gone, and its place remembers it no more.",
       "de": "wenn der Wind darüber geht, so ist sie nimmer da, und ihre Stätte kennt sie nicht mehr.",
       "zh": "经风一吹，便归无有； 它的原处也不再认识它。",
-      "ja": "風すぐれば失てあとなくその生いでし處にとへど尚しらざるなり"
+      "ja": "風がその上を過ぎると、うせて跡なく、その場所にきいても、もはやそれを知らない。"
     },
     {
       "number": 17,
@@ -136,7 +136,7 @@
       "en": "But from everlasting to everlasting the LORD'S love is with those who fear him, and his righteousness with their children's children--",
       "de": "Die Gnade aber des HERRN währet von Ewigkeit zu Ewigkeit über die, so ihn fürchten, und seine Gerechtigkeit auf Kindeskind",
       "zh": "但耶和华的慈爱归于敬畏他的人， 从亘古到永远； 他的公义也归于子子孙孙—",
-      "ja": "然はあれどヱホバの憐憫はとこしへより永遠まで ヱホバをおそるるものにいたり その公義は子孫のまた子孫にいたらん"
+      "ja": "しかし主のいつくしみは、とこしえからとこしえまで、主を恐れる者の上にあり、その義は子らの子に及び、"
     },
     {
       "number": 18,
@@ -144,7 +144,7 @@
       "en": "with those who keep his covenant and remember to obey his precepts.",
       "de": "bei denen, die seinen Bund halten und gedenken an seine Gebote, daß sie darnach tun.",
       "zh": "就是那些遵守他的约、 记念他的训词而遵行的人。",
-      "ja": "その契約をまもりその訓諭を心にとめて行ふものぞその人なる"
+      "ja": "その契約を守り、その命令を心にとめて行う者にまで及ぶ。"
     },
     {
       "number": 19,
@@ -152,7 +152,7 @@
       "en": "The LORD has established his throne in heaven, and his kingdom rules over all.",
       "de": "Der HERR hat seinen Stuhl im Himmel bereitet, und sein Reich herrscht über alles.",
       "zh": "耶和华在天上立定宝座； 他的权柄统管万有。",
-      "ja": "ヱホバはその寳座をもろもろの天にかたく置たまへり その政權はよろづのもののうへにあり"
+      "ja": "主はその玉座を天に堅くすえられ、そのまつりごとはすべての物を統べ治める。"
     },
     {
       "number": 20,
@@ -160,7 +160,7 @@
       "en": "Praise the LORD, you his angels, you mighty ones who do his bidding, who obey his word.",
       "de": "Lobet den HERRN, ihr seine Engel, ihr starken Helden, die ihr seine Befehle ausrichtet, daß man höre auf die Stimme seines Wortes!",
       "zh": "听从他命令、成全他旨意、 有大能的天使，都要称颂耶和华！",
-      "ja": "ヱホバにつかふる使者よ ヱホバの聖言のこゑをきき その聖言をおこなふ勇士よ ヱホバをほめまつれ"
+      "ja": "主の使たちよ、そのみ言葉の声を聞いて、これを行う勇士たちよ、主をほめまつれ。"
     },
     {
       "number": 21,
@@ -168,7 +168,7 @@
       "en": "Praise the LORD, all his heavenly hosts, you his servants who do his will.",
       "de": "Lobet den HERRN, alle seine Heerscharen, seine Diener, die ihr seinen Willen tut!",
       "zh": "你们作他的诸军，作他的仆役， 行他所喜悦的，都要称颂耶和华！",
-      "ja": "その萬軍よ その聖旨をおこなふ僕等よ ヱホバをほめまつれ"
+      "ja": "そのすべての万軍よ、そのみこころを行うしもべたちよ、主をほめよ。"
     },
     {
       "number": 22,
@@ -176,7 +176,7 @@
       "en": "Praise the LORD, all his works everywhere in his dominion. Praise the LORD, O my soul.",
       "de": "Lobet den HERRN, alle seine Werke, an allen Orten seiner Herrschaft! Lobe den HERRN, meine Seele!",
       "zh": "你们一切被他造的， 在他所治理的各处， 都要称颂耶和华！ 我的心哪，你要称颂耶和华！",
-      "ja": "その造りたまへる萬物よ ヱホバの政權の下なるすべての處にてヱホバをほめよ わがたましひよヱホバを讃まつれ"
+      "ja": "主が造られたすべての物よ、そのまつりごとの下にあるすべての所で、主をほめよ。わがたましいよ、主をほめよ。"
     }
   ]
 }

@@ -8,7 +8,7 @@
       "en": "Woe to the city of blood, full of lies, full of plunder, never without victims!",
       "de": "Weh der mörderischen Stadt, die voll Lügen und Räuberei ist und von ihrem Rauben nicht lassen will!",
       "zh": "祸哉！这流人血的城， 充满谎诈和强暴— 抢夺的事总不止息。",
-      "ja": "禍なるかな血を流す邑 その中には全く詭譎および暴行充ち掠め取ること息まず"
+      "ja": "わざわいなるかな、血を流す町。その中には偽りと、ぶんどり物が満ち、略奪はやまない。"
     },
     {
       "number": 2,
@@ -16,7 +16,7 @@
       "en": "The crack of whips, the clatter of wheels, galloping horses and jolting chariots!",
       "de": "Denn da wird man hören die Geißeln klappen und die Räder rasseln und die Rosse jagen und die Wagen rollen.",
       "zh": "鞭声响亮，车轮轰轰， 马匹踢跳，车辆奔腾，",
-      "ja": "鞭の音あり輪の轟く音あり 馬は躍り跳ね車は輾り行く"
+      "ja": "むちの音がする。車輪のとどろく音が聞える。かける馬があり、走る戦車がある。"
     },
     {
       "number": 3,
@@ -24,7 +24,7 @@
       "en": "Charging cavalry, flashing swords and glittering spears! Many casualties, piles of dead, bodies without number, people stumbling over the corpses--",
       "de": "Reiter rücken herauf mit glänzenden Schwertern und blitzenden Spießen. Da liegen viel Erschlagene und große Haufen Leichname, daß ihrer keine Zahl ist und man über die Leichname fallen muß.",
       "zh": "马兵争先，刀剑发光， 枪矛闪烁，被杀的甚多， 尸首成了大堆， 尸骸无数，人碰着而跌倒，",
-      "ja": "騎兵馳のぼり劍きらめき鎗ひらめく 殺さるる者夥多しくして死屍山を爲し死骸限なし 皆死屍に躓きて倒る"
+      "ja": "騎兵は突撃し、つるぎがきらめき、やりがひらめく。殺される者はおびただしく、しかばねは山をなす。死体は数限りなく、人々はその死体につまずく。"
     },
     {
       "number": 4,
@@ -32,7 +32,7 @@
       "en": "all because of the wanton lust of a harlot, alluring, the mistress of sorceries, who enslaved nations by her prostitution and peoples by her witchcraft.",
       "de": "Das alles um der Hurerei willen der schönen, lieben Hure, die mit Zauberei umgeht, die mit ihrer Hurerei die Heiden und mit ihrer Zauberei Land und Leute zu Knechten gemacht hat.",
       "zh": "都因那美貌的妓女多有淫行， 惯行邪术，借淫行诱惑列国， 用邪术诱惑多族。",
-      "ja": "是はかの魔術の主なる美しき妓女多く淫行を行ひその淫行をもて諸國を奪ひその魔術をもて諸族を惑したるに因てなり"
+      "ja": "これは皆あでやかな遊女の恐るべき魔力と、多くの淫行のためであって、その淫行をもって諸国民を売り、その魔力をもって諸族を売り渡したものである。"
     },
     {
       "number": 5,
@@ -40,7 +40,7 @@
       "en": "\"I am against you,\" declares the LORD Almighty. \"I will lift your skirts over your face. I will show the nations your nakedness and the kingdoms your shame.",
       "de": "Siehe, ich will an dich, spricht der HERR Zebaoth; ich will dir deine Säume aufdecken unter dein Angesicht und will den Heiden deine Blöße und den Königreichen deine Schande zeigen.",
       "zh": "万军之耶和华说：我与你为敌； 我必揭起你的衣襟，蒙在你脸上， 使列国看见你的赤体， 使列邦观看你的丑陋。",
-      "ja": "萬軍のヱホバ言たまふ 視よ我なんぢに臨む 我なんぢの裳裾を掲げて面の上にまで及ぼし汝の陰所を諸民に見し汝の羞る所を諸國に見すべし"
+      "ja": "万軍の主は言われる、見よ、わたしはあなたに臨む、わたしはあなたのすそを顔の上まであげ、あなたの裸を諸民に見せ、あなたの恥じる所を諸国に見せる。"
     },
     {
       "number": 6,
@@ -48,7 +48,7 @@
       "en": "I will pelt you with filth, I will treat you with contempt and make you a spectacle.",
       "de": "Ich will dich ganz greulich machen und dich schänden und ein Schauspiel aus dir machen,",
       "zh": "我必将可憎污秽之物抛在你身上， 辱没你，为众目所观。",
-      "ja": "我また穢はしき物を汝の上に投かけて汝を辱しめ汝をして賽物とならしめん"
+      "ja": "わたしは汚らわしい物を、あなたの上に投げかけて、あなたをはずかしめ、あなたを見ものとする。"
     },
     {
       "number": 7,
@@ -56,7 +56,7 @@
       "en": "All who see you will flee from you and say, 'Nineveh is in ruins--who will mourn for her?' Where can I find anyone to comfort you?\"",
       "de": "daß alle, die dich sehen, vor dir fliehen und sagen sollen: Ninive ist zerstört; wer will Mitleid mit ihr haben? Und wo soll ich dir Tröster suchen?",
       "zh": "凡看见你的，都必逃跑离开你， 说：尼尼微荒凉了！有谁为你悲伤呢？ 我何处寻得安慰你的人呢？",
-      "ja": "凡て汝を見る者はみな汝を避て奔り去りニネベは亡びたりと言ん 誰か汝のために哀かんや 何處よりして我なんぢを弔ふ者を尋ね得んや"
+      "ja": "すべてあなたを見るものは、あなたを避けて逃げ去って言う、「ニネベは滅びた」と。だれがこのために嘆こう。わたしはどこから彼女を慰める者を、尋ね出し得よう。"
     },
     {
       "number": 8,
@@ -64,7 +64,7 @@
       "en": "Are you better than Thebes, situated on the Nile, with water around her? The river was her defense, the waters her wall.",
       "de": "Meinst du, du seist besser denn die Stadt No-Amon, die da lag an den Wassern und ringsumher Wasser hatte, deren Mauern und Feste war das Meer?",
       "zh": "你岂比挪亚们强呢？ 挪亚们坐落在众河之间，周围有水； 海作她的濠沟， 又作她的城墙。",
-      "ja": "汝あにノアモンに愈らんや ノアモンは河々の間に立ち水をその周圍に環らし海をもて壕となし海をもて垣となせり"
+      "ja": "あなたはテーベにまさっているか。これはナイル川のかたわらに座し、水をその周囲にめぐらし、海をとりでとなし、水をその垣としている。"
     },
     {
       "number": 9,
@@ -72,7 +72,7 @@
       "en": "Cush and Egypt were her boundless strength; Put and Libya were among her allies.",
       "de": "Mohren und Ägypten war ihre unzählige Macht, Put und Libyen waren ihre Hilfe.",
       "zh": "古实和埃及是她无穷的力量； 弗人和路比族是她的帮手。",
-      "ja": "かつその勢力たる者はエテオピア人およびエジプト人などにして限あらず フテ人ルビ人等汝を助けたりき"
+      "ja": "その力はエチオピヤ、またエジプトであって、限りがない。プトびと、リビヤびともその助け手であった。"
     },
     {
       "number": 10,
@@ -80,7 +80,7 @@
       "en": "Yet she was taken captive and went into exile. Her infants were dashed to pieces at the head of every street. Lots were cast for her nobles, and all her great men were put in chains.",
       "de": "Doch hat sie müssen vertrieben werden und gefangen wegziehen; und sind ihre Kinder auf allen Gassen zerschmettert worden, und um ihre Edlen warf man das Los, und alle ihre Gewaltigen wurden in Ketten und Fesseln gelegt.",
       "zh": "但她被迁移，被掳去； 她的婴孩在各市口上也被摔死。 人为她的尊贵人拈阄； 她所有的大人都被链子锁着。",
-      "ja": "然るに是も俘囚となりて擄はれてゆきその子女は一切の衢の隅々にて投付られて碎け又その尊貴者は籤にて分たれ其大なる者はみな鏈に繋がれたり"
+      "ja": "しかし、これもとりことなって捕えられて行き、その子供もすべてのちまたのかどで打ち砕かれ、その尊い人々はくじで分けられ、その大いなる人々は皆、鎖につながれた。"
     },
     {
       "number": 11,
@@ -88,7 +88,7 @@
       "en": "You too will become drunk; you will go into hiding and seek refuge from the enemy.",
       "de": "Also mußt du auch trunken werden und dich verbergen und eine Feste suchen vor dem Feinde.",
       "zh": "你也必喝醉，必被埋藏， 并因仇敌的缘故寻求避难所。",
-      "ja": "汝もまた酔せられて終に隱匿ん 汝もまた敵を避て逃るる處を尋ね求めん"
+      "ja": "あなたもまた酔わされて気を失い、あなたは敵を避けて逃げ場を求める。"
     },
     {
       "number": 12,
@@ -96,7 +96,7 @@
       "en": "All your fortresses are like fig trees with their first ripe fruit; when they are shaken, the figs fall into the mouth of the eater.",
       "de": "Alle deine festen Städte sind wie Feigenbäume mit reifen Feigen, die, wenn man sie schüttelt, dem ins Maul fallen, der sie essen will.",
       "zh": "你一切保障必像无花果树上初熟的无花果， 若一摇撼就落在想吃之人的口中。",
-      "ja": "汝の城々はみな初に結びし果のなれる無花果樹のごとし 之を撼がせばその果落て食はんとする者の口にいる"
+      "ja": "あなたのとりでは皆初なりの実をもつ、いちじくの木のようだ。これをゆすぶればその実は落ちて、食べようとする者の口にはいる。"
     },
     {
       "number": 13,
@@ -104,7 +104,7 @@
       "en": "Look at your troops--they are all women! The gates of your land are wide open to your enemies; fire has consumed their bars.",
       "de": "Siehe, dein Volk soll zu Weibern werden in dir, und die Tore deines Landes sollen deinen Feinden geöffnet werden, und das Feuer soll deine Riegel verzehren.",
       "zh": "你地上的人民如同妇女； 你国中的关口向仇敌敞开； 你的门闩被火焚烧。",
-      "ja": "汝の中にある民は婦人のごとし 汝の地の門はみな汝の敵の前に廣く開きてあり 火なんぢの關を焚ん"
+      "ja": "見よ、あなたのうちにいる兵士は女のようだ。あなたの国の門はあなたの敵の前に広く開かれ、火はあなたの貫の木を焼いた。"
     },
     {
       "number": 14,
@@ -112,7 +112,7 @@
       "en": "Draw water for the siege, strengthen your defenses! Work the clay, tread the mortar, repair the brickwork!",
       "de": "Schöpfe dir Wasser, denn du wirst belagert werden! Bessere deine Festen! Gehe in den Ton und tritt den Lehm und mache starke Ziegel!",
       "zh": "你要打水预备受困； 要坚固你的保障， 踹土和泥，修补砖窑。",
-      "ja": "汝水を汲て圍まるる時の用に備へ汝の城々を堅くし泥の中に入て踐て石灰を作りかつ瓦燒窰を修理へよ"
+      "ja": "籠城のために水をくめ。あなたのとりでを堅めよ。粘土の中にはいって、しっくいを踏み、れんがの型をとれ。"
     },
     {
       "number": 15,
@@ -120,7 +120,7 @@
       "en": "There the fire will devour you; the sword will cut you down and, like grasshoppers, consume you. Multiply like grasshoppers, multiply like locusts!",
       "de": "Aber das Feuer wird dich fressen und das Schwert töten; es wird dich abfressen wie ein Käfer, ob deines Volkes schon viel ist wie Käfer, ob deines Volkes schon viel ist wie Heuschrecken.",
       "zh": "在那里，火必烧灭你； 刀必杀戮你， 吞灭你如同蝻子。 任你加增人数多如蝻子， 多如蝗虫吧！",
-      "ja": "其處にて火汝を燒き劍なんぢを斬ん 其なんぢを滅すこと吸蝗のごとくなるべし 汝吸蝗のごとく數多からば多かれ 汝群蝗のごとく數多からば多かれ"
+      "ja": "その所で火はあなたを焼き、つるぎはあなたを切る。それはいなごのようにあなたを食い滅ぼす。あなたはいなごのように数を増せ。ばったのようにふえよ。"
     },
     {
       "number": 16,
@@ -128,7 +128,7 @@
       "en": "You have increased the number of your merchants till they are more than the stars of the sky, but like locusts they strip the land and then fly away.",
       "de": "Du hast mehr Händler, denn Sterne am Himmel sind; aber nun werden sie sich ausbreiten wie Käfer und davonfliegen.",
       "zh": "你增添商贾，多过天上的星； 蝻子吃尽而去。",
-      "ja": "汝はおのれの商賣を空の星よりも多くせり 吸蝗掠めて飛さる"
+      "ja": "あなたは自分の商人を天の星よりも多くした。いなごは羽をはって飛び去る。"
     },
     {
       "number": 17,
@@ -136,7 +136,7 @@
       "en": "Your guards are like locusts, your officials like swarms of locusts that settle in the walls on a cold day--but when the sun appears they fly away, and no one knows where.",
       "de": "Deiner Herden sind so viel wie Heuschrecken und deiner Hauptleute wie Käfer, die sich an die Zäune lagern in den kalten Tagen; wenn aber die Sonne aufgeht, heben sie sich davon, daß man nicht weiß, wo sie bleiben.",
       "zh": "你的首领多如蝗虫； 你的军长仿佛成群的蚂蚱， 天凉的时候齐落在篱笆上， 日头一出便都飞去， 人不知道落在何处。",
-      "ja": "汝の重臣は群蝗のごとく汝の軍長は蝗の群のごとし 寒き日には垣に巣窟を構へ日出きたれば飛て去る その在る處を知る者なし"
+      "ja": "あなたの君たちは、ばったのように、あなたの学者たちは、いなごのように、寒い日には垣にとまり、日が出て来ると飛び去る。そのありかはだれも知らない。"
     },
     {
       "number": 18,
@@ -144,7 +144,7 @@
       "en": "O king of Assyria, your shepherds slumber; your nobles lie down to rest. Your people are scattered on the mountains with no one to gather them.",
       "de": "Deine Hirten werden schlafen, o König zu Assur, deine Mächtigen werden sich legen; und dein Volk wird auf den Bergen zerstreut sein, und niemand wird sie versammeln.",
       "zh": "亚述王啊，你的牧人睡觉； 你的贵胄安歇； 你的人民散在山间，无人招聚。",
-      "ja": "アッスリヤの王よ汝の牧者は睡り汝の貴族は臥す 又なんぢの民は山々に散さる 之を聚むる者なし"
+      "ja": "アッスリヤの王よ、あなたの牧者は眠り、あなたの貴族はまどろむ。あなたの民は山の上に散らされ、これを集める者はない。"
     },
     {
       "number": 19,
@@ -152,7 +152,7 @@
       "en": "Nothing can heal your wound; your injury is fatal. Everyone who hears the news about you claps his hands at your fall, for who has not felt your endless cruelty?",
       "de": "Niemand wird deinen Schaden lindern, und deine Wunde wird unheilbar sein. Alle, die solches von dir hören, werden mit ihren Händen über dich klatschen; denn über wen ist nicht deine Bosheit ohne Unterlaß gegangen?",
       "zh": "你的损伤无法医治； 你的伤痕极其重大。 凡听你信息的必都因此向你拍掌。 你所行的恶谁没有时常遭遇呢？",
-      "ja": "汝の傷は愈ること無し 汝の創は重し 汝の事を聞およぶ者はみな汝の故によりて手を拍ん 誰か汝の惡行を恒に身に受ざる者やある"
+      "ja": "あなたの破れは、いえることがなく、あなたの傷は重い。あなたのうわさを聞く者は皆、あなたの事について手を打つ。あなたの悪を常に身に受けなかったような者が、だれひとりあるか。"
     }
   ]
 }

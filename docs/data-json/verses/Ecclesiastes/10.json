@@ -8,7 +8,7 @@
       "en": "As dead flies give perfume a bad smell, so a little folly outweighs wisdom and honor.",
       "de": "Schädliche Fliegen verderben gute Salben; also wiegt ein wenig Torheit schwerer denn Weisheit und Ehre.",
       "zh": "死苍蝇使做香的膏油发出臭气； 这样，一点愚昧也能败坏智慧和尊荣。",
-      "ja": "死し蝿は和香者の膏を臭くしこれを腐らす 少許の愚癡は智慧と尊榮よりも重し"
+      "ja": "死んだはえは、香料を造る者のあぶらを臭くし、少しの愚痴は知恵と誉よりも重い。"
     },
     {
       "number": 2,
@@ -16,7 +16,7 @@
       "en": "The heart of the wise inclines to the right, but the heart of the fool to the left.",
       "de": "Des Weisen Herz ist zu seiner Rechten; aber des Narren Herz ist zu seiner Linken.",
       "zh": "智慧人的心居右； 愚昧人的心居左。",
-      "ja": "智者の心はその右に愚者の心はその左に行くなり"
+      "ja": "知者の心は彼を右に向けさせ、愚者の心は左に向けさせる。"
     },
     {
       "number": 3,
@@ -24,7 +24,7 @@
       "en": "Even as he walks along the road, the fool lacks sense and shows everyone how stupid he is.",
       "de": "Auch ob der Narr selbst närrisch ist in seinem Tun, doch hält er jedermann für einen Narren.",
       "zh": "并且愚昧人行路显出无知， 对众人说，他是愚昧人。",
-      "ja": "愚者は出て途を行にあたりてその心たらず自己の愚なることを一切の人に告ぐ"
+      "ja": "愚者は道を行く時、思慮が足りない、自分の愚かなことをすべての人に告げる。"
     },
     {
       "number": 4,
@@ -32,7 +32,7 @@
       "en": "If a ruler's anger rises against you, do not leave your post; calmness can lay great errors to rest.",
       "de": "Wenn eines Gewaltigen Zorn wider dich ergeht, so laß dich nicht entrüsten; denn Nachlassen stillt großes Unglück.",
       "zh": "掌权者的心若向你发怒， 不要离开你的本位， 因为柔和能免大过。",
-      "ja": "君長たる者汝にむかひて腹たつとも汝の本處を離るる勿れ温順は大なる愆を生ぜしめざるなり"
+      "ja": "つかさたる者があなたに向かって立腹しても、あなたの所を離れてはならない。温順は大いなるとがを和らげるからである。"
     },
     {
       "number": 5,
@@ -40,7 +40,7 @@
       "en": "There is an evil I have seen under the sun, the sort of error that arises from a ruler:",
       "de": "Es ist ein Unglück, das ich sah unter der Sonne, gleich einem Versehen, das vom Gewaltigen ausgeht:",
       "zh": "我见日光之下有一件祸患， 似乎出于掌权的错误，",
-      "ja": "我日の下に一の患事あるを見たり是は君長たる者よりいづる過誤に似たり"
+      "ja": "わたしは日の下に一つの悪のあるのを見た。それはつかさたる者から出るあやまちに似ている。"
     },
     {
       "number": 6,
@@ -48,7 +48,7 @@
       "en": "Fools are put in many high positions, while the rich occupy the low ones.",
       "de": "daß ein Narr sitzt in großer Würde, und die Reichen in Niedrigkeit sitzen.",
       "zh": "就是愚昧人立在高位； 富足人坐在低位。",
-      "ja": "すなはち愚なる者高き位に置かれ貴き者卑き處に坐る"
+      "ja": "すなわち愚かなる者が高い地位に置かれ、富める者が卑しい所に座している。"
     },
     {
       "number": 7,
@@ -56,7 +56,7 @@
       "en": "I have seen slaves on horseback, while princes go on foot like slaves.",
       "de": "Ich sah Knechte auf Rossen, und Fürsten zu Fuß gehen wie Knechte.",
       "zh": "我见过仆人骑马， 王子像仆人在地上步行。",
-      "ja": "我また僕たる者が馬に乗り王侯たる者が僕のごとく地の上に歩むを觀たり"
+      "ja": "わたしはしもべたる者が馬に乗り、君たる者が奴隷のように徒歩であるくのを見た。"
     },
     {
       "number": 8,
@@ -64,7 +64,7 @@
       "en": "Whoever digs a pit may fall into it; whoever breaks through a wall may be bitten by a snake.",
       "de": "Aber wer eine Grube macht, der wird selbst hineinfallen; und wer den Zaun zerreißt, den wird eine Schlange stechen.",
       "zh": "挖陷坑的，自己必掉在其中； 拆墙垣的，必为蛇所咬。",
-      "ja": "坑を掘る者はみづから之におちいり石垣を毀つ者は蛇に咬れん"
+      "ja": "穴を掘る者はみずからこれに陥り、石がきをこわす者は、へびにかまれる。"
     },
     {
       "number": 9,
@@ -72,7 +72,7 @@
       "en": "Whoever quarries stones may be injured by them; whoever splits logs may be endangered by them.",
       "de": "Wer Steine wegwälzt, der wird Mühe damit haben; und wer Holz spaltet, der wird davon verletzt werden.",
       "zh": "凿开石头的，必受损伤； 劈开木头的，必遭危险。",
-      "ja": "石を打くだく者はそれがために傷を受け木を割る者はそれがために危難に遭ん"
+      "ja": "石を切り出す者はそれがために傷をうけ、木を割る者はそれがために危険にさらされる。"
     },
     {
       "number": 10,
@@ -80,7 +80,7 @@
       "en": "If the ax is dull and its edge unsharpened, more strength is needed but skill will bring success.",
       "de": "Wenn ein Eisen stumpf wird und an der Schneide ungeschliffen bleibt, muß man's mit Macht wieder schärfen; also folgt auch Weisheit dem Fleiß.",
       "zh": "铁器钝了，若不将刃磨快，就必多费气力； 但得智慧指教，便有益处。",
-      "ja": "鐵の鈍くなれるあらんにその刃を磨ざれば力を多く之にもちひざるを得ず 智慧は功を成に益あるなり"
+      "ja": "鉄が鈍くなったとき、人がその刃をみがかなければ、力を多くこれに用いねばならない。しかし、知恵は人を助けてなし遂げさせる。"
     },
     {
       "number": 11,
@@ -88,7 +88,7 @@
       "en": "If a snake bites before it is charmed, there is no profit for the charmer.",
       "de": "Ein Schwätzer ist nichts Besseres als eine Schlange, die ohne Beschwörung sticht.",
       "zh": "未行法术以先，蛇若咬人， 后行法术也是无益。",
-      "ja": "蛇もし呪術を聽ずして咬ば呪術師は用なし"
+      "ja": "へびがもし呪文をかけられる前に、かみつけば、へび使は益がない。"
     },
     {
       "number": 12,
@@ -96,7 +96,7 @@
       "en": "Words from a wise man's mouth are gracious, but a fool is consumed by his own lips.",
       "de": "Die Worte aus dem Mund eines Weisen sind holdselig; aber des Narren Lippen verschlingen ihn selbst.",
       "zh": "智慧人的口说出恩言； 愚昧人的嘴吞灭自己。",
-      "ja": "智者の口の言語は恩徳あり 愚者の唇はその身を呑ほろぼす"
+      "ja": "知者の口の言葉は恵みがある、しかし愚者のくちびるはその身を滅ぼす。"
     },
     {
       "number": 13,
@@ -104,7 +104,7 @@
       "en": "At the beginning his words are folly; at the end they are wicked madness--",
       "de": "Der Anfang seiner Worte ist Narrheit, und das Ende ist schädliche Torheit.",
       "zh": "他口中的言语起头是愚昧； 他话的末尾是奸恶的狂妄。",
-      "ja": "愚者の口の言は始は愚なり またその言は終は狂妄にして惡し"
+      "ja": "愚者の口の言葉の初めは愚痴である、またその言葉の終りは悪い狂気である。"
     },
     {
       "number": 14,
@@ -112,7 +112,7 @@
       "en": "and the fool multiplies words. No one knows what is coming--who can tell him what will happen after him?",
       "de": "Ein Narr macht viele Worte; aber der Mensch weiß nicht, was gewesen ist, und wer will ihm sagen, was nach ihm werden wird?",
       "zh": "愚昧人多有言语， 人却不知将来有什么事； 他身后的事谁能告诉他呢？",
-      "ja": "愚者は言詞を衆くす 人は後に有ん事を知ず 誰かその身の後にあらんところの事を述るを得ん"
+      "ja": "愚者は言葉を多くする、しかし人はだれも後に起ることを知らない。だれがその身の後に起る事を告げることができようか。"
     },
     {
       "number": 15,
@@ -120,7 +120,7 @@
       "en": "A fool's work wearies him; he does not know the way to town.",
       "de": "Die Arbeit der Narren wird ihnen sauer, weil sie nicht wissen in die Stadt zu gehen.",
       "zh": "凡愚昧人，他的劳碌使自己困乏， 因为连进城的路，他也不知道。",
-      "ja": "愚者の勞苦はその身を疲らす彼は邑にいることをも知ざるなり"
+      "ja": "愚者の労苦はその身を疲れさせる、彼は町にはいる道をさえ知らない。"
     },
     {
       "number": 16,
@@ -128,7 +128,7 @@
       "en": "Woe to you, O land whose king was a servant and whose princes feast in the morning.",
       "de": "Weh dir, Land, dessen König ein Kind ist, und dessen Fürsten in der Frühe speisen!",
       "zh": "邦国啊，你的王若是孩童， 你的群臣早晨宴乐， 你就有祸了！",
-      "ja": "その王は童子にしてその侯伯は朝に食をなす國よ 汝は禍なるかな"
+      "ja": "あなたの王はわらべであって、その君たちが朝から、ごちそうを食べる国よ、あなたはわざわいだ。"
     },
     {
       "number": 17,
@@ -136,7 +136,7 @@
       "en": "Blessed are you, O land whose king is of noble birth and whose princes eat at a proper time--for strength and not for drunkenness.",
       "de": "Wohl dir, Land, dessen König edel ist, und dessen Fürsten zu rechter Zeit speisen, zur Stärke und nicht zur Lust!",
       "zh": "邦国啊，你的王若是贵胄之子， 你的群臣按时吃喝， 为要补力，不为酒醉， 你就有福了！",
-      "ja": "その王は貴族の子またその侯伯は酔樂むためならず力を補ふために適宜き時に食をなす國よ 汝は福なるかな"
+      "ja": "あなたの王は自主の子であって、その君たちが酔うためでなく、力を得るために、適当な時にごちそうを食べる国よ、あなたはさいわいだ。"
     },
     {
       "number": 18,
@@ -144,7 +144,7 @@
       "en": "If a man is lazy, the rafters sag; if his hands are idle, the house leaks.",
       "de": "Denn durch Faulheit sinken die Balken, und durch lässige Hände wird das Haus triefend.",
       "zh": "因人懒惰，房顶塌下； 因人手懒，房屋滴漏。",
-      "ja": "懶惰ところよりして屋背は落ち 手を垂をるところよりして家屋は漏る"
+      "ja": "怠惰によって屋根は落ち、無精によって家は漏る。"
     },
     {
       "number": 19,
@@ -152,7 +152,7 @@
       "en": "A feast is made for laughter, and wine makes life merry, but money is the answer for everything.",
       "de": "Das macht, sie halten Mahlzeiten, um zu lachen, und der Wein muß die Lebendigen erfreuen, und das Geld muß ihnen alles zuwege bringen.",
       "zh": "设摆筵席是为喜笑。 酒能使人快活； 钱能叫万事应心。",
-      "ja": "食事をもて笑ひ喜ぶの物となし酒をもて快樂を取れり 銀子は何事にも應ずるなり"
+      "ja": "食事は笑いのためになされ、酒は命を楽しませる。金銭はすべての事に応じる。"
     },
     {
       "number": 20,
@@ -160,7 +160,7 @@
       "en": "Do not revile the king even in your thoughts, or curse the rich in your bedroom, because a bird of the air may carry your words, and a bird on the wing may report what you say.",
       "de": "Fluche dem König nicht in deinem Herzen und fluche dem Reichen nicht in deiner Schlafkammer; denn die Vögel des Himmels führen die Stimme fort, und die Fittiche haben, sagen's weiter.",
       "zh": "你不可咒诅君王， 也不可心怀此念； 在你卧房也不可咒诅富户。 因为空中的鸟必传扬这声音， 有翅膀的也必述说这事。",
-      "ja": "汝心の中にても王たる者を詛ふなかれ また寝室にても富者を詛なかれ 天空の鳥その聲を傳へ羽翼ある者その事を布べければなり"
+      "ja": "あなたは心のうちでも王をのろってはならない、また寝室でも富める者をのろってはならない。空の鳥はあなたの声を伝え、翼のあるものは事を告げるからである。"
     }
   ]
 }

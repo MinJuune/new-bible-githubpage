@@ -8,7 +8,7 @@
       "en": "\"There is a mine for silver and a place where gold is refined.",
       "de": "Es hat das Silber seine Gänge, und das Gold, das man läutert seinen Ort.",
       "zh": "银子有矿； 炼金有方。",
-      "ja": "白銀掘いだす坑あり 煉るところの黄金は出處あり"
+      "ja": "しろがねには掘り出す穴があり、精錬するこがねには出どころがある。"
     },
     {
       "number": 2,
@@ -16,7 +16,7 @@
       "en": "Iron is taken from the earth, and copper is smelted from ore.",
       "de": "Eisen bringt man aus der Erde, und aus den Steinen schmelzt man Erz.",
       "zh": "铁从地里挖出； 铜从石中熔化。",
-      "ja": "鐡は土より取り 銅は石より鎔して獲るなり"
+      "ja": "くろがねは土から取り、あかがねは石から溶かして取る。"
     },
     {
       "number": 3,
@@ -24,7 +24,7 @@
       "en": "Man puts an end to the darkness; he searches the farthest recesses for ore in the blackest darkness.",
       "de": "Man macht der Finsternis ein Ende und findet zuletzt das Gestein tief verborgen.",
       "zh": "人为黑暗定界限， 查究幽暗阴翳的石头，直到极处，",
-      "ja": "人すなはち黑暗を破り極より極まで尋ね窮めて黑暗および死蔭の石を求む"
+      "ja": "人は暗やみを破り、いやはてまでも尋ねきわめて、暗やみおよび暗黒の中から鉱石を取る。"
     },
     {
       "number": 4,
@@ -32,7 +32,7 @@
       "en": "Far from where people dwell he cuts a shaft, in places forgotten by the foot of man; far from men he dangles and sways.",
       "de": "Man bricht einen Schacht von da aus, wo man wohnt; darin hangen und schweben sie als die Vergessenen, da kein Fuß hin tritt, fern von den Menschen.",
       "zh": "在无人居住之处刨开矿穴， 过路的人也想不到他们； 又与人远离，悬在空中摇来摇去。",
-      "ja": "その穴を穿つこと深くして上に住む人と遠く相離れ その上を歩む者まつたく之を覺えず 是のごとく身を縋下げ 遙に人と隔りて空に懸る"
+      "ja": "彼らは人の住む所を離れて縦穴をうがち、道行く人に忘れられ、人を離れて身をつりさげ、揺れ動く。"
     },
     {
       "number": 5,
@@ -40,7 +40,7 @@
       "en": "The earth, from which food comes, is transformed below as by fire;",
       "de": "Man zerwühlt unten die Erde wie mit Feuer, darauf doch oben die Speise wächst.",
       "zh": "至于地，能出粮食， 地内好像被火翻起来。",
-      "ja": "地その上は食物を出し 其下は火に覆へさるるがごとく覆へる"
+      "ja": "地はそこから食物を出す。その下は火でくつがえされるようにくつがえる。"
     },
     {
       "number": 6,
@@ -48,7 +48,7 @@
       "en": "sapphires come from its rocks, and its dust contains nuggets of gold.",
       "de": "Man findet Saphir an etlichen Orten, und Erdenklöße, da Gold ist.",
       "zh": "地中的石头有蓝宝石， 并有金沙。",
-      "ja": "その石の中には碧の玉のある處あり 黄金の沙またその内にあり"
+      "ja": "その石はサファイヤのある所、そこにはまた金塊がある。"
     },
     {
       "number": 7,
@@ -56,7 +56,7 @@
       "en": "No bird of prey knows that hidden path, no falcon's eye has seen it.",
       "de": "Den Steig kein Adler erkannt hat und kein Geiersauge gesehen;",
       "zh": "矿中的路鸷鸟不得知道； 鹰眼也未见过。",
-      "ja": "その逕は鷙鳥もこれを知ず 鷹の目もこれを看ず"
+      "ja": "その道は猛禽も知らず、たかの目もこれを見ず、"
     },
     {
       "number": 8,
@@ -64,7 +64,7 @@
       "en": "Proud beasts do not set foot on it, and no lion prowls there.",
       "de": "es hat das stolze Wild nicht darauf getreten und ist kein Löwe darauf gegangen.",
       "zh": "狂傲的野兽未曾行过； 猛烈的狮子也未曾经过。",
-      "ja": "鷙き獸も未だこれを踐ず 猛き獅子も未だこれを通らず"
+      "ja": "猛獣もこれを踏まず、ししもこれを通らなかった。"
     },
     {
       "number": 9,
@@ -72,7 +72,7 @@
       "en": "Man's hand assaults the flinty rock and lays bare the roots of the mountains.",
       "de": "Auch legt man die Hand an die Felsen und gräbt die Berge um.",
       "zh": "人伸手凿开坚石， 倾倒山根，",
-      "ja": "人堅き磐に手を加へまた山を根より倒し"
+      "ja": "人は堅い岩に手をくだして、山を根元からくつがえす。"
     },
     {
       "number": 10,
@@ -80,7 +80,7 @@
       "en": "He tunnels through the rock; his eyes see all its treasures.",
       "de": "Man reißt Bäche aus den Felsen; und alles, was köstlich ist, sieht das Auge.",
       "zh": "在磐石中凿出水道， 亲眼看见各样宝物。",
-      "ja": "岩に河を掘り各種の貴き物を目に見とめ"
+      "ja": "彼は岩に坑道を掘り、その目はもろもろの尊い物を見る。"
     },
     {
       "number": 11,
@@ -88,7 +88,7 @@
       "en": "He searches the sources of the rivers and brings hidden things to light.",
       "de": "Man wehrt dem Strome des Wassers und bringt, das darinnen verborgen ist, ans Licht.",
       "zh": "他封闭水不得滴流， 使隐藏的物显露出来。",
-      "ja": "水路を塞ぎて漏ざらしめ隱れたる寳物を光明に取いだすなり"
+      "ja": "彼は水路をふさいで、漏れないようにし、隠れた物を光に取り出す。"
     },
     {
       "number": 12,
@@ -96,7 +96,7 @@
       "en": "\"But where can wisdom be found? Where does understanding dwell?",
       "de": "Wo will man aber die Weisheit finden? und wo ist die Stätte des Verstandes?",
       "zh": "然而，智慧有何处可寻？ 聪明之处在哪里呢？",
-      "ja": "然ながら智慧は何處よりか覓め得ん 明哲の在る所は何處ぞや"
+      "ja": "しかし知恵はどこに見いだされるか。悟りのある所はどこか。"
     },
     {
       "number": 13,
@@ -104,7 +104,7 @@
       "en": "Man does not comprehend its worth; it cannot be found in the land of the living.",
       "de": "Niemand weiß, wo sie liegt, und sie wird nicht gefunden im Lande der Lebendigen.",
       "zh": "智慧的价值无人能知， 在活人之地也无处可寻。",
-      "ja": "人その價を知ず人のすめる地に獲べからず"
+      "ja": "人はそこに至る道を知らない、また生ける者の地でそれを獲ることができない。"
     },
     {
       "number": 14,
@@ -112,7 +112,7 @@
       "en": "The deep says, 'It is not in me'; the sea says, 'It is not with me.'",
       "de": "Die Tiefe spricht: “Sie ist in mir nicht”; und das Meer spricht: “Sie ist nicht bei mir”.",
       "zh": "深渊说：不在我内； 沧海说：不在我中。",
-      "ja": "淵は言ふ我の内に在ずと 海は言ふ我と偕ならずと"
+      "ja": "淵は言う、『それはわたしのうちにない』と。また海は言う、『わたしのもとにない』と。"
     },
     {
       "number": 15,
@@ -120,7 +120,7 @@
       "en": "It cannot be bought with the finest gold, nor can its price be weighed in silver.",
       "de": "Man kann nicht Gold um sie geben noch Silber darwägen, sie zu bezahlen.",
       "zh": "智慧非用黄金可得， 也不能平白银为它的价值。",
-      "ja": "精金も之に換るに足ず 銀も秤りてその價となすを得ず"
+      "ja": "精金もこれと換えることはできない。銀も量ってその価とすることはできない。"
     },
     {
       "number": 16,
@@ -128,7 +128,7 @@
       "en": "It cannot be bought with the gold of Ophir, with precious onyx or sapphires.",
       "de": "Es gilt ihr nicht gleich ophirisch Gold oder köstlicher Onyx und Saphir.",
       "zh": "俄斐金和贵重的红玛瑙， 并蓝宝石，不足与较量；",
-      "ja": "オフルの金にてもその價を量るべからず 貴き靑玉も碧玉もまた然り"
+      "ja": "オフルの金をもってしても、その価を量ることはできない。尊い縞めのうも、サファイヤも同様である。"
     },
     {
       "number": 17,
@@ -136,7 +136,7 @@
       "en": "Neither gold nor crystal can compare with it, nor can it be had for jewels of gold.",
       "de": "Gold und Glas kann man ihr nicht vergleichen noch um sie golden Kleinod wechseln.",
       "zh": "黄金和玻璃不足与比较； 精金的器皿不足与兑换。",
-      "ja": "黄金も玻璃もこれに並ぶ能はず 精金の器皿も之に換るに足ず"
+      "ja": "こがねも、玻璃もこれに並ぶことができない。また精金の器物もこれと換えることができない。"
     },
     {
       "number": 18,
@@ -144,7 +144,7 @@
       "en": "Coral and jasper are not worthy of mention; the price of wisdom is beyond rubies.",
       "de": "Korallen und Kristall achtet man gegen sie nicht. Die Weisheit ist höher zu wägen denn Perlen.",
       "zh": "珊瑚、水晶都不足论； 智慧的价值胜过珍珠。",
-      "ja": "珊瑚も水晶も論にたらず 智慧を得るは眞珠を得るに勝る"
+      "ja": "さんごも水晶も言うに足りない。知恵を得るのは真珠を得るのにまさる。"
     },
     {
       "number": 19,
@@ -152,7 +152,7 @@
       "en": "The topaz of Cush cannot compare with it; it cannot be bought with pure gold.",
       "de": "Topaz aus dem Mohrenland wird ihr nicht gleich geschätzt, und das reinste Gold gilt ihr nicht gleich.",
       "zh": "古实的红璧玺不足与比较； 精金也不足与较量。",
-      "ja": "エテオビアより出る黄玉もこれに並ぶあたはず 純金をもてするともその價を量るべからず"
+      "ja": "エチオピヤのトパズもこれに並ぶことができない。純金をもってしても、その価を量ることはできない。"
     },
     {
       "number": 20,
@@ -160,7 +160,7 @@
       "en": "\"Where then does wisdom come from? Where does understanding dwell?",
       "de": "Woher kommt denn die Weisheit? und wo ist die Stätte des Verstandes?",
       "zh": "智慧从何处来呢？ 聪明之处在哪里呢？",
-      "ja": "然ば智慧は何處より來るや 明哲の在る所は何處ぞや"
+      "ja": "それでは知恵はどこから来るか。悟りのある所はどこか。"
     },
     {
       "number": 21,
@@ -168,7 +168,7 @@
       "en": "It is hidden from the eyes of every living thing, concealed even from the birds of the air.",
       "de": "Sie ist verhohlen vor den Augen aller Lebendigen, auch den Vögeln unter dem Himmel.",
       "zh": "是向一切有生命的眼目隐藏， 向空中的飞鸟掩蔽。",
-      "ja": "是は一切の生物の目に隱れ 天空の鳥にも見えず"
+      "ja": "これはすべての生き物の目に隠され、空の鳥にも隠されている。"
     },
     {
       "number": 22,
@@ -176,7 +176,7 @@
       "en": "Destruction and Death say, 'Only a rumor of it has reached our ears.'",
       "de": "Der Abgrund und der Tod sprechen: “Wir haben mit unsern Ohren ihr Gerücht gehört.”",
       "zh": "灭没和死亡说： 我们风闻其名。",
-      "ja": "滅亡も死も言ふ 我等はその風聲を耳に聞し而已"
+      "ja": "滅びも死も言う、『われわれはそのうわさを耳に聞いただけだ』。"
     },
     {
       "number": 23,
@@ -184,7 +184,7 @@
       "en": "God understands the way to it and he alone knows where it dwells,",
       "de": "Gott weiß den Weg dazu und kennt ihre Stätte.",
       "zh": "神明白智慧的道路， 晓得智慧的所在。",
-      "ja": "神その道を曉り給ふ 彼その所を知りたまふ"
+      "ja": "神はこれに至る道を悟っておられる、彼はそのある所を知っておられる。"
     },
     {
       "number": 24,
@@ -192,7 +192,7 @@
       "en": "for he views the ends of the earth and sees everything under the heavens.",
       "de": "Denn er sieht die Enden der Erde und schaut alles, was unter dem Himmel ist.",
       "zh": "因他鉴察直到地极， 遍观普天之下，",
-      "ja": "そは彼は地の極までも觀そなはし天が下を看きはめたまへばなり"
+      "ja": "彼は地の果までもみそなわし、天が下を見きわめられるからだ。"
     },
     {
       "number": 25,
@@ -200,7 +200,7 @@
       "en": "When he established the force of the wind and measured out the waters,",
       "de": "Da er dem Winde sein Gewicht machte und setzte dem Wasser sein gewisses Maß;",
       "zh": "要为风定轻重， 又度量诸水；",
-      "ja": "風にその重量を與へ 水を度りてその量を定めたまひし時"
+      "ja": "彼が風に重さを与え、水をますで量られたとき、"
     },
     {
       "number": 26,
@@ -208,7 +208,7 @@
       "en": "when he made a decree for the rain and a path for the thunderstorm,",
       "de": "da er dem Regen ein Ziel machte und dem Blitz und Donner den Weg:",
       "zh": "他为雨露定命令， 为雷电定道路。",
-      "ja": "雨のために法を立て 雷霆の光のために途を設けたまひし時"
+      "ja": "彼が雨のために規定を設け、雷のひらめきのために道を設けられたとき、"
     },
     {
       "number": 27,
@@ -216,7 +216,7 @@
       "en": "then he looked at wisdom and appraised it; he confirmed it and tested it.",
       "de": "da sah er sie und verkündigte sie, bereitete sie und ergründete sie",
       "zh": "那时他看见智慧，而且述说； 他坚定，并且查究。",
-      "ja": "智慧を見て之を顯はし之を立て試みたまへり"
+      "ja": "彼は知恵を見て、これをあらわし、これを確かめ、これをきわめられた。"
     },
     {
       "number": 28,
@@ -224,7 +224,7 @@
       "en": "And he said to man, 'The fear of the Lord--that is wisdom, and to shun evil is understanding.'\"",
       "de": "und sprach zu den Menschen: Siehe, die Furcht des Herrn, das ist Weisheit; und meiden das Böse, das ist Verstand.",
       "zh": "他对人说：敬畏主就是智慧； 远离恶便是聪明。",
-      "ja": "また人に言たまはく視よ主を畏るるは是智慧なり 惡を離るるは明哲なり"
+      "ja": "そして人に言われた、『見よ、主を恐れることは知恵である、悪を離れることは悟りである』と」。"
     }
   ]
 }

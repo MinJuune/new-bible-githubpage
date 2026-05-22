@@ -8,7 +8,7 @@
       "en": "That same day Jesus went out of the house and sat by the lake.",
       "de": "An demselben Tage ging Jesus aus dem Hause und setzte sich an das Meer.",
       "zh": "当那一天，耶稣从房子里出来，坐在海边。",
-      "ja": "その日、イエスは家を出て、湖のほとりにすわっておられた。"
+      "ja": "その日、イエスは家を出て、海べにすわっておられた。"
     },
     {
       "number": 2,
@@ -16,7 +16,7 @@
       "en": "Such large crowds gathered around him that he got into a boat and sat in it, while all the people stood on the shore.",
       "de": "Und es versammelte sich viel Volks zu ihm, also daß er in das Schiff trat und saß, und alles Volk stand am Ufer.",
       "zh": "有许多人到他那里聚集，他只得上船坐下，众人都站在岸上。",
-      "ja": "すると、大ぜいの群衆がみもとに集まったので、イエスは舟に移って腰をおろされた。それで群衆はみな浜に立っていた。"
+      "ja": "ところが、大ぜいの群衆がみもとに集まったので、イエスは舟に乗ってすわられ、群衆はみな岸に立っていた。"
     },
     {
       "number": 3,
@@ -24,7 +24,7 @@
       "en": "Then he told them many things in parables, saying: \"A farmer went out to sow his seed.",
       "de": "Und er redete zu ihnen mancherlei durch Gleichnisse und sprach: Siehe, es ging ein Säemann aus, zu säen.",
       "zh": "他用比喻对他们讲许多道理，说：「有一个撒种的出去撒种；",
-      "ja": "イエスは多くのことを、彼らにたとえで話して聞かされた。 「種を蒔く人が種蒔きに出かけた。"
+      "ja": "イエスは譬で多くの事を語り、こう言われた、「見よ、種まきが種をまきに出て行った。"
     },
     {
       "number": 4,
@@ -32,7 +32,7 @@
       "en": "As he was scattering the seed, some fell along the path, and the birds came and ate it up.",
       "de": "Und indem er säte, fiel etliches an den Weg; da kamen die Vögel und fraßen's auf.",
       "zh": "撒的时候，有落在路旁的，飞鸟来吃尽了；",
-      "ja": "蒔いているとき、道ばたに落ちた種があった。すると鳥が来て食べてしまった。"
+      "ja": "まいているうちに、道ばたに落ちた種があった。すると、鳥がきて食べてしまった。"
     },
     {
       "number": 5,
@@ -40,7 +40,7 @@
       "en": "Some fell on rocky places, where it did not have much soil. It sprang up quickly, because the soil was shallow.",
       "de": "Etliches fiel in das Steinige, wo es nicht viel Erde hatte; und ging bald auf, darum daß es nicht tiefe Erde hatte.",
       "zh": "有落在土浅石头地上的，土既不深，发苗最快，",
-      "ja": "また、別の種が土の薄い岩地に落ちた。土が深くなかったので、すぐに芽を出した。"
+      "ja": "ほかの種は土の薄い石地に落ちた。そこは土が深くないので、すぐ芽を出したが、"
     },
     {
       "number": 6,
@@ -48,7 +48,7 @@
       "en": "But when the sun came up, the plants were scorched, and they withered because they had no root.",
       "de": "Als aber die Sonne aufging, verwelkte es, und dieweil es nicht Wurzel hatte, ward es dürre.",
       "zh": "日头出来一晒，因为没有根，就枯干了；",
-      "ja": "しかし、日が上ると、焼けて、根がないために枯れてしまった。"
+      "ja": "日が上ると焼けて、根がないために枯れてしまった。"
     },
     {
       "number": 7,
@@ -56,7 +56,7 @@
       "en": "Other seed fell among thorns, which grew up and choked the plants.",
       "de": "Etliches fiel unter die Dornen; und die Dornen wuchsen auf und erstickten's.",
       "zh": "有落在荆棘里的，荆棘长起来，把它挤住了；",
-      "ja": "また、別の種はいばらの中に落ちたが、いばらが伸びて、ふさいでしまった。"
+      "ja": "ほかの種はいばらの地に落ちた。すると、いばらが伸びて、ふさいでしまった。"
     },
     {
       "number": 8,
@@ -64,7 +64,7 @@
       "en": "Still other seed fell on good soil, where it produced a crop--a hundred, sixty or thirty times what was sown.",
       "de": "Etliches fiel auf gutes Land und trug Frucht, etliches hundertfältig, etliches sechzigfältig, etliches dreißigfältig.",
       "zh": "又有落在好土里的，就结实，有一百倍的，有六十倍的，有三十倍的。",
-      "ja": "別の種は良い地に落ちて、あるものは百倍、あるものは六十倍、あるものは三十倍の実を結んだ。"
+      "ja": "ほかの種は良い地に落ちて実を結び、あるものは百倍、あるものは六十倍、あるものは三十倍にもなった。"
     },
     {
       "number": 9,
@@ -72,7 +72,7 @@
       "en": "He who has ears, let him hear.\"",
       "de": "Wer Ohren hat zu hören, der höre!",
       "zh": "有耳可听的，就应当听！」",
-      "ja": "耳のある者は聞きなさい。」"
+      "ja": "耳のある者は聞くがよい」。"
     },
     {
       "number": 10,
@@ -80,7 +80,7 @@
       "en": "The disciples came to him and asked, \"Why do you speak to the people in parables?\"",
       "de": "Und die Jünger traten zu ihm und sprachen: Warum redest du zu ihnen durch Gleichnisse?",
       "zh": "门徒进前来，问耶稣说：「对众人讲话，为什么用比喻呢？」",
-      "ja": "すると、弟子たちが近寄って来て、イエスに言った。「なぜ、彼らにたとえでお話しになったのですか。」"
+      "ja": "それから、弟子たちがイエスに近寄ってきて言った、「なぜ、彼らに譬でお話しになるのですか」。"
     },
     {
       "number": 11,
@@ -88,7 +88,7 @@
       "en": "He replied, \"The knowledge of the secrets of the kingdom of heaven has been given to you, but not to them.",
       "de": "Er antwortete und sprach: Euch ist es gegeben, daß ihr das Geheimnis des Himmelreichs verstehet; diesen aber ist es nicht gegeben.",
       "zh": "耶稣回答说：「因为天国的奥秘只叫你们知道，不叫他们知道。",
-      "ja": "イエスは答えて言われた。「あなたがたには、天の御国の奥義を知ることが許されているが、彼らには許されていません。"
+      "ja": "そこでイエスは答えて言われた、「あなたがたには、天国の奥義を知ることが許されているが、彼らには許されていない。"
     },
     {
       "number": 12,
@@ -96,7 +96,7 @@
       "en": "Whoever has will be given more, and he will have an abundance. Whoever does not have, even what he has will be taken from him.",
       "de": "Denn wer da hat, dem wird gegeben, daß er die Fülle habe; wer aber nicht hat, von dem wird auch das genommen was er hat.",
       "zh": "凡有的，还要加给他，叫他有余；凡没有的，连他所有的，也要夺去。",
-      "ja": "というのは、持っている者はさらに与えられて豊かになり、持たない者は持っているものまでも取り上げられてしまうからです。"
+      "ja": "おおよそ、持っている人は与えられて、いよいよ豊かになるが、持っていない人は、持っているものまでも取り上げられるであろう。"
     },
     {
       "number": 13,
@@ -104,7 +104,7 @@
       "en": "This is why I speak to them in parables: \"Though seeing, they do not see; though hearing, they do not hear or understand.",
       "de": "Darum rede ich zu ihnen durch Gleichnisse. Denn mit sehenden Augen sehen sie nicht, und mit hörenden Ohren hören sie nicht; denn sie verstehen es nicht.",
       "zh": "所以我用比喻对他们讲，是因他们看也看不见，听也听不见，也不明白。",
-      "ja": "わたしが彼らにたとえで話すのは、彼らは見てはいるが見ず、聞いてはいるが聞かず、また、悟ることもしないからです。"
+      "ja": "だから、彼らには譬で語るのである。それは彼らが、見ても見ず、聞いても聞かず、また悟らないからである。"
     },
     {
       "number": 14,
@@ -112,7 +112,7 @@
       "en": "In them is fulfilled the prophecy of Isaiah: \"'You will be ever hearing but never understanding; you will be ever seeing but never perceiving.",
       "de": "Und über ihnen wird die Weissagung Jesaja's erfüllt, die da sagt: “Mit den Ohren werdet ihr hören, und werdet es nicht verstehen; und mit sehenden Augen werdet ihr sehen, und werdet es nicht verstehen.",
       "zh": "在他们身上，正应了以赛亚的预言，说： 你们听是要听见，却不明白； 看是要看见，却不晓得；",
-      "ja": "こうしてイザヤの告げた預言が彼らの上に実現したのです。 『あなたがたは確かに聞きはするが、 決して悟らない。 確かに見てはいるが、決してわからない。"
+      "ja": "こうしてイザヤの言った預言が、彼らの上に成就したのである。『あなたがたは聞くには聞くが、決して悟らない。見るには見るが、決して認めない。"
     },
     {
       "number": 15,
@@ -120,7 +120,7 @@
       "en": "For this people's heart has become calloused; they hardly hear with their ears, and they have closed their eyes. Otherwise they might see with their eyes, hear with their ears, understand with their hearts and turn, and I would heal them.'",
       "de": "Denn dieses Volkes Herz ist verstockt, und ihre Ohren hören übel, und ihre Augen schlummern, auf daß sie nicht dermaleinst mit den Augen sehen und mit den Ohren hören und mit dem Herzen verstehen und sich bekehren, daß ich ihnen hülfe.”",
       "zh": "因为这百姓油蒙了心， 耳朵发沉， 眼睛闭着， 恐怕眼睛看见， 耳朵听见， 心里明白，回转过来， 我就医治他们。",
-      "ja": "この民の心は鈍くなり、 その耳は遠く、 目はつぶっているからである。 それは、彼らがその目で見、その耳で聞き、 その心で悟って立ち返り、 わたしにいやされることのないためである。』"
+      "ja": "この民の心は鈍くなり、その耳は聞えにくく、その目は閉じている。それは、彼らが目で見ず、耳で聞かず、心で悟らず、悔い改めていやされることがないためである』。"
     },
     {
       "number": 16,
@@ -128,7 +128,7 @@
       "en": "But blessed are your eyes because they see, and your ears because they hear.",
       "de": "Aber selig sind eure Augen, daß sie sehen, und eure Ohren, daß sie hören.",
       "zh": "「但你们的眼睛是有福的，因为看见了；你们的耳朵也是有福的，因为听见了。",
-      "ja": "しかし、あなたがたの目は見ているから幸いです。また、あなたがたの耳は聞いているから幸いです。"
+      "ja": "しかし、あなたがたの目は見ており、耳は聞いているから、さいわいである。"
     },
     {
       "number": 17,
@@ -136,7 +136,7 @@
       "en": "For I tell you the truth, many prophets and righteous men longed to see what you see but did not see it, and to hear what you hear but did not hear it.",
       "de": "Wahrlich ich sage euch: Viele Propheten und Gerechte haben begehrt zu sehen, was ihr sehet, und haben's nicht gesehen, und zu hören, was ihr höret, und haben's nicht gehört.",
       "zh": "我实在告诉你们，从前有许多先知和义人要看你们所看的，却没有看见，要听你们所听的，却没有听见。」",
-      "ja": "まことに、あなたがたに告げます。多くの預言者や義人たちが、あなたがたの見ているものを見たいと、切に願ったのに見られず、あなたがたの聞いていることを聞きたいと、切に願ったのに聞けなかったのです。"
+      "ja": "あなたがたによく言っておく。多くの預言者や義人は、あなたがたの見ていることを見ようと熱心に願ったが、見ることができず、またあなたがたの聞いていることを聞こうとしたが、聞けなかったのである。"
     },
     {
       "number": 18,
@@ -144,7 +144,7 @@
       "en": "\"Listen then to what the parable of the sower means:",
       "de": "So hört nun ihr dieses Gleichnis von dem Säemann:",
       "zh": "「所以，你们当听这撒种的比喻。",
-      "ja": "ですから、種蒔きのたとえを聞きなさい。"
+      "ja": "そこで、種まきの譬を聞きなさい。"
     },
     {
       "number": 19,
@@ -152,7 +152,7 @@
       "en": "When anyone hears the message about the kingdom and does not understand it, the evil one comes and snatches away what was sown in his heart. This is the seed sown along the path.",
       "de": "Wenn jemand das Wort von dem Reich hört und nicht versteht, so kommt der Arge und reißt hinweg, was da gesät ist in sein Herz; und das ist der, bei welchem an dem Wege gesät ist.",
       "zh": "凡听见天国道理不明白的，那恶者就来，把所撒在他心里的夺了去；这就是撒在路旁的了。",
-      "ja": "御国のことばを聞いても悟らないと、悪い者が来て、その人の心に蒔かれたものを奪って行きます。道ばたに蒔かれるとは、このような人のことです。"
+      "ja": "だれでも御国の言を聞いて悟らないならば、悪い者がきて、その人の心にまかれたものを奪いとって行く。道ばたにまかれたものというのは、そういう人のことである。"
     },
     {
       "number": 20,
@@ -160,7 +160,7 @@
       "en": "The one who received the seed that fell on rocky places is the man who hears the word and at once receives it with joy.",
       "de": "Das aber auf das Steinige gesät ist, das ist, wenn jemand das Wort hört und es alsbald aufnimmt mit Freuden;",
       "zh": "撒在石头地上的，就是人听了道，当下欢喜领受，",
-      "ja": "また岩地に蒔かれるとは、みことばを聞くと、すぐに喜んで受け入れる人のことです。"
+      "ja": "石地にまかれたものというのは、御言を聞くと、すぐに喜んで受ける人のことである。"
     },
     {
       "number": 21,
@@ -168,7 +168,7 @@
       "en": "But since he has no root, he lasts only a short time. When trouble or persecution comes because of the word, he quickly falls away.",
       "de": "aber er hat nicht Wurzel in sich, sondern ist wetterwendisch; wenn sich Trübsal und Verfolgung erhebt um des Wortes willen, so ärgert er sich alsbald.",
       "zh": "只因心里没有根，不过是暂时的，及至为道遭了患难，或是受了逼迫，立刻就跌倒了。",
-      "ja": "しかし、自分のうちに根がないため、しばらくの間そうするだけで、みことばのために困難や迫害が起こると、すぐにつまずいてしまいます。"
+      "ja": "その中に根がないので、しばらく続くだけであって、御言のために困難や迫害が起ってくると、すぐつまずいてしまう。"
     },
     {
       "number": 22,
@@ -176,7 +176,7 @@
       "en": "The one who received the seed that fell among the thorns is the man who hears the word, but the worries of this life and the deceitfulness of wealth choke it, making it unfruitful.",
       "de": "Das aber unter die Dornen gesät ist, das ist, wenn jemand das Wort hört, und die Sorge dieser Welt und der Betrug des Reichtums erstickt das Wort, und er bringt nicht Frucht.",
       "zh": "撒在荆棘里的，就是人听了道，后来有世上的思虑、钱财的迷惑把道挤住了，不能结实。",
-      "ja": "また、いばらの中に蒔かれるとは、みことばを聞くが、この世の心づかいと富の惑わしとがみことばをふさぐため、実を結ばない人のことです。"
+      "ja": "また、いばらの中にまかれたものとは、御言を聞くが、世の心づかいと富の惑わしとが御言をふさぐので、実を結ばなくなる人のことである。"
     },
     {
       "number": 23,
@@ -184,7 +184,7 @@
       "en": "But the one who received the seed that fell on good soil is the man who hears the word and understands it. He produces a crop, yielding a hundred, sixty or thirty times what was sown.\"",
       "de": "Das aber in das gute Land gesät ist, das ist, wenn jemand das Wort hört und versteht es und dann auch Frucht bringt; und etlicher trägt hundertfältig, etlicher aber sechzigfältig, etlicher dreißigfältig.",
       "zh": "撒在好地上的，就是人听道明白了，后来结实，有一百倍的，有六十倍的，有三十倍的。」",
-      "ja": "ところが、良い地に蒔かれるとは、みことばを聞いてそれを悟る人のことで、その人はほんとうに実を結び、あるものは百倍、あるものは六十倍、あるものは三十倍の実を結びます。」"
+      "ja": "また、良い地にまかれたものとは、御言を聞いて悟る人のことであって、そういう人が実を結び、百倍、あるいは六十倍、あるいは三十倍にもなるのである」。"
     },
     {
       "number": 24,
@@ -192,7 +192,7 @@
       "en": "Jesus told them another parable: \"The kingdom of heaven is like a man who sowed good seed in his field.",
       "de": "Er legte ihnen ein anderes Gleichnis vor und sprach: Das Himmelreich ist gleich einem Menschen, der guten Samen auf seinen Acker säte.",
       "zh": "耶稣又设个比喻对他们说：「天国好像人撒好种在田里，",
-      "ja": "イエスは、また別のたとえを彼らに示して言われた。 「天の御国は、こういう人にたとえることができます。ある人が自分の畑に良い種を蒔いた。"
+      "ja": "また、ほかの譬を彼らに示して言われた、「天国は、良い種を自分の畑にまいておいた人のようなものである。"
     },
     {
       "number": 25,
@@ -200,7 +200,7 @@
       "en": "But while everyone was sleeping, his enemy came and sowed weeds among the wheat, and went away.",
       "de": "Da aber die Leute schliefen, kam sein Feind und säte Unkraut zwischen den Weizen und ging davon.",
       "zh": "及至人睡觉的时候，有仇敌来，将稗子撒在麦子里就走了。",
-      "ja": "ところが、人々の眠っている間に、彼の敵が来て麦の中に毒麦を蒔いて行った。"
+      "ja": "人々が眠っている間に敵がきて、麦の中に毒麦をまいて立ち去った。"
     },
     {
       "number": 26,
@@ -208,7 +208,7 @@
       "en": "When the wheat sprouted and formed heads, then the weeds also appeared.",
       "de": "Da nun das Kraut wuchs und Frucht brachte, da fand sich auch das Unkraut.",
       "zh": "到长苗吐穗的时候，稗子也显出来。",
-      "ja": "麦が芽ばえ、やがて実ったとき、毒麦も現われた。"
+      "ja": "芽がはえ出て実を結ぶと、同時に毒麦もあらわれてきた。"
     },
     {
       "number": 27,
@@ -216,7 +216,7 @@
       "en": "\"The owner's servants came to him and said, 'Sir, didn't you sow good seed in your field? Where then did the weeds come from?'",
       "de": "Da traten die Knechte zu dem Hausvater und sprachen: Herr, hast du nicht guten Samen auf deinen Acker gesät? Woher hat er denn das Unkraut?",
       "zh": "田主的仆人来告诉他说：『主啊，你不是撒好种在田里吗？从哪里来的稗子呢？』",
-      "ja": "それで、その家の主人のしもべたちが来て言った。『ご主人。畑には良い麦を蒔かれたのではありませんか。どうして毒麦が出たのでしょう。』"
+      "ja": "僕たちがきて、家の主人に言った、『ご主人様、畑におまきになったのは、良い種ではありませんでしたか。どうして毒麦がはえてきたのですか』。"
     },
     {
       "number": 28,
@@ -224,7 +224,7 @@
       "en": "\"'An enemy did this,' he replied. \"The servants asked him, 'Do you want us to go and pull them up?'",
       "de": "Er sprach zu ihnen: Das hat der Feind getan. Da sagten die Knechte: Willst du das wir hingehen und es ausjäten?",
       "zh": "主人说：『这是仇敌做的。』仆人说：『你要我们去薅出来吗？』",
-      "ja": "主人は言った。『敵のやったことです。』すると、しもべたちは言った。『では、私たちが行ってそれを抜き集めましょうか。』"
+      "ja": "主人は言った、『それは敵のしわざだ』。すると僕たちが言った『では行って、それを抜き集めましょうか』。"
     },
     {
       "number": 29,
@@ -232,7 +232,7 @@
       "en": "\"'No,' he answered, 'because while you are pulling the weeds, you may root up the wheat with them.",
       "de": "Er sprach: Nein! auf daß ihr nicht zugleich den Weizen mit ausraufet, so ihr das Unkraut ausjätet.",
       "zh": "主人说：『不必，恐怕薅稗子，连麦子也拔出来。",
-      "ja": "だが、主人は言った。『いやいや。毒麦を抜き集めるうちに、麦もいっしょに抜き取るかもしれない。"
+      "ja": "彼は言った、『いや、毒麦を集めようとして、麦も一緒に抜くかも知れない。"
     },
     {
       "number": 30,
@@ -240,7 +240,7 @@
       "en": "Let both grow together until the harvest. At that time I will tell the harvesters: First collect the weeds and tie them in bundles to be burned; then gather the wheat and bring it into my barn.'\"",
       "de": "Lasset beides miteinander wachsen bis zur Ernte; und um der Ernte Zeit will ich zu den Schnittern sagen: Sammelt zuvor das Unkraut und bindet es in Bündlein, daß man es verbrenne; aber den Weizen sammelt mir in meine Scheuer.",
       "zh": "容这两样一齐长，等着收割。当收割的时候，我要对收割的人说，先将稗子薅出来，捆成捆，留着烧；惟有麦子要收在仓里。』」",
-      "ja": "だから、収穫まで、両方とも育つままにしておきなさい。収穫の時期になったら、私は刈る人たちに、まず、毒麦を集め、焼くために束にしなさい。麦のほうは、集めて私の倉に納めなさい、と言いましょう。』」"
+      "ja": "収穫まで、両方とも育つままにしておけ。収穫の時になったら、刈る者に、まず毒麦を集めて束にして焼き、麦の方は集めて倉に入れてくれ、と言いつけよう』」。"
     },
     {
       "number": 31,
@@ -248,7 +248,7 @@
       "en": "He told them another parable: \"The kingdom of heaven is like a mustard seed, which a man took and planted in his field.",
       "de": "Ein anderes Gleichnis legte er ihnen vor und sprach: Das Himmelreich ist gleich einem Senfkorn, das ein Mensch nahm und säte es auf seinen Acker;",
       "zh": "他又设个比喻对他们说：「天国好像一粒芥菜种，有人拿去种在田里。",
-      "ja": "イエスは、また別のたとえを彼らに示して言われた。「天の御国は、からし種のようなものです。それを取って、畑に蒔くと、"
+      "ja": "また、ほかの譬を彼らに示して言われた、「天国は、一粒のからし種のようなものである。ある人がそれをとって畑にまくと、"
     },
     {
       "number": 32,
@@ -256,7 +256,7 @@
       "en": "Though it is the smallest of all your seeds, yet when it grows, it is the largest of garden plants and becomes a tree, so that the birds of the air come and perch in its branches.\"",
       "de": "welches ist das kleinste unter allem Samen; wenn er erwächst, so ist es das größte unter dem Kohl und wird ein Baum, daß die Vögel unter dem Himmel kommen und wohnen unter seinen Zweigen.",
       "zh": "这原是百种里最小的，等到长起来，却比各样的菜都大，且成了树，天上的飞鸟来宿在它的枝上。」",
-      "ja": "どんな種よりも小さいのですが、生長すると、どの野菜よりも大きくなり、空の鳥が来て、その枝に巣を作るほどの木になります。」"
+      "ja": "それはどんな種よりも小さいが、成長すると、野菜の中でいちばん大きくなり、空の鳥がきて、その枝に宿るほどの木になる」。"
     },
     {
       "number": 33,
@@ -264,7 +264,7 @@
       "en": "He told them still another parable: \"The kingdom of heaven is like yeast that a woman took and mixed into a large amount of flour until it worked all through the dough.\"",
       "de": "Ein anderes Gleichnis redete er zu ihnen: Das Himmelreich ist gleich einem Sauerteig, den ein Weib nahm und unter drei Scheffel Mehl vermengte, bis es ganz durchsäuert ward.",
       "zh": "他又对他们讲个比喻说：「天国好像面酵，有妇人拿来，藏在三斗面里，直等全团都发起来。」",
-      "ja": "イエスは、また別のたとえを話された。「天の御国は、パン種のようなものです。女が、パン種を取って、三サトンの粉の中に入れると、全体がふくらんで来ます。」"
+      "ja": "またほかの譬を彼らに語られた、「天国は、パン種のようなものである。女がそれを取って三斗の粉の中に混ぜると、全体がふくらんでくる」。"
     },
     {
       "number": 34,
@@ -272,7 +272,7 @@
       "en": "Jesus spoke all these things to the crowd in parables; he did not say anything to them without using a parable.",
       "de": "Solches alles redete Jesus durch Gleichnisse zu dem Volk, und ohne Gleichnis redete er nicht zu ihnen,",
       "zh": "这都是耶稣用比喻对众人说的话；若不用比喻，就不对他们说什么。",
-      "ja": "イエスは、これらのことをみな、たとえで群衆に話され、たとえを使わずには何もお話しにならなかった。"
+      "ja": "イエスはこれらのことをすべて、譬で群衆に語られた。譬によらないでは何事も彼らに語られなかった。"
     },
     {
       "number": 35,
@@ -280,7 +280,7 @@
       "en": "So was fulfilled what was spoken through the prophet: \"I will open my mouth in parables, I will utter things hidden since the creation of the world.\"",
       "de": "auf das erfüllet würde, was gesagt ist durch den Propheten, der da spricht: Ich will meinen Mund auftun in Gleichnissen und will aussprechen die Heimlichkeiten von Anfang der Welt.",
       "zh": "这是要应验先知的话，说： 我要开口用比喻， 把创世以来所隐藏的事发明出来。",
-      "ja": "それは、預言者を通して言われた事が成就するためであった。 「わたしはたとえ話をもって口を開き、 世の初めから隠されていることどもを物語ろう。」"
+      "ja": "これは預言者によって言われたことが、成就するためである、「わたしは口を開いて譬を語り、世の初めから隠されていることを語り出そう」。"
     },
     {
       "number": 36,
@@ -288,7 +288,7 @@
       "en": "Then he left the crowd and went into the house. His disciples came to him and said, \"Explain to us the parable of the weeds in the field.\"",
       "de": "Da ließ Jesus das Volk von sich und kam heim. Und seine Jünger traten zu ihm und sprachen: Deute uns das Geheimnis vom Unkraut auf dem Acker.",
       "zh": "当下，耶稣离开众人，进了房子。他的门徒进前来，说：「请把田间稗子的比喻讲给我们听。」",
-      "ja": "それから、イエスは群衆と別れて家にはいられた。すると、弟子たちがみもとに来て、「畑の毒麦のたとえを説明してください。」と言った。"
+      "ja": "それからイエスは、群衆をあとに残して家にはいられた。すると弟子たちは、みもとにきて言った、「畑の毒麦の譬を説明してください」。"
     },
     {
       "number": 37,
@@ -296,7 +296,7 @@
       "en": "He answered, \"The one who sowed the good seed is the Son of Man.",
       "de": "Er antwortete und sprach zu ihnen: Des Menschen Sohn ist's, der da Guten Samen sät.",
       "zh": "他回答说：「那撒好种的就是人子；",
-      "ja": "イエスは答えてこう言われた。「良い種を蒔く者は人の子です。"
+      "ja": "イエスは答えて言われた、「良い種をまく者は、人の子である。"
     },
     {
       "number": 38,
@@ -304,7 +304,7 @@
       "en": "The field is the world, and the good seed stands for the sons of the kingdom. The weeds are the sons of the evil one,",
       "de": "Der Acker ist die Welt. Der gute Same sind die Kinder des Reiches. Das Unkraut sind die Kinder der Bosheit.",
       "zh": "田地就是世界；好种就是天国之子；稗子就是那恶者之子；",
-      "ja": "畑はこの世界のことで、良い種とは御国の子どもたち、毒麦とは悪い者の子どもたちのことです。"
+      "ja": "畑は世界である。良い種と言うのは御国の子たちで、毒麦は悪い者の子たちである。"
     },
     {
       "number": 39,
@@ -312,7 +312,7 @@
       "en": "and the enemy who sows them is the devil. The harvest is the end of the age, and the harvesters are angels.",
       "de": "Der Feind, der sie sät, ist der Teufel. Die Ernte ist das Ende der Welt. Die Schnitter sind die Engel.",
       "zh": "撒稗子的仇敌就是魔鬼；收割的时候就是世界的末了；收割的人就是天使。",
-      "ja": "毒麦を蒔いた敵は悪魔であり、収穫とはこの世の終わりのことです。そして、刈り手とは御使いたちのことです。"
+      "ja": "それをまいた敵は悪魔である。収穫とは世の終りのことで、刈る者は御使たちである。"
     },
     {
       "number": 40,
@@ -320,7 +320,7 @@
       "en": "\"As the weeds are pulled up and burned in the fire, so it will be at the end of the age.",
       "de": "Gleichwie man nun das Unkraut ausjätet und mit Feuer verbrennt, so wird's auch am Ende dieser Welt gehen:",
       "zh": "将稗子薅出来用火焚烧，世界的末了也要如此。",
-      "ja": "ですから、毒麦が集められて火で焼かれるように、この世の終わりにもそのようになります。"
+      "ja": "だから、毒麦が集められて火で焼かれるように、世の終りにもそのとおりになるであろう。"
     },
     {
       "number": 41,
@@ -328,7 +328,7 @@
       "en": "The Son of Man will send out his angels, and they will weed out of his kingdom everything that causes sin and all who do evil.",
       "de": "des Menschen Sohn wird seine Engel senden; und sie werden sammeln aus seinem Reich alle Ärgernisse und die da unrecht tun,",
       "zh": "人子要差遣使者，把一切叫人跌倒的和作恶的，从他国里挑出来，",
-      "ja": "人の子はその御使いたちを遣わします。彼らは、つまずきを与える者や不法を行なう者たちをみな、御国から取り集めて、"
+      "ja": "人の子はその使たちをつかわし、つまずきとなるものと不法を行う者とを、ことごとく御国からとり集めて、"
     },
     {
       "number": 42,
@@ -336,7 +336,7 @@
       "en": "They will throw them into the fiery furnace, where there will be weeping and gnashing of teeth.",
       "de": "und werden sie in den Feuerofen werfen; da wird sein Heulen und Zähneklappen.",
       "zh": "丢在火炉里；在那里必要哀哭切齿了。",
-      "ja": "火の燃える炉に投げ込みます。彼らはそこで泣いて歯ぎしりするのです。"
+      "ja": "炉の火に投げ入れさせるであろう。そこでは泣き叫んだり、歯がみをしたりするであろう。"
     },
     {
       "number": 43,
@@ -344,7 +344,7 @@
       "en": "Then the righteous will shine like the sun in the kingdom of their Father. He who has ears, let him hear.",
       "de": "Dann werden die Gerechten leuchten wie die Sonne in ihres Vaters Reich. Wer Ohren hat zu hören, der höre!",
       "zh": "那时，义人在他们父的国里，要发出光来，像太阳一样。有耳可听的，就应当听！」",
-      "ja": "そのとき、正しい者たちは、天の父の御国で太陽のように輝きます。耳のある者は聞きなさい。"
+      "ja": "そのとき、義人たちは彼らの父の御国で、太陽のように輝きわたるであろう。耳のある者は聞くがよい。"
     },
     {
       "number": 44,
@@ -352,7 +352,7 @@
       "en": "\"The kingdom of heaven is like treasure hidden in a field. When a man found it, he hid it again, and then in his joy went and sold all he had and bought that field.",
       "de": "Abermals ist gleich das Himmelreich einem verborgenem Schatz im Acker, welchen ein Mensch fand und verbarg ihn und ging hin vor Freuden über denselben und verkaufte alles, was er hatte, und kaufte den Acker.",
       "zh": "「天国好像宝贝藏在地里，人遇见了就把它藏起来，欢欢喜喜地去变卖一切所有的，买这块地。",
-      "ja": "天の御国は、畑に隠された宝のようなものです。人はその宝を見つけると、それを隠しておいて、大喜びで帰り、持ち物を全部売り払ってその畑を買います。"
+      "ja": "天国は、畑に隠してある宝のようなものである。人がそれを見つけると隠しておき、喜びのあまり、行って持ち物をみな売りはらい、そしてその畑を買うのである。"
     },
     {
       "number": 45,
@@ -360,7 +360,7 @@
       "en": "\"Again, the kingdom of heaven is like a merchant looking for fine pearls.",
       "de": "Abermals ist gleich das Himmelreich einem Kaufmann, der gute Perlen suchte.",
       "zh": "天国又好像买卖人寻找好珠子，",
-      "ja": "また、天の御国は、良い真珠を捜している商人のようなものです。"
+      "ja": "また天国は、良い真珠を捜している商人のようなものである。"
     },
     {
       "number": 46,
@@ -368,7 +368,7 @@
       "en": "When he found one of great value, he went away and sold everything he had and bought it.",
       "de": "Und da er eine köstliche Perle fand, ging er hin und verkaufte alles, was er hatte, und kaufte sie.",
       "zh": "遇见一颗重价的珠子，就去变卖他一切所有的，买了这颗珠子。",
-      "ja": "すばらしい値うちの真珠を一つ見つけた者は、行って持ち物を全部売り払ってそれを買ってしまいます。"
+      "ja": "高価な真珠一個を見いだすと、行って持ち物をみな売りはらい、そしてこれを買うのである。"
     },
     {
       "number": 47,
@@ -376,7 +376,7 @@
       "en": "\"Once again, the kingdom of heaven is like a net that was let down into the lake and caught all kinds of fish.",
       "de": "Abermals ist gleich das Himmelreich einem Netze, das ins Meer geworfen ist, womit man allerlei Gattung fängt.",
       "zh": "天国又好像网撒在海里，聚拢各样水族，",
-      "ja": "また、天の御国は、海におろしてあらゆる種類の魚を集める地引き網のようなものです。"
+      "ja": "また天国は、海におろして、あらゆる種類の魚を囲みいれる網のようなものである。"
     },
     {
       "number": 48,
@@ -384,7 +384,7 @@
       "en": "When it was full, the fishermen pulled it up on the shore. Then they sat down and collected the good fish in baskets, but threw the bad away.",
       "de": "Wenn es aber voll ist, so ziehen sie es heraus an das Ufer, sitzen und lesen die guten in ein Gefäß zusammen; aber die faulen werfen sie weg.",
       "zh": "网既满了，人就拉上岸来，坐下，拣好的收在器具里，将不好的丢弃了。",
-      "ja": "網がいっぱいになると岸に引き上げ、すわり込んで、良いものは器に入れ、悪いものは捨てるのです。"
+      "ja": "それがいっぱいになると岸に引き上げ、そしてすわって、良いのを器に入れ、悪いのを外へ捨てるのである。"
     },
     {
       "number": 49,
@@ -392,7 +392,7 @@
       "en": "This is how it will be at the end of the age. The angels will come and separate the wicked from the righteous",
       "de": "Also wird es auch am Ende der Welt gehen: die Engel werden ausgehen und die Bösen von den Gerechten scheiden",
       "zh": "世界的末了也要这样。天使要出来，从义人中把恶人分别出来，",
-      "ja": "この世の終わりにもそのようになります。御使いたちが来て、正しい者の中から悪い者をえり分け、"
+      "ja": "世の終りにも、そのとおりになるであろう。すなわち、御使たちがきて、義人のうちから悪人をえり分け、"
     },
     {
       "number": 50,
@@ -400,7 +400,7 @@
       "en": "and throw them into the fiery furnace, where there will be weeping and gnashing of teeth.",
       "de": "und werden sie in den Feuerofen werfen; da wird Heulen und Zähneklappen sein.",
       "zh": "丢在火炉里；在那里必要哀哭切齿了。」",
-      "ja": "火の燃える炉に投げ込みます。彼らはそこで泣いて歯ぎしりするのです。"
+      "ja": "そして炉の火に投げこむであろう。そこでは泣き叫んだり、歯がみをしたりするであろう。"
     },
     {
       "number": 51,
@@ -408,7 +408,7 @@
       "en": "\"Have you understood all these things?\" Jesus asked. \"Yes,\" they replied.",
       "de": "Und Jesus sprach zu ihnen: Habt ihr das alles verstanden? Sie sprachen: Ja, HERR.",
       "zh": "耶稣说：「这一切的话你们都明白了吗？」他们说：「我们明白了。」",
-      "ja": "あなたがたは、これらのことがみなわかりましたか。」彼らは「はい。」とイエスに言った。"
+      "ja": "あなたがたは、これらのことが皆わかったか」。彼らは「わかりました」と答えた。"
     },
     {
       "number": 52,
@@ -416,7 +416,7 @@
       "en": "He said to them, \"Therefore every teacher of the law who has been instructed about the kingdom of heaven is like the owner of a house who brings out of his storeroom new treasures as well as old.\"",
       "de": "Da sprach er: Darum ein jeglicher Schriftgelehrter, zum Himmelreich gelehrt, ist gleich einem Hausvater, der aus seinem Schatz Neues und Altes hervorträgt.",
       "zh": "他说：「凡文士受教作天国的门徒，就像一个家主从他库里拿出新旧的东西来。」",
-      "ja": "そこで、イエスは言われた。「だから、天の御国の弟子となった学者はみな、自分の倉から新しい物でも古い物でも取り出す一家の主人のようなものです。」"
+      "ja": "そこで、イエスは彼らに言われた、「それだから、天国のことを学んだ学者は、新しいものと古いものとを、その倉から取り出す一家の主人のようなものである」。"
     },
     {
       "number": 53,
@@ -424,7 +424,7 @@
       "en": "When Jesus had finished these parables, he moved on from there.",
       "de": "Und es begab sich, da Jesus diese Gleichnisse vollendet hatte, ging er von dannen",
       "zh": "耶稣说完了这些比喻，就离开那里，",
-      "ja": "これらのたとえを話し終えると、イエスはそこを去られた。"
+      "ja": "イエスはこれらの譬を語り終えてから、そこを立ち去られた。"
     },
     {
       "number": 54,
@@ -432,7 +432,7 @@
       "en": "Coming to his hometown, he began teaching the people in their synagogue, and they were amazed. \"Where did this man get this wisdom and these miraculous powers?\" they asked.",
       "de": "und kam in seine Vaterstadt und lehrte sie in ihrer Schule, also auch, daß sie sich entsetzten und sprachen: Woher kommt diesem solche Weisheit und Taten?",
       "zh": "来到自己的家乡，在会堂里教训人，甚至他们都希奇，说：「这人从哪里有这等智慧和异能呢？",
-      "ja": "それから、ご自分の郷里に行って、会堂で人々を教え始められた。すると、彼らは驚いて言った。「この人は、こんな知恵と不思議な力をどこで得たのでしょう。"
+      "ja": "そして郷里に行き、会堂で人々を教えられたところ、彼らは驚いて言った、「この人は、この知恵とこれらの力あるわざとを、どこで習ってきたのか。"
     },
     {
       "number": 55,
@@ -440,7 +440,7 @@
       "en": "\"Isn't this the carpenter's son? Isn't his mother's name Mary, and aren't his brothers James, Joseph, Simon and Judas?",
       "de": "Ist er nicht eines Zimmermann's Sohn? Heißt nicht seine Mutter Maria? und seine Brüder Jakob und Joses und Simon und Judas?",
       "zh": "这不是木匠的儿子吗？他母亲不是叫马利亚吗？他弟兄们不是叫雅各、约西、西门、犹大吗？",
-      "ja": "この人は大工の息子ではありませんか。彼の母親はマリヤで、彼の兄弟は、ヤコブ、ヨセフ、シモン、ユダではありませんか。"
+      "ja": "この人は大工の子ではないか。母はマリヤといい、兄弟たちは、ヤコブ、ヨセフ、シモン、ユダではないか。"
     },
     {
       "number": 56,
@@ -448,7 +448,7 @@
       "en": "Aren't all his sisters with us? Where then did this man get all these things?\"",
       "de": "Und seine Schwestern, sind sie nicht alle bei uns? Woher kommt ihm denn das alles?",
       "zh": "他妹妹们不是都在我们这里吗？这人从哪里有这一切的事呢？」",
-      "ja": "妹たちもみな私たちといっしょにいるではありませんか。とすると、いったいこの人は、これらのものをどこから得たのでしょう。」"
+      "ja": "またその姉妹たちもみな、わたしたちと一緒にいるではないか。こんな数々のことを、いったい、どこで習ってきたのか」。"
     },
     {
       "number": 57,
@@ -456,7 +456,7 @@
       "en": "And they took offense at him. But Jesus said to them, \"Only in his hometown and in his own house is a prophet without honor.\"",
       "de": "Und sie ärgerten sich an ihm. Jesus aber sprach zu ihnen: Ein Prophet gilt nirgend weniger denn in seinem Vaterland und in seinem Hause.",
       "zh": "他们就厌弃他。耶稣对他们说：「大凡先知，除了本地本家之外，没有不被人尊敬的。」",
-      "ja": "こうして、彼らはイエスにつまずいた。しかし、イエスは彼らに言われた。「預言者が尊敬されないのは、自分の郷里、家族の間だけです。」"
+      "ja": "こうして人々はイエスにつまずいた。しかし、イエスは言われた、「預言者は、自分の郷里や自分の家以外では、どこででも敬われないことはない」。"
     },
     {
       "number": 58,
@@ -464,7 +464,7 @@
       "en": "And he did not do many miracles there because of their lack of faith.",
       "de": "Und er tat daselbst nicht viel Zeichen um ihres Unglaubens willen.",
       "zh": "耶稣因为他们不信，就在那里不多行异能了。",
-      "ja": "そして、イエスは、彼らの不信仰のゆえに、そこでは多くの奇蹟をなさらなかった。"
+      "ja": "そして彼らの不信仰のゆえに、そこでは力あるわざを、あまりなさらなかった。"
     }
   ]
 }

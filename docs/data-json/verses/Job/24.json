@@ -8,7 +8,7 @@
       "en": "\"Why does the Almighty not set times for judgment? Why must those who know him look in vain for such days?",
       "de": "Warum sind von dem Allmächtigen nicht Zeiten vorbehalten, und warum sehen, die ihn kennen, seine Tage nicht?",
       "zh": "全能者既定期罚恶， 为何不使认识他的人看见那日子呢？",
-      "ja": "なにゆゑに全能者時期を定めおきたまはざるや 何故に彼を知る者その日を見ざるや"
+      "ja": "なにゆえ、全能者はさばきの時を定めておかれないのか。なにゆえ、彼を知る者がその日を見ないのか。"
     },
     {
       "number": 2,
@@ -16,7 +16,7 @@
       "en": "Men move boundary stones; they pasture flocks they have stolen.",
       "de": "Man verrückt die Grenzen, raubt die Herde und weidet sie.",
       "zh": "有人挪移地界， 抢夺群畜而牧养。",
-      "ja": "人ありて地界を侵し群畜を奪ひて牧ひ"
+      "ja": "世には地境を移す者、群れを奪ってそれを飼う者、"
     },
     {
       "number": 3,
@@ -24,7 +24,7 @@
       "en": "They drive away the orphan's donkey and take the widow's ox in pledge.",
       "de": "Sie treiben der Waisen Esel weg und nehmen der Witwe Ochsen zum Pfande.",
       "zh": "他们拉去孤儿的驴， 强取寡妇的牛为当头。",
-      "ja": "孤子の驢馬を驅去り 寡婦の牛を取て質となし"
+      "ja": "みなしごのろばを追いやる者、やもめの牛を質に取る者、"
     },
     {
       "number": 4,
@@ -32,7 +32,7 @@
       "en": "They thrust the needy from the path and force all the poor of the land into hiding.",
       "de": "Die Armen müssen ihnen weichen, und die Dürftigen im Lande müssen sich verkriechen.",
       "zh": "他们使穷人离开正道； 世上的贫民尽都隐藏。",
-      "ja": "貧しき者を路より推退け 世の受難者をして盡く身を匿さしむ"
+      "ja": "貧しい者を道から押しのける者がある。世の弱い者は皆彼らをさけて身をかくす。"
     },
     {
       "number": 5,
@@ -40,7 +40,7 @@
       "en": "Like wild donkeys in the desert, the poor go about their labor of foraging food; the wasteland provides food for their children.",
       "de": "Siehe, wie Wildesel in der Wüste gehen sie hinaus an ihr Werk und suchen Nahrung; die Einöde gibt ihnen Speise für ihre Kinder.",
       "zh": "这些贫穷人如同野驴出到旷野，殷勤寻找食物； 他们靠着野地给儿女糊口，",
-      "ja": "視よ彼らは荒野にをる野驢馬のごとく出て業を爲て食を求め 野原よりその子等のために食物を得"
+      "ja": "見よ、彼らは荒野におる野ろばのように出て働き、野で獲物を求めて、その子らの食物とする。"
     },
     {
       "number": 6,
@@ -48,7 +48,7 @@
       "en": "They gather fodder in the fields and glean in the vineyards of the wicked.",
       "de": "Sie ernten auf dem Acker, was er trägt, und lesen den Weinberg des Gottlosen.",
       "zh": "收割别人田间的禾稼， 摘取恶人余剩的葡萄，",
-      "ja": "圃にて惡き者の麥を刈り またその葡萄の遺餘を摘む"
+      "ja": "彼らは畑でそのまぐさを刈り、また悪人のぶどう畑で拾い集める。"
     },
     {
       "number": 7,
@@ -56,7 +56,7 @@
       "en": "Lacking clothes, they spend the night naked; they have nothing to cover themselves in the cold.",
       "de": "Sie liegen in der Nacht nackt ohne Gewand und haben keine Decke im Frost.",
       "zh": "终夜赤身无衣， 天气寒冷毫无遮盖，",
-      "ja": "かれらは衣服なく裸にして夜を明し 覆ふて寒氣を禦ぐべき物なし"
+      "ja": "彼らは着る物がなく、裸で夜を過ごし、寒さに身をおおうべき物もない。"
     },
     {
       "number": 8,
@@ -64,7 +64,7 @@
       "en": "They are drenched by mountain rains and hug the rocks for lack of shelter.",
       "de": "Sie müssen sich zu den Felsen halten, wenn ein Platzregen von den Bergen auf sie gießt, weil sie sonst keine Zuflucht haben.",
       "zh": "在山上被大雨淋湿， 因没有避身之处就挨近磐石。",
-      "ja": "山の暴風に濡れ 庇はるるところ無して岩を抱く"
+      "ja": "彼らは山の雨にぬれ、しのぎ場もなく岩にすがる。"
     },
     {
       "number": 9,
@@ -72,7 +72,7 @@
       "en": "The fatherless child is snatched from the breast; the infant of the poor is seized for a debt.",
       "de": "Man reißt das Kind von den Brüsten und macht's zum Waisen und macht die Leute arm mit Pfänden.",
       "zh": "又有人从母怀中抢夺孤儿， 强取穷人的衣服为当头，",
-      "ja": "孤子を母の懷より奪ふ者あり 貧しき者の身につける物を取て質となす者あり"
+      "ja": "（みなしごをその母のふところから奪い、貧しい者の幼な子を質にとる者がある。）"
     },
     {
       "number": 10,
@@ -80,7 +80,7 @@
       "en": "Lacking clothes, they go about naked; they carry the sheaves, but still go hungry.",
       "de": "Den Nackten lassen sie ohne Kleider gehen, und den Hungrigen nehmen sie die Garben.",
       "zh": "使人赤身无衣，到处流行， 且因饥饿扛抬禾捆，",
-      "ja": "貧き者衣服なく裸にて歩き 饑つつ麥束を擔ふ"
+      "ja": "彼らは着る物がなく、裸で歩き、飢えつつ麦束を運び、"
     },
     {
       "number": 11,
@@ -88,7 +88,7 @@
       "en": "They crush olives among the terraces; they tread the winepresses, yet suffer thirst.",
       "de": "Sie zwingen sie, Öl zu machen auf ihrer Mühle und ihre Kelter zu treten, und lassen sie doch Durst leiden.",
       "zh": "在那些人的围墙内造油，榨酒， 自己还口渴。",
-      "ja": "人の垣の内にて油を搾め また渇きつつ酒醡を踐む"
+      "ja": "悪人のオリブ並み木の中で油をしぼり、酒ぶねを踏んでも、かわきを覚える。"
     },
     {
       "number": 12,
@@ -96,7 +96,7 @@
       "en": "The groans of the dying rise from the city, and the souls of the wounded cry out for help. But God charges no one with wrongdoing.",
       "de": "Sie machen die Leute in der Stadt seufzend und die Seele der Erschlagenen schreiend, und Gott stürzt sie nicht.",
       "zh": "在多民的城内有人唉哼， 受伤的人哀号； 　神却不理会那恶人的愚妄。",
-      "ja": "邑の中より人々の呻吟たちのぼり 傷けられたる者の叫喚おこる 然れども神はその怪事を省みたまはず"
+      "ja": "町の中から死のうめきが起り、傷ついた者の魂が助けを呼び求める。しかし神は彼らの祈を顧みられない。"
     },
     {
       "number": 13,
@@ -104,7 +104,7 @@
       "en": "\"There are those who rebel against the light, who do not know its ways or stay in its paths.",
       "de": "Jene sind abtrünnig geworden vom Licht und kennen seinen Weg nicht und kehren nicht wieder zu seiner Straße.",
       "zh": "又有人背弃光明， 不认识光明的道， 不住在光明的路上。",
-      "ja": "また光明に背く者あり 光の道を知ず 光の路に止らず"
+      "ja": "光にそむく者たちがある。彼らは光の道を知らず、光の道にとどまらない。"
     },
     {
       "number": 14,
@@ -112,7 +112,7 @@
       "en": "When daylight is gone, the murderer rises up and kills the poor and needy; in the night he steals forth like a thief.",
       "de": "Wenn der Tag anbricht, steht auf der Mörder und erwürgt den Armen und Dürftigen; und des Nachts ist er wie ein Dieb.",
       "zh": "杀人的黎明起来， 杀害困苦穷乏人， 夜间又作盗贼。",
-      "ja": "人を殺す者昧爽に興いで 受難者や貧しき者を殺し 夜は盜賊のごとくす"
+      "ja": "人を殺す者は暗いうちに起き出て弱い者と貧しい者を殺し、夜は盗びととなる。"
     },
     {
       "number": 15,
@@ -120,7 +120,7 @@
       "en": "The eye of the adulterer watches for dusk; he thinks, 'No eye will see me,' and he keeps his face concealed.",
       "de": "Das Auge des Ehebrechers hat acht auf das Dunkel, und er spricht: “Mich sieht kein Auge”, und verdeckt sein Antlitz.",
       "zh": "奸夫等候黄昏， 说：必无眼能见我， 就把脸蒙蔽。",
-      "ja": "姦淫する者は我を見る目はなからんと言てその目に昏暮をうかがひ待ち而してその面に覆ふ物を當つ"
+      "ja": "姦淫する者の目はたそがれを待って、『だれもわたしを見ていないだろう』と言い、顔におおう物を当てる。"
     },
     {
       "number": 16,
@@ -128,7 +128,7 @@
       "en": "In the dark, men break into houses, but by day they shut themselves in; they want nothing to do with the light.",
       "de": "Im Finstern bricht man in die Häuser ein; des Tages verbergen sie sich miteinander und scheuen das Licht.",
       "zh": "盗贼黑夜挖窟窿； 白日躲藏， 并不认识光明。",
-      "ja": "また夜分家を穿つ者あり 彼等は晝は閉こもり居て光明を知らず"
+      "ja": "彼らは暗やみで家をうがち、昼は閉じこもって光を知らない。"
     },
     {
       "number": 17,
@@ -136,7 +136,7 @@
       "en": "For all of them, deep darkness is their morning; they make friends with the terrors of darkness.",
       "de": "Denn wie wenn der Morgen käme, ist ihnen allen die Finsternis; denn sie sind bekannt mit den Schrecken der Finsternis.",
       "zh": "他们看早晨如幽暗， 因为他们晓得幽暗的惊骇。",
-      "ja": "彼らには晨は死の蔭のごとし 是死の蔭の怖ろしきを知ばなり"
+      "ja": "彼らには暗黒は朝である。彼らは暗黒の恐れを友とするからだ。"
     },
     {
       "number": 18,
@@ -144,7 +144,7 @@
       "en": "\"Yet they are foam on the surface of the water; their portion of the land is cursed, so that no one goes to the vineyards.",
       "de": "“Er fährt leicht wie auf einem Wasser dahin; seine Habe wird gering im Lande, und er baut seinen Weinberg nicht.",
       "zh": "这些恶人犹如浮萍快快飘去。 他们所得的分在世上被咒诅； 他们不得再走葡萄园的路。",
-      "ja": "彼は水の面に疾ながるる物の如し その產業は世の中に詛はる その身重ねて葡萄圃の路に向はず"
+      "ja": "あなたがたは言う、『彼らは水のおもてにすみやかに流れ去り、その受ける分は地でのろわれ、酒ぶねを踏む者はだれも彼らのぶどう畑の道に行かない。"
     },
     {
       "number": 19,
@@ -152,7 +152,7 @@
       "en": "As heat and drought snatch away the melted snow, so the grave snatches away those who have sinned.",
       "de": "Der Tod nimmt weg, die da sündigen, wie die Hitze und Dürre das Schneewasser verzehrt.",
       "zh": "干旱炎热消没雪水； 阴间也如此消没犯罪之辈。",
-      "ja": "亢旱および炎熱は雪水を直に乾涸す 陰府が罪を犯せし者におけるも亦かくのごとし"
+      "ja": "ひでりと熱さは雪水を奪い去る、陰府が罪を犯した者に対するも、これと同様だ。"
     },
     {
       "number": 20,
@@ -160,7 +160,7 @@
       "en": "The womb forgets them, the worm feasts on them; evil men are no longer remembered but are broken like a tree.",
       "de": "Der Mutterschoß vergißt sein; die Würmer haben ihre Lust an ihm. Sein wird nicht mehr gedacht; er wird zerbrochen wie ein fauler Baum,",
       "zh": "怀他的母要忘记他； 虫子要吃他，觉得甘甜； 他不再被人记念。 不义的人必如树折断。",
-      "ja": "これを宿せし腹これを忘れ 蛆これを好みて食ふ 彼は最早世におぼえらるること無く その惡は樹を折るが如くに折る"
+      "ja": "町の広場は彼らを忘れ、彼らの名は覚えられることなく、不義は木の折られるように折られる』と。"
     },
     {
       "number": 21,
@@ -168,7 +168,7 @@
       "en": "They prey on the barren and childless woman, and to the widow show no kindness.",
       "de": "er, der beleidigt hat die Einsame, die nicht gebiert, und hat der Witwe kein Gutes getan.”",
       "zh": "他恶待不怀孕不生养的妇人， 不善待寡妇。",
-      "ja": "是すなはち孕まず產ざりし婦人をなやまし 寡婦を憐れまざる者なり"
+      "ja": "彼らは子を産まぬうまずめをくらい、やもめをあわれむことをしない。"
     },
     {
       "number": 22,
@@ -176,7 +176,7 @@
       "en": "But God drags away the mighty by his power; though they become established, they have no assurance of life.",
       "de": "Aber Gott erhält die Mächtigen durch seine Kraft, daß sie wieder aufstehen, wenn sie am Leben verzweifelten.",
       "zh": "然而　神用能力保全有势力的人； 那性命难保的人仍然兴起。",
-      "ja": "神はその權能をもて強き人々を保存へさせたまふ 彼らは生命あらじと思ふ時にも復興る"
+      "ja": "しかし神はその力をもって、強い人々を生きながらえさせられる。彼らは生きる望みのない時にも起きあがる。"
     },
     {
       "number": 23,
@@ -184,7 +184,7 @@
       "en": "He may let them rest in a feeling of security, but his eyes are on their ways.",
       "de": "Er gibt ihnen, daß sie sicher seien und eine Stütze haben; und seine Augen sind über ihren Wegen.",
       "zh": "神使他们安稳，他们就有所倚靠； 　神的眼目也看顾他们的道路。",
-      "ja": "神かれらに安泰を賜へば彼らは安らかなり 而してその目をもて彼らの道を見そなはしたまふ"
+      "ja": "神が彼らに安全を与えられるので、彼らは安らかである。神の目は彼らの道の上にある。"
     },
     {
       "number": 24,
@@ -192,7 +192,7 @@
       "en": "For a little while they are exalted, and then they are gone; they are brought low and gathered up like all others; they are cut off like heads of grain.",
       "de": "Sie sind hoch erhöht, und über ein kleines sind sie nicht mehr; sinken sie hin, so werden sie weggerafft wie alle andern, und wie das Haupt auf den Ähren werden sie abgeschnitten.",
       "zh": "他们被高举，不过片时就没有了； 他们降为卑，被除灭，与众人一样， 又如谷穗被割。",
-      "ja": "かれらは旺盛になり暫時が間に無なり卑くなりて一切の人のごとくに沒し麥の穗のごとくに斷る"
+      "ja": "彼らはしばし高められて、いなくなり、ぜにあおいのように枯れて消えうせ、麦の穂先のように切り取られる。"
     },
     {
       "number": 25,
@@ -200,7 +200,7 @@
       "en": "\"If this is not so, who can prove me false and reduce my words to nothing?\"",
       "de": "Ist's nicht also? Wohlan, wer will mich Lügen strafen und bewähren, daß meine Rede nichts sei?",
       "zh": "若不是这样，谁能证实我是说谎的， 将我的言语驳为虚空呢？",
-      "ja": "すでに是のごとくなれば誰か我の謬まれるを示してわが言語を空しくすることを得ん"
+      "ja": "もし、そうでないなら、だれがわたしにその偽りを証明し、わが言葉のむなしいことを示しうるだろうか」。"
     }
   ]
 }

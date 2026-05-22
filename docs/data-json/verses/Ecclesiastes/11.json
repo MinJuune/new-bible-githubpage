@@ -8,7 +8,7 @@
       "en": "Cast your bread upon the waters, for after many days you will find it again.",
       "de": "Laß dein Brot über das Wasser fahren, so wirst du es finden nach langer Zeit.",
       "zh": "当将你的粮食撒在水面， 因为日久必能得着。",
-      "ja": "汝の糧食を水の上に投げよ 多くの日の後に汝ふたたび之を得ん"
+      "ja": "あなたのパンを水の上に投げよ、多くの日の後、あなたはそれを得るからである。"
     },
     {
       "number": 2,
@@ -16,7 +16,7 @@
       "en": "Give portions to seven, yes to eight, for you do not know what disaster may come upon the land.",
       "de": "Teile aus unter sieben und unter acht; denn du weißt nicht, was für Unglück auf Erden kommen wird.",
       "zh": "你要分给七人，或分给八人， 因为你不知道将来有什么灾祸临到地上。",
-      "ja": "汝一箇の分を七また八にわかて 其は汝如何なる災害の地にあらんかを知ざればなり"
+      "ja": "あなたは一つの分を七つまた八つに分けよ、あなたは、どんな災が地に起るかを知らないからだ。"
     },
     {
       "number": 3,
@@ -24,7 +24,7 @@
       "en": "If clouds are full of water, they pour rain upon the earth. Whether a tree falls to the south or to the north, in the place where it falls, there will it lie.",
       "de": "Wenn die Wolken voll sind, so geben sie Regen auf die Erde; und wenn der Baum fällt, er falle gegen Mittag oder Mitternacht, auf welchen Ort er fällt, da wird er liegen.",
       "zh": "云若满了雨，就必倾倒在地上。 树若向南倒，或向北倒， 树倒在何处，就存在何处。",
-      "ja": "雲もし雨の充るあれば地に注ぐ また樹もし南か北に倒るるあればその樹は倒れたる處にあるべし"
+      "ja": "雲がもし雨で満ちるならば、地にそれを注ぐ、また木がもし南か北に倒れるならば、その木は倒れた所に横たわる。"
     },
     {
       "number": 4,
@@ -32,7 +32,7 @@
       "en": "Whoever watches the wind will not plant; whoever looks at the clouds will not reap.",
       "de": "Wer auf den Wind achtet, der sät nicht; und wer auf die Wolken sieht, der erntet nicht.",
       "zh": "看风的，必不撒种； 望云的，必不收割。",
-      "ja": "風を伺ふ者は種播ことを得ず 雲を望む者は刈ことを得ず"
+      "ja": "風を警戒する者は種をまかない、雲を観測する者は刈ることをしない。"
     },
     {
       "number": 5,
@@ -40,7 +40,7 @@
       "en": "As you do not know the path of the wind, or how the body is formed in a mother's womb, so you cannot understand the work of God, the Maker of all things.",
       "de": "Gleichwie du nicht weißt den Weg des Windes und wie die Gebeine in Mutterleibe bereitet werden, also kannst du auch Gottes Werk nicht wissen, das er tut überall.",
       "zh": "风从何道来，骨头在怀孕妇人的胎中如何长成，你尚且不得知道；这样，行万事之　神的作为，你更不得知道。",
-      "ja": "汝は風の道の如何なるを知ず また孕める婦の胎にて骨の如何に生長つを知ず 斯汝は萬事を爲たまふ神の作爲を知ことなし"
+      "ja": "あなたは、身ごもった女の胎の中で、どうして霊が骨にはいるかを知らない。そのようにあなたは、すべての事をなされる神のわざを知らない。"
     },
     {
       "number": 6,
@@ -48,7 +48,7 @@
       "en": "Sow your seed in the morning, and at evening let not your hands be idle, for you do not know which will succeed, whether this or that, or whether both will do equally well.",
       "de": "Frühe säe deinen Samen und laß deine Hand des Abends nicht ab; denn du weißt nicht, ob dies oder das geraten wird; und ob beides geriete, so wäre es desto besser.",
       "zh": "早晨要撒你的种，晚上也不要歇你的手，因为你不知道哪一样发旺；或是早撒的，或是晚撒的，或是两样都好。",
-      "ja": "汝朝に種を播け 夕にも手を歇るなかれ 其はその實る者は此なるか彼なるか又は二者ともに美なるや汝これを知ざればなり"
+      "ja": "朝のうちに種をまけ、夕まで手を休めてはならない。実るのは、これであるか、あれであるか、あるいは二つともに良いのであるか、あなたは知らないからである。"
     },
     {
       "number": 7,
@@ -56,7 +56,7 @@
       "en": "Light is sweet, and it pleases the eyes to see the sun.",
       "de": "Es ist das Licht süß, und den Augen lieblich, die Sonne zu sehen.",
       "zh": "光本是佳美的，眼见日光也是可悦的。",
-      "ja": "夫光明は快き者なり 目に日を見るは樂し"
+      "ja": "光は快いものである。目に太陽を見るのは楽しいことである。"
     },
     {
       "number": 8,
@@ -64,7 +64,7 @@
       "en": "However many years a man may live, let him enjoy them all. But let him remember the days of darkness, for they will be many. Everything to come is meaningless.",
       "de": "Wenn ein Mensch viele Jahre lebt, so sei er fröhlich in ihnen allen und gedenke der finstern Tage, daß ihrer viel sein werden; denn alles, was kommt, ist eitel.",
       "zh": "人活多年，就当快乐多年；然而也当想到黑暗的日子。因为这日子必多，所要来的都是虚空。",
-      "ja": "人多くの年生ながらへてその中凡て幸福なるもなほ幽暗の日を憶ふべきなり 其はその數も多かるべければなり 凡て來らんところの事は皆空なり"
+      "ja": "人が多くの年、生きながらえ、そのすべてにおいて自分を楽しませても、暗い日の多くあるべきことを忘れてはならない。すべて、きたらんとする事は皆空である。"
     },
     {
       "number": 9,
@@ -72,7 +72,7 @@
       "en": "Be happy, young man, while you are young, and let your heart give you joy in the days of your youth. Follow the ways of your heart and whatever your eyes see, but know that for all these things God will bring you to judgment.",
       "de": "So freue dich, Jüngling, in deiner Jugend und laß dein Herz guter Dinge sein in deiner Jugend. Tue, was dein Herz gelüstet und deinen Augen gefällt, und wisse, daß dich Gott um dies alles wird vor Gericht führen.",
       "zh": "少年人哪，你在幼年时当快乐。在幼年的日子，使你的心欢畅，行你心所愿行的，看你眼所爱看的；却要知道，为这一切的事，　神必审问你。",
-      "ja": "少者よ汝の少き時に快樂をなせ 汝の少き日に汝の心を悦ばしめ汝の心の道に歩み汝の目に見るところを爲せよ 但しその諸の行爲のために神汝を鞫きたまはんと知べし"
+      "ja": "若い者よ、あなたの若い時に楽しめ。あなたの若い日にあなたの心を喜ばせよ。あなたの心の道に歩み、あなたの目の見るところに歩め。ただし、そのすべての事のために、神はあなたをさばかれることを知れ。"
     },
     {
       "number": 10,
@@ -80,7 +80,7 @@
       "en": "So then, banish anxiety from your heart and cast off the troubles of your body, for youth and vigor are meaningless.",
       "de": "Laß die Traurigkeit in deinem Herzen und tue das Übel von deinem Leibe; denn Kindheit und Jugend ist eitel.",
       "zh": "所以，你当从心中除掉愁烦，从肉体克去邪恶；因为一生的开端和幼年之时，都是虚空的。",
-      "ja": "然ば汝の心より憂を去り 汝の身より惡き者を除け 少き時と壯なる時はともに空なればなり"
+      "ja": "あなたの心から悩みを去り、あなたのからだから痛みを除け。若い時と盛んな時はともに空だからである。"
     }
   ]
 }

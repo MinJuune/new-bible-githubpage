@@ -8,7 +8,7 @@
       "en": "Wine is a mocker and beer a brawler; whoever is led astray by them is not wise.",
       "de": "Der Wein macht lose Leute, und starkes Getränk macht wild; wer dazu Lust hat, wird nimmer weise.",
       "zh": "酒能使人亵慢，浓酒使人喧嚷； 凡因酒错误的，就无智慧。",
-      "ja": "酒は人をして嘲らせ 濃酒は人をして騒がしむ 之に迷はさるる者は無智なり"
+      "ja": "酒は人をあざける者とし、濃い酒は人をあばれ者とする、これに迷わされる者は無知である。 酒は人をあざける者とし、濃い酒は人をあばれ者とする、これに迷わされる者は無知である。"
     },
     {
       "number": 2,
@@ -16,7 +16,7 @@
       "en": "A king's wrath is like the roar of a lion; he who angers him forfeits his life.",
       "de": "Das Schrecken des Königs ist wie das Brüllen eines jungen Löwen; wer ihn erzürnt, der sündigt wider sein Leben.",
       "zh": "王的威吓如同狮子吼叫； 惹动他怒的，是自害己命。",
-      "ja": "王の震怒は獅の吼るがごとし 彼を怒らする者は自己のいのちを害ふ"
+      "ja": "王の怒りは、ししがほえるようだ、彼を怒らせる者は自分の命をそこなう。 王の怒りは、ししがほえるようだ、彼を怒らせる者は自分の命をそこなう。"
     },
     {
       "number": 3,
@@ -24,7 +24,7 @@
       "en": "It is to a man's honor to avoid strife, but every fool is quick to quarrel.",
       "de": "Es ist dem Mann eine Ehre, vom Hader bleiben; aber die gern Hadern, sind allzumal Narren.",
       "zh": "远离纷争是人的尊荣； 愚妄人都爱争闹。",
-      "ja": "穩かに居りて爭はざるは人の榮譽なりすべて愚なる者は怒り爭ふ"
+      "ja": "争いに関係しないことは人の誉である、すべて愚かな者は怒り争う。 争いに関係しないことは人の誉である、すべて愚かな者は怒り争う。"
     },
     {
       "number": 4,
@@ -32,7 +32,7 @@
       "en": "A sluggard does not plow in season; so at harvest time he looks but finds nothing.",
       "de": "Um der Kälte willen will der Faule nicht pflügen; so muß er in der Ernte betteln und nichts kriegen.",
       "zh": "懒惰人因冬寒不肯耕种， 到收割的时候，他必讨饭而无所得。",
-      "ja": "惰者は寒ければとて耕さず この故に収穫のときにおよびて求るとも得るところなし"
+      "ja": "なまけ者は寒いときに耕さない、それゆえ刈入れのときになって、求めても何もない。 なまけ者は寒いときに耕さない、それゆえ刈入れのときになって、求めても何もない。"
     },
     {
       "number": 5,
@@ -40,7 +40,7 @@
       "en": "The purposes of a man's heart are deep waters, but a man of understanding draws them out.",
       "de": "Der Rat im Herzen eines Mannes ist wie tiefe Wasser; aber ein Verständiger kann's merken, was er meint.",
       "zh": "人心怀藏谋略，好像深水， 惟明哲人才能汲引出来。",
-      "ja": "人の心にある謀計は深き井の水のごとし 然れど哲人はこれを汲出す"
+      "ja": "人の心にある計りごとは深い井戸の水のようだ、しかし、さとき人はこれをくみ出す。 人の心にある計りごとは深い井戸の水のようだ、しかし、さとき人はこれをくみ出す。"
     },
     {
       "number": 6,
@@ -48,7 +48,7 @@
       "en": "Many a man claims to have unfailing love, but a faithful man who can find?",
       "de": "Viele Menschen werden fromm gerühmt; aber wer will finden einen, der rechtschaffen fromm sei?",
       "zh": "人多述说自己的仁慈， 但忠信人谁能遇着呢？",
-      "ja": "凡そ人は各自おのれの善を誇る されど誰か忠信なる者に遇しぞ"
+      "ja": "自分は真実だという人が多い、しかし、だれが忠信な人に会うであろうか。 自分は真実だという人が多い、しかし、だれが忠信な人に会うであろうか。"
     },
     {
       "number": 7,
@@ -56,7 +56,7 @@
       "en": "The righteous man leads a blameless life; blessed are his children after him.",
       "de": "Ein Gerechter, der in seiner Frömmigkeit wandelt, des Kindern wird's wohl gehen nach ihm.",
       "zh": "行为纯正的义人， 他的子孙是有福的！",
-      "ja": "身を正しくして歩履む義人はその後の子孫に福祉あるべし"
+      "ja": "欠けた所なく、正しく歩む人――その後の子孫はさいわいである。 欠けた所なく、正しく歩む人――その後の子孫はさいわいである。"
     },
     {
       "number": 8,
@@ -64,7 +64,7 @@
       "en": "When a king sits on his throne to judge, he winnows out all evil with his eyes.",
       "de": "Ein König, der auf seinem Stuhl sitzt, zu richten, zerstreut alles Arge mit seinen Augen.",
       "zh": "王坐在审判的位上， 以眼目驱散诸恶。",
-      "ja": "審判の位に坐する王はその目をもてすべての惡を散す"
+      "ja": "さばきの座にすわる王はその目をもって、すべての悪をふるいわける。 さばきの座にすわる王はその目をもって、すべての悪をふるいわける。"
     },
     {
       "number": 9,
@@ -72,7 +72,7 @@
       "en": "Who can say, \"I have kept my heart pure; I am clean and without sin\"?",
       "de": "Wer kann sagen: Ich bin rein in meinem Herzen und lauter von meiner Sünde?",
       "zh": "谁能说，我洁净了我的心， 我脱净了我的罪？",
-      "ja": "たれか我わが心をきよめ わが罪を潔められたりといひ得るや"
+      "ja": "だれが「わたしは自分の心を清めた、わたしの罪は清められた」ということができようか。 だれが「わたしは自分の心を清めた、わたしの罪は清められた」ということができようか。"
     },
     {
       "number": 10,
@@ -80,7 +80,7 @@
       "en": "Differing weights and differing measures--the LORD detests them both.",
       "de": "Mancherlei Gewicht und Maß ist beides Greuel dem HERRN.",
       "zh": "两样的法码，两样的升斗， 都为耶和华所憎恶。",
-      "ja": "二種の權衡二種の斗量は等しくヱホバに憎まる"
+      "ja": "互に違った二種のはかり、二種のますは、ひとしく主に憎まれる。 互に違った二種のはかり、二種のますは、ひとしく主に憎まれる。"
     },
     {
       "number": 11,
@@ -88,7 +88,7 @@
       "en": "Even a child is known by his actions, by whether his conduct is pure and right.",
       "de": "Auch einen Knaben kennt man an seinem Wesen, ob er fromm und redlich werden will.",
       "zh": "孩童的动作是清洁，是正直， 都显明他的本性。",
-      "ja": "幼子といへどもその動作によりておのれの根性の清きか或は正しきかをあらはす"
+      "ja": "幼な子でさえも、その行いによって自らを示し、そのすることの清いか正しいかを現す。 幼な子でさえも、その行いによって自らを示し、そのすることの清いか正しいかを現す。"
     },
     {
       "number": 12,
@@ -96,7 +96,7 @@
       "en": "Ears that hear and eyes that see--the LORD has made them both.",
       "de": "Ein hörend Ohr und sehend Auge, die macht beide der HERR.",
       "zh": "能听的耳，能看的眼， 都是耶和华所造的。",
-      "ja": "聽くところの耳と視るところの眼とはともにヱホバの造り給へるものなり"
+      "ja": "聞く耳と、見る目とは、ともに主が造られたものである。 聞く耳と、見る目とは、ともに主が造られたものである。"
     },
     {
       "number": 13,
@@ -104,7 +104,7 @@
       "en": "Do not love sleep or you will grow poor; stay awake and you will have food to spare.",
       "de": "Liebe den Schlaf nicht, daß du nicht arm werdest; laß deine Augen wacker sein, so wirst du Brot genug haben.",
       "zh": "不要贪睡，免致贫穷； 眼要睁开，你就吃饱。",
-      "ja": "なんぢ睡眠を愛すること勿れ 恐くは貧窮にいたらん 汝の眼をひらけ 然らば糧に飽べし"
+      "ja": "眠りを愛してはならない、そうすれば貧しくなる、目を開け、そうすればパンに飽くことができる。 眠りを愛してはならない、そうすれば貧しくなる、目を開け、そうすればパンに飽くことができる。"
     },
     {
       "number": 14,
@@ -112,7 +112,7 @@
       "en": "\"It's no good, it's no good!\" says the buyer; then off he goes and boasts about his purchase.",
       "de": "“Böse, böse!” spricht man, wenn man's hat; aber wenn's weg ist, so rühmt man es dann.",
       "zh": "买物的说：不好，不好； 及至买去，他便自夸。",
-      "ja": "買者はいふ惡し惡しと 然れど去りて後はみづから誇る"
+      "ja": "買う者は、「悪い、悪い」という、しかし去って後、彼は自ら誇る。 買う者は、「悪い、悪い」という、しかし去って後、彼は自ら誇る。"
     },
     {
       "number": 15,
@@ -120,7 +120,7 @@
       "en": "Gold there is, and rubies in abundance, but lips that speak knowledge are a rare jewel.",
       "de": "Es gibt Gold und viele Perlen; aber ein vernünftiger Mund ist ein edles Kleinod.",
       "zh": "有金子和许多珍珠， 惟有知识的嘴乃为贵重的珍宝。",
-      "ja": "金もあり眞珠も多くあれど貴き器は知識のくちびるなり"
+      "ja": "金もあり、価の高い宝石も多くあるが、尊い器は知識のくちびるである。 金もあり、価の高い宝石も多くあるが、尊い器は知識のくちびるである。"
     },
     {
       "number": 16,
@@ -128,7 +128,7 @@
       "en": "Take the garment of one who puts up security for a stranger; hold it in pledge if he does it for a wayward woman.",
       "de": "Nimm dem sein Kleid, der für einen andern Bürge wird, und pfände ihn um des Fremden willen.",
       "zh": "谁为生人作保，就拿谁的衣服； 谁为外人作保，谁就要承当。",
-      "ja": "人の保證をなす者よりは先その衣をとれ 他人の保證をなす者をばかたくとらへよ"
+      "ja": "人のために保証する者からは、まずその着物を取れ、他人のために保証する者をば抵当に取れ。 人のために保証する者からは、まずその着物を取れ、他人のために保証する者をば抵当に取れ。"
     },
     {
       "number": 17,
@@ -136,7 +136,7 @@
       "en": "Food gained by fraud tastes sweet to a man, but he ends up with a mouth full of gravel.",
       "de": "Das gestohlene Brot schmeckt dem Manne wohl; aber hernach wird ihm der Mund voll Kieselsteine werden.",
       "zh": "以虚谎而得的食物，人觉甘甜； 但后来，他的口必充满尘沙。",
-      "ja": "欺きとりし糧は人に甜し されど後にはその口に沙を充されん"
+      "ja": "欺き取ったパンはおいしい、しかし後にはその口は砂利で満たされる。 欺き取ったパンはおいしい、しかし後にはその口は砂利で満たされる。"
     },
     {
       "number": 18,
@@ -144,7 +144,7 @@
       "en": "Make plans by seeking advice; if you wage war, obtain guidance.",
       "de": "Anschläge bestehen, wenn man sie mit Rat führt; und Krieg soll man mit Vernunft führen.",
       "zh": "计谋都凭筹算立定； 打仗要凭智谋。",
-      "ja": "謀計は相議るによりて成る 戰はんとせば先よく議るべし"
+      "ja": "計りごとは共に議することによって成る、戦おうとするならば、まずよく議しなければならない。 計りごとは共に議することによって成る、戦おうとするならば、まずよく議しなければならない。"
     },
     {
       "number": 19,
@@ -152,7 +152,7 @@
       "en": "A gossip betrays a confidence; so avoid a man who talks too much.",
       "de": "Sei unverworren mit dem, der Heimlichkeit offenbart, und mit dem Verleumder und mit dem falschen Maul.",
       "zh": "往来传舌的，泄漏密事； 大张嘴的，不可与他结交。",
-      "ja": "あるきめぐりて人の是非をいふ者は密事をもらす 口唇をひらきてあるくものと交ること勿れ"
+      "ja": "歩きまわって人のよしあしをいう者は秘密をもらす、くちびるを開いて歩く者と交わってはならない。 歩きまわって人のよしあしをいう者は秘密をもらす、くちびるを開いて歩く者と交わってはならない。"
     },
     {
       "number": 20,
@@ -160,7 +160,7 @@
       "en": "If a man curses his father or mother, his lamp will be snuffed out in pitch darkness.",
       "de": "Wer seinem Vater und seiner Mutter flucht, des Leuchte wird verlöschen mitten in der Finsternis.",
       "zh": "咒骂父母的，他的灯必灭， 变为漆黑的黑暗。",
-      "ja": "おのれの父母を罵るものはその燈火くらやみの中に消ゆべし"
+      "ja": "自分の父母をののしる者は、そのともしびは暗やみの中に消える。 自分の父母をののしる者は、そのともしびは暗やみの中に消える。"
     },
     {
       "number": 21,
@@ -168,7 +168,7 @@
       "en": "An inheritance quickly gained at the beginning will not be blessed at the end.",
       "de": "Das Erbe, darnach man zuerst sehr eilt wird zuletzt nicht gesegnet sein.",
       "zh": "起初速得的产业， 终久却不为福。",
-      "ja": "初に俄に得たる產業はその終さいはひならず"
+      "ja": "初めに急いで得た資産は、その終りがさいわいでない。 初めに急いで得た資産は、その終りがさいわいでない。"
     },
     {
       "number": 22,
@@ -176,7 +176,7 @@
       "en": "Do not say, \"I'll pay you back for this wrong!\" Wait for the LORD, and he will deliver you.",
       "de": "Sprich nicht: Ich will Böses vergelten! Harre des HERRN, der wird dir helfen.",
       "zh": "你不要说，我要以恶报恶； 要等候耶和华，他必拯救你。",
-      "ja": "われ惡に報いんと言ふこと勿れ ヱホバを待て 彼なんぢを救はん"
+      "ja": "「わたしが悪に報いる」と言ってはならない、主を待ち望め、主はあなたを助けられる。 「わたしが悪に報いる」と言ってはならない、主を待ち望め、主はあなたを助けられる。"
     },
     {
       "number": 23,
@@ -184,7 +184,7 @@
       "en": "The LORD detests differing weights, and dishonest scales do not please him.",
       "de": "Mancherlei Gewicht ist ein Greuel dem HERRN, und eine falsche Waage ist nicht gut.",
       "zh": "两样的法码为耶和华所憎恶； 诡诈的天平也为不善。",
-      "ja": "二種の法馬はヱホバに憎まる 虚偽の權衡は善らず"
+      "ja": "互に違った二種のふんどうは主に憎まれる、偽りのはかりは良くない。 互に違った二種のふんどうは主に憎まれる、偽りのはかりは良くない。"
     },
     {
       "number": 24,
@@ -192,7 +192,7 @@
       "en": "A man's steps are directed by the LORD. How then can anyone understand his own way?",
       "de": "Jedermanns Gänge kommen vom HERRN. Welcher Mensch versteht seinen Weg?",
       "zh": "人的脚步为耶和华所定； 人岂能明白自己的路呢？",
-      "ja": "人の歩履はヱホバによる 人いかで自らその道を明かにせんや"
+      "ja": "人の歩みは主によって定められる、人はどうして自らその道を、明らかにすることができようか。 人の歩みは主によって定められる、人はどうして自らその道を、明らかにすることができようか。"
     },
     {
       "number": 25,
@@ -200,7 +200,7 @@
       "en": "It is a trap for a man to dedicate something rashly and only later to consider his vows.",
       "de": "Es ist dem Menschen ein Strick, sich mit Heiligem übereilen und erst nach den Geloben überlegen.",
       "zh": "人冒失说，这是圣物， 许愿之后才查问，就是自陷网罗。",
-      "ja": "漫に誓願をたつることは其人の罟となる誓願をたててのちに考ふることも亦然り"
+      "ja": "軽々しく「これは聖なるささげ物だ」と言い、また誓いを立てて後に考えることは、その人のわなとなる。 軽々しく「これは聖なるささげ物だ」と言い、また誓いを立てて後に考えることは、その人のわなとなる。"
     },
     {
       "number": 26,
@@ -208,7 +208,7 @@
       "en": "A wise king winnows out the wicked; he drives the threshing wheel over them.",
       "de": "Ein weiser König zerstreut die Gottlosen und bringt das Rad über sie.",
       "zh": "智慧的王簸散恶人， 用碌碡滚轧他们。",
-      "ja": "賢き王は箕をもて簸るごとく惡人を散し 車輪をもて碾すごとく之を罰す"
+      "ja": "知恵ある王は、箕をもってあおぎ分けるように悪人を散らし、車をもって脱穀するように、これを罰する。 知恵ある王は、箕をもってあおぎ分けるように悪人を散らし、車をもって脱穀するように、これを罰する。"
     },
     {
       "number": 27,
@@ -216,7 +216,7 @@
       "en": "The lamp of the LORD searches the spirit of a man; it searches out his inmost being.",
       "de": "Eine Leuchte des HERRN ist des Menschen Geist; die geht durch alle Kammern des Leibes.",
       "zh": "人的灵是耶和华的灯， 鉴察人的心腹。",
-      "ja": "人の霊魂はヱホバの燈火にして人の心の奧を窺ふ"
+      "ja": "人の魂は主のともしびであり、人の心の奥を探る。 人の魂は主のともしびであり、人の心の奥を探る。"
     },
     {
       "number": 28,
@@ -224,7 +224,7 @@
       "en": "Love and faithfulness keep a king safe; through love his throne is made secure.",
       "de": "Fromm und wahrhaftig sein behütet den König, und sein Thron besteht durch Frömmigkeit.",
       "zh": "王因仁慈和诚实得以保全他的国位， 也因仁慈立稳。",
-      "ja": "王は仁慈と眞實をもて自らたもつ その位もまた恩惠のおこなひによりて堅くなる"
+      "ja": "いつくしみと、まこととは王を守る、その位もまた正義によって保たれる。 いつくしみと、まこととは王を守る、その位もまた正義によって保たれる。"
     },
     {
       "number": 29,
@@ -232,7 +232,7 @@
       "en": "The glory of young men is their strength, gray hair the splendor of the old.",
       "de": "Der Jünglinge Stärke ist ihr Preis; und graues Haar ist der Alten Schmuck.",
       "zh": "强壮乃少年人的荣耀； 白发为老年人的尊荣。",
-      "ja": "少者の榮はその力 おいたる者の美しきは白髮なり"
+      "ja": "若い人の栄えはその力、老人の美しさはそのしらがである。 若い人の栄えはその力、老人の美しさはそのしらがである。"
     },
     {
       "number": 30,
@@ -240,7 +240,7 @@
       "en": "Blows and wounds cleanse away evil, and beatings purge the inmost being.",
       "de": "Man muß dem Bösen wehren mit harter Strafe und mit ernsten Schlägen, die man fühlt.",
       "zh": "鞭伤除净人的罪恶； 责打能入人的心腹。",
-      "ja": "傷つくまでに打たば惡きところきよまり 打てる鞭は腹の底までもとほる"
+      "ja": "傷つくまでに打てば悪い所は清くなり、むちで打てば心の底までも清まる。 傷つくまでに打てば悪い所は清くなり、むちで打てば心の底までも清まる。"
     }
   ]
 }

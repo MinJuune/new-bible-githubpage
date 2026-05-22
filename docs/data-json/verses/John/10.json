@@ -8,7 +8,7 @@
       "en": "\"I tell you the truth, the man who does not enter the sheep pen by the gate, but climbs in by some other way, is a thief and a robber.",
       "de": "Wahrlich, wahrlich ich sage euch: Wer nicht zur Tür eingeht in den Schafstall, sondern steigt anderswo hinein, der ist ein Dieb und ein Mörder.",
       "zh": "「我实实在在地告诉你们，人进羊圈，不从门进去，倒从别处爬进去，那人就是贼，就是强盗。",
-      "ja": "「まことに、まことに、あなたがたに告げます。羊の囲いに門からはいらないで、ほかの所を乗り越えて来る者は、盗人で強盗です。"
+      "ja": "よくよくあなたがたに言っておく。羊の囲いにはいるのに、門からでなく、ほかの所からのりこえて来る者は、盗人であり、強盗である。"
     },
     {
       "number": 2,
@@ -16,7 +16,7 @@
       "en": "The man who enters by the gate is the shepherd of his sheep.",
       "de": "Der aber zur Tür hineingeht, der ist ein Hirte der Schafe.",
       "zh": "从门进去的，才是羊的牧人。",
-      "ja": "しかし、門からはいる者は、その羊の牧者です。"
+      "ja": "門からはいる者は、羊の羊飼である。"
     },
     {
       "number": 3,
@@ -24,7 +24,7 @@
       "en": "The watchman opens the gate for him, and the sheep listen to his voice. He calls his own sheep by name and leads them out.",
       "de": "Dem tut der Türhüter auf, und die Schafe hören seine Stimme; und er ruft seine Schafe mit Namen und führt sie aus.",
       "zh": "看门的就给他开门；羊也听他的声音。他按着名叫自己的羊，把羊领出来。",
-      "ja": "門番は彼のために開き、羊はその声を聞き分けます。彼は自分の羊をその名で呼んで連れ出します。"
+      "ja": "門番は彼のために門を開き、羊は彼の声を聞く。そして彼は自分の羊の名をよんで連れ出す。"
     },
     {
       "number": 4,
@@ -32,7 +32,7 @@
       "en": "When he has brought out all his own, he goes on ahead of them, and his sheep follow him because they know his voice.",
       "de": "Und wenn er seine Schafe hat ausgelassen, geht er vor ihnen hin, und die Schafe folgen ihm nach; denn sie kennen seine Stimme.",
       "zh": "既放出自己的羊来，就在前头走，羊也跟着他，因为认得他的声音。",
-      "ja": "彼は、自分の羊をみな引き出すと、その先頭に立って行きます。すると羊は、彼の声を知っているので、彼について行きます。"
+      "ja": "自分の羊をみな出してしまうと、彼は羊の先頭に立って行く。羊はその声を知っているので、彼について行くのである。"
     },
     {
       "number": 5,
@@ -40,7 +40,7 @@
       "en": "But they will never follow a stranger; in fact, they will run away from him because they do not recognize a stranger's voice.\"",
       "de": "Einem Fremden aber folgen sie nicht nach, sondern fliehen von ihm; denn sie kennen der Fremden Stimme nicht.",
       "zh": "羊不跟着生人；因为不认得他的声音，必要逃跑。」",
-      "ja": "しかし、ほかの人には決してついて行きません。かえって、その人から逃げ出します。その人たちの声を知らないからです。」"
+      "ja": "ほかの人には、ついて行かないで逃げ去る。その人の声を知らないからである」。"
     },
     {
       "number": 6,
@@ -48,7 +48,7 @@
       "en": "Jesus used this figure of speech, but they did not understand what he was telling them.",
       "de": "Diesen Spruch sagte Jesus zu ihnen; sie verstanden aber nicht, was es war, das er zu ihnen sagte.",
       "zh": "耶稣将这比喻告诉他们，但他们不明白所说的是什么意思。",
-      "ja": "イエスはこのたとえを彼らにお話しになったが、彼らは、イエスの話されたことが何のことかよくわからなかった。"
+      "ja": "イエスは彼らにこの比喩を話されたが、彼らは自分たちにお話しになっているのが何のことだか、わからなかった。"
     },
     {
       "number": 7,
@@ -56,7 +56,7 @@
       "en": "Therefore Jesus said again, \"I tell you the truth, I am the gate for the sheep.",
       "de": "Da sprach Jesus wieder zu ihnen: Wahrlich, wahrlich ich sage euch: Ich bin die Tür zu den Schafen.",
       "zh": "所以，耶稣又对他们说：「我实实在在地告诉你们，我就是羊的门。",
-      "ja": "そこで、イエスはまた言われた。「まことに、まことに、あなたがたに告げます。わたしは羊の門です。"
+      "ja": "そこで、イエスはまた言われた、「よくよくあなたがたに言っておく。わたしは羊の門である。"
     },
     {
       "number": 8,
@@ -64,7 +64,7 @@
       "en": "All who ever came before me were thieves and robbers, but the sheep did not listen to them.",
       "de": "Alle, die vor mir gekommen sind, die sind Diebe und Mörder; aber die Schafe haben ihnen nicht gehorcht.",
       "zh": "凡在我以先来的都是贼，是强盗；羊却不听他们。",
-      "ja": "わたしの前に来た者はみな、盗人で強盗です。羊は彼らの言うことを聞かなかったのです。"
+      "ja": "わたしよりも前にきた人は、みな盗人であり、強盗である。羊は彼らに聞き従わなかった。"
     },
     {
       "number": 9,
@@ -72,7 +72,7 @@
       "en": "I am the gate; whoever enters through me will be saved. He will come in and go out, and find pasture.",
       "de": "Ich bin die Tür; so jemand durch mich eingeht, der wird selig werden und wird ein und aus gehen und Weide finden.",
       "zh": "我就是门；凡从我进来的，必然得救，并且出入得草吃。",
-      "ja": "わたしは門です。だれでも、わたしを通ってはいるなら、救われます。また安らかに出入りし、牧草を見つけます。"
+      "ja": "わたしは門である。わたしをとおってはいる者は救われ、また出入りし、牧草にありつくであろう。"
     },
     {
       "number": 10,
@@ -80,7 +80,7 @@
       "en": "The thief comes only to steal and kill and destroy; I have come that they may have life, and have it to the full.",
       "de": "Ein Dieb kommt nur, daß er stehle, würge und umbringe.",
       "zh": "盗贼来，无非要偷窃，杀害，毁坏；我来了，是要叫羊得生命，并且得的更丰盛。",
-      "ja": "盗人が来るのは、ただ盗んだり、殺したり、滅ぼしたりするだけのためです。わたしが来たのは、羊がいのちを得、またそれを豊かに持つためです。"
+      "ja": "盗人が来るのは、盗んだり、殺したり、滅ぼしたりするためにほかならない。わたしがきたのは、羊に命を得させ、豊かに得させるためである。"
     },
     {
       "number": 11,
@@ -88,7 +88,7 @@
       "en": "\"I am the good shepherd. The good shepherd lays down his life for the sheep.",
       "de": "Ich bin gekommen, daß sie das Leben und volle Genüge haben sollen.",
       "zh": "我是好牧人；好牧人为羊舍命。",
-      "ja": "わたしは、良い牧者です。良い牧者は羊のためにいのちを捨てます。"
+      "ja": "わたしはよい羊飼である。よい羊飼は、羊のために命を捨てる。"
     },
     {
       "number": 12,
@@ -96,7 +96,7 @@
       "en": "The hired hand is not the shepherd who owns the sheep. So when he sees the wolf coming, he abandons the sheep and runs away. Then the wolf attacks the flock and scatters it.",
       "de": "Ich bin der gute Hirte. Der gute Hirte läßt sein Leben für seine Schafe. Der Mietling aber, der nicht Hirte ist, des die Schafe nicht eigen sind, sieht den Wolf kommen und verläßt die Schafe und flieht; und der Wolf erhascht und zerstreut die Schafe.",
       "zh": "若是雇工，不是牧人，羊也不是他自己的，他看见狼来，就撇下羊逃走；狼抓住羊，赶散了羊群。",
-      "ja": "牧者でなく、また、羊の所有者でない雇い人は、狼が来るのを見ると、羊を置き去りにして、逃げて行きます。それで、狼は羊を奪い、また散らすのです。"
+      "ja": "羊飼ではなく、羊が自分のものでもない雇人は、おおかみが来るのを見ると、羊をすてて逃げ去る。そして、おおかみは羊を奪い、また追い散らす。"
     },
     {
       "number": 13,
@@ -104,7 +104,7 @@
       "en": "The man runs away because he is a hired hand and cares nothing for the sheep.",
       "de": "Der Mietling aber flieht; denn er ist ein Mietling und achtet der Schafe nicht.",
       "zh": "雇工逃走，因他是雇工，并不顾念羊。",
-      "ja": "それは、彼が雇い人であって、羊のことを心にかけていないからです。"
+      "ja": "彼は雇人であって、羊のことを心にかけていないからである。"
     },
     {
       "number": 14,
@@ -112,7 +112,7 @@
       "en": "\"I am the good shepherd; I know my sheep and my sheep know me--",
       "de": "Ich bin der gute Hirte und erkenne die Meinen und bin bekannt den Meinen,",
       "zh": "我是好牧人；我认识我的羊，我的羊也认识我，",
-      "ja": "わたしは良い牧者です。わたしはわたしのものを知っています。また、わたしのものは、わたしを知っています。"
+      "ja": "わたしはよい羊飼であって、わたしの羊を知り、わたしの羊はまた、わたしを知っている。"
     },
     {
       "number": 15,
@@ -120,7 +120,7 @@
       "en": "just as the Father knows me and I know the Father--and I lay down my life for the sheep.",
       "de": "wie mich mein Vater kennt und ich kenne den Vater. Und ich lasse mein Leben für die Schafe.",
       "zh": "正如父认识我，我也认识父一样；并且我为羊舍命。",
-      "ja": "それは、父がわたしを知っておられ、わたしが父を知っているのと同様です。また、わたしは羊のためにわたしのいのちを捨てます。"
+      "ja": "それはちょうど、父がわたしを知っておられ、わたしが父を知っているのと同じである。そして、わたしは羊のために命を捨てるのである。"
     },
     {
       "number": 16,
@@ -128,7 +128,7 @@
       "en": "I have other sheep that are not of this sheep pen. I must bring them also. They too will listen to my voice, and there shall be one flock and one shepherd.",
       "de": "Und ich habe noch andere Schafe, die sind nicht aus diesem Stalle; und dieselben muß ich herführen, und sie werden meine Stimme hören, und wird eine Herde und ein Hirte werden.",
       "zh": "我另外有羊，不是这圈里的；我必须领他们来，他们也要听我的声音，并且要合成一群，归一个牧人了。",
-      "ja": "わたしにはまた、この囲いに属さないほかの羊があります。わたしはそれをも導かなければなりません。彼らはわたしの声に聞き従い、一つの群れ、ひとりの牧者となるのです。"
+      "ja": "わたしにはまた、この囲いにいない他の羊がある。わたしは彼らをも導かねばならない。彼らも、わたしの声に聞き従うであろう。そして、ついに一つの群れ、ひとりの羊飼となるであろう。"
     },
     {
       "number": 17,
@@ -136,7 +136,7 @@
       "en": "The reason my Father loves me is that I lay down my life--only to take it up again.",
       "de": "Darum liebt mich mein Vater, daß ich mein Leben lasse, auf daß ich's wiedernehme.",
       "zh": "我父爱我；因我将命舍去，好再取回来。",
-      "ja": "わたしが自分のいのちを再び得るために自分のいのちを捨てるからこそ、父はわたしを愛してくださいます。"
+      "ja": "父は、わたしが自分の命を捨てるから、わたしを愛して下さるのである。命を捨てるのは、それを再び得るためである。"
     },
     {
       "number": 18,
@@ -144,7 +144,7 @@
       "en": "No one takes it from me, but I lay it down of my own accord. I have authority to lay it down and authority to take it up again. This command I received from my Father.\"",
       "de": "Niemand nimmt es von mir, sondern ich lasse es von mir selber. Ich habe Macht, es zu lassen, und habe Macht, es wiederzunehmen. Solch Gebot habe ich empfangen von meinem Vater.",
       "zh": "没有人夺我的命去，是我自己舍的。我有权柄舍了，也有权柄取回来。这是我从我父所受的命令。」",
-      "ja": "だれも、わたしからいのちを取った者はいません。わたしが自分からいのちを捨てるのです。わたしには、それを捨てる権威があり、それをもう一度得る権威があります。わたしはこの命令をわたしの父から受けたのです。」"
+      "ja": "だれかが、わたしからそれを取り去るのではない。わたしが、自分からそれを捨てるのである。わたしには、それを捨てる力があり、またそれを受ける力もある。これはわたしの父から授かった定めである」。"
     },
     {
       "number": 19,
@@ -152,7 +152,7 @@
       "en": "At these words the Jews were again divided.",
       "de": "Da ward abermals eine Zwietracht unter den Juden über diese Worte.",
       "zh": "犹太人为这些话又起了纷争。",
-      "ja": "このみことばを聞いて、ユダヤ人たちの間にまた分裂が起こった。"
+      "ja": "これらの言葉を語られたため、ユダヤ人の間にまたも分争が生じた。"
     },
     {
       "number": 20,
@@ -160,7 +160,7 @@
       "en": "Many of them said, \"He is demon-possessed and raving mad. Why listen to him?\"",
       "de": "Viele unter ihnen sprachen: Er hat den Teufel und ist unsinnig; was höret ihr ihm zu?",
       "zh": "内中有好些人说：「他是被鬼附着，而且疯了，为什么听他呢？」",
-      "ja": "彼らのうちの多くの者が言った。「あれは悪霊につかれて気が狂っている。どうしてあなたがたは、あの人の言うことに耳を貸すのか。」"
+      "ja": "そのうちの多くの者が言った、「彼は悪霊に取りつかれて、気が狂っている。どうして、あなたがたはその言うことを聞くのか」。"
     },
     {
       "number": 21,
@@ -168,7 +168,7 @@
       "en": "But others said, \"These are not the sayings of a man possessed by a demon. Can a demon open the eyes of the blind?\"",
       "de": "Die andern sprachen: Das sind nicht Worte eines Besessenen; kann der Teufel auch der Blinden Augen auftun?",
       "zh": "又有人说：「这不是鬼附之人所说的话。鬼岂能叫瞎子的眼睛开了呢？」",
-      "ja": "ほかの者は言った。「これは悪霊につかれた者のことばではない。悪霊がどうして盲人の目をあけることができようか。」"
+      "ja": "他の人々は言った、「それは悪霊に取りつかれた者の言葉ではない。悪霊は盲人の目をあけることができようか」。"
     },
     {
       "number": 22,
@@ -176,7 +176,7 @@
       "en": "Then came the Feast of Dedication at Jerusalem. It was winter,",
       "de": "Es ward aber Kirchweihe zu Jerusalem und war Winter.",
       "zh": "在耶路撒冷有修殿节，是冬天的时候。",
-      "ja": "そのころ、エルサレムで、宮きよめの祭りがあった。"
+      "ja": "そのころ、エルサレムで宮きよめの祭が行われた。時は冬であった。"
     },
     {
       "number": 23,
@@ -184,7 +184,7 @@
       "en": "and Jesus was in the temple area walking in Solomon's Colonnade.",
       "de": "Und Jesus wandelte im Tempel in der Halle Salomos.",
       "zh": "耶稣在殿里所罗门的廊下行走。",
-      "ja": "時は冬であった。イエスは、宮の中で、ソロモンの廊を歩いておられた。"
+      "ja": "イエスは、宮の中にあるソロモンの廊を歩いておられた。"
     },
     {
       "number": 24,
@@ -192,7 +192,7 @@
       "en": "The Jews gathered around him, saying, \"How long will you keep us in suspense? If you are the Christ, tell us plainly.\"",
       "de": "Da umringten ihn die Juden und sprachen zu ihm: Wie lange hältst du unsere Seele auf? Bist du Christus, so sage es uns frei heraus.",
       "zh": "犹太人围着他，说：「你叫我们犹疑不定到几时呢？你若是基督，就明明地告诉我们。」",
-      "ja": "それでユダヤ人たちは、イエスを取り囲んで言った。「あなたは、いつまで私たちに気をもませるのですか。もしあなたがキリストなら、はっきりとそう言ってください。」"
+      "ja": "するとユダヤ人たちが、イエスを取り囲んで言った、「いつまでわたしたちを不安のままにしておくのか。あなたがキリストであるなら、そうとはっきり言っていただきたい」。"
     },
     {
       "number": 25,
@@ -200,7 +200,7 @@
       "en": "Jesus answered, \"I did tell you, but you do not believe. The miracles I do in my Father's name speak for me,",
       "de": "Jesus antwortete ihnen: Ich habe es euch gesagt, und ihr glaubet nicht. Die Werke, die ich tue in meines Vaters Namen, die zeugen von mir.",
       "zh": "耶稣回答说：「我已经告诉你们，你们不信。我奉我父之名所行的事可以为我作见证；",
-      "ja": "イエスは彼らに答えられた。「わたしは話しました。しかし、あなたがたは信じないのです。わたしが父の御名によって行なうわざが、わたしについて証言しています。"
+      "ja": "イエスは彼らに答えられた、「わたしは話したのだが、あなたがたは信じようとしない。わたしの父の名によってしているすべてのわざが、わたしのことをあかししている。"
     },
     {
       "number": 26,
@@ -208,7 +208,7 @@
       "en": "but you do not believe because you are not my sheep.",
       "de": "Aber ihr glaubet nicht; denn ihr seid von meinen Schafen nicht, wie ich euch gesagt habe.",
       "zh": "只是你们不信，因为你们不是我的羊。",
-      "ja": "しかし、あなたがたは信じません。それは、あなたがたがわたしの羊に属していないからです。"
+      "ja": "あなたがたが信じないのは、わたしの羊でないからである。"
     },
     {
       "number": 27,
@@ -216,7 +216,7 @@
       "en": "My sheep listen to my voice; I know them, and they follow me.",
       "de": "Denn meine Schafe hören meine Stimme, und ich kenne sie; und sie folgen mir,",
       "zh": "我的羊听我的声音，我也认识他们，他们也跟着我。",
-      "ja": "わたしの羊はわたしの声を聞き分けます。またわたしは彼らを知っています。そして彼らはわたしについて来ます。"
+      "ja": "わたしの羊はわたしの声に聞き従う。わたしは彼らを知っており、彼らはわたしについて来る。"
     },
     {
       "number": 28,
@@ -224,7 +224,7 @@
       "en": "I give them eternal life, and they shall never perish; no one can snatch them out of my hand.",
       "de": "und ich gebe ihnen das ewige Leben; und sie werden nimmermehr umkommen, und niemand wird sie mir aus meiner Hand reißen.",
       "zh": "我又赐给他们永生；他们永不灭亡，谁也不能从我手里把他们夺去。",
-      "ja": "わたしは彼らに永遠のいのちを与えます。彼らは決して滅びることがなく、また、だれもわたしの手から彼らを奪い去るようなことはありません。"
+      "ja": "わたしは、彼らに永遠の命を与える。だから、彼らはいつまでも滅びることがなく、また、彼らをわたしの手から奪い去る者はない。"
     },
     {
       "number": 29,
@@ -232,7 +232,7 @@
       "en": "My Father, who has given them to me, is greater than all; no one can snatch them out of my Father's hand.",
       "de": "Der Vater, der sie mir gegeben hat, ist größer denn alles; und niemand kann sie aus meines Vaters Hand reißen.",
       "zh": "我父把羊赐给我，他比万有都大，谁也不能从我父手里把他们夺去。",
-      "ja": "わたしに彼らをお与えになった父は、すべてにまさって偉大です。だれもわたしの父の御手から彼らを奪い去ることはできません。"
+      "ja": "わたしの父がわたしに下さったものは、すべてにまさるものである。そしてだれも父のみ手から、それを奪い取ることはできない。"
     },
     {
       "number": 30,
@@ -240,7 +240,7 @@
       "en": "I and the Father are one.\"",
       "de": "Ich und der Vater sind eins.",
       "zh": "我与父原为一。」",
-      "ja": "わたしと父とは一つです。」"
+      "ja": "わたしと父とは一つである」。"
     },
     {
       "number": 31,
@@ -248,7 +248,7 @@
       "en": "Again the Jews picked up stones to stone him,",
       "de": "Da hoben die Juden abermals Steine auf, daß sie ihn steinigten.",
       "zh": "犹太人又拿起石头来要打他。",
-      "ja": "ユダヤ人たちは、イエスを石打ちにしようとして、また石を取り上げた。"
+      "ja": "そこでユダヤ人たちは、イエスを打ち殺そうとして、また石を取りあげた。"
     },
     {
       "number": 32,
@@ -256,7 +256,7 @@
       "en": "but Jesus said to them, \"I have shown you many great miracles from the Father. For which of these do you stone me?\"",
       "de": "Jesus antwortete ihnen: Viel gute Werke habe ich euch erzeigt von meinem Vater; um welches Werk unter ihnen steinigt ihr mich?",
       "zh": "耶稣对他们说：「我从父显出许多善事给你们看，你们是为哪一件拿石头打我呢？」",
-      "ja": "イエスは彼らに答えられた。「わたしは、父から出た多くの良いわざを、あなたがたに示しました。そのうちのどのわざのために、わたしを石打ちにしようとするのですか。」"
+      "ja": "するとイエスは彼らに答えられた、「わたしは、父による多くのよいわざを、あなたがたに示した。その中のどのわざのために、わたしを石で打ち殺そうとするのか」。"
     },
     {
       "number": 33,
@@ -264,7 +264,7 @@
       "en": "\"We are not stoning you for any of these,\" replied the Jews, \"but for blasphemy, because you, a mere man, claim to be God.\"",
       "de": "Die Juden antworteten ihm und sprachen: Um des guten Werks willen steinigen wir dich nicht, sondern um der Gotteslästerung willen und daß du ein Mensch bist und machst dich selbst zu Gott.",
       "zh": "犹太人回答说：「我们不是为善事拿石头打你，是为你说僭妄的话；又为你是个人，反将自己当作　神。」",
-      "ja": "ユダヤ人たちはイエスに答えた。「良いわざのためにあなたを石打ちにするのではありません。冒涜のためです。あなたは人間でありながら、自分を神とするからです。」"
+      "ja": "ユダヤ人たちは答えた、「あなたを石で殺そうとするのは、よいわざをしたからではなく、神を汚したからである。また、あなたは人間であるのに、自分を神としているからである」。"
     },
     {
       "number": 34,
@@ -272,7 +272,7 @@
       "en": "Jesus answered them, \"Is it not written in your Law, 'I have said you are gods'?",
       "de": "Jesus antwortete ihnen: Steht nicht geschrieben in eurem Gesetz: “Ich habe gesagt: Ihr seid Götter”?",
       "zh": "耶稣说：「你们的律法上岂不是写着『我曾说你们是神』吗？",
-      "ja": "イエスは彼らに答えられた。「あなたがたの律法に、『わたしは言った、あなたがたは神である。』と書いてはありませんか。"
+      "ja": "イエスは彼らに答えられた、「あなたがたの律法に、『わたしは言う、あなたがたは神々である』と書いてあるではないか。"
     },
     {
       "number": 35,
@@ -280,7 +280,7 @@
       "en": "If he called them 'gods,' to whom the word of God came--and the Scripture cannot be broken--",
       "de": "So er die Götter nennt, zu welchen das Wort geschah, und die Schrift kann doch nicht gebrochen werden,",
       "zh": "经上的话是不能废的；若那些承受　神道的人尚且称为神，",
-      "ja": "もし、神のことばを受けた人々を、神と呼んだとすれば、聖書は廃棄されるものではないから、"
+      "ja": "神の言を託された人々が、神々といわれておるとすれば、（そして聖書の言は、すたることがあり得ない）"
     },
     {
       "number": 36,
@@ -288,7 +288,7 @@
       "en": "what about the one whom the Father set apart as his very own and sent into the world? Why then do you accuse me of blasphemy because I said, 'I am God's Son'?",
       "de": "sprecht ihr denn zu dem, den der Vater geheiligt und in die Welt gesandt hat: “Du lästerst Gott”, darum daß ich sage: Ich bin Gottes Sohn?",
       "zh": "父所分别为圣、又差到世间来的，他自称是　神的儿子，你们还向他说『你说僭妄的话』吗？",
-      "ja": "『わたしは神の子である。』とわたしが言ったからといって、どうしてあなたがたは、父が、聖別して世に遣わした者について、『神を冒涜している。』と言うのですか。"
+      "ja": "父が聖別して、世につかわされた者が、『わたしは神の子である』と言ったからとて、どうして『あなたは神を汚す者だ』と言うのか。"
     },
     {
       "number": 37,
@@ -296,7 +296,7 @@
       "en": "Do not believe me unless I do what my Father does.",
       "de": "Tue ich nicht die Werke meines Vaters, so glaubet mir nicht;",
       "zh": "我若不行我父的事，你们就不必信我；",
-      "ja": "もしわたしが、わたしの父のみわざを行なっていないのなら、わたしを信じないでいなさい。"
+      "ja": "もしわたしが父のわざを行わないとすれば、わたしを信じなくてもよい。"
     },
     {
       "number": 38,
@@ -304,7 +304,7 @@
       "en": "But if I do it, even though you do not believe me, believe the miracles, that you may know and understand that the Father is in me, and I in the Father.\"",
       "de": "tue ich sie aber, glaubet doch den Werken, wollt ihr mir nicht glauben, auf daß ihr erkennet und glaubet, daß der Vater in mir ist und ich in ihm.",
       "zh": "我若行了，你们纵然不信我，也当信这些事，叫你们又知道又明白父在我里面，我也在父里面。」",
-      "ja": "しかし、もし行なっているなら、たといわたしの言うことが信じられなくても、わざを信用しなさい。それは、父がわたしにおられ、わたしが父にいることを、あなたがたが悟り、また知るためです。」"
+      "ja": "しかし、もし行っているなら、たといわたしを信じなくても、わたしのわざを信じるがよい。そうすれば、父がわたしにおり、また、わたしが父におることを知って悟るであろう」。"
     },
     {
       "number": 39,
@@ -312,7 +312,7 @@
       "en": "Again they tried to seize him, but he escaped their grasp.",
       "de": "Sie suchten abermals ihn zu greifen; aber er entging ihnen aus ihren Händen",
       "zh": "他们又要拿他，他却逃出他们的手走了。",
-      "ja": "そこで、彼らはまたイエスを捕えようとした。しかし、イエスは彼らの手からのがれられた。"
+      "ja": "そこで、彼らはまたイエスを捕えようとしたが、イエスは彼らの手をのがれて、去って行かれた。"
     },
     {
       "number": 40,
@@ -320,7 +320,7 @@
       "en": "Then Jesus went back across the Jordan to the place where John had been baptizing in the early days. Here he stayed",
       "de": "und zog hin wieder jenseit des Jordans an den Ort, da Johannes zuvor getauft hatte, und blieb allda.",
       "zh": "耶稣又往约旦河外去，到了约翰起初施洗的地方，就住在那里。",
-      "ja": "そして、イエスはまたヨルダンを渡って、ヨハネが初めにバプテスマを授けていた所に行かれ、そこに滞在された。"
+      "ja": "さて、イエスはまたヨルダンの向こう岸、すなわち、ヨハネが初めにバプテスマを授けていた所に行き、そこに滞在しておられた。"
     },
     {
       "number": 41,
@@ -328,7 +328,7 @@
       "en": "and many people came to him. They said, \"Though John never performed a miraculous sign, all that John said about this man was true.\"",
       "de": "Und viele kamen zu ihm und sprachen: Johannes tat kein Zeichen; aber alles, was Johannes von diesem gesagt hat, das ist wahr.",
       "zh": "有许多人来到他那里。他们说：「约翰一件神迹没有行过，但约翰指着这人所说的一切话都是真的。」",
-      "ja": "多くの人々がイエスのところに来た。彼らは、「ヨハネは何一つしるしを行なわなかったけれども、彼がこの方について話したことはみな真実であった。」と言った。"
+      "ja": "多くの人々がイエスのところにきて、互に言った、「ヨハネはなんのしるしも行わなかったが、ヨハネがこのかたについて言ったことは、皆ほんとうであった」。"
     },
     {
       "number": 42,
@@ -336,7 +336,7 @@
       "en": "And in that place many believed in Jesus. JOH",
       "de": "Und glaubten allda viele an ihn.",
       "zh": "在那里，信耶稣的人就多了。",
-      "ja": "そして、その地方で多くの人々がイエスを信じた。"
+      "ja": "そして、そこで多くの者がイエスを信じた。"
     }
   ]
 }

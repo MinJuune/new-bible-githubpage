@@ -8,7 +8,7 @@
       "en": "Adam, Seth, Enosh,",
       "de": "Adam, Seth, Enos,",
       "zh": "亚当生塞特；塞特生以挪士；",
-      "ja": "アダム、セツ、エノス"
+      "ja": "アダム、セツ、エノス、"
     },
     {
       "number": 2,
@@ -16,7 +16,7 @@
       "en": "Kenan, Mahalalel, Jared,",
       "de": "Kenan, Mahalaleel, Jared,",
       "zh": "以挪士生该南；该南生玛勒列；玛勒列生雅列；",
-      "ja": "ケナン、マハラレル、ヤレド"
+      "ja": "ケナン、マハラレル、ヤレド、"
     },
     {
       "number": 3,
@@ -24,7 +24,7 @@
       "en": "Enoch, Methuselah, Lamech, Noah.",
       "de": "Henoch, Methusalah, Lamech,",
       "zh": "雅列生以诺；以诺生玛土撒拉；玛土撒拉生拉麦；",
-      "ja": "エノク、メトセラ、ラメク"
+      "ja": "エノク、メトセラ、ラメク、"
     },
     {
       "number": 4,
@@ -32,7 +32,7 @@
       "en": "The sons of Noah: Shem, Ham and Japheth.",
       "de": "Noah, Sem, Ham, Japheth.",
       "zh": "拉麦生挪亚；挪亚生闪、含、雅弗。",
-      "ja": "ノア、セム、ハム、ヤペテ"
+      "ja": "ノア、セム、ハム、ヤペテ。"
     },
     {
       "number": 5,
@@ -40,7 +40,7 @@
       "en": "The sons of Japheth: Gomer, Magog, Madai, Javan, Tubal, Meshech and Tiras.",
       "de": "Die Kinder Japheths sind diese: Gomer, Magog, Madai, Javan, Thubal, Mesech, Thiras.",
       "zh": "雅弗的儿子是歌篾、玛各、玛代、雅完、土巴、米设、提拉。",
-      "ja": "ヤベテの子等はゴメル、マゴグ、マデア、ヤワン、トバル、メセク、テラス"
+      "ja": "ヤペテの子らはゴメル、マゴグ、マダイ、ヤワン、トバル、メセク、テラス。"
     },
     {
       "number": 6,
@@ -48,7 +48,7 @@
       "en": "The sons of Gomer: Ashkenaz, Riphath and Togarmah.",
       "de": "Die Kinder aber Gomers sind: Askenas, Riphath, Thogarma.",
       "zh": "歌篾的儿子是亚实基拿、低法、陀迦玛。",
-      "ja": "ゴメルの子等はアシケナズ、リパテ、トガルマ"
+      "ja": "ゴメルの子らはアシケナズ、デパテ、トガルマ。"
     },
     {
       "number": 7,
@@ -56,7 +56,7 @@
       "en": "The sons of Javan: Elishah, Tarshish, the Kittim and the Rodanim.",
       "de": "Die Kinder Javans sind: Elisa, Tharsisa, die Chittiter, die Dodaniter.",
       "zh": "雅完的儿子是以利沙、他施、基提、多单。",
-      "ja": "ヤワンの子等はエリシヤ、タルシシ、キツテム、ドダニム"
+      "ja": "ヤワンの子らはエリシャ、タルシシ、キッテム、ロダニム。"
     },
     {
       "number": 8,
@@ -64,7 +64,7 @@
       "en": "The sons of Ham: Cush, Mizraim, Put and Canaan.",
       "de": "Die Kinder Hams sind: Chus, Mizraim, Put, Kanaan.",
       "zh": "含的儿子是古实、麦西、弗、迦南。",
-      "ja": "ハムの子等はクシ、ミツライム、プテ、カナン"
+      "ja": "ハムの子らはクシ、エジプト、プテ、カナン。"
     },
     {
       "number": 9,
@@ -72,7 +72,7 @@
       "en": "The sons of Cush: Seba, Havilah, Sabta, Raamah and Sabteca. The sons of Raamah: Sheba and Dedan.",
       "de": "Die Kinder aber von Chus sind: Seba, Hevila, Sabtha, Ragma, Sabthecha. Die Kinder aber Ragmas sind: Saba und Dedan.",
       "zh": "古实的儿子是西巴、哈腓拉、撒弗他、拉玛、撒弗提迦。拉玛的儿子是示巴、底但。",
-      "ja": "クシの子等はセバ、ハビラ、サブタ、ラアマ、サブテカ、ラアマの子等はセバとデダン"
+      "ja": "クシの子らはセバ、ハビラ、サブタ、ラアマ、サブテカ。ラアマの子らはシバとデダン。"
     },
     {
       "number": 10,
@@ -80,7 +80,7 @@
       "en": "Cush was the father of Nimrod, who grew to be a mighty warrior on earth.",
       "de": "Chus aber zeugte Nimrod; der fing an, gewaltig zu sein auf Erden.",
       "zh": "古实生宁录；他为世上英雄之首。",
-      "ja": "クシ、ニムロデを生り彼はじめて世の權力ある者となれり"
+      "ja": "クシはニムロデを生んだ。ニムロデは初めて世の権力ある者となった。"
     },
     {
       "number": 11,
@@ -88,7 +88,7 @@
       "en": "Mizraim was the father of the Ludites, Anamites, Lehabites, Naphtuhites,",
       "de": "Mizraim zeugte die Luditer, die Anamiter, die Lehabiter, die Naphthuhiter,",
       "zh": "麦西生路低人、亚拿米人、利哈比人、拿弗土希人、",
-      "ja": "ミツライムはルデ族アナミ族レハビ族ナフト族"
+      "ja": "エジプトはルデびと、アナムびと、レハブびと、ナフトびと、"
     },
     {
       "number": 12,
@@ -96,7 +96,7 @@
       "en": "Pathrusites, Casluhites (from whom the Philistines came) and Caphtorites.",
       "de": "die Pathrusiter, die Kasluhiter, von welchen sind ausgegangen die Philister, und die Kaphthoriter.",
       "zh": "帕斯鲁细人、迦斯路希人、迦斐托人；从迦斐托出来的有非利士人。",
-      "ja": "パテロス族カスル族カフトリ族を生りカスル族よりペリシテ族出たり"
+      "ja": "パテロスびと、カスルびと、カフトルびとを生んだ。カフトルびとからペリシテびとが出た。"
     },
     {
       "number": 13,
@@ -104,7 +104,7 @@
       "en": "Canaan was the father of Sidon his firstborn, and of the Hittites,",
       "de": "Kanaan aber zeugte Sidon, seinen ersten Sohn und Heth,",
       "zh": "迦南生长子西顿，又生赫",
-      "ja": "カナンその冢子シドンおよびヘテを生み"
+      "ja": "カナンは長子シドンとヘテを生んだ。"
     },
     {
       "number": 14,
@@ -112,7 +112,7 @@
       "en": "Jebusites, Amorites, Girgashites,",
       "de": "den Jebusiter, den Amoriter, den Girgasiter,",
       "zh": "和耶布斯人、亚摩利人、革迦撒人、",
-      "ja": "またヱブス族アモリ族ギルガシ族"
+      "ja": "またエブスびと、アモリびと、ギルガシびと、"
     },
     {
       "number": 15,
@@ -120,7 +120,7 @@
       "en": "Hivites, Arkites, Sinites,",
       "de": "den Heviter, den Arkiter, den Siniter,",
       "zh": "希未人、亚基人、西尼人、",
-      "ja": "ヒビ族アルキ族セニ族"
+      "ja": "ヒビびと、アルキびと、セニびと、"
     },
     {
       "number": 16,
@@ -128,7 +128,7 @@
       "en": "Arvadites, Zemarites and Hamathites.",
       "de": "den Arvaditer, den Zemariter und den Hamathiter.",
       "zh": "亚瓦底人、洗玛利人，并哈马人。",
-      "ja": "アルワデ族ゼマリ族ハマテ族を生り"
+      "ja": "アルワデびと、ゼマリびと、ハマテびとを生んだ。"
     },
     {
       "number": 17,
@@ -136,7 +136,7 @@
       "en": "The sons of Shem: Elam, Asshur, Arphaxad, Lud and Aram. The sons of Aram: Uz, Hul, Gether and Meshech.",
       "de": "Die Kinder Sems sind diese: Elam, Assur, Arphachsad, Lud, Aram, Uz, Hul, Gether und Mesech.",
       "zh": "闪的儿子是以拦、亚述、亚法 撒、路德、亚兰、乌斯、户勒、基帖、米设。",
-      "ja": "セムの子等はエラム、アシユル、アルバクサデ、ルデ、アラム、ウズ、ホル、ゲテル、メセク"
+      "ja": "セムの子らはエラム、アシュル、アルパクサデ、ルデ、アラム、ウズ、ホル、ゲテル、メセクである。"
     },
     {
       "number": 18,
@@ -144,7 +144,7 @@
       "en": "Arphaxad was the father of Shelah, and Shelah the father of Eber.",
       "de": "Arphachsad aber zeugte Salah; Salah zeugte Eber.",
       "zh": "亚法撒生沙拉；沙拉生希伯。",
-      "ja": "アルバクサデ、シラを生みシラ、エベルを生り"
+      "ja": "アルパクサデはシラを生み、シラはエベルを生んだ。"
     },
     {
       "number": 19,
@@ -152,7 +152,7 @@
       "en": "Two sons were born to Eber: One was named Peleg, because in his time the earth was divided; his brother was named Joktan.",
       "de": "Eber aber wurden zwei Söhne geboren: der eine hieß Peleg, darum daß zu seiner Zeit das Land zerteilt ward, und sein Bruder hieß Joktan.",
       "zh": "希伯生了两个儿子：一个名叫法勒，因为那时人就分地居住；法勒的兄弟名叫约坍。",
-      "ja": "エベルに二人の子生れたりその一人の名をベレグ(分)と曰ふ其は彼の代に地の人散り分れたればなりその弟の名をヨクタンと曰ふ"
+      "ja": "エベルにふたりの子が生れた。ひとりの名はペレグ――彼の代に地の民が散り分れたからである――その弟の名はヨクタンといった。"
     },
     {
       "number": 20,
@@ -160,7 +160,7 @@
       "en": "Joktan was the father of Almodad, Sheleph, Hazarmaveth, Jerah,",
       "de": "Joktan aber zeugte Almodad, Saleph, Hazarmaveth, Jarah,",
       "zh": "约坍生亚摩答、沙列、哈萨玛非、耶拉、",
-      "ja": "ヨクタンはアルモダデ、シヤレフ、ハザルマウテ、ヱラ"
+      "ja": "ヨクタンはアルモダデ、シャレフ、ハザル・マウテ、エラ、"
     },
     {
       "number": 21,
@@ -168,7 +168,7 @@
       "en": "Hadoram, Uzal, Diklah,",
       "de": "Hadoram, Usal, Dikla,",
       "zh": "哈多兰、乌萨、德拉、",
-      "ja": "ハドラム、ウザル、デクラ"
+      "ja": "ハドラム、ウザル、デクラ、"
     },
     {
       "number": 22,
@@ -176,7 +176,7 @@
       "en": "Obal, Abimael, Sheba,",
       "de": "Ebal, Abimael, Saba,",
       "zh": "以巴录、亚比玛利、示巴、",
-      "ja": "エバル、アビマエル、シバ"
+      "ja": "エバル、アビマエル、シバ、"
     },
     {
       "number": 23,
@@ -184,7 +184,7 @@
       "en": "Ophir, Havilah and Jobab. All these were sons of Joktan.",
       "de": "Ophir, Hevila, und Jobab. Diese alle sind Kinder Joktans.",
       "zh": "阿斐、哈腓拉、约巴。这都是约坍的儿子。",
-      "ja": "オフル、ハビラおよびヨハブを生り是等はみなヨクタンの子なり"
+      "ja": "オフル、ハビラ、ヨバブを生んだ。これらはみなヨクタンの子である。"
     },
     {
       "number": 24,
@@ -192,7 +192,7 @@
       "en": "Shem, Arphaxad, Shelah,",
       "de": "Sem, Arphachsad, Salah,",
       "zh": "闪生亚法撒；亚法撒生沙拉；",
-      "ja": "セム、アルバクサデ、シラ"
+      "ja": "セム、アルパクサデ、シラ、"
     },
     {
       "number": 25,
@@ -200,7 +200,7 @@
       "en": "Eber, Peleg, Reu,",
       "de": "Eber, Peleg, Regu,",
       "zh": "沙拉生希伯；希伯生法勒；法勒生拉吴；",
-      "ja": "エベル、ベレグ、リウ"
+      "ja": "エベル、ペレグ、リウ、"
     },
     {
       "number": 26,
@@ -208,7 +208,7 @@
       "en": "Serug, Nahor, Terah",
       "de": "Serug, Nahor, Tharah,",
       "zh": "拉吴生西鹿；西鹿生拿鹤；拿鹤生他拉；",
-      "ja": "セルグ、ナホル、テラ"
+      "ja": "セルグ、ナホル、テラ、"
     },
     {
       "number": 27,
@@ -216,7 +216,7 @@
       "en": "and Abram (that is, Abraham).",
       "de": "Abram, das ist Abraham.",
       "zh": "他拉生亚伯兰，亚伯兰就是亚伯拉罕。",
-      "ja": "アブラム是すなはちアブラハムなり"
+      "ja": "アブラムすなわちアブラハムである。"
     },
     {
       "number": 28,
@@ -224,7 +224,7 @@
       "en": "The sons of Abraham: Isaac and Ishmael.",
       "de": "Die Kinder aber Abrahams sind: Isaak und Ismael.",
       "zh": "亚伯拉罕的儿子是以撒、以实玛利。",
-      "ja": "アブラハムの子等はイサクおよびイシマエル"
+      "ja": "アブラハムの子らはイサクとイシマエルである。"
     },
     {
       "number": 29,
@@ -232,7 +232,7 @@
       "en": "These were their descendants: Nebaioth the firstborn of Ishmael, Kedar, Adbeel, Mibsam,",
       "de": "Dies ist ihr Geschlecht: der erste Sohn Ismaels, Nebajoth, Kedar, Adbeel, Mibsam,",
       "zh": "以实玛利的儿子记在下面：以实玛利的长子是尼拜约，其次是基达、押德别、米比衫、",
-      "ja": "彼らの子孫は左のごとしイシマエルの冢子はネバヨテ次はケダル、アデビエル、ミブサム"
+      "ja": "彼らの子孫は次のとおりである。イシマエルの長子はネバヨテ、次はケダル、アデビエル、ミブサム、"
     },
     {
       "number": 30,
@@ -240,7 +240,7 @@
       "en": "Mishma, Dumah, Massa, Hadad, Tema,",
       "de": "Misma, Duma, Massa, Hadad, Thema,",
       "zh": "米施玛、度玛、玛撒、哈达、提玛、",
-      "ja": "ミシマ、ドマ、マツサ、ハダデ、テマ"
+      "ja": "ミシマ、ドマ、マッサ、ハダデ、テマ、"
     },
     {
       "number": 31,
@@ -248,7 +248,7 @@
       "en": "Jetur, Naphish and Kedemah. These were the sons of Ishmael.",
       "de": "Jetur, Naphis, Kedma. Das sind die Kinder Ismaels.",
       "zh": "伊突、拿非施、基底玛。这都是以实玛利的儿子。",
-      "ja": "ヱトル、ネフシ、ケデマ、イシマエルの子孫は是の如し"
+      "ja": "エトル、ネフシ、ケデマ。これらはイシマエルの子孫である。"
     },
     {
       "number": 32,
@@ -256,7 +256,7 @@
       "en": "The sons born to Keturah, Abraham's concubine: Zimran, Jokshan, Medan, Midian, Ishbak and Shuah. The sons of Jokshan: Sheba and Dedan.",
       "de": "Die Kinder aber Keturas, des Kebsweibs Abraham: die gebar Simran, Joksan, Medan, Midian, Jesbak, Suah. Aber die Kinder Joksans sind: Saba und Dedan.",
       "zh": "亚伯拉罕的妾基土拉所生的儿子，就是心兰、约珊、米但、米甸、伊施巴、书亚。约珊的儿子是示巴、底但。",
-      "ja": "アブラハムの妾ケトラの生る子は左のごとし彼ジムラン、ヨクシヤン、メダン、ミデアン、イシバク、シユワを生りヨクシヤンの子等はシバおよびデダン"
+      "ja": "アブラハムのそばめケトラの子孫は次のとおりである。彼女はジムラン、ヨクシャン、メダン、ミデアン、イシバク、シュワを産んだ。ヨクシャンの子らはシバとデダンである。"
     },
     {
       "number": 33,
@@ -264,7 +264,7 @@
       "en": "The sons of Midian: Ephah, Epher, Hanoch, Abida and Eldaah. All these were descendants of Keturah.",
       "de": "Und die Kinder Midians sind: Epha, Epher, Hanoch, Abida, Eldaa. Diese alle sind Kinder der Ketura.",
       "zh": "米甸的儿子是以法、以弗、哈诺、亚比大、以勒大。这都是基土拉的子孙。",
-      "ja": "ミデアンの子等はエバ、エペル、ヘノク、アビダ、エルダア是等はみなケトラの生る子なり"
+      "ja": "ミデアンの子らはエパ、エペル、ヘノク、アビダ、エルダア。これらはみなケトラの子孫である。"
     },
     {
       "number": 34,
@@ -272,7 +272,7 @@
       "en": "Abraham was the father of Isaac. The sons of Isaac: Esau and Israel.",
       "de": "Abraham zeugte Isaak. Die Kinder aber Isaaks sind: Esau und Israel.",
       "zh": "亚伯拉罕生以撒；以撒的儿子是以扫和以色列。",
-      "ja": "アブラハム、イサクを生りイザクの子等はヱサウとイスラエル"
+      "ja": "アブラハムはイサクを生んだ。イサクの子らはエサウとイスラエル。"
     },
     {
       "number": 35,
@@ -280,7 +280,7 @@
       "en": "The sons of Esau: Eliphaz, Reuel, Jeush, Jalam and Korah.",
       "de": "Die Kinder Esaus sind: Eliphas, Reguel, Jeus, Jaelam, Korah.",
       "zh": "以扫的儿子是以利法、流珥、耶乌施、雅兰、可拉。",
-      "ja": "エサウの子等はエリバズ、リウエル、ヱウシ、ヤラム、コラ"
+      "ja": "エサウの子らはエリパズ、リウエル、エウシ、ヤラム、コラ。"
     },
     {
       "number": 36,
@@ -288,7 +288,7 @@
       "en": "The sons of Eliphaz: Teman, Omar, Zepho, Gatam and Kenaz; by Timna: Amalek.",
       "de": "Die Kinder Eliphas sind: Theman, Omar, Zephi, Gaetham, Kenas, Thimna, Amalek.",
       "zh": "以利法的儿子是提幔、阿抹、洗玻、迦坦、基纳斯、亭纳、亚玛力。",
-      "ja": "エリバズの子等はテマン、オマル、ゼビ、ガタム、ケナズ、テムナ、アマレク"
+      "ja": "エリパズの子らはテマン、オマル、ゼピ、ガタム、ケナズ、テムナ、アマレク。"
     },
     {
       "number": 37,
@@ -296,7 +296,7 @@
       "en": "The sons of Reuel: Nahath, Zerah, Shammah and Mizzah.",
       "de": "Die Kinder Reguels sind: Nahath, Serah, Samma und Missa.",
       "zh": "流珥的儿子是拿哈、谢拉、沙玛、米撒。",
-      "ja": "リウエルの子等はナハテ、ゼラ、シヤンマ、ミツザ"
+      "ja": "リウエルの子らはナハテ、ゼラ、シャンマ、ミッザ。"
     },
     {
       "number": 38,
@@ -304,7 +304,7 @@
       "en": "The sons of Seir: Lotan, Shobal, Zibeon, Anah, Dishon, Ezer and Dishan.",
       "de": "Die Kinder Seirs sind: Lotan, Sobal, Zibeon, Ana, Dison, Ezer, Disan.",
       "zh": "西珥的儿子是罗坍、朔巴、祭便、亚拿、底顺、以察、底珊。",
-      "ja": "セイの子等はロタン、シヨバル、ヂベオン、アナ、デシヨン、エゼル、デシヤン"
+      "ja": "セイルの子らはロタン、ショバル、ヂベオン、アナ、デション、エゼル、デシャン。"
     },
     {
       "number": 39,
@@ -312,7 +312,7 @@
       "en": "The sons of Lotan: Hori and Homam. Timna was Lotan's sister.",
       "de": "Die Kinder Lotans sind: Hori, Homam; und Thimna war eine Schwester Lotans.",
       "zh": "罗坍的儿子是何利、荷幔；罗坍的妹子是亭纳。",
-      "ja": "ロタンの子等はホリとホマム、ロタンの妹はテムナ"
+      "ja": "ロタンの子らはホリとホマム。ロタンの妹はテムナ。"
     },
     {
       "number": 40,
@@ -320,7 +320,7 @@
       "en": "The sons of Shobal: Alvan, Manahath, Ebal, Shepho and Onam. The sons of Zibeon: Aiah and Anah.",
       "de": "Die Kinder Sobals sind: Aljan, Manahath, Ebal, Sephi, Onam. Die Kinder Zibeons sind: Aja und Ana.",
       "zh": "朔巴的儿子是亚勒文、玛拿辖、以巴录、示非、阿南。祭便的儿子是亚雅、亚拿。",
-      "ja": "シヨバルの子等はアルヤン、マナハテ、エバル、シピ、オナム、ヂベオンの子等はアヤとアナ"
+      "ja": "ショバルの子らはアルヤン、マナハテ、エバル、シピ、オナム。ヂベオンの子らはアヤとアナ。"
     },
     {
       "number": 41,
@@ -328,7 +328,7 @@
       "en": "The son of Anah: Dishon. The sons of Dishon: Hemdan, Eshban, Ithran and Keran.",
       "de": "Die Kinder Anas: Dison. Die Kinder Disons sind: Hamran, Esban, Jethran, Cheran.",
       "zh": "亚拿的儿子是底顺。底顺的儿子是哈默兰、伊是班、益兰、基兰。",
-      "ja": "アナの子等はデシヨン、デシヨンの子等はハムラム、エシバン、イテラン、ケラン、"
+      "ja": "アナの子はデション。デションの子らはハムラン、エシバン、イテラン、ケラン。"
     },
     {
       "number": 42,
@@ -336,7 +336,7 @@
       "en": "The sons of Ezer: Bilhan, Zaavan and Akan. The sons of Dishan: Uz and Aran.",
       "de": "Die Kinder Ezers sind: Bilhan, Saawan, Jaakan. Die Kinder Disans sind: Uz und Aran.",
       "zh": "以察的儿子是辟罕、撒番、亚干。底珊的儿子是乌斯、亚兰。",
-      "ja": "エゼルの子等はビルハン、ザワン、ヤカン、デシヤンの子等はウズおよびアラン"
+      "ja": "エゼルの子らはビルハン、ザワン、ヤカン。デシャンの子らはウズとアラン。"
     },
     {
       "number": 43,
@@ -344,7 +344,7 @@
       "en": "These were the kings who reigned in Edom before any Israelite king reigned: Bela son of Beor, whose city was named Dinhabah.",
       "de": "Die sind die Könige die regiert haben im Lande Edom, ehe denn ein König regierte unter den Kindern Israel; Bela, der Sohn Beors; und seine Stadt hieß Dinhaba.",
       "zh": "以色列人未有君王治理之先，在以东地作王的记在下面：有比珥的儿子比拉，他的京城名叫亭哈巴。",
-      "ja": "イスラエルの子孫を治むる王いまだ有ざる前にエドムの地を治めたる王等は左のごとしベオルの子ベラその都城の名はデナバといふ"
+      "ja": "イスラエルの人々を治める王がまだなかった時、エドムの地を治めた王たちは次のとおりである。ベオルの子ベラ。その都の名はデナバといった。"
     },
     {
       "number": 44,
@@ -352,7 +352,7 @@
       "en": "When Bela died, Jobab son of Zerah from Bozrah succeeded him as king.",
       "de": "Und da Bela starb, ward König an seiner Statt Jobab, der Sohn Serahs von Bozra.",
       "zh": "比拉死了，波斯拉人谢拉的儿子约巴接续他作王。",
-      "ja": "ベラ薨てボズラのゼラの子ヨバブこれに代りて王となり"
+      "ja": "ベラが死んで、ボズラのゼラの子ヨバブが代って王となった。"
     },
     {
       "number": 45,
@@ -360,7 +360,7 @@
       "en": "When Jobab died, Husham from the land of the Temanites succeeded him as king.",
       "de": "Und da Jobab starb, ward König an seiner Statt Husam aus der Themaniter Lande.",
       "zh": "约巴死了，提幔地的人户珊接续他作王。",
-      "ja": "ヨバブ薨てテマン人の地のホシヤムこれにかはりて王となり"
+      "ja": "ヨバブが死んで、テマンびとの地のホシャムが代って王となった。"
     },
     {
       "number": 46,
@@ -368,7 +368,7 @@
       "en": "When Husham died, Hadad son of Bedad, who defeated Midian in the country of Moab, succeeded him as king. His city was named Avith.",
       "de": "Da Husam starb, ward König an seiner Statt Hadad, der Sohn Bedads der die Midianiter schlug in der Moabiter Feld; und seine Stadt hieß Awith.",
       "zh": "户珊死了，比达的儿子哈达接续他作王。这哈达就是在摩押地杀败米甸人的，他的京城名叫亚未得。",
-      "ja": "ホシヤム薨てベダデの子ハダデこれにかはりて王となれり彼モアブの野にてミデアン人を撃りその都城の名はアビテといふ"
+      "ja": "ホシャムが死んで、ベダテの子ハダデが代って王となった。彼はモアブの野でミデアンを撃った。彼の都の名はアビテといった。"
     },
     {
       "number": 47,
@@ -376,7 +376,7 @@
       "en": "When Hadad died, Samlah from Masrekah succeeded him as king.",
       "de": "Da Hadad starb, ward König an seiner Statt Samla von Masrek.",
       "zh": "哈达死了，玛士利加人桑拉接续他作王。",
-      "ja": "ハダデ薨てマスレカのサムラこれに代りて王となり"
+      "ja": "ハダデが死んで、マスレカのサムラが代って王となった。"
     },
     {
       "number": 48,
@@ -384,7 +384,7 @@
       "en": "When Samlah died, Shaul from Rehoboth on the river succeeded him as king.",
       "de": "Da Samla starb, ward König an seiner Statt Saul von Rehoboth am Strom.",
       "zh": "桑拉死了，大河边的利河伯人扫罗接续他作王。",
-      "ja": "サムラ薨て河の旁なるレホボテのサウルこれに代りて王となり"
+      "ja": "サムラが死んで、ユフラテ川のほとりのレホボテのサウルが代って王となった。"
     },
     {
       "number": 49,
@@ -392,7 +392,7 @@
       "en": "When Shaul died, Baal-Hanan son of Acbor succeeded him as king.",
       "de": "Da Saul starb, ward König an seiner Statt Baal-Hanan, der Sohn Achbors.",
       "zh": "扫罗死了，亚革波的儿子巴勒·哈南接续他作王。",
-      "ja": "サウル薨てアクボルの子バアルハナンこれに代りて王となり"
+      "ja": "サウルが死んで、アクボルの子バアル・ハナンが代って王となった。"
     },
     {
       "number": 50,
@@ -400,7 +400,7 @@
       "en": "When Baal-Hanan died, Hadad succeeded him as king. His city was named Pau, and his wife's name was Mehetabel daughter of Matred, the daughter of Me-Zahab.",
       "de": "Da Baal-Hanan starb, ward König an seiner Statt Hadad, und seine Stadt hieß Pagi; und sein Weib hieß Mehetabeel, eine Tochter Matreds, die Mesahabs Tochter war.",
       "zh": "巴勒·哈南死了，哈达接续他作王。他的京城名叫巴伊，他的妻子名叫米希她别，是米·萨合的孙女，玛特列的女儿。",
-      "ja": "バアルハナン薨てハダデこれにかはりて王となれりその都城の名はパイといふその妻はマテレデの女子にして名をメヘタベルといへりマテレデはメザハブの女なり"
+      "ja": "バアル・ハナンが死んで、ハダデが代って王となった。彼の都の名はパイといった。彼の妻はマテレデの娘であって、名をメヘタベルといった。マテレデはメザハブの娘である。"
     },
     {
       "number": 51,
@@ -408,7 +408,7 @@
       "en": "Hadad also died. The chiefs of Edom were: Timna, Alvah, Jetheth,",
       "de": "Da aber Hadad starb, wurden Fürsten zu Edom: Fürst Thimna, Fürst Alwa, Fürst Jetheth,",
       "zh": "哈达死了，以东人的族长有亭纳族长、亚勒瓦族长、耶帖族长、",
-      "ja": "ハダデも薨たり／エドムの諸侯は左のごとし、テムナ侯アルヤ侯ヱテテ侯"
+      "ja": "ハダデも死んだ。エドムの族長は、テムナ侯、アルヤ侯、エテテ侯、"
     },
     {
       "number": 52,
@@ -416,7 +416,7 @@
       "en": "Oholibamah, Elah, Pinon,",
       "de": "Fürst Oholibama, Fürst Ela, Fürst Pinon,",
       "zh": "亚何利巴玛族长、以拉族长、比嫩族长、",
-      "ja": "アホリバマ侯エラ侯ピノン侯"
+      "ja": "アホリバマ侯、エラ侯、ピノン侯、"
     },
     {
       "number": 53,
@@ -424,7 +424,7 @@
       "en": "Kenaz, Teman, Mibzar,",
       "de": "Fürst Kenas, Fürst Theman, Fürst Mizbar,",
       "zh": "基纳斯族长、提幔族长、米比萨族长、",
-      "ja": "ケナズ侯テマン侯ミブザル侯"
+      "ja": "ケナズ侯、テマン侯、ミブザル侯、"
     },
     {
       "number": 54,
@@ -432,7 +432,7 @@
       "en": "Magdiel and Iram. These were the chiefs of Edom.",
       "de": "Fürst Magdiel, Fürst Iram. Das sind die Fürsten zu Edom.",
       "zh": "玛基叠族长、以兰族长。这都是以东人的族长。",
-      "ja": "マグデエル侯イラム侯エドムの諸侯は是のごとし"
+      "ja": "マグデエル侯、イラム侯。これらはエドムの族長である。"
     }
   ]
 }

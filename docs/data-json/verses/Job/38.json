@@ -8,7 +8,7 @@
       "en": "Then the LORD answered Job out of the storm. He said:",
       "de": "Und der HERR antwortete Hiob aus dem Wetter und sprach:",
       "zh": "那时，耶和华从旋风中回答约伯说：",
-      "ja": "茲にヱホバ大風の中よりヨブに答へて宣まはく"
+      "ja": "この時、主はつむじ風の中からヨブに答えられた、"
     },
     {
       "number": 2,
@@ -16,7 +16,7 @@
       "en": "\"Who is this that darkens my counsel with words without knowledge?",
       "de": "Wer ist der, der den Ratschluß verdunkelt mit Worten ohne Verstand?",
       "zh": "谁用无知的言语使我的旨意暗昧不明？",
-      "ja": "無智の言詞をもて道を暗からしむる此者は誰ぞや"
+      "ja": "「無知の言葉をもって、神の計りごとを暗くするこの者はだれか。"
     },
     {
       "number": 3,
@@ -24,7 +24,7 @@
       "en": "Brace yourself like a man; I will question you, and you shall answer me.",
       "de": "Gürte deine Lenden wie ein Mann; ich will dich fragen, lehre mich!",
       "zh": "你要如勇士束腰； 我问你，你可以指示我。",
-      "ja": "なんぢ腰ひきからげて丈夫のごとくせよ 我なんぢに問ん 汝われに答へよ"
+      "ja": "あなたは腰に帯して、男らしくせよ。わたしはあなたに尋ねる、わたしに答えよ。"
     },
     {
       "number": 4,
@@ -32,7 +32,7 @@
       "en": "\"Where were you when I laid the earth's foundation? Tell me, if you understand.",
       "de": "Wo warst du, da ich die Erde gründete? Sage an, bist du so klug!",
       "zh": "我立大地根基的时候，你在哪里呢？ 你若有聪明，只管说吧！",
-      "ja": "地の基を我が置たりし時なんぢは何處にありしや 汝もし穎悟あらば言へ"
+      "ja": "わたしが地の基をすえた時、どこにいたか。もしあなたが知っているなら言え。"
     },
     {
       "number": 5,
@@ -40,7 +40,7 @@
       "en": "Who marked off its dimensions? Surely you know! Who stretched a measuring line across it?",
       "de": "Weißt du, wer ihr das Maß gesetzt hat oder wer über sie eine Richtschnur gezogen hat?",
       "zh": "你若晓得就说，是谁定地的尺度？ 是谁把准绳拉在其上？",
-      "ja": "なんぢ若知んには誰が度量を定めたりしや 誰が準繩を地の上に張りたりしや"
+      "ja": "あなたがもし知っているなら、だれがその度量を定めたか。だれが測りなわを地の上に張ったか。"
     },
     {
       "number": 6,
@@ -48,7 +48,7 @@
       "en": "On what were its footings set, or who laid its cornerstone--",
       "de": "Worauf stehen ihre Füße versenkt, oder wer hat ihren Eckstein gelegt,",
       "zh": "地的根基安置在何处？ 地的角石是谁安放的？",
-      "ja": "その基は何の上に奠れたりしや その隅石は誰が置たりしや"
+      "ja": "その土台は何の上に置かれたか。その隅の石はだれがすえたか。"
     },
     {
       "number": 7,
@@ -56,7 +56,7 @@
       "en": "while the morning stars sang together and all the angels shouted for joy?",
       "de": "da mich die Morgensterne miteinander lobten und jauchzten alle Kinder Gottes?",
       "zh": "那时，晨星一同歌唱； 　神的众子也都欢呼。",
-      "ja": "かの時には晨星あひともに歌ひ 神の子等みな歡びて呼はりぬ"
+      "ja": "かの時には明けの星は相共に歌い、神の子たちはみな喜び呼ばわった。"
     },
     {
       "number": 8,
@@ -64,7 +64,7 @@
       "en": "\"Who shut up the sea behind doors when it burst forth from the womb,",
       "de": "Wer hat das Meer mit Türen verschlossen, da es herausbrach wie aus Mutterleib,",
       "zh": "海水冲出，如出胎胞， 那时谁将它关闭呢？",
-      "ja": "海の水ながれ出で 胎内より涌いでし時誰が戸をもて之を閉こめたりしや"
+      "ja": "海の水が流れいで、胎内からわき出たとき、だれが戸をもって、これを閉じこめたか。"
     },
     {
       "number": 9,
@@ -72,7 +72,7 @@
       "en": "when I made the clouds its garment and wrapped it in thick darkness,",
       "de": "da ich's mit Wolken kleidete und in Dunkel einwickelte wie in Windeln,",
       "zh": "是我用云彩当海的衣服， 用幽暗当包裹它的布，",
-      "ja": "かの時我雲をもて之が衣服となし 黑暗をもて之が襁褓となし"
+      "ja": "あの時、わたしは雲をもって衣とし、黒雲をもってむつきとし、"
     },
     {
       "number": 10,
@@ -80,7 +80,7 @@
       "en": "when I fixed limits for it and set its doors and bars in place,",
       "de": "da ich ihm den Lauf brach mit meinem Damm und setzte ihm Riegel und Türen",
       "zh": "为它定界限， 又安门和闩，",
-      "ja": "これに我法度を定め關および門を設けて"
+      "ja": "これがために境を定め、関および戸を設けて、"
     },
     {
       "number": 11,
@@ -88,7 +88,7 @@
       "en": "when I said, 'This far you may come and no farther; here is where your proud waves halt'?",
       "de": "und sprach: “Bis hierher sollst du kommen und nicht weiter; hier sollen sich legen deine stolzen Wellen!”?",
       "zh": "说：你只可到这里，不可越过； 你狂傲的浪要到此止住。",
-      "ja": "曰く此までは來るべし此を越べからず 汝の高浪ここに止まるべしと"
+      "ja": "言った、『ここまで来てもよい、越えてはならぬ、おまえの高波はここにとどまるのだ』と。"
     },
     {
       "number": 12,
@@ -96,7 +96,7 @@
       "en": "\"Have you ever given orders to the morning, or shown the dawn its place,",
       "de": "Hast du bei deiner Zeit dem Morgen geboten und der Morgenröte ihren Ort gezeigt,",
       "zh": "你自生以来，曾命定晨光， 使清晨的日光知道本位，",
-      "ja": "なんぢ生れし日より以來朝にむかひて命を下せし事ありや また黎明にその所を知しめ"
+      "ja": "あなたは生れた日からこのかた朝に命じ、夜明けにその所を知らせ、"
     },
     {
       "number": 13,
@@ -104,7 +104,7 @@
       "en": "that it might take the earth by the edges and shake the wicked out of it?",
       "de": "daß sie die Ecken der Erde fasse und die Gottlosen herausgeschüttelt werden?",
       "zh": "叫这光普照地的四极， 将恶人从其中驱逐出来吗？",
-      "ja": "これをして地の縁を取へて惡き者をその上より振落さしめたりしや"
+      "ja": "これに地の縁をとらえさせ、悪人をその上から振り落させたことがあるか。"
     },
     {
       "number": 14,
@@ -112,7 +112,7 @@
       "en": "The earth takes shape like clay under a seal; its features stand out like those of a garment.",
       "de": "Sie wandelt sich wie Ton unter dem Siegel, und alles steht da wie im Kleide.",
       "zh": "因这光，地面改变如泥上印印， 万物出现如衣服一样。",
-      "ja": "地は變りて土に印したるごとくに成り 諸の物は美はしき衣服のごとくに顯る"
+      "ja": "地は印せられた土のように変り、衣のようにいろどられる。"
     },
     {
       "number": 15,
@@ -120,7 +120,7 @@
       "en": "The wicked are denied their light, and their upraised arm is broken.",
       "de": "Und den Gottlosen wird ihr Licht genommen, und der Arm der Hoffärtigen wird zerbrochen.",
       "zh": "亮光不照恶人； 强横的膀臂也必折断。",
-      "ja": "また惡人はその光明を奪はれ 高く擧たる手は折らる"
+      "ja": "悪人はその光を奪われ、その高くあげた腕は折られる。"
     },
     {
       "number": 16,
@@ -128,7 +128,7 @@
       "en": "\"Have you journeyed to the springs of the sea or walked in the recesses of the deep?",
       "de": "Bist du in den Grund des Meeres gekommen und in den Fußtapfen der Tiefe gewandelt?",
       "zh": "你曾进到海源， 或在深渊的隐密处行走吗？",
-      "ja": "なんぢ海の泉源にいたりしことありや 淵の底を歩みしことありや"
+      "ja": "あなたは海の源に行ったことがあるか。淵の底を歩いたことがあるか。"
     },
     {
       "number": 17,
@@ -136,7 +136,7 @@
       "en": "Have the gates of death been shown to you? Have you seen the gates of the shadow of death?",
       "de": "Haben sich dir des Todes Tore je aufgetan, oder hast du gesehen die Tore der Finsternis?",
       "zh": "死亡的门曾向你显露吗？ 死荫的门你曾见过吗？",
-      "ja": "死の門なんぢのために開けたりしや 汝死蔭の門を見たりしや"
+      "ja": "死の門はあなたのために開かれたか。あなたは暗黒の門を見たことがあるか。"
     },
     {
       "number": 18,
@@ -144,7 +144,7 @@
       "en": "Have you comprehended the vast expanses of the earth? Tell me, if you know all this.",
       "de": "Hast du vernommen wie breit die Erde sei? Sage an, weißt du solches alles!",
       "zh": "地的广大你能明透吗？ 你若全知道，只管说吧！",
-      "ja": "なんぢ地の廣を看きはめしや 若これを盡く知ば言へ"
+      "ja": "あなたは地の広さを見きわめたか。もしこれをことごとく知っているならば言え。"
     },
     {
       "number": 19,
@@ -152,7 +152,7 @@
       "en": "\"What is the way to the abode of light? And where does darkness reside?",
       "de": "Welches ist der Weg, da das Licht wohnt, und welches ist der Finsternis Stätte,",
       "zh": "光明的居所从何而至？ 黑暗的本位在于何处？",
-      "ja": "光明の在る所に往く路は孰ぞや 黑暗の在る所は何處ぞや"
+      "ja": "光のある所に至る道はいずれか。暗やみのある所はどこか。"
     },
     {
       "number": 20,
@@ -160,7 +160,7 @@
       "en": "Can you take them to their places? Do you know the paths to their dwellings?",
       "de": "daß du mögest ergründen seine Grenze und merken den Pfad zu seinem Hause?",
       "zh": "你能带到本境， 能看明其室之路吗？",
-      "ja": "なんぢ之をその境に導びき得るや その家の路を知をるや"
+      "ja": "あなたはこれをその境に導くことができるか。その家路を知っているか。"
     },
     {
       "number": 21,
@@ -168,7 +168,7 @@
       "en": "Surely you know, for you were already born! You have lived so many years!",
       "de": "Du weißt es ja; denn zu der Zeit wurdest du geboren, und deiner Tage sind viel.",
       "zh": "你总知道， 因为你早已生在世上， 你日子的数目也多。",
-      "ja": "なんぢ之を知ならん汝はかの時すでに生れをり また汝の經たる日の數も多ければなり"
+      "ja": "あなたは知っているだろう、あなたはかの時すでに生れており、またあなたの日数も多いのだから。"
     },
     {
       "number": 22,
@@ -176,7 +176,7 @@
       "en": "\"Have you entered the storehouses of the snow or seen the storehouses of the hail,",
       "de": "Bist du gewesen, da der Schnee her kommt, oder hast du gesehen, wo der Hagel her kommt,",
       "zh": "你曾进入雪库， 或见过雹仓吗？",
-      "ja": "なんぢ雪の庫にいりしや 雹の庫を見しや"
+      "ja": "あなたは雪の倉にはいったことがあるか。ひょうの倉を見たことがあるか。"
     },
     {
       "number": 23,
@@ -184,7 +184,7 @@
       "en": "which I reserve for times of trouble, for days of war and battle?",
       "de": "die ich habe aufbehalten bis auf die Zeit der Trübsal und auf den Tag des Streites und Krieges?",
       "zh": "这雪雹乃是我为降灾， 并打仗和争战的日子所预备的。",
-      "ja": "これ我が艱難の時にために蓄はへ 戰爭および戰鬪の日のために蓄はへ置くものなり"
+      "ja": "これらは悩みの時のため、いくさと戦いの日のため、わたしがたくわえて置いたものだ。"
     },
     {
       "number": 24,
@@ -192,7 +192,7 @@
       "en": "What is the way to the place where the lightning is dispersed, or the place where the east winds are scattered over the earth?",
       "de": "Durch welchen Weg teilt sich das Licht und fährt der Ostwind hin über die Erde?",
       "zh": "光亮从何路分开？ 东风从何路分散遍地？",
-      "ja": "光明の發散る道 東風の地に吹わたる所の路は何處ぞや"
+      "ja": "光の広がる道はどこか。東風の地に吹き渡る道はどこか。"
     },
     {
       "number": 25,
@@ -200,7 +200,7 @@
       "en": "Who cuts a channel for the torrents of rain, and a path for the thunderstorm,",
       "de": "Wer hat dem Platzregen seinen Lauf ausgeteilt und den Weg dem Blitz und dem Donner",
       "zh": "谁为雨水分道？ 谁为雷电开路？",
-      "ja": "誰が大雨を灌ぐ水路を開き雷電の光の過る道を開き"
+      "ja": "だれが大雨のために水路を切り開き、いかずちの光のために道を開き、"
     },
     {
       "number": 26,
@@ -208,7 +208,7 @@
       "en": "to water a land where no man lives, a desert with no one in it,",
       "de": "und läßt regnen aufs Land da niemand ist, in der Wüste, da kein Mensch ist,",
       "zh": "使雨降在无人之地、 无人居住的旷野？",
-      "ja": "人なき地にも人なき荒野にも雨を降し"
+      "ja": "人なき地にも、人なき荒野にも雨を降らせ、"
     },
     {
       "number": 27,
@@ -216,7 +216,7 @@
       "en": "to satisfy a desolate wasteland and make it sprout with grass?",
       "de": "daß er füllt die Einöde und Wildnis und macht das Gras wächst?",
       "zh": "使荒废凄凉之地得以丰足， 青草得以发生？",
-      "ja": "荒かつ廢れたる處々を潤ほし かつ若菜蔬を生出しむるや"
+      "ja": "荒れすたれた地をあき足らせ、これに若草をはえさせるか。"
     },
     {
       "number": 28,
@@ -224,7 +224,7 @@
       "en": "Does the rain have a father? Who fathers the drops of dew?",
       "de": "Wer ist des Regens Vater? Wer hat die Tropfen des Taues gezeugt?",
       "zh": "雨有父吗？ 露水珠是谁生的呢？",
-      "ja": "雨に父ありや 露の珠は誰が生る者なるや"
+      "ja": "雨に父があるか。露の玉はだれが生んだか。"
     },
     {
       "number": 29,
@@ -232,7 +232,7 @@
       "en": "From whose womb comes the ice? Who gives birth to the frost from the heavens",
       "de": "Aus wes Leib ist das Eis gegangen, und wer hat den Reif unter dem Himmel gezeugt,",
       "zh": "冰出于谁的胎？ 天上的霜是谁生的呢？",
-      "ja": "氷は誰が胎より出るや 空の霜は誰が產むところなるや"
+      "ja": "氷はだれの胎から出たか。空の霜はだれが生んだか。"
     },
     {
       "number": 30,
@@ -240,7 +240,7 @@
       "en": "when the waters become hard as stone, when the surface of the deep is frozen?",
       "de": "daß das Wasser verborgen wird wie unter Steinen und die Tiefe oben gefriert?",
       "zh": "诸水坚硬如石头； 深渊之面凝结成冰。",
-      "ja": "水かたまりて石のごとくに成り 淵の面こほる"
+      "ja": "水は固まって石のようになり、淵のおもては凍る。"
     },
     {
       "number": 31,
@@ -248,7 +248,7 @@
       "en": "\"Can you bind the beautiful Pleiades? Can you loose the cords of Orion?",
       "de": "Kannst du die Bande der sieben Sterne zusammenbinden oder das Band des Orion auflösen?",
       "zh": "你能系住昴星的结吗？ 能解开参星的带吗？",
-      "ja": "なんぢ昴宿の鏈索を結びうるや 參宿の繋繩を解うるや"
+      "ja": "あなたはプレアデスの鎖を結ぶことができるか。オリオンの綱を解くことができるか。"
     },
     {
       "number": 32,
@@ -256,7 +256,7 @@
       "en": "Can you bring forth the constellations in their seasons or lead out the Bear with its cubs?",
       "de": "Kannst du den Morgenstern hervorbringen zu seiner Zeit oder den Bären am Himmel samt seinen Jungen heraufführen?",
       "zh": "你能按时领出十二宫吗？ 能引导北斗和随它的众星吗？",
-      "ja": "なんぢ十二宮をその時にしたがひて引いだし得るや また北斗とその子星を導びき得るや"
+      "ja": "あなたは十二宮をその時にしたがって引き出すことができるか。北斗とその子星を導くことができるか。"
     },
     {
       "number": 33,
@@ -264,7 +264,7 @@
       "en": "Do you know the laws of the heavens? Can you set up God'sdominion over the earth?",
       "de": "Weißt du des Himmels Ordnungen, oder bestimmst du seine Herrschaft über die Erde?",
       "zh": "你知道天的定例吗？ 能使地归在天的权下吗？",
-      "ja": "なんぢ天の常經を知るや 天をして其權力を地に施こさしむるや"
+      "ja": "あなたは天の法則を知っているか、そのおきてを地に施すことができるか。"
     },
     {
       "number": 34,
@@ -272,7 +272,7 @@
       "en": "\"Can you raise your voice to the clouds and cover yourself with a flood of water?",
       "de": "Kannst du deine Stimme zu der Wolke erheben, daß dich die Menge des Wassers bedecke?",
       "zh": "你能向云彩扬起声来， 使倾盆的雨遮盖你吗？",
-      "ja": "なんぢ聲を雲に擧げ滂沛の水をして汝を掩はしむるを得るや"
+      "ja": "あなたは声を雲にあげ、多くの水にあなたをおおわせることができるか。"
     },
     {
       "number": 35,
@@ -280,7 +280,7 @@
       "en": "Do you send the lightning bolts on their way? Do they report to you, 'Here we are'?",
       "de": "Kannst du die Blitze auslassen, daß sie hinfahren und sprechen zu dir: Hier sind wir?",
       "zh": "你能发出闪电，叫它行去， 使它对你说：我们在这里？",
-      "ja": "なんぢ閃電を遣はして往しめ なんぢに答へて我儕は此にありと言しめ得るや"
+      "ja": "あなたはいなずまをつかわして行かせ、『われわれはここにいる』と、あなたに言わせることができるか。"
     },
     {
       "number": 36,
@@ -288,7 +288,7 @@
       "en": "Who endowed the heart with wisdom or gave understanding to the mind?",
       "de": "Wer gibt die Weisheit in das Verborgene? Wer gibt verständige Gedanken?",
       "zh": "谁将智慧放在怀中？ 谁将聪明赐于心内？",
-      "ja": "胸の中の智慧は誰が與へし者ぞ 心の内の聰明は誰が授けし者ぞ"
+      "ja": "雲に知恵を置き、霧に悟りを与えたのはだれか。"
     },
     {
       "number": 37,
@@ -296,7 +296,7 @@
       "en": "Who has the wisdom to count the clouds? Who can tip over the water jars of the heavens",
       "de": "Wer ist so weise, der die Wolken zählen könnte? Wer kann die Wasserschläuche am Himmel ausschütten,",
       "zh": "谁能用智慧数算云彩呢？ 尘土聚集成团，土块紧紧结连； 那时，谁能倾倒天上的瓶呢？",
-      "ja": "たれか能く智慧をもて雲を數へんや たれか能く天の瓶を傾むけ"
+      "ja": "だれが知恵をもって雲を数えることができるか。だれが天の皮袋を傾けて、"
     },
     {
       "number": 38,
@@ -304,7 +304,7 @@
       "en": "when the dust becomes hard and the clods of earth stick together?",
       "de": "wenn der Staub begossen wird, daß er zuhauf läuft und die Schollen aneinander kleben?",
       "zh": "母狮子在洞中蹲伏， 少壮狮子在隐密处埋伏； 你能为它们抓取食物， 使它们饱足吗？",
-      "ja": "塵をして一塊に流れあはしめ土塊をしてあひかたまらしめんや"
+      "ja": "ちりを一つに流れ合させ、土くれを固まらせることができるか。"
     },
     {
       "number": 39,
@@ -312,7 +312,7 @@
       "en": "\"Do you hunt the prey for the lioness and satisfy the hunger of the lions",
       "de": "Kannst du der Löwin ihren Raub zu jagen geben und die jungen Löwen sättigen,",
       "zh": "乌鸦之雏因无食物飞来飞去，哀告　神； 那时，谁为它预备食物呢？",
-      "ja": "なんぢ牝獅子のために食物を獵や また小獅子の食氣を滿すや"
+      "ja": "あなたはししのために食物を狩り、子じしの食欲を満たすことができるか。"
     },
     {
       "number": 40,
@@ -320,7 +320,7 @@
       "en": "when they crouch in their dens or lie in wait in a thicket?",
       "de": "wenn sie sich legen in ihre Stätten und ruhen in der Höhle, da sie lauern?",
       "zh": "",
-      "ja": "その洞穴に伏し 森の中に隱れ伺がふ時なんぢこの事を爲うるや"
+      "ja": "彼らがほら穴に伏し、林のなかに待ち伏せする時、あなたはこの事をなすことができるか。"
     },
     {
       "number": 41,
@@ -328,7 +328,7 @@
       "en": "Who provides food for the raven when its young cry out to God and wander about for lack of food?",
       "de": "Wer bereitet den Raben die Speise, wenn seine Jungen zu Gott rufen und fliegen irre, weil sie nicht zu essen haben?",
       "zh": "",
-      "ja": "また鴉の子 神にむかひて呼はり 食物なくして徘徊る時 鴉に餌を與ふる者は誰ぞや"
+      "ja": "からすの子が神に向かって呼ばわり、食物がなくて、さまようとき、からすにえさを与える者はだれか。"
     }
   ]
 }

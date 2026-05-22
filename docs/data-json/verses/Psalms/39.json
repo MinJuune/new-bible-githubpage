@@ -8,7 +8,7 @@
       "en": "For the director of music. For Jeduthun. A psalm of David. I said, \"I will watch my ways and keep my tongue from sin; I will put a muzzle on my mouth as long as the wicked are in my presence.\"",
       "de": "Ein Psalm Davids, vorzusingen, für Jeduthun. Ich habe mir vorgesetzt: Ich will mich hüten, daß ich nicht sündige mit meiner Zunge. Ich will meinen Mund zäumen, weil ich muß den Gottlosen vor mir sehen.",
       "zh": "大卫的诗，交与伶长耶杜顿。 我曾说：我要谨慎我的言行， 免得我舌头犯罪； 恶人在我面前的时候， 我要用嚼环勒住我的口。",
-      "ja": "われ曩にいへり われ舌をもて罪ををかさざらんために我すべての途をつつしみ惡者のわがまへに在るあひだはわが口に衝をかけんと"
+      "ja": "わたしは言った、「舌をもって罪を犯さないために、わたしの道を慎み、悪しき者のわたしの前にある間はわたしの口にくつわをかけよう」と。"
     },
     {
       "number": 2,
@@ -16,7 +16,7 @@
       "en": "But when I was silent and still, not even saying anything good, my anguish increased.",
       "de": "Ich bin verstummt und still und schweige der Freuden und muß mein Leid in mich fressen.",
       "zh": "我默然无声，连好话也不出口； 我的愁苦就发动了，",
-      "ja": "われ默して唖となり善言すらことばにいださず わが憂なほおこれり"
+      "ja": "わたしは黙して物言わず、むなしく沈黙を守った。しかし、わたしの悩みはさらにひどくなり、"
     },
     {
       "number": 3,
@@ -24,7 +24,7 @@
       "en": "My heart grew hot within me, and as I meditated, the fire burned; then I spoke with my tongue:",
       "de": "Mein Herz ist entbrannt in meinem Leibe, und wenn ich daran gedenke, werde ich entzündet; ich rede mit meiner Zunge.",
       "zh": "我的心在我里面发热。 我默想的时候，火就烧起， 我便用舌头说话。",
-      "ja": "わが心わがうちに熱し おもひつづくるほどに火もえぬればわれ舌をもていへらく"
+      "ja": "わたしの心はわたしのうちに熱し、思いつづけるほどに火が燃えたので、わたしは舌をもって語った。"
     },
     {
       "number": 4,
@@ -32,7 +32,7 @@
       "en": "\"Show me, O LORD, my life's end and the number of my days; let me know how fleeting is my life.",
       "de": "Aber, HERR, lehre mich doch, daß es ein Ende mit mir haben muß und mein Leben ein Ziel hat und ich davon muß.",
       "zh": "耶和华啊，求你叫我晓得我身之终！ 我的寿数几何？ 叫我知道我的生命不长！",
-      "ja": "ヱホバよ願くはわが終とわが日の數のいくばくなるとを知しめたまへ わが無常をしらしめたまへ"
+      "ja": "「主よ、わが終りと、わが日の数のどれほどであるかをわたしに知らせ、わが命のいかにはかないかを知らせてください。"
     },
     {
       "number": 5,
@@ -40,7 +40,7 @@
       "en": "You have made my days a mere handbreadth; the span of my years is as nothing before you. Each man's life is but a breath. Selah",
       "de": "Siehe, meiner Tage sind einer Hand breit bei dir, und mein Leben ist wie nichts vor dir. Wie gar nichts sind alle Menschen, die doch so sicher leben! (Sela.)",
       "zh": "你使我的年日窄如手掌； 我一生的年数，在你面前如同无有。 各人最稳妥的时候，真是全然虚幻。 （细拉）",
-      "ja": "觀よなんぢわがすべての日を一掌にすぎさらしめたまふ わがかいのち主前にてはなきにことならず 實にすべての人は皆その盛時だにもむなしからざるはなし セラ"
+      "ja": "見よ、あなたはわたしの日をつかのまとされました。わたしの一生はあなたの前では無にひとしいのです。まことに、すべての人はその盛んな時でも息にすぎません。[セラ"
     },
     {
       "number": 6,
@@ -48,7 +48,7 @@
       "en": "Man is a mere phantom as he goes to and fro: He bustles about, but only in vain; he heaps up wealth, not knowing who will get it.",
       "de": "Sie gehen daher wie ein Schemen und machen sich viel vergebliche Unruhe; sie sammeln, und wissen nicht, wer es einnehmen wird.",
       "zh": "世人行动实系幻影。 他们忙乱，真是枉然； 积蓄财宝，不知将来有谁收取。",
-      "ja": "人の世にあるは影にことならず その思ひなやむことはむなしからざるなし その積蓄ふるものはたが手にをさまるをしらず"
+      "ja": "まことに人は影のように、さまよいます。まことに彼らはむなしい事のために騒ぎまわるのです。彼は積みたくわえるけれども、だれがそれを収めるかを知りません。"
     },
     {
       "number": 7,
@@ -56,7 +56,7 @@
       "en": "\"But now, Lord, what do I look for? My hope is in you.",
       "de": "Nun, Herr, wes soll ich mich trösten? Ich hoffe auf dich.",
       "zh": "主啊，如今我等什么呢？ 我的指望在乎你！",
-      "ja": "主よわれ今なにをかまたん わが望はなんぢにあり"
+      "ja": "主よ、今わたしは何を待ち望みましょう。わたしの望みはあなたにあります。"
     },
     {
       "number": 8,
@@ -64,7 +64,7 @@
       "en": "Save me from all my transgressions; do not make me the scorn of fools.",
       "de": "Errette mich von aller meiner Sünde und laß mich nicht den Narren ein Spott werden.",
       "zh": "求你救我脱离一切的过犯， 不要使我受愚顽人的羞辱。",
-      "ja": "ねがはくは我ぞすべて愆より助けいだしたまへ 愚なるものに誹らるることなからしめたまへ"
+      "ja": "わたしをすべてのとがから助け出し、愚かな者にわたしをあざけらせないでください。"
     },
     {
       "number": 9,
@@ -72,7 +72,7 @@
       "en": "I was silent; I would not open my mouth, for you are the one who has done this.",
       "de": "Ich will schweigen und meinen Mund nicht auftun; denn du hast's getan.",
       "zh": "因我所遭遇的是出于你， 我就默然不语。",
-      "ja": "われは默して口をひらかず 此はなんぢの成したまふ者なればなり"
+      "ja": "わたしは黙して口を開きません。あなたがそれをなされたからです。"
     },
     {
       "number": 10,
@@ -80,7 +80,7 @@
       "en": "Remove your scourge from me; I am overcome by the blow of your hand.",
       "de": "Wende deine Plage von mir; denn ich bin verschmachtet von der Strafe deiner Hand.",
       "zh": "求你把你的责罚从我身上免去； 因你手的责打，我便消灭。",
-      "ja": "願くはなんぢの責をわれよりはなちたまへ 我なんぢの手にうちこらさるるによりて亡ぶるばかりになりぬ"
+      "ja": "あなたが下された災をわたしから取り去ってください。わたしはあなたのみ手に打ち懲らされることにより滅びるばかりです。"
     },
     {
       "number": 11,
@@ -88,7 +88,7 @@
       "en": "You rebuke and discipline men for their sin; you consume their wealth like a moth--each man is but a breath. Selah",
       "de": "Wenn du einen züchtigst um der Sünde willen, so wird seine Schöne verzehrt wie von Motten. Ach wie gar nichts sind doch alle Menschen! (Sela.)",
       "zh": "你因人的罪恶惩罚他的时候， 叫他的笑容消灭，如衣被虫所咬。 世人真是虚幻！ （细拉）",
-      "ja": "なんぢ罪をせめて人をこらし その慕ひよろこぶところのものを蠧のくらふがごとく消うせしめたまふ 實にもろもろの人はむなしからざるなし セラ"
+      "ja": "あなたは罪を責めて人を懲らされるとき、その慕い喜ぶものを、しみが食うように、消し滅ぼされるのです。まことにすべての人は息にすぎません。[セラ"
     },
     {
       "number": 12,
@@ -96,7 +96,7 @@
       "en": "\"Hear my prayer, O LORD, listen to my cry for help; be not deaf to my weeping. For I dwell with you as an alien, a stranger, as all my fathers were.",
       "de": "Höre mein Gebet, HERR, und vernimm mein Schreien und schweige nicht über meine Tränen; denn ich bin dein Pilger und dein Bürger wie alle meine Väter.",
       "zh": "耶和华啊，求你听我的祷告， 留心听我的呼求！ 我流泪，求你不要静默无声！ 因为我在你面前是客旅， 是寄居的，像我列祖一般。",
-      "ja": "ああヱホバよねがはくはわが祈をきき わが號呼に耳をかたぶけたまへ わが涙をみて默したまふなかれ われはなんぢに寄る旅客すべてわが列祖のごとく宿れるものなり"
+      "ja": "主よ、わたしの祈を聞き、わたしの叫びに耳を傾け、わたしの涙を見て、もださないでください。わたしはあなたに身を寄せる旅びと、わがすべての先祖たちのように寄留者です。"
     },
     {
       "number": 13,
@@ -104,7 +104,7 @@
       "en": "Look away from me, that I may rejoice again before I depart and am no more.\"",
       "de": "Laß ab von mir, daß ich mich erquicke, ehe ich den hinfahre und nicht mehr hier sei.",
       "zh": "求你宽容我， 使我在去而不返之先可以力量复原。",
-      "ja": "我ここを去てうせざる先になんぢ面をそむけてわれを爽快ならしめたまへ"
+      "ja": "わたしが去って、うせない前に、み顔をそむけて、わたしを喜ばせてください」。"
     }
   ]
 }

@@ -8,7 +8,7 @@
       "en": "Now these are the people of the province who came up from the captivity of the exiles, whom Nebuchadnezzar king of Babylon had taken captive to Babylon (they returned to Jerusalem and Judah, each to his own town,",
       "de": "Dies sind die Kinder der Landschaft, die heraufzogen aus der Gefangenschaft, die Nebukadnezar, der König zu Babel, hatte gen Babel geführt und die wieder gen Jerusalem und nach Juda kamen, ein jeglicher in seine Stadt,",
       "zh": "巴比伦王尼布甲尼撒从前掳到巴比伦之犹大省的人，现在他们的子孙从被掳到之地回耶路撒冷和犹大，各归本城。",
-      "ja": "往昔バビロンの王ネブカデネザルに擄へられバビロンに遷されたる者のうち俘囚をゆるされてヱルサレムおよびユダに上りおのおの己の邑に歸りし此州の者は左の如し"
+      "ja": "バビロンの王ネブカデネザルに捕えられて、バビロンに移された者のうち、捕囚をゆるされてエルサレムおよびユダに上って、おのおの自分の町に帰ったこの州の人々は次のとおりである。"
     },
     {
       "number": 2,
@@ -16,7 +16,7 @@
       "en": "in company with Zerubbabel, Jeshua, Nehemiah, Seraiah, Reelaiah, Mordecai, Bilshan, Mispar, Bigvai, Rehum and Baanah): The list of the men of the people of Israel:",
       "de": "und kamen mit Serubabel, Jesua, Nehemia, Seraja, Reelaja, Mardochai, Bilsa, Mispar, Bigevai, Rehum und Baana. Dies ist nun die Zahl der Männer des Volkes Israel:",
       "zh": "他们是同着所罗巴伯、耶书亚、尼希米、西莱雅、利来雅、末底改、必珊、米斯拔、比革瓦伊、利宏、巴拿回来的。",
-      "ja": "是皆ゼルバベル、ヱシユア、ネヘミヤ、セラヤ、レエラヤ、モルデカイ、ビルシヤン、ミスパル、ビグワイ、レホム、バアナ等に隨ひ來れり 其イスラエルの民の人數は是のごとし"
+      "ja": "彼らはゼルバベル、エシュア、ネヘミヤ、セラヤ、レエラヤ、モルデカイ、ビルシャン、ミスパル、ビグワイ、レホム、バアナと共に帰ってきた。そのイスラエルの民の人数は次のとおりである。"
     },
     {
       "number": 3,
@@ -24,7 +24,7 @@
       "en": "the descendants of Parosh 2,172",
       "de": "der Kinder Parevs zweitausend hundertundzweiundsiebzig;",
       "zh": "以色列人民的数目记在下面：巴录的子孙二千一百七十二名；",
-      "ja": "パロシの子孫二千百七十二人"
+      "ja": "パロシの子孫は二千百七十二人、"
     },
     {
       "number": 4,
@@ -32,7 +32,7 @@
       "en": "of Shephatiah 372",
       "de": "der Kinder Sephatja dreihundert und zweiundsiebzig;",
       "zh": "示法提雅的子孙三百七十二名；",
-      "ja": "シパテヤの子孫三百七十二人"
+      "ja": "シパテヤの子孫は三百七十二人、"
     },
     {
       "number": 5,
@@ -40,7 +40,7 @@
       "en": "of Arah 775",
       "de": "der Kinder Arah siebenhundert und fünfundsiebzig;",
       "zh": "亚拉的子孙七百七十五名；",
-      "ja": "アラの子孫七百七十五人"
+      "ja": "アラの子孫は七百七十五人、"
     },
     {
       "number": 6,
@@ -48,7 +48,7 @@
       "en": "of Pahath-Moab (through the line of Jeshua and Joab) 2,812",
       "de": "der Kinder Pahath-Moab, von den Kindern Jesua, Joab, zweitausend achthundertundzwölf;",
       "zh": "巴哈·摩押的后裔，就是耶书亚和约押的子孙二千八百一十二名；",
-      "ja": "ヱシユアとヨアブの族たるパハテモアブの子孫二千八百十二人"
+      "ja": "パハテ・モアブの子孫すなわちエシュアとヨアブの子孫は二千八百十二人、"
     },
     {
       "number": 7,
@@ -56,7 +56,7 @@
       "en": "of Elam 1,254",
       "de": "der Kinder Elam tausend zweihundertvierundfünfzig;",
       "zh": "以拦的子孙一千二百五十四名；",
-      "ja": "エラムの子孫千二百五十四人"
+      "ja": "エラムの子孫は一千二百五十四人、"
     },
     {
       "number": 8,
@@ -64,7 +64,7 @@
       "en": "of Zattu 945",
       "de": "der Kinder Satthu neunhundert und fünfundvierzig;",
       "zh": "萨土的子孙九百四十五名；",
-      "ja": "ザツトの子孫九百四十五人"
+      "ja": "ザットの子孫は九百四十五人、"
     },
     {
       "number": 9,
@@ -72,7 +72,7 @@
       "en": "of Zaccai 760",
       "de": "der Kinder Sakkai siebenhundert und sechzig;",
       "zh": "萨改的子孙七百六十名；",
-      "ja": "ザツカイの子孫七百六十人"
+      "ja": "ザッカイの子孫は七百六十人、"
     },
     {
       "number": 10,
@@ -80,7 +80,7 @@
       "en": "of Bani 642",
       "de": "der Kinder Bani sechshundert und zweiundvierzig;",
       "zh": "巴尼的子孙六百四十二名；",
-      "ja": "バニの子孫六百四十二人"
+      "ja": "バニの子孫は六百四十二人、"
     },
     {
       "number": 11,
@@ -88,7 +88,7 @@
       "en": "of Bebai 623",
       "de": "der Kinder Bebai sechshundert und dreiundzwanzig;",
       "zh": "比拜的子孙六百二十三名；",
-      "ja": "ベバイの子孫六百二十三人"
+      "ja": "ベバイの子孫は六百二十三人、"
     },
     {
       "number": 12,
@@ -96,7 +96,7 @@
       "en": "of Azgad 1,222",
       "de": "der Kinder Asgad tausend zweihundert und zweiundzwanzig;",
       "zh": "押甲的子孙一千二百二十二名；",
-      "ja": "アズガデの子孫千二百二十二人"
+      "ja": "アズガデの子孫は一千二百二十二人、"
     },
     {
       "number": 13,
@@ -104,7 +104,7 @@
       "en": "of Adonikam 666",
       "de": "der Kinder Adonikam sechshundert und sechsundsechzig;",
       "zh": "亚多尼干的子孙六百六十六名；",
-      "ja": "アドニカムの子孫六百六十六人"
+      "ja": "アドニカムの子孫は六百六十六人、"
     },
     {
       "number": 14,
@@ -112,7 +112,7 @@
       "en": "of Bigvai 2,056",
       "de": "der Kinder Bigevai zweitausend und sechsundfünfzig;",
       "zh": "比革瓦伊的子孙二千零五十六名；",
-      "ja": "ビグワイの子孫二千五十六人"
+      "ja": "ビグワイの子孫は二千五十六人、"
     },
     {
       "number": 15,
@@ -120,7 +120,7 @@
       "en": "of Adin 454",
       "de": "der Kinder Adin vierhundert und vierundfünfzig;",
       "zh": "亚丁的子孙四百五十四名；",
-      "ja": "アデンの子孫四百五十四人"
+      "ja": "アデンの子孫は四百五十四人、"
     },
     {
       "number": 16,
@@ -128,7 +128,7 @@
       "en": "of Ater (through Hezekiah) 98",
       "de": "der Kinder Ater von Hiskia achtundneunzig;",
       "zh": "亚特的后裔，就是希西家的子孙九十八名；",
-      "ja": "ヒゼキヤの家のアテルの子孫九十八人"
+      "ja": "アテルの子孫すなわちヒゼキヤの子孫は九十八人、"
     },
     {
       "number": 17,
@@ -136,7 +136,7 @@
       "en": "of Bezai 323",
       "de": "der Kinder Bezai dreihundert und dreiundzwanzig;",
       "zh": "比赛的子孙三百二十三名；",
-      "ja": "ベザイの子孫三百二十三人"
+      "ja": "ベザイの子孫は三百二十三人、"
     },
     {
       "number": 18,
@@ -144,7 +144,7 @@
       "en": "of Jorah 112",
       "de": "der Kinder Jorah hundertundzwölf;",
       "zh": "约拉的子孙一百一十二名；",
-      "ja": "ヨラの子孫百十二人"
+      "ja": "ヨラの子孫は百十二人、"
     },
     {
       "number": 19,
@@ -152,7 +152,7 @@
       "en": "of Hashum 223",
       "de": "der Kinder Hasum zweihundert und dreiundzwanzig;",
       "zh": "哈顺的子孙二百二十三名；",
-      "ja": "ハシユムの子孫二百二十三人"
+      "ja": "ハシュムの子孫は二百二十三人、"
     },
     {
       "number": 20,
@@ -160,7 +160,7 @@
       "en": "of Gibbar 95",
       "de": "der Kinder von Gibbar fünfundneunzig;",
       "zh": "吉罢珥人九十五名；",
-      "ja": "ギバルの子孫九十五人"
+      "ja": "ギバルの子孫は九十五人、"
     },
     {
       "number": 21,
@@ -168,7 +168,7 @@
       "en": "the men of Bethlehem 123",
       "de": "der Kinder von Bethlehem hundertdreiundzwanzig;",
       "zh": "伯利恒人一百二十三名；",
-      "ja": "ベテレヘムの子孫百二十三人"
+      "ja": "ベツレヘムの子孫は百二十三人、"
     },
     {
       "number": 22,
@@ -176,7 +176,7 @@
       "en": "of Netophah 56",
       "de": "der Männer von Netopha sechsundfünfzig;",
       "zh": "尼陀法人五十六名；",
-      "ja": "ネトパの人五十六人"
+      "ja": "ネトパの人々は五十六人、"
     },
     {
       "number": 23,
@@ -184,7 +184,7 @@
       "en": "of Anathoth 128",
       "de": "der Männer von Anathoth hundertachtundzwanzig;",
       "zh": "亚拿突人一百二十八名；",
-      "ja": "アナトテの人百二十八人"
+      "ja": "アナトテの人々は百二十八人、"
     },
     {
       "number": 24,
@@ -192,7 +192,7 @@
       "en": "of Azmaveth 42",
       "de": "der Kinder von Asmaveth zweihundertvierzig;",
       "zh": "亚斯玛弗人四十二名；",
-      "ja": "アズマウテの民四十二人"
+      "ja": "アズマウテの子孫は四十二人、"
     },
     {
       "number": 25,
@@ -200,7 +200,7 @@
       "en": "of Kiriath Jearim, Kephirah and Beeroth 743",
       "de": "der Kinder von Kirjath-Arim, Kaphira und Beeroth siebenhundert und dreiundvierzig;",
       "zh": "基列·耶琳人、基非拉人、比录人共七百四十三名；",
-      "ja": "キリアテヤリム、ケピラおよびベエロテの民七百四十三人"
+      "ja": "キリアテ・ヤリム、ケピラおよびベエロテの子孫は七百四十三人、"
     },
     {
       "number": 26,
@@ -208,7 +208,7 @@
       "en": "of Ramah and Geba 621",
       "de": "der Kinder von Rama und Geba sechshundert und einundzwanzig;",
       "zh": "拉玛人、迦巴人共六百二十一名；",
-      "ja": "ラマおよびゲバの民六百二十一人"
+      "ja": "ラマおよびゲバの子孫は六百二十一人、"
     },
     {
       "number": 27,
@@ -216,7 +216,7 @@
       "en": "of Micmash 122",
       "de": "der Männer von Michmas hundertzweiundzwanzig;",
       "zh": "默玛人一百二十二名；",
-      "ja": "ミクマシの人百二十二人"
+      "ja": "ミクマシの人々は百二十二人、"
     },
     {
       "number": 28,
@@ -224,7 +224,7 @@
       "en": "of Bethel and Ai 223",
       "de": "der Männer von Beth-El und Ai zweihundert und dreiundzwanzig;",
       "zh": "伯特利人、艾人共二百二十三名；",
-      "ja": "ベテルおよびアイの人二百二十三人"
+      "ja": "ベテルおよびアイの人々は二百二十三人、"
     },
     {
       "number": 29,
@@ -232,7 +232,7 @@
       "en": "of Nebo 52",
       "de": "der Kinder von Nebo zweiundfünfzig;",
       "zh": "尼波人五十二名；",
-      "ja": "ネボの民五十二人"
+      "ja": "ネボの子孫は五十二人、"
     },
     {
       "number": 30,
@@ -240,7 +240,7 @@
       "en": "of Magbish 156",
       "de": "der Kinder Magbis hundertsechsundfünfzig;",
       "zh": "末必人一百五十六名；",
-      "ja": "マグビシの民百五十六人"
+      "ja": "マグビシの子孫は百五十六人、"
     },
     {
       "number": 31,
@@ -248,7 +248,7 @@
       "en": "of the other Elam 1,254",
       "de": "der Kinder des andern Elam tausendzweihundert und vierundfünfzig;",
       "zh": "别的以拦子孙一千二百五十四名；",
-      "ja": "他のエラムの民千二百五十四人"
+      "ja": "他のエラムの子孫は一千二百五十四人、"
     },
     {
       "number": 32,
@@ -256,7 +256,7 @@
       "en": "of Harim 320",
       "de": "der Kinder Harim dreihundertundzwanzig;",
       "zh": "哈琳的子孙三百二十名；",
-      "ja": "ハリムの民三百二十人"
+      "ja": "ハリムの子孫は三百二十人、"
     },
     {
       "number": 33,
@@ -264,7 +264,7 @@
       "en": "of Lod, Hadid and Ono 725",
       "de": "der Kinder von Lod, Hadid und Ono siebenhundert und fünfundzwanzig;",
       "zh": "罗德人、哈第人、阿挪人共七百二十五名；",
-      "ja": "ロド、ハデデおよびオノの民七百二十五人"
+      "ja": "ロド、ハデデおよびオノの子孫は七百二十五人、"
     },
     {
       "number": 34,
@@ -272,7 +272,7 @@
       "en": "of Jericho 345",
       "de": "der Kinder von Jericho dreihundert und fünfundvierzig;",
       "zh": "耶利哥人三百四十五名；",
-      "ja": "ヱリコの民三百四十五人"
+      "ja": "エリコの子孫は三百四十五人、"
     },
     {
       "number": 35,
@@ -280,7 +280,7 @@
       "en": "of Senaah 3,630",
       "de": "der Kinder von Senaa dreitausend und sechshundertunddreißig.",
       "zh": "西拿人三千六百三十名。",
-      "ja": "セナアの民三千六百三十人"
+      "ja": "セナアの子孫は三千六百三十人。"
     },
     {
       "number": 36,
@@ -288,7 +288,7 @@
       "en": "The priests: the descendants of Jedaiah (through the family of Jeshua) 973",
       "de": "Der Priester: der Kinder Jedaja vom Hause Jesua neunhundert und dreiundsiebzig;",
       "zh": "祭司：耶书亚家耶大雅的子孙九百七十三名；",
-      "ja": "祭司はヱシユアの家のヱダヤの子孫九百七十三人"
+      "ja": "祭司は、エシュアの家のエダヤの子孫九百七十三人、"
     },
     {
       "number": 37,
@@ -296,7 +296,7 @@
       "en": "of Immer 1,052",
       "de": "der Kinder Immer tausend und zweiundfünfzig;",
       "zh": "音麦的子孙一千零五十二名；",
-      "ja": "インメルの子孫千五十二人"
+      "ja": "インメルの子孫一千五十二人、"
     },
     {
       "number": 38,
@@ -304,7 +304,7 @@
       "en": "of Pashhur 1,247",
       "de": "der Kinder Pashur tausendzweihundert und siebenundvierzig;",
       "zh": "巴施户珥的子孙一千二百四十七名；",
-      "ja": "パシュルの子孫千二百四十七人"
+      "ja": "パシュルの子孫一千二百四十七人、"
     },
     {
       "number": 39,
@@ -312,7 +312,7 @@
       "en": "of Harim 1,017",
       "de": "der Kinder Harim tausend und siebzehn.",
       "zh": "哈琳的子孙一千零一十七名。",
-      "ja": "ハリムの子孫千十七人"
+      "ja": "ハリムの子孫一千十七人。"
     },
     {
       "number": 40,
@@ -320,7 +320,7 @@
       "en": "The Levites: the descendants of Jeshua and Kadmiel (through the line of Hodaviah) 74",
       "de": "Der Leviten: der Kinder Jesua und Kadmiel von den Kindern Hodavja vierundsiebzig.",
       "zh": "利未人：何达威雅的后裔，就是耶书亚和甲篾的子孙七十四名。",
-      "ja": "レビ人はホダヤの子等ヱシユアとカデミエルの子孫七十四人"
+      "ja": "レビびとは、ホダヤの子孫すなわちエシュアとカデミエルの子孫七十四人。"
     },
     {
       "number": 41,
@@ -328,7 +328,7 @@
       "en": "The singers: the descendants of Asaph 128",
       "de": "Der Sänger: der Kinder Asaph hundertachtundzwanzig.",
       "zh": "歌唱的：亚萨的子孙一百二十八名。",
-      "ja": "謳歌者はアサフの子孫百二十八人"
+      "ja": "歌うたう者は、アサフの子孫百二十八人。"
     },
     {
       "number": 42,
@@ -336,7 +336,7 @@
       "en": "The gatekeepers of the temple: the descendants of Shallum, Ater, Talmon, Akkub, Hatita and Shobai 139",
       "de": "der Kinder der Torhüter: die Kinder Sallum, die Kinder Ater, die Kinder Talmon, die Kinder Akkub, die Kinder Hatita und die Kinder Sobai, allesamt hundertneununddreißig.",
       "zh": "守门的：沙龙的子孙、亚特的子孙、达们的子孙、亚谷的子孙、哈底大的子孙、朔拜的子孙，共一百三十九名。",
-      "ja": "門を守る者の子孫はシヤルムの子孫アテルの子孫タルモンの子孫アツクブの子孫ハテタの子孫シヨバイの子孫合せて百三十九人"
+      "ja": "門衛の子孫は、シャルムの子孫、アテルの子孫、タルモンの子孫、アックブの子孫、ハテタの子孫、ショバイの子孫合わせて百三十九人。"
     },
     {
       "number": 43,
@@ -344,7 +344,7 @@
       "en": "The temple servants: the descendants of Ziha, Hasupha, Tabbaoth,",
       "de": "Der Tempelknechte: die Kinder Ziha, die Kinder Hasupha, die Kinder Tabbaoth,",
       "zh": "尼提宁：西哈的子孙、哈苏巴的子孙、答巴俄的子孙、",
-      "ja": "ネテニ人はヂハの子孫ハスパの子孫タバオテの子孫"
+      "ja": "宮に仕えるしもべたちは、ヂハの子孫、ハスパの子孫、タバオテの子孫、"
     },
     {
       "number": 44,
@@ -352,7 +352,7 @@
       "en": "Keros, Siaha, Padon,",
       "de": "die Kinder Keros, die Kinder Siaha, die Kinder Padon,",
       "zh": "基绿的子孙、西亚的子孙、巴顿的子孙、",
-      "ja": "ケロスの子孫シアハの子孫パドンの子孫"
+      "ja": "ケロスの子孫、シアハの子孫、パドンの子孫、"
     },
     {
       "number": 45,
@@ -360,7 +360,7 @@
       "en": "Lebanah, Hagabah, Akkub,",
       "de": "die Kinder Lebana, die Kinder Hagaba, die Kinder Akkub,",
       "zh": "利巴拿的子孙、哈迦巴的子孙、亚谷的子孙、",
-      "ja": "レバナの子孫ハガバの子孫アツクブの子孫"
+      "ja": "レバナの子孫、ハガバの子孫、アックブの子孫、"
     },
     {
       "number": 46,
@@ -368,7 +368,7 @@
       "en": "Hagab, Shalmai, Hanan,",
       "de": "die Kinder Hagab, die Kinder Samlai, die Kinder Hanan,",
       "zh": "哈甲的子孙、萨买的子孙、哈难的子孙、",
-      "ja": "ハガブの子孫シヤルマイの子孫ハナンの子孫"
+      "ja": "ハガブの子孫、シャルマイの子孫、ハナンの子孫、"
     },
     {
       "number": 47,
@@ -376,7 +376,7 @@
       "en": "Giddel, Gahar, Reaiah,",
       "de": "die Kinder Giddel, die Kinder Gahar, die Kinder Reaja,",
       "zh": "吉德的子孙、迦哈的子孙、利亚雅的子孙、",
-      "ja": "ギデルの子孫ガハルの子孫レアヤの子孫"
+      "ja": "ギデルの子孫、ガハルの子孫、レアヤの子孫、"
     },
     {
       "number": 48,
@@ -384,7 +384,7 @@
       "en": "Rezin, Nekoda, Gazzam,",
       "de": "die Kinder Rezin, die Kinder Nekoda, die Kinder Gassam,",
       "zh": "利汛的子孙、尼哥大的子孙、迦散的子孙、",
-      "ja": "レヂンの子孫ネコダの子孫ガザムの子孫"
+      "ja": "レヂンの子孫、ネコダの子孫、ガザムの子孫、"
     },
     {
       "number": 49,
@@ -392,7 +392,7 @@
       "en": "Uzza, Paseah, Besai,",
       "de": "die Kinder Usa, die Kinder Paseah, die Kinder Beasi,",
       "zh": "乌撒的子孙、巴西亚的子孙、比赛的子孙、",
-      "ja": "ウザの子孫パセアの子孫ベサイの子孫"
+      "ja": "ウザの子孫、パセアの子孫、ベサイの子孫、"
     },
     {
       "number": 50,
@@ -400,7 +400,7 @@
       "en": "Asnah, Meunim, Nephussim,",
       "de": "die Kinder Asna, die Kinder der Meuniter, die Kinder der Nephusiter,",
       "zh": "押拿的子孙、米乌宁的子孙、尼普心的子孙、",
-      "ja": "アスナの子孫メウニムの子孫ネフシムの子孫"
+      "ja": "アスナの子孫、メウニムの子孫、ネフシムの子孫、"
     },
     {
       "number": 51,
@@ -408,7 +408,7 @@
       "en": "Bakbuk, Hakupha, Harhur,",
       "de": "die Kinder Bakbuk, die Kinder Hakupha, die Kinder Harhur,",
       "zh": "巴卜的子孙、哈古巴的子孙、哈忽的子孙、",
-      "ja": "バクブクの子孫ハクパの子孫ハルホルの子孫"
+      "ja": "バクブクの子孫、ハクパの子孫、ハルホルの子孫、"
     },
     {
       "number": 52,
@@ -416,7 +416,7 @@
       "en": "Bazluth, Mehida, Harsha,",
       "de": "die Kinder Bazluth, die Kinder Mehida, die Kinder Harsa,",
       "zh": "巴洗律的子孙、米希大的子孙、哈沙的子孙、",
-      "ja": "バヅリテの子孫メヒダの子孫ハルシヤの子孫"
+      "ja": "バヅリテの子孫、メヒダの子孫、ハルシャの子孫、"
     },
     {
       "number": 53,
@@ -424,7 +424,7 @@
       "en": "Barkos, Sisera, Temah,",
       "de": "die Kinder Barkos, die Kinder Sisera, die Kinder Themah,",
       "zh": "巴柯的子孙、西西拉的子孙、答玛的子孙、",
-      "ja": "バルコスの子孫シセラの子孫テマの子孫"
+      "ja": "バルコスの子孫、シセラの子孫、テマの子孫、"
     },
     {
       "number": 54,
@@ -432,7 +432,7 @@
       "en": "Neziah and Hatipha",
       "de": "die Kinder Neziah, die Kinder Hatipha.",
       "zh": "尼细亚的子孙、哈提法的子孙。",
-      "ja": "ネヂアの子孫ハテパの子孫等なり"
+      "ja": "ネヂアの子孫、ハテパの子孫である。"
     },
     {
       "number": 55,
@@ -440,7 +440,7 @@
       "en": "The descendants of the servants of Solomon: the descendants of Sotai, Hassophereth, Peruda,",
       "de": "Die Kinder der Knechte Salomos: Die Kinder Sotai, die Kinder Sophereth, die Kinder Peruda,",
       "zh": "所罗门仆人的后裔，就是琐太的子孙、琐斐列的子孙、比路大的子孙、",
-      "ja": "ソロモンの僕たりし者等の子孫すなはちソタイの子孫ハッソペレテの子孫ペリダの子孫"
+      "ja": "ソロモンのしもべたちの子孫は、ソタイの子孫、ハッソペレテの子孫、ペリダの子孫、"
     },
     {
       "number": 56,
@@ -448,7 +448,7 @@
       "en": "Jaala, Darkon, Giddel,",
       "de": "die Kinder Jaala, die Kinder Darkon, die Kinder Giddel,",
       "zh": "雅拉的子孙、达昆的子孙、吉德的子孙、",
-      "ja": "ヤアラの子孫ダルコンの子孫ギデルの子孫"
+      "ja": "ヤアラの子孫、ダルコンの子孫、ギデルの子孫、"
     },
     {
       "number": 57,
@@ -456,7 +456,7 @@
       "en": "Shephatiah, Hattil, Pokereth-Hazzebaim and Ami",
       "de": "die Kinder Sephatja, die Kinder Hattil, die Kinder Pochereth von Zebaim, die Kinder der Ami.",
       "zh": "示法提雅的子孙、哈替的子孙、玻黑列·哈斯巴音的子孙、亚米的子孙。",
-      "ja": "シパテヤの子孫ハッテルの子孫ポケレテハツゼバイムの子孫アミの子孫"
+      "ja": "シパテヤの子孫、ハッテルの子孫、ポケレテ・ハッゼバイムの子孫、アミの子孫。"
     },
     {
       "number": 58,
@@ -464,7 +464,7 @@
       "en": "The temple servants and the descendants of the servants of Solomon 392",
       "de": "Aller Tempelknechte und Kinder der Knechte Salomos waren zusammen dreihundert und zweiundneunzig.",
       "zh": "尼提宁和所罗门仆人的后裔共三百九十二名。",
-      "ja": "ネテニ人とソロモンの僕たりし者等の子孫とは合せて三百九十二人"
+      "ja": "宮に仕えるしもべたちとソロモンのしもべたちの子孫とは合わせて三百九十二人。"
     },
     {
       "number": 59,
@@ -472,7 +472,7 @@
       "en": "The following came up from the towns of Tel Melah, Tel Harsha, Kerub, Addon and Immer, but they could not show that their families were descended from Israel:",
       "de": "Und diese zogen auch mit herauf von Thel-Melah, Thel-Harsa, Cherub, Addon und Immer, aber sie konnten nicht anzeigen ihr Vaterhaus noch ihr Geschlecht, ob sie aus Israel wären:",
       "zh": "从特·米拉、特·哈萨、基绿、押但、音麦上来的，不能指明他们的宗族谱系是以色列人不是；",
-      "ja": "またテルメラ、テルハレサ、ケルブ、アダンおよびインメルより上り來れる者ありしがその宗家の長とその血統とを示してイスラエルの者なるを明かにすることを得ざりき"
+      "ja": "次にあげる人々はテル・メラ、テル・ハレサ、ケルブ、アダンおよびインメルから上って来た者であったが、彼らはその氏族とその血統とを示して、そのイスラエルの者であることを明らかにすることができなかった。"
     },
     {
       "number": 60,
@@ -480,7 +480,7 @@
       "en": "The descendants of Delaiah, Tobiah and Nekoda 652",
       "de": "die Kinder Delaja, die Kinder Tobia, die Kinder Nekoda, sechshundert und zweiundfünfzig.",
       "zh": "他们是第来雅的子孙、多比雅的子孙、尼哥大的子孙，共六百五十二名。",
-      "ja": "是すなはちデラヤの子孫トビヤの子孫ネコダの子孫にして合せて六百五十二人"
+      "ja": "すなわちデラヤの子孫、トビヤの子孫、ネコダの子孫で合わせて六百五十二人。"
     },
     {
       "number": 61,
@@ -488,7 +488,7 @@
       "en": "And from among the priests: The descendants of Hobaiah, Hakkoz and Barzillai (a man who had married a daughter of Barzillai the Gileadite and was called by that name).",
       "de": "Und von den Kindern der Priester: die Kinder Habaja, die Kinder Hakkoz, die Kinder Barsillais, der aus den Töchtern Barsillais, des Gileaditers, ein Weib nahm und ward unter ihrem Namen genannt.",
       "zh": "祭司中，哈巴雅的子孙、哈哥斯的子孙、巴西莱的子孙；因为他们的先祖娶了基列人巴西莱的女儿为妻，所以起名叫巴西莱。",
-      "ja": "祭司の子孫たる者の中にハバヤの子孫ハッコヅの子孫バルジライの子孫あり バルジライはギレアデ人バルジライの女を妻に娶りてその名を名りしなり"
+      "ja": "祭司の子孫のうちにはハバヤの子孫、ハッコヅの子孫、バルジライの子孫があった。バルジライはギレアデびとバルジライの娘たちのうちから妻をめとったので、その名で呼ばれることになった。"
     },
     {
       "number": 62,
@@ -496,7 +496,7 @@
       "en": "These searched for their family records, but they could not find them and so were excluded from the priesthood as unclean.",
       "de": "Die suchten ihre Geburtsregister, und fanden keine; darum wurden sie untüchtig geachtet zum Priestertum.",
       "zh": "这三家的人在族谱之中寻查自己的谱系，却寻不着，因此算为不洁，不准供祭司的职任。",
-      "ja": "是等の者譜系に載たる者等の中におのが名を尋ねたれども在ざりき 是の故に汚れたる者として祭司の中より除かれたり"
+      "ja": "これらの者は系譜に載った者たちのうちに自分の名を尋ねたが見いだされなかったので、汚れた者として、祭司の職から除かれた。"
     },
     {
       "number": 63,
@@ -504,7 +504,7 @@
       "en": "The governor ordered them not to eat any of the most sacred food until there was a priest ministering with the Urim and Thummim.",
       "de": "Und der Landpfleger sprach zu ihnen, sie sollten nicht essen vom Hochheiligen, bis ein Priester aufstände mit dem Licht und Recht.",
       "zh": "省长对他们说：「不可吃至圣的物，直到有用乌陵和土明决疑的祭司兴起来。」",
-      "ja": "テルシヤタは之に告てウリムとトンミムを帶る祭司の興るまでは至聖物を食ふべからずと言り"
+      "ja": "総督は彼らに告げて、ウリムとトンミムを身につける祭司の興るまでは、いと聖なる物を食べてはならないと言った。"
     },
     {
       "number": 64,
@@ -512,7 +512,7 @@
       "en": "The whole company numbered 42,360,",
       "de": "Der ganzen Gemeinde wie ein Mann waren zweiundvierzigtausend und dreihundertundsechzig.",
       "zh": "会众共有四万二千三百六十名。",
-      "ja": "會衆あはせて四萬二千三百六十人"
+      "ja": "会衆は合わせて四万二千三百六十人であった。"
     },
     {
       "number": 65,
@@ -520,7 +520,7 @@
       "en": "besides their 7,337 menservants and maidservants; and they also had 200 men and women singers.",
       "de": "ausgenommen ihre Knechte und Mägde, derer waren siebentausend dreihundert und siebenunddreißig, dazu zweihundert Sänger und Sängerinnen.",
       "zh": "此外，还有他们的仆婢七千三百三十七名，又有歌唱的男女二百名。",
-      "ja": "この外にその僕婢七千三百三十七人 謳歌男女二百人あり"
+      "ja": "このほかに、しもべおよびはしため合わせて七千三百三十七人、また歌うたう男女二百人あった。"
     },
     {
       "number": 66,
@@ -528,7 +528,7 @@
       "en": "They had 736 horses, 245 mules,",
       "de": "Und hatten siebenhundert und sechsunddreißig Rosse, zweihundert und fünfundvierzig Maultiere,",
       "zh": "他们有马七百三十六匹，骡子二百四十五匹，",
-      "ja": "その馬七百三十六匹 その騾二百四十五匹"
+      "ja": "その馬は七百三十六頭、その騾馬は二百四十五頭、"
     },
     {
       "number": 67,
@@ -536,7 +536,7 @@
       "en": "435 camels and 6,720 donkeys.",
       "de": "vierhundert und fünfunddreißig Kamele und sechstausend und siebenhundertzwanzig Esel.",
       "zh": "骆驼四百三十五只，驴六千七百二十匹。",
-      "ja": "その駱駝四百三十五匹 驢馬六千七百二十匹"
+      "ja": "そのらくだは四百三十五頭、そのろばは六千七百二十頭あった。"
     },
     {
       "number": 68,
@@ -544,7 +544,7 @@
       "en": "When they arrived at the house of the LORD in Jerusalem, some of the heads of the families gave freewill offerings toward the rebuilding of the house of God on its site.",
       "de": "Und etliche Oberste der Vaterhäuser, da sie kamen zum Hause des Herrn zu Jerusalem, gaben sie freiwillig zum Hause Gottes, daß man's setzte auf seine Stätte,",
       "zh": "有些族长到了耶路撒冷耶和华殿的地方，便为　神的殿甘心献上礼物，要重新建造。",
-      "ja": "宗家の長數人ヱルサレムなるヱホバの室にいたるにおよびてヱホバの室をその本の處に建んとて物を誠意より獻げたり"
+      "ja": "氏族の長数人はエルサレムにある主の宮の所にきた時、神の宮をもとの所に建てるために真心よりの供え物をささげた。"
     },
     {
       "number": 69,
@@ -552,7 +552,7 @@
       "en": "According to their ability they gave to the treasury for this work 61,000 drachmas of gold, 5,000 minas of silver and 100 priestly garments.",
       "de": "und gaben nach ihrem Vermögen zum Schatz fürs Werk einundsechzigtausend Goldgulden und fünftausend Pfund Silber und hundert Priesterröcke.",
       "zh": "他们量力捐入工程库的金子六万一千达利克，银子五千弥拿，并祭司的礼服一百件。",
-      "ja": "即ちその力にしたがひて工事のために庫を納めし者は金六萬一千ダリク銀五千斤祭司の衣服百襲なりき"
+      "ja": "すなわち、その力に従って工事のために倉に納めたものは、金六万一千ダリク、銀五千ミナ、祭司の衣服百かさねであった。"
     },
     {
       "number": 70,
@@ -560,7 +560,7 @@
       "en": "The priests, the Levites, the singers, the gatekeepers and the temple servants settled in their own towns, along with some of the other people, and the rest of the Israelites settled in their towns.",
       "de": "Also setzten sich die Priester und die Leviten und die vom Volk und die Sänger und die Torhüter und die Tempelknechte in ihre Städte und alles Israel in seine Städte.",
       "zh": "于是祭司、利未人、民中的一些人、歌唱的、守门的、尼提宁，并以色列众人，各住在自己的城里。",
-      "ja": "祭司レビ人民等謳歌者門を守る者およびネテニ人等その邑々に住み一切のイスラエル人その邑々に住り"
+      "ja": "祭司、レビびと、および民のある者はエルサレムおよびその近郊に住み、歌うたう者、門衛および宮に仕えるしもべたちはその町々に住み、一般のイスラエルびとは自分たちの町々に住んだ。"
     }
   ]
 }

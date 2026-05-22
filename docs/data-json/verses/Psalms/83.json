@@ -8,7 +8,7 @@
       "en": "A song. A psalm of Asaph. O God, do not keep silent; be not quiet, O God, be not still.",
       "de": "Ein Psalmlied Asaphs. Gott, schweige doch nicht also und sei doch nicht so still; Gott, halt doch nicht so inne!",
       "zh": "亚萨的诗歌。 　神啊，求你不要静默！ 　神啊，求你不要闭口，也不要不作声！",
-      "ja": "神よもだしたまふなかれ神よものいはで寂靜たまふなかれ"
+      "ja": "神よ、沈黙を守らないでください。神よ、何も言わずに、黙っていないでください。"
     },
     {
       "number": 2,
@@ -16,7 +16,7 @@
       "en": "See how your enemies are astir, how your foes rear their heads.",
       "de": "Denn siehe, deine Feinde toben, und die dich hassen, richten den Kopf auf.",
       "zh": "因为你的仇敌喧嚷， 恨你的抬起头来。",
-      "ja": "視よなんぢの仇はかしがきしき聲をあげ汝をにくむものは首をあげたり"
+      "ja": "見よ、あなたの敵は騒ぎたち、あなたを憎む者は頭をあげました。"
     },
     {
       "number": 3,
@@ -24,7 +24,7 @@
       "en": "With cunning they conspire against your people; they plot against those you cherish.",
       "de": "Sie machen listige Anschläge gegen dein Volk und ratschlagen wider deine Verborgenen.",
       "zh": "他们同谋奸诈要害你的百姓， 彼此商议要害你所隐藏的人。",
-      "ja": "かれらはたくみなる謀略をもてなんぢの民にむかひ相共にはかりて汝のかくれたる者にむかふ"
+      "ja": "彼らはあなたの民にむかって巧みなはかりごとをめぐらし、あなたの保護される者にむかって相ともに計ります。"
     },
     {
       "number": 4,
@@ -32,7 +32,7 @@
       "en": "\"Come,\" they say, \"let us destroy them as a nation, that the name of Israel be remembered no more.\"",
       "de": "“Wohl her!” sprechen sie; “laßt uns sie ausrotten, daß sie kein Volk seien, daß des Namens Israel nicht mehr gedacht werde!”",
       "zh": "他们说：来吧，我们将他们剪灭， 使他们不再成国！ 使以色列的名不再被人记念！",
-      "ja": "かれらいひたりき 來かれらを斷滅してふたたび國をたつることを得ざらしめイスラエルの名をふたたび人にしられざらしめんと"
+      "ja": "彼らは言います、「さあ、彼らを断ち滅ぼして国を立てさせず、イスラエルの名をふたたび思い出させないようにしよう」。"
     },
     {
       "number": 5,
@@ -40,7 +40,7 @@
       "en": "With one mind they plot together; they form an alliance against you--",
       "de": "Denn sie haben sich miteinander vereinigt und einen Bund wider dich gemacht,",
       "zh": "他们同心商议， 彼此结盟，要抵挡你，",
-      "ja": "かれらは心を一つにしてともにはかり互にちかひをなしてなんぢに逆ふ"
+      "ja": "彼らは心をひとつにして共にはかり、あなたに逆らって契約を結びます。"
     },
     {
       "number": 6,
@@ -48,7 +48,7 @@
       "en": "the tents of Edom and the Ishmaelites, of Moab and the Hagrites,",
       "de": "die Hütten der Edomiter und Ismaeliter, der Moabiter und Hagariter,",
       "zh": "就是住帐棚的以东人和以实玛利人， 摩押和夏甲人，",
-      "ja": "こはエドムの幕屋にすめる人イシマエル人モアブ、ハガル人"
+      "ja": "すなわちエドムの天幕に住む者とイシマエルびと、モアブとハガルびと、"
     },
     {
       "number": 7,
@@ -56,7 +56,7 @@
       "en": "Gebal, Ammon and Amalek, Philistia, with the people of Tyre.",
       "de": "der Gebaliter, Ammoniter und Amalekiter, die Philister samt denen zu Tyrus;",
       "zh": "迦巴勒、亚扪， 和亚玛力、非利士并泰尔的居民。",
-      "ja": "ゲバル、アンモン、アマレク、ペリシテおよびツロの民などなり"
+      "ja": "ゲバルとアンモンとアマレク、ペリシテとツロの住民などです。"
     },
     {
       "number": 8,
@@ -64,7 +64,7 @@
       "en": "Even Assyria has joined them to lend strength to the descendants of Lot. Selah",
       "de": "Assur hat sich auch zu ihnen geschlagen; sie helfen den Kindern Lot. (Sela.)",
       "zh": "亚述也与他们连合； 他们作罗得子孙的帮手。 （细拉）",
-      "ja": "アッスリヤも亦かれらにくみせり 斯てロトの子輩のたすけをなせり セラ"
+      "ja": "アッスリヤもまた彼らにくみしました。彼らはロトの子孫を助けました。[セラ"
     },
     {
       "number": 9,
@@ -72,7 +72,7 @@
       "en": "Do to them as you did to Midian, as you did to Sisera and Jabin at the river Kishon,",
       "de": "Tue ihnen, wie den Midianitern, wie Sisera, wie Jabin am Bach Kison,",
       "zh": "求你待他们，如待米甸， 如在基顺河待西西拉和耶宾一样。",
-      "ja": "なんぢ曩にミデアンになしたまへる如くキションの河にてシセラとヤビンとに作たまへるごとく彼等にもなしたまへ"
+      "ja": "あなたがミデアンにされたように、キション川でシセラとヤビンにされたように、彼らにしてください。"
     },
     {
       "number": 10,
@@ -80,7 +80,7 @@
       "en": "who perished at Endor and became like refuse on the ground.",
       "de": "die vertilgt wurden bei Endor und wurden zu Kot auf der Erde.",
       "zh": "他们在隐·多珥灭亡， 成了地上的粪土。",
-      "ja": "かれらはエンドルにてほろび地のために肥料となれり"
+      "ja": "彼らはエンドルで滅ぼされ、地のために肥料となりました。"
     },
     {
       "number": 11,
@@ -88,7 +88,7 @@
       "en": "Make their nobles like Oreb and Zeeb, all their princes like Zebah and Zalmunna,",
       "de": "Mache ihre Fürsten wie Oreb und Seeb, alle ihre Obersten wie Sebah und Zalmuna,",
       "zh": "求你叫他们的首领像俄立和西伊伯， 叫他们的王子都像西巴和撒慕拿。",
-      "ja": "かれらの貴人をオレブ、ゼエブのごとくそのもろもろの侯をゼバ、ザルムンナのごとくなしたまへ"
+      "ja": "彼らの貴人をオレブとゼエブのように、そのすべての君たちをゼバとザルムンナのようにしてください。"
     },
     {
       "number": 12,
@@ -96,7 +96,7 @@
       "en": "who said, \"Let us take possession of the pasturelands of God.\"",
       "de": "die da sagen: Wir wollen Häuser Gottes einnehmen.",
       "zh": "他们说：我们要得　神的住处， 作为自己的产业。",
-      "ja": "かれらはいへり われら神の草苑をえてわが有とすべしと"
+      "ja": "彼らは言いました、「われらは神の牧場を獲て、われらの所有にしよう」と。"
     },
     {
       "number": 13,
@@ -104,7 +104,7 @@
       "en": "Make them like tumbleweed, O my God, like chaff before the wind.",
       "de": "Gott, mache sie wie einen Wirbel, wie Stoppeln vor dem Winde.",
       "zh": "我的　神啊，求你叫他们像旋风的尘土， 像风前的碎秸。",
-      "ja": "わが神よかれらをまきあげらるる塵のごとく風のまへの藁のごとくならしめたまへ"
+      "ja": "わが神よ、彼らを巻きあげられるちりのように、風の前のもみがらのようにしてください。"
     },
     {
       "number": 14,
@@ -112,7 +112,7 @@
       "en": "As fire consumes the forest or a flame sets the mountains ablaze,",
       "de": "Wie ein Feuer den Wald verbrennt und wie eine Flamme die Berge anzündet:",
       "zh": "火怎样焚烧树林， 火焰怎样烧着山岭，",
-      "ja": "林をやく火のごとく山をもやす熖のごとく"
+      "ja": "林を焼く火のように、山を燃やす炎のように、"
     },
     {
       "number": 15,
@@ -120,7 +120,7 @@
       "en": "so pursue them with your tempest and terrify them with your storm.",
       "de": "also verfolge sie mit deinem Wetter und erschrecke sie mit deinem Ungewitter.",
       "zh": "求你也照样用狂风追赶他们， 用暴雨恐吓他们。",
-      "ja": "なんぢの暴風をもてかれらを追ひなんぢの旋風をもてかれらを怖れしめたまへ"
+      "ja": "あなたのはやてをもって彼らを追い、つむじかぜをもって彼らを恐れさせてください。"
     },
     {
       "number": 16,
@@ -128,7 +128,7 @@
       "en": "Cover their faces with shame so that men will seek your name, O LORD.",
       "de": "Mache ihr Angesicht voll Schande, daß sie nach deinem Namen fragen müssen, o HERR.",
       "zh": "愿你使他们满面羞耻， 好叫他们寻求你—耶和华的名！",
-      "ja": "かれらの面に恥をみたしめたまへ ヱホバよ然ばかれらなんぢの名をもとめん"
+      "ja": "彼らの顔に恥を満たしてください。主よ、そうすれば彼らはあなたの名を求めるでしょう。"
     },
     {
       "number": 17,
@@ -136,7 +136,7 @@
       "en": "May they ever be ashamed and dismayed; may they perish in disgrace.",
       "de": "Schämen müssen sie sich und erschrecken auf immer und zu Schanden werden und umkommen;",
       "zh": "愿他们永远羞愧惊惶！ 愿他们惭愧灭亡！",
-      "ja": "かれらをとこしへに恥おそれしめ惶てまどひて亡びうせしめたまへ"
+      "ja": "彼らをとこしえに恥じ恐れさせ、あわて惑って滅びうせさせてください。"
     },
     {
       "number": 18,
@@ -144,7 +144,7 @@
       "en": "Let them know that you, whose name is the LORD--that you alone are the Most High over all the earth.",
       "de": "so werden sie erkennen, daß du mit deinem Namen heißest HERR allein und der Höchste in aller Welt.",
       "zh": "使他们知道：惟独你— 名为耶和华的—是全地以上的至高者！",
-      "ja": "然ばかれらはヱホバてふ名をもちたまふ汝のみ全地をしろしめす至上者なることを知るべし"
+      "ja": "主という名をおもちになるあなたのみ、全地をしろしめすいと高き者であることを彼らに知らせてください。"
     }
   ]
 }

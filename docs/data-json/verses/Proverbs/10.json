@@ -8,7 +8,7 @@
       "en": "The proverbs of Solomon: A wise son brings joy to his father, but a foolish son grief to his mother.",
       "de": "Dies sind die Sprüche Salomos. Ein weiser Sohn ist seines Vaters Freude; aber ein törichter Sohn ist seiner Mutter Grämen.",
       "zh": "所罗门的箴言： 智慧之子使父亲欢乐； 愚昧之子叫母亲担忧。",
-      "ja": "ソロモンの箴言 智慧ある子は父を欣ばす 愚なる子は母の憂なり"
+      "ja": "ソロモンの箴言。知恵ある子は父を喜ばせ、愚かな子は母の悲しみとなる。"
     },
     {
       "number": 2,
@@ -16,7 +16,7 @@
       "en": "Ill-gotten treasures are of no value, but righteousness delivers from death.",
       "de": "Unrecht Gut hilft nicht; aber Gerechtigkeit errettet vor dem Tode.",
       "zh": "不义之财毫无益处； 惟有公义能救人脱离死亡。",
-      "ja": "不義の財は益なし されど正義は救ひて死を脱かれしむ"
+      "ja": "不義の宝は益なく、正義は人を救い出して、死を免れさせる。"
     },
     {
       "number": 3,
@@ -24,7 +24,7 @@
       "en": "The LORD does not let the righteous go hungry but he thwarts the craving of the wicked.",
       "de": "Der HERR läßt die Seele des Gerechten nicht Hunger leiden; er stößt aber weg der Gottlosen Begierde.",
       "zh": "耶和华不使义人受饥饿； 恶人所欲的，他必推开。",
-      "ja": "ヱホバは義者の霊魂を餓ゑしめず 惡者にその欲するところを得ざらしむ"
+      "ja": "主は正しい人を飢えさせず、悪しき者の欲望をくじかれる。"
     },
     {
       "number": 4,
@@ -32,7 +32,7 @@
       "en": "Lazy hands make a man poor, but diligent hands bring wealth.",
       "de": "Lässige Hand macht arm; aber der Fleißigen Hand macht reich.",
       "zh": "手懒的，要受贫穷； 手勤的，却要富足。",
-      "ja": "手をものうくして動くものは貧くなり 勤めはたらく者の手は富を得"
+      "ja": "手を動かすことを怠る者は貧しくなり、勤め働く者の手は富を得る。"
     },
     {
       "number": 5,
@@ -40,7 +40,7 @@
       "en": "He who gathers crops in summer is a wise son, but he who sleeps during harvest is a disgraceful son.",
       "de": "Wer im Sommer sammelt, der ist klug; wer aber in der Ernte schläft, wird zu Schanden.",
       "zh": "夏天聚敛的，是智慧之子； 收割时沉睡的，是贻羞之子。",
-      "ja": "夏のうちに斂むる者は智き子なり 収穫の時にねむる者は辱をきたす子なり"
+      "ja": "夏のうちに集める者は賢い子であり、刈入れの時に眠る者は恥をきたらせる子である。"
     },
     {
       "number": 6,
@@ -48,7 +48,7 @@
       "en": "Blessings crown the head of the righteous, but violence overwhelms the mouth of the wicked.",
       "de": "Den Segen hat das Haupt des Gerechten; aber den Mund der Gottlosen wird ihr Frevel überfallen.",
       "zh": "福祉临到义人的头； 强暴蒙蔽恶人的口。",
-      "ja": "義者の首には福祉きたり 惡者の口は強暴を掩ふ"
+      "ja": "正しい者のこうべには祝福があり、悪しき者の口は暴虐を隠す。"
     },
     {
       "number": 7,
@@ -56,7 +56,7 @@
       "en": "The memory of the righteous will be a blessing, but the name of the wicked will rot.",
       "de": "Das Gedächtnis der Gerechten bleibt im Segen; aber der Gottlosen Name wird verwesen.",
       "zh": "义人的纪念被称赞； 恶人的名字必朽烂。",
-      "ja": "義者の名は讃られ 惡者の名は腐る"
+      "ja": "正しい者の名はほめられ、悪しき者の名は朽ちる。"
     },
     {
       "number": 8,
@@ -64,7 +64,7 @@
       "en": "The wise in heart accept commands, but a chattering fool comes to ruin.",
       "de": "Wer weise von Herzen ist nimmt die Gebote an; wer aber ein Narrenmaul hat, wird geschlagen.",
       "zh": "心中智慧的，必受命令； 口里愚妄的，必致倾倒。",
-      "ja": "心の智き者は誡命を受く されど口の頑愚なる者は滅さる"
+      "ja": "心のさとき者は戒めを受ける、むだ口をたたく愚かな者は滅ぼされる。"
     },
     {
       "number": 9,
@@ -72,7 +72,7 @@
       "en": "The man of integrity walks securely, but he who takes crooked paths will be found out.",
       "de": "Wer unschuldig lebt, der lebt sicher; wer aber verkehrt ist auf seinen Wegen, wird offenbar werden.",
       "zh": "行正直路的，步步安稳； 走弯曲道的，必致败露。",
-      "ja": "直くあゆむ者はそのあゆむこと安し されどその途を曲ぐる者は知らるべし"
+      "ja": "まっすぐに歩む者の歩みは安全である、しかし、その道を曲げる者は災にあう。"
     },
     {
       "number": 10,
@@ -80,7 +80,7 @@
       "en": "He who winks maliciously causes grief, and a chattering fool comes to ruin.",
       "de": "Wer mit Augen winkt, wird Mühsal anrichten; und der ein Narrenmaul hat, wird geschlagen.",
       "zh": "以眼传神的，使人忧患； 口里愚妄的，必致倾倒。",
-      "ja": "眼をもて眴せする者は憂をおこし 口の頑愚なる者は亡さる"
+      "ja": "目で、めくばせする者は憂いをおこし、あからさまに、戒める者は平和をきたらせる。"
     },
     {
       "number": 11,
@@ -88,7 +88,7 @@
       "en": "The mouth of the righteous is a fountain of life, but violence overwhelms the mouth of the wicked.",
       "de": "Des Gerechten Mund ist ein Brunnen des Lebens; aber den Mund der Gottlosen wird ihr Frevel überfallen.",
       "zh": "义人的口是生命的泉源； 强暴蒙蔽恶人的口。",
-      "ja": "義者の口は生命の泉なり 惡者の口は強暴を掩ふ"
+      "ja": "正しい者の口は命の泉である、悪しき者の口は暴虐を隠す。"
     },
     {
       "number": 12,
@@ -96,7 +96,7 @@
       "en": "Hatred stirs up dissension, but love covers over all wrongs.",
       "de": "Haß erregt Hader; aber Liebe deckt zu alle Übertretungen.",
       "zh": "恨能挑启争端； 爱能遮掩一切过错。",
-      "ja": "怨恨は爭端をおこし 愛はすべての愆を掩ふ"
+      "ja": "憎しみは、争いを起し、愛はすべてのとがをおおう。"
     },
     {
       "number": 13,
@@ -104,7 +104,7 @@
       "en": "Wisdom is found on the lips of the discerning, but a rod is for the back of him who lacks judgment.",
       "de": "In den Lippen des Verständigen findet man Weisheit; aber auf den Rücken der Narren gehört eine Rute.",
       "zh": "明哲人嘴里有智慧； 无知人背上受刑杖。",
-      "ja": "哲者のくちびるには智慧あり 智慧なき者の背のためには鞭あり"
+      "ja": "さとき者のくちびるには知恵があり、知恵のない者の背にはむちがある。"
     },
     {
       "number": 14,
@@ -112,7 +112,7 @@
       "en": "Wise men store up knowledge, but the mouth of a fool invites ruin.",
       "de": "Die Weisen bewahren die Lehre; aber der Narren Mund ist nahe dem Schrecken.",
       "zh": "智慧人积存知识； 愚妄人的口速致败坏。",
-      "ja": "智慧ある者は知識をたくはふ 愚かなる者の口はいまにも滅亡をきたらす"
+      "ja": "知恵ある者は知識をたくわえる、愚かな者のむだ口は、今にも滅びをきたらせる。"
     },
     {
       "number": 15,
@@ -120,7 +120,7 @@
       "en": "The wealth of the rich is their fortified city, but poverty is the ruin of the poor.",
       "de": "Das Gut des Reichen ist seine feste Stadt; aber die Armen macht die Armut blöde.",
       "zh": "富户的财物是他的坚城； 穷人的贫乏是他的败坏。",
-      "ja": "富者の資財はその堅き城なり 貧者のともしきはそのほろびなり"
+      "ja": "富める者の宝は、その堅き城であり、貧しい者の乏しきは、その滅びである。"
     },
     {
       "number": 16,
@@ -128,7 +128,7 @@
       "en": "The wages of the righteous bring them life, but the income of the wicked brings them punishment.",
       "de": "Der Gerechte braucht sein Gut zum Leben; aber der Gottlose braucht sein Einkommen zur Sünde.",
       "zh": "义人的勤劳致生； 恶人的进项致死。",
-      "ja": "義者が動作は生命にいたり 惡者の利得は罪にいたる"
+      "ja": "正しい者の受ける賃銀は命に導き、悪しき者の利得は罪に至る。"
     },
     {
       "number": 17,
@@ -136,7 +136,7 @@
       "en": "He who heeds discipline shows the way to life, but whoever ignores correction leads others astray.",
       "de": "Die Zucht halten ist der Weg zum Leben; wer aber der Zurechtweisung nicht achtet, der bleibt in der Irre.",
       "zh": "谨守训诲的，乃在生命的道上； 违弃责备的，便失迷了路。",
-      "ja": "敎をまもる者は生命の道にあり懲戒をすつる者はあやまりにおちいる"
+      "ja": "教訓を守る者は命の道にあり、懲しめを捨てる者は道をふみ迷う。"
     },
     {
       "number": 18,
@@ -144,7 +144,7 @@
       "en": "He who conceals his hatred has lying lips, and whoever spreads slander is a fool.",
       "de": "Falsche Mäuler bergen Haß; und wer verleumdet, der ist ein Narr.",
       "zh": "隐藏怨恨的，有说谎的嘴； 口出谗谤的，是愚妄的人。",
-      "ja": "怨をかくす者には虚偽のくちびるあり 誹謗をいだす者は愚かなる者なり"
+      "ja": "憎しみを隠す者には偽りのくちびるがあり、そしりを口に出す者は愚かな者である。"
     },
     {
       "number": 19,
@@ -152,7 +152,7 @@
       "en": "When words are many, sin is not absent, but he who holds his tongue is wise.",
       "de": "Wo viel Worte sind, da geht's ohne Sünde nicht ab; wer aber seine Lippen hält, ist klug.",
       "zh": "多言多语难免有过； 禁止嘴唇是有智慧。",
-      "ja": "言おほけれぼ罪なきことあたはず その口唇を禁むるものは智慧あり"
+      "ja": "言葉が多ければ、とがを免れない、自分のくちびるを制する者は知恵がある。"
     },
     {
       "number": 20,
@@ -160,7 +160,7 @@
       "en": "The tongue of the righteous is choice silver, but the heart of the wicked is of little value.",
       "de": "Des Gerechten Zunge ist köstliches Silber; aber der Gottlosen Herz ist wie nichts.",
       "zh": "义人的舌乃似高银； 恶人的心所值无几。",
-      "ja": "義者の舌は精銀のごとし 惡者の心は値すくなし"
+      "ja": "正しい者の舌は精銀である、悪しき者の心は価値が少ない。"
     },
     {
       "number": 21,
@@ -168,7 +168,7 @@
       "en": "The lips of the righteous nourish many, but fools die for lack of judgment.",
       "de": "Des Gerechten Lippen weiden viele; aber die Narren werden an ihrer Torheit sterben.",
       "zh": "义人的口教养多人； 愚昧人因无知而死亡。",
-      "ja": "義者の口唇はおほくの人をやしなひ 愚なる者は智慧なきに由て死ぬ"
+      "ja": "正しい者のくちびるは多くの人を養い、愚かな者は知恵がなくて死ぬ。"
     },
     {
       "number": 22,
@@ -176,7 +176,7 @@
       "en": "The blessing of the LORD brings wealth, and he adds no trouble to it.",
       "de": "Der Segen des HERRN macht reich ohne Mühe.",
       "zh": "耶和华所赐的福使人富足， 并不加上忧虑。",
-      "ja": "ヱホバの祝福は人を富す 人の勞苦はこれに加ふるところなし"
+      "ja": "主の祝福は人を富ませる、主はこれになんの悲しみをも加えない。"
     },
     {
       "number": 23,
@@ -184,7 +184,7 @@
       "en": "A fool finds pleasure in evil conduct, but a man of understanding delights in wisdom.",
       "de": "Ein Narr treibt Mutwillen und hat dazu noch seinen Spott; aber der Mann ist weise, der aufmerkt.",
       "zh": "愚妄人以行恶为戏耍； 明哲人却以智慧为乐。",
-      "ja": "愚かなる者は惡をなすを戯れごとのごとくす 智慧のさとかる人にとりても是のごとし"
+      "ja": "愚かな者は、戯れ事のように悪を行う、さとき人には賢い行いが楽しみである。"
     },
     {
       "number": 24,
@@ -192,7 +192,7 @@
       "en": "What the wicked dreads will overtake him; what the righteous desire will be granted.",
       "de": "Was der Gottlose fürchtet, das wird ihm begegnen; und was die Gerechten begehren, wird ihnen gegeben.",
       "zh": "恶人所怕的，必临到他； 义人所愿的，必蒙应允。",
-      "ja": "惡者の怖るるところは自己にきたり 義者のねがふところはあたへらる"
+      "ja": "悪しき者の恐れることは自分に来り、正しい者の願うことは与えられる。"
     },
     {
       "number": 25,
@@ -200,7 +200,7 @@
       "en": "When the storm has swept by, the wicked are gone, but the righteous stand firm forever.",
       "de": "Der Gottlose ist wie ein Wetter, das vorübergeht und nicht mehr ist; der Gerechte aber besteht ewiglich.",
       "zh": "暴风一过，恶人归于无有； 义人的根基却是永久。",
-      "ja": "狂風のすぐるとき惡者は無に歸せん 義者は窮なくたもつ基のごとし"
+      "ja": "あらしが通りすぎる時、悪しき者は、もはや、いなくなり、正しい者は永久に堅く立てられる。"
     },
     {
       "number": 26,
@@ -208,7 +208,7 @@
       "en": "As vinegar to the teeth and smoke to the eyes, so is a sluggard to those who send him.",
       "de": "Wie der Essig den Zähnen und der Rauch den Augen tut, so tut der Faule denen, die ihn senden.",
       "zh": "懒惰人叫差他的人 如醋倒牙，如烟薰目。",
-      "ja": "惰る者のこれを遣すものに於るは酢の歯に於るが如く煙の目に於るが如し"
+      "ja": "なまけ者は、これをつかわす者にとっては、酢が歯をいため、煙が目を悩ますようなものだ。"
     },
     {
       "number": 27,
@@ -216,7 +216,7 @@
       "en": "The fear of the LORD adds length to life, but the years of the wicked are cut short.",
       "de": "Die Furcht des HERRN mehrt die Tage; aber die Jahre der Gottlosen werden verkürzt.",
       "zh": "敬畏耶和华使人日子加多； 但恶人的年岁必被减少。",
-      "ja": "ヱホバを畏るることは人の日を多くす されど惡者の年はちぢめらる"
+      "ja": "主を恐れることは人の命の日を多くする、悪しき者の年は縮められる。"
     },
     {
       "number": 28,
@@ -224,7 +224,7 @@
       "en": "The prospect of the righteous is joy, but the hopes of the wicked come to nothing.",
       "de": "Das Warten der Gerechten wird Freude werden; aber der Gottlosen Hoffnung wird verloren sein.",
       "zh": "义人的盼望必得喜乐； 恶人的指望必致灭没。",
-      "ja": "義者の望は喜悦にいたり惡者の望は絶べし"
+      "ja": "正しい者の望みは喜びに終り、悪しき者の望みは絶える。"
     },
     {
       "number": 29,
@@ -232,7 +232,7 @@
       "en": "The way of the LORD is a refuge for the righteous, but it is the ruin of those who do evil.",
       "de": "Der Weg des HERRN ist des Frommen Trotz; aber die Übeltäter sind blöde.",
       "zh": "耶和华的道是正直人的保障， 却成了作孽人的败坏。",
-      "ja": "ヱホバの途は直者の城となり 惡を行ふものの滅亡となる"
+      "ja": "主は、まっすぐに歩む者には城であり、悪を行う者には滅びである。"
     },
     {
       "number": 30,
@@ -240,7 +240,7 @@
       "en": "The righteous will never be uprooted, but the wicked will not remain in the land.",
       "de": "Der Gerechte wird nimmermehr umgestoßen; aber die Gottlosen werden nicht im Lande bleiben.",
       "zh": "义人永不挪移； 恶人不得住在地上。",
-      "ja": "義者は何時までも動かされず 惡者は地に住むことを得じ"
+      "ja": "正しい者はいつまでも動かされることはない、悪しき者は、地に住むことができない。"
     },
     {
       "number": 31,
@@ -248,7 +248,7 @@
       "en": "The mouth of the righteous brings forth wisdom, but a perverse tongue will be cut out.",
       "de": "Der Mund des Gerechten bringt Weisheit; aber die Zunge der Verkehrten wird ausgerottet.",
       "zh": "义人的口滋生智慧； 乖谬的舌必被割断。",
-      "ja": "義者の口は智慧をいだすなり 虚偽の舌は抜るべし"
+      "ja": "正しい者の口は知恵をいだし、偽りの舌は抜かれる。"
     },
     {
       "number": 32,
@@ -256,7 +256,7 @@
       "en": "The lips of the righteous know what is fitting, but the mouth of the wicked only what is perverse.",
       "de": "Die Lippen der Gerechten lehren heilsame Dinge; aber der Gottlosen Mund ist verkehrt.",
       "zh": "义人的嘴能令人喜悦； 恶人的口说乖谬的话。",
-      "ja": "義者のくちびるは喜ばるべきことをわきまへ 惡者の口はいつはりを語る"
+      "ja": "正しい者のくちびるは喜ばるべきことをわきまえ、悪しき者の口は偽りを語る。"
     }
   ]
 }

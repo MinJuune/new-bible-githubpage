@@ -8,7 +8,7 @@
       "en": "A psalm of praise. Of David. I will exalt you, my God the King; I will praise your name for ever and ever.",
       "de": "Ein Lob Davids. Ich will dich erheben, mein Gott, du König, und deinen Namen loben immer und ewiglich.",
       "zh": "大卫的赞美诗。 我的　神我的王啊，我要尊崇你！ 我要永永远远称颂你的名！",
-      "ja": "わがかみ王よわれ汝をあがめ 世かぎりなく聖名をほめまつらん"
+      "ja": "わが神、王よ、わたしはあなたをあがめ、世々かぎりなくみ名をほめまつります。"
     },
     {
       "number": 2,
@@ -16,7 +16,7 @@
       "en": "Every day I will praise you and extol your name for ever and ever.",
       "de": "Ich will dich täglich loben und deinen Namen rühmen immer und ewiglich.",
       "zh": "我要天天称颂你， 也要永永远远赞美你的名！",
-      "ja": "われ日ごとに汝をほめ世々かぎりなく聖名をはめたたへん"
+      "ja": "わたしは日ごとにあなたをほめ、世々かぎりなくみ名をほめたたえます。"
     },
     {
       "number": 3,
@@ -24,7 +24,7 @@
       "en": "Great is the LORD and most worthy of praise; his greatness no one can fathom.",
       "de": "Der HERR ist groß und sehr löblich, und seine Größe ist unausforschlich.",
       "zh": "耶和华本为大，该受大赞美； 其大无法测度。",
-      "ja": "ヱホバは大にましませば最もほむべきかな その大なることは尋ねしることかたし"
+      "ja": "主は大いなる神で、大いにほめたたえらるべきです。その大いなることは測り知ることができません。"
     },
     {
       "number": 4,
@@ -32,7 +32,7 @@
       "en": "One generation will commend your works to another; they will tell of your mighty acts.",
       "de": "Kindeskinder werden deine Werke preisen und von deiner Gewalt sagen.",
       "zh": "这代要对那代颂赞你的作为， 也要传扬你的大能。",
-      "ja": "この代はかの代にむかひてなんぢの事跡をほめたたへ なんぢの大能のはたらきを宣つたへん"
+      "ja": "この代はかの代にむかってあなたのみわざをほめたたえ、あなたの大能のはたらきを宣べ伝えるでしょう。"
     },
     {
       "number": 5,
@@ -40,7 +40,7 @@
       "en": "They will speak of the glorious splendor of your majesty, and I will meditate on your wonderful works.",
       "de": "Ich will reden von deiner herrlichen, schönen Pracht und von deinen Wundern,",
       "zh": "我要默念你威严的尊荣 和你奇妙的作为。",
-      "ja": "われ汝のほまれの榮光ある稜威となんぢの奇しきみわざとを深くおもはん"
+      "ja": "わたしはあなたの威厳の光栄ある輝きと、あなたのくすしきみわざとを深く思います。"
     },
     {
       "number": 6,
@@ -48,7 +48,7 @@
       "en": "They will tell of the power of your awesome works, and I will proclaim your great deeds.",
       "de": "daß man soll sagen von deinen herrlichen Taten und daß man erzähle deine Herrlichkeit;",
       "zh": "人要传说你可畏之事的能力； 我也要传扬你的大德。",
-      "ja": "人はなんぢのおそるべき動作のいきほひをかたり 我はなんぢの大なることを宣つたへん"
+      "ja": "人々はあなたの恐るべきはたらきの勢いを語り、わたしはあなたの大いなることを宣べ伝えます。"
     },
     {
       "number": 7,
@@ -56,7 +56,7 @@
       "en": "They will celebrate your abundant goodness and joyfully sing of your righteousness.",
       "de": "daß man preise deine große Güte und deine Gerechtigkeit rühme.",
       "zh": "他们记念你的大恩就要传出来， 并要歌唱你的公义。",
-      "ja": "かれらはなんぢの大なる惠の跡をいひいで なんぢの義をほめうたはん"
+      "ja": "彼らはあなたの豊かな恵みの思い出を言いあらわし、あなたの義を喜び歌うでしょう。"
     },
     {
       "number": 8,
@@ -64,7 +64,7 @@
       "en": "The LORD is gracious and compassionate, slow to anger and rich in love.",
       "de": "Gnädig und barmherzig ist der HERR, geduldig und von großer Güte.",
       "zh": "耶和华有恩惠，有怜悯， 不轻易发怒，大有慈爱。",
-      "ja": "ヱホバは惠ふかく憐憫みち また怒りたまふことおそく憐憫おほいなり"
+      "ja": "主は恵みふかく、あわれみに満ち、怒ることおそく、いつくしみ豊かです。"
     },
     {
       "number": 9,
@@ -72,7 +72,7 @@
       "en": "The LORD is good to all; he has compassion on all he has made.",
       "de": "Der HERR ist allen gütig und erbarmt sich aller seiner Werke.",
       "zh": "耶和华善待万民； 他的慈悲覆庇他一切所造的。",
-      "ja": "ヱホバはよろづの者にめぐみあり そのふかき憐憫はみわざの上にあまねし"
+      "ja": "主はすべてのものに恵みがあり、そのあわれみはすべてのみわざの上にあります。"
     },
     {
       "number": 10,
@@ -80,7 +80,7 @@
       "en": "All you have made will praise you, O LORD; your saints will extol you.",
       "de": "Es sollen dir danken, HERR, alle deine Werke und deine Heiligen dich loben",
       "zh": "耶和华啊，你一切所造的都要称谢你； 你的圣民也要称颂你，",
-      "ja": "ヱホバよ汝のすべての事跡はなんぢに感謝し なんぢの聖徒はなんぢをほめん"
+      "ja": "主よ、あなたのすべてのみわざはあなたに感謝し、あなたの聖徒はあなたをほめまつるでしょう。"
     },
     {
       "number": 11,
@@ -88,7 +88,7 @@
       "en": "They will tell of the glory of your kingdom and speak of your might,",
       "de": "und die Ehre deines Königreiches rühmen und von deiner Gewalt reden,",
       "zh": "传说你国的荣耀， 谈论你的大能，",
-      "ja": "かれらは御國のえいくわうをかたり汝のみちからを宣つたへて"
+      "ja": "彼らはみ国の栄光を語り、あなたのみ力を宣べ、"
     },
     {
       "number": 12,
@@ -96,7 +96,7 @@
       "en": "so that all men may know of your mighty acts and the glorious splendor of your kingdom.",
       "de": "daß den Menschenkindern deine Gewalt kund werde und die herrliche Pracht deines Königreichs.",
       "zh": "好叫世人知道你大能的作为， 并你国度威严的荣耀。",
-      "ja": "その大能のはたらきとそのみくにの榮光あるみいづとを人の子輩にしらすべし"
+      "ja": "あなたの大能のはたらきと、み国の光栄ある輝きとを人の子に知らせるでしょう。"
     },
     {
       "number": 13,
@@ -104,7 +104,7 @@
       "en": "Your kingdom is an everlasting kingdom, and your dominion endures through all generations. The LORD is faithful to all his promises and loving toward all he has made.",
       "de": "Dein Reich ist ein ewiges Reich, und deine Herrschaft währet für und für.",
       "zh": "你的国是永远的国！ 你执掌的权柄存到万代！",
-      "ja": "なんぢの國はとこしへの國なり なんぢの政治はよろづ代にたゆることなし"
+      "ja": "あなたの国はとこしえの国です。あなたのまつりごとはよろずよに絶えることはありません。"
     },
     {
       "number": 14,
@@ -112,7 +112,7 @@
       "en": "The LORD upholds all those who fall and lifts up all who are bowed down.",
       "de": "Der HERR erhält alle, die da fallen, und richtet auf alle, die niedergeschlagen sind.",
       "zh": "凡跌倒的，耶和华将他们扶持； 凡被压下的，将他们扶起。",
-      "ja": "ヱホバはすべて倒れんとする者をささへ かがむものを直くたたしめたまふ"
+      "ja": "主はすべて倒れんとする者をささえ、すべてかがむ者を立たせられます。"
     },
     {
       "number": 15,
@@ -120,7 +120,7 @@
       "en": "The eyes of all look to you, and you give them their food at the proper time.",
       "de": "Aller Augen warten auf dich, und du gibst ihnen ihre Speise zu seiner Zeit.",
       "zh": "万民都举目仰望你； 你随时给他们食物。",
-      "ja": "よろづのものの目はなんぢを待 なんぢは時にしたがひてかれらに糧をあたへ給ふ"
+      "ja": "よろずのものの目はあなたを待ち望んでいます。あなたは時にしたがって彼らに食物を与えられます。"
     },
     {
       "number": 16,
@@ -128,7 +128,7 @@
       "en": "You open your hand and satisfy the desires of every living thing.",
       "de": "Du tust deine Hand auf und erfüllst alles, was lebt, mit Wohlgefallen.",
       "zh": "你张手， 使有生气的都随愿饱足。",
-      "ja": "なんぢ手をひらきてもろもろの生るものの願望をあかしめたまふ"
+      "ja": "あなたはみ手を開いて、すべての生けるものの願いを飽かせられます。"
     },
     {
       "number": 17,
@@ -136,7 +136,7 @@
       "en": "The LORD is righteous in all his ways and loving toward all he has made.",
       "de": "Der HERR ist gerecht in allen seinen Wegen und heilig in allen seinen Werken.",
       "zh": "耶和华在他一切所行的，无不公义； 在他一切所做的都有慈爱。",
-      "ja": "ヱホバはそのすべての途にただしく そのすべての作爲にめぐみふかし"
+      "ja": "主はそのすべての道に正しく、そのすべてのみわざに恵みふかく、"
     },
     {
       "number": 18,
@@ -144,7 +144,7 @@
       "en": "The LORD is near to all who call on him, to all who call on him in truth.",
       "de": "Der HERR ist nahe allen, die ihn anrufen, allen, die ihn mit Ernst anrufen.",
       "zh": "凡求告耶和华的，就是诚心求告他的， 耶和华便与他们相近。",
-      "ja": "すべてヱホバをよぶもの 誠をもて之をよぶものに ヱホバは近くましますなり"
+      "ja": "すべて主を呼ぶ者、誠をもって主を呼ぶ者に主は近いのです。"
     },
     {
       "number": 19,
@@ -152,7 +152,7 @@
       "en": "He fulfills the desires of those who fear him; he hears their cry and saves them.",
       "de": "Er tut, was die Gottesfürchtigen begehren, und hört ihr Schreien und hilft ihnen.",
       "zh": "敬畏他的，他必成就他们的心愿， 也必听他们的呼求，拯救他们。",
-      "ja": "ヱホバは己をおそるるものの願望をみちたらしめ その號呼をききて之をすくひたまふ"
+      "ja": "主はおのれを恐れる者の願いを満たし、またその叫びを聞いてこれを救われます。"
     },
     {
       "number": 20,
@@ -160,7 +160,7 @@
       "en": "The LORD watches over all who love him, but all the wicked he will destroy.",
       "de": "Der HERR behütet alle, die ihn lieben, und wird vertilgen alle Gottlosen.",
       "zh": "耶和华保护一切爱他的人， 却要灭绝一切的恶人。",
-      "ja": "ヱホバはおのれを愛しむものをすべて守りたまへど 惡者をことごとく滅したまはん"
+      "ja": "主はおのれを愛する者をすべて守られるが、悪しき者をことごとく滅ぼされます。"
     },
     {
       "number": 21,
@@ -168,7 +168,7 @@
       "en": "My mouth will speak in praise of the LORD. Let every creature praise his holy name for ever and ever.",
       "de": "Mein Mund soll des HERRN Lob sagen, und alles Fleisch lobe seinen heiligen Namen immer und ewiglich.",
       "zh": "我的口要说出赞美耶和华的话； 惟愿凡有血气的都永永远远称颂他的圣名。",
-      "ja": "わが口はヱホバの頌美をかたり よろづの民は世々かぎりなくそのきよき名をほめまつるべし"
+      "ja": "わが口は主の誉を語り、すべての肉なる者は世々かぎりなくその聖なるみ名をほめまつるでしょう。"
     }
   ]
 }

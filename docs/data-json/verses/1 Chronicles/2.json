@@ -8,7 +8,7 @@
       "en": "These were the sons of Israel: Reuben, Simeon, Levi, Judah, Issachar, Zebulun,",
       "de": "Dies sind die Kinder Israels: Ruben, Simeon, Levi, Juda, Isaschar, Sebulon,",
       "zh": "以色列的儿子是吕便、西缅、利未、犹大、以萨迦、西布伦、",
-      "ja": "イスラエルの子等は左のごとしルベン、シメオン、レビ、ユダ、イツサカル、ゼブルン"
+      "ja": "イスラエルの子らは次のとおりである。ルベン、シメオン、レビ、ユダ、イッサカル、ゼブルン、"
     },
     {
       "number": 2,
@@ -16,7 +16,7 @@
       "en": "Dan, Joseph, Benjamin, Naphtali, Gad and Asher.",
       "de": "Dan, Joseph, Benjamin, Naphthali, Gad, Asser.",
       "zh": "但、约瑟、便雅悯、拿弗他利、迦得、亚设。",
-      "ja": "ダン、ヨセフ、ベニヤミン、ナフタリ、ガド、アセル"
+      "ja": "ダン、ヨセフ、ベニヤミン、ナフタリ、ガド、アセル。"
     },
     {
       "number": 3,
@@ -24,7 +24,7 @@
       "en": "The sons of Judah: Er, Onan and Shelah. These three were born to him by a Canaanite woman, the daughter of Shua. Er, Judah's firstborn, was wicked in the LORD'S sight; so the LORD put him to death.",
       "de": "Die Kinder Juda's sind: Ger, Onan, Sela. Die drei wurden ihm geboren von der Kanaanitin, der Tochter Suas. Ger aber, der erste Sohn Juda's, war böse vor dem HERRN; darum tötete er ihn.",
       "zh": "犹大的儿子是珥、俄南、示拉，这三人是迦南人书亚女儿所生的。犹大的长子珥在耶和华眼中看为恶，耶和华就使他死了。",
-      "ja": "ユダの子等はエル、オナン、シラなり この三人はカナンの女バテシユアがユダによりて生たるなり ユダの長子エルはヱホバの前に惡き事をなしたれば之を殺したまへり"
+      "ja": "ユダの子らはエル、オナン、シラである。この三人はカナンの女バテシュアがユダによって産んだ者である。ユダの長子エルは主の前に悪を行ったので、主は彼を殺された。"
     },
     {
       "number": 4,
@@ -32,7 +32,7 @@
       "en": "Tamar, Judah's daughter-in-law, bore him Perez and Zerah. Judah had five sons in all.",
       "de": "Thamar aber, seine Schwiegertochter, gebar ihm Perez und Serah, daß aller Kinder Juda's waren fünf.",
       "zh": "犹大的儿妇她玛给犹大生法勒斯和谢拉。犹大共有五个儿子。",
-      "ja": "ユダの媳タマルはユダによりてペレヅとゼラとを生りユダの子等は都合五人なりき"
+      "ja": "ユダの嫁タマルはユダによってペレヅとゼラを産んだ。ユダの子らは合わせて五人である。"
     },
     {
       "number": 5,
@@ -40,7 +40,7 @@
       "en": "The sons of Perez: Hezron and Hamul.",
       "de": "Die Kinder des Perez sind: Hezron und Hamul.",
       "zh": "法勒斯的儿子是希斯 、哈母勒。",
-      "ja": "ペレヅの子等はヘヅロンおよびハムル"
+      "ja": "ペレヅの子らはヘヅロンとハムル。"
     },
     {
       "number": 6,
@@ -48,7 +48,7 @@
       "en": "The sons of Zerah: Zimri, Ethan, Heman, Calcol and Darda--five in all.",
       "de": "Die Kinder aber Serahs sind: Simri, Ethan, Heman, Chalkol, Dara. Diese alle sind fünf.",
       "zh": "谢拉的儿子是心利、以探、希幔、甲各、大拉，共五人。",
-      "ja": "ゼラの子等はジムリ、エタン、ヘマン、カルコル、ダラ都合五人"
+      "ja": "ゼラの子らはジムリ、エタン、ヘマン、カルコル、ダラで、合わせて五人である。"
     },
     {
       "number": 7,
@@ -56,7 +56,7 @@
       "en": "The son of Carmi: Achar, who brought trouble on Israel by violating the ban on taking devoted things.",
       "de": "Die Kinder Charmis sind Achan, welcher Israel betrübte, da er sich am Verbannten vergriff.",
       "zh": "迦米的儿子是亚干，这亚干在当灭的物上犯了罪，连累了以色列人。",
-      "ja": "カルミの子はアカル、アカルは詛はれし物につきて罪を犯してイスラエルを惱ませし者なり"
+      "ja": "カルミの子はアカル。アカルは奉納物について罪を犯し、イスラエルを悩ました者である。"
     },
     {
       "number": 8,
@@ -64,7 +64,7 @@
       "en": "The son of Ethan: Azariah.",
       "de": "Die Kinder Ethans sind: Asarja.",
       "zh": "以探的儿子是亚撒利雅。",
-      "ja": "エタンの子はアザリヤ"
+      "ja": "エタンの子はアザリヤである。"
     },
     {
       "number": 9,
@@ -72,7 +72,7 @@
       "en": "The sons born to Hezron were: Jerahmeel, Ram and Caleb.",
       "de": "Die Kinder aber Hezrons, die ihm geboren, sind: Jerahmeel, Ram, Chalubai.",
       "zh": "希斯 所生的儿子是耶拉篾、兰、基路拜。",
-      "ja": "ヘヅロンに生れたる子等はヱラメル、ラム、ケルバイ"
+      "ja": "ヘヅロンに生れた子らはエラメル、ラム、ケルバイである。"
     },
     {
       "number": 10,
@@ -80,7 +80,7 @@
       "en": "Ram was the father of Amminadab, and Amminadab the father of Nahshon, the leader of the people of Judah.",
       "de": "Ram aber zeugte Amminadab. Amminadab zeugte Nahesson, den Fürsten der Kinder Juda.",
       "zh": "兰生亚米拿达；亚米拿达生拿顺。拿顺作犹大人的首领。",
-      "ja": "ラム、アミナダブを生みアミナダブ、ナシヨンを生りナシヨンはユダの子孫の牧伯なり"
+      "ja": "ラムはアミナダブを生み、アミナダブはユダの子孫のつかさナションを生んだ。"
     },
     {
       "number": 11,
@@ -88,7 +88,7 @@
       "en": "Nahshon was the father of Salmon, Salmon the father of Boaz,",
       "de": "Nahesson zeugte Salma. Salma zeugte Boas.",
       "zh": "拿顺生撒门；撒门生波阿斯；",
-      "ja": "ナシヨン、サルマを生みサルマ、ボアズを生み"
+      "ja": "ナションはサルマを生み、サルマはボアズを生み、"
     },
     {
       "number": 12,
@@ -96,7 +96,7 @@
       "en": "Boaz the father of Obed and Obed the father of Jesse.",
       "de": "Boas zeugte Obed. Obed zeugte Isai.",
       "zh": "波阿斯生俄备得；俄备得生耶西；",
-      "ja": "ボアズ、オベデを生み、オベデ、ヱツサイを生り"
+      "ja": "ボアズはオベデを生み、オベデはエッサイを生んだ。"
     },
     {
       "number": 13,
@@ -104,7 +104,7 @@
       "en": "Jesse was the father of Eliab his firstborn; the second son was Abinadab, the third Shimea,",
       "de": "Isai zeugte seinen ersten Sohn Eliab; Abinadab, den zweiten; Simea, den dritten;",
       "zh": "耶西生长子以利押，次子亚比拿达，三子示米亚，",
-      "ja": "ヱツサイの生る者は長子はエリアブ その次はアミナダブ その三はシヤンマ"
+      "ja": "エッサイは長子エリアブ、次にアビナダブ、第三にシメア、"
     },
     {
       "number": 14,
@@ -112,7 +112,7 @@
       "en": "the fourth Nethanel, the fifth Raddai,",
       "de": "Nathanel, den vierten; Raddai, den fünften;",
       "zh": "四子拿坦业，五子拉代，",
-      "ja": "その四はネタンエル その五はラダイ"
+      "ja": "第四にネタンエル、第五にラダイ、"
     },
     {
       "number": 15,
@@ -120,7 +120,7 @@
       "en": "the sixth Ozem and the seventh David.",
       "de": "Ozem, den sechsten; David, den siebenten.",
       "zh": "六子阿鲜，七子大卫。",
-      "ja": "その六はオゼム その七はダビデ"
+      "ja": "第六にオゼム、第七にダビデを生んだ。"
     },
     {
       "number": 16,
@@ -128,7 +128,7 @@
       "en": "Their sisters were Zeruiah and Abigail. Zeruiah's three sons were Abishai, Joab and Asahel.",
       "de": "Und ihre Schwestern waren: Zeruja und Abigail. Die Kinder Zerujas sind Abisai, Joab, Asahael, die drei.",
       "zh": "他们的姊妹是洗鲁雅和亚比该。洗鲁雅的儿子是亚比筛、约押、亚撒黑，共三人。",
-      "ja": "かれらの姉妹はゼルヤとアビガル、ゼルヤの產る子はアビシヤイ、ヨアブ、アサヘルあはせて三人"
+      "ja": "彼らの姉妹はゼルヤとアビガイルである。ゼルヤの産んだ子はアビシャイ、ヨアブ、アサヘルの三人である。"
     },
     {
       "number": 17,
@@ -136,7 +136,7 @@
       "en": "Abigail was the mother of Amasa, whose father was Jether the Ishmaelite.",
       "de": "Abigail aber gebar Amasa. Der Vater aber Amasas war Jether, ein Ismaeliter.",
       "zh": "亚比该生亚玛撒；亚玛撒的父亲是以实玛利人益帖。",
-      "ja": "アビガルはアマサを產り アサの父はイシマエル人ヱテルといふ者なり"
+      "ja": "アビガイルはアマサを産んだ。アマサの父はイシマエルびとエテルである。"
     },
     {
       "number": 18,
@@ -144,7 +144,7 @@
       "en": "Caleb son of Hezron had children by his wife Azubah (and by Jerioth). These were her sons: Jesher, Shobab and Ardon.",
       "de": "Kaleb, der Sohn Hezrons, zeugte mit Asuba, seiner Frau, und mit Jerigoth; und dies sind derselben Kinder: Jeser, Sobab und Ardon.",
       "zh": "希斯 的儿子迦勒娶阿苏巴和耶略为妻，阿苏巴的儿子是耶设、朔罢、押墩。",
-      "ja": "ヘヅロンの子カレブはその妻アズバによりまたヱリオテによりて子を擧けたりその產る子等は左のごとし ヱシル、シヨバブおよびアルドン"
+      "ja": "ヘヅロンの子カレブはその妻アズバおよびエリオテによって子をもうけた。その子らはエシル、ショバブ、アルドンである。"
     },
     {
       "number": 19,
@@ -152,7 +152,7 @@
       "en": "When Azubah died, Caleb married Ephrath, who bore him Hur.",
       "de": "Da aber Asuba starb, nahm Kaleb Ephrath; die gebar ihm Hur.",
       "zh": "阿苏巴死了，迦勒又娶以法她，生了户珥。",
-      "ja": "アズバ死たればカレブまたエフラタを娶れり エフラタ、カレブによりてホルを產り"
+      "ja": "カレブはアズバが死んだのでエフラタをめとった。エフラタはカレブによってホルを産んだ。"
     },
     {
       "number": 20,
@@ -160,7 +160,7 @@
       "en": "Hur was the father of Uri, and Uri the father of Bezalel.",
       "de": "Hur zeugte Uri. Uri zeugte Bezaleel.",
       "zh": "户珥生乌利；乌利生比撒列。",
-      "ja": "ホル、ウリを生み ウリ、ベザレルを生り"
+      "ja": "ホルはウリを生み、ウリはベザレルを生んだ。"
     },
     {
       "number": 21,
@@ -168,7 +168,7 @@
       "en": "Later, Hezron lay with the daughter of Makir the father of Gilead (he had married her when he was sixty years old), and she bore him Segub.",
       "de": "Darnach kam Hezron zu der Tochter Machirs, des Vaters Gileads, und er nahm sie, da er sechzig Jahre alt war; und sie gebar ihm Segub.",
       "zh": "希斯 正六十岁娶了基列父亲玛吉的女儿，与她同房；玛吉的女儿生了西割；",
-      "ja": "その後ヘヅロンはギレアデの父マキルの女の所にいれりその之を娶れる時は六十歳なりき彼ヘヅロンによりてセグブを產り"
+      "ja": "そののちヘヅロンはギレアデの父マキルの娘の所にはいった。彼が彼女をめとったときは六十歳であった。彼女はヘヅロンによってセグブを産んだ。"
     },
     {
       "number": 22,
@@ -176,7 +176,7 @@
       "en": "Segub was the father of Jair, who controlled twenty-three towns in Gilead.",
       "de": "Segub aber zeugte Jair; der hatte dreiundzwanzig Städte im Lande Gilead.",
       "zh": "西割生睚珥。睚珥在基列地有二十三个城邑。",
-      "ja": "セグブ、ヤイルを生りヤイルはギレアデの地に邑二十三を有り"
+      "ja": "セグブはヤイルを生んだ。ヤイルはギレアデの地に二十三の町をもっていた。"
     },
     {
       "number": 23,
@@ -184,7 +184,7 @@
       "en": "(But Geshur and Aram captured Havvoth Jair, as well as Kenath with its surrounding settlements--sixty towns.) All these were descendants of Makir the father of Gilead.",
       "de": "Aber die Gessuriter und Syrer nahmen ihnen die Flecken Jairs, dazu Kenath mit seinen Ortschaften, sechzig Städte. Diese alle sind Kinder Machirs, des Vaters Gileads.",
       "zh": "后来基述人和亚兰人夺了睚珥的城邑，并基纳和其乡村，共六十个。这都是基列父亲玛吉之子的。",
-      "ja": "然るにゲシユルおよびアラム彼等よりヤイルの邑々およびケナテとその郷里など都合六十の邑を取り是皆ギレアデの父マキルの子等なりき"
+      "ja": "しかしゲシュルとアラムは彼らからハボテ・ヤイルおよびケナテとその村里など合わせて六十の町を取った。これらはみなギレアデの父マキルの子孫であった。"
     },
     {
       "number": 24,
@@ -192,7 +192,7 @@
       "en": "After Hezron died in Caleb Ephrathah, Abijah the wife of Hezron bore him Ashhur the father of Tekoa.",
       "de": "Nach dem Tode Hezrons in Kaleb Ephratha gebar Hezrons Weib Abia ihm Ashur, den Vater Thekoas.",
       "zh": "希斯 在迦勒·以法他死后，他的妻亚比雅给他生了亚施户；亚施户是提哥亚的父亲。",
-      "ja": "ヘヅロン、カレブエフテタに死て後ヘヅロンの妻アビヤその子アシユルを生りアシユルはテコアの父なり"
+      "ja": "ヘヅロンが死んだのち、カレブは父ヘヅロンの妻エフラタの所にはいった。彼女は彼にテコアの父アシュルを産んだ。"
     },
     {
       "number": 25,
@@ -200,7 +200,7 @@
       "en": "The sons of Jerahmeel the firstborn of Hezron: Ram his firstborn, Bunah, Oren, Ozem and Ahijah.",
       "de": "Jerahmeel, der erste Sohn Hezrons, hatte Kinder: den ersten, Ram, Buna, Oren und Ozem und Ahia.",
       "zh": "希斯 的长子耶拉篾生长子兰，又生布拿、阿连、阿鲜、亚希雅。",
-      "ja": "ヘヅロンの長子ヱラメルの子等は長子はラム 次はブナ、オレン、オゼム、アヒヤ"
+      "ja": "ヘヅロンの長子エラメルの子らは長子ラム、次はブナ、オレン、オゼム、アヒヤである。"
     },
     {
       "number": 26,
@@ -208,7 +208,7 @@
       "en": "Jerahmeel had another wife, whose name was Atarah; she was the mother of Onam.",
       "de": "Und Jerahmeel hatte noch ein anderes Weib, die hieß Atara; die ist die Mutter Onams.",
       "zh": "耶拉篾又娶一妻名叫亚她拉，是阿南的母亲。",
-      "ja": "ヱラメルはまた他の妻をもてりその名をアタラといふ彼はオナムの母なり"
+      "ja": "エラメルはまたほかの妻をもっていた。名をアタラといって、オナムの母である。"
     },
     {
       "number": 27,
@@ -216,7 +216,7 @@
       "en": "The sons of Ram the firstborn of Jerahmeel: Maaz, Jamin and Eker.",
       "de": "Die Kinder aber Rams, des ersten Sohnes Jerahmeels, sind: Maaz, Jamin und Eker.",
       "zh": "耶拉篾长子兰的儿子是玛斯、雅悯、以结。",
-      "ja": "ヱラメルの長子ラムの子等はマアツ、ヤミン、エケル"
+      "ja": "エラメルの長子ラムの子らはマアツ、ヤミン、エケルである。"
     },
     {
       "number": 28,
@@ -224,7 +224,7 @@
       "en": "The sons of Onam: Shammai and Jada. The sons of Shammai: Nadab and Abishur.",
       "de": "Aber Onam hatte Kinder: Sammai und Jada. Die Kinder aber Sammais sind: Nadab und Abisur.",
       "zh": "阿南的儿子是沙买、雅大。沙买的儿子是拿答、亚比述。",
-      "ja": "オナムの子等はシヤンマイ、ヤダ、シヤンマイの子等はナダブおよびアビシユル"
+      "ja": "オナムの子らはシャンマイとヤダである。シャンマイの子らはナダブとアビシュルである。"
     },
     {
       "number": 29,
@@ -232,7 +232,7 @@
       "en": "Abishur's wife was named Abihail, who bore him Ahban and Molid.",
       "de": "Das Weib aber Abisurs hieß Abihail, die gebar Achban und Molid.",
       "zh": "亚比述的妻名叫亚比孩，亚比孩给他生了亚办和摩利。",
-      "ja": "アビシユルの妻の名はアビハイルといふ彼アバンおよびモリデを生り"
+      "ja": "アビシュルの妻の名はアビハイルといって、アバンとモリデを産んだ。"
     },
     {
       "number": 30,
@@ -240,7 +240,7 @@
       "en": "The sons of Nadab: Seled and Appaim. Seled died without children.",
       "de": "Die Kinder aber Nadabs sind: Seled und Appaim; und Seled starb ohne Kinder.",
       "zh": "拿答的儿子是西列、亚遍；西列死了没有儿子。",
-      "ja": "ナダブの子等はセレデおよびアツパイム、セレデは子なくして死り"
+      "ja": "ナダブの子らはセレデとアッパイムである。セレデは子をもたずに死んだ。"
     },
     {
       "number": 31,
@@ -248,7 +248,7 @@
       "en": "The son of Appaim: Ishi, who was the father of Sheshan. Sheshan was the father of Ahlai.",
       "de": "Die Kinder Appaims sind: Jesai. Die Kinder Jesais sind: Sesan. Die Kinder Sesans sind: Ahelai.",
       "zh": "亚遍的儿子是以示；以示的儿子是示珊；示珊的儿子是亚来。",
-      "ja": "アツパイムの子はイシ、イシの子はセシヤン、セシヤンの子はアヘライ"
+      "ja": "アッパイムの子はイシ、イシの子はセシャン、セシャンの子はアヘライである。"
     },
     {
       "number": 32,
@@ -256,7 +256,7 @@
       "en": "The sons of Jada, Shammai's brother: Jether and Jonathan. Jether died without children.",
       "de": "Die Kinder aber Jadas, des Bruders Sammais, sind: Jether und Jonathan; Jether aber starb ohne Kinder.",
       "zh": "沙买兄弟雅大的儿子是益帖、约拿单；益帖死了没有儿子。",
-      "ja": "シヤンマイの兄弟ヤダの子はヱテルおよびヨナタン、ヱテルは子なくして死り"
+      "ja": "シャンマイの兄弟ヤダの子らはエテルとヨナタンである。エテルは子をもたずに死んだ。"
     },
     {
       "number": 33,
@@ -264,7 +264,7 @@
       "en": "The sons of Jonathan: Peleth and Zaza. These were the descendants of Jerahmeel.",
       "de": "Die Kinder aber Jonathans sind: Peleth und Sasa. Das sind die Kinder Jerahmeels.",
       "zh": "约拿单的儿子是比勒、撒萨。这都是耶拉篾的子孙。",
-      "ja": "ヨナタンの子等はペレテおよびザザ、ヱラメルの子孫は斯のごとし"
+      "ja": "ヨナタンの子らはペレテとザザである。以上はエラメルの子孫である。"
     },
     {
       "number": 34,
@@ -272,7 +272,7 @@
       "en": "Sheshan had no sons--only daughters. He had an Egyptian servant named Jarha.",
       "de": "Sesan aber hatte nicht Söhne, sondern Töchter. Und Sesan hatte einen ägyptischen Knecht, der hieß Jarha.",
       "zh": "示珊没有儿子，只有女儿。示珊有一个仆人名叫耶哈，是埃及人。",
-      "ja": "セシヤンは男子なくして惟女子ありしのみなるがセシヤンにヤルハと名くるエジプトの僕ありければ"
+      "ja": "セシャンには男の子はなく、ただ女の子のみであったが、彼はヤルハと呼ぶエジプトびとの奴隷をもっていたので、"
     },
     {
       "number": 35,
@@ -280,7 +280,7 @@
       "en": "Sheshan gave his daughter in marriage to his servant Jarha, and she bore him Attai.",
       "de": "Und Sesan gab Jarha, seinem Knecht seine Tochter zum Weibe; die gebar ihm Atthai.",
       "zh": "示珊将女儿给了仆人耶哈为妻，给他生了亚太。",
-      "ja": "セシヤンその女をこの僕ヤルハに與へて妻となさしめたり彼ヤルハによりてアツタイを生り"
+      "ja": "セシャンは娘を奴隷ヤルハに与えてその妻とさせた。彼女はヤルハによってアッタイを産んだ。"
     },
     {
       "number": 36,
@@ -288,7 +288,7 @@
       "en": "Attai was the father of Nathan, Nathan the father of Zabad,",
       "de": "Atthai zeugte Nathan. Nathan zeugte Sabad.",
       "zh": "亚太生拿单；拿单生撒拔；",
-      "ja": "アツタイ、ナタンを生みナタン、ザバデを生み"
+      "ja": "アッタイはナタンを生み、ナタンはザバデを生み、"
     },
     {
       "number": 37,
@@ -296,7 +296,7 @@
       "en": "Zabad the father of Ephlal, Ephlal the father of Obed,",
       "de": "Sabad zeugte Ephlal. Ephlal zeugte Obed.",
       "zh": "撒拔生以弗拉；以弗拉生俄备得；",
-      "ja": "ザバデ、エフラルを生み エフラル、オベデを生み"
+      "ja": "ザバデはエフラルを生み、エフラルはオベデを生み、"
     },
     {
       "number": 38,
@@ -304,7 +304,7 @@
       "en": "Obed the father of Jehu, Jehu the father of Azariah,",
       "de": "Obed zeugte Jehu. Jehu zeugte Asarja.",
       "zh": "俄备得生耶户；耶户生亚撒利雅；",
-      "ja": "オベデ、ヱヒウを生み ヱヒウ、アザリヤを生み"
+      "ja": "オベデはエヒウを生み、エヒウはアザリヤを生み、"
     },
     {
       "number": 39,
@@ -312,7 +312,7 @@
       "en": "Azariah the father of Helez, Helez the father of Eleasah,",
       "de": "Asarja zeugte Helez. Helez zeugte Eleasa.",
       "zh": "亚撒利雅生希利斯；希利斯生以利亚萨；",
-      "ja": "アザリヤ、ヘレヅを生み ヘレヅ、ヱレアサを生み"
+      "ja": "アザリヤはヘレヅを生み、ヘレヅはエレアサを生み、"
     },
     {
       "number": 40,
@@ -320,7 +320,7 @@
       "en": "Eleasah the father of Sismai, Sismai the father of Shallum,",
       "de": "Eleasa zeugte Sisemai. Sisemai zeugte Sallum.",
       "zh": "以利亚萨生西斯买；西斯买生沙龙；",
-      "ja": "ヱレアサ、シスマイを生み シスマイ、シヤルムを生み"
+      "ja": "エレアサはシスマイを生み、シスマイはシャルムを生み、"
     },
     {
       "number": 41,
@@ -328,7 +328,7 @@
       "en": "Shallum the father of Jekamiah, and Jekamiah the father of Elishama.",
       "de": "Sallum zeugte Jekamja. Jekamja zeugte Elisama.",
       "zh": "沙龙生耶加米雅；耶加米雅生以利沙玛。",
-      "ja": "シヤルム、ヱカミヤを生み ヱカミヤ、エリシヤマを生り"
+      "ja": "シャルムはエカミヤを生み、エカミヤはエリシャマを生んだ。"
     },
     {
       "number": 42,
@@ -336,7 +336,7 @@
       "en": "The sons of Caleb the brother of Jerahmeel: Mesha his firstborn, who was the father of Ziph, and his son Mareshah, who was the father of Hebron.",
       "de": "Die Kinder Kalebs, des Bruder Jerahmeels, sind: Mesa, sein erster Sohn, der ist der Vater Siphs, und die Kinder Maresas, des Vaters Hebrons.",
       "zh": "耶拉篾兄弟迦勒的长子米沙，是西弗之祖玛利沙的儿子，是希伯 之祖。",
-      "ja": "ヱラメルの兄弟カレブの子等はその長子をメシヤといふ是はジフの父なり ジフの子はマレシヤ、マレシヤはヘブロンの父なり"
+      "ja": "エラメルの兄弟であるカレブの子らは長子をマレシャといってジフの父である。マレシャの子はヘブロン。"
     },
     {
       "number": 43,
@@ -344,7 +344,7 @@
       "en": "The sons of Hebron: Korah, Tappuah, Rekem and Shema.",
       "de": "Die Kinder aber Hebrons sind: Korah, Tappuah, Rekem und Sama.",
       "zh": "希伯 的儿子是可拉、他普亚、利肯、示玛。",
-      "ja": "ヘブロンの子等はコラ、タツプア、レケム、シマ"
+      "ja": "ヘブロンの子らはコラ、タップア、レケム、シマである。"
     },
     {
       "number": 44,
@@ -352,7 +352,7 @@
       "en": "Shema was the father of Raham, and Raham the father of Jorkeam. Rekem was the father of Shammai.",
       "de": "Sama aber zeugte Raham, den Vater Jorkeams. Rekem zeugte Sammai.",
       "zh": "示玛生拉含，是约干之祖。利肯生沙买。",
-      "ja": "シマはラハムを生り ラハムはヨルカムの父なり レケムはシヤンマイを生り"
+      "ja": "シマはラハムを生んだ。ラハムはヨルカムの父である。またレケムはシャンマイを生んだ。"
     },
     {
       "number": 45,
@@ -360,7 +360,7 @@
       "en": "The son of Shammai was Maon, and Maon was the father of Beth Zur.",
       "de": "Der Sohn aber Sammais hieß Maon, und Maon war der Vater Beth-Zurs.",
       "zh": "沙买的儿子是玛云；玛云是伯·夙之祖。",
-      "ja": "シヤンマイの子はマオン、マオンはベテスルの父なり"
+      "ja": "シャンマイの子はマオン。マオンはベテヅルの父である。"
     },
     {
       "number": 46,
@@ -368,7 +368,7 @@
       "en": "Caleb's concubine Ephah was the mother of Haran, Moza and Gazez. Haran was the father of Gazez.",
       "de": "Epha aber, das Kebsweib Kalebs, gebar Haran, Moza und Gases. Haran aber zeugte Gases.",
       "zh": "迦勒的妾以法生哈兰、摩撒、迦谢；哈兰生迦卸。（",
-      "ja": "カレブの妾エパでハラン、モザおよびガゼズを產り ハランはガゼズを生り"
+      "ja": "カレブのそばめエパはハラン、モザ、ガゼズを産んだ。ハランはガゼズを生んだ。"
     },
     {
       "number": 47,
@@ -376,7 +376,7 @@
       "en": "The sons of Jahdai: Regem, Jotham, Geshan, Pelet, Ephah and Shaaph.",
       "de": "Die Kinder aber Jahdais sind: Regem, Jotham, Gesan, Pelet, Epha und Saaph.",
       "zh": "雅代的儿子是利健、约坦、基珊、毗力、以法、沙亚弗。）",
-      "ja": "ヱダイの子等はレゲム、ヨタム、ゲシヤン、ペレテ、エバ、シヤフ"
+      "ja": "エダイの子らはレゲム、ヨタム、ゲシャン、ペレテ、エパ、シャフである。"
     },
     {
       "number": 48,
@@ -384,7 +384,7 @@
       "en": "Caleb's concubine Maacah was the mother of Sheber and Tirhanah.",
       "de": "Aber Maacha, das Kebsweib Kalebs, gebar Seber und Thirhena",
       "zh": "迦勒的妾玛迦生示别、特哈拿，",
-      "ja": "カレブの妾マアカはシベルおよびテルハナを生み"
+      "ja": "カレブのそばめマアカはシベルとテルハナを産み、"
     },
     {
       "number": 49,
@@ -392,7 +392,7 @@
       "en": "She also gave birth to Shaaph the father of Madmannah and to Sheva the father of Macbenah and Gibea. Caleb's daughter was Acsah.",
       "de": "und gebar auch Saaph, den Vater Madmannas, und Sewa, den Vater Machbenas und den Vater Gibeas. Aber Achsa war Kalebs Tochter.",
       "zh": "又生麦玛拿之祖沙亚弗、抹比拿和基比亚之祖示法。迦勒的女儿是押撒。",
-      "ja": "またマデマンナの父シヤフおよびマクベナとギベアの父シワを生り カレブの女子はアクサといふ"
+      "ja": "またマデマンナの父シャフおよびマクベナとギベアの父シワを産んだ。カレブの娘はアクサである。"
     },
     {
       "number": 50,
@@ -400,7 +400,7 @@
       "en": "These were the descendants of Caleb. The sons of Hur the firstborn of Ephrathah: Shobal the father of Kiriath Jearim,",
       "de": "Dies waren die Kinder Kalebs: die Söhne Hurs, des ersten Sohn's von der Ephratha: Sobal, der Vater Kirjath-Jearims;",
       "zh": "迦勒的子孙就是以法她的长子、户珥的儿子，记在下面：基列·耶琳之祖朔巴，",
-      "ja": "カレブの子孫は左のごとしエフラタの長子ホルの子はキリアテヤリムの父シヨバル"
+      "ja": "これらはカレブの子孫であった。エフラタの長子ホルの子らはキリアテ・ヤリムの父ショバル、"
     },
     {
       "number": 51,
@@ -408,7 +408,7 @@
       "en": "Salma the father of Bethlehem, and Hareph the father of Beth Gader.",
       "de": "Salma, der Vater Bethlehems; Hareph, der Vater Bethgaders.",
       "zh": "伯利恒之祖萨玛，伯迦得之祖哈勒。",
-      "ja": "ベテレヘムの父サルマおよびベテカデルの父ハレフ"
+      "ja": "ベツレヘムの父サルマおよびベテガデルの父ハレフである。"
     },
     {
       "number": 52,
@@ -416,7 +416,7 @@
       "en": "The descendants of Shobal the father of Kiriath Jearim were: Haroeh, half the Manahathites,",
       "de": "Und Sobal, der Vater Kirjath-Jearims, hatte Söhne: Haroe und die Hälfte der Manahthiter.",
       "zh": "基列·耶琳之祖朔巴的子孙是哈罗以和一半米努·哈人。",
-      "ja": "キリアタヤリムの父シヨバルの子等はハロエにメヌコテ人の半"
+      "ja": "キリアテ・ヤリムの父ショバル子らはハロエとメヌコテびとの半ばである。"
     },
     {
       "number": 53,
@@ -424,7 +424,7 @@
       "en": "and the clans of Kiriath Jearim: the Ithrites, Puthites, Shumathites and Mishraites. From these descended the Zorathites and Eshtaolites.",
       "de": "Die Freundschaften aber zu Kirjath-Jearim waren die Jethriter, Puthiter, Sumathiter und Misraiter. Von diesen sind ausgegangen die Zorathiter und Esthaoliter.",
       "zh": "基列·耶琳的诸族是以帖人、布特人、舒玛人、密来人，又从这些族中生出琐拉人和以实陶人来。",
-      "ja": "またキリアテヤリムの宗族はイテリ族プヒ族シユマ族ミシラ族 是等よりザレア族およびエシタオル族出たり"
+      "ja": "キリアテ・ヤリムの氏族はイテルびと、プテびと、シュマびと、ミシラびとであって、これらからザレアびとおよびエシタオルびとが出た。"
     },
     {
       "number": 54,
@@ -432,7 +432,7 @@
       "en": "The descendants of Salma: Bethlehem, the Netophathites, Atroth Beth Joab, half the Manahathites, the Zorites,",
       "de": "Die Kinder Salmas sind Bethlehem und die Netophathiter, Atharoth des Hauses Joabs und die Hälfte der Manahthiter, das sind die Zoraiter.",
       "zh": "萨玛的子孙是伯利恒人、尼陀法人、亚他绿·伯·约押人、一半玛拿哈人、琐利人，",
-      "ja": "サルマの子孫はベテレヘム、ネトバ族アタロテベテヨアブ、マナハテ族の半およびゾリ族"
+      "ja": "サルマの子らはベツレヘム、ネトパびと、アタロテ・ベテ・ヨアブ、マナハテびとの半ばおよびゾリびとである。"
     },
     {
       "number": 55,
@@ -440,7 +440,7 @@
       "en": "and the clans of scribes who lived at Jabez: the Tirathites, Shimeathites and Sucathites. These are the Kenites who came from Hammath, the father of the house of Recab.",
       "de": "Und die Freundschaften der Schreiber, die zu Jabez wohnten, sind die Thireathiter, Simeathiter, Suchathiter. Das sind die Kiniter, die da gekommen sind von Hammath, dem Vater des Hauses Rechabs.",
       "zh": "和住雅比斯众文士家的特拉人、示米押人、苏甲人。这都是基尼人利甲家之祖哈末所生的。",
-      "ja": "ならびにヤベヅに住る諸士の宗族すなはちテラテ族シメアテ族スカテ族是等はケニ人にしてレカブの家の先祖ハマテより出たる者なり"
+      "ja": "またヤベヅに住んでいた書記の氏族テラテびと、シメアテびと、スカテびとである。これらはケニびとであってレカブの家の先祖ハマテから出た者である。"
     }
   ]
 }

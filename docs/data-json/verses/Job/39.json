@@ -8,7 +8,7 @@
       "en": "\"Do you know when the mountain goats give birth? Do you watch when the doe bears her fawn?",
       "de": "Weißt du die Zeit, wann die Gemsen auf den Felsen gebären? oder hast du gemerkt, wann die Hinden schwanger gehen?",
       "zh": "山岩间的野山羊几时生产，你知道吗？ 母鹿下犊之期，你能察定吗？",
-      "ja": "なんぢ岩間の山羊が子を產む時をしるや また麀鹿の產に臨むを見しや"
+      "ja": "あなたは岩間のやぎが子を産むときを知っているか。あなたは雌じかが子を産むのを見たことがあるか。"
     },
     {
       "number": 2,
@@ -16,7 +16,7 @@
       "en": "Do you count the months till they bear? Do you know the time they give birth?",
       "de": "Hast du gezählt ihre Monden, wann sie voll werden? oder weißt du die Zeit, wann sie gebären?",
       "zh": "它们怀胎的月数，你能数算吗？ 它们几时生产，你能晓得吗？",
-      "ja": "なんぢ是等の在胎の月を數へうるや また是等が產む時を知るや"
+      "ja": "これらの妊娠の月を数えることができるか。これらが産む時を知っているか。"
     },
     {
       "number": 3,
@@ -24,7 +24,7 @@
       "en": "They crouch down and bring forth their young; their labor pains are ended.",
       "de": "Sie beugen sich, lassen los ihre Jungen und werden los ihre Wehen.",
       "zh": "它们屈身，将子生下， 就除掉疼痛。",
-      "ja": "これらは身を鞠めて子を產みその痛苦を出す"
+      "ja": "これらは身をかがめて子を産み、そのはらみ子を産みいだす。"
     },
     {
       "number": 4,
@@ -32,7 +32,7 @@
       "en": "Their young thrive and grow strong in the wilds; they leave and do not return.",
       "de": "Ihre Jungen werden feist und groß im Freien und gehen aus und kommen nicht wieder zu ihnen.",
       "zh": "这子渐渐肥壮，在荒野长大， 去而不回。",
-      "ja": "またその子は強くなりて野に育ち 出ゆきて再たびその親にかへらず"
+      "ja": "その子は強くなって、野に育ち、出て行って、その親のもとに帰らない。"
     },
     {
       "number": 5,
@@ -40,7 +40,7 @@
       "en": "\"Who let the wild donkey go free? Who untied his ropes?",
       "de": "Wer hat den Wildesel so frei lassen gehen, wer hat die Bande des Flüchtigen gelöst,",
       "zh": "谁放野驴出去自由？ 谁解开快驴的绳索？",
-      "ja": "誰が野驢馬を放ちて自由にせしや 誰が野驢馬の繋繩を解しや"
+      "ja": "だれが野ろばを放って、自由にしたか。だれが野ろばのつなぎを解いたか。"
     },
     {
       "number": 6,
@@ -48,7 +48,7 @@
       "en": "I gave him the wasteland as his home, the salt flats as his habitat.",
       "de": "dem ich die Einöde zum Hause gegeben habe und die Wüste zur Wohnung?",
       "zh": "我使旷野作它的住处， 使咸地当它的居所。",
-      "ja": "われ野をその家となし 荒野をその住所となせり"
+      "ja": "わたしは荒野をその家として与え、荒れ地をそのすみかとして与えた。"
     },
     {
       "number": 7,
@@ -56,7 +56,7 @@
       "en": "He laughs at the commotion in the town; he does not hear a driver's shout.",
       "de": "Er verlacht das Getümmel der Stadt; das Pochen des Treibers hört er nicht.",
       "zh": "它嗤笑城内的喧嚷， 不听赶牲口的喝声。",
-      "ja": "是は邑の喧閙を賤しめ 馭者の號呼を聽いれず"
+      "ja": "これは町の騒ぎをいやしめ、御者の呼ぶ声を聞きいれず、"
     },
     {
       "number": 8,
@@ -64,7 +64,7 @@
       "en": "He ranges the hills for his pasture and searches for any green thing.",
       "de": "Er schaut nach den Bergen, da seine Weide ist, und sucht, wo es grün ist.",
       "zh": "遍山是它的草场； 它寻找各样青绿之物。",
-      "ja": "山を走まはりて草を食ひ 各種の靑き物を尋ぬ"
+      "ja": "山を牧場としてはせまわり、もろもろの青物を尋ね求める。"
     },
     {
       "number": 9,
@@ -72,7 +72,7 @@
       "en": "\"Will the wild ox consent to serve you? Will he stay by your manger at night?",
       "de": "Meinst du das Einhorn werde dir dienen und werde bleiben an deiner Krippe?",
       "zh": "野牛岂肯服事你？ 岂肯住在你的槽旁？",
-      "ja": "兕肯て汝に事へ なんぢの飼草槽の傍にとどまらんや"
+      "ja": "野牛は快くあなたに仕え、あなたの飼葉おけのかたわらにとどまるだろうか。"
     },
     {
       "number": 10,
@@ -80,7 +80,7 @@
       "en": "Can you hold him to the furrow with a harness? Will he till the valleys behind you?",
       "de": "Kannst du ihm dein Seil anknüpfen, die Furchen zu machen, daß es hinter dir brache in Tälern?",
       "zh": "你岂能用套绳将野牛笼在犁沟之间？ 它岂肯随你耙山谷之地？",
-      "ja": "なんぢ兕に綱附て阡陌をあるかせ得んや 是あに汝にしたがひて谷に馬鈀を牽んや"
+      "ja": "あなたは野牛に手綱をつけてうねを歩かせることができるか、これはあなたに従って谷を耕すであろうか。"
     },
     {
       "number": 11,
@@ -88,7 +88,7 @@
       "en": "Will you rely on him for his great strength? Will you leave your heavy work to him?",
       "de": "Magst du dich auf das Tier verlassen, daß es so stark ist, und wirst es dir lassen arbeiten?",
       "zh": "岂可因它的力大就倚靠它？ 岂可把你的工交给它做吗？",
-      "ja": "その力おほいなればとて汝これに恃まんや またなんぢの工事をこれに任せんや"
+      "ja": "その力が強いからとて、あなたはこれに頼むであろうか。またあなたの仕事をこれに任せるであろうか。"
     },
     {
       "number": 12,
@@ -96,7 +96,7 @@
       "en": "Can you trust him to bring in your grain and gather it to your threshing floor?",
       "de": "Magst du ihm trauen, daß es deinen Samen dir wiederbringe und in deine Scheune sammle?",
       "zh": "岂可信靠它把你的粮食运到家， 又收聚你禾场上的谷吗？",
-      "ja": "なんぢこれにたよりて己が穀物を運びかへらせ之を打禾塲にあつめしめんや"
+      "ja": "あなたはこれにたよって、あなたの穀物を打ち場に運び帰らせるであろうか。"
     },
     {
       "number": 13,
@@ -104,7 +104,7 @@
       "en": "\"The wings of the ostrich flap joyfully, but they cannot compare with the pinions and feathers of the stork.",
       "de": "Der Fittich des Straußes hebt sich fröhlich. Dem frommen Storch gleicht er an Flügeln und Federn.",
       "zh": "鸵鸟的翅膀欢然搧展， 岂是显慈爱的翎毛和羽毛吗？",
-      "ja": "駝鳥は歡然にその翼を皷ふ 然どもその羽と毛とはあに鶴にしかんや"
+      "ja": "だちょうは威勢よくその翼をふるう。しかしこれにはきれいな羽と羽毛があるか。"
     },
     {
       "number": 14,
@@ -112,7 +112,7 @@
       "en": "She lays her eggs on the ground and lets them warm in the sand,",
       "de": "Doch läßt er seine Eier auf der Erde und läßt sie die heiße Erde ausbrüten.",
       "zh": "因它把蛋留在地上， 在尘土中使得温暖；",
-      "ja": "是はその卵を土の中に棄おき これを砂の中にて暖たまらしめ"
+      "ja": "これはその卵を土の中に捨て置き、これを砂のなかで暖め、"
     },
     {
       "number": 15,
@@ -120,7 +120,7 @@
       "en": "unmindful that a foot may crush them, that some wild animal may trample them.",
       "de": "Er vergißt, daß sie möchten zertreten werden und ein wildes Tier sie zerbreche.",
       "zh": "却想不到被脚踹碎， 或被野兽践踏。",
-      "ja": "足にてその潰さるべきと 野の獸のこれを踐むべきとを思はず"
+      "ja": "足でつぶされることも、野の獣に踏まれることも忘れている。"
     },
     {
       "number": 16,
@@ -128,7 +128,7 @@
       "en": "She treats her young harshly, as if they were not hers; she cares not that her labor was in vain,",
       "de": "Er wird so hart gegen seine Jungen, als wären sie nicht sein, achtet's nicht, daß er umsonst arbeitet.",
       "zh": "它忍心待雏，似乎不是自己的； 虽然徒受劳苦，也不为雏惧怕；",
-      "ja": "これはその子に情なくして宛然おのれの子ならざるが如くし その劬勞の空しくなるも繋念ところ無し"
+      "ja": "これはその子に無情であって、あたかも自分の子でないようにし、その苦労のむなしくなるをも恐れない。"
     },
     {
       "number": 17,
@@ -136,7 +136,7 @@
       "en": "for God did not endow her with wisdom or give her a share of good sense.",
       "de": "Denn Gott hat ihm die Weisheit genommen und hat ihm keinen Verstand zugeteilt.",
       "zh": "因为　神使它没有智慧， 也未将悟性赐给它。",
-      "ja": "是は神これに智慧を授けず穎悟を與へざるが故なり"
+      "ja": "これは神がこれに知恵を授けず、悟りを与えなかったゆえである。"
     },
     {
       "number": 18,
@@ -144,7 +144,7 @@
       "en": "Yet when she spreads her feathers to run, she laughs at horse and rider.",
       "de": "Zu der Zeit, da er hoch auffährt, verlacht er beide, Roß und Mann.",
       "zh": "它几时挺身展开翅膀， 就嗤笑马和骑马的人。",
-      "ja": "その身をおこして走るにおいては馬をもその騎手をも嘲けるべし"
+      "ja": "これがその身を起して走る時には、馬をも、その乗り手をもあざける。"
     },
     {
       "number": 19,
@@ -152,7 +152,7 @@
       "en": "\"Do you give the horse his strength or clothe his neck with a flowing mane?",
       "de": "Kannst du dem Roß Kräfte geben oder seinen Hals zieren mit seiner Mähne?",
       "zh": "马的大力是你所赐的吗？ 它颈项上挓挲的鬃是你给它披上的吗？",
-      "ja": "なんぢ馬に力を與へしや その頸に勇ましき鬣を粧ひしや"
+      "ja": "あなたは馬にその力を与えることができるか。力をもってその首を装うことができるか。"
     },
     {
       "number": 20,
@@ -160,7 +160,7 @@
       "en": "Do you make him leap like a locust, striking terror with his proud snorting?",
       "de": "Läßt du es aufspringen wie die Heuschrecken? Schrecklich ist sein prächtiges Schnauben.",
       "zh": "是你叫它跳跃像蝗虫吗？ 它喷气之威使人惊惶。",
-      "ja": "なんぢ之を蝗蟲のごとく飛しむるや その嘶なく聲の響は畏るべし"
+      "ja": "あなたはこれをいなごのように、とばせることができるか。その鼻あらしの威力は恐ろしい。"
     },
     {
       "number": 21,
@@ -168,7 +168,7 @@
       "en": "He paws fiercely, rejoicing in his strength, and charges into the fray.",
       "de": "Es stampft auf den Boden und ist freudig mit Kraft und zieht aus, den Geharnischten entgegen.",
       "zh": "它在谷中刨地，自喜其力； 它出去迎接佩带兵器的人。",
-      "ja": "谷を踋爬て力に誇り 自ら進みて兵士に向ふ"
+      "ja": "これは谷であがき、その力に誇り、みずから出ていって武器に向かう。"
     },
     {
       "number": 22,
@@ -176,7 +176,7 @@
       "en": "He laughs at fear, afraid of nothing; he does not shy away from the sword.",
       "de": "Es spottet der Furcht und erschrickt nicht und flieht vor dem Schwert nicht,",
       "zh": "它嗤笑可怕的事并不惊惶， 也不因刀剑退回。",
-      "ja": "懼るることを笑ひて驚ろくところ無く 劍にむかふとも退ぞかず"
+      "ja": "これは恐れをあざ笑って、驚くことなく、つるぎをさけて退くことがない。"
     },
     {
       "number": 23,
@@ -184,7 +184,7 @@
       "en": "The quiver rattles against his side, along with the flashing spear and lance.",
       "de": "wenngleich über ihm klingt der Köcher und glänzen beide, Spieß und Lanze.",
       "zh": "箭袋和发亮的枪， 并短枪在它身上铮铮有声。",
-      "ja": "矢筒その上に鳴り 鎗に矛あひきらめく"
+      "ja": "矢筒はその上に鳴り、やりと投げやりと、あいきらめく。"
     },
     {
       "number": 24,
@@ -192,7 +192,7 @@
       "en": "In frenzied excitement he eats up the ground; he cannot stand still when the trumpet sounds.",
       "de": "Es zittert und tobt und scharrt in die Erde und läßt sich nicht halten bei der Drommete Hall.",
       "zh": "它发猛烈的怒气将地吞下； 一听角声就不耐站立。",
-      "ja": "猛りつ狂ひつ地を一呑にし 喇叭の聲鳴わたるも立どまる事なし"
+      "ja": "これはたけりつ、狂いつ、地をひとのみにし、ラッパの音が鳴り渡っても、立ちどまることがない。"
     },
     {
       "number": 25,
@@ -200,7 +200,7 @@
       "en": "At the blast of the trumpet he snorts, 'Aha!' He catches the scent of battle from afar, the shout of commanders and the battle cry.",
       "de": "So oft die Drommete klingt, spricht es: Hui! und wittert den Streit von ferne, das Schreien der Fürsten und Jauchzen.",
       "zh": "角每发声，它说呵哈； 它从远处闻着战气， 又听见军长大发雷声和兵丁呐喊。",
-      "ja": "喇叭の鳴ごとにハーハーと言ひ遠方より戰鬪を嗅つけ 將帥の大聲および吶喊聲を聞しる"
+      "ja": "これはラッパの鳴るごとにハアハアと言い、遠くから戦いをかぎつけ、隊長の大声およびときの声を聞き知る。"
     },
     {
       "number": 26,
@@ -208,7 +208,7 @@
       "en": "\"Does the hawk take flight by your wisdom and spread his wings toward the south?",
       "de": "Fliegt der Habicht durch deinen Verstand und breitet seine Flügel gegen Mittag?",
       "zh": "鹰雀飞翔，展开翅膀一直向南， 岂是借你的智慧吗？",
-      "ja": "鷹の飛かけり その羽翼を舒て南に向ふは豈なんぢの智慧によるならんや"
+      "ja": "たかが舞いあがり、その翼をのべて南に向かうのは、あなたの知恵によるのか、"
     },
     {
       "number": 27,
@@ -216,7 +216,7 @@
       "en": "Does the eagle soar at your command and build his nest on high?",
       "de": "Fliegt der Adler auf deinen Befehl so hoch, daß er sein Nest in der Höhe macht?",
       "zh": "大鹰上腾在高处搭窝， 岂是听你的吩咐吗？",
-      "ja": "鷲の翔のぼり 高き處に巣を營なむは豈なんぢの命令に依んや"
+      "ja": "わしがかけのぼり、その巣を高い所につくるのは、あなたの命令によるのか。"
     },
     {
       "number": 28,
@@ -224,7 +224,7 @@
       "en": "He dwells on a cliff and stays there at night; a rocky crag is his stronghold.",
       "de": "In den Felsen wohnt er und bleibt auf den Zacken der Felsen und auf Berghöhen.",
       "zh": "它住在山岩， 以山峰和坚固之所为家，",
-      "ja": "これは岩の上に住所を構へ 岩の尖所または峻險き所に居り"
+      "ja": "これは岩の上にすみかを構え、岩のとがり、または険しい所におり、"
     },
     {
       "number": 29,
@@ -232,7 +232,7 @@
       "en": "From there he seeks out his food; his eyes detect it from afar.",
       "de": "Von dort schaut er nach der Speise, und seine Augen sehen ferne.",
       "zh": "从那里窥看食物， 眼睛远远观望。",
-      "ja": "其處よりして攫むべき物をうかがふ その目のおよぶところ遠し"
+      "ja": "そこから獲物をうかがう。その目の及ぶところは遠い。"
     },
     {
       "number": 30,
@@ -240,7 +240,7 @@
       "en": "His young ones feast on blood, and where the slain are, there is he.\"",
       "de": "Seine Jungen saufen Blut, und wo Erschlagene liegen, da ist er.",
       "zh": "它的雏也咂血； 被杀的人在哪里，它也在那里。",
-      "ja": "その子等もまた血を吸ふ 凡そ殺されし者のあるところには是そこに在り"
+      "ja": "そのひなもまた血を吸う。おおよそ殺された者のある所には、これもそこにいる」。"
     }
   ]
 }

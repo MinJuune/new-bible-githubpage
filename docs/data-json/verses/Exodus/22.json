@@ -8,7 +8,7 @@
       "en": "\"If a man steals an ox or a sheep and slaughters it or sells it, he must pay back five head of cattle for the ox and four sheep for the sheep.",
       "de": "21:37 Wenn jemand einen Ochsen oder ein Schaf stiehlt und schlachtet's oder verkauft's, der soll fünf Ochsen für einen Ochsen wiedergeben und vier Schafe für ein Schaf.",
       "zh": "「人若偷牛或羊，无论是宰了，是卖了，他就要以五牛赔一牛，四羊赔一羊。",
-      "ja": "人もし牛あるひは羊を竊みてこれを殺し又は賣る時は五の牛をもて一の牛を賠ひ四の羊をもて一の羊を賠ふべし"
+      "ja": "もし人が牛または羊を盗んで、これを殺し、あるいはこれを売るならば、彼は一頭の牛のために五頭の牛をもって、一頭の羊のために四頭の羊をもって償わなければならない。"
     },
     {
       "number": 2,
@@ -16,7 +16,7 @@
       "en": "\"If a thief is caught breaking in and is struck so that he dies, the defender is not guilty of bloodshed;",
       "de": "22:1 Wenn ein Dieb ergriffen wird, daß er einbricht, und wird dabei geschlagen, daß er stirbt, so soll man kein Blutgericht über jenen lassen gehen.",
       "zh": "人若遇见贼挖窟窿，把贼打了，以至于死，就不能为他有流血的罪。",
-      "ja": "もし盗賊の壞り入るを見てこれを撃て死しむる時はこれがために血をながすに及ばず"
+      "ja": "もし盗びとが穴をあけてはいるのを見て、これを撃って殺したときは、その人には血を流した罪はない。"
     },
     {
       "number": 3,
@@ -24,7 +24,7 @@
       "en": "but if it happens after sunrise, he is guilty of bloodshed. \"A thief must certainly make restitution, but if he has nothing, he must be sold to pay for his theft.",
       "de": "22:2 Ist aber die Sonne über ihn aufgegangen, so soll man das Blutgericht gehen lassen. Es soll aber ein Dieb wiedererstatten; hat er nichts, so verkaufe man ihn um seinen Diebstahl.",
       "zh": "若太阳已经出来，就为他有流血的罪。贼若被拿，总要赔还。若他一无所有，就要被卖，顶他所偷的物。",
-      "ja": "然ど若日いでてよりならば之がために血をながすべし盗賊は全く償をなすべし若物あらざる時は身をうりてその竊める物を償ふべし"
+      "ja": "彼は必ず償わなければならない。もし彼に何もない時は、彼はその盗んだ物のために身を売られるであろう。 しかし日がのぼって後ならば、その人に血を流した罪がある。"
     },
     {
       "number": 4,
@@ -32,7 +32,7 @@
       "en": "\"If the stolen animal is found alive in his possession--whether ox or donkey or sheep--he must pay back double.",
       "de": "22:3 Findet man aber bei ihm den Diebstahl lebendig, es sei ein Ochse, Esel oder Schaf, so soll er's zwiefältig wiedergeben.",
       "zh": "若他所偷的，或牛，或驴，或羊，仍在他手下存活，他就要加倍赔还。",
-      "ja": "若その竊める物眞に生てその手にあらばその牛驢馬羊たるにかかはらず倍してこれを償ふべし"
+      "ja": "もしその盗んだ物がなお生きて、彼の手もとにあれば、それは牛、ろば、羊のいずれにせよ、これを二倍にして償わなければならない。"
     },
     {
       "number": 5,
@@ -40,7 +40,7 @@
       "en": "\"If a man grazes his livestock in a field or vineyard and lets them stray and they graze in another man's field, he must make restitution from the best of his own field or vineyard.",
       "de": "22:4 Wenn jemand einen Acker oder Weinberg beschädigt, daß er sein Vieh läßt Schaden tun in eines andern Acker, der soll von dem Besten auf seinem Acker und Weinberg wiedererstatten.",
       "zh": "「人若在田间或在葡萄园里放牲畜，任凭牲畜上别人的田里去吃，就必拿自己田间上好的和葡萄园上好的赔还。",
-      "ja": "人もし田圃あるひは葡萄園の物を食はせその家畜をはなちて人の田圃の物を食ふにいたらしむる時は自己の田圃の嘉物と自己の葡萄園の嘉物をもてその償をなすべし"
+      "ja": "もし人が畑またはぶどう畑のものを食わせ、その家畜を放って他人の畑のものを食わせた時は、自分の畑の最も良い物と、ぶどう畑の最も良い物をもって、これを償わなければならない。"
     },
     {
       "number": 6,
@@ -48,7 +48,7 @@
       "en": "\"If a fire breaks out and spreads into thornbushes so that it burns shocks of grain or standing grain or the whole field, the one who started the fire must make restitution.",
       "de": "22:5 Wenn ein Feuer auskommt und ergreift die Dornen und verbrennt die Garben oder Getreide, das noch steht, oder den Acker, so soll der wiedererstatten, der das Feuer angezündet hat.",
       "zh": "「若点火焚烧荆棘，以致将别人堆积的禾捆，站着的禾稼，或是田园，都烧尽了，那点火的必要赔还。",
-      "ja": "火もし逸て荊棘にうつりその積あげたる穀物あるひは未だ刈ざる穀物あるひは田野を燬ばその火を焚たる者かならずこれを償ふべし"
+      "ja": "もし火が出て、いばらに移り、積みあげた麦束、または立穂、または畑を焼いたならば、その火を燃やした者は、必ずこれを償わなければならない。"
     },
     {
       "number": 7,
@@ -56,7 +56,7 @@
       "en": "\"If a man gives his neighbor silver or goods for safekeeping and they are stolen from the neighbor's house, the thief, if he is caught, must pay back double.",
       "de": "22:6 Wenn jemand seinem Nächsten Geld oder Geräte zu bewahren gibt, und es wird demselben aus seinem Hause gestohlen: findet man den Dieb, so soll er's zwiefältig wiedergeben;",
       "zh": "「人若将银钱或家具交付邻舍看守，这物从那人的家被偷去，若把贼找到了，贼要加倍赔还；",
-      "ja": "人もし金あるひは物を人に預るにその人の家より竊みとられたる時はその盗者あらはれなばこれを倍して償はしむべし"
+      "ja": "もし人が金銭または物品の保管を隣人に託し、それが隣人の家から盗まれた時、その盗びとが見つけられたならば、これを二倍にして償わせなければならない。"
     },
     {
       "number": 8,
@@ -64,7 +64,7 @@
       "en": "But if the thief is not found, the owner of the house must appear before the judges to determine whether he has laid his hands on the other man's property.",
       "de": "22:7 findet man aber den Dieb nicht, so soll man den Hauswirt vor die “Götter” bringen, ob er nicht seine Hand habe an seines Nächsten Habe gelegt.",
       "zh": "若找不到贼，那家主必就近审判官，要看看他拿了原主的物件没有。",
-      "ja": "盗者もしあらはれずば家の主人を法官につれゆきて彼がその人の物に手をかけたるや否を見るべし"
+      "ja": "もし盗びとが見つけられなければ、家の主人を神の前に連れてきて、彼が隣人の持ち物に手をかけたかどうかを、確かめなければならない。"
     },
     {
       "number": 9,
@@ -72,7 +72,7 @@
       "en": "In all cases of illegal possession of an ox, a donkey, a sheep, a garment, or any other lost property about which somebody says, 'This is mine,' both parties are to bring their cases before the judges. The one whom the judges declare guilty must pay back double to his neighbor.",
       "de": "22:8 Wo einer den andern beschuldigt um irgend ein Unrecht, es sei um Ochsen oder Esel oder Schaf oder Kleider oder allerlei, das verloren ist, so soll beider Sache vor die “Götter” kommen. Welchen die “Götter” verdammen, der soll's zwiefältig seinem Nächsten wiedergeben.",
       "zh": "「两个人的案件，无论是为什么过犯，或是为牛，为驴，为羊，为衣裳，或是为什么失掉之物，有一人说：『这是我的』，两造就要将案件禀告审判官，审判官定谁有罪，谁就要加倍赔还。",
-      "ja": "何の過愆を論ず牛にもあれ驢馬にもあれ羊にもあれ衣服にもあれ又は何の失物にもあれ凡て人の見て是其なりと言ふ者ある時は法官その兩造の言を聽べし而して法官の罪ありとする者これを倍してその對手に償ふべし"
+      "ja": "牛であれ、ろばであれ、羊であれ、衣服であれ、あるいはどんな失った物であれ、それについて言い争いが起り『これがそれです』と言う者があれば、その双方の言い分を、神の前に持ち出さなければならない。そして神が有罪と定められる者は、それを二倍にしてその相手に償わなければならない。"
     },
     {
       "number": 10,
@@ -80,7 +80,7 @@
       "en": "\"If a man gives a donkey, an ox, a sheep or any other animal to his neighbor for safekeeping and it dies or is injured or is taken away while no one is looking,",
       "de": "22:9 Wenn jemand seinem Nächsten einen Esel oder Ochsen oder ein Schaf oder irgend ein Vieh zu bewahren gibt, und es stirbt ihm oder wird beschädigt oder wird ihm weggetrieben, daß es niemand sieht,",
       "zh": "「人若将驴，或牛，或羊，或别的牲畜，交付邻舍看守，牲畜或死，或受伤，或被赶去，无人看见，",
-      "ja": "人もし驢馬か牛か羊か又はその他の家畜をその隣人にあづけんに死か傷けらるるか又は搶ひさらるることありて誰もこれを見し者なき時は"
+      "ja": "もし人が、ろば、または牛、または羊、またはどんな家畜でも、それを隣人に預けて、それが死ぬか、傷つくか、あるいは奪い去られても、それを見た者がなければ、"
     },
     {
       "number": 11,
@@ -88,7 +88,7 @@
       "en": "the issue between them will be settled by the taking of an oath before the LORD that the neighbor did not lay hands on the other person's property. The owner is to accept this, and no restitution is required.",
       "de": "22:10 so soll man's unter ihnen auf einen Eid bei dem HERRN kommen lassen, ob er nicht habe seine Hand an seines Nächsten Habe gelegt; und des Gutes Herr soll's annehmen, also daß jener nicht bezahlen müsse.",
       "zh": "那看守的人要凭着耶和华起誓，手里未曾拿邻舍的物，本主就要罢休，看守的人不必赔还。",
-      "ja": "二人の間にその隣人の物に手をかけずとヱホバを指て誓ふことあるべし然る時はその持主これを承諾べし彼人は償をなすに及ばず"
+      "ja": "双方の間に、隣人の持ち物に手をかけなかったという誓いが、主の前になされなければならない。そうすれば、持ち主はこれを受け入れ、隣人は償うに及ばない。"
     },
     {
       "number": 12,
@@ -96,7 +96,7 @@
       "en": "But if the animal was stolen from the neighbor, he must make restitution to the owner.",
       "de": "22:11 Stiehlt's ihm aber ein Dieb, so soll er's seinem Herrn bezahlen.",
       "zh": "牲畜若从看守的那里被偷去，他就要赔还本主；",
-      "ja": "然ど若自己の許より竊まれたる時はその所有主にこれを償ふべし"
+      "ja": "けれども、それがまさしく自分の所から盗まれた時は、その持ち主に償わなければならない。"
     },
     {
       "number": 13,
@@ -104,7 +104,7 @@
       "en": "If it was torn to pieces by a wild animal, he shall bring in the remains as evidence and he will not be required to pay for the torn animal.",
       "de": "22:12 Wird es aber zerrissen, soll er Zeugnis davon bringen und nicht bezahlen.",
       "zh": "若被野兽撕碎，看守的要带来当作证据，所撕的不必赔还。",
-      "ja": "若またその裂ころされし時は其を證據のために持きたるべしその裂ころされし者は償ふにおよばず"
+      "ja": "もしそれが裂き殺された時は、それを証拠として持って来るならば、その裂き殺されたものは償うに及ばない。"
     },
     {
       "number": 14,
@@ -112,7 +112,7 @@
       "en": "\"If a man borrows an animal from his neighbor and it is injured or dies while the owner is not present, he must make restitution.",
       "de": "22:13 Wenn's jemand von seinem Nächsten entlehnt, und es wird beschädigt oder stirbt, daß sein Herr nicht dabei ist, so soll er's bezahlen.",
       "zh": "「人若向邻舍借什么，所借的或受伤，或死，本主没有同在一处，借的人总要赔还；",
-      "ja": "人もしその隣人より借たる者あらんにその物傷けられ又は死ることありてその所有主それとともにをらざる時は必ずこれを償ふべし"
+      "ja": "もし人が隣人から家畜を借りて、それが傷つき、または死ぬ場合、その持ち主がそれと共にいない時は、必ずこれを償わなければならない。"
     },
     {
       "number": 15,
@@ -120,7 +120,7 @@
       "en": "But if the owner is with the animal, the borrower will not have to pay. If the animal was hired, the money paid for the hire covers the loss.",
       "de": "22:14 Ist sein Herr aber dabei, soll er's nicht bezahlen, so er's um sein Geld gedingt hat.",
       "zh": "若本主同在一处，他就不必赔还；若是雇的，也不必赔还，本是为雇价来的。」",
-      "ja": "その所有主それと共にをらばこれを償ふにむよばず雇し者なる時もしかり其は雇れて來りしなればなり"
+      "ja": "もしその持ち主がそれと共におれば、それを償うに及ばない。もしそれが賃借りしたものならば、その借賃をそれに当てなければならない。"
     },
     {
       "number": 16,
@@ -128,7 +128,7 @@
       "en": "\"If a man seduces a virgin who is not pledged to be married and sleeps with her, he must pay the bride-price, and she shall be his wife.",
       "de": "22:15 Wenn jemand eine Jungfrau beredet, die noch nicht verlobt ist, und bei ihr schläft, der soll ihr geben ihre Morgengabe und sie zum Weibe haben.",
       "zh": "「人若引诱没有受聘的处女，与她行淫，他总要交出聘礼，娶她为妻。",
-      "ja": "人もし聘定あらざる處女を誘ひてこれと寝たらば必ずこれに聘禮して妻となすべし"
+      "ja": "もし人がまだ婚約しない処女を誘って、これと寝たならば、彼は必ずこれに花嫁料を払って、妻としなければならない。"
     },
     {
       "number": 17,
@@ -136,7 +136,7 @@
       "en": "If her father absolutely refuses to give her to him, he must still pay the bride-price for virgins.",
       "de": "22:16 Weigert sich aber ihr Vater, sie ihm zu geben, soll er Geld darwägen, wieviel einer Jungfrau zur Morgengabe gebührt.",
       "zh": "若女子的父亲决不肯将女子给他，他就要按处女的聘礼，交出钱来。",
-      "ja": "その父もしこれをその人に與ふることを固く拒まば處女にする聘禮にてらして金をはらふべし"
+      "ja": "もしその父がこれをその人に与えることをかたく拒むならば、彼は処女の花嫁料に当るほどの金を払わなければならない。"
     },
     {
       "number": 18,
@@ -144,7 +144,7 @@
       "en": "\"Do not allow a sorceress to live.",
       "de": "22:17 Die Zauberinnen sollst du nicht leben lassen.",
       "zh": "「行邪术的女人，不可容她存活。",
-      "ja": "魔術をつかふ女を生しおくべからず"
+      "ja": "魔法使の女は、これを生かしておいてはならない。"
     },
     {
       "number": 19,
@@ -152,7 +152,7 @@
       "en": "\"Anyone who has sexual relations with an animal must be put to death.",
       "de": "22:18 Wer bei einem Vieh liegt, der soll des Todes sterben.",
       "zh": "「凡与兽淫合的，总要把他治死。",
-      "ja": "凡て畜を犯す者をば必ず殺すべし"
+      "ja": "すべて獣を犯す者は、必ず殺されなければならない。"
     },
     {
       "number": 20,
@@ -160,7 +160,7 @@
       "en": "\"Whoever sacrifices to any god other than the LORD must be destroyed.",
       "de": "22:19 Wer den Göttern opfert und nicht dem HERRN allein, der sei verbannt.",
       "zh": "「祭祀别神，不单单祭祀耶和华的，那人必要灭绝。",
-      "ja": "ヱホバをおきて別の神に犠牲を献る者をば殺すべし"
+      "ja": "主のほか、他の神々に犠牲をささげる者は、断ち滅ぼされなければならない。"
     },
     {
       "number": 21,
@@ -168,7 +168,7 @@
       "en": "\"Do not mistreat an alien or oppress him, for you were aliens in Egypt.",
       "de": "22:20 Die Fremdlinge sollst du nicht schinden noch unterdrücken; denn ihr seid auch Fremdlinge in Ägyptenland gewesen.",
       "zh": "「不可亏负寄居的，也不可欺压他，因为你们在埃及地也作过寄居的。",
-      "ja": "汝他國の人を惱すべからず又これを虐ぐべからず汝らもエジプトの國にをる時は他國の人たりしなり"
+      "ja": "あなたは寄留の他国人を苦しめてはならない。また、これをしえたげてはならない。あなたがたも、かつてエジプトの国で、寄留の他国人であったからである。"
     },
     {
       "number": 22,
@@ -176,7 +176,7 @@
       "en": "\"Do not take advantage of a widow or an orphan.",
       "de": "22:21 Ihr sollt keine Witwen und Waisen bedrängen.",
       "zh": "不可苦待寡妇和孤儿；",
-      "ja": "汝凡て寡婦あるひは孤子を惱すべからず"
+      "ja": "あなたがたはすべて寡婦、または孤児を悩ましてはならない。"
     },
     {
       "number": 23,
@@ -184,7 +184,7 @@
       "en": "If you do and they cry out to me, I will certainly hear their cry.",
       "de": "22:22 Wirst du sie bedrängen, so werden sie zu mir schreien, und ich werde ihr Schreien erhören;",
       "zh": "若是苦待他们一点，他们向我一哀求，我总要听他们的哀声，",
-      "ja": "汝もし彼等を惱まして彼等われに呼らば我かならずその號呼を聽べし"
+      "ja": "もしあなたが彼らを悩まして、彼らがわたしにむかって叫ぶならば、わたしは必ずその叫びを聞くであろう。"
     },
     {
       "number": 24,
@@ -192,7 +192,7 @@
       "en": "My anger will be aroused, and I will kill you with the sword; your wives will become widows and your children fatherless.",
       "de": "22:23 so wird mein Zorn ergrimmen, daß ich euch mit dem Schwert töte und eure Weiber Witwen und eure Kinder Waisen werden.",
       "zh": "并要发烈怒，用刀杀你们，使你们的妻子为寡妇，儿女为孤儿。",
-      "ja": "わが怒烈しくなり我劍をもて汝らを殺さん汝らの妻は寡婦となり汝らの子女は孤子とならん"
+      "ja": "そしてわたしの怒りは燃えたち、つるぎをもってあなたがたを殺すであろう。あなたがたの妻は寡婦となり、あなたがたの子供たちは孤児となるであろう。"
     },
     {
       "number": 25,
@@ -200,7 +200,7 @@
       "en": "\"If you lend money to one of my people among you who is needy, do not be like a moneylender; charge him no interest.",
       "de": "22:24 Wenn du Geld leihst einem aus meinem Volk, der arm ist bei dir, sollst du ihn nicht zu Schaden bringen und keinen Wucher an ihm treiben.",
       "zh": "「我民中有贫穷人与你同住，你若借钱给他，不可如放债的向他取利。",
-      "ja": "汝もし汝とともにあるわが民の貧き者に金を貸す時は金貸のごとくなすべからず又これより利足をとるべからず"
+      "ja": "あなたが、共におるわたしの民の貧しい者に金を貸す時は、これに対して金貸しのようになってはならない。これから利子を取ってはならない。"
     },
     {
       "number": 26,
@@ -208,7 +208,7 @@
       "en": "If you take your neighbor's cloak as a pledge, return it to him by sunset,",
       "de": "22:25 Wenn du von deinem Nächsten ein Kleid zum Pfande nimmst, sollst du es ihm wiedergeben, ehe die Sonne untergeht;",
       "zh": "你即或拿邻舍的衣服作当头，必在日落以先归还他；",
-      "ja": "汝もし人の衣服を質にとらば日のいる時までにこれを歸すべし"
+      "ja": "もし隣人の上着を質に取るならば、日の入るまでにそれを返さなければならない。"
     },
     {
       "number": 27,
@@ -216,7 +216,7 @@
       "en": "because his cloak is the only covering he has for his body. What else will he sleep in? When he cries out to me, I will hear, for I am compassionate.",
       "de": "22:26 denn sein Kleid ist seine einzige Decke seiner Haut, darin er schläft. Wird er aber zu mir schreien, so werde ich ihn erhören; denn ich bin gnädig.",
       "zh": "因他只有这一件当盖头，是他盖身的衣服，若是没有，他拿什么睡觉呢？他哀求我，我就应允，因为我是有恩惠的。",
-      "ja": "其はその身を蔽ふ者は是のみにして是はその膚の衣なればなり彼何の中に寝んや彼われに龥はらば我きかん我は慈悲ある者なればなり"
+      "ja": "これは彼の身をおおう、ただ一つの物、彼の膚のための着物だからである。彼は何を着て寝ることができよう。彼がわたしにむかって叫ぶならば、わたしはこれに聞くであろう。わたしはあわれみ深いからである。"
     },
     {
       "number": 28,
@@ -224,7 +224,7 @@
       "en": "\"Do not blaspheme God or curse the ruler of your people.",
       "de": "22:27 Den “Göttern” sollst du nicht fluchen, und den Obersten in deinem Volk nicht lästern.",
       "zh": "「不可毁谤　神；也不可毁谤你百姓的官长。",
-      "ja": "汝神を罵るべからず民の主長を詛ふべからず"
+      "ja": "あなたは神をののしってはならない。また民の司をのろってはならない。"
     },
     {
       "number": 29,
@@ -232,7 +232,7 @@
       "en": "\"Do not hold back offerings from your granaries or your vats.\"You must give me the firstborn of your sons.",
       "de": "22:28 Deiner Frucht Fülle und Saft sollst du nicht zurückhalten. Deinen ersten Sohn sollst du mir geben.",
       "zh": "「你要从你庄稼中的谷和酒榨中滴出来的酒拿来献上，不可迟延。 「你要将头生的儿子归给我。",
-      "ja": "汝の豊滿なる物と汝の搾りたる物とを献ぐることを怠るなかれ汝の長子を我に與ふべし"
+      "ja": "あなたの豊かな穀物と、あふれる酒とをささげるに、ためらってはならない。あなたのういごを、わたしにささげなければならない。"
     },
     {
       "number": 30,
@@ -240,7 +240,7 @@
       "en": "Do the same with your cattle and your sheep. Let them stay with their mothers for seven days, but give them to me on the eighth day.",
       "de": "22:29 So sollst du auch tun mit deinem Ochsen und Schafe. Sieben Tage laß es bei seiner Mutter sein, am achten Tag sollst du mir's geben.",
       "zh": "你牛羊头生的，也要这样；七天当跟着母，第八天要归给我。",
-      "ja": "汝また汝の牛と羊をも斯なすべし即ち七日母とともにをらしめて八日にこれを我に與ふべし"
+      "ja": "あなたはまた、あなたの牛と羊をも同様にしなければならない。七日の間その母と共に置いて、八日目にそれをわたしに、ささげなければならない。"
     },
     {
       "number": 31,
@@ -248,7 +248,7 @@
       "en": "\"You are to be my holy people. So do not eat the meat of an animal torn by wild beasts; throw it to the dogs.",
       "de": "22:30 Ihr sollt heilige Leute vor mir sein; darum sollt ihr kein Fleisch essen, das auf dem Felde von Tieren zerrissen ist, sondern es vor die Hunde werfen.",
       "zh": "「你们要在我面前为圣洁的人。因此，田间被野兽撕裂牲畜的肉，你们不可吃，要丢给狗吃。」",
-      "ja": "汝等は我の聖民となるべし汝らは野にて獣に裂れし者の肉を食ふべからず汝らこれを犬に投與ふべし"
+      "ja": "あなたがたは、わたしに対して聖なる民とならなければならない。あなたがたは、野で裂き殺されたものの肉を食べてはならない。それは犬に投げ与えなければならない。"
     }
   ]
 }
