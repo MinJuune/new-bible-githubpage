@@ -186,6 +186,7 @@ function renderHome() {
           <span>다국어 성경</span>
           <h1>다국어<br>성경</h1>
         </div>
+        <img class="home-illustration" src="./assets/home-illustration.png" alt="" loading="eager">
         <div class="home-actions">
           <button class="cover-button" type="button" data-route="#/books/OT">구약</button>
           <button class="cover-button" type="button" data-route="#/books/NT">신약</button>

@@ -98,50 +98,27 @@ button:disabled {
   min-height: calc(100vh - 36px);
   margin: 0 auto;
   flex-direction: column;
-  justify-content: space-between;
+  justify-content: flex-start;
   overflow: hidden;
   padding: clamp(28px, 8vw, 52px) clamp(20px, 8vw, 42px) 28px;
   border: 1px solid rgba(10, 20, 32, 0.07);
   border-radius: 8px;
   background:
-    radial-gradient(circle at calc(100% - 76px) 76px, var(--ink) 0 6px, transparent 7px),
-    radial-gradient(circle at calc(100% - 48px) 76px, rgba(23, 23, 23, 0.17) 0 6px, transparent 7px),
-    radial-gradient(circle at calc(100% - 20px) 76px, rgba(23, 23, 23, 0.17) 0 6px, transparent 7px),
     linear-gradient(180deg, rgba(255, 254, 250, 0.76), rgba(255, 254, 250, 0.24)),
     var(--paper);
   box-shadow: var(--shadow);
 }
 
 .cover::before {
-  position: absolute;
-  left: clamp(44px, 15vw, 66px);
-  bottom: 176px;
-  width: min(68%, 278px);
-  height: min(26vw, 116px);
-  border: 4px solid var(--ink);
-  border-top: 0;
-  border-radius: 0 0 42px 42px;
-  opacity: 0.92;
-  content: "";
-  transform: rotate(-2deg);
+  content: none;
 }
 
 .cover::after {
-  position: absolute;
-  left: clamp(98px, 28vw, 132px);
-  bottom: 208px;
-  width: min(44%, 190px);
-  height: 4px;
-  border-radius: 999px;
-  background: var(--ink);
-  box-shadow: 0 24px 0 var(--ink);
-  opacity: 0.9;
-  content: "";
-  transform: rotate(-2deg);
+  content: none;
 }
 
 .cover-top {
-  display: flex;
+  display: none;
   min-height: 56px;
   align-items: center;
   justify-content: space-between;
@@ -170,7 +147,7 @@ button:disabled {
 .cover-title {
   position: relative;
   z-index: 1;
-  margin: 118px 0 auto;
+  margin: clamp(78px, 15vh, 126px) 0 0;
   color: var(--ink);
   text-align: left;
 }
@@ -201,6 +178,16 @@ button:disabled {
   content: ".";
 }
 
+.home-illustration {
+  position: relative;
+  z-index: 1;
+  display: block;
+  width: min(100%, 318px);
+  max-height: 176px;
+  margin: clamp(44px, 8vh, 76px) auto clamp(24px, 5vh, 42px);
+  object-fit: contain;
+}
+
 .home-actions {
   position: relative;
   z-index: 1;
@@ -208,7 +195,7 @@ button:disabled {
   width: min(100%, 292px);
   align-self: center;
   gap: 10px;
-  margin-top: 250px;
+  margin-top: 0;
 }
 
 .cover-button,
@@ -604,10 +591,6 @@ button:disabled {
   .cover {
     padding-right: 18px;
     padding-left: 18px;
-  }
-
-  .home-actions {
-    margin-top: 224px;
   }
 
   .chapter-grid {
